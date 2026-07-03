@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "reve (show) reveal, revel, revelation",
+        "origin": "Latin, velare (to cover, to veil)",
+        "meaning": {
+            "ko": "덮다",
+            "en": "to cover",
+            "ja": "覆う",
+            "zh": "覆盖",
+            "fr": "couvrir"
+        }
+    },
+    "words": [
+        {
+            "word": "reveal",
+            "part_of_speech": "",
+            "origin": "Latin, revelare (to unveil)",
+            "meaning": {
+                "ko": "베일을 벗기다",
+                "en": "to unveil",
+                "ja": "明かす、暴露する",
+                "zh": "揭露、披露",
+                "fr": "dévoiler, révéler"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤로, 반대로'",
+                        "en": "back, away",
+                        "ja": "後ろへ、逆に",
+                        "zh": "向后、相反",
+                        "fr": "arrière, loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "veal (velum)",
+                    "meaning": {
+                        "ko": "'베일, 덮개'",
+                        "en": "veil",
+                        "ja": "ベール、覆い",
+                        "zh": "面纱、覆盖物",
+                        "fr": "voile, couverture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'덮개를 뒤로 젖히다'는 의미에서 비밀 등을 '드러내다', '폭로하다'라는 뜻이 되었습니다.",
+                "en": "The veil being pulled back reveals secrets, leading to meanings of disclose and expose.",
+                "ja": "覆いを後ろに引く意味から、秘密などを明かす、暴露するという意味になりました。",
+                "zh": "从面纱被拉回的含义引申，表示揭示秘密、暴露等意思。",
+                "fr": "Du sens de repousser le voile, le mot a pris le sens de divulguer et d'exposer des secrets."
+            },
+            "example": "The investigation revealed the truth.",
+            "translation": {
+                "ko": "그 조사는 진실을 드러냈다.",
+                "ja": "その調査は真実を明かした。",
+                "zh": "那项调查揭露了真相。",
+                "fr": "L'enquête a révélé la vérité."
+            }
+        },
+        {
+            "word": "revel",
+            "part_of_speech": "",
+            "origin": "Latin, rebellare (to rebel)",
+            "meaning": {
+                "ko": "반란을 일으키다",
+                "en": "to rebel",
+                "ja": "反乱を起こす",
+                "zh": "反叛",
+                "fr": "se révolter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시, 대항하여'",
+                        "en": "again, against",
+                        "ja": "再び、対抗して",
+                        "zh": "再次、对抗",
+                        "fr": "à nouveau, contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bel (bellum)",
+                    "meaning": {
+                        "ko": "'전쟁'",
+                        "en": "war",
+                        "ja": "戦争",
+                        "zh": "战争",
+                        "fr": "guerre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 '전쟁을 다시 일으키다'는 의미에서, '소란스럽게 즐기다', '흥청망청 마시고 놀다'는 뜻으로 발전했습니다.",
+                "en": "Originally meant 'to wage war again', later developed to mean 'to revel noisily', 'to drink and play excessively'",
+                "ja": "元々は『戦争を再び起こす』という意味で、後に『騒々しく楽しむ』『酒を飲んで遊び回る』という意味に発展した",
+                "zh": "最初意为'再次发动战争'，后来演变为'喧闹地享乐'、'纵酒作乐'的意思",
+                "fr": "Signifiait à l'origine 'faire la guerre à nouveau', puis a évolué vers 'faire la fête bruyamment' ou 'faire la noce'"
+            },
+            "example": "They spent the night reveling.",
+            "translation": {
+                "ko": "그들은 밤새 흥청망청 놀았다.",
+                "ja": "彼らは夜通し楽しく騒いだ",
+                "zh": "他们整夜尽情作乐",
+                "fr": "Ils ont fait la fête toute la nuit"
+            }
+        },
+        {
+            "word": "revelation",
+            "part_of_speech": "",
+            "origin": "Latin, revelatio (an uncovering)",
+            "meaning": {
+                "ko": "드러냄",
+                "en": "an uncovering",
+                "ja": "暴露、啓示",
+                "zh": "揭露、启示",
+                "fr": "révélation, divulgation"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤로, 반대로'",
+                        "en": "back, away",
+                        "ja": "後ろ、逆に",
+                        "zh": "向后、相反",
+                        "fr": "arrière, contraire"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vel- (velum)",
+                    "meaning": {
+                        "ko": "'베일, 덮개'",
+                        "en": "veil",
+                        "ja": "ベール、覆い",
+                        "zh": "面纱、覆盖物",
+                        "fr": "voile, couverture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숨겨진 것을 드러내는 행위'라는 의미에서 '폭로', '계시'를 뜻합니다.",
+                "en": "Means the act of uncovering hidden things; denotes exposure or divine disclosure",
+                "ja": "隠されたものを明かす行為を意味し、暴露や神聖な啓示を表します",
+                "zh": "指揭露隐藏事物的行为，表示曝光或神圣的启示",
+                "fr": "Signifie l'acte de révéler des choses cachées; désigne l'exposition ou la divulgation divine"
+            },
+            "example": "The book is a shocking revelation of the company's secrets.",
+            "translation": {
+                "ko": "그 책은 그 회사의 비밀에 대한 충격적인 폭로이다.",
+                "ja": "その本は企業の秘密の衝撃的な暴露です",
+                "zh": "这本书是对公司秘密的令人震惊的揭露",
+                "fr": "Le livre est une révélation choquante des secrets de l'entreprise"
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "oculo (eye) binocular, monocle, ocular, oculist",
+        "origin": "Latin, oculus (an eye)",
+        "meaning": {
+            "ko": "눈",
+            "en": "eye",
+            "ja": "目",
+            "zh": "眼睛",
+            "fr": "œil"
+        }
+    },
+    "words": [
+        {
+            "word": "binocular",
+            "part_of_speech": "",
+            "origin": "Latin, bini (two together) + oculus (eye)",
+            "meaning": {
+                "ko": "두 눈을 함께",
+                "en": "both eyes together",
+                "ja": "両眼の、双眼の",
+                "zh": "双眼的、两眼的",
+                "fr": "binoculaire, des deux yeux"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bin- (bi-)",
+                    "meaning": {
+                        "ko": "'두 개의'",
+                        "en": "two",
+                        "ja": "二つの",
+                        "zh": "两个的",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ocular",
+                    "meaning": {
+                        "ko": "'눈의'",
+                        "en": "of the eye",
+                        "ja": "眼の、目の",
+                        "zh": "眼睛的",
+                        "fr": "de l'oeil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 눈으로 보는'이라는 의미에서 '쌍안경' 또는 '두 눈을 사용하는'이라는 뜻을 가집니다.",
+                "en": "From Latin 'bi-' (two) + 'oculus' (eye). Describes instruments or vision using both eyes together, such as binoculars.",
+                "ja": "ラテン語の'bi-'（二つの）と'oculus'（眼）から。両眼で一緒に見ることを表し、双眼鏡などに使われます。",
+                "zh": "源自拉丁语'bi-'（两个）和'oculus'（眼睛）。表示用两只眼睛一起观看，如双眼望远镜。",
+                "fr": "Du latin 'bi-' (deux) + 'oculus' (oeil). Décrit les instruments ou la vision utilisant les deux yeux ensemble, comme les jumelles."
+            },
+            "example": "He watched the birds through his binoculars.",
+            "translation": {
+                "ko": "그는 쌍안경으로 새들을 관찰했다.",
+                "ja": "彼は双眼鏡を通して鳥を観察していました。",
+                "zh": "他通过双眼望远镜观察鸟类。",
+                "fr": "Il observait les oiseaux à travers ses jumelles."
+            }
+        },
+        {
+            "word": "monocle",
+            "part_of_speech": "",
+            "origin": "Greek, monos (single) + Latin, oculus (eye)",
+            "meaning": {
+                "ko": "하나의 눈",
+                "en": "one eye",
+                "ja": "片眼鏡",
+                "zh": "单眼镜",
+                "fr": "monocle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mon-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ocle",
+                    "meaning": {
+                        "ko": "'눈'",
+                        "en": "eye",
+                        "ja": "目",
+                        "zh": "眼睛",
+                        "fr": "oeil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한쪽 눈에만 끼는 안경'인 '단안경'을 뜻합니다.",
+                "en": "A monocle is a single lens worn over one eye only",
+                "ja": "片方の目だけに装着するレンズを指します",
+                "zh": "指仅戴在一只眼睛上的镜片",
+                "fr": "Désigne une lentille portée sur un seul oeil"
+            },
+            "example": "The villain in the movie wore a monocle.",
+            "translation": {
+                "ko": "그 영화의 악당은 단안경을 썼다.",
+                "ja": "映画の悪役は単眼鏡をかけていました",
+                "zh": "电影中的反派角色戴着单眼镜",
+                "fr": "Le méchant du film portait un monocle"
+            }
+        },
+        {
+            "word": "ocular",
+            "part_of_speech": "",
+            "origin": "Latin, ocularis (of the eyes)",
+            "meaning": {
+                "ko": "눈의",
+                "en": "of the eye",
+                "ja": "目の、眼の",
+                "zh": "眼睛的、视觉的",
+                "fr": "oculaire, de l'oeil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ocul-",
+                    "meaning": {
+                        "ko": "'눈'",
+                        "en": "eye",
+                        "ja": "目、眼",
+                        "zh": "眼睛",
+                        "fr": "oeil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'눈의', '시각의'라는 뜻입니다.",
+                "en": "Relating to the eye or vision",
+                "ja": "目または視覚に関連する意味です",
+                "zh": "与眼睛或视觉有关的意思",
+                "fr": "Signifie relatif à l'oeil ou à la vision"
+            },
+            "example": "He suffered a serious ocular injury.",
+            "translation": {
+                "ko": "그는 심각한 눈 부상을 입었다.",
+                "ja": "彼は深刻な眼の損傷を負った。",
+                "zh": "他遭受了严重的眼睛损伤。",
+                "fr": "Il a subi une grave blessure oculaire."
+            }
+        },
+        {
+            "word": "oculist",
+            "part_of_speech": "",
+            "origin": "Latin, oculus (eye)",
+            "meaning": {
+                "ko": "눈",
+                "en": "eye",
+                "ja": "眼科医",
+                "zh": "眼科医生",
+                "fr": "oculiste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ocul-",
+                    "meaning": {
+                        "ko": "'눈'",
+                        "en": "eye",
+                        "ja": "目",
+                        "zh": "眼睛",
+                        "fr": "œil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'눈을 전문적으로 다루는 사람'인 '안과 의사'를 뜻하는 옛말입니다.",
+                "en": "An archaic term for an ophthalmologist who specializes in treating eyes.",
+                "ja": "目を専門的に扱う医者を意味する古い言葉です",
+                "zh": "专门治疗眼睛的医生的旧称",
+                "fr": "Terme archaïque pour un médecin spécialisé dans les yeux"
+            },
+            "example": "The oculist prescribed new glasses for him.",
+            "translation": {
+                "ko": "안과 의사는 그에게 새 안경을 처방했다.",
+                "ja": "眼科医は彼に新しい眼鏡を処方した。",
+                "zh": "眼科医生为他配了新眼镜。",
+                "fr": "L'oculiste lui a prescrit de nouvelles lunettes."
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "liga (to bind) ligament, ligate, ligature",
+        "origin": "Latin, ligare (to bind)",
+        "meaning": {
+            "ko": "묶다",
+            "en": "to bind",
+            "ja": "縛る",
+            "zh": "捆绑",
+            "fr": "lier"
+        }
+    },
+    "words": [
+        {
+            "word": "ligament",
+            "part_of_speech": "",
+            "origin": "Latin, ligamentum (a band, tie)",
+            "meaning": {
+                "ko": "끈, 밴드",
+                "en": "cord or band",
+                "ja": "靱帯、結合組織",
+                "zh": "韧带、结缔组织",
+                "fr": "ligament, tissu conjonctif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liga-",
+                    "meaning": {
+                        "ko": "'묶다'",
+                        "en": "to bind",
+                        "ja": "結ぶ、縛る",
+                        "zh": "绑定、结合",
+                        "fr": "lier, attacher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뼈와 뼈를 묶어주는' 끈이라는 의미에서 '인대'를 뜻합니다.",
+                "en": "Ligament refers to a fibrous tissue that binds bones together",
+                "ja": "骨と骨を結びつける繊維状の組織を意味します",
+                "zh": "指连接骨骼的纤维组织",
+                "fr": "Désigne le tissu fibreux qui relie les os ensemble"
+            },
+            "example": "He tore a ligament in his knee.",
+            "translation": {
+                "ko": "그는 무릎 인대가 찢어졌다.",
+                "ja": "彼は膝の靱帯を断裂した。",
+                "zh": "他撕裂了膝盖韧带。",
+                "fr": "Il s'est déchiré un ligament au genou."
+            }
+        },
+        {
+            "word": "ligate",
+            "part_of_speech": "",
+            "origin": "Latin, ligare (to bind)",
+            "meaning": {
+                "ko": "묶다",
+                "en": "to tie or bind",
+                "ja": "結ぶ、縛る",
+                "zh": "结扎、捆绑",
+                "fr": "lier, attacher"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lig-",
+                    "meaning": {
+                        "ko": "'묶다'",
+                        "en": "to bind",
+                        "ja": "結ぶ、縛る",
+                        "zh": "结扎、捆绑",
+                        "fr": "lier, attacher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'수술 중에 혈관 등을 묶다'는 의미입니다.",
+                "en": "Means to bind blood vessels etc. during surgery",
+                "ja": "手術中に血管などを結ぶという意味です",
+                "zh": "手术中结扎血管等的意思",
+                "fr": "Signifie lier les vaisseaux sanguins etc. pendant la chirurgie"
+            },
+            "example": "The surgeon had to ligate the artery to stop the bleeding.",
+            "translation": {
+                "ko": "외과 의사는 출혈을 멈추기 위해 동맥을 묶어야 했다.",
+                "ja": "外科医は出血を止めるために動脈を結ぶ必要がありました。",
+                "zh": "外科医生必须结扎动脉以停止出血。",
+                "fr": "Le chirurgien a dû lier l'artère pour arrêter le saignement."
+            }
+        },
+        {
+            "word": "ligature",
+            "part_of_speech": "",
+            "origin": "Latin, ligatura (a binding)",
+            "meaning": {
+                "ko": "묶는 것",
+                "en": "something that binds or ties",
+                "ja": "結ぶこと",
+                "zh": "绑扎",
+                "fr": "ligature"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liga-",
+                    "meaning": {
+                        "ko": "'묶다'",
+                        "en": "to bind",
+                        "ja": "結ぶ",
+                        "zh": "绑",
+                        "fr": "lier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'묶는 데 사용하는 끈' 또는 '묶는 행위'를 뜻하며, 인쇄에서는 '두 개 이상의 글자를 합친 활자'를 의미합니다.",
+                "en": "A string or cord used for binding, or the act of binding. In printing, refers to a single type combining two or more letters.",
+                "ja": "結ぶために使う紐、または結ぶ行為を意味します。印刷では2つ以上の文字を合わせた活字を指します。",
+                "zh": "指用于绑扎的绳子或绑扎的行为。在印刷中指将两个或多个字母组合成一个活字。",
+                "fr": "Une corde ou un lien utilisé pour attacher, ou l'acte de lier. En typographie, désigne un type combinant deux ou plusieurs caractères."
+            },
+            "example": "A ligature is used to tie off a blood vessel during surgery.",
+            "translation": {
+                "ko": "결찰사는 수술 중 혈관을 묶는 데 사용된다.",
+                "ja": "外科手術中に血管を結ぶために使用される結紮具である。",
+                "zh": "结扎是在手术中用来扎住血管的工具。",
+                "fr": "Une ligature est utilisée pour ligaturer un vaisseau sanguin pendant une chirurgie."
+            }
+        }
+    ]
+}

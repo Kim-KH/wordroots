@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "ac (pertaining to) hypochondriac, maniac",
+        "origin": "Greek, -akos (pertaining to)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "pertaining to",
+            "ja": "…に関する",
+            "zh": "…有关的",
+            "fr": "…concernant"
+        }
+    },
+    "words": [
+        {
+            "word": "hypochondriac",
+            "part_of_speech": "",
+            "origin": "Greek, hypokhondriakos (affected in the upper abdomen)",
+            "meaning": {
+                "ko": "상복부에 이상이 있는",
+                "en": "having abnormality in upper abdomen",
+                "ja": "健康不安症",
+                "zh": "健康焦虑症",
+                "fr": "hypocondriaque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hypochondria",
+                    "meaning": {
+                        "ko": "'건강 염려증'",
+                        "en": "health anxiety condition",
+                        "ja": "健康不安症",
+                        "zh": "健康焦虑症",
+                        "fr": "anxiété sanitaire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ac",
+                    "meaning": {
+                        "ko": "'~에 관한 사람'",
+                        "en": "person concerned with",
+                        "ja": "~に関する人",
+                        "zh": "~有关的人",
+                        "fr": "personne concernée par"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스에서 '갈비뼈 아래(hypokhondrion)'에 우울함과 질병의 원인이 있다고 믿었던 데서 유래하여, '건강 염려증 환자'를 뜻합니다.",
+                "en": "In ancient Greece, it was believed that melancholy and illness originated below the ribs (hypokhondrion), thus referring to a 'health-anxious patient'.",
+                "ja": "古代ギリシャでは、肋骨の下(hypokhondrion)に憂鬱と病気の原因があると信じられており、『健康不安症患者』を意味します。",
+                "zh": "在古代希腊，人们相信肋骨下方(hypokhondrion)是忧郁症和疾病的来源，因此指『健康焦虑症患者』。",
+                "fr": "En Grèce antique, on croyait que la mélancolie et la maladie provenaient de sous les côtes (hypokhondrion), d'où le terme 'patient anxieux pour sa santé'."
+            },
+            "example": "A hypochondriac is constantly worried about their health.",
+            "translation": {
+                "ko": "건강 염려증 환자는 끊임없이 자신의 건강에 대해 걱정한다.",
+                "ja": "健康不安症患者は常に自分の健康について心配しています。",
+                "zh": "健康焦虑症患者总是担心自己的健康。",
+                "fr": "Un hypocondriaque s'inquiète constamment pour sa santé."
+            }
+        },
+        {
+            "word": "maniac",
+            "part_of_speech": "",
+            "origin": "Greek, manikos (mad, frantic)",
+            "meaning": {
+                "ko": "미친, 광적인",
+                "en": "mad, fanatical",
+                "ja": "狂人、熱狂者",
+                "zh": "疯子、狂热者",
+                "fr": "fou, maniaque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mania",
+                    "meaning": {
+                        "ko": "'광기'",
+                        "en": "madness",
+                        "ja": "狂気",
+                        "zh": "疯狂",
+                        "fr": "folie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ac",
+                    "meaning": {
+                        "ko": "'~에 관한 사람'",
+                        "en": "person concerned with",
+                        "ja": "~に関する人",
+                        "zh": "~相关的人",
+                        "fr": "personne concernant ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'광기에 사로잡힌 사람'이라는 의미에서 '광인' 또는 '~광'을 뜻합니다.",
+                "en": "Means a person possessed by madness or '~maniac'",
+                "ja": "狂気に取り憑かれた人を意味し、'狂人'または'~狂'を表します",
+                "zh": "表示被疯狂所占据的人，意思是'疯子'或'~狂'",
+                "fr": "Signifie une personne possédée par la folie, ou 'maniaque de ~'"
+            },
+            "example": "He drives like a maniac.",
+            "translation": {
+                "ko": "그는 미친 사람처럼 운전한다.",
+                "ja": "彼は狂ったように運転する。",
+                "zh": "他开车像个疯子。",
+                "fr": "Il conduit comme un maniaque."
+            }
+        }
+    ]
+}

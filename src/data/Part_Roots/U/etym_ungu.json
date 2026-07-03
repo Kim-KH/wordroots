@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "ungu (hoof) ungula, ungulate, unguis",
+        "origin": "Latin, ungula (a hoof, a claw)",
+        "meaning": {
+            "ko": "발굽",
+            "en": "a hoof",
+            "ja": "蹄",
+            "zh": "蹄",
+            "fr": "sabot"
+        }
+    },
+    "words": [
+        {
+            "word": "ungula",
+            "part_of_speech": "",
+            "origin": "Latin, ungula (a hoof)",
+            "meaning": {
+                "ko": "발굽",
+                "en": "hoof or claw",
+                "ja": "蹄",
+                "zh": "蹄",
+                "fr": "sabot"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ungu-",
+                    "meaning": {
+                        "ko": "'발굽'",
+                        "en": "hoof",
+                        "ja": "蹄",
+                        "zh": "蹄",
+                        "fr": "sabot"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발굽' 또는 '발톱'을 뜻하는 생물학 용어입니다.",
+                "en": "A biological term meaning hoof or claw",
+                "ja": "蹄または爪を意味する生物学用語です",
+                "zh": "表示蹄或爪的生物学术语",
+                "fr": "Terme biologique signifiant sabot ou griffe"
+            },
+            "example": "The ungula is a characteristic feature of ungulates.",
+            "translation": {
+                "ko": "발굽은 유제류의 특징적인 부분이다.",
+                "ja": "ungula は有蹄動物の特徴的な機能です",
+                "zh": "ungula 是有蹄动物的典型特征",
+                "fr": "L'ungula est une caractéristique distinctive des ongulés"
+            }
+        },
+        {
+            "word": "ungulate",
+            "part_of_speech": "",
+            "origin": "Latin, ungulatus (having hoofs)",
+            "meaning": {
+                "ko": "발굽이 있는",
+                "en": "having hooves",
+                "ja": "蹄のある動物",
+                "zh": "有蹄动物",
+                "fr": "animal à sabots"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ungu-",
+                    "meaning": {
+                        "ko": "'발굽'",
+                        "en": "hoof",
+                        "ja": "蹄",
+                        "zh": "蹄",
+                        "fr": "sabot"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발굽이 있는 동물'인 '유제류'를 뜻합니다.",
+                "en": "Refers to 'artiodactyls' or 'even-toed ungulates', animals with hooves.",
+                "ja": "蹄を持つ動物である『偶蹄類』を指します。",
+                "zh": "指具有蹄的动物『偶蹄类』。",
+                "fr": "Se réfère aux 'artiodactyles', animaux dotés de sabots."
+            },
+            "example": "Horses, cattle, and deer are all ungulates.",
+            "translation": {
+                "ko": "말, 소, 사슴은 모두 유제류이다.",
+                "ja": "馬、牛、鹿などはすべて蹄のある動物です。",
+                "zh": "马、牛和鹿都是有蹄动物。",
+                "fr": "Les chevaux, le bétail et les cerfs sont tous des ongulés."
+            }
+        },
+        {
+            "word": "unguis",
+            "part_of_speech": "",
+            "origin": "Latin, unguis (a fingernail, a claw)",
+            "meaning": {
+                "ko": "손톱, 발톱",
+                "en": "fingernail or toenail",
+                "ja": "爪",
+                "zh": "指甲或脚趾甲",
+                "fr": "ongle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ungu-",
+                    "meaning": {
+                        "ko": "'손톱'",
+                        "en": "fingernail",
+                        "ja": "爪",
+                        "zh": "指甲",
+                        "fr": "ongle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손톱' 또는 '발톱'을 뜻하는 해부학 용어입니다.",
+                "en": "An anatomical term meaning fingernail or toenail",
+                "ja": "指の爪または足の爪を意味する解剖学用語です",
+                "zh": "表示手指或脚趾甲的解剖学术语",
+                "fr": "Terme anatomique désignant l'ongle du doigt ou de l'orteil"
+            },
+            "example": "The unguis is the hard plate at the end of a finger or toe.",
+            "translation": {
+                "ko": "손발톱은 손가락이나 발가락 끝에 있는 단단한 판이다.",
+                "ja": "unguis（爪）は指または足の先端にある硬い板です",
+                "zh": "unguis是位于手指或脚趾末端的坚硬板状物",
+                "fr": "L'unguis est la plaque dure à l'extrémité d'un doigt ou d'un orteil"
+            }
+        }
+    ]
+}

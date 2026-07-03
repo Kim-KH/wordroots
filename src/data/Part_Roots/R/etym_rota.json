@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "rota (wheel) rotary, rotor, rotate, rotisserie",
+        "origin": "Latin, rota (a wheel)",
+        "meaning": {
+            "ko": "바퀴",
+            "en": "wheel",
+            "ja": "車輪",
+            "zh": "轮子",
+            "fr": "roue"
+        }
+    },
+    "words": [
+        {
+            "word": "rotary",
+            "part_of_speech": "",
+            "origin": "Latin, rota (wheel)",
+            "meaning": {
+                "ko": "바퀴",
+                "en": "wheel",
+                "ja": "回転する",
+                "zh": "旋转的",
+                "fr": "rotatif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rota-",
+                    "meaning": {
+                        "ko": "'바퀴, 회전'",
+                        "en": "wheel",
+                        "ja": "車輪",
+                        "zh": "轮子",
+                        "fr": "roue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바퀴처럼 회전하는'이라는 뜻입니다.",
+                "en": "Means rotating like a wheel",
+                "ja": "車輪のように回転する意味です",
+                "zh": "表示像轮子一样旋转",
+                "fr": "Signifie tourner comme une roue"
+            },
+            "example": "The machine has a rotary blade.",
+            "translation": {
+                "ko": "그 기계에는 회전 칼날이 있다.",
+                "ja": "このマシンは回転刃を持っています。",
+                "zh": "这台机器有一个旋转刀片。",
+                "fr": "La machine a une lame rotative."
+            }
+        },
+        {
+            "word": "rotor",
+            "part_of_speech": "",
+            "origin": "Latin, rota (wheel)",
+            "meaning": {
+                "ko": "바퀴",
+                "en": "wheel",
+                "ja": "回転する部分",
+                "zh": "旋转部件",
+                "fr": "partie rotative"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rot-",
+                    "meaning": {
+                        "ko": "'회전'",
+                        "en": "rotate",
+                        "ja": "回転する",
+                        "zh": "旋转",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'회전하는 부분'이라는 의미에서 헬리콥터 등의 '회전날개'를 뜻합니다.",
+                "en": "Refers to rotating blades such as those on helicopters, meaning 'rotating parts'",
+                "ja": "ヘリコプターなどの回転翼を指し、回転する部分という意味です",
+                "zh": "指直升机等的旋转叶片，意为旋转的部分",
+                "fr": "Désigne les pales rotatives des hélicoptères, signifiant partie qui tourne"
+            },
+            "example": "The helicopter's rotor blades began to turn.",
+            "translation": {
+                "ko": "헬리콥터의 회전날개가 돌기 시작했다.",
+                "ja": "ロータ",
+                "zh": "旋翼",
+                "fr": "rotor"
+            }
+        },
+        {
+            "word": "rotate",
+            "part_of_speech": "",
+            "origin": "Latin, rotare (to turn in a circle)",
+            "meaning": {
+                "ko": "원을 그리며 돌다",
+                "en": "to move in a circle",
+                "ja": "円を描いて回る",
+                "zh": "绕圆周转动",
+                "fr": "tourner en cercle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rota-",
+                    "meaning": {
+                        "ko": "'바퀴'",
+                        "en": "wheel",
+                        "ja": "車輪",
+                        "zh": "轮子",
+                        "fr": "roue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'축을 중심으로 바퀴처럼 돌다'는 의미에서 '회전하다'라는 뜻입니다.",
+                "en": "Means to rotate like a wheel around an axis",
+                "ja": "軸を中心に車輪のように回るという意味で回転するという意味です",
+                "zh": "以轴为中心像轮子一样转动的意思",
+                "fr": "Signifie tourner comme une roue autour d'un axe"
+            },
+            "example": "The Earth rotates on its axis.",
+            "translation": {
+                "ko": "지구는 자전축을 중심으로 회전한다.",
+                "ja": "地球はその軸上で回転します。",
+                "zh": "地球绕其轴线旋转。",
+                "fr": "La Terre tourne sur son axe."
+            }
+        },
+        {
+            "word": "rotisserie",
+            "part_of_speech": "",
+            "origin": "French, rôtisserie (a shop where roasted meats are sold)",
+            "meaning": {
+                "ko": "고기를 굽는 가게",
+                "en": "shop that roasts meat",
+                "ja": "回転させて焼く調理器具",
+                "zh": "旋转烤肉",
+                "fr": "rôtissoire à broche"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rot- (rôtir 'to roast')",
+                    "meaning": {
+                        "ko": "'굽다'",
+                        "en": "to roast",
+                        "ja": "焼く",
+                        "zh": "烘烤",
+                        "fr": "rôtir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'고기를 꼬챙이에 꿰어 돌리면서(rotate) 굽는' 기구 또는 그렇게 요리한 음식을 뜻합니다.",
+                "en": "A cooking device or food where meat is skewered on a spit and roasted while rotating (rotate)",
+                "ja": "肉を串に刺して回転させながら焼く調理器具またはその料理を指します",
+                "zh": "肉串在烤签上旋转烘烤的烹饪器具或食物",
+                "fr": "Un appareil de cuisson ou un plat où la viande est embrochée et rôtie en tournant"
+            },
+            "example": "We bought a rotisserie chicken for dinner.",
+            "translation": {
+                "ko": "우리는 저녁 식사로 통닭구이를 샀다.",
+                "ja": "我々は夕食のためにロティサリーチキンを買いました",
+                "zh": "我们买了一只旋转烤鸡作晚餐",
+                "fr": "Nous avons acheté un poulet rôti à la broche pour le dîner"
+            }
+        }
+    ]
+}

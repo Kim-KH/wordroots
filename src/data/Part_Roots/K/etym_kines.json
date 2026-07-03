@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "kines(a) (movement) cytokinesis, kinesthetic, kinesiology, telekinesis",
+        "origin": "Greek, kinesis (movement)",
+        "meaning": {
+            "ko": "움직임",
+            "en": "movement",
+            "ja": "動き",
+            "zh": "运动",
+            "fr": "mouvement"
+        }
+    },
+    "words": [
+        {
+            "word": "cytokinesis",
+            "part_of_speech": "",
+            "origin": "Greek, kytos (hollow, cell) + kinesis (movement)",
+            "meaning": {
+                "ko": "세포 움직임",
+                "en": "cell movement",
+                "ja": "細胞質分裂",
+                "zh": "细胞质分裂",
+                "fr": "cytokinèse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyto-",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "kinesis",
+                    "meaning": {
+                        "ko": "'분열, 움직임'",
+                        "en": "division, movement",
+                        "ja": "分裂、運動",
+                        "zh": "分裂、运动",
+                        "fr": "division, mouvement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포질이 분열하는 과정'인 '세포질 분열'을 뜻합니다.",
+                "en": "Cytokinesis refers to the process of cytoplasm dividing, known as cytoplasmic division.",
+                "ja": "細胞質が分裂するプロセスである「細胞質分裂」を意味します。",
+                "zh": "指细胞质分裂的过程，称为「细胞质分裂」。",
+                "fr": "Fait référence au processus de division du cytoplasme, appelé division cytoplasmique."
+            },
+            "example": "Cytokinesis usually occurs after mitosis.",
+            "translation": {
+                "ko": "세포질 분열은 보통 유사 분열 후에 일어난다.",
+                "ja": "通常、細胞質分裂は有糸分裂後に起こります。",
+                "zh": "细胞质分裂通常在有丝分裂后发生。",
+                "fr": "La cytokinèse se produit généralement après la mitose."
+            }
+        },
+        {
+            "word": "kinesthetic",
+            "part_of_speech": "",
+            "origin": "Greek, kinein (to move) + aisthesis (feeling)",
+            "meaning": {
+                "ko": "움직임을 느낌",
+                "en": "feeling of movement",
+                "ja": "動きを感じる感覚的",
+                "zh": "动作感觉的",
+                "fr": "relatif au sens du mouvement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "kine-",
+                    "meaning": {
+                        "ko": "'움직임'",
+                        "en": "movement",
+                        "ja": "動き",
+                        "zh": "动作",
+                        "fr": "mouvement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sthetic",
+                    "meaning": {
+                        "ko": "'감각'",
+                        "en": "feeling",
+                        "ja": "感覚",
+                        "zh": "感觉",
+                        "fr": "sensation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직임에 대한 감각'과 관련된 것으로 '운동 감각의'라는 뜻입니다.",
+                "en": "Relates to the sense of movement and body position, meaning 'of motor sensation'",
+                "ja": "動きと身体位置の感覚に関連し、運動感覚的という意味です",
+                "zh": "与动作和身体位置的感觉相关，表示运动感觉的",
+                "fr": "Concerne la perception du mouvement et de la position du corps, signifiant 'de la sensibilité motrice'"
+            },
+            "example": "Kinesthetic learners learn best by doing and moving.",
+            "translation": {
+                "ko": "운동 감각적 학습자는 직접 하고 움직임으로써 가장 잘 배운다.",
+                "ja": "動感覚学習者は、実行と動きによって最も良く学びます",
+                "zh": "动感学习者通过做和移动来学习效果最好",
+                "fr": "Les apprenants kinesthésiques apprennent mieux en faisant et en bougeant"
+            }
+        },
+        {
+            "word": "kinesiology",
+            "part_of_speech": "",
+            "origin": "Greek, kinesis (movement) + logos (study)",
+            "meaning": {
+                "ko": "움직임 연구",
+                "en": "study of movement",
+                "ja": "運動学",
+                "zh": "运动学",
+                "fr": "kinésiologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "kinesi-",
+                    "meaning": {
+                        "ko": "'움직임'",
+                        "en": "movement",
+                        "ja": "動き",
+                        "zh": "运动",
+                        "fr": "mouvement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ology",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인체의 움직임을 연구하는 학문'인 '운동학'을 뜻합니다.",
+                "en": "The study of human body movement",
+                "ja": "人体の動きを研究する学問",
+                "zh": "研究人体运动的学科",
+                "fr": "L'étude du mouvement du corps humain"
+            },
+            "example": "He is studying kinesiology to become a physical therapist.",
+            "translation": {
+                "ko": "그는 물리치료사가 되기 위해 운동학을 공부하고 있다.",
+                "ja": "彼は理学療法士になるために運動学を勉強しています。",
+                "zh": "他正在学习运动学以成为物理治疗师。",
+                "fr": "Il étudie la kinésiologie pour devenir physiothérapeute."
+            }
+        },
+        {
+            "word": "telekinesis",
+            "part_of_speech": "",
+            "origin": "Greek, tele- (far off) + kinesis (movement)",
+            "meaning": {
+                "ko": "멀리서 움직임",
+                "en": "moving from a distance",
+                "ja": "遠距離での物体移動",
+                "zh": "远距离物体移动",
+                "fr": "mouvement à distance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tele-",
+                    "meaning": {
+                        "ko": "'멀리'",
+                        "en": "far off",
+                        "ja": "遠く",
+                        "zh": "远处",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "kinesis",
+                    "meaning": {
+                        "ko": "'움직임'",
+                        "en": "movement",
+                        "ja": "動き",
+                        "zh": "移动",
+                        "fr": "mouvement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신력만으로 멀리 있는 물체를 움직이는' 능력인 '염력'을 뜻합니다.",
+                "en": "Telekinesis is a common theme in science fiction.",
+                "ja": "精神力だけで遠くにある物体を動かす能力を意味する念力です。",
+                "zh": "指仅用精神力移动远处物体的能力，即念力。",
+                "fr": "Désigne la capacité à déplacer des objets à distance par la seule force mentale, appelée psychokinésie."
+            },
+            "example": "Telekinesis is a common theme in science fiction.",
+            "translation": {
+                "ko": "염력은 공상 과학 소설의 흔한 주제이다.",
+                "ja": "テレキネシス",
+                "zh": "心灵遥控",
+                "fr": "télékinésie"
+            }
+        }
+    ]
+}

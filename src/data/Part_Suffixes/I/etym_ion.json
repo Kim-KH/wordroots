@@ -1,0 +1,187 @@
+{
+    "root_info": {
+        "roots": "ion (process of) extinction, fusion, reversion",
+        "origin": "Latin, -io (act, condition)",
+        "meaning": {
+            "ko": "…의 과정",
+            "en": "process of",
+            "ja": "…の過程",
+            "zh": "…的过程",
+            "fr": "processus de …"
+        }
+    },
+    "words": [
+        {
+            "word": "extinction",
+            "part_of_speech": "",
+            "origin": "Latin, exstinctio (an extinguishing)",
+            "meaning": {
+                "ko": "끄기",
+                "en": "turning off or extinguishing",
+                "ja": "絶滅",
+                "zh": "灭绝",
+                "fr": "extinction"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로, 완전히'",
+                        "en": "out",
+                        "ja": "外へ、完全に",
+                        "zh": "向外、完全地",
+                        "fr": "dehors, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stinct- (stinguere)",
+                    "meaning": {
+                        "ko": "'끄다'",
+                        "en": "to quench",
+                        "ja": "消す、鎮める",
+                        "zh": "熄灭、扑灭",
+                        "fr": "éteindre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "'과정'",
+                        "en": "process or state",
+                        "ja": "過程",
+                        "zh": "过程",
+                        "fr": "processus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'불을 완전히 꺼버리는' 과정이라는 의미에서 '멸종'을 뜻합니다.",
+                "en": "The process of completely extinguishing fire, meaning extinction.",
+                "ja": "火を完全に消してしまう過程という意味で、絶滅を意味します。",
+                "zh": "从完全熄灭火焰的过程这个意义引申出灭绝的含义。",
+                "fr": "Signifie l'extinction au sens du processus d'éteindre complètement un feu."
+            },
+            "example": "The extinction of the dinosaurs is a great mystery.",
+            "translation": {
+                "ko": "공룡의 멸종은 큰 미스터리이다.",
+                "ja": "恐竜の絶滅は大きな謎です。",
+                "zh": "恐龙的灭绝是个巨大的谜团。",
+                "fr": "L'extinction des dinosaures est un grand mystère."
+            }
+        },
+        {
+            "word": "fusion",
+            "part_of_speech": "",
+            "origin": "Latin, fusio (a pouring out, a melting)",
+            "meaning": {
+                "ko": "쏟아부음, 녹임",
+                "en": "pouring out, melting",
+                "ja": "融合、結合",
+                "zh": "融合、结合",
+                "fr": "fusion, combinaison"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fus- (fundere)",
+                    "meaning": {
+                        "ko": "'녹이다, 합치다'",
+                        "en": "to melt, combine",
+                        "ja": "溶かす、合わせる",
+                        "zh": "融化、结合",
+                        "fr": "fondre, combiner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "'과정'",
+                        "en": "process",
+                        "ja": "過程",
+                        "zh": "过程",
+                        "fr": "processus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'녹여서 하나로 합치는 과정'인 '융합', '결합'을 뜻합니다.",
+                "en": "The process of melting and combining into one, meaning fusion or combination",
+                "ja": "溶かして一つに合わせる過程を意味します",
+                "zh": "融化并结合成一体的过程",
+                "fr": "Le processus de fusion et de combinaison en un seul"
+            },
+            "example": "Nuclear fusion is the process that powers the sun.",
+            "translation": {
+                "ko": "핵융합은 태양에 동력을 공급하는 과정이다.",
+                "ja": "核融合は太陽に力を与えるプロセスです",
+                "zh": "核融合是为太阳提供动力的过程",
+                "fr": "La fusion nucléaire est le processus qui alimente le soleil"
+            }
+        },
+        {
+            "word": "reversion",
+            "part_of_speech": "",
+            "origin": "Latin, reversio (a turning back)",
+            "meaning": {
+                "ko": "되돌아감",
+                "en": "returning to previous state",
+                "ja": "元の状態への復帰",
+                "zh": "回到原始状态",
+                "fr": "retour à l'état antérieur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤로'",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers- (vertere)",
+                    "meaning": {
+                        "ko": "'돌다'",
+                        "en": "to turn",
+                        "ja": "回転する",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "'과정'",
+                        "en": "process",
+                        "ja": "過程",
+                        "zh": "过程",
+                        "fr": "processus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래의 상태로 되돌아가는' 과정인 '복귀', '회귀'를 뜻합니다.",
+                "en": "The process of returning to an original or previous state; reversion or regression",
+                "ja": "元の状態に戻っていくプロセス。復帰や回帰を意味します",
+                "zh": "回到原始或前一个状态的过程；复归或回归",
+                "fr": "Le processus de retour à un état initial ou antérieur; reversion ou régression"
+            },
+            "example": "There was a reversion to old traditions.",
+            "translation": {
+                "ko": "옛 전통으로의 회귀가 있었다.",
+                "ja": "古い伝統への復帰がありました",
+                "zh": "出现了对旧传统的回归",
+                "fr": "Il y a eu un retour aux anciennes traditions"
+            }
+        }
+    ]
+}

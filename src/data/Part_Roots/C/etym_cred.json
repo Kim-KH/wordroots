@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "cred (to believe) credible, credit, credence, incredulous",
+        "origin": "Latin, credere (to believe, trust)",
+        "meaning": {
+            "ko": "믿다",
+            "en": "to believe",
+            "ja": "信じる",
+            "zh": "相信",
+            "fr": "croire"
+        }
+    },
+    "words": [
+        {
+            "word": "credible",
+            "part_of_speech": "",
+            "origin": "Latin, credibilis (believable)",
+            "meaning": {
+                "ko": "믿을 수 있는",
+                "en": "able to be believed",
+                "ja": "信じられる",
+                "zh": "可信的",
+                "fr": "crédible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cred (credere)",
+                    "meaning": {
+                        "ko": "'믿다'",
+                        "en": "to believe",
+                        "ja": "信じる",
+                        "zh": "相信",
+                        "fr": "croire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "able to be",
+                        "ja": "できる",
+                        "zh": "能够",
+                        "fr": "pouvoir être"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'믿을(cred) 수 있는(ible)'이라는 의미로 '신뢰할 수 있는'이라는 뜻입니다.",
+                "en": "The morpheme 'cred' means to believe, and 'ible' means able to be, together meaning trustworthy or believable.",
+                "ja": "'cred'は信じるという意味で、'ible'は~できるという意味で、合わせて信頼できるという意味です。",
+                "zh": "'cred'表示相信的意思，'ible'表示能够的意思，合在一起表示可信任的。",
+                "fr": "Le morphème 'cred' signifie croire, et 'ible' signifie capable d'être, ensemble cela signifie digne de confiance."
+            },
+            "example": "The police have a credible witness to the crime.",
+            "translation": {
+                "ko": "경찰은 그 범죄에 대한 신뢰할 만한 목격자를 확보했다.",
+                "ja": "警察はその犯罪の信じられる目撃者を持っています。",
+                "zh": "警察有一个可信的犯罪目击者。",
+                "fr": "La police a un témoin crédible du crime."
+            }
+        },
+        {
+            "word": "credit",
+            "part_of_speech": "",
+            "origin": "Latin, creditum (a loan, something entrusted to another)",
+            "meaning": {
+                "ko": "믿고 맡긴 것",
+                "en": "something entrusted on trust",
+                "ja": "信用、信頼",
+                "zh": "信用、信任",
+                "fr": "crédit, confiance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cred (credere)",
+                    "meaning": {
+                        "ko": "'믿다'",
+                        "en": "to believe",
+                        "ja": "信じる",
+                        "zh": "相信",
+                        "fr": "croire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'믿음' 그 자체에서 유래하여, 상대를 믿고 돈을 빌려주는 '신용 거래', 학교의 '학점', 어떤 일에 대한 '공로' 등 다양한 의미로 발전했습니다.",
+                "en": "Derived from 'belief' itself, it has evolved to have various meanings including 'credit transaction' where money is lent based on trust in the other party, 'academic credits' at schools, and 'merit' for certain accomplishments.",
+                "ja": "'信じる'という概念から派生し、相手を信じてお金を貸す'信用取引'、学校の'単位'、何らかの業績に対する'功績'など、様々な意味に発展しました。",
+                "zh": "源于'相信'这一概念本身，发展出多种含义，包括基于对他人信任而借款的'信用交易'、学校的'学分'以及对某项成就的'功绩'等。",
+                "fr": "Dérivé de la notion de 'croyance' elle-même, il s'est développé pour signifier 'transaction à crédit' où l'argent est prêté en se fiant à autrui, les 'crédits' universitaires, et le 'mérite' pour certains accomplissements."
+            },
+            "example": "I bought the TV on credit.",
+            "translation": {
+                "ko": "나는 그 TV를 신용카드로 샀다.",
+                "ja": "私はテレビをクレジットで買った。",
+                "zh": "我用信用卡买了电视。",
+                "fr": "J'ai acheté le téléviseur à crédit."
+            }
+        },
+        {
+            "word": "credence",
+            "part_of_speech": "",
+            "origin": "Latin, credentia (belief)",
+            "meaning": {
+                "ko": "믿음",
+                "en": "belief or trust",
+                "ja": "信頼性、信用",
+                "zh": "可信度、信任",
+                "fr": "crédibilité, confiance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cred (credere)",
+                    "meaning": {
+                        "ko": "'믿다'",
+                        "en": "to believe",
+                        "ja": "信じる",
+                        "zh": "相信",
+                        "fr": "croire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ence",
+                    "meaning": {
+                        "ko": "'상태, 성질'",
+                        "en": "state or quality",
+                        "ja": "状態、性質",
+                        "zh": "状态、性质",
+                        "fr": "état, qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'믿는(cred) 상태'를 의미하며, 어떤 이야기나 진술에 대한 '신빙성', '믿음'을 뜻합니다.",
+                "en": "Indicates the state of believing, meaning the trustworthiness or credibility of a story or statement.",
+                "ja": "信じる状態を意味し、ある話や述べられたことに対する信頼性や信用を指します。",
+                "zh": "表示相信的状态，指某个故事或陈述的可信度和信任感。",
+                "fr": "Indique l'état de croyance, signifiant la crédibilité ou la fiabilité d'une histoire ou d'une déclaration."
+            },
+            "example": "The new evidence gives credence to his theory.",
+            "translation": {
+                "ko": "새로운 증거는 그의 이론에 신빙성을 더해준다.",
+                "ja": "新しい証拠は彼の理論に信頼性を与える。",
+                "zh": "新证据增加了对他理论的可信度。",
+                "fr": "La nouvelle preuve donne de la crédibilité à sa théorie."
+            }
+        },
+        {
+            "word": "incredulous",
+            "part_of_speech": "",
+            "origin": "Latin, incredulus (unbelieving)",
+            "meaning": {
+                "ko": "믿지 않는",
+                "en": "not believing or trusting",
+                "ja": "信じない",
+                "zh": "怀疑的",
+                "fr": "incrédule"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'아닌'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "不",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cred (credere)",
+                    "meaning": {
+                        "ko": "'믿다'",
+                        "en": "to believe",
+                        "ja": "信じる",
+                        "zh": "相信",
+                        "fr": "croire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ulous",
+                    "meaning": {
+                        "ko": "'~의 경향이 있는'",
+                        "en": "having a tendency to",
+                        "ja": "傾向がある",
+                        "zh": "有倾向",
+                        "fr": "avoir tendance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'믿지(cred) 못하는(in-)' 태도를 보인다는 의미로, '쉽사리 믿지 않는', '의심하는 듯한'이라는 뜻입니다.",
+                "en": "Shows an attitude of not easily believing; skeptical or doubtful in manner",
+                "ja": "容易に信じない態度を示す；疑わしいような様子",
+                "zh": "表现出不轻易相信的态度；怀疑或质疑的样子",
+                "fr": "Montre une attitude de ne pas croire facilement; air skeptique ou dubitatif"
+            },
+            "example": "She gave him an incredulous look when he told her the story.",
+            "translation": {
+                "ko": "그가 그녀에게 그 이야기를 했을 때 그녀는 믿을 수 없다는 듯한 표정으로 그를 쳐다보았다.",
+                "ja": "彼女が話を聞いたとき、彼女は彼に疑わしい表情を向けた。",
+                "zh": "当他告诉她这个故事时，她给了他一个怀疑的眼神。",
+                "fr": "Elle lui jeta un regard incrédule quand il lui raconta l'histoire."
+            }
+        }
+    ]
+}

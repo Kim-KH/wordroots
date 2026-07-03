@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "dent, dont (tooth) dentist, dentin, orthodontist",
+        "origin": "Latin, dens, dentis (tooth)",
+        "meaning": {
+            "ko": "이, 치아",
+            "en": "tooth",
+            "ja": "歯",
+            "zh": "牙齿",
+            "fr": "dent"
+        }
+    },
+    "words": [
+        {
+            "word": "dentist",
+            "part_of_speech": "",
+            "origin": "Latin, dens (tooth)",
+            "meaning": {
+                "ko": "이",
+                "en": "이",
+                "ja": "歯科医",
+                "zh": "牙医",
+                "fr": "dentiste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dent-",
+                    "meaning": {
+                        "ko": "'이'",
+                        "en": "this",
+                        "ja": "歯",
+                        "zh": "牙齿",
+                        "fr": "dent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'치아를 전문적으로 다루는 사람'이라는 의미에서 '치과 의사'를 뜻합니다.",
+                "en": "Refers to 'dentist' meaning a person who professionally handles teeth",
+                "ja": "歯を専門的に扱う人を意味する歯科医を表しています",
+                "zh": "表示专业处理牙齿的人，即牙医的意思",
+                "fr": "Désigne un professionnel qui traite les dents, un dentiste"
+            },
+            "example": "You should see a dentist twice a year.",
+            "translation": {
+                "ko": "당신은 일 년에 두 번 치과 의사에게 가야 한다.",
+                "ja": "あなたは年に2回は歯科医に診てもらうべきです",
+                "zh": "你应该一年看两次牙医",
+                "fr": "Vous devriez consulter un dentiste deux fois par an"
+            }
+        },
+        {
+            "word": "dentin",
+            "part_of_speech": "",
+            "origin": "Latin, dens (tooth)",
+            "meaning": {
+                "ko": "이",
+                "en": "this",
+                "ja": "象牙質",
+                "zh": "牙本质",
+                "fr": "dentine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dent-",
+                    "meaning": {
+                        "ko": "'이'",
+                        "en": "tooth",
+                        "ja": "歯",
+                        "zh": "牙齿",
+                        "fr": "dent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "치아의 대부분을 구성하는 '상아질'을 뜻합니다.",
+                "en": "Dentin is the hard tissue beneath the enamel of a tooth.",
+                "ja": "歯の大部分を構成する象牙質を意味します。",
+                "zh": "指构成牙齿大部分的牙本质。",
+                "fr": "Désigne l'ivoire dentaire qui constitue la majorité de la dent."
+            },
+            "example": "Dentin is the hard tissue beneath the enamel of a tooth.",
+            "translation": {
+                "ko": "상아질은 치아의 에나멜질 아래에 있는 단단한 조직이다.",
+                "ja": "象牙質",
+                "zh": "牙本质",
+                "fr": "dentine"
+            }
+        },
+        {
+            "word": "orthodontist",
+            "part_of_speech": "",
+            "origin": "Greek, orthos (straight) + odon, odontos (tooth)",
+            "meaning": {
+                "ko": "곧은 이",
+                "en": "straight teeth",
+                "ja": "歯列矯正専門医",
+                "zh": "正畸牙医",
+                "fr": "orthodontiste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ortho-",
+                    "meaning": {
+                        "ko": "'곧은, 바른'",
+                        "en": "straight, correct",
+                        "ja": "まっすぐ、正しい",
+                        "zh": "笔直、正确",
+                        "fr": "droit, correct"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dont-",
+                    "meaning": {
+                        "ko": "'이'",
+                        "en": "tooth",
+                        "ja": "歯",
+                        "zh": "牙齿",
+                        "fr": "dent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'치아를 바르게 교정하는 전문가'라는 의미에서 '치과 교정 전문의'를 뜻합니다.",
+                "en": "A dental specialist who corrects misaligned teeth and jaws",
+                "ja": "歯並びを正す歯科専門医",
+                "zh": "矫正不整齐牙齿的牙科专家",
+                "fr": "Spécialiste dentaire corrigeant l'alignement dentaire"
+            },
+            "example": "An orthodontist fits braces on teeth.",
+            "translation": {
+                "ko": "치과 교정 전문의는 치아에 교정기를 장착한다.",
+                "ja": "矯正歯科医",
+                "zh": "正畸医生",
+                "fr": "orthodontiste"
+            }
+        }
+    ]
+}

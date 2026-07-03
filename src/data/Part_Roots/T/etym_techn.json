@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "techn (skill) technical, technician, technique, technology",
+        "origin": "Greek, tekhne (art, skill)",
+        "meaning": {
+            "ko": "기술",
+            "en": "skill",
+            "ja": "技能",
+            "zh": "技能",
+            "fr": "compétence"
+        }
+    },
+    "words": [
+        {
+            "word": "technical",
+            "part_of_speech": "",
+            "origin": "Greek, tekhnikos (of art or skill)",
+            "meaning": {
+                "ko": "기술의",
+                "en": "of or relating to technique",
+                "ja": "技術的な",
+                "zh": "技术的",
+                "fr": "technique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "techn-",
+                    "meaning": {
+                        "ko": "'기술'",
+                        "en": "skill",
+                        "ja": "技術",
+                        "zh": "技能",
+                        "fr": "savoir-faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 분야의 전문적인 기술과 관련된'이라는 의미에서 '기술적인'이라는 뜻입니다.",
+                "en": "Meaning 'technical' in the sense of relating to specialized skills in a particular field",
+                "ja": "特定の分野における専門的な技術に関連する意味で用いられます",
+                "zh": "表示与特定领域的专业技术相关的含义",
+                "fr": "Se rapporte aux compétences spécialisées dans un domaine particulier"
+            },
+            "example": "This job requires technical skills.",
+            "translation": {
+                "ko": "이 직업은 전문 기술을 필요로 한다.",
+                "ja": "この仕事は技術的スキルが必要です",
+                "zh": "这份工作需要技术技能",
+                "fr": "Ce travail nécessite des compétences techniques"
+            }
+        },
+        {
+            "word": "technician",
+            "part_of_speech": "",
+            "origin": "Greek, tekhne (skill)",
+            "meaning": {
+                "ko": "기술",
+                "en": "technique or skill",
+                "ja": "技術者",
+                "zh": "技术人员",
+                "fr": "technicien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "techn-",
+                    "meaning": {
+                        "ko": "'기술'",
+                        "en": "skill",
+                        "ja": "技能",
+                        "zh": "技能",
+                        "fr": "compétence"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 분야의 기술을 가진 전문가'인 '기술자'를 뜻합니다.",
+                "en": "Refers to a specialist with expertise in a particular field",
+                "ja": "特定分野の技術を持つ専門家を意味します",
+                "zh": "指在特定领域具有技术专长的专家",
+                "fr": "Désigne un spécialiste ayant une expertise dans un domaine particulier"
+            },
+            "example": "A lab technician analyzed the samples.",
+            "translation": {
+                "ko": "실험실 기술자가 샘플을 분석했다.",
+                "ja": "ラボの技術者はサンプルを分析しました",
+                "zh": "实验室技术人员分析了样本",
+                "fr": "Un technicien de laboratoire a analysé les échantillons"
+            }
+        },
+        {
+            "word": "technique",
+            "part_of_speech": "",
+            "origin": "Greek, tekhnikos (skillful)",
+            "meaning": {
+                "ko": "숙련된",
+                "en": "skilled or experienced",
+                "ja": "熟練した方法",
+                "zh": "熟练的方法",
+                "fr": "méthode compétente"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "techn-",
+                    "meaning": {
+                        "ko": "'기술'",
+                        "en": "skill",
+                        "ja": "技術",
+                        "zh": "技能",
+                        "fr": "compétence"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 일을 하는 구체적인 방법이나 기술'을 뜻합니다.",
+                "en": "The specific method or skill for doing something.",
+                "ja": "何かを行う具体的な方法や技術を意味します。",
+                "zh": "指做某事的具体方法或技术。",
+                "fr": "Signifie la méthode ou compétence spécifique pour faire quelque chose."
+            },
+            "example": "She has an excellent painting technique.",
+            "translation": {
+                "ko": "그녀는 뛰어난 그림 기술을 가지고 있다.",
+                "ja": "彼女は優れた絵画技法を持っています。",
+                "zh": "她有出色的绘画技巧。",
+                "fr": "Elle possède une excellente technique de peinture."
+            }
+        },
+        {
+            "word": "technology",
+            "part_of_speech": "",
+            "origin": "Greek, tekhnologia (systematic treatment)",
+            "meaning": {
+                "ko": "체계적인 처리",
+                "en": "systematic processing",
+                "ja": "体系的な処理",
+                "zh": "系统性处理",
+                "fr": "traitement systématique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "techno-",
+                    "meaning": {
+                        "ko": "'기술'",
+                        "en": "skill",
+                        "ja": "技術",
+                        "zh": "技术",
+                        "fr": "technique"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study of",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과학적 지식을 실용적인 목적에 응용하는' '과학 기술'을 뜻합니다.",
+                "en": "Application of scientific knowledge for practical purposes; scientific technology",
+                "ja": "科学的知識を実用的な目的に応用すること。科学技術を意味します。",
+                "zh": "将科学知识应用于实际目的；科学技术的含义。",
+                "fr": "Application des connaissances scientifiques à des fins pratiques; technologie scientifique."
+            },
+            "example": "Technology has changed our lives in many ways.",
+            "translation": {
+                "ko": "기술은 여러 면에서 우리의 삶을 바꾸었다.",
+                "ja": "テクノロジーは多くの方法で私たちの生活を変えました。",
+                "zh": "技术在许多方面改变了我们的生活。",
+                "fr": "La technologie a changé nos vies de bien des façons."
+            }
+        }
+    ]
+}

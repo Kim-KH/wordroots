@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "lega, legit (bequeath, law) legacy, legal, legitimate, illegitimate",
+        "origin": "Latin, lex, legis (law)",
+        "meaning": {
+            "ko": "법",
+            "en": "law",
+            "ja": "法",
+            "zh": "法",
+            "fr": "loi"
+        }
+    },
+    "words": [
+        {
+            "word": "legacy",
+            "part_of_speech": "",
+            "origin": "Latin, legare (to bequeath)",
+            "meaning": {
+                "ko": "물려주다",
+                "en": "to hand down, to bequeath",
+                "ja": "遺産、遺志",
+                "zh": "遗产、遗志",
+                "fr": "héritage, legs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leg-",
+                    "meaning": {
+                        "ko": "'법으로 정하다, 물려주다'",
+                        "en": "to establish by law, to bequeath",
+                        "ja": "法律で定める、受け継ぐ",
+                        "zh": "按法律规定、传承",
+                        "fr": "établir par la loi, transmettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법에 따라 물려주는 것'이라는 의미에서 '유산'을 뜻합니다.",
+                "en": "Means inheritance or bequest passed down according to law",
+                "ja": "法律に従って受け継がれるものという意味で遺産を指します",
+                "zh": "指按照法律传承的东西，意为遗产",
+                "fr": "Signifie un patrimoine transmis conformément à la loi"
+            },
+            "example": "He left a legacy of peace and prosperity.",
+            "translation": {
+                "ko": "그는 평화와 번영의 유산을 남겼다.",
+                "ja": "彼は平和と繁栄の遺産を残しました。",
+                "zh": "他留下了和平与繁荣的遗产。",
+                "fr": "Il a laissé un héritage de paix et de prospérité."
+            }
+        },
+        {
+            "word": "legal",
+            "part_of_speech": "",
+            "origin": "Latin, legalis (relating to the law)",
+            "meaning": {
+                "ko": "법에 관한",
+                "en": "relating to law",
+                "ja": "法律に関する",
+                "zh": "与法律有关的",
+                "fr": "relatif à la loi"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leg-",
+                    "meaning": {
+                        "ko": "'법'",
+                        "en": "law",
+                        "ja": "法律",
+                        "zh": "法律",
+                        "fr": "loi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법과 관련된' 또는 '합법적인'이라는 뜻입니다.",
+                "en": "Means 'related to law' or 'lawful'",
+                "ja": "法律に関連または合法的という意味です",
+                "zh": "意思是与法律相关或合法的",
+                "fr": "Signifie relatif à la loi ou licite"
+            },
+            "example": "It is not legal to drive without a license.",
+            "translation": {
+                "ko": "면허 없이 운전하는 것은 불법이다.",
+                "ja": "免許なしで運転することは合法ではありません。",
+                "zh": "没有驾照开车是不合法的。",
+                "fr": "Il n'est pas légal de conduire sans permis."
+            }
+        },
+        {
+            "word": "legitimate",
+            "part_of_speech": "",
+            "origin": "Latin, legitimus (lawful)",
+            "meaning": {
+                "ko": "법에 따른",
+                "en": "according to law",
+                "ja": "法律に基づいた",
+                "zh": "符合法律的",
+                "fr": "conforme à la loi"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "legit-",
+                    "meaning": {
+                        "ko": "'법'",
+                        "en": "law",
+                        "ja": "法律",
+                        "zh": "法律",
+                        "fr": "loi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법에 맞는'이라는 의미에서 '합법적인', '정당한'이라는 뜻입니다.",
+                "en": "Meaning legally valid, lawful, justified based on conformity with law",
+                "ja": "法律に合致する意味から、合法的な、正当なという意味です",
+                "zh": "从符合法律的意义上讲，意思是合法的、正当的",
+                "fr": "Au sens de conformité à la loi, cela signifie légitime et justifié"
+            },
+            "example": "He has a legitimate claim to the property.",
+            "translation": {
+                "ko": "그는 그 재산에 대한 정당한 권리를 가지고 있다.",
+                "ja": "彼はその財産に対する正当な請求権を持っている",
+                "zh": "他对该财产有合法的所有权要求",
+                "fr": "Il a une prétention légitime à la propriété"
+            }
+        },
+        {
+            "word": "illegitimate",
+            "part_of_speech": "",
+            "origin": "Latin, illegitimus (unlawful)",
+            "meaning": {
+                "ko": "법에 따르지 않는",
+                "en": "not according to law",
+                "ja": "違法な、婚外子の",
+                "zh": "非法的、私生的",
+                "fr": "illégitime, illégal"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "il- (in-)",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "〜ではない",
+                        "zh": "不是、非",
+                        "fr": "non, pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "legitimate",
+                    "meaning": {
+                        "ko": "'합법적인'",
+                        "en": "lawful or legal",
+                        "ja": "合法的な",
+                        "zh": "合法的",
+                        "fr": "légitime"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법에 맞지 않는'이라는 의미에서 '불법의', '사생아의'라는 뜻입니다.",
+                "en": "Meaning 'not in accordance with law', it means 'illegal' or 'born out of wedlock'",
+                "ja": "法律に合致しないという意味で、不法な、あるいは婚外子という意味です。",
+                "zh": "表示'不符合法律'的含义，意为'非法的'或'私生子的'。",
+                "fr": "Signifiant 'contraire à la loi', il means 'illégal' ou 'né hors mariage'."
+            },
+            "example": "The government was declared illegitimate.",
+            "translation": {
+                "ko": "그 정부는 불법이라고 선언되었다.",
+                "ja": "その政府は違法と宣言された。",
+                "zh": "该政府被宣布为非法的。",
+                "fr": "Le gouvernement a été déclaré illégitime."
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "gangli (knot, tumor) ganglia, ganglion",
+        "origin": "Greek, ganglion (a knot, a tumor under the skin)",
+        "meaning": {
+            "ko": "매듭, 종양",
+            "en": "knot, tumor",
+            "ja": "結び目、腫瘍",
+            "zh": "结，肿瘤",
+            "fr": "nœud, tumeur"
+        }
+    },
+    "words": [
+        {
+            "word": "ganglia",
+            "part_of_speech": "",
+            "origin": "Greek, ganglion",
+            "meaning": {
+                "ko": "매듭",
+                "en": "knot",
+                "ja": "結び目、神経節",
+                "zh": "结节、神经节",
+                "fr": "nœud, ganglion"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gangli-",
+                    "meaning": {
+                        "ko": "'매듭, 신경절'",
+                        "en": "knot, nerve cluster",
+                        "ja": "結び目、神経節",
+                        "zh": "结节、神经节",
+                        "fr": "nœud, ganglion"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'ganglion'의 복수형입니다.",
+                "en": "Plural of 'ganglion'",
+                "ja": "'ganglion'の複数形です",
+                "zh": "'ganglion'的复数形式",
+                "fr": "Pluriel de 'ganglion'"
+            },
+            "example": "The basal ganglia are a group of structures found deep within the cerebral hemispheres.",
+            "translation": {
+                "ko": "기저핵은 대뇌 반구 깊은 곳에서 발견되는 구조물 그룹이다.",
+                "ja": "基底核は大脳半球の深部に見られる構造群です。",
+                "zh": "基底核是在大脑半球深处发现的一组结构。",
+                "fr": "Les ganglions de la base sont un groupe de structures situé au plus profond des hémisphères cérébraux."
+            }
+        },
+        {
+            "word": "ganglion",
+            "part_of_speech": "",
+            "origin": "Greek, ganglion",
+            "meaning": {
+                "ko": "매듭",
+                "en": "knot",
+                "ja": "神経節、結び目",
+                "zh": "神经节、结节",
+                "fr": "ganglion, nœud"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gangli-",
+                    "meaning": {
+                        "ko": "'매듭, 신경절'",
+                        "en": "knot, nerve ganglion",
+                        "ja": "神経節、結び目",
+                        "zh": "神经节、结节",
+                        "fr": "ganglion, nœud"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신경 세포가 매듭처럼 모여 있는' 구조라는 의미에서 '신경절'을 뜻합니다.",
+                "en": "A ganglion is a cluster of nerve cells.",
+                "ja": "神経細胞が結び目のように集まった構造という意味で神経節を示します。",
+                "zh": "神经细胞像结节一样聚集的结构，意思是神经节。",
+                "fr": "Les cellules nerveuses sont regroupées comme un nœud, ce qui signifie un ganglion."
+            },
+            "example": "A ganglion is a cluster of nerve cells.",
+            "translation": {
+                "ko": "신경절은 신경 세포의 집단이다.",
+                "ja": "神経節は神経細胞の集まりです。",
+                "zh": "神经节是神经细胞的集群。",
+                "fr": "Un ganglion est un regroupement de cellules nerveuses."
+            }
+        }
+    ]
+}

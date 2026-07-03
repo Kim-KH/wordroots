@@ -1,0 +1,267 @@
+{
+    "root_info": {
+        "roots": "in, im",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "아니다",
+            "en": "not",
+            "ja": "ない",
+            "zh": "不",
+            "fr": "ne pas"
+        }
+    },
+    "words": [
+        {
+            "word": "inviolate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "violate",
+                    "meaning": {
+                        "ko": "침해하다",
+                        "en": "to infringe or violate",
+                        "ja": "侵害する",
+                        "zh": "侵犯",
+                        "fr": "violer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'침해되지 않은'이라는 의미에서 '신성한', '불가침의'라는 뜻입니다.",
+                "en": "From the meaning 'not violated,' it means 'sacred' or 'inviolable.'",
+                "ja": "'侵害されない'という意味から、'神聖な'、'不可侵の'という意味です。",
+                "zh": "从'未被侵犯'的意思引申出'神圣的'、'不可侵犯的'之意。",
+                "fr": "Du sens de 'non violé', il signifie 'sacré' ou 'inviolable'."
+            },
+            "example": "The treaty is inviolate.",
+            "translation": {
+                "ko": "그 조약은 불가침이다.",
+                "ja": "その条約は不可侵である。",
+                "zh": "该条约是神圣不可侵犯的。",
+                "fr": "Le traité est inviolable."
+            }
+        },
+        {
+            "word": "innocuous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nocuous",
+                    "meaning": {
+                        "ko": "해로운",
+                        "en": "harmful",
+                        "ja": "有害な",
+                        "zh": "有害的",
+                        "fr": "nuisible"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'해롭지 않은'이라는 뜻입니다.",
+                "en": "Means not harmful or inoffensive",
+                "ja": "害のない、無害という意味です",
+                "zh": "意思是无害的、不冒犯的",
+                "fr": "Signifie inoffensif ou qui ne cause pas de tort"
+            },
+            "example": "It was an innocuous comment.",
+            "translation": {
+                "ko": "그것은 악의 없는 발언이었다.",
+                "ja": "それは無害なコメントでした。",
+                "zh": "那是一个无害的评论。",
+                "fr": "C'était un commentaire anodin."
+            }
+        },
+        {
+            "word": "intractable",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "non"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tractable",
+                    "meaning": {
+                        "ko": "다루기 쉬운",
+                        "en": "easy to handle",
+                        "ja": "扱いやすい",
+                        "zh": "易于处理",
+                        "fr": "traitable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다루기 쉽지 않은'이라는 의미에서 '아주 고집 센', '다루기 힘든'이라는 뜻입니다.",
+                "en": "Means 'difficult to manage' or 'very stubborn'; something not easily handled or controlled.",
+                "ja": "「扱いにくい」という意味から、「非常に頑固な」「管理しにくい」という意味です。",
+                "zh": "从\"难以处理\"的意思衍生出\"非常固执\"、\"难以控制\"的含义。",
+                "fr": "Signifie 'difficile à gérer' ou 'très têtu'; quelque chose qu'on ne peut pas facilement maîtriser."
+            },
+            "example": "He was an intractable child.",
+            "translation": {
+                "ko": "그는 아주 고집이 센 아이였다.",
+                "ja": "彼は非常に頑固な子どもだった。",
+                "zh": "他是一个非常固执的孩子。",
+                "fr": "C'était un enfant très têtu."
+            }
+        },
+        {
+            "word": "innocent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "不",
+                        "fr": "non"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nocent",
+                    "meaning": {
+                        "ko": "해로운, 유죄의",
+                        "en": "harmful, guilty",
+                        "ja": "有害な、有罪の",
+                        "zh": "有害的、有罪的",
+                        "fr": "nuisible, coupable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'해롭지 않은', '죄가 없는'이라는 의미에서 '결백한', '순진한'이라는 뜻입니다.",
+                "en": "From Latin innocens meaning 'not harmful' or 'not guilty', conveying the sense of 'blameless' or 'naive'",
+                "ja": "ラテン語の innocens から派生し、'害のない'または'罪のない'という意味で、'潔白な'または'純真な'という意味を表します",
+                "zh": "源自拉丁语 innocens，意为'无害的'或'无罪的'，表达'清白的'或'天真的'含义",
+                "fr": "Du latin innocens signifiant 'non nuisible' ou 'non coupable', exprimant le sens de 'innocent' ou 'naïf'"
+            },
+            "example": "He was proven innocent.",
+            "translation": {
+                "ko": "그는 무죄로 증명되었다.",
+                "ja": "潔白な、無罪の、純真な",
+                "zh": "无罪的、清白的、天真的",
+                "fr": "innocent, sans culpabilité, naïf"
+            }
+        },
+        {
+            "word": "impregnable",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pregnable",
+                    "meaning": {
+                        "ko": "점령할 수 있는",
+                        "en": "able to be captured",
+                        "ja": "占領可能",
+                        "zh": "可以占领",
+                        "fr": "pouvant être pris"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'점령할 수 없는'이라는 의미에서, 요새 등이 '난공불락의'라는 뜻입니다.",
+                "en": "From the sense 'cannot be taken,' describing a fortress or stronghold as 'unconquerable.'",
+                "ja": "「占領できない」という意味から、要塞などが「難攻不落の」という意味を持ちます。",
+                "zh": "从\"无法被占领\"的意思出发，用来形容堡垒等\"坚不可摧的\"。",
+                "fr": "Du sens 'ne peut être pris', décrivant une forteresse comme 'inexpugnable'."
+            },
+            "example": "The castle was impregnable.",
+            "translation": {
+                "ko": "그 성은 난공불락이었다.",
+                "ja": "その城は難攻不落だった。",
+                "zh": "这座城堡是坚不可摧的。",
+                "fr": "Le château était imprenable."
+            }
+        },
+        {
+            "word": "impossible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négatif"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "possible",
+                    "meaning": {
+                        "ko": "가능한",
+                        "en": "able to be done",
+                        "ja": "可能な",
+                        "zh": "可能的",
+                        "fr": "possible"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가능하지 않은' 즉, '불가능한'이라는 뜻입니다.",
+                "en": "Not possible; unable to be done or achieved.",
+                "ja": "可能ではないこと、つまり不可能という意味です。",
+                "zh": "不可能，即无法完成或实现的意思。",
+                "fr": "Qui n'est pas possible ; qui ne peut pas être fait ou réalisé."
+            },
+            "example": "Nothing is impossible.",
+            "translation": {
+                "ko": "불가능은 없다.",
+                "ja": "不可能なことはない。",
+                "zh": "没有不可能的事。",
+                "fr": "Rien n'est impossible."
+            }
+        }
+    ]
+}

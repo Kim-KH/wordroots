@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "vivi (alive) revive, revivify, vivacious, vivid",
+        "origin": "Latin, vivere (to live)",
+        "meaning": {
+            "ko": "살다",
+            "en": "to live",
+            "ja": "生きる",
+            "zh": "生活",
+            "fr": "vivre"
+        }
+    },
+    "words": [
+        {
+            "word": "revive",
+            "part_of_speech": "",
+            "origin": "Latin, revivere (to live again)",
+            "meaning": {
+                "ko": "다시 살다",
+                "en": "to live again",
+                "ja": "再び生き返らせる",
+                "zh": "使复活",
+                "fr": "faire revivre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vive",
+                    "meaning": {
+                        "ko": "'살다'",
+                        "en": "to live",
+                        "ja": "生きる",
+                        "zh": "活着",
+                        "fr": "vivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 살아나게 하다'는 의미에서 '소생시키다', '활기를 되찾게 하다'라는 뜻입니다.",
+                "en": "Means to bring back to life, restore vitality, or make someone/something alive again",
+                "ja": "死にかけているものを生き返らせる、活力を取り戻させるという意味です",
+                "zh": "指使濒临死亡的东西恢复生命、恢复活力的含义",
+                "fr": "Signifie ramener à la vie, restaurer la vitalité ou redonner vie"
+            },
+            "example": "They tried to revive the dying plant.",
+            "translation": {
+                "ko": "그들은 죽어가는 식물을 되살리려고 노력했다.",
+                "ja": "彼らは死にかけた植物を生き返らせようとした",
+                "zh": "他们试图使垂死的植物复活",
+                "fr": "Ils ont tenté de faire revivre la plante mourante"
+            }
+        },
+        {
+            "word": "revivify",
+            "part_of_speech": "",
+            "origin": "Latin, re- (again) + vivus (alive) + facere (to make)",
+            "meaning": {
+                "ko": "다시 살아있게 만들다",
+                "en": "to make alive again",
+                "ja": "再び生き返らせる",
+                "zh": "使重新活跃",
+                "fr": "raviver"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "viv-",
+                    "meaning": {
+                        "ko": "'살아있는'",
+                        "en": "alive",
+                        "ja": "生きている",
+                        "zh": "活着的",
+                        "fr": "vivant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "使成为",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 생기를 불어넣다'는 뜻입니다.",
+                "en": "To breathe new life into something",
+                "ja": "何かに新しい活力を吹き込むこと",
+                "zh": "给某物注入新的活力",
+                "fr": "insuffler une nouvelle vie"
+            },
+            "example": "The rain revivified the dry fields.",
+            "translation": {
+                "ko": "비는 메마른 들판에 다시 생기를 불어넣었다.",
+                "ja": "雨は乾いた畑に生気を取り戻させた。",
+                "zh": "雨水使干旱的田地重新生机勃勃。",
+                "fr": "La pluie a ravivé les champs desséchés."
+            }
+        },
+        {
+            "word": "vivacious",
+            "part_of_speech": "",
+            "origin": "Latin, vivax (lively)",
+            "meaning": {
+                "ko": "활기찬",
+                "en": "lively and animated",
+                "ja": "活気のある",
+                "zh": "充满活力的",
+                "fr": "vivace"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "viv-",
+                    "meaning": {
+                        "ko": "'살다'",
+                        "en": "to live",
+                        "ja": "生きる",
+                        "zh": "活着",
+                        "fr": "vivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생기가 넘치는'이라는 의미에서 '활발한', '쾌활한'이라는 뜻입니다.",
+                "en": "Means 'lively' or 'cheerful' from the sense of being full of vitality",
+                "ja": "活力に満ちているという意味から、『生き生きした』『陽気な』という意味です",
+                "zh": "从充满生命力的意思引申为『活泼的』『开朗的』之意",
+                "fr": "Signifie 'animé' ou 'joyeux' du sens d'être plein de vitalité"
+            },
+            "example": "She has a vivacious personality.",
+            "translation": {
+                "ko": "그녀는 쾌활한 성격을 가지고 있다.",
+                "ja": "彼女は活気のある性格をしている。",
+                "zh": "她性格充满活力。",
+                "fr": "Elle a une personnalité vivace."
+            }
+        },
+        {
+            "word": "vivid",
+            "part_of_speech": "",
+            "origin": "Latin, vividus (full of life, lively)",
+            "meaning": {
+                "ko": "생기로 가득 찬",
+                "en": "full of vitality",
+                "ja": "生き生きとした",
+                "zh": "生动的",
+                "fr": "vivant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "viv-",
+                    "meaning": {
+                        "ko": "'살아있는'",
+                        "en": "alive",
+                        "ja": "生きている",
+                        "zh": "活着的",
+                        "fr": "vivant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'살아있는 것처럼 생생한'이라는 뜻입니다.",
+                "en": "Meaning vivid as if alive",
+                "ja": "生きているかのように生き生きしているという意味",
+                "zh": "像活着一样生动的意思",
+                "fr": "Signifiant vivant comme s'il était en vie"
+            },
+            "example": "He gave a vivid description of the event.",
+            "translation": {
+                "ko": "그는 그 사건에 대해 생생한 묘사를 했다.",
+                "ja": "彼はその出来事を生き生きと説明した。",
+                "zh": "他生动地描述了这个事件。",
+                "fr": "Il a donné une description vivante de l'événement."
+            }
+        }
+    ]
+}

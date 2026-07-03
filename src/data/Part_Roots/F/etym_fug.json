@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "fug(e) (drive out, flee) centrifuge, fugitive, fugue, refugee",
+        "origin": "Latin, fugere (to flee)",
+        "meaning": {
+            "ko": "달아나다",
+            "en": "to flee",
+            "ja": "逃げる",
+            "zh": "逃跑",
+            "fr": "s'enfuir"
+        }
+    },
+    "words": [
+        {
+            "word": "centrifuge",
+            "part_of_speech": "",
+            "origin": "Latin, centrum (center) + fugere (to flee)",
+            "meaning": {
+                "ko": "중심에서 달아나다",
+                "en": "to fly away from center",
+                "ja": "中心から逃げる",
+                "zh": "从中心逃离",
+                "fr": "fuir du centre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "centri-",
+                    "meaning": {
+                        "ko": "'중심'",
+                        "en": "center",
+                        "ja": "中心",
+                        "zh": "中心",
+                        "fr": "centre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fuge",
+                    "meaning": {
+                        "ko": "'달아나다'",
+                        "en": "to flee",
+                        "ja": "逃げる",
+                        "zh": "逃离",
+                        "fr": "fuir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원심력을 이용하여 물질을 중심에서 바깥으로 분리하는 기계'라는 의미에서 '원심 분리기'를 뜻합니다.",
+                "en": "A machine that uses centrifugal force to separate substances from the center outward, meaning 'centrifugal separator'.",
+                "ja": "遠心力を利用して物質を中心から外側に分離する機械で、遠心分離機を意味します。",
+                "zh": "利用离心力将物质从中心向外分离的机器，意思是离心分离机。",
+                "fr": "Machine qui utilise la force centrifuge pour séparer les substances du centre vers l'extérieur, ce qui signifie séparateur centrifuge."
+            },
+            "example": "A centrifuge is used to separate blood components.",
+            "translation": {
+                "ko": "원심 분리기는 혈액 성분을 분리하는 데 사용된다.",
+                "ja": "遠心分離機は血液成分を分離するために使用されます。",
+                "zh": "离心机用于分离血液成分。",
+                "fr": "Une centrifugeuse est utilisée pour séparer les composants du sang."
+            }
+        },
+        {
+            "word": "fugitive",
+            "part_of_speech": "",
+            "origin": "Latin, fugitivus (fleeing)",
+            "meaning": {
+                "ko": "달아나는",
+                "en": "running away",
+                "ja": "逃げる人",
+                "zh": "逃亡者",
+                "fr": "fugitif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fug-",
+                    "meaning": {
+                        "ko": "'달아나다'",
+                        "en": "to flee",
+                        "ja": "逃げる",
+                        "zh": "逃离",
+                        "fr": "s'enfuir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법망을 피해 달아나는 사람'이라는 의미에서 '도망자', '탈주자'를 뜻합니다.",
+                "en": "Refers to a person fleeing from the law; a runaway or deserter",
+                "ja": "法から逃げる人という意味で、逃亡者、脱走者を指します",
+                "zh": "指逃避法律的人；逃犯、逃兵的意思",
+                "fr": "Désigne une personne fuyant la loi; un fuyard, un déserteur"
+            },
+            "example": "The police are searching for the fugitive.",
+            "translation": {
+                "ko": "경찰은 그 도망자를 찾고 있다.",
+                "ja": "警察はその逃亡者を探索しています。",
+                "zh": "警察正在搜查那个逃犯。",
+                "fr": "La police recherche le fugitif."
+            }
+        },
+        {
+            "word": "fugue",
+            "part_of_speech": "",
+            "origin": "Latin, fuga (flight)",
+            "meaning": {
+                "ko": "도망",
+                "en": "escape or flight",
+                "ja": "逃亡、フーガ",
+                "zh": "逃亡、赋格",
+                "fr": "fuite, fugue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fug-",
+                    "meaning": {
+                        "ko": "'달아나다'",
+                        "en": "to flee",
+                        "ja": "逃げる",
+                        "zh": "逃离",
+                        "fr": "s'enfuir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "음악에서 '한 성부의 주제가 다른 성부에게 쫓기듯 연주되는 형식'이라는 의미에서 '푸가'를 뜻합니다.",
+                "en": "In music, it refers to a compositional form where a theme from one voice is chased by another voice in succession.",
+                "ja": "音楽において、ある声部の主題が別の声部に追われるように演奏される形式を意味します。",
+                "zh": "在音乐中，指一个声部的主题被另一个声部追赶式地演奏的形式。",
+                "fr": "En musique, cela désigne une forme compositionnelle où un thème d'une voix est poursuivi par une autre voix successivement."
+            },
+            "example": "Bach was a master of the fugue.",
+            "translation": {
+                "ko": "바흐는 푸가의 대가였다.",
+                "ja": "バッハはフーガの大家でした。",
+                "zh": "巴赫是赋格的大师。",
+                "fr": "Bach était un maître de la fugue."
+            }
+        },
+        {
+            "word": "refugee",
+            "part_of_speech": "",
+            "origin": "French, réfugié",
+            "meaning": {
+                "ko": "피난처를 찾은 사람",
+                "en": "person who sought refuge",
+                "ja": "避難所を求めた人",
+                "zh": "寻求避难所的人",
+                "fr": "personne cherchant refuge"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "refuge (re- 'back' + fugere 'to flee')",
+                    "meaning": {
+                        "ko": "'뒤로 달아날 곳'",
+                        "en": "place to flee back to",
+                        "ja": "逃げ場所",
+                        "zh": "逃生地点",
+                        "fr": "lieu de fuite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전쟁이나 박해를 피해 안전한 곳으로 달아난 사람'이라는 의미에서 '난민', '망명자'를 뜻합니다.",
+                "en": "Person who has fled to a safe place to escape war or persecution; means 'refugee' or 'exile'",
+                "ja": "戦争や迫害を逃れて安全な場所に逃げた人を意味し、難民や亡命者を指します",
+                "zh": "逃离战争或迫害而前往安全地点的人，指难民或流亡者",
+                "fr": "Personne ayant fui vers un lieu sûr pour échapper à la guerre ou à la persécution; signifie réfugié ou exilé"
+            },
+            "example": "Many refugees have fled the war-torn country.",
+            "translation": {
+                "ko": "많은 난민들이 전쟁으로 폐허가 된 나라를 탈출했다.",
+                "ja": "多くの難民が戦争で荒廃した国から逃げました",
+                "zh": "许多难民逃离了战争蹂躏的国家",
+                "fr": "De nombreux réfugiés ont fui le pays dévasté par la guerre"
+            }
+        }
+    ]
+}

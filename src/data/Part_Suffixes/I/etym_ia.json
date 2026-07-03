@@ -1,0 +1,248 @@
+{
+    "root_info": {
+        "roots": "ia (condition) anorexia, bulimia, hypochondria, hysteria",
+        "origin": "Greek, -ia (a state, a condition)",
+        "meaning": {
+            "ko": "상태, 질병",
+            "en": "condition",
+            "ja": "状態、病気",
+            "zh": "状态、疾病",
+            "fr": "condition, maladie"
+        }
+    },
+    "words": [
+        {
+            "word": "anorexia",
+            "part_of_speech": "",
+            "origin": "Greek, an- (not) + orexis (appetite)",
+            "meaning": {
+                "ko": "식욕 없음",
+                "en": "absence of appetite",
+                "ja": "食欲がない状態",
+                "zh": "没有食欲",
+                "fr": "absence d'appétit"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "an-",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "without",
+                        "ja": "~がない",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "orex-",
+                    "meaning": {
+                        "ko": "'식욕'",
+                        "en": "appetite",
+                        "ja": "食欲",
+                        "zh": "食欲",
+                        "fr": "appétit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ia",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "condition or state",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식욕이 없는' 상태인 '신경성 식욕 부진증', '거식증'을 뜻합니다.",
+                "en": "Refers to a serious eating disorder characterized by loss of appetite, also known as nervous anorexia or anorexia nervosa",
+                "ja": "食欲がない状態を表す神経性食欲不振症、拒食症を意味します",
+                "zh": "指没有食欲的状态，也称为神经性厌食症或厌食症",
+                "fr": "Désigne un trouble de l'alimentation grave caractérisé par une perte d'appétit, aussi appelé anorexie mentale"
+            },
+            "example": "Anorexia is a serious eating disorder.",
+            "translation": {
+                "ko": "거식증은 심각한 섭식 장애이다.",
+                "ja": "神経性食欲不振症は深刻な摂食障害です",
+                "zh": "厌食症是一种严重的进食障碍",
+                "fr": "L'anorexie est un trouble alimentaire grave"
+            }
+        },
+        {
+            "word": "bulimia",
+            "part_of_speech": "",
+            "origin": "Greek, boulimia (ravenous hunger)",
+            "meaning": {
+                "ko": "황소 같은 굶주림",
+                "en": "ravenous hunger like a bull",
+                "ja": "牛のような飢餓",
+                "zh": "牛一样的饥饿",
+                "fr": "faim bovine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bou-",
+                    "meaning": {
+                        "ko": "'황소'",
+                        "en": "ox",
+                        "ja": "牛",
+                        "zh": "牛",
+                        "fr": "boeuf"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lim-",
+                    "meaning": {
+                        "ko": "'굶주림'",
+                        "en": "hunger",
+                        "ja": "飢餓",
+                        "zh": "饥饿",
+                        "fr": "faim"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ia",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "condition or state",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'폭식을 한 후 구토 등을 하는' 섭식 장애인 '폭식증'을 뜻합니다.",
+                "en": "Bulimia is an eating disorder characterized by binge eating followed by purging behaviors such as vomiting.",
+                "ja": "過食の後に嘔吐などで排出する摂食障害の拒食症を意味します。",
+                "zh": "指暴饮暴食后通过呕吐等方式排出的进食障碍症。",
+                "fr": "Trouble alimentaire caractérisé par une hyperphagie suivie de purge comme les vomissements."
+            },
+            "example": "Bulimia is characterized by binge eating followed by purging.",
+            "translation": {
+                "ko": "폭식증은 폭식 후 제거 행위가 뒤따르는 것이 특징이다.",
+                "ja": "神経性大食症",
+                "zh": "神经性贪食症",
+                "fr": "boulimie"
+            }
+        },
+        {
+            "word": "hypochondria",
+            "part_of_speech": "",
+            "origin": "Greek, hypokhondria (the upper abdomen)",
+            "meaning": {
+                "ko": "상복부",
+                "en": "upper abdomen",
+                "ja": "心気症",
+                "zh": "疑病症",
+                "fr": "hypocondrie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hypo-",
+                    "meaning": {
+                        "ko": "'아래'",
+                        "en": "under",
+                        "ja": "下",
+                        "zh": "下方",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chondr-",
+                    "meaning": {
+                        "ko": "'연골'",
+                        "en": "cartilage",
+                        "ja": "軟骨",
+                        "zh": "软骨",
+                        "fr": "cartilage"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ia",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "condition or state",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스에서 '갈비뼈 연골 아래'에 우울함의 원인이 있다고 믿었던 데서 유래하여, '건강 염려증'을 뜻합니다.",
+                "en": "In ancient Greece, it was believed that the cause of melancholy lay beneath the rib cartilage, originating from the term for health anxiety.",
+                "ja": "古代ギリシャで、肋骨軟骨の下に憂鬱の原因があると信じられていたことに由来し、健康不安を意味します。",
+                "zh": "源于古代希腊的信念，认为肋骨软骨下方是忧郁症的起源，意指对健康的过度担忧。",
+                "fr": "En Grèce antique, on croyait que la cause de la mélancolie se situait sous le cartilage costal, d'où provient le terme désignant l'anxiété sanitaire."
+            },
+            "example": "Hypochondria is a condition in which a person is excessively worried about having a serious illness.",
+            "translation": {
+                "ko": "건강 염려증은 사람이 심각한 질병을 앓고 있다고 과도하게 걱정하는 상태이다.",
+                "ja": "心気症は、人が深刻な病気を持っていることについて過度に心配する状態です。",
+                "zh": "疑病症是指一个人过度担心患有严重疾病的心理状态。",
+                "fr": "L'hypocondrie est une condition dans laquelle une personne s'inquiète excessivement d'avoir une maladie grave."
+            }
+        },
+        {
+            "word": "hysteria",
+            "part_of_speech": "",
+            "origin": "Greek, hystera (womb)",
+            "meaning": {
+                "ko": "자궁",
+                "en": "uterus",
+                "ja": "ヒステリー、発作的興奮",
+                "zh": "歇斯底里、癔症",
+                "fr": "hystérie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hyster-",
+                    "meaning": {
+                        "ko": "'자궁'",
+                        "en": "womb",
+                        "ja": "子宮",
+                        "zh": "子宫",
+                        "fr": "utérus"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ia",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "condition or state",
+                        "ja": "状態、症状",
+                        "zh": "状态、症状",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스에서 '자궁(hystera)'이 몸속을 돌아다니며 여성에게 감정적인 문제를 일으킨다고 믿었던 데서 유래하여 '히스테리'를 뜻하게 되었습니다.",
+                "en": "In ancient Greece, it was believed that the womb (hystera) wandered through the body causing emotional problems in women, which led to the meaning of hysteria.",
+                "ja": "古代ギリシャでは、子宮(hystera)が体内を動き回り女性に感情的問題を引き起こすと信じられていたことから、ヒステリーの意味となりました。",
+                "zh": "在古代希腊，人们相信子宫(hystera)在体内游走导致女性的情绪问题，从而产生了歇斯底里的含义。",
+                "fr": "Dans la Grèce antique, on croyait que l'utérus (hystera) se déplaçait dans le corps causant des problèmes émotionnels chez les femmes, d'où le sens d'hystérie."
+            },
+            "example": "The crowd was in a state of mass hysteria.",
+            "translation": {
+                "ko": "군중은 집단 히스테리 상태에 있었다.",
+                "ja": "群衆は集団ヒステリー状態にあった。",
+                "zh": "群众处于大规模癔症状态。",
+                "fr": "La foule était dans un état d'hystérie collective."
+            }
+        }
+    ]
+}

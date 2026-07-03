@@ -1,0 +1,466 @@
+{
+    "root_info": {
+        "roots": "ven, vent: come",
+        "origin": "Latin, venire",
+        "meaning": {
+            "ko": "오다",
+            "en": "to come",
+            "ja": "来る",
+            "zh": "来",
+            "fr": "venir"
+        }
+    },
+    "words": [
+        {
+            "word": "circumvent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周囲に",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vent",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빙 둘러서 오다'는 의미에서, 문제나 법률 등을 '피하다', '우회하다'는 뜻입니다.",
+                "en": "From the literal meaning of 'to come around', it means to 'avoid' or 'bypass' problems, laws, etc.",
+                "ja": "文字通りには'周りを回って来る'という意味から、問題や法律などを'回避する'、'迂回する'という意味です。",
+                "zh": "从字面上'绕过来'的含义，指'避免'或'绕过'问题、法律等。",
+                "fr": "Du sens littéral de 'contourner', il signifie 'éviter' ou 'contourner' des problèmes, des lois, etc."
+            },
+            "example": "He found a way to circumvent the rules.",
+            "translation": {
+                "ko": "그는 규칙을 피할 방법을 찾았다.",
+                "ja": "彼はルールを回避する方法を見つけた。",
+                "zh": "他找到了一个规避规则的方法。",
+                "fr": "Il a trouvé un moyen de contourner les règles."
+            }
+        },
+        {
+            "word": "convene",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vene",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 오다'는 의미에서, 회의 등을 위해 '모이다', '소집하다'는 뜻입니다.",
+                "en": "From 'come together': to assemble or summon for a meeting",
+                "ja": "「一緒に来る」の意味から、会議などのために「集まる」「招集する」という意味です。",
+                "zh": "从「一起来」的意思，表示为会议等「聚集」或「召集」。",
+                "fr": "De « venir ensemble » : se réunir ou convoquer pour une réunion."
+            },
+            "example": "The committee will convene at 10 AM.",
+            "translation": {
+                "ko": "위원회는 오전 10시에 소집될 것이다.",
+                "ja": "委員会は午前10時に召集される予定です。",
+                "zh": "委员会将在上午10点召集。",
+                "fr": "Le comité se réunira à 10 heures du matin."
+            }
+        },
+        {
+            "word": "intervention",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vent",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "사건이나 사람들 '사이에 들어오는 것'이라는 의미에서, '개입', '중재'를 뜻합니다.",
+                "en": "From the sense of 'coming between' an event or people, meaning 'interference' or 'mediation'.",
+                "ja": "事件や人々の『間に入ること』という意味から、『干渉』『仲介』を意味します。",
+                "zh": "从'在事件或人之间介入'的意思引申，表示'干预''调停'。",
+                "fr": "Du sens de 's'interposer entre' un événement ou des personnes, signifiant 'ingérence' ou 'médiation'."
+            },
+            "example": "Military intervention is a controversial issue.",
+            "translation": {
+                "ko": "군사 개입은 논란이 많은 문제이다.",
+                "ja": "軍事介入は議論の多い問題である。",
+                "zh": "军事干预是一个有争议的问题。",
+                "fr": "L'intervention militaire est une question controversée."
+            }
+        },
+        {
+            "word": "contravene",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "contra-",
+                    "meaning": {
+                        "ko": "반하여",
+                        "en": "against",
+                        "ja": "に反して",
+                        "zh": "违反",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vene",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "법이나 규칙에 '반하여 가다'는 의미에서, '위반하다', '모순되다'는 뜻입니다.",
+                "en": "From the meaning 'to go against law or rules,' signifying 'to violate' or 'to contradict.'",
+                "ja": "法律や規則に『反して来る』という意味から、『違反する』『矛盾する』という意味を持ちます。",
+                "zh": "从'与法律或规则相反而来'的意义衍生，表示'违反'或'矛盾'的含义。",
+                "fr": "Du sens 'aller à l'encontre de la loi ou des règles', signifiant 'violer' ou 'contredire'."
+            },
+            "example": "This action contravenes international law.",
+            "translation": {
+                "ko": "이 행동은 국제법을 위반한다.",
+                "ja": "この行動は国際法に違反している。",
+                "zh": "这一行为违反国际法。",
+                "fr": "Cette action contrevient au droit international."
+            }
+        },
+        {
+            "word": "venue",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ven",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람들이 오는 장소'라는 의미에서, 콘서트, 회의, 재판 등이 열리는 '장소'를 뜻합니다.",
+                "en": "From the meaning 'place where people come', it refers to a 'place' where concerts, meetings, trials, etc. are held.",
+                "ja": "'人々が来る場所'という意味から、コンサート、会議、裁判などが開かれる'場所'を意味します。",
+                "zh": "从'人们来的地方'的含义出发，指演唱会、会议、审判等举办的'地点'。",
+                "fr": "Du sens 'lieu où les gens viennent', il désigne un 'lieu' où se tiennent concerts, réunions, procès, etc."
+            },
+            "example": "The hotel is a popular venue for weddings.",
+            "translation": {
+                "ko": "그 호텔은 인기 있는 결혼식 장소이다.",
+                "ja": "会場",
+                "zh": "场地",
+                "fr": "lieu"
+            }
+        },
+        {
+            "word": "event",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vent",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 나와 일어난 일'이라는 의미에서, '사건', '행사'를 뜻합니다.",
+                "en": "From the sense of 'something that comes out and happens,' meaning an occurrence or gathering.",
+                "ja": "「外へ出て起こること」という意味から、「出来事」「行事」を意味します。",
+                "zh": "从「向外出现并发生的事情」的意思，表示「事件」或「活动」。",
+                "fr": "Du sens de « quelque chose qui survient et se produit », signifiant un événement ou une manifestation."
+            },
+            "example": "The party was a big event.",
+            "translation": {
+                "ko": "그 파티는 큰 행사였다.",
+                "ja": "そのパーティーは大きなイベントでした。",
+                "zh": "那个派对是一个盛大的活动。",
+                "fr": "La fête était un grand événement."
+            }
+        },
+        {
+            "word": "avenue",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a- (ad-)",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to",
+                        "ja": "へ向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "venue (venire)",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 곳을 향해 오는 길'이라는 의미에서, 도시의 넓은 '거리', '~가(街)'를 뜻합니다.",
+                "en": "From the meaning of 'a path coming toward a certain place', it refers to a wide street in a city.",
+                "ja": "ある場所へ向かって来る道という意味から、都市の広い通りを指します。",
+                "zh": "从'朝向某个地方来的道路'的含义，指城市中宽阔的街道。",
+                "fr": "Du sens de 'chemin venant vers un certain endroit', il désigne une large rue dans une ville."
+            },
+            "example": "We walked down the main avenue.",
+            "translation": {
+                "ko": "우리는 중심가를 따라 걸었다.",
+                "ja": "並木道、大通り",
+                "zh": "林荫大道、街道",
+                "fr": "avenue"
+            }
+        },
+        {
+            "word": "adventure",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to",
+                        "ja": "へ、に向かって",
+                        "zh": "朝向、到达",
+                        "fr": "vers, à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "venture (venire)",
+                    "meaning": {
+                        "ko": "오다, 일어나다",
+                        "en": "to come, to happen",
+                        "ja": "来る、起こる",
+                        "zh": "来临、发生",
+                        "fr": "venir, arriver"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 다가올 일'이라는 의미에서, '모험'을 뜻하게 되었습니다.",
+                "en": "From the sense of 'something coming ahead', it came to mean 'risk-taking journey' or 'adventure'.",
+                "ja": "'これからやってくること'という意味から、'冒険'を意味するようになりました。",
+                "zh": "从'即将到来的事情'的含义演变而来，逐渐演变成'冒险'的意思。",
+                "fr": "Du sens de 'ce qui vient à l'avance', il a pris le sens d'aventure ou d'entreprise risquée."
+            },
+            "example": "Life is a great adventure.",
+            "translation": {
+                "ko": "인생은 위대한 모험이다.",
+                "ja": "人生は素晴らしい冒険だ。",
+                "zh": "人生是伟大的冒险。",
+                "fr": "La vie est une grande aventure."
+            }
+        },
+        {
+            "word": "invention",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "upon, into",
+                        "ja": "中へ、上へ",
+                        "zh": "向上、进入",
+                        "fr": "sur, dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vent",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "아이디어가 머릿속에 '떠오르는 것'이라는 의미에서, '발명', '발명품'을 뜻합니다.",
+                "en": "From the idea of thoughts 'emerging' in the mind, meaning 'invention' or 'inventive creation'",
+                "ja": "アイデアが心の中に「浮かぶ」という意味から、「発明」「発明品」を意味します",
+                "zh": "从想法在脑海中'浮现'的意思，引申为'发明'或'发明品'",
+                "fr": "De l'idée que les pensées 'émergent' dans l'esprit, signifiant 'invention' ou 'création inventive'"
+            },
+            "example": "The internet was a revolutionary invention.",
+            "translation": {
+                "ko": "인터넷은 혁명적인 발명품이었다.",
+                "ja": "インターネットは革命的な発明品だった。",
+                "zh": "互联网是一项革命性的发明。",
+                "fr": "Internet était une invention révolutionnaire."
+            }
+        },
+        {
+            "word": "revenue",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로, 다시",
+                        "en": "back",
+                        "ja": "後ろに、再び",
+                        "zh": "向后、再次",
+                        "fr": "arrière, de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "venue (venire)",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "투자한 것이 '다시 돌아오는 것'이라는 의미에서, 정부의 '세입'이나 기업의 '수익'을 뜻합니다.",
+                "en": "From the sense of money 'coming back again' from an investment; refers to government tax income or business profits.",
+                "ja": "投資したものが『再び戻ってくる』という意味から、政府の『税収』や企業の『利益』を意味します。",
+                "zh": "从投资的钱『再次回流』的意义出发，指政府的『税收』或企业的『收益』。",
+                "fr": "De l'idée que l'argent investi 'revient à nouveau'; désigne les impôts gouvernementaux ou les bénéfices d'une entreprise."
+            },
+            "example": "The company's revenue increased this year.",
+            "translation": {
+                "ko": "그 회사의 수익이 올해 증가했다.",
+                "ja": "その企業の収益は今年増加した。",
+                "zh": "那家公司今年的收入增加了。",
+                "fr": "Les revenus de l'entreprise ont augmenté cette année."
+            }
+        },
+        {
+            "word": "prevent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "미리",
+                        "en": "before",
+                        "ja": "あらかじめ",
+                        "zh": "提前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vent",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어떤 일이 일어나기 '전에 미리 와서' 막는다는 의미에서, '막다', '예방하다'는 뜻이 되었습니다.",
+                "en": "From the idea of 'coming before' an event to stop it, meaning to stop or ward off",
+                "ja": "ある事が起こる『前に事前に来て』止めるという意味から、『止める』『予防する』という意味になりました。",
+                "zh": "从某事发生'之前提前到来'阻止的意思，演变出'阻止''预防'的含义。",
+                "fr": "De l'idée de 'venir avant' un événement pour l'arrêter, signifiant arrêter ou prévenir."
+            },
+            "example": "We must act now to prevent a disaster.",
+            "translation": {
+                "ko": "우리는 재앙을 막기 위해 지금 행동해야 한다.",
+                "ja": "私たちは災害を防ぐために今すぐ行動しなければならない。",
+                "zh": "我们必须立即采取行动来阻止灾难发生。",
+                "fr": "Nous devons agir maintenant pour prévenir une catastrophe."
+            }
+        }
+    ]
+}

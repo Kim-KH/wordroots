@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "norm (rule) abnormal, normal, normative,",
+        "origin": "Latin, norma (a rule, pattern)",
+        "meaning": {
+            "ko": "규칙",
+            "en": "rule",
+            "ja": "規則、支配",
+            "zh": "规则，统治",
+            "fr": "règle, règle"
+        }
+    },
+    "words": [
+        {
+            "word": "abnormal",
+            "part_of_speech": "",
+            "origin": "Latin, abnormis (departing from the rule)",
+            "meaning": {
+                "ko": "규칙에서 벗어난",
+                "en": "departing from rules or standards",
+                "ja": "通常から外れた",
+                "zh": "偏离规则的",
+                "fr": "qui dévie de la norme"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ab-",
+                    "meaning": {
+                        "ko": "'~에서 벗어난'",
+                        "en": "away from",
+                        "ja": "から離れた",
+                        "zh": "远离",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "norm",
+                    "meaning": {
+                        "ko": "'규칙, 기준'",
+                        "en": "rule",
+                        "ja": "規則、基準",
+                        "zh": "规则、标准",
+                        "fr": "règle, norme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정상적인 기준에서 벗어난'이라는 의미에서 '비정상적인'이라는 뜻입니다.",
+                "en": "means 'abnormal' in the sense of deviating from normal standards",
+                "ja": "正常な基準から外れた意味で'異常な'という意味です",
+                "zh": "表示偏离正常标准的'异常'含义",
+                "fr": "signifie 'anormal' au sens de s'écarter des normes habituelles"
+            },
+            "example": "He has an abnormal heartbeat.",
+            "translation": {
+                "ko": "그는 비정상적인 심장 박동을 가지고 있다.",
+                "ja": "彼は異常な心拍を持っています。",
+                "zh": "他有不正常的心跳。",
+                "fr": "Il a un rythme cardiaque anormal."
+            }
+        },
+        {
+            "word": "normal",
+            "part_of_speech": "",
+            "origin": "Latin, normalis (made according to a square)",
+            "meaning": {
+                "ko": "직각자에 따라 만들어진",
+                "en": "made with a set square",
+                "ja": "通常の、普通の",
+                "zh": "正常的、普通的",
+                "fr": "normal, ordinaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "norm-",
+                    "meaning": {
+                        "ko": "'규칙, 기준'",
+                        "en": "rule",
+                        "ja": "規則、基準",
+                        "zh": "规则、标准",
+                        "fr": "règle, norme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'규칙이나 기준에 맞는'이라는 의미에서 '정상적인', '보통의'라는 뜻입니다.",
+                "en": "From the meaning 'conforming to a rule or standard', it came to mean 'normal' or 'ordinary'",
+                "ja": "規則や基準に合うという意味から、「正常的」「普通の」という意味になりました",
+                "zh": "从符合规则或标准的意思引申为「正常」「普通」的含义",
+                "fr": "Du sens 'conforme à une règle ou norme', il en est venu à signifier 'normal' ou 'ordinaire'"
+            },
+            "example": "It's normal to feel nervous before an exam.",
+            "translation": {
+                "ko": "시험 전에 긴장하는 것은 정상이다.",
+                "ja": "試験の前に緊張を感じるのは普通のことです。",
+                "zh": "考试前感到紧张是很正常的。",
+                "fr": "C'est normal de se sentir nerveux avant un examen."
+            }
+        },
+        {
+            "word": "normative",
+            "part_of_speech": "",
+            "origin": "Latin, norma (rule)",
+            "meaning": {
+                "ko": "규칙",
+                "en": "rule",
+                "ja": "規範的な",
+                "zh": "规范性的",
+                "fr": "normatif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "norm-",
+                    "meaning": {
+                        "ko": "'규범'",
+                        "en": "norm",
+                        "ja": "規範",
+                        "zh": "规范",
+                        "fr": "norme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사회의 규범을 따르는' 또는 '규범을 정하는'이라는 뜻입니다.",
+                "en": "Describes statements or rules that establish standards for behavior or judgment based on social norms.",
+                "ja": "社会の規範に従う、または規範を定めることを意味します",
+                "zh": "遵循社会规范或制定规范的含义",
+                "fr": "Signifie suivre les normes sociales ou établir des normes"
+            },
+            "example": "Normative statements are about what ought to be.",
+            "translation": {
+                "ko": "규범적 진술은 마땅히 있어야 할 것에 관한 것이다.",
+                "ja": "規範的な陳述は、あるべき姿について述べています",
+                "zh": "规范性陈述涉及事物应该是什么样的",
+                "fr": "Les énoncés normatifs concernent ce qui devrait être"
+            }
+        }
+    ]
+}

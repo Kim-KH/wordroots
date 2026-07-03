@@ -1,0 +1,176 @@
+{
+    "root_info": {
+        "roots": "ob (toward, against) oblong, obstruct, obtrusive",
+        "origin": "Latin, ob (toward, against, in the way of)",
+        "meaning": {
+            "ko": "~을 향하여, ~에 맞서, 방해하여",
+            "en": "toward, against, in the way of",
+            "ja": "~に向かって、~に対して、~の邪魔をして",
+            "zh": "朝向、对抗、阻碍",
+            "fr": "vers, contre, en travers de"
+        }
+    },
+    "words": [
+        {
+            "word": "oblong",
+            "part_of_speech": "",
+            "origin": "Latin, oblongus (somewhat long)",
+            "meaning": {
+                "ko": "다소 긴",
+                "en": "somewhat long",
+                "ja": "やや長い",
+                "zh": "略长的",
+                "fr": "plutôt long"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "'~을 향하여'",
+                        "en": "toward",
+                        "ja": "~に向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "long",
+                    "meaning": {
+                        "ko": "'긴'",
+                        "en": "long",
+                        "ja": "長い",
+                        "zh": "长",
+                        "fr": "long"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "한쪽으로 긴 모양, 즉 '직사각형의', '장방형의'라는 뜻입니다.",
+                "en": "One-directionally elongated shape, meaning 'rectangular' or 'oblong'",
+                "ja": "一方向に長い形、つまり'長方形の'、'細長い形'という意味です",
+                "zh": "单方向拉长的形状，即'矩形的'、'长方形的'之意",
+                "fr": "Une forme allongée dans une direction, c'est-à-dire 'rectangulaire' ou 'de forme oblongue'"
+            },
+            "example": "The room was an oblong shape.",
+            "translation": {
+                "ko": "그 방은 직사각형 모양이었다.",
+                "ja": "部屋は細長い形でした。",
+                "zh": "这个房间是长方形的。",
+                "fr": "La pièce avait une forme oblongue."
+            }
+        },
+        {
+            "word": "obstruct",
+            "part_of_speech": "",
+            "origin": "Latin, obstruere (to build up against)",
+            "meaning": {
+                "ko": "~에 맞서 쌓다",
+                "en": "to build up against",
+                "ja": "妨害する、塞ぐ",
+                "zh": "阻碍、堵住",
+                "fr": "obstruer, bloquer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "'~에 맞서'",
+                        "en": "against",
+                        "ja": "対抗して",
+                        "zh": "对抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "struct (struere)",
+                    "meaning": {
+                        "ko": "'쌓다, 세우다'",
+                        "en": "to build",
+                        "ja": "積む、築く",
+                        "zh": "堆积、建造",
+                        "fr": "construire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'길을 막아서 쌓다'는 의미에서 길이나 시야 등을 '막다', '방해하다'라는 뜻이 되었습니다.",
+                "en": "From the meaning 'to build against something', it came to mean 'to block' or 'to hinder' a road or view.",
+                "ja": "道を塞いで積む意味から、道や視界などを塞ぐ、妨害するという意味になりました。",
+                "zh": "从阻挡道路堆积的含义演变为阻挡道路或视线、妨碍的意思。",
+                "fr": "Du sens de 'construire contre quelque chose', il est devenu signifier 'bloquer' ou 'entraver' une route ou la vue."
+            },
+            "example": "A large truck was obstructing the road.",
+            "translation": {
+                "ko": "큰 트럭이 길을 막고 있었다.",
+                "ja": "大きなトラックが道路を妨害していた。",
+                "zh": "一辆大卡车正在阻碍道路。",
+                "fr": "Un grand camion obstruait la route."
+            }
+        },
+        {
+            "word": "obtrusive",
+            "part_of_speech": "",
+            "origin": "Latin, obtrudere (to thrust against)",
+            "meaning": {
+                "ko": "~에 맞서 밀다",
+                "en": "to push against",
+                "ja": "目立つ、押し付けがましい",
+                "zh": "显眼的、唐突的",
+                "fr": "envahissant, importun"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "'~에 맞서'",
+                        "en": "against",
+                        "ja": "～に対して",
+                        "zh": "对抗、反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trus (trudere)",
+                    "meaning": {
+                        "ko": "'밀다'",
+                        "en": "to thrust",
+                        "ja": "押し出す",
+                        "zh": "推动、推出",
+                        "fr": "pousser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ive",
+                    "meaning": {
+                        "ko": "'~하는 경향이 있는'",
+                        "en": "having a tendency to",
+                        "ja": "～する傾向がある",
+                        "zh": "有～的倾向",
+                        "fr": "avoir tendance à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 밀고 나오는' 경향이 있다는 의미에서 '눈에 띄는', '주제넘게 나서는'이라는 뜻으로 쓰입니다.",
+                "en": "From the tendency to push forward obtrusively; means conspicuous or presumptuous",
+                "ja": "前に押し出る傾向から、目立つ、生意気に出しゃばるという意味で使われる",
+                "zh": "从向前推出的倾向来看，指引人注目的、唐突地出头的",
+                "fr": "De la tendance à avancer de manière envahissante; signifie voyant ou présomptueux"
+            },
+            "example": "The obtrusive colors of the wallpaper were distracting.",
+            "translation": {
+                "ko": "눈에 거슬리는 벽지 색깔이 정신을 산만하게 했다.",
+                "ja": "壁紙の目立つ色は気を散らしていた",
+                "zh": "壁纸显眼的颜色令人分心",
+                "fr": "Les couleurs envahissantes du papier peint étaient distrayantes"
+            }
+        }
+    ]
+}

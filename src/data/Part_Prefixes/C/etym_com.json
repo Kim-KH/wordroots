@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "com (together) compare, compete, compose, compromise",
+        "origin": "Latin, com- (with, together)",
+        "meaning": {
+            "ko": "함께",
+            "en": "with, together",
+            "ja": "一緒に、共に",
+            "zh": "一起、共同",
+            "fr": "avec, ensemble"
+        }
+    },
+    "words": [
+        {
+            "word": "compare",
+            "part_of_speech": "",
+            "origin": "Latin, comparare (to place together)",
+            "meaning": {
+                "ko": "함께 두다",
+                "en": "to put together",
+                "ja": "比較する",
+                "zh": "比较",
+                "fr": "comparer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pare (par)",
+                    "meaning": {
+                        "ko": "'동등한'",
+                        "en": "equal",
+                        "ja": "同等の",
+                        "zh": "平等的",
+                        "fr": "égal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 동등하게 놓아보다'라는 의미에서 '비교하다', '견주다'라는 뜻이 되었습니다.",
+                "en": "From the meaning of 'placing together equally', it came to mean 'to compare' or 'to contrast'.",
+                "ja": "一緒に同等に置いて見るという意味から、比較する、見比べるという意味になりました。",
+                "zh": "从将事物放在一起平等比较的意思，演变为比较、对照的意思。",
+                "fr": "Du sens de placer ensemble de manière égale, il a acquis le sens de comparer ou de contraster."
+            },
+            "example": "We compared the prices of different cars.",
+            "translation": {
+                "ko": "우리는 여러 차들의 가격을 비교했다.",
+                "ja": "異なる車の価格を比較しました。",
+                "zh": "我们比较了不同汽车的价格。",
+                "fr": "Nous avons comparé les prix de différentes voitures."
+            }
+        },
+        {
+            "word": "compete",
+            "part_of_speech": "",
+            "origin": "Latin, competere (to strive together)[23][24]",
+            "meaning": {
+                "ko": "함께 추구하다[23]",
+                "en": "to pursue together",
+                "ja": "競う",
+                "zh": "竞争",
+                "fr": "concourir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께' (together)[23]",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pete (petere)",
+                    "meaning": {
+                        "ko": "'추구하다, 찾다' (to seek)[23]",
+                        "en": "to seek or pursue",
+                        "ja": "求める",
+                        "zh": "追求",
+                        "fr": "chercher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'같은 것을 함께 추구하다'는 의미에서 '경쟁하다'라는 뜻이 되었습니다.[25]",
+                "en": "Came to mean 'compete' from the sense of 'pursuing the same thing together'",
+                "ja": "同じものを一緒に追求する意味から競争するという意味になった",
+                "zh": "从一起追求同样的东西的意义演变成竞争的意思",
+                "fr": "Le sens de poursuivre la même chose ensemble a mené au sens de concourir"
+            },
+            "example": "Several companies are competing for the contract.[26]",
+            "translation": {
+                "ko": "여러 회사들이 그 계약을 따내기 위해 경쟁하고 있다.",
+                "ja": "複数の企業がその契約を巡って競争している。",
+                "zh": "几家公司正在竞争这份合同。",
+                "fr": "Plusieurs entreprises concourent pour le contrat."
+            }
+        },
+        {
+            "word": "compose",
+            "part_of_speech": "",
+            "origin": "Latin, componere (to put together)",
+            "meaning": {
+                "ko": "함께 놓다",
+                "en": "to place together",
+                "ja": "構成する、作曲する",
+                "zh": "组成、作曲",
+                "fr": "composer, constituer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble, avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pose (ponere)",
+                    "meaning": {
+                        "ko": "'놓다, 두다'",
+                        "en": "to put, to place",
+                        "ja": "置く、置く",
+                        "zh": "放置、放",
+                        "fr": "mettre, placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 요소를 함께 모아두다'는 의미에서 '구성하다', '작곡하다', '글을 쓰다' 등의 뜻으로 쓰입니다.",
+                "en": "Multiple elements combined together to mean: constitute, compose music, write text, etc.",
+                "ja": "複数の要素を一緒に集めるという意味から、構成する、作曲する、文章を書くなどの意味で使われます",
+                "zh": "从多个要素聚集在一起的含义引申，用于表示构成、作曲、写文章等意思",
+                "fr": "Sens étymologique: regrouper plusieurs éléments ensemble, d'où les sens de constituer, composer une musique, rédiger un texte, etc."
+            },
+            "example": "He composed a beautiful piece of music.",
+            "translation": {
+                "ko": "그는 아름다운 곡을 작곡했다.",
+                "ja": "彼は美しい音楽作品を作曲した。",
+                "zh": "他创作了一首优美的音乐作品。",
+                "fr": "Il a composé une belle pièce musicale."
+            }
+        },
+        {
+            "word": "compromise",
+            "part_of_speech": "",
+            "origin": "Latin, compromissum (a mutual promise)",
+            "meaning": {
+                "ko": "상호 약속",
+                "en": "mutual agreement",
+                "ja": "妥協、折り合い",
+                "zh": "妥协、折中",
+                "fr": "compromis, accord"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble, mutuellement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "promise (promittere)",
+                    "meaning": {
+                        "ko": "'약속하다'",
+                        "en": "to promise",
+                        "ja": "約束する",
+                        "zh": "承诺、答应",
+                        "fr": "promettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 약속하다'는 의미에서 서로 양보하여 '타협하다' 또는 '타협'이라는 뜻이 되었습니다.",
+                "en": "From the meaning of 'promising together', it evolved to mean 'to make mutual concessions' or 'compromise'.",
+                "ja": "『一緒に約束する』という意味から、互いに譲歩して『妥協する』または『妥協』という意味になりました。",
+                "zh": "从'共同承诺'的含义演变而来，通过相互让步引申为'妥协'或'达成协议'的意思。",
+                "fr": "Du sens de 'promettre ensemble', il a évolué pour signifier 'faire des concessions mutuelles' ou 'compromis'."
+            },
+            "example": "They finally reached a compromise.",
+            "translation": {
+                "ko": "그들은 마침내 타협에 이르렀다.",
+                "ja": "彼らはついに妥協に達した。",
+                "zh": "他们最终达成了妥协。",
+                "fr": "Ils ont finalement trouvé un compromis."
+            }
+        }
+    ]
+}

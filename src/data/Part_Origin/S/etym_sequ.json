@@ -1,0 +1,444 @@
+{
+    "root_info": {
+        "roots": "sequ, secut, sue: follow",
+        "origin": "Latin, sequi",
+        "meaning": {
+            "ko": "따르다",
+            "en": "to follow",
+            "ja": "従う",
+            "zh": "跟随",
+            "fr": "suivre"
+        }
+    },
+    "words": [
+        {
+            "word": "sequacious",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sequ",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "従う",
+                        "zh": "跟随",
+                        "fr": "suivre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-acious",
+                    "meaning": {
+                        "ko": "~하는 경향이 있는",
+                        "en": "having a tendency to",
+                        "ja": "〜する傾向がある",
+                        "zh": "有〜的倾向",
+                        "fr": "avoir tendance à〜"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'맹목적으로 따르는' 경향이 있다는 의미에서, '남을 잘 따르는', '논리가 일관된'이라는 뜻의 드문 단어입니다.",
+                "en": "A rare word meaning 'following others blindly' or 'logically consistent'; describes someone who follows well or thinks coherently.",
+                "ja": "盲目的に従う傾向から、『人をよく従う』『論理が一貫した』という意味の稀な単語です。",
+                "zh": "源自盲目跟随的含义，形容一个人容易追随他人或逻辑一致的罕见词汇。",
+                "fr": "Mot rare signifiant 'suivre aveuglément' ou 'logiquement cohérent'; décrit quelqu'un qui suit facilement ou pense de manière cohérente."
+            },
+            "example": "He has a sequacious mind.",
+            "translation": {
+                "ko": "그는 논리 정연한 정신을 가졌다.",
+                "ja": "彼は論理的思考を持っている。",
+                "zh": "他具有逻辑清晰的思维。",
+                "fr": "Il a un esprit logique et cohérent."
+            }
+        },
+        {
+            "word": "obsequious",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "toward",
+                        "ja": "～に向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sequi",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "従う",
+                        "zh": "跟随",
+                        "fr": "suivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상대의 뜻을 향해 맹목적으로 따르는'이라는 의미에서, '아부하는', '아첨하는'이라는 부정적인 뜻입니다.",
+                "en": "From the sense of 'blindly following another's will,' it takes on a negative meaning: 'flattering' or 'obsequious.'",
+                "ja": "相手の意思に盲目的に従う意から、'へつらう'、'おべっかを使う'という否定的な意味になりました。",
+                "zh": "从'盲目地跟随他人意愿'的意思演变为'谄媚的'、'献殷勤的'等否定含义。",
+                "fr": "Du sens de 'suivre aveuglément la volonté d'autrui', il prend une connotation négative : 'flagorneur' ou 'obséquieux'."
+            },
+            "example": "She is obsequious to her boss.",
+            "translation": {
+                "ko": "그녀는 상사에게 아부한다.",
+                "ja": "彼女は上司に対してへつらう。",
+                "zh": "她对老板谄媚。",
+                "fr": "Elle est obséquieuse envers son patron."
+            }
+        },
+        {
+            "word": "ensue",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "~안에, ~로부터",
+                        "en": "in, from",
+                        "ja": "~の中に、~から",
+                        "zh": "在...之中，从...起",
+                        "fr": "dans, de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sue (sequi)",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어떤 사건으로부터 '뒤따라 일어나다'는 의미입니다.",
+                "en": "from an event, 'to happen afterwards'",
+                "ja": "ある事件から『後に続いて起こる』という意味です",
+                "zh": "从某个事件'随后发生'的含义",
+                "fr": "D'un événement, signifie 'survenir ensuite'"
+            },
+            "example": "A period of chaos ensued.",
+            "translation": {
+                "ko": "혼란의 시기가 뒤따랐다.",
+                "ja": "混乱の時期が続いた。",
+                "zh": "一段混乱的时期随之而来。",
+                "fr": "Une période de chaos s'ensuivit."
+            }
+        },
+        {
+            "word": "pursue",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pur- (pro-)",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sue (sequi)",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "従う",
+                        "zh": "跟随",
+                        "fr": "suivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 계속 따라가다'는 의미에서, 목표나 사람을 '추구하다', '뒤쫓다'는 뜻입니다.",
+                "en": "From the sense of 'continuously follow forward': to seek out or chase after a goal or person.",
+                "ja": "「前へ継続的に従う」という意味から、目標や人を「追求する」「追いかける」という意味です。",
+                "zh": "从「不断向前跟随」的含义而来，表示「追求」或「追赶」某个目标或某个人。",
+                "fr": "Du sens de « suivre continuellement vers l'avant » : chercher ou poursuivre un objectif ou une personne."
+            },
+            "example": "She wants to pursue a career in medicine.",
+            "translation": {
+                "ko": "그녀는 의료 분야에서 경력을 쌓기를 추구한다.",
+                "ja": "彼女は医学分野でのキャリアを追求したいと考えている。",
+                "zh": "她想在医学领域追求职业发展。",
+                "fr": "Elle veut poursuivre une carrière en médecine."
+            }
+        },
+        {
+            "word": "sequence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sequ",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ence",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잇따라 일어나는 것'이라는 의미에서, 사건이나 숫자의 '연속', '순서'를 뜻합니다.",
+                "en": "From the sense of 'things happening one after another,' it means the 'succession' or 'order' of events or numbers.",
+                "ja": "「次々と起こること」という意味から、事象や数字の「連続」「順序」を意味します。",
+                "zh": "从\"相继发生的事物\"的含义引申，表示事件或数字的\"连续\"、\"顺序\"。",
+                "fr": "Du sens de « choses qui se succèdent », il désigne la « succession » ou « l'ordre » des événements ou des nombres."
+            },
+            "example": "The events happened in a strange sequence.",
+            "translation": {
+                "ko": "그 사건들은 이상한 순서로 일어났다.",
+                "ja": "その出来事は奇妙な順序で起こった。",
+                "zh": "这些事件以奇怪的顺序发生了。",
+                "fr": "Les événements se sont déroulés dans un ordre étrange."
+            }
+        },
+        {
+            "word": "consequence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sequ",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "従う",
+                        "zh": "跟随",
+                        "fr": "suivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어떤 원인과 '함께 뒤따라오는 것'이라는 의미에서, '결과' 또는 '중요성'을 뜻합니다.",
+                "en": "From the sense of 'following along with a cause,' meaning 'result' or 'importance.'",
+                "ja": "ある原因と一緒に後に続く物という意味から、「結果」または「重要性」を意味します。",
+                "zh": "从\"与某个原因一起随之而来的东西\"的含义，表示\"结果\"或\"重要性\"。",
+                "fr": "Du sens de 'ce qui suit avec une cause', signifiant 'résultat' ou 'importance'."
+            },
+            "example": "Every action has a consequence.",
+            "translation": {
+                "ko": "모든 행동에는 결과가 따른다.",
+                "ja": "すべての行動には結果が伴う。",
+                "zh": "每一个行动都会带来后果。",
+                "fr": "Chaque action a une conséquence."
+            }
+        },
+        {
+            "word": "sue",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sue (sequi)",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "従う",
+                        "zh": "跟随",
+                        "fr": "suivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "법을 '따라' 권리를 추구한다는 의미에서, '고소하다', '소송을 제기하다'는 뜻이 되었습니다.",
+                "en": "From 'following' the law to pursue rights; came to mean 'to prosecute' or 'to bring legal action'",
+                "ja": "法律に『従って』権利を追求するという意味から、『告訴する』『訴訟を起こす』という意味になりました。",
+                "zh": "从'遵循'法律来追求权利的含义演变而来，后来指'起诉'或'提起诉讼'的意思。",
+                "fr": "Du sens de 'suivre' la loi pour poursuivre ses droits, devenu signifier 'poursuivre en justice' ou 'intenter une action'."
+            },
+            "example": "She decided to sue the company.",
+            "translation": {
+                "ko": "그녀는 그 회사를 고소하기로 결정했다.",
+                "ja": "彼女はその会社を訴えることに決めた。",
+                "zh": "她决定起诉那家公司。",
+                "fr": "Elle a décidé de poursuivre l'entreprise en justice."
+            }
+        },
+        {
+            "word": "second",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sec (sequi)",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'첫 번째를 뒤따르는'이라는 의미에서 '두 번째의'라는 뜻이 되었습니다.",
+                "en": "Meaning 'second' derives from 'following the first'",
+                "ja": "最初の後に続くという意味から'2番目の'という意味になりました",
+                "zh": "从'跟在第一个之后'的含义演变为'第二个的'的意思",
+                "fr": "Le sens 'deuxième' dérive de 'suivant le premier'"
+            },
+            "example": "This is my second attempt.",
+            "translation": {
+                "ko": "이것은 나의 두 번째 시도이다.",
+                "ja": "これは私の2番目の試みです",
+                "zh": "这是我的第二次尝试",
+                "fr": "C'est ma deuxième tentative"
+            }
+        },
+        {
+            "word": "sequel",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sequ",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "従う",
+                        "zh": "跟随",
+                        "fr": "suivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "이전 작품을 '뒤따라 나오는' 이야기라는 의미에서, 영화나 책의 '속편'을 뜻합니다.",
+                "en": "From the sense of a story that 'follows after' a previous work, referring to a 'sequel' in films or books.",
+                "ja": "前作に「後に続く」という意味から、映画や本の「続編」を意味します。",
+                "zh": "从\"跟随之后\"的意思，指电影或书籍的\"续集\"。",
+                "fr": "Du sens d'une histoire qui « suit » une œuvre précédente, désignant une « suite » de film ou de livre."
+            },
+            "example": "I can't wait for the sequel.",
+            "translation": {
+                "ko": "나는 속편이 너무 기다려진다.",
+                "ja": "私は続編が待ち遠しくてたまりません。",
+                "zh": "我迫不及待地想看续集。",
+                "fr": "J'ai hâte de voir la suite."
+            }
+        },
+        {
+            "word": "execution",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "secut (sequi)",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "従う",
+                        "zh": "跟随",
+                        "fr": "suivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "계획을 '끝까지 따라 나가다'는 의미에서, 계획의 '실행', '수행'을 뜻합니다. 법의 판결을 끝까지 따른다는 의미에서 '사형 집행'이라는 뜻도 있습니다.",
+                "en": "From 'following through a plan to completion,' meaning the carrying out or performance of a plan. Also means 'capital punishment' from the sense of following through a legal sentence.",
+                "ja": "計画を最後まで従って実行するという意味から、計画の実行や遂行を意味します。法律の判決を最後まで従うという意味から、死刑執行という意味もあります。",
+                "zh": "从'始终遵循计划'的意思，指计划的实施、执行。也指从遵循法律判决的意义出发，有'死刑执行'的含义。",
+                "fr": "Du sens de 'suivre un plan jusqu'au bout', signifiant l'exécution ou la réalisation d'un plan. Signifie aussi 'exécution capitale' du sens de suivre une condamnation judiciaire jusqu'au bout."
+            },
+            "example": "The execution of the plan was flawless.",
+            "translation": {
+                "ko": "그 계획의 실행은 흠잡을 데 없었다.",
+                "ja": "その計画の実行は完璧だった。",
+                "zh": "该计划的执行是完美的。",
+                "fr": "L'exécution du plan était impeccable."
+            }
+        },
+        {
+            "word": "consecutive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "secut",
+                    "meaning": {
+                        "ko": "따르다",
+                        "en": "to follow",
+                        "ja": "従う",
+                        "zh": "跟随",
+                        "fr": "suivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'끊어지지 않고 함께 뒤따르는'이라는 의미에서, '연속적인'이라는 뜻입니다.",
+                "en": "From the meaning of 'following together without interruption', it means 'sequential' or 'continuous'.",
+                "ja": "途切れることなく一緒に後に続く意味から、連続的という意味です。",
+                "zh": "从不中断地一起跟随的意思，表示连续的、依次的含义。",
+                "fr": "De la signification de 'suivre ensemble sans interruption', il signifie 'séquentiel' ou 'continu'."
+            },
+            "example": "It rained for three consecutive days.",
+            "translation": {
+                "ko": "3일 연속으로 비가 왔다.",
+                "ja": "連続した",
+                "zh": "连续的",
+                "fr": "consécutif"
+            }
+        }
+    ]
+}

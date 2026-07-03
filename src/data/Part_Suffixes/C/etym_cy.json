@@ -1,0 +1,176 @@
+{
+    "root_info": {
+        "roots": "cy (function, condition) deficiency, pregnancy, relevancy",
+        "origin": "Latin, -cia, -tia (state, quality)",
+        "meaning": {
+            "ko": "기능, 상태",
+            "en": "function, condition",
+            "ja": "機能、状態",
+            "zh": "功能、状态",
+            "fr": "fonction, état"
+        }
+    },
+    "words": [
+        {
+            "word": "deficiency",
+            "part_of_speech": "",
+            "origin": "Latin, deficere (to fail, to lack)",
+            "meaning": {
+                "ko": "부족하다",
+                "en": "to be lacking or insufficient",
+                "ja": "不足",
+                "zh": "缺乏",
+                "fr": "carence"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'아래로, 없는'",
+                        "en": "down, away",
+                        "ja": "下へ、ない",
+                        "zh": "向下、缺少",
+                        "fr": "vers le bas, absent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fic- (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ency",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'필요한 만큼 만들어지지 않은' 상태라는 의미에서 '결핍', '부족'을 뜻합니다.",
+                "en": "A state where something is not produced in the amount needed; means deficiency or shortage",
+                "ja": "必要な量だけ作られていない状態を意味し、結乏や不足を表します",
+                "zh": "表示没有按需要的量产生的状态，意为缺乏或短缺",
+                "fr": "État où quelque chose n'est pas produit en quantité suffisante; signifie carence ou pénurie"
+            },
+            "example": "The plants are showing signs of a nutrient deficiency.",
+            "translation": {
+                "ko": "그 식물들은 영양 결핍의 징후를 보이고 있다.",
+                "ja": "植物は栄養不足の兆候を示しています",
+                "zh": "这些植物显示营养缺乏的迹象",
+                "fr": "Les plantes montrent des signes de carence nutritive"
+            }
+        },
+        {
+            "word": "pregnancy",
+            "part_of_speech": "",
+            "origin": "Latin, praegnans (with child)",
+            "meaning": {
+                "ko": "임신한",
+                "en": "pregnant",
+                "ja": "妊娠",
+                "zh": "怀孕",
+                "fr": "grossesse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pregnant",
+                    "meaning": {
+                        "ko": "'임신한'",
+                        "en": "pregnant",
+                        "ja": "妊娠した",
+                        "zh": "怀孕的",
+                        "fr": "enceinte"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-cy",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'임신한 상태'를 뜻합니다.",
+                "en": "Means the state of being pregnant",
+                "ja": "妊娠した状態を意味します",
+                "zh": "表示怀孕的状态",
+                "fr": "Signifie l'état d'être enceinte"
+            },
+            "example": "The first trimester of pregnancy can be the most challenging.",
+            "translation": {
+                "ko": "임신 초기 3개월이 가장 힘들 수 있다.",
+                "ja": "妊娠初期は最も大変な時期になることがあります。",
+                "zh": "怀孕的前三个月可能是最具挑战性的。",
+                "fr": "Le premier trimestre de la grossesse peut être le plus difficile."
+            }
+        },
+        {
+            "word": "relevancy",
+            "part_of_speech": "",
+            "origin": "Latin, relevare (to raise up, to relieve)",
+            "meaning": {
+                "ko": "들어 올리다",
+                "en": "들어 올리다",
+                "ja": "関連性",
+                "zh": "相关性",
+                "fr": "pertinence"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "relevant",
+                    "meaning": {
+                        "ko": "'관련된'",
+                        "en": "related or connected",
+                        "ja": "関連した",
+                        "zh": "相关的",
+                        "fr": "lié"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-cy",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or quality",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'당면한 문제와 관련이 있는' 상태인 '관련성'을 뜻합니다.",
+                "en": "The state of being related to current matters or issues; relevance.",
+                "ja": "現在の問題に関連がある状態を意味します",
+                "zh": "与当前问题相关的状态",
+                "fr": "État d'être lié aux enjeux actuels"
+            },
+            "example": "The judge questioned the relevancy of the evidence.",
+            "translation": {
+                "ko": "판사는 그 증거의 관련성에 의문을 제기했다.",
+                "ja": "裁判官は証拠の関連性に疑問を唱えた。",
+                "zh": "法官质疑了证据的相关性。",
+                "fr": "Le juge a remis en question la pertinence de la preuve."
+            }
+        }
+    ]
+}

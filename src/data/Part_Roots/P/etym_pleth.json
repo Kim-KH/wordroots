@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "pleth (excessive) plethora, plethoric",
+        "origin": "Greek, plethore (fullness, excess)",
+        "meaning": {
+            "ko": "가득함, 과잉",
+            "en": "fullness, excess",
+            "ja": "充満、過剰",
+            "zh": "充盈、过剩",
+            "fr": "plénitude, excès"
+        }
+    },
+    "words": [
+        {
+            "word": "plethora",
+            "part_of_speech": "",
+            "origin": "Greek, plethore (fullness)",
+            "meaning": {
+                "ko": "가득함",
+                "en": "abundance or fullness",
+                "ja": "豊富さ、大量",
+                "zh": "丰富、过多",
+                "fr": "abondance, excès"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pleth-",
+                    "meaning": {
+                        "ko": "'가득 참'",
+                        "en": "to be full",
+                        "ja": "満ちている",
+                        "zh": "充满、满溢",
+                        "fr": "être plein"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'필요 이상으로 너무 많은' 상태인 '과다', '과잉'을 뜻합니다.",
+                "en": "Means an excess or overabundance, more than necessary",
+                "ja": "必要以上に多すぎる過剰な状態",
+                "zh": "表示超过必要的过量或过剩",
+                "fr": "Signifie un excès ou une surabondance au-delà du nécessaire"
+            },
+            "example": "There is a plethora of information available on the internet.",
+            "translation": {
+                "ko": "인터넷에는 과다한 정보가 있다.",
+                "ja": "インターネット上には豊富な情報がある。",
+                "zh": "互联网上有大量的信息。",
+                "fr": "Il y a une abondance d'informations disponibles sur Internet."
+            }
+        },
+        {
+            "word": "plethoric",
+            "part_of_speech": "",
+            "origin": "Greek, plethorikos (overfull)",
+            "meaning": {
+                "ko": "과하게 가득 찬",
+                "en": "excessively full or abundant",
+                "ja": "過度に満ちた",
+                "zh": "过度充满",
+                "fr": "excessivement plein"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plethor-",
+                    "meaning": {
+                        "ko": "'과다'",
+                        "en": "excess or abundance",
+                        "ja": "過剰",
+                        "zh": "过度",
+                        "fr": "excès"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과다한', '혈색이 너무 좋은'이라는 뜻입니다.",
+                "en": "Means excessively full or having excessive abundance; can also mean having an overly ruddy complexion.",
+                "ja": "過度に満ちている、または過度な豊富さを持つことを意味します。顔色が良すぎることも表します。",
+                "zh": "表示过度充满或具有过度的丰富；也可表示脸色过于红润。",
+                "fr": "Signifie excessivement plein ou ayant une abondance excessive; peut aussi signifier avoir un teint trop fleuri."
+            },
+            "example": "The market is plethoric with new products.",
+            "translation": {
+                "ko": "시장은 신제품으로 과잉 상태이다.",
+                "ja": "市場は新製品で過度に満ちている。",
+                "zh": "市场过度充满了新产品。",
+                "fr": "Le marché est excessivement plein de nouveaux produits."
+            }
+        }
+    ]
+}

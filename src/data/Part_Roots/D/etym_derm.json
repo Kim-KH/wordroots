@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "derm (skin) dermis, epidermis, hypodermic, echinoderm",
+        "origin": "Greek, derma (skin)",
+        "meaning": {
+            "ko": "피부",
+            "en": "skin",
+            "ja": "皮膚",
+            "zh": "皮肤",
+            "fr": "peau"
+        }
+    },
+    "words": [
+        {
+            "word": "dermis",
+            "part_of_speech": "",
+            "origin": "Greek, derma (skin)",
+            "meaning": {
+                "ko": "피부",
+                "en": "skin",
+                "ja": "真皮",
+                "zh": "真皮",
+                "fr": "derme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "derm-",
+                    "meaning": {
+                        "ko": "'피부'",
+                        "en": "skin",
+                        "ja": "皮膚",
+                        "zh": "皮肤",
+                        "fr": "peau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "피부의 표피 아래에 있는 '진피'를 뜻합니다.",
+                "en": "The dermis is the layer of skin beneath the epidermis.",
+                "ja": "表皮の下にある皮膚の層を意味します。",
+                "zh": "表皮下方的皮肤层。",
+                "fr": "La couche de peau sous l'épiderme."
+            },
+            "example": "The dermis contains nerve endings, blood vessels, and glands.",
+            "translation": {
+                "ko": "진피는 신경 말단, 혈관, 분비선을 포함한다.",
+                "ja": "真皮は神経終末、血管、腺を含んでいます。",
+                "zh": "真皮包含神经末梢、血管和腺体。",
+                "fr": "Le derme contient des terminaisons nerveuses, des vaisseaux sanguins et des glandes."
+            }
+        },
+        {
+            "word": "epidermis",
+            "part_of_speech": "",
+            "origin": "Greek, epi- (upon) + derma (skin)",
+            "meaning": {
+                "ko": "피부 위",
+                "en": "on top of skin",
+                "ja": "皮膚の最外層",
+                "zh": "皮肤外层",
+                "fr": "couche externe de la peau"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "epi-",
+                    "meaning": {
+                        "ko": "'~위에'",
+                        "en": "upon",
+                        "ja": "~の上に",
+                        "zh": "在~之上",
+                        "fr": "sur, au-dessus de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dermis",
+                    "meaning": {
+                        "ko": "'피부, 진피'",
+                        "en": "skin, dermis",
+                        "ja": "皮膚、真皮",
+                        "zh": "皮肤、真皮",
+                        "fr": "peau, derme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진피 위에 있는' 피부층이라는 의미에서 '표피'를 뜻합니다.",
+                "en": "The outermost layer of skin above the dermis",
+                "ja": "真皮の上にある皮膚層の意味で表皮を意味します",
+                "zh": "表示在真皮上方的皮肤层，意为表皮",
+                "fr": "La couche de peau au-dessus du derme, signifiant épiderme"
+            },
+            "example": "The epidermis is the outermost layer of the skin.",
+            "translation": {
+                "ko": "표피는 피부의 가장 바깥층이다.",
+                "ja": "表皮は皮膚の最外層です。",
+                "zh": "表皮是皮肤的最外层。",
+                "fr": "L'épiderme est la couche la plus externe de la peau."
+            }
+        },
+        {
+            "word": "hypodermic",
+            "part_of_speech": "",
+            "origin": "Greek, hypo- (under) + derma (skin)",
+            "meaning": {
+                "ko": "피부 아래",
+                "en": "under the skin",
+                "ja": "皮膚の下の",
+                "zh": "皮肤下的",
+                "fr": "sous-cutané"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hypo-",
+                    "meaning": {
+                        "ko": "'아래에'",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "derm-",
+                    "meaning": {
+                        "ko": "'피부'",
+                        "en": "skin",
+                        "ja": "皮膚",
+                        "zh": "皮肤",
+                        "fr": "peau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부 아래로 주사하는'이라는 의미에서 '피하 주사(용)의'라는 뜻입니다.",
+                "en": "Refers to injection administered under the skin; means 'hypodermic injection'",
+                "ja": "皮膚の下に注射することから、皮下注射（用）という意味です",
+                "zh": "从在皮肤下注射的意思来看，表示'皮下注射（用）'的含义",
+                "fr": "Fait référence à une injection administrée sous la peau; signifie 'injection hypodermique'"
+            },
+            "example": "A hypodermic needle is used to inject medicine under the skin.",
+            "translation": {
+                "ko": "피하 주사 바늘은 피부 아래에 약을 주사하는 데 사용된다.",
+                "ja": "皮下注射針は皮膚の下に薬を注入するために使用されます",
+                "zh": "皮下注射针用于将药物注入皮肤下方",
+                "fr": "Une aiguille hypodermique est utilisée pour injecter des médicaments sous la peau"
+            }
+        },
+        {
+            "word": "echinoderm",
+            "part_of_speech": "",
+            "origin": "Greek, ekhinos (hedgehog, sea urchin) + derma (skin)",
+            "meaning": {
+                "ko": "가시 돋친 피부",
+                "en": "spiny skin",
+                "ja": "棘皮動物",
+                "zh": "棘皮动物",
+                "fr": "échinoderm"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "echino-",
+                    "meaning": {
+                        "ko": "'고슴도치, 가시'",
+                        "en": "spiny",
+                        "ja": "棘のような",
+                        "zh": "有刺的",
+                        "fr": "épineux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "derm",
+                    "meaning": {
+                        "ko": "'피부'",
+                        "en": "skin",
+                        "ja": "皮膚",
+                        "zh": "皮肤",
+                        "fr": "peau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부에 가시가 돋친 동물'이라는 의미에서 불가사리, 성게 등을 포함하는 '극피동물'을 뜻합니다.",
+                "en": "A phylum of marine animals with spiny skin, including starfish and sea urchins",
+                "ja": "ヒトデやウニなど、皮膚にとげが生えた海の動物の総称です",
+                "zh": "包括海星和海胆等皮肤上长有棘刺的海洋动物的总称",
+                "fr": "Un phylum d'animaux marins à peau épineuse, incluant les étoiles de mer et les oursins"
+            },
+            "example": "Starfish and sea urchins are types of echinoderms.",
+            "translation": {
+                "ko": "불가사리와 성게는 극피동물의 종류이다.",
+                "ja": "ヒトデとウニは棘皮動物の一種です。",
+                "zh": "海星和海胆是棘皮动物的一种。",
+                "fr": "Les étoiles de mer et les oursins sont des types d'échinodermes."
+            }
+        }
+    ]
+}

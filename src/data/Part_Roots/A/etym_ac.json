@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "ac, acu (bitter, sharp) acrid, acumen, acute",
+        "origin": "Latin, acer (sharp, pungent), acuere (to sharpen)",
+        "meaning": {
+            "ko": "날카로운, 쓴",
+            "en": "sharp, bitter",
+            "ja": "鋭い、苦い",
+            "zh": "锐利、苦",
+            "fr": "acéré, amer"
+        }
+    },
+    "words": [
+        {
+            "word": "acrid",
+            "part_of_speech": "",
+            "origin": "Latin, acer (sharp, pungent)",
+            "meaning": {
+                "ko": "날카로운",
+                "en": "sharp",
+                "ja": "刺激的な",
+                "zh": "刺激的",
+                "fr": "acre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "acr (acer)",
+                    "meaning": {
+                        "ko": "'날카로운, 쓴'",
+                        "en": "sharp, bitter",
+                        "ja": "鋭い、苦い",
+                        "zh": "尖锐、苦涩",
+                        "fr": "aigre, amer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-id",
+                    "meaning": {
+                        "ko": "'~의 경향이 있는'",
+                        "en": "tending to be",
+                        "ja": "~の傾向がある",
+                        "zh": "~的倾向",
+                        "fr": "tendance à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "코나 혀를 '찌르는 듯(acr)' 불쾌한 냄새나 맛을 묘사하여 '매캐한', '신랄한'이라는 의미로 사용됩니다.",
+                "en": "Describes unpleasant smells or tastes that are pungent or harsh, as if pricking the nose or tongue. Used metaphorically for sharp, biting remarks.",
+                "ja": "鼻や舌を刺すような不快な匂いや味を表し、『つんとくる』『辛辣な』という意味で使われます。",
+                "zh": "描述刺鼻或刺舌的不快气味或味道，引申为尖刻、辛辣的言论。",
+                "fr": "Décrit des odeurs ou goûts désagréables qui piquent le nez ou la langue, utilisé figurément pour des remarques acérées."
+            },
+            "example": "The acrid fumes from the plant made my eyes water.",
+            "translation": {
+                "ko": "공장에서 나오는 매캐한 연기 때문에 눈물이 났다.",
+                "ja": "その工場からの刺激的な煙で目が涙ぐんだ。",
+                "zh": "来自工厂的刺激性烟雾熏得我眼泪直流。",
+                "fr": "Les fumées acres de l'usine m'ont fait pleurer les yeux."
+            }
+        },
+        {
+            "word": "acumen",
+            "part_of_speech": "",
+            "origin": "Latin, acumen (a point, sting)",
+            "meaning": {
+                "ko": "날카로운 끝",
+                "en": "a point",
+                "ja": "鋭い先端",
+                "zh": "锐利的尖端",
+                "fr": "pointe aiguisée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "acu (acuere)",
+                    "meaning": {
+                        "ko": "'날카롭게 하다'",
+                        "en": "to sharpen",
+                        "ja": "鋭くする",
+                        "zh": "磨锐",
+                        "fr": "aiguiser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-men",
+                    "meaning": {
+                        "ko": "'상태, 결과'",
+                        "en": "state or result",
+                        "ja": "状態、結果",
+                        "zh": "状态、结果",
+                        "fr": "état, résultat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어에서 '날카로운 끝'을 의미하던 것이 비유적으로 '정신적 날카로움, 명민함'을 뜻하게 되어, 현재는 '통찰력', '수완'이라는 의미로 쓰입니다.",
+                "en": "Originally meaning 'sharp point' in Latin, it was used metaphorically to mean 'mental sharpness, acuteness', and now means 'insight' or 'shrewdness'.",
+                "ja": "ラテン語で'鋭い先端'を意味していたが、比喩的に'精神的な鋭さ、敏感さ'を意味するようになり、現在は'洞察力'、'手腕'という意味で使われています。",
+                "zh": "源自拉丁语，原意为'锐利的尖端'，引申为'精神的敏锐、聪慧'，现在表示'洞察力'、'才能'。",
+                "fr": "Signifiant à l'origine 'pointe aiguisée' en latin, il a acquis métaphoriquement le sens de 'finesse mentale', et désigne maintenant 'perspicacité' ou 'astuce'."
+            },
+            "example": "Capable lawyers with business acumen are valuable to any firm.",
+            "translation": {
+                "ko": "사업적 수완을 갖춘 유능한 변호사는 어떤 회사에서든 가치가 있습니다.",
+                "ja": "有能な弁護士でビジネス手腕のある者は、どの法律事務所にも貴重です。",
+                "zh": "具有商业才能的能干律师对任何律师事务所都是宝贵的。",
+                "fr": "Les avocats compétents ayant de la perspicacité commerciale sont précieux pour tout cabinet."
+            }
+        },
+        {
+            "word": "acute",
+            "part_of_speech": "",
+            "origin": "Latin, acutus (sharp, pointed)",
+            "meaning": {
+                "ko": "날카로운",
+                "en": "sharp",
+                "ja": "鋭い",
+                "zh": "锐利的",
+                "fr": "aigu"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "acu (acuere)",
+                    "meaning": {
+                        "ko": "'날카롭게 하다'",
+                        "en": "to sharpen",
+                        "ja": "鋭くする",
+                        "zh": "使锐利",
+                        "fr": "aiguiser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'날카롭게 된' 상태를 의미하여 '날카로운', '예리한'이라는 뜻 외에도, 병이 갑자기 심각해지는 '급성의' 또는 '예각'과 같이 다양한 분야에서 '날카로움'과 관련된 의미로 확장되었습니다.",
+                "en": "Originally meaning sharpened state, the word expanded beyond sharp or keen to include acute illness (sudden severity) and acute angle (geometry), generalizing the concept of sharpness across various fields.",
+                "ja": "元々は鋭くなった状態を意味し、鋭い、鋭敏という意味以外に、急性の病気や鋭角など様々な分野で鋭さに関連した意味に拡張されました。",
+                "zh": "原本指变得锐利的状态，除了尖锐、敏锐的含义外，还扩展到急性病或锐角等各个领域与锐利相关的含义。",
+                "fr": "Signifiant initialement un état affûté, le mot s'est étendu au-delà de pointu ou vif pour inclure la maladie aiguë et l'angle aigu, généralisant le concept de netteté dans divers domaines."
+            },
+            "example": "He was suffering from acute chest pain.",
+            "translation": {
+                "ko": "그는 극심한 가슴 통증으로 고통받고 있었다.",
+                "ja": "彼は急性の胸痛に苦しんでいました。",
+                "zh": "他患有急性胸痛。",
+                "fr": "Il souffrait d'une douleur thoracique aiguë."
+            }
+        }
+    ]
+}

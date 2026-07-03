@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "ish (of, somewhat) smallish, yellowish",
+        "origin": "Old English, -isc",
+        "meaning": {
+            "ko": "…의, 약간",
+            "en": "of, somewhat",
+            "ja": "の、やや",
+            "zh": "的、有些",
+            "fr": "de, quelque peu"
+        }
+    },
+    "words": [
+        {
+            "word": "smallish",
+            "part_of_speech": "",
+            "origin": "English, small + -ish",
+            "meaning": {
+                "ko": "약간 작은",
+                "en": "somewhat small",
+                "ja": "やや小さい",
+                "zh": "略微较小",
+                "fr": "plutôt petit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "small",
+                    "meaning": {
+                        "ko": "'작은'",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ish",
+                    "meaning": {
+                        "ko": "'약간 ~한'",
+                        "en": "somewhat or rather",
+                        "ja": "やや〜な",
+                        "zh": "略微〜",
+                        "fr": "un peu ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'약간 작은'이라는 뜻입니다.",
+                "en": "It means somewhat small.",
+                "ja": "やや小さいという意味です。",
+                "zh": "表示略微较小的意思。",
+                "fr": "Cela signifie plutôt petit."
+            },
+            "example": "It's a smallish town with a friendly atmosphere.",
+            "translation": {
+                "ko": "그곳은 친근한 분위기의 약간 작은 마을이다.",
+                "ja": "フレンドリーな雰囲気のやや小さい町です。",
+                "zh": "这是一个氛围友善的略微较小的城镇。",
+                "fr": "C'est une petite ville avec une atmosphère amicale."
+            }
+        },
+        {
+            "word": "yellowish",
+            "part_of_speech": "",
+            "origin": "English, yellow + -ish",
+            "meaning": {
+                "ko": "약간 노란",
+                "en": "somewhat yellow",
+                "ja": "やや黄色い",
+                "zh": "略微发黄",
+                "fr": "légèrement jaune"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "yellow",
+                    "meaning": {
+                        "ko": "'노란'",
+                        "en": "yellow",
+                        "ja": "黄色い",
+                        "zh": "黄色的",
+                        "fr": "jaune"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ish",
+                    "meaning": {
+                        "ko": "'약간 ~한'",
+                        "en": "somewhat, rather",
+                        "ja": "やや~い",
+                        "zh": "略微~的",
+                        "fr": "légèrement ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'노란빛을 띠는'이라는 뜻입니다.",
+                "en": "It means having a yellowish tint or appearance.",
+                "ja": "黄色の色合いを帯びているという意味です",
+                "zh": "表示带有黄色色调或外观",
+                "fr": "Cela signifie avoir une teinte ou une apparence jaunâtre"
+            },
+            "example": "His teeth were yellowish from smoking.",
+            "translation": {
+                "ko": "그의 이는 흡연으로 누르스름했다.",
+                "ja": "彼の歯は喫煙でやや黄色くなっていた",
+                "zh": "他的牙齿因为吸烟而略微发黄",
+                "fr": "Ses dents étaient légèrement jaunes à cause du tabac"
+            }
+        }
+    ]
+}

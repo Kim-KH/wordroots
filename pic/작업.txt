@@ -1,0 +1,151 @@
+========================================
+어원 앱 (etymology-expo) 작업 인수인계
+2026-05-26 현재 상태 (검증된 사실만)
+========================================
+
+■ 프로젝트 위치
+E:\myapp\etymology-expo (React Native / Expo, Windows 11)
+
+■ 앱 구성
+- 4개 카테고리: Part_Origin, Part_Prefixes, Part_Roots, Part_Suffixes
+- 5개 언어: ko, en, ja, zh, fr
+- 핵심 컴포넌트: src/components/WordCard.js
+
+■ 데이터 흐름 (반드시 숙지)
+  개별 JSON 파일 (src/data/Part_*/**/*.json)
+    ↓ node scripts/build-etymology-data.js
+  src/data/etymologyData.json  ← App.js 가 import로 정적 번들링
+    ↓ npx expo start --clear   ← 반드시 --clear 필요
+  앱에 반영
+
+  ※ 중요: App.js 가 etymologyData.json 을 import로 불러오기 때문에
+    Metro 번들러 캐시를 지우지 않으면 JSON 파일을 아무리 바꿔도 앱에 반영 안 됨.
+    → 반드시 npx expo start --clear 로 실행해야 함.
+    → 그냥 npx expo start 는 캐시된 구버전을 계속 사용함.
+
+
+========================================
+현재 상태 — 검증된 사실
+========================================
+
+■ 소스 파일 (개별 JSON) 수정 완료된 항목
+  아래는 소스 파일에서 직접 확인된 사실임.
+
+  1. 5개 언어 번역 (note/translation/analysis.meaning) 완비 확인
+     - Part_Prefixes: 225/225 단어 완비
+     - Part_Roots: 1875/1875 단어 완비
+     - Part_Suffixes: 364/364 단어 완비
+
+  2. 특정 단어 수정 완료 (소스 파일 기준)
+     - enter: meaning.en = "to go into", note 5개 언어 OK
+     - terabyte: meaning.en = "one trillion bytes", note 5개 언어 OK
+     - acetylene: note 5개 언어 OK, 가짜 analysis 항목 제거됨
+     - amoretto: note 5개 언어 OK, 가짜 analysis 항목 제거됨
+     - without: meaning.en = "outside; lacking"
+                translation.ja = "あなたなしでは生きられません。" (마침표 있음)
+                translation.zh = "我没有你活不了。" (마침표 있음)
+     - syllabus: 단어 삭제 (어원과 직접 관련 없음)
+     - volt: 단어 삭제 (어원과 직접 관련 없음)
+
+  3. etym_with.json (without/withhold/within/withstand) 전체
+     - meaning.en 한국어 없음 확인됨
+     - analysis.meaning.en 한국어 없음 확인됨
+
+■ 아직 해결 안 된 문제 (핵심, 검증된 수치)
+  영어 필드(meaning.en, analysis.meaning.en)에 한국어가 들어가 있음.
+  앱을 영어로 설정하면 단어 뜻과 형태소 뜻이 한국어로 표시됨.
+
+  2026-05-26 소스 파일 직접 스캔 결과:
+    word.meaning.en 한국어: 2,305개
+    analysis[].meaning.en 한국어: 1,520개
+    영향받는 파일: 863개 (4개 카테고리 전체)
+
+  원인:
+    원본 데이터 생성 시 meaning.en 에 한국어를 그대로 복붙한 것.
+    기존 번역 스크립트들이 이 필드를 수정하지 않고 넘어감.
+
+■ without 일본어/중국어 번역 미표시 원인 (검증 완료)
+  소스 파일과 etymologyData.json 에 마침표가 있는 것을 확인했음.
+  WordCard.js의 isLikelySentence() 로직상 문제 없음.
+  원인: npx expo start --clear 없이 실행해서 Metro 캐시가 구버전을 사용.
+  해결: npx expo start --clear 로 재시작하면 반영됨.
+
+
+========================================
+존재하는 스크립트
+========================================
+
+scripts/translate-data.js
+  - 대상: Part_Prefixes, Part_Roots, Part_Suffixes
+  - note, translation, analysis.meaning 을 5개 언어로 번역
+  - 이미 실행 완료. 재실행 불필요.
+
+scripts/fix-english-fields.js  ← 이번 세션에서 새로 작성한 스크립트
+  - word.meaning.en, analysis[].meaning.en 의 한국어를 영어로 번역
+  - 실행했으나 한국어 수치가 2,305개/1,520개에서 변화 없음
+  - 스크립트 자체 동작 여부 미검증 (디버그 필요)
+  - 실행 시 각 단어마다 ✓ 또는 ✗ 출력되는지 터미널 확인 필요
+
+scripts/build-etymology-data.js
+  - 개별 JSON → etymologyData.json 통합 빌드
+  - 수정 후 반드시 실행
+
+scripts/apply-overlays.js
+  - 이미 실행 완료. 재실행 불필요.
+
+
+========================================
+해야 할 작업 순서
+========================================
+
+[Step 1] 즉시: 캐시 클리어 후 앱 실행 (without 번역 반영 확인)
+  node scripts/build-etymology-data.js
+  npx expo start --clear
+  → without 일본어/중국어 번역이 표시되면 정상
+
+[Step 2] fix-english-fields.js 동작 확인
+  $env:ANTHROPIC_API_KEY = "sk-ant-..."
+  node scripts/fix-english-fields.js
+  → 실행 시 터미널에서 각 단어 처리 결과 확인:
+    "  [1/N] 단어명... ✓"  이면 정상 저장됨
+    "  [1/N] 단어명... ✗"  이면 API 오류 → 원인 파악 필요
+
+[Step 3] 스크립트 완료 후 검증
+  node -e "
+  const fs=require('fs'),path=require('path');
+  const KOREAN=/[가-힣]/;
+  function files(d){const r=[];for(const e of fs.readdirSync(d)){const f=path.join(d,e);if(fs.statSync(f).isDirectory())r.push(...files(f));else if(e.endsWith('.json'))r.push(f);}return r;}
+  let w=0,a=0;
+  for(const p of ['Part_Origin','Part_Prefixes','Part_Roots','Part_Suffixes']){
+    for(const f of files('src/data/'+p)){
+      const d=JSON.parse(fs.readFileSync(f,'utf8'));
+      for(const word of(d.words||[])){
+        if(word.meaning?.en&&KOREAN.test(word.meaning.en))w++;
+        for(const an of(word.analysis||[]))if(an.meaning?.en&&KOREAN.test(an.meaning.en))a++;
+      }
+    }
+  }
+  console.log('word.meaning.en 한국어 잔존:',w);
+  console.log('analysis.meaning.en 한국어 잔존:',a);
+  console.log(w===0&&a===0?'완료':'미완료');
+  "
+  → 둘 다 0 이 목표
+
+[Step 4] 최종 빌드 및 앱 재시작
+  node scripts/build-etymology-data.js
+  npx expo start --clear
+
+
+========================================
+WordCard.js 번역 표시 로직
+========================================
+
+getTranslation() 에서 isLikelySentence() 로 필터링함:
+  - 문장부호(. ! ? 。！？) 있으면 표시
+  - 공백 기준 6단어 이상이면 표시
+  - 둘 다 아니면 표시 안 함 (짧은 키워드로 판단)
+
+주의: 일본어/중국어는 공백이 없으므로 반드시 문장부호(。)로 끝나야 함.
+      마침표 없는 번역 → 앱에서 보이지 않음.
+      예) "あなたなしでは生きられません" → 표시 안 됨
+          "あなたなしでは生きられません。" → 표시됨

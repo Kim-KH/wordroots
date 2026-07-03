@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "sex (six) sexpartite, sextet, sextant, sextuplet",
+        "origin": "Latin, sex (six)",
+        "meaning": {
+            "ko": "여섯",
+            "en": "six",
+            "ja": "6つ",
+            "zh": "六",
+            "fr": "six"
+        }
+    },
+    "words": [
+        {
+            "word": "sexpartite",
+            "part_of_speech": "",
+            "origin": "Latin, sex (six) + partitus (divided)",
+            "meaning": {
+                "ko": "여섯으로 나뉜",
+                "en": "divided into six parts",
+                "ja": "六つに分かれた",
+                "zh": "分成六份",
+                "fr": "divisé en six"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sex-",
+                    "meaning": {
+                        "ko": "'여섯'",
+                        "en": "six",
+                        "ja": "六",
+                        "zh": "六",
+                        "fr": "six"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "partite",
+                    "meaning": {
+                        "ko": "'나뉜'",
+                        "en": "divided",
+                        "ja": "分かれた",
+                        "zh": "分开的",
+                        "fr": "divisé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여섯 부분으로 나뉜'이라는 뜻입니다.",
+                "en": "Meaning divided into six parts",
+                "ja": "六つの部分に分かれたという意味",
+                "zh": "分成六个部分的意思",
+                "fr": "Signifie divisé en six parties"
+            },
+            "example": "The treaty created a sexpartite commission.",
+            "translation": {
+                "ko": "그 조약은 6자 위원회를 창설했다.",
+                "ja": "その条約は六者委員会を設立した。",
+                "zh": "该条约创建了一个六方委员会。",
+                "fr": "Le traité a créé une commission composée de six parties."
+            }
+        },
+        {
+            "word": "sextet",
+            "part_of_speech": "",
+            "origin": "Latin, sex (six)",
+            "meaning": {
+                "ko": "여섯",
+                "en": "six",
+                "ja": "6人の歌手グループ",
+                "zh": "六人组合",
+                "fr": "groupe de six chanteurs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sex-",
+                    "meaning": {
+                        "ko": "'여섯'",
+                        "en": "six",
+                        "ja": "6",
+                        "zh": "六",
+                        "fr": "six"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여섯 명으로 이루어진 그룹'이라는 의미에서 '6중주단' 또는 '6인조'를 뜻합니다.",
+                "en": "A group consisting of six people, meaning a sextet or group of six members",
+                "ja": "6人で構成されたグループという意味で、6重唱団または6人組を表します",
+                "zh": "由六个人组成的小组，意思是六重唱或六人组",
+                "fr": "Un groupe composé de six personnes, signifiant un sextet ou un groupe de six membres"
+            },
+            "example": "The opera features a famous sextet in the second act.",
+            "translation": {
+                "ko": "그 오페라는 2막에 유명한 6중창이 나온다.",
+                "ja": "オペラは第2幕で有名な6重唱を上演しています",
+                "zh": "这部歌剧在第二幕中以著名的六重唱为特色",
+                "fr": "L'opéra présente un célèbre sextet au deuxième acte"
+            }
+        },
+        {
+            "word": "sextant",
+            "part_of_speech": "",
+            "origin": "Latin, sextans (a sixth part)",
+            "meaning": {
+                "ko": "6분의 1",
+                "en": "one sixth",
+                "ja": "6分の1",
+                "zh": "六分之一",
+                "fr": "un sixième"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sext-",
+                    "meaning": {
+                        "ko": "'여섯 번째'",
+                        "en": "sixth",
+                        "ja": "6番目の",
+                        "zh": "第六的",
+                        "fr": "sixième"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원의 6분의 1'에 해당하는 호를 가지고 있는 데서 이름이 유래했으며, 천체의 고도를 측정하여 위치를 파악하는 항해 도구인 '육분의'를 뜻합니다.",
+                "en": "The name derives from an arc equivalent to one-sixth of a circle. It is a navigation tool that measures the altitude of celestial bodies to determine position.",
+                "ja": "円の6分の1に相当する弧を持つことから名前が由来し、天体の高度を測定して位置を把握する航海道具を意味します。",
+                "zh": "名称源自具有相当于圆的六分之一的弧线。是一种通过测量天体高度来确定位置的航海工具。",
+                "fr": "Le nom dérive d'un arc équivalent à un sixième de cercle. C'est un outil de navigation qui mesure l'altitude des corps célestes pour déterminer la position."
+            },
+            "example": "The sailor used a sextant to navigate the ship.",
+            "translation": {
+                "ko": "그 선원은 배를 항해하기 위해 육분의를 사용했다.",
+                "ja": "船乗りは船を操縦するために六分儀を使用しました。",
+                "zh": "水手用六分仪来操纵船舶。",
+                "fr": "Le marin a utilisé un sextant pour naviguer le navire."
+            }
+        },
+        {
+            "word": "sextuplet",
+            "part_of_speech": "",
+            "origin": "Latin, sex (six) + -plus (fold)",
+            "meaning": {
+                "ko": "여섯 겹",
+                "en": "six layers",
+                "ja": "六つ子",
+                "zh": "六胞胎",
+                "fr": "sextuplés"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sex-",
+                    "meaning": {
+                        "ko": "'여섯'",
+                        "en": "six",
+                        "ja": "六",
+                        "zh": "六",
+                        "fr": "six"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "한 번에 태어난 '여섯 명의 아이'를 의미하여 '여섯 쌍둥이'를 뜻합니다.",
+                "en": "Refers to six children born at the same time, meaning 'sextuplets'",
+                "ja": "一度に生まれた6人の子供を意味し、6つ子を指す",
+                "zh": "指一次出生的六个孩子，意为六胞胎",
+                "fr": "Désigne six enfants nés en même temps, signifiant sextuplés"
+            },
+            "example": "The couple became famous after having sextuplets.",
+            "translation": {
+                "ko": "그 부부는 여섯 쌍둥이를 낳은 후 유명해졌다.",
+                "ja": "そのカップルは六つ子を産んだ後、有名になりました。",
+                "zh": "这对夫妇生了六胞胎后变得有名了。",
+                "fr": "Le couple est devenu célèbre après avoir eu des sextuplés."
+            }
+        }
+    ]
+}

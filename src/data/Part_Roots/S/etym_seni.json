@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "seni (old) senile, senior, senescence",
+        "origin": "Latin, senex (old)",
+        "meaning": {
+            "ko": "늙은",
+            "en": "old",
+            "ja": "古い",
+            "zh": "老的",
+            "fr": "ancien"
+        }
+    },
+    "words": [
+        {
+            "word": "senile",
+            "part_of_speech": "",
+            "origin": "Latin, senilis (of old age)",
+            "meaning": {
+                "ko": "노년의",
+                "en": "of old age",
+                "ja": "老年の",
+                "zh": "老年的",
+                "fr": "sénile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sen-",
+                    "meaning": {
+                        "ko": "'늙은'",
+                        "en": "old",
+                        "ja": "老いた",
+                        "zh": "老的",
+                        "fr": "vieux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나이가 들어 정신이나 신체 기능이 쇠약해진'이라는 의미에서 '노망한', '노인성의'라는 뜻입니다.",
+                "en": "Means 'senile' or 'related to old age' in the sense of weakened mental or physical functions due to aging.",
+                "ja": "加齢に伴い精神や身体機能が衰えることから、痴呆症状がある、老年性のという意味です。",
+                "zh": "指因年老而导致精神或身体机能衰退的状态，意为痴呆的、老年性的。",
+                "fr": "Signifie 'sénile' ou 'relatif à la vieillesse' désignant l'affaiblissement des fonctions mentales ou physiques."
+            },
+            "example": "He is suffering from senile dementia.",
+            "translation": {
+                "ko": "그는 노인성 치매를 앓고 있다.",
+                "ja": "彼は老年性痴呆症に苦しんでいる。",
+                "zh": "他患有老年性痴呆症。",
+                "fr": "Il souffre de démence sénile."
+            }
+        },
+        {
+            "word": "senior",
+            "part_of_speech": "",
+            "origin": "Latin, senior (older)",
+            "meaning": {
+                "ko": "더 늙은",
+                "en": "older",
+                "ja": "より年上の、上位の",
+                "zh": "更年长的、更高级的",
+                "fr": "plus âgé, de rang supérieur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sen-",
+                    "meaning": {
+                        "ko": "'늙은'",
+                        "en": "old",
+                        "ja": "年老いた",
+                        "zh": "年老的",
+                        "fr": "vieux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나이나 지위가 더 높은'이라는 의미에서 '손위의', '선배의' 또는 '고위직'을 뜻합니다.",
+                "en": "Means 'senior' or 'higher ranking' in the sense of greater age or status",
+                "ja": "年齢や地位がより高いという意味で、'上級の'、'先輩の'、または'高位の職'を意味します",
+                "zh": "在年龄或地位更高的意义上，表示'高级的'、'资深的'或'高位职位'",
+                "fr": "Au sens d'un âge ou d'un statut plus élevé, signifie 'supérieur', 'ancien' ou 'poste de haut rang'"
+            },
+            "example": "He is a senior manager at the company.",
+            "translation": {
+                "ko": "그는 그 회사의 고위 관리자이다.",
+                "ja": "彼は会社の上級マネージャーです",
+                "zh": "他是公司的高级经理",
+                "fr": "Il est un directeur principal de l'entreprise"
+            }
+        },
+        {
+            "word": "senescence",
+            "part_of_speech": "",
+            "origin": "Latin, senescere (to grow old)",
+            "meaning": {
+                "ko": "늙어가다",
+                "en": "to grow old",
+                "ja": "老化する過程",
+                "zh": "衰老过程",
+                "fr": "vieillissement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sen-",
+                    "meaning": {
+                        "ko": "'늙다'",
+                        "en": "to be old",
+                        "ja": "老いている",
+                        "zh": "衰老",
+                        "fr": "être vieux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'늙어가는 과정'인 '노화', '노쇠'를 뜻합니다.",
+                "en": "The process of aging and decline",
+                "ja": "老いていく過程である老化を意味します",
+                "zh": "表示衰老和衰退的过程",
+                "fr": "Le processus de vieillissement et de déclin"
+            },
+            "example": "Senescence is a natural biological process.",
+            "translation": {
+                "ko": "노화는 자연스러운 생물학적 과정이다.",
+                "ja": "老化は自然な生物学的過程です。",
+                "zh": "衰老是一个自然的生物学过程。",
+                "fr": "Le vieillissement est un processus biologique naturel."
+            }
+        }
+    ]
+}

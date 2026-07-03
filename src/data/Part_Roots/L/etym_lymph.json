@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "lymph (clear liquid) lymph, lymphatic, lymphoma",
+        "origin": "Latin, lympha (water, a clear liquid)",
+        "meaning": {
+            "ko": "물, 맑은 액체",
+            "en": "water",
+            "ja": "水",
+            "zh": "水",
+            "fr": "eau"
+        }
+    },
+    "words": [
+        {
+            "word": "lymph",
+            "part_of_speech": "",
+            "origin": "Latin, lympha (water)",
+            "meaning": {
+                "ko": "맑은 액체",
+                "en": "clear fluid",
+                "ja": "透明な液体",
+                "zh": "透明液体",
+                "fr": "liquide transparent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lymph-",
+                    "meaning": {
+                        "ko": "'림프'",
+                        "en": "lymph",
+                        "ja": "リンパ",
+                        "zh": "淋巴",
+                        "fr": "lymphe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'체내의 투명한 액체'인 '림프', '임파액'을 뜻합니다.",
+                "en": "Refers to lymph or lymphatic fluid, a transparent liquid in the body",
+                "ja": "体内の透明な液体であるリンパを意味します",
+                "zh": "指体内透明液体淋巴",
+                "fr": "Fait référence à la lymphe, un liquide transparent dans le corps"
+            },
+            "example": "The lymph carries white blood cells throughout the body.",
+            "translation": {
+                "ko": "림프는 백혈구를 온몸으로 운반한다.",
+                "ja": "リンパは全身の白血球を運びます。",
+                "zh": "淋巴在全身输送白血球。",
+                "fr": "La lymphe transporte les globules blancs dans tout le corps."
+            }
+        },
+        {
+            "word": "lymphatic",
+            "part_of_speech": "",
+            "origin": "Latin, lymphaticus (full of water, frenzied)",
+            "meaning": {
+                "ko": "물로 가득 찬",
+                "en": "full of water",
+                "ja": "リンパで満たされた",
+                "zh": "充满淋巴液的",
+                "fr": "rempli de lymphe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lymph-",
+                    "meaning": {
+                        "ko": "'림프'",
+                        "en": "lymph",
+                        "ja": "リンパ",
+                        "zh": "淋巴",
+                        "fr": "lymphe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'림프의', '림프계의'라는 뜻입니다.",
+                "en": "Means 'of lymph' or 'of the lymph system'",
+                "ja": "リンパの、リンパ系の",
+                "zh": "淋巴的、淋巴系统的",
+                "fr": "de la lymphe, du système lymphatique"
+            },
+            "example": "The lymphatic system helps to remove toxins from the body.",
+            "translation": {
+                "ko": "림프계는 몸에서 독소를 제거하는 것을 돕는다.",
+                "ja": "リンパ系は体から毒素を除去するのに役立ちます。",
+                "zh": "淋巴系统有助于清除体内毒素。",
+                "fr": "Le système lymphatique aide à éliminer les toxines du corps."
+            }
+        },
+        {
+            "word": "lymphoma",
+            "part_of_speech": "",
+            "origin": "Latin, lympha (water) + Greek, -oma (tumor)",
+            "meaning": {
+                "ko": "림프 종양",
+                "en": "lymph tumor",
+                "ja": "リンパ腫",
+                "zh": "淋巴瘤",
+                "fr": "lymphome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lymph-",
+                    "meaning": {
+                        "ko": "'림프'",
+                        "en": "lymph",
+                        "ja": "リンパ液",
+                        "zh": "淋巴",
+                        "fr": "lymphe"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-oma",
+                    "meaning": {
+                        "ko": "'종양'",
+                        "en": "tumor",
+                        "ja": "腫瘍",
+                        "zh": "肿瘤",
+                        "fr": "tumeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'림프계에 생기는 악성 종양'인 '림프종'을 뜻합니다.",
+                "en": "Refers to lymphoma, a malignant tumor occurring in the lymphatic system",
+                "ja": "リンパ系に生じる悪性腫瘍を意味します",
+                "zh": "指淋巴系统中发生的恶性肿瘤",
+                "fr": "Désigne une tumeur maligne qui se forme dans le système lymphatique"
+            },
+            "example": "Lymphoma is a type of cancer.",
+            "translation": {
+                "ko": "림프종은 암의 일종이다.",
+                "ja": "リンパ腫は一種のがんです",
+                "zh": "淋巴瘤是一种癌症",
+                "fr": "Le lymphome est un type de cancer"
+            }
+        }
+    ]
+}

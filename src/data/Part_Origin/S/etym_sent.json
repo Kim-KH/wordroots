@@ -1,0 +1,402 @@
+{
+    "root_info": {
+        "roots": "sent, sens: feel, think",
+        "origin": "Latin, sentire",
+        "meaning": {
+            "ko": "느끼다",
+            "en": "to feel",
+            "ja": "感じる",
+            "zh": "感受",
+            "fr": "sentir"
+        }
+    },
+    "words": [
+        {
+            "word": "sensory",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens",
+                    "meaning": {
+                        "ko": "느끼다",
+                        "en": "to feel",
+                        "ja": "感じる",
+                        "zh": "感受",
+                        "fr": "sentir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ory",
+                    "meaning": {
+                        "ko": "~에 관련된",
+                        "en": "related to",
+                        "ja": "~に関連する",
+                        "zh": "与~相关",
+                        "fr": "lié à~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'느끼는 것과 관련된'이라는 의미에서 '감각의'라는 뜻입니다.",
+                "en": "Means 'relating to sensation or perception' from the concept of 'related to feeling'",
+                "ja": "感じることに関連するという意味から、感覚の、という意味です",
+                "zh": "从与感受相关这一概念推导出感觉的、知觉的之意",
+                "fr": "Signifie 'relatif à la sensation ou à la perception' du concept 'lié au sentiment'"
+            },
+            "example": "Our eyes and ears are sensory organs.",
+            "translation": {
+                "ko": "우리의 눈과 귀는 감각 기관이다.",
+                "ja": "私たちの目と耳は感覚器官です。",
+                "zh": "我们的眼睛和耳朵是感觉器官。",
+                "fr": "Nos yeux et nos oreilles sont des organes sensoriels."
+            }
+        },
+        {
+            "word": "sentient",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sent",
+                    "meaning": {
+                        "ko": "느끼다",
+                        "en": "to feel",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ient",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'느낄 수 있는 능력이 있는'이라는 의미에서 '지각이 있는'이라는 뜻입니다.",
+                "en": "From the ability to perceive or feel; capable of sensation or awareness",
+                "ja": "感覚を感じることができる能力から；知覚や意識がある",
+                "zh": "从能够感知或感受的能力而来；具有感觉或意识的",
+                "fr": "De la capacité à percevoir ou ressentir; capable de sensation ou de conscience"
+            },
+            "example": "Are animals sentient beings?",
+            "translation": {
+                "ko": "동물은 지각이 있는 존재인가?",
+                "ja": "動物は知覚能力のある生物ですか？",
+                "zh": "动物是有知觉的生物吗？",
+                "fr": "Les animaux sont-ils des êtres sensibles ?"
+            }
+        },
+        {
+            "word": "assent",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "as- (ad-)",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to",
+                        "ja": "～へ",
+                        "zh": "向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sent",
+                    "meaning": {
+                        "ko": "느끼다, 생각하다",
+                        "en": "to feel, think",
+                        "ja": "感じる、考える",
+                        "zh": "感受、思考",
+                        "fr": "sentir, penser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 의견 쪽으로 같이 느끼다'는 의미에서, '찬성하다', '동의하다'는 뜻입니다.",
+                "en": "From the sense of 'feeling together toward an opinion': to agree with, to consent to",
+                "ja": "「ある意見の方向で一緒に感じる」という意味から、「同意する」「賛成する」という意味になります。",
+                "zh": "从「朝着某一观点共同感受」的意义引申，表示「同意」、「赞成」。",
+                "fr": "Du sens « ressentir ensemble vers une opinion » : donner son accord, consentir."
+            },
+            "example": "The committee assented to the proposal.",
+            "translation": {
+                "ko": "위원회는 그 제안에 찬성했다.",
+                "ja": "委員会はその提案に同意した。",
+                "zh": "委员会同意了该提案。",
+                "fr": "Le comité a donné son consentement à la proposition."
+            }
+        },
+        {
+            "word": "insensible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens",
+                    "meaning": {
+                        "ko": "느끼다",
+                        "en": "to feel",
+                        "ja": "感じる",
+                        "zh": "感受",
+                        "fr": "sentir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'느낄 수 없는'이라는 의미에서 '무감각한', '의식을 잃은'이라는 뜻입니다.",
+                "en": "Means 'unable to feel' or 'unaware'; describes numbness or unconsciousness.",
+                "ja": "「感じることができない」という意味で、「無感覚な」「意識を失った」という意味です。",
+                "zh": "意为「无法感受」，表示「麻木的」、「失去意识的」。",
+                "fr": "Signifie « incapable de sentir » ; désigne l'insensibilité ou l'inconscience."
+            },
+            "example": "He was insensible to pain.",
+            "translation": {
+                "ko": "그는 고통을 느끼지 못했다.",
+                "ja": "彼は痛みを感じなかった。",
+                "zh": "他对疼痛毫无感觉。",
+                "fr": "Il était insensible à la douleur."
+            }
+        },
+        {
+            "word": "sentinel",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sent",
+                    "meaning": {
+                        "ko": "느끼다, 감시하다",
+                        "en": "to feel, watch",
+                        "ja": "感じる、監視する",
+                        "zh": "感受、监视",
+                        "fr": "sentir, surveiller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "주변의 위험을 '느끼고 지켜보는 사람'이라는 의미에서 '보초', '감시병'을 뜻합니다.",
+                "en": "One who feels and watches for dangers around; a guard or sentry",
+                "ja": "周囲の危険を『感じて見守る人』という意味から『見張り番』『監視兵』を意味します",
+                "zh": "从'感受周围危险并监视的人'的含义延伸出'岗哨''哨兵'的意思",
+                "fr": "Celui qui sent et surveille les dangers autour ; signifie 'sentinelle' ou 'factionnaire'"
+            },
+            "example": "A sentinel stood guard at the gate.",
+            "translation": {
+                "ko": "보초가 문에서 경비를 섰다.",
+                "ja": "見張り番が門で警備に立っていた。",
+                "zh": "哨兵站在大门前守卫。",
+                "fr": "Une sentinelle montait la garde à la porte."
+            }
+        },
+        {
+            "word": "consent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sent",
+                    "meaning": {
+                        "ko": "느끼다",
+                        "en": "to feel",
+                        "ja": "感じる",
+                        "zh": "感受",
+                        "fr": "sentir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 느끼다'는 의미에서, '동의', '허락'을 뜻합니다.",
+                "en": "From the sense of 'feeling together,' meaning agreement or permission.",
+                "ja": "「一緒に感じる」という意味から、「同意」「許可」を意味します。",
+                "zh": "从「一起感受」的意义出发，表示「同意」「许可」。",
+                "fr": "Du sens de « sentir ensemble », signifiant accord ou permission."
+            },
+            "example": "You need your parents' consent.",
+            "translation": {
+                "ko": "당신은 부모님의 동의가 필요하다.",
+                "ja": "あなたは両親の同意が必要です。",
+                "zh": "你需要你父母的同意。",
+                "fr": "Vous avez besoin du consentement de vos parents."
+            }
+        },
+        {
+            "word": "resent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로, 반대로",
+                        "en": "back, against",
+                        "ja": "後ろに、反対に",
+                        "zh": "向后、反对",
+                        "fr": "arrière, contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sent",
+                    "meaning": {
+                        "ko": "느끼다",
+                        "en": "to feel",
+                        "ja": "感じる",
+                        "zh": "感受",
+                        "fr": "sentir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어떤 일에 대해 '거슬러 느끼는' 부정적인 감정이라는 의미에서, '분개하다', '억울하게 여기다'는 뜻입니다.",
+                "en": "A negative emotion of feeling opposed or disturbed by something; to feel indignant or wronged.",
+                "ja": "何かに対して『反発して感じる』負の感情という意味から、『憤慨する』『不当だと感じる』という意味です。",
+                "zh": "指对某事'反感地感受'的负面情绪，意为'愤恨'、'感到委屈'。",
+                "fr": "Une émotion négative de se sentir contrarié ou troublé par quelque chose; se sentir indigné ou lésé."
+            },
+            "example": "She resented his criticism.",
+            "translation": {
+                "ko": "그녀는 그의 비판에 분개했다.",
+                "ja": "彼女は彼の批判に憤慨した。",
+                "zh": "她对他的批评感到愤恨。",
+                "fr": "Elle a ressenti de l'indignation face à sa critique."
+            }
+        },
+        {
+            "word": "sensitive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens",
+                    "meaning": {
+                        "ko": "느끼다",
+                        "en": "to feel",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itive",
+                    "meaning": {
+                        "ko": "~의 성질을 가진",
+                        "en": "having the quality of",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘 느끼는' 성질을 의미하며, '세심한', '민감한', '예민한'이라는 뜻으로 쓰입니다.",
+                "en": "Describes the quality of being easily felt or affected; means keen, responsive, or easily irritated.",
+                "ja": "よく感じる性質を意味し、細心な、敏感な、神経質なという意味で使われます。",
+                "zh": "表示容易感受的性质，意为细心的、敏感的、神经过敏的。",
+                "fr": "Décrit la qualité d'être facilement ressenti; signifie attentif, réactif ou facilement irrité."
+            },
+            "example": "My teeth are sensitive to cold.",
+            "translation": {
+                "ko": "내 이는 찬 것에 민감하다.",
+                "ja": "私の歯は冷たいものに敏感だ。",
+                "zh": "我的牙齿对冷的东西敏感。",
+                "fr": "Mes dents sont sensibles au froid."
+            }
+        },
+        {
+            "word": "sense",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens",
+                    "meaning": {
+                        "ko": "느끼다",
+                        "en": "to feel",
+                        "ja": "感じる",
+                        "zh": "感受",
+                        "fr": "ressentir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'느끼는 능력'이라는 의미에서, 시각, 청각 등의 '감각' 또는 '분별력', '의미' 등 다양한 뜻으로 쓰입니다.",
+                "en": "From the ability to perceive; used variously for senses like sight and hearing, discernment, or meaning.",
+                "ja": "知覚する能力から派生し、視覚や聴覚などの『感覚』、『判断力』、『意味』など様々な意味で使われる。",
+                "zh": "源自感知能力，衍生出视觉、听觉等『感官』以及『判断力』、『含义』等多种含义。",
+                "fr": "Issu de la capacité à percevoir; utilisé pour diverses acceptions comme les sens (vue, ouïe), le jugement ou la signification."
+            },
+            "example": "He has a good sense of humor.",
+            "translation": {
+                "ko": "그는 유머 감각이 좋다.",
+                "ja": "彼はユーモアのセンスが良い。",
+                "zh": "他的幽默感很好。",
+                "fr": "Il a un bon sens de l'humour."
+            }
+        },
+        {
+            "word": "sensible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens",
+                    "meaning": {
+                        "ko": "느끼다, 분별하다",
+                        "en": "to feel, discern",
+                        "ja": "感じる、判別する",
+                        "zh": "感受、辨别",
+                        "fr": "sentir, discerner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'분별할 수 있는'이라는 의미에서 '분별 있는', '합리적인'이라는 뜻입니다.",
+                "en": "From the sense of 'able to discern': means 'judicious', 'rational'",
+                "ja": "「判別できる」という意味から、「分別のある」「理性的な」という意味になりました。",
+                "zh": "从「能够分辨」的意思延伸到「明智的」「理性的」的含义。",
+                "fr": "Du sens « capable de discerner » : signifie « judicieux », « rationnel »."
+            },
+            "example": "That was a very sensible decision.",
+            "translation": {
+                "ko": "그것은 매우 분별 있는 결정이었다.",
+                "ja": "それは非常に分別のある決定でした。",
+                "zh": "那是一个非常明智的决定。",
+                "fr": "C'était une décision très sensée."
+            }
+        }
+    ]
+}

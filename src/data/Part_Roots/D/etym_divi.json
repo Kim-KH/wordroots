@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "divi (cut, apart) divide, dividend, individual",
+        "origin": "Latin, dividere (to force apart, to distribute)",
+        "meaning": {
+            "ko": "나누다, 분배하다",
+            "en": "to separate, to distribute",
+            "ja": "分ける、分配する",
+            "zh": "分离，分配",
+            "fr": "séparer, distribuer"
+        }
+    },
+    "words": [
+        {
+            "word": "divide",
+            "part_of_speech": "",
+            "origin": "Latin, dividere",
+            "meaning": {
+                "ko": "나누다",
+                "en": "to divide",
+                "ja": "分ける",
+                "zh": "分开",
+                "fr": "diviser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "apart",
+                        "ja": "離れて",
+                        "zh": "分开",
+                        "fr": "apart"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vid-",
+                    "meaning": {
+                        "ko": "'나누다, 보다'",
+                        "en": "to separate, see",
+                        "ja": "分ける、見る",
+                        "zh": "分开、看",
+                        "fr": "séparer, voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'분리하여 나누다'는 의미입니다.",
+                "en": "It means to separate and divide",
+                "ja": "分離して分ける意味です",
+                "zh": "分离并分开的意思",
+                "fr": "Cela signifie séparer et diviser"
+            },
+            "example": "Let's divide the cake into four pieces.",
+            "translation": {
+                "ko": "케이크를 네 조각으로 나누자.",
+                "ja": "ケーキを4つに分けましょう",
+                "zh": "让我们把蛋糕分成四份",
+                "fr": "Divisons le gâteau en quatre parts"
+            }
+        },
+        {
+            "word": "dividend",
+            "part_of_speech": "",
+            "origin": "Latin, dividendum (thing to be divided)",
+            "meaning": {
+                "ko": "나누어져야 할 것",
+                "en": "something that should be divided",
+                "ja": "分配すべきもの",
+                "zh": "应分配的东西",
+                "fr": "ce qui doit être divisé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "divid-",
+                    "meaning": {
+                        "ko": "'나누다'",
+                        "en": "to divide",
+                        "ja": "分ける",
+                        "zh": "分割",
+                        "fr": "diviser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주주들에게 나누어 주어야 할 이익'이라는 의미에서 '배당금'을 뜻합니다.",
+                "en": "Refers to profits that should be distributed to shareholders",
+                "ja": "株主に分配すべき利益を意味します",
+                "zh": "指应该分配给股东的利润",
+                "fr": "Désigne les bénéfices à distribuer aux actionnaires"
+            },
+            "example": "The company declared a dividend of 50 cents per share.",
+            "translation": {
+                "ko": "그 회사는 주당 50센트의 배당금을 공시했다.",
+                "ja": "配当金",
+                "zh": "股息",
+                "fr": "dividende"
+            }
+        },
+        {
+            "word": "individual",
+            "part_of_speech": "",
+            "origin": "Latin, individualis (indivisible)",
+            "meaning": {
+                "ko": "나눌 수 없는",
+                "en": "cannot be divided",
+                "ja": "分割不可の",
+                "zh": "不可分割的",
+                "fr": "indivisible"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "〜ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "divid-",
+                    "meaning": {
+                        "ko": "'나누다'",
+                        "en": "to divide",
+                        "ja": "分割する",
+                        "zh": "分割",
+                        "fr": "diviser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더 이상 나눌 수 없는 하나의 단위'라는 의미에서 '개인' 또는 '개개의'라는 뜻이 되었습니다.",
+                "en": "From the meaning 'a single unit that cannot be further divided', it came to mean 'individual' or 'single'.",
+                "ja": "これ以上分割できない1つの単位という意味から、個人または個々のという意味になりました。",
+                "zh": "从不能进一步分割的单一单位的含义，衍生出个人或单个的意思。",
+                "fr": "Du sens d'une unité unique qui ne peut pas être divisée davantage, il a pris le sens d'individu ou d'unique."
+            },
+            "example": "Every individual has the right to freedom of speech.",
+            "translation": {
+                "ko": "모든 개인은 언론의 자유에 대한 권리를 가진다.",
+                "ja": "すべての個人は言論の自由を享受する権利があります。",
+                "zh": "每个人都有言论自由的权利。",
+                "fr": "Chaque individu a le droit à la liberté d'expression."
+            }
+        }
+    ]
+}

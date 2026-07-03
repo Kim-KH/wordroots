@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ity (state) formality, parity, reality",
+        "origin": "Latin, -itas",
+        "meaning": {
+            "ko": "상태",
+            "en": "state",
+            "ja": "状態",
+            "zh": "状态",
+            "fr": "état"
+        }
+    },
+    "words": [
+        {
+            "word": "formality",
+            "part_of_speech": "",
+            "origin": "Latin, formalis (formal)",
+            "meaning": {
+                "ko": "형식적인",
+                "en": "formal or ceremonial in nature",
+                "ja": "形式的なこと",
+                "zh": "形式性",
+                "fr": "formalité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "formal",
+                    "meaning": {
+                        "ko": "'형식적인'",
+                        "en": "formal or ceremonial",
+                        "ja": "形式的な",
+                        "zh": "形式的的",
+                        "fr": "formel"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'형식을 갖춘 상태' 또는 '형식적인 절차'를 뜻합니다.",
+                "en": "Refers to the state of having form or formal procedure",
+                "ja": "形式を備えた状態または形式的な手続きを意味します",
+                "zh": "指具有形式或正式程序的状态",
+                "fr": "Désigne l'état d'avoir une forme ou une procédure formelle"
+            },
+            "example": "We don't need to stand on formality here.",
+            "translation": {
+                "ko": "우리는 여기서 격식을 차릴 필요가 없다.",
+                "ja": "ここでは形式にこだわる必要はありません",
+                "zh": "我们这里不需要讲究形式",
+                "fr": "Nous n'avons pas besoin de faire preuve de formalité ici"
+            }
+        },
+        {
+            "word": "parity",
+            "part_of_speech": "",
+            "origin": "Latin, paritas (equality)",
+            "meaning": {
+                "ko": "동등함",
+                "en": "state of being equal",
+                "ja": "同等性",
+                "zh": "平等",
+                "fr": "parité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "par-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "等しい",
+                        "zh": "相等的",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 동등한 상태'인 '동등', '균등'을 뜻합니다.",
+                "en": "Means equality or equivalence, referring to a state where things are mutually equal or balanced.",
+                "ja": "相互に同等の状態である同等性または均等性を意味します。",
+                "zh": "指相互平等或均衡的状态，表示同等或平衡。",
+                "fr": "Signifie l'égalité ou l'équivalence, se référant à un état où les choses sont mutuellement égales ou équilibrées."
+            },
+            "example": "The company is working to achieve gender parity in management.",
+            "translation": {
+                "ko": "그 회사는 경영진의 성 평등을 달성하기 위해 노력하고 있다.",
+                "ja": "同社は経営層における女性の同等性を達成するために取り組んでいます。",
+                "zh": "该公司正在努力实现管理层的性别平等。",
+                "fr": "L'entreprise s'efforce d'atteindre la parité des sexes dans la gestion."
+            }
+        },
+        {
+            "word": "reality",
+            "part_of_speech": "",
+            "origin": "Latin, realis (real)",
+            "meaning": {
+                "ko": "실제의",
+                "en": "actual or real",
+                "ja": "現実、実際の状態",
+                "zh": "现实、实际状态",
+                "fr": "réalité, état réel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "real",
+                    "meaning": {
+                        "ko": "'실제의'",
+                        "en": "real",
+                        "ja": "実際の",
+                        "zh": "实际的",
+                        "fr": "réel"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상상이나 거짓이 아닌 실제의 상태'인 '현실'을 뜻합니다.",
+                "en": "Means 'reality' - the actual state that is not imagination or falsehood",
+                "ja": "想像や嘘ではなく実際の状態である現実を意味します",
+                "zh": "表示不是想象或谎言的实际状态的现实",
+                "fr": "Signifie réalité - l'état réel qui n'est pas imagination ou mensonge"
+            },
+            "example": "The reality of the situation is that we are losing money.",
+            "translation": {
+                "ko": "상황의 현실은 우리가 돈을 잃고 있다는 것이다.",
+                "ja": "その状況の現実は、私たちがお金を失っているということです。",
+                "zh": "这个情况的现实是，我们正在赔钱。",
+                "fr": "La réalité de la situation est que nous perdons de l'argent."
+            }
+        }
+    ]
+}

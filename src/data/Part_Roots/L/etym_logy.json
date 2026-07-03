@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "logy (study of) astrology, biology, ecology, zoology",
+        "origin": "Greek, logos (word, reason, study)",
+        "meaning": {
+            "ko": "학문",
+            "en": "study of",
+            "ja": "～の研究",
+            "zh": "研究",
+            "fr": "étude de"
+        }
+    },
+    "words": [
+        {
+            "word": "astrology",
+            "part_of_speech": "",
+            "origin": "Greek, astron (star) + logos (study)",
+            "meaning": {
+                "ko": "별 연구",
+                "en": "study of stars",
+                "ja": "星の研究",
+                "zh": "星的研究",
+                "fr": "étude des étoiles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "astro-",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "星",
+                        "fr": "étoile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별의 위치와 움직임으로 운명을 연구하는' 학문인 '점성술'을 뜻합니다.",
+                "en": "A discipline that studies destiny through the positions and movements of stars",
+                "ja": "星の位置と動きで運命を研究する学問である占星術を意味します",
+                "zh": "通过星体的位置和运动来研究命运的学科，即占星术",
+                "fr": "Une discipline étudiant le destin par les positions et mouvements des étoiles"
+            },
+            "example": "Many people read their horoscopes, which are based on astrology.",
+            "translation": {
+                "ko": "많은 사람들이 점성술에 기반한 별자리를 읽는다.",
+                "ja": "占星術",
+                "zh": "占星术",
+                "fr": "astrologie"
+            }
+        },
+        {
+            "word": "biology",
+            "part_of_speech": "",
+            "origin": "Greek, bios (life) + logos (study)",
+            "meaning": {
+                "ko": "생명 연구",
+                "en": "study of life",
+                "ja": "生命の研究",
+                "zh": "生命研究",
+                "fr": "étude de la vie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio-",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생명체를 연구하는 학문'인 '생물학'을 뜻합니다.",
+                "en": "The study of living organisms",
+                "ja": "生命体を研究する学問",
+                "zh": "研究生命体的学科",
+                "fr": "La science étudiant les êtres vivants"
+            },
+            "example": "She is a professor of biology.",
+            "translation": {
+                "ko": "그녀는 생물학 교수이다.",
+                "ja": "彼女は生物学の教授です。",
+                "zh": "她是生物学教授。",
+                "fr": "Elle est professeure de biologie."
+            }
+        },
+        {
+            "word": "ecology",
+            "part_of_speech": "",
+            "origin": "Greek, oikos (house) + logos (study)",
+            "meaning": {
+                "ko": "집에 대한 연구",
+                "en": "study of home",
+                "ja": "環境に関する研究",
+                "zh": "环境研究",
+                "fr": "étude de l'environnement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eco-",
+                    "meaning": {
+                        "ko": "'집, 환경'",
+                        "en": "house, environment",
+                        "ja": "家、環境",
+                        "zh": "家、环境",
+                        "fr": "maison, environnement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생물이 사는 집(환경)에 대해 연구하는 학문'이라는 의미에서 '생태학'을 뜻합니다.",
+                "en": "Refers to the science that studies the environment where organisms live",
+                "ja": "生物が生きる環境に関する学問を意味します",
+                "zh": "指研究生物生活的环境的科学",
+                "fr": "La science qui étudie l'environnement où vivent les organismes"
+            },
+            "example": "Pollution has a negative impact on the local ecology.",
+            "translation": {
+                "ko": "오염은 지역 생태계에 부정적인 영향을 미친다.",
+                "ja": "汚染は地域の生態系に悪影響を与えます。",
+                "zh": "污染对当地生态系统产生了负面影响。",
+                "fr": "La pollution a un impact négatif sur l'écologie locale."
+            }
+        },
+        {
+            "word": "zoology",
+            "part_of_speech": "",
+            "origin": "Greek, zoion (animal) + logos (study)",
+            "meaning": {
+                "ko": "동물 연구",
+                "en": "study of animals",
+                "ja": "動物を研究する学問",
+                "zh": "研究动物的学科",
+                "fr": "étude des animaux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "zoo-",
+                    "meaning": {
+                        "ko": "'동물'",
+                        "en": "animal",
+                        "ja": "動物",
+                        "zh": "动物",
+                        "fr": "animal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동물을 연구하는 학문'인 '동물학'을 뜻합니다.",
+                "en": "Zoology refers to 動物学 (the study of animals)",
+                "ja": "動物学とは、動物を研究する学問です",
+                "zh": "动物学是指研究动物的学科",
+                "fr": "La zoologie est l'étude des animaux"
+            },
+            "example": "Zoology is a branch of biology.",
+            "translation": {
+                "ko": "동물학은 생물학의 한 분야이다.",
+                "ja": "動物学は生物学の一分野です",
+                "zh": "动物学是生物学的一个分支",
+                "fr": "La zoologie est une branche de la biologie"
+            }
+        }
+    ]
+}

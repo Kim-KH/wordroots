@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "plast(y) (particle) chloroplast, euplastic, leucoplast",
+        "origin": "Greek, plastos (formed, molded)",
+        "meaning": {
+            "ko": "형성된 것, 입자",
+            "en": "particle",
+            "ja": "粒子",
+            "zh": "粒子",
+            "fr": "particule"
+        }
+    },
+    "words": [
+        {
+            "word": "chloroplast",
+            "part_of_speech": "",
+            "origin": "Greek, khloros (green) + plastos (formed)",
+            "meaning": {
+                "ko": "녹색으로 형성된 것",
+                "en": "formed in green color",
+                "ja": "緑色の粒子",
+                "zh": "绿色颗粒",
+                "fr": "particule verte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chloro-",
+                    "meaning": {
+                        "ko": "'녹색'",
+                        "en": "green",
+                        "ja": "緑色",
+                        "zh": "绿色",
+                        "fr": "vert"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plast",
+                    "meaning": {
+                        "ko": "'입자, 색소체'",
+                        "en": "particle, pigment body",
+                        "ja": "粒子、色素体",
+                        "zh": "颗粒、色素体",
+                        "fr": "particule, plastide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물 세포 안에서 녹색을 띠는 입자'로, 광합성이 일어나는 '엽록체'를 뜻합니다.",
+                "en": "Chloroplasts are green particles found in plant cells where photosynthesis occurs, known as chloroplasts or leaf green bodies.",
+                "ja": "植物細胞内に存在する緑色の粒子で、光合成が起こる葉緑体を意味します。",
+                "zh": "植物细胞中呈绿色的颗粒，是进行光合作用的叶绿体。",
+                "fr": "Particule verte dans les cellules végétales où se déroule la photosynthèse, appelée chloroplaste."
+            },
+            "example": "Chloroplasts are responsible for photosynthesis in plants.",
+            "translation": {
+                "ko": "엽록체는 식물의 광합성을 담당한다.",
+                "ja": "葉緑体",
+                "zh": "叶绿体",
+                "fr": "chloroplaste"
+            }
+        },
+        {
+            "word": "euplastic",
+            "part_of_speech": "",
+            "origin": "Greek, eu- (good, well) + plastos (formed)",
+            "meaning": {
+                "ko": "잘 형성된",
+                "en": "well formed",
+                "ja": "良好に形成された",
+                "zh": "形成良好的",
+                "fr": "bien formé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eu-",
+                    "meaning": {
+                        "ko": "'좋은'",
+                        "en": "good",
+                        "ja": "良い",
+                        "zh": "好的",
+                        "fr": "bon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plastic",
+                    "meaning": {
+                        "ko": "'형성하는'",
+                        "en": "forming or shaping",
+                        "ja": "形成する",
+                        "zh": "形成",
+                        "fr": "former"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'치유를 위해 조직을 잘 형성하는'이라는 의학 용어입니다.",
+                "en": "Medical term meaning forming tissue well for healing",
+                "ja": "治癒のために組織をよく形成する医学用語です",
+                "zh": "为愈合而良好形成组织的医学术语",
+                "fr": "Terme médical signifiant former bien les tissus pour la guérison"
+            },
+            "example": "The surgeon applied a euplastic dressing to the wound.",
+            "translation": {
+                "ko": "외과 의사는 상처에 조직 형성 촉진 드레싱을 붙였다.",
+                "ja": "外科医は創傷に良好形成包帯を適用した",
+                "zh": "外科医生将形成良好的敷料涂在伤口上",
+                "fr": "Le chirurgien a appliqué un pansement euplastique sur la plaie"
+            }
+        },
+        {
+            "word": "leucoplast",
+            "part_of_speech": "",
+            "origin": "Greek, leukos (white) + plastos (formed)",
+            "meaning": {
+                "ko": "흰색으로 형성된 것",
+                "en": "formed in white color",
+                "ja": "白色体",
+                "zh": "白色体",
+                "fr": "leucoplaste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leuco-",
+                    "meaning": {
+                        "ko": "'흰색'",
+                        "en": "white",
+                        "ja": "白色",
+                        "zh": "白色",
+                        "fr": "blanc"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plast",
+                    "meaning": {
+                        "ko": "'입자, 색소체'",
+                        "en": "particle, pigment body",
+                        "ja": "粒子、色素体",
+                        "zh": "粒子、色素体",
+                        "fr": "particule, plastide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물 세포 안의 색깔 없는 입자'로, 녹말 등을 저장하는 '백색체'를 뜻합니다.",
+                "en": "Colorless particles in plant cells that store starch and other compounds, found in non-photosynthetic tissues.",
+                "ja": "植物細胞内の無色粒子で、澱粉などを貯蔵する白色体です。",
+                "zh": "植物细胞内的无色粒子，储存淀粉等物质的白色体。",
+                "fr": "Particules incolores dans les cellules végétales qui stockent l'amidon, appelées leucoplastes."
+            },
+            "example": "Leucoplasts are found in the non-photosynthetic parts of a plant, such as the roots.",
+            "translation": {
+                "ko": "백색체는 뿌리와 같이 식물의 비광합성 부분에서 발견된다.",
+                "ja": "白色体は植物の根などの非光合成部位に見られます。",
+                "zh": "白色体存在于植物的根等无光合作用的部位。",
+                "fr": "Les leucoplastes se trouvent dans les parties non photosynthétiques d'une plante, comme les racines."
+            }
+        }
+    ]
+}

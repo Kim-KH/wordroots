@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "schizo (split) schist, schizoid, schizophrenia",
+        "origin": "Greek, skhizein (to split)",
+        "meaning": {
+            "ko": "쪼개다",
+            "en": "to split",
+            "ja": "分ける",
+            "zh": "劈开",
+            "fr": "fendre"
+        }
+    },
+    "words": [
+        {
+            "word": "schist",
+            "part_of_speech": "",
+            "origin": "Greek, skhistos (split)",
+            "meaning": {
+                "ko": "쪼개진",
+                "en": "split or cleaved",
+                "ja": "片岩、裂けやすい岩石",
+                "zh": "片岩、易裂岩石",
+                "fr": "schiste, roche feuilletée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "schis- (skhizein)",
+                    "meaning": {
+                        "ko": "'쪼개다'",
+                        "en": "to split",
+                        "ja": "裂ける、分割する",
+                        "zh": "裂开、分割",
+                        "fr": "se fendre, se diviser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'쉽게 얇은 층으로 쪼개지는' 암석인 '편암'을 뜻합니다.",
+                "en": "Schist is a metamorphic rock that easily splits into thin layers",
+                "ja": "薄い層に容易に裂ける変成岩です",
+                "zh": "易于裂开成薄层的变质岩",
+                "fr": "Roche métamorphique qui se divise facilement en fines couches"
+            },
+            "example": "Schist is a type of metamorphic rock.",
+            "translation": {
+                "ko": "편암은 변성암의 일종이다.",
+                "ja": "片岩は変成岩の一種です",
+                "zh": "片岩是一种变质岩",
+                "fr": "La schiste est un type de roche métamorphique"
+            }
+        },
+        {
+            "word": "schizoid",
+            "part_of_speech": "",
+            "origin": "Greek, skhizein (to split)",
+            "meaning": {
+                "ko": "쪼개다",
+                "en": "to split or divide",
+                "ja": "分裂的な",
+                "zh": "分裂型的",
+                "fr": "schizoïde"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "schiz-",
+                    "meaning": {
+                        "ko": "'쪼개진'",
+                        "en": "split",
+                        "ja": "分裂した",
+                        "zh": "分裂的",
+                        "fr": "divisé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oid",
+                    "meaning": {
+                        "ko": "'~같은'",
+                        "en": "resembling or like",
+                        "ja": "~のような",
+                        "zh": "~像",
+                        "fr": "~comme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신이 분열된 듯한' 성격이라는 의미에서 '분열성의'라는 뜻입니다.",
+                "en": "Describes a personality type with apparent mental fragmentation or emotional detachment",
+                "ja": "心が分裂したような性格を意味する分裂性格特性",
+                "zh": "心理分裂般的性格特征",
+                "fr": "Caractère de personnalité avec apparence de fragmentation mentale"
+            },
+            "example": "He has a schizoid personality disorder.",
+            "translation": {
+                "ko": "그는 분열성 인격 장애를 가지고 있다.",
+                "ja": "彼は分裂性人格障害を持っている。",
+                "zh": "他患有分裂型人格障碍。",
+                "fr": "Il a un trouble de la personnalité schizoïde."
+            }
+        },
+        {
+            "word": "schizophrenia",
+            "part_of_speech": "",
+            "origin": "Greek, skhizein (to split) + phren (mind)",
+            "meaning": {
+                "ko": "정신 분열",
+                "en": "mental disorder characterized by disconnection from reality",
+                "ja": "統合失調症",
+                "zh": "精神分裂症",
+                "fr": "schizophrénie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "schizo-",
+                    "meaning": {
+                        "ko": "'분열'",
+                        "en": "mind",
+                        "ja": "分裂",
+                        "zh": "分裂",
+                        "fr": "division"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phren-",
+                    "meaning": {
+                        "ko": "'정신'",
+                        "en": "splitting",
+                        "ja": "心",
+                        "zh": "精神",
+                        "fr": "esprit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신이 분열된' 상태를 나타내는 '조현병'을 뜻합니다.",
+                "en": "Refers to a condition where the mind is split, known as schizophrenia",
+                "ja": "心が分裂した状態を表す統合失調症を意味します",
+                "zh": "指心理分裂的状态，称为精神分裂症",
+                "fr": "Désigne l'état d'esprit divisé, connu sous le nom de schizophrénie"
+            },
+            "example": "Schizophrenia is a serious mental illness.",
+            "translation": {
+                "ko": "조현병은 심각한 정신 질환이다.",
+                "ja": "統合失調症は深刻な精神疾患です",
+                "zh": "精神分裂症是一种严重的精神疾病",
+                "fr": "La schizophrénie est une maladie mentale grave"
+            }
+        }
+    ]
+}

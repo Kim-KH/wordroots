@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "sphere (ball) atmosphere, ecosphere, hemisphere, spherical",
+        "origin": "Greek, sphaira (a ball, a globe)",
+        "meaning": {
+            "ko": "공",
+            "en": "a ball",
+            "ja": "ボール",
+            "zh": "球",
+            "fr": "ballon"
+        }
+    },
+    "words": [
+        {
+            "word": "atmosphere",
+            "part_of_speech": "",
+            "origin": "Greek, atmos (vapor) + sphaira (sphere)",
+            "meaning": {
+                "ko": "증기 구",
+                "en": "vapor sphere",
+                "ja": "大気、雰囲気",
+                "zh": "大气、氛围",
+                "fr": "atmosphère, ambiance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "atmo-",
+                    "meaning": {
+                        "ko": "'증기'",
+                        "en": "vapor",
+                        "ja": "蒸気、水蒸気",
+                        "zh": "蒸气、水蒸气",
+                        "fr": "vapeur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sphere",
+                    "meaning": {
+                        "ko": "'구, 권역'",
+                        "en": "sphere",
+                        "ja": "球体、領域",
+                        "zh": "球体、范围",
+                        "fr": "sphère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지구를 둘러싸고 있는 기체의 층'인 '대기' 또는 '분위기'를 뜻합니다.",
+                "en": "Refers to the 'layer of gas surrounding Earth' meaning 'atmosphere' or 'mood/ambiance'",
+                "ja": "地球を取り囲んでいるガスの層を意味する『大気』または『雰囲気』を指します",
+                "zh": "指围绕地球的气体层，意为『大气』或『氛围』",
+                "fr": "Désigne la 'couche de gaz entourant la Terre' signifiant 'atmosphère' ou 'ambiance'"
+            },
+            "example": "The Earth's atmosphere protects us from harmful radiation.",
+            "translation": {
+                "ko": "지구의 대기는 해로운 방사선으로부터 우리를 보호한다.",
+                "ja": "地球の大気は私たちを有害な放射線から守ります",
+                "zh": "地球的大气保护我们免受有害辐射",
+                "fr": "L'atmosphère terrestre nous protège du rayonnement nocif"
+            }
+        },
+        {
+            "word": "ecosphere",
+            "part_of_speech": "",
+            "origin": "ecology + sphere",
+            "meaning": {
+                "ko": "생태권",
+                "en": "ecological sphere",
+                "ja": "生態圏",
+                "zh": "生态圈",
+                "fr": "écosphère"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eco-",
+                    "meaning": {
+                        "ko": "'생태'",
+                        "en": "ecology",
+                        "ja": "生態",
+                        "zh": "生态",
+                        "fr": "écologie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sphere",
+                    "meaning": {
+                        "ko": "'권역'",
+                        "en": "sphere",
+                        "ja": "圏域",
+                        "zh": "球体",
+                        "fr": "sphère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지구의 생태계 전체'를 의미하는 '생태권'을 뜻합니다.",
+                "en": "The ecosphere refers to the entire global ecosystem of Earth.",
+                "ja": "地球全体の生態系全体を意味する生態圏",
+                "zh": "指地球整体的生态系统",
+                "fr": "L'écosphère désigne l'écosystème global de la Terre"
+            },
+            "example": "The ecosphere is the global ecosystem.",
+            "translation": {
+                "ko": "생태권은 전 지구적 생태계이다.",
+                "ja": "生態圏は地球全体の生態系である。",
+                "zh": "生态圈是全球生态系统。",
+                "fr": "L'écosphère est l'écosystème mondial."
+            }
+        },
+        {
+            "word": "hemisphere",
+            "part_of_speech": "",
+            "origin": "Greek, hemisphairion (half a sphere)",
+            "meaning": {
+                "ko": "구의 절반",
+                "en": "half of a sphere",
+                "ja": "球の半分",
+                "zh": "球体的一半",
+                "fr": "moitié d'une sphère"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hemi-",
+                    "meaning": {
+                        "ko": "'반'",
+                        "en": "half",
+                        "ja": "半分",
+                        "zh": "一半",
+                        "fr": "moitié"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sphere",
+                    "meaning": {
+                        "ko": "'구'",
+                        "en": "sphere",
+                        "ja": "球",
+                        "zh": "球体",
+                        "fr": "sphère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'구의 절반'이라는 의미로 지구의 '반구' 또는 뇌의 '반구'를 뜻합니다.",
+                "en": "Refers to half of a sphere, such as the 'hemisphere' of Earth or the brain's 'hemisphere'.",
+                "ja": "球体の半分を意味し、地球の「半球」または脳の「半球」を指します。",
+                "zh": "指球体的一半，如地球的「半球」或大脑的「半球」。",
+                "fr": "Désigne la moitié d'une sphère, comme l'«hémisphère» de la Terre ou du cerveau."
+            },
+            "example": "We live in the Northern Hemisphere.",
+            "translation": {
+                "ko": "우리는 북반구에 산다.",
+                "ja": "私たちは北半球に住んでいます。",
+                "zh": "我们住在北半球。",
+                "fr": "Nous vivons dans l'hémisphère nord."
+            }
+        },
+        {
+            "word": "spherical",
+            "part_of_speech": "",
+            "origin": "Greek, sphairikos (of a sphere)",
+            "meaning": {
+                "ko": "구의",
+                "en": "of a sphere",
+                "ja": "球体の",
+                "zh": "球形的",
+                "fr": "sphérique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spher-",
+                    "meaning": {
+                        "ko": "'구'",
+                        "en": "sphere",
+                        "ja": "球",
+                        "zh": "球",
+                        "fr": "sphère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공 모양의', '구형의'라는 뜻입니다.",
+                "en": "It means ball-shaped or spherical in form.",
+                "ja": "ボール状の、球形のという意味です。",
+                "zh": "球形的、圆形的意思。",
+                "fr": "Cela signifie en forme de boule ou de forme sphérique."
+            },
+            "example": "The Earth is not perfectly spherical.",
+            "translation": {
+                "ko": "지구는 완벽하게 구형이 아니다.",
+                "ja": "地球は完全には球体ではない。",
+                "zh": "地球并不是完全的球形。",
+                "fr": "La Terre n'est pas parfaitement sphérique."
+            }
+        }
+    ]
+}

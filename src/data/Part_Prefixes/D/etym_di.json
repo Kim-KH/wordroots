@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "di (two, apart) diatomic, dichotomy, digress, divergent",
+        "origin": "Greek, di- (twice, two)",
+        "meaning": {
+            "ko": "둘, 두 번",
+            "en": "two, twice",
+            "ja": "二つ、二度",
+            "zh": "二、两次",
+            "fr": "deux, deux fois"
+        }
+    },
+    "words": [
+        {
+            "word": "diatomic",
+            "part_of_speech": "",
+            "origin": "English, di- + atomic",
+            "meaning": {
+                "ko": "두 개의 원자",
+                "en": "consisting of two atoms",
+                "ja": "二原子分子",
+                "zh": "二原子分子",
+                "fr": "molécule diatomique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di-",
+                    "meaning": {
+                        "ko": "'두 개의'",
+                        "en": "two",
+                        "ja": "二つの",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "atom",
+                    "meaning": {
+                        "ko": "'원자'",
+                        "en": "atom",
+                        "ja": "原子",
+                        "zh": "原子",
+                        "fr": "atome"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개의 원자로 이루어진'이라는 의미의 화학 용어입니다.",
+                "en": "A chemistry term meaning composed of two atoms",
+                "ja": "二つの原子で構成されるという意味の化学用語です",
+                "zh": "由两个原子组成的化学术语",
+                "fr": "Terme chimique signifiant composé de deux atomes"
+            },
+            "example": "Oxygen is a diatomic molecule.",
+            "translation": {
+                "ko": "산소는 이원자 분자이다.",
+                "ja": "酸素は二原子分子です。",
+                "zh": "氧气是二原子分子。",
+                "fr": "L'oxygène est une molécule diatomique."
+            }
+        },
+        {
+            "word": "dichotomy",
+            "part_of_speech": "",
+            "origin": "Greek, dichotomia (a cutting in two)",
+            "meaning": {
+                "ko": "둘로 자르기",
+                "en": "cutting into two parts",
+                "ja": "二分法、二項対立",
+                "zh": "二分法、对立",
+                "fr": "dichotomie, division binaire"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di-",
+                    "meaning": {
+                        "ko": "'둘로'",
+                        "en": "in two",
+                        "ja": "二つに",
+                        "zh": "分成两个",
+                        "fr": "en deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chotomy (temnein)",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'둘로 자르는 것'이라는 의미에서 '양분', '이분법'이라는 뜻으로 쓰입니다.",
+                "en": "Used to mean 'division into two' or 'binary classification' from the sense of 'cutting into two'",
+                "ja": "二つに分ける意味から、二項対立や二分法という意味で使われる",
+                "zh": "从分成两部分的含义引申为二分法或对立分类的意思",
+                "fr": "Utilisé pour signifier division en deux ou classification binaire, dérivé du sens de couper en deux"
+            },
+            "example": "There is often a dichotomy between what people say and what they do.",
+            "translation": {
+                "ko": "사람들의 말과 행동 사이에는 종종 이분법적인 차이가 있다.",
+                "ja": "人々が言うことと行うことの間に、しばしば二項対立が存在する。",
+                "zh": "人们所说的和所做的之间经常存在二分法。",
+                "fr": "Il y a souvent une dichotomie entre ce que les gens disent et ce qu'ils font."
+            }
+        },
+        {
+            "word": "digress",
+            "part_of_speech": "",
+            "origin": "Latin, digredi (to depart)",
+            "meaning": {
+                "ko": "떨어져 가다",
+                "en": "to go away separately",
+                "ja": "話題から外れる",
+                "zh": "偏离主题",
+                "fr": "s'écarter du sujet"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "'떨어져서'",
+                        "en": "apart, aside",
+                        "ja": "離れて、わきへ",
+                        "zh": "分开、离开",
+                        "fr": "à part, de côté"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gress (gradi)",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주제에서 떨어져 옆으로 가다'는 의미에서 '주제에서 벗어나다'라는 뜻이 되었습니다.",
+                "en": "Originally meaning to go aside from the topic, it came to mean to deviate from the subject",
+                "ja": "元々は話題から脇へ行くという意味から、話題から逸脱するという意味になりました",
+                "zh": "从'偏离主题向一侧去'的意思演变为'背离主题'的含义",
+                "fr": "Initialement, aller de côté du sujet signifiait s'écarter du sujet principal"
+            },
+            "example": "The speaker started to digress from the main topic.",
+            "translation": {
+                "ko": "연사는 주요 주제에서 벗어나기 시작했다.",
+                "ja": "講演者は主な話題から脱線し始めた",
+                "zh": "演讲者开始偏离主要话题",
+                "fr": "L'orateur a commencé à s'écarter du sujet principal"
+            }
+        },
+        {
+            "word": "divergent",
+            "part_of_speech": "",
+            "origin": "Latin, divergere (to go in different directions)",
+            "meaning": {
+                "ko": "다른 방향으로 가다",
+                "en": "to go in different direction",
+                "ja": "異なる方向へ向かう",
+                "zh": "朝不同方向进行",
+                "fr": "aller dans des directions différentes"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "'떨어져서'",
+                        "en": "apart",
+                        "ja": "離れて",
+                        "zh": "分开地",
+                        "fr": "séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verge (vergere)",
+                    "meaning": {
+                        "ko": "'향하다, 기울다'",
+                        "en": "to turn, to bend",
+                        "ja": "向かう、傾く",
+                        "zh": "转向、倾斜",
+                        "fr": "tourner, pencher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 다른 방향으로 향하는'이라는 의미에서 의견 등이 '갈라지는', '다른'이라는 뜻으로 쓰입니다.",
+                "en": "Used to mean opinions diverge or differ when going in mutually different directions",
+                "ja": "互いに異なる方向に向かう意味から、意見などが分かれる、異なるという意味で使われます",
+                "zh": "从相互不同方向进行的含义引申，用来表示意见等产生分歧、不同的意思",
+                "fr": "À partir du sens d'aller dans des directions différentes, utilisé pour signifier que les opinions divergent ou diffèrent"
+            },
+            "example": "They have divergent opinions on the issue.",
+            "translation": {
+                "ko": "그들은 그 문제에 대해 의견이 다르다.",
+                "ja": "彼らはその問題について異なる意見を持っている。",
+                "zh": "他们对这个问题的意见不同。",
+                "fr": "Ils ont des opinions divergentes sur cette question."
+            }
+        }
+    ]
+}

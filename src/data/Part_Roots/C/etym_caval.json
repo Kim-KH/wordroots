@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "caval (horse) cavalry, cavalier, chivalry",
+        "origin": "Latin, caballus (horse)",
+        "meaning": {
+            "ko": "말",
+            "en": "horse",
+            "ja": "馬",
+            "zh": "马",
+            "fr": "cheval"
+        }
+    },
+    "words": [
+        {
+            "word": "cavalry",
+            "part_of_speech": "",
+            "origin": "Italian, cavalleria (knighthood, chivalry)",
+            "meaning": {
+                "ko": "기사도",
+                "en": "chivalry",
+                "ja": "騎兵隊",
+                "zh": "骑兵队",
+                "fr": "cavalerie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "caval (caballus)",
+                    "meaning": {
+                        "ko": "'말'",
+                        "en": "horse",
+                        "ja": "馬",
+                        "zh": "马",
+                        "fr": "cheval"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "말을 탄 기사 계급에서 유래하여, 군대에서 '말을 탄 부대' 즉 '기병대'를 의미하게 되었습니다.",
+                "en": "Derived from the mounted knight class, it came to mean a mounted military unit, or cavalry in the army.",
+                "ja": "馬に乗った騎士階級に由来し、軍隊で『馬に乗った部隊』つまり『騎兵隊』を意味するようになりました。",
+                "zh": "源自骑士阶级，后来在军队中指『骑马部队』，即『骑兵队』。",
+                "fr": "Dérivé de la classe des chevaliers montés, il en est venu à désigner une unité militaire montée, ou cavalerie dans l'armée."
+            },
+            "example": "The cavalry charged at the enemy lines.",
+            "translation": {
+                "ko": "기병대가 적진을 향해 돌격했다.",
+                "ja": "騎兵隊は敵陣に突撃した。",
+                "zh": "骑兵队向敌军阵地发起了冲锋。",
+                "fr": "La cavalerie a chargé les lignes ennemies."
+            }
+        },
+        {
+            "word": "cavalier",
+            "part_of_speech": "",
+            "origin": "Italian, cavaliere (horseman, knight)",
+            "meaning": {
+                "ko": "기사",
+                "en": "knight or horseman",
+                "ja": "騎士、傲慢な人",
+                "zh": "骑士、傲慢的人",
+                "fr": "cavalier, insouciant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "caval (caballus)",
+                    "meaning": {
+                        "ko": "'말'",
+                        "en": "horse",
+                        "ja": "馬",
+                        "zh": "马",
+                        "fr": "cheval"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 '말을 탄 기사'를 의미했지만, 왕을 지지했던 기사들의 태도에서 '거만한', '무신경한'이라는 부정적인 의미가 파생되었습니다.",
+                "en": "Originally meant 'knight on horseback', but developed negative connotations of 'arrogant' and 'indifferent' from the attitude of knights who supported the king.",
+                "ja": "元々は'馬に乗った騎士'を意味していたが、王を支持した騎士たちの態度から'傲慢な'、'無関心な'という否定的な意味が生じた。",
+                "zh": "原本意为'骑马的骑士'，但从支持国王的骑士的态度中衍生出'傲慢的'、'漠不关心的'否定含义。",
+                "fr": "Initialement signifiait 'chevalier à cheval', mais a développé des connotations négatives d'arrogance et d'indifférence de la part des chevaliers soutenant le roi."
+            },
+            "example": "He has a cavalier attitude towards safety regulations.",
+            "translation": {
+                "ko": "그는 안전 규정에 대해 무신경한 태도를 가지고 있다.",
+                "ja": "彼は安全規制に対して傲慢な態度をとっている。",
+                "zh": "他对安全规定采取漠不关心的态度。",
+                "fr": "Il a une attitude insouciante envers les règlements de sécurité."
+            }
+        },
+        {
+            "word": "chivalry",
+            "part_of_speech": "",
+            "origin": "Old French, chevalerie (knighthood)",
+            "meaning": {
+                "ko": "기사도",
+                "en": "knightly conduct and honor",
+                "ja": "騎士道",
+                "zh": "骑士精神",
+                "fr": "chevalerie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chiv (cheval, from caballus)",
+                    "meaning": {
+                        "ko": "'말'",
+                        "en": "horse",
+                        "ja": "馬",
+                        "zh": "马",
+                        "fr": "cheval"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "프랑스어를 거치면서 철자가 변형되었지만, 말을 탄 '기사'가 갖춰야 할 덕목이라는 의미에서 '기사도 정신'을 뜻합니다.",
+                "en": "The spelling was transformed through French, but it means the spirit of chivalry that a mounted knight should possess.",
+                "ja": "フランス語を経由して綴りが変形されましたが、馬に乗る『騎士』が備えるべき徳目という意味で『騎士道精神』を意味します。",
+                "zh": "虽然经过法语时拼写发生了变化，但它表示骑在马上的骑士应该具备的品德，即骑士精神。",
+                "fr": "L'orthographe a été transformée par le français, mais elle signifie l'esprit de chevalerie que doit posséder un chevalier à cheval."
+            },
+            "example": "The knight was known for his courage and chivalry.",
+            "translation": {
+                "ko": "그 기사는 그의 용기와 기사도 정신으로 알려져 있었다.",
+                "ja": "その騎士は勇気と騎士道で知られていた。",
+                "zh": "那位骑士以勇气和骑士精神而闻名。",
+                "fr": "Le chevalier était connu pour son courage et sa chevalerie."
+            }
+        }
+    ]
+}

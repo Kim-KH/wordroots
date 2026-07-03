@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "moto (moving) motif, motile, motive, motorcycle",
+        "origin": "Latin, movere, motus (to move)",
+        "meaning": {
+            "ko": "움직이다",
+            "en": "to move",
+            "ja": "動く",
+            "zh": "移动",
+            "fr": "bouger"
+        }
+    },
+    "words": [
+        {
+            "word": "motif",
+            "part_of_speech": "",
+            "origin": "French, motif (motive)",
+            "meaning": {
+                "ko": "동기",
+                "en": "motive, motivation",
+                "ja": "主題、モチーフ",
+                "zh": "主题、母题",
+                "fr": "thème, motif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot- (movere)",
+                    "meaning": {
+                        "ko": "'움직이다'",
+                        "en": "to move",
+                        "ja": "動く、移動する",
+                        "zh": "移动、运动",
+                        "fr": "bouger, se mouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "작품 속에서 '이야기를 움직이는' 중심 생각이나 디자인이라는 의미에서 '주제', '모티프'를 뜻합니다.",
+                "en": "In literary and artistic works, it refers to a central idea or design that 'moves' or drives the narrative, meaning 'theme' or 'motif'.",
+                "ja": "作品の中で、物語を推し進める中心的な考えやデザインを意味し、『主題』『モチーフ』を表します。",
+                "zh": "在作品中，指推动故事发展的中心思想或设计，意为『主题』『母题』。",
+                "fr": "Dans une œuvre, il désigne une idée centrale ou un design qui 'anime' le récit, signifiant 'thème' ou 'motif'."
+            },
+            "example": "The theme of love is a recurring motif in his novels.",
+            "translation": {
+                "ko": "사랑이라는 주제는 그의 소설에서 반복되는 모티프이다.",
+                "ja": "彼の小説において、愛というテーマは繰り返し現れるモチーフです。",
+                "zh": "在他的小说中，爱的主题是一个反复出现的母题。",
+                "fr": "Le thème de l'amour est un motif récurrent dans ses romans."
+            }
+        },
+        {
+            "word": "motile",
+            "part_of_speech": "",
+            "origin": "Latin, movere (to move)",
+            "meaning": {
+                "ko": "움직이다",
+                "en": "to move",
+                "ja": "動く能力がある",
+                "zh": "能够运动的",
+                "fr": "capable de se mouvoir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot-",
+                    "meaning": {
+                        "ko": "'움직이다'",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "se mouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'스스로 움직일 수 있는'이라는 생물학 용어입니다.",
+                "en": "A biological term meaning able to move on its own.",
+                "ja": "自分で動くことができるという生物学用語です",
+                "zh": "指能够自主运动的生物学术语",
+                "fr": "Terme biologique désignant capable de se déplacer seul"
+            },
+            "example": "Most bacteria are motile.",
+            "translation": {
+                "ko": "대부분의 박테리아는 운동성이 있다.",
+                "ja": "ほとんどの細菌は運動性がある",
+                "zh": "大多数细菌是运动的",
+                "fr": "La plupart des bactéries sont mobiles"
+            }
+        },
+        {
+            "word": "motive",
+            "part_of_speech": "",
+            "origin": "Latin, motivus (serving to move)",
+            "meaning": {
+                "ko": "움직이게 하는",
+                "en": "causing to move",
+                "ja": "動機、理由",
+                "zh": "动机、原因",
+                "fr": "motif, raison"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot-",
+                    "meaning": {
+                        "ko": "'움직이다'",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动、动作",
+                        "fr": "se mouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람을 움직이게 하는 것'이라는 의미에서 '동기', '이유'를 뜻합니다.",
+                "en": "Refers to something that causes a person to act; means motivation or reason",
+                "ja": "人を行動させるもの；動機や理由を意味する",
+                "zh": "使人行动的东西；表示动机或原因",
+                "fr": "Ce qui pousse une personne à agir; signifie motivation ou raison"
+            },
+            "example": "The police are investigating the motive for the crime.",
+            "translation": {
+                "ko": "경찰은 범행 동기를 조사하고 있다.",
+                "ja": "警察はその犯罪の動機を調査している。",
+                "zh": "警察正在调查该犯罪的动机。",
+                "fr": "La police enquête sur le motif du crime."
+            }
+        },
+        {
+            "word": "motorcycle",
+            "part_of_speech": "",
+            "origin": "English, motor + cycle",
+            "meaning": {
+                "ko": "움직이는 바퀴",
+                "en": "moving wheel",
+                "ja": "動く車輪",
+                "zh": "移动的轮子",
+                "fr": "roue mobile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "motor",
+                    "meaning": {
+                        "ko": "'움직이게 하는 장치'",
+                        "en": "device that causes motion",
+                        "ja": "動かす装置",
+                        "zh": "使其移动的装置",
+                        "fr": "dispositif de mouvement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cycle",
+                    "meaning": {
+                        "ko": "'바퀴'",
+                        "en": "wheel",
+                        "ja": "車輪",
+                        "zh": "轮子",
+                        "fr": "roue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'엔진으로 움직이는 자전거'라는 의미에서 '오토바이'를 뜻합니다.",
+                "en": "Means motorcycle as an engine-powered bicycle",
+                "ja": "エンジンで動く自転車という意味でオートバイを指します",
+                "zh": "指用发动机驱动的自行车的意思",
+                "fr": "Signifie une bicyclette propulsée par moteur"
+            },
+            "example": "He rides his motorcycle to work every day.",
+            "translation": {
+                "ko": "그는 매일 오토바이를 타고 출근한다.",
+                "ja": "毎日オートバイで仕事に行っています",
+                "zh": "他每天骑摩托车上班",
+                "fr": "Il va au travail en moto chaque jour"
+            }
+        }
+    ]
+}

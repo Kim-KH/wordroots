@@ -1,0 +1,413 @@
+{
+    "root_info": {
+        "roots": "tract",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "끌다",
+            "en": "to drag, draw",
+            "ja": "引く、引きずる",
+            "zh": "拖、拉",
+            "fr": "traîner, tirer"
+        }
+    },
+    "words": [
+        {
+            "word": "attract",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "at- (ad-)",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to, toward",
+                        "ja": "～へ、～に向かって",
+                        "zh": "向、朝",
+                        "fr": "vers, à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "끌다",
+                        "en": "to draw",
+                        "ja": "引く、引き寄せる",
+                        "zh": "拉、吸引",
+                        "fr": "tirer, attirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 대상을 향해 끌어당기다'는 의미에서, 사람의 마음이나 관심을 '끌다', '매료시키다'는 뜻입니다.",
+                "en": "From the literal sense of drawing something toward an object, extended to mean drawing or captivating a person's heart or interest.",
+                "ja": "対象に向かって引き寄せるという文字通りの意味から、人の心や関心を引く、魅了するという意味に拡張されました。",
+                "zh": "从将物体吸引向某个对象的字面意义引申，表示吸引或迷住某人的心意或兴趣。",
+                "fr": "Du sens littéral d'attirer quelque chose vers un objet, étendu pour signifier captiver le cœur ou l'intérêt d'une personne."
+            },
+            "example": "Opposites often attract.",
+            "translation": {
+                "ko": "정반대인 사람들은 종종 서로에게 끌린다.",
+                "ja": "正反対の人々はしばしば互いに引き合う。",
+                "zh": "相反的人往往互相吸引。",
+                "fr": "Les contraires s'attirent souvent."
+            }
+        },
+        {
+            "word": "tractor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "끌다",
+                        "en": "to pull",
+                        "ja": "引く",
+                        "zh": "拉",
+                        "fr": "tirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'끄는 기계' 즉, 농기구나 트레일러를 끄는 '트랙터'를 뜻합니다.",
+                "en": "A machine that pulls, such as a tractor that pulls agricultural tools or trailers.",
+                "ja": "引く機械、つまり農具やトレーラーを引く'トラクター'を意味します。",
+                "zh": "一种拉动的机器，即拉动农具或拖车的'拖拉机'。",
+                "fr": "Une machine qui tire, c'est-à-dire un 'tracteur' qui tire des outils agricoles ou des remorques."
+            },
+            "example": "The farmer drove his tractor.",
+            "translation": {
+                "ko": "그 농부는 트랙터를 운전했다.",
+                "ja": "農夫は彼のトラクターを運転した。",
+                "zh": "农民驾驶他的拖拉机。",
+                "fr": "L'agriculteur conduisait son tracteur."
+            }
+        },
+        {
+            "word": "traction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "끌다",
+                        "en": "to pull",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'끄는 힘'이라는 의미에서, 바퀴가 땅을 밀고 나가는 '견인력', '마찰력'을 뜻합니다.",
+                "en": "From the meaning of 'pulling force,' referring to the 'grip' or 'friction' that wheels exert on the ground.",
+                "ja": "「引く力」という意味から、車輪が地面をつかむ「グリップ力」や「摩擦力」を指します。",
+                "zh": "从「拉力」的含义出发，指车轮对地面的「抓地力」或「摩擦力」。",
+                "fr": "Du sens de « force de traction », désignant l'« adhérence » ou la « friction » que les roues exercent sur le sol."
+            },
+            "example": "The wet roads made it hard to get traction.",
+            "translation": {
+                "ko": "젖은 도로 때문에 마찰력을 얻기 힘들었다.",
+                "ja": "濡れた道路のせいで、グリップ力を得るのが難しかった。",
+                "zh": "由于路面湿滑，很难获得足够的摩擦力。",
+                "fr": "Les routes mouillées rendaient difficile d'obtenir de l'adhérence."
+            }
+        },
+        {
+            "word": "extract",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "끌다",
+                        "en": "to pull",
+                        "ja": "引く",
+                        "zh": "拉",
+                        "fr": "tirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 끌어내다'는 의미에서, 정보, 물질 등을 '추출하다', '뽑아내다'는 뜻입니다.",
+                "en": "From the sense of 'pulling something out', meaning to draw out or obtain information, substances, etc.",
+                "ja": "何かを引き出すという意味から、情報や物質などを引き出す、または得るという意味です。",
+                "zh": "从'拉出某物'的意义引申，表示提取或获得信息、物质等。",
+                "fr": "Du sens de 'tirer quelque chose', signifiant extraire ou obtenir des informations, des substances, etc."
+            },
+            "example": "They extract oil from the ground.",
+            "translation": {
+                "ko": "그들은 땅에서 석유를 추출한다.",
+                "ja": "抽出する",
+                "zh": "提取",
+                "fr": "extraire"
+            }
+        },
+        {
+            "word": "retract",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "끌다",
+                        "en": "to pull",
+                        "ja": "引く",
+                        "zh": "拉",
+                        "fr": "tirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 끌어당기다'는 의미에서, 했던 말이나 약속을 '취소하다', '철회하다'는 뜻입니다.",
+                "en": "From 'pull back': to cancel or withdraw a statement or promise.",
+                "ja": "「後ろへ引く」という意味から、言ったことや約束を「取り消す」「撤回する」という意味になります。",
+                "zh": "从「向后拉」的意思引申，表示「取消」或「撤回」所说的话或承诺。",
+                "fr": "Du sens « tirer vers l'arrière » : annuler ou retirer une déclaration ou une promesse."
+            },
+            "example": "The newspaper retracted the false story.",
+            "translation": {
+                "ko": "그 신문은 그 거짓 기사를 철회했다.",
+                "ja": "その新聞はその虚偽記事を撤回した。",
+                "zh": "那家报纸撤回了那篇虚假报道。",
+                "fr": "Le journal a retiré l'article mensonger."
+            }
+        },
+        {
+            "word": "protract",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "끌다",
+                        "en": "to draw out",
+                        "ja": "引き出す",
+                        "zh": "拉出",
+                        "fr": "tirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 길게 끌다'는 의미에서, 시간이나 기간을 '오래 끌다', '연장하다'는 뜻입니다.",
+                "en": "From the sense of 'pulling forward at length', it means to 'prolong' or 'extend' a time period or duration.",
+                "ja": "前へ長く引き出すという意味から、時間や期間を長く引き延ばす、延長するという意味です。",
+                "zh": "从向前长时间拉扯的意义出发，表示将时间或期间长时间拖延、延长的意思。",
+                "fr": "Du sens de 'tirer en avant longuement', cela signifie 'prolonger' ou 'étendre' une période ou une durée."
+            },
+            "example": "Let's not protract the debate.",
+            "translation": {
+                "ko": "토론을 길게 끌지 맙시다.",
+                "ja": "議論を長引かせないようにしましょう。",
+                "zh": "我们不要拖延辩论。",
+                "fr": "Ne prolongeons pas le débat."
+            }
+        },
+        {
+            "word": "detract",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "끌다",
+                        "en": "to pull",
+                        "ja": "引く",
+                        "zh": "拉",
+                        "fr": "tirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "가치나 중요성을 '끌어내려 떨어뜨리다'는 의미에서, '(가치, 평판 등을) 손상시키다'는 뜻입니다.",
+                "en": "From the sense of 'pulling down and away' value or importance, meaning 'to diminish or damage (value, reputation, etc.)'",
+                "ja": "価値や重要性を『引き下ろして落とす』という意味から、『(価値、評判など)を損なわせる』という意味になりました。",
+                "zh": "源自'将价值或重要性拉低降低'的含义，表示'损害或贬低(价值、声誉等)'。",
+                "fr": "Du sens de 'rabaisser et éloigner' la valeur ou l'importance, signifiant 'diminuer ou endommager (valeur, réputation, etc.)'"
+            },
+            "example": "This scandal will detract from his reputation.",
+            "translation": {
+                "ko": "이 스캔들은 그의 평판을 손상시킬 것이다.",
+                "ja": "このスキャンダルは彼の評判を傷つけるだろう。",
+                "zh": "这个丑闻将损害他的声誉。",
+                "fr": "Ce scandale endommagera sa réputation."
+            }
+        },
+        {
+            "word": "subtract",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "아래에서",
+                        "en": "from under",
+                        "ja": "下から",
+                        "zh": "从下面",
+                        "fr": "de dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "끌다",
+                        "en": "to pull",
+                        "ja": "引く",
+                        "zh": "拉",
+                        "fr": "tirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아래에서 끌어내다'는 의미에서, 수학의 '빼기'를 뜻합니다.",
+                "en": "From the sense of 'pulling out from below,' it came to mean mathematical subtraction.",
+                "ja": "「下から引き出す」という意味から、数学の「引き算」を意味するようになりました。",
+                "zh": "从「从下面拉出」的意义引申而来，表示数学中的「减法」。",
+                "fr": "Du sens « tirer de dessous », il en est venu à signifier la soustraction mathématique."
+            },
+            "example": "If you subtract 2 from 5, you get 3.",
+            "translation": {
+                "ko": "5에서 2를 빼면 3이 된다.",
+                "ja": "5から2を引くと3になります。",
+                "zh": "从5减去2，你得到3。",
+                "fr": "Si vous soustrayez 2 de 5, vous obtenez 3."
+            }
+        },
+        {
+            "word": "contract",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "끌다",
+                        "en": "to pull",
+                        "ja": "引く",
+                        "zh": "拉",
+                        "fr": "tirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "양 당사자를 '함께 끌어 묶다'는 의미에서 '계약'을 뜻하며, 근육 등이 '수축하다'는 뜻도 있습니다.",
+                "en": "From the sense of 'pulling two parties together,' meaning 'agreement' or 'contract.' Also refers to muscles 'shrinking' or 'contracting.'",
+                "ja": "二当事者を『一緒に引き束ねる』という意味から『契約』を意味し、筋肉などが『収縮する』という意味もあります。",
+                "zh": "从'将双方拉到一起'的意思引申为'合同'，也指肌肉等'收缩'的含义。",
+                "fr": "Du sens de 'réunir deux parties ensemble', signifiant 'accord' ou 'contrat'. Désigne aussi la 'contraction' des muscles."
+            },
+            "example": "We signed a three-year contract.",
+            "translation": {
+                "ko": "우리는 3년 계약서에 서명했다.",
+                "ja": "私たちは3年間の契約書に署名した。",
+                "zh": "我们签署了一份三年合同。",
+                "fr": "Nous avons signé un contrat de trois ans."
+            }
+        },
+        {
+            "word": "intractable",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "다루다",
+                        "en": "to handle",
+                        "ja": "扱う",
+                        "zh": "处理",
+                        "fr": "traiter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다루기 쉽지 않은'이라는 의미에서 '아주 고집 센', '다루기 힘든'이라는 뜻입니다.",
+                "en": "Means 'not easily handled'; describes something very stubborn or difficult to manage.",
+                "ja": "「扱いやすくない」という意味から、「非常に頑固な」「扱いにくい」という意味です。",
+                "zh": "从\"难以处理\"的意思转义为\"非常固执\"、\"难以驾驭\"之意。",
+                "fr": "De \"difficile à manier\", signifie \"très têtu\" ou \"difficile à gérer\"."
+            },
+            "example": "The problem is intractable.",
+            "translation": {
+                "ko": "그 문제는 다루기 매우 힘들다.",
+                "ja": "その問題は解決困難だ。",
+                "zh": "这个问题很难解决。",
+                "fr": "Le problème est insoluble."
+            }
+        }
+    ]
+}

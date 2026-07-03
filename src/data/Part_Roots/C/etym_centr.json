@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "centr (center) centrifugal, centrifuge, centripetal, eccentric, ethnocentric",
+        "origin": "Greek, kentron (sharp point, center of a circle)",
+        "meaning": {
+            "ko": "중심",
+            "en": "center",
+            "ja": "中心",
+            "zh": "中心",
+            "fr": "centre"
+        }
+    },
+    "words": [
+        {
+            "word": "centrifugal",
+            "part_of_speech": "",
+            "origin": "Latin, centrum (center) + fugere (to flee)",
+            "meaning": {
+                "ko": "중심에서 달아나다",
+                "en": "to flee from center",
+                "ja": "中心から遠ざかる",
+                "zh": "从中心逃离",
+                "fr": "fuir le centre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "centri (centrum)",
+                    "meaning": {
+                        "ko": "'중심'",
+                        "en": "center",
+                        "ja": "中心",
+                        "zh": "中心",
+                        "fr": "centre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fugal (fugere)",
+                    "meaning": {
+                        "ko": "'달아나다'",
+                        "en": "to flee",
+                        "ja": "逃げる",
+                        "zh": "逃离",
+                        "fr": "fuir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "회전하는 물체가 '중심(centri)에서부터 멀어지려고(fugal) 하는' 성질을 나타내며 '원심력의'라는 뜻입니다.",
+                "en": "Describes the property of a rotating object that tends to move away from the center (centri), expressing the meaning of centrifugal force.",
+                "ja": "回転する物体が中心(centri)から遠ざかろうとする(fugal)性質を表し、遠心力という意味です。",
+                "zh": "表示旋转物体从中心(centri)逃离(fugal)的性质，意为向心力。",
+                "fr": "Décrit la propriété d'un objet rotatif qui tend à s'éloigner du centre (centri), exprimant le sens de force centrifuge."
+            },
+            "example": "A washing machine uses centrifugal force to spin the water out of clothes.",
+            "translation": {
+                "ko": "세탁기는 원심력을 이용하여 옷에서 물을 빼낸다.",
+                "ja": "洗濯機は遠心力を使って衣類から水を絞り出します。",
+                "zh": "洗衣机利用离心力将水从衣服中甩出。",
+                "fr": "Une machine à laver utilise la force centrifuge pour essorer l'eau des vêtements."
+            }
+        },
+        {
+            "word": "centrifuge",
+            "part_of_speech": "",
+            "origin": "Latin, centrum (center) + fugere (to flee)",
+            "meaning": {
+                "ko": "중심에서 달아나다",
+                "en": "to fly away from center",
+                "ja": "中心から逃げる",
+                "zh": "从中心逃离",
+                "fr": "fuir du centre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "centri (centrum)",
+                    "meaning": {
+                        "ko": "'중심'",
+                        "en": "center",
+                        "ja": "中心",
+                        "zh": "中心",
+                        "fr": "centre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fuge (fugere)",
+                    "meaning": {
+                        "ko": "'달아나다'",
+                        "en": "to flee",
+                        "ja": "逃げる",
+                        "zh": "逃离",
+                        "fr": "fuir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원심력을 이용하여 성분이 다른 물질들을 분리하는 기계인 '원심분리기'를 의미합니다.",
+                "en": "A machine that separates materials with different components using centrifugal force, referred to as a centrifuge",
+                "ja": "遠心力を利用して異なる成分の物質を分離する機械である遠心分離機を意味します",
+                "zh": "指利用离心力分离不同成分物质的机器，称为离心分离机",
+                "fr": "Une machine qui sépare les matériaux de différents composants en utilisant la force centrifuge, appelée centrifugeuse"
+            },
+            "example": "They used a centrifuge to separate the blood cells from the plasma.",
+            "translation": {
+                "ko": "그들은 혈장에서 혈구를 분리하기 위해 원심분리기를 사용했다.",
+                "ja": "遠心分離機で血液細胞を血漿から分離しました",
+                "zh": "他们用离心机将血细胞从血浆中分离出来",
+                "fr": "Ils ont utilisé une centrifugeuse pour séparer les cellules sanguines du plasma"
+            }
+        },
+        {
+            "word": "centripetal",
+            "part_of_speech": "",
+            "origin": "Latin, centrum (center) + petere (to seek)",
+            "meaning": {
+                "ko": "중심을 향하다",
+                "en": "directed toward the center",
+                "ja": "中心に向かう",
+                "zh": "指向中心的",
+                "fr": "dirigé vers le centre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "centri (centrum)",
+                    "meaning": {
+                        "ko": "'중심'",
+                        "en": "center",
+                        "ja": "中心",
+                        "zh": "中心",
+                        "fr": "centre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "petal (petere)",
+                    "meaning": {
+                        "ko": "'추구하다, 향하다'",
+                        "en": "to seek",
+                        "ja": "求める、向かう",
+                        "zh": "寻求、指向",
+                        "fr": "chercher, se diriger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'중심(centri)을 향하는(petal)' 힘을 의미하며, 물체가 원운동을 하도록 하는 '구심력의'라는 뜻입니다.",
+                "en": "Describes the force that pulls an object toward the center, causing circular motion. The term combines 'center' (centri) and 'to seek/move toward' (petal), referring to centripetal force.",
+                "ja": "物体を中心に向かわせ、円運動を起こさせる力を表す。'中心'(centri)と'求める/向かう'(petal)を組み合わせた用語で、求心力を指す。",
+                "zh": "描述将物体拉向中心、导致圆周运动的力。该术语结合'中心'(centri)和'寻求/指向'(petal)，指向心力。",
+                "fr": "Décrit la force qui attire un objet vers le centre, causant un mouvement circulaire. Le terme combine 'centre' (centri) et 'chercher/se diriger vers' (petal), désignant la force centripète."
+            },
+            "example": "Gravity provides the centripetal force that keeps planets in orbit around the sun.",
+            "translation": {
+                "ko": "중력은 행성들이 태양 주위의 궤도를 유지하게 하는 구심력을 제공한다.",
+                "ja": "重力は惑星を太陽の周りの軌道に保つ求心力を提供する。",
+                "zh": "重力提供了使行星保持在太阳周围轨道上的向心力。",
+                "fr": "La gravité fournit la force centripète qui maintient les planètes en orbite autour du soleil."
+            }
+        },
+        {
+            "word": "eccentric",
+            "part_of_speech": "",
+            "origin": "Greek, ek (out of) + kentron (center)",
+            "meaning": {
+                "ko": "중심에서 벗어난",
+                "en": "deviating from center",
+                "ja": "中心からずれた",
+                "zh": "偏离中心的",
+                "fr": "excentrique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ec- (ek)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out of",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "hors de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "centric (kentron)",
+                    "meaning": {
+                        "ko": "'중심'",
+                        "en": "center",
+                        "ja": "中心",
+                        "zh": "中心",
+                        "fr": "centre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'중심(centric)에서 벗어난(ec)'이라는 의미에서, 행동이나 성격이 일반적이지 않고 '별난', '괴짜인'이라는 뜻이 되었습니다.",
+                "en": "From the meaning 'deviating from center (centric) with ec', it came to mean behavior or personality that is not ordinary, 'odd' or 'eccentric'.",
+                "ja": "中心(centric)からずれた(ec)という意味から、行動や性格が一般的ではなく、'変わった'、'変人の'という意味になりました。",
+                "zh": "从'偏离中心(centric)的(ec)'的含义引申而来，表示行为或性格不寻常、'古怪的'、'怪人的'。",
+                "fr": "Du sens 'dévier du centre (centric) avec ec', cela signifie un comportement ou une personnalité inhabituelle, 'bizarre' ou 'excentrique'."
+            },
+            "example": "His eccentric behavior made him famous.",
+            "translation": {
+                "ko": "그의 별난 행동은 그를 유명하게 만들었다.",
+                "ja": "彼の変わった行動は彼を有名にした。",
+                "zh": "他古怪的行为使他出名了。",
+                "fr": "Son comportement excentrique l'a rendu célèbre."
+            }
+        },
+        {
+            "word": "ethnocentric",
+            "part_of_speech": "",
+            "origin": "Greek, ethnos (nation) + kentron (center)",
+            "meaning": {
+                "ko": "자기 민족 중심",
+                "en": "centered on one's own ethnic group",
+                "ja": "民族中心主義的",
+                "zh": "民族中心主义的",
+                "fr": "ethnocentrique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ethno (ethnos)",
+                    "meaning": {
+                        "ko": "'민족, 종족'",
+                        "en": "nation, race",
+                        "ja": "民族、人種",
+                        "zh": "民族、种族",
+                        "fr": "nation, race"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "centric (kentron)",
+                    "meaning": {
+                        "ko": "'중심'",
+                        "en": "center",
+                        "ja": "中心",
+                        "zh": "中心",
+                        "fr": "centre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "자신의 '민족(ethno)을 세상의 중심(centric)에 놓고' 다른 문화를 판단하는 태도를 의미하며 '자기 민족 중심적인'이라는 뜻입니다.",
+                "en": "An ethnocentric perspective places one's own 'ethno(s)' at the center of the world and judges other cultures from that standpoint, meaning 'centered on one's own ethnicity'.",
+                "ja": "自分の民族(ethno)を世界の中心(centric)に置いて、他の文化を判断する態度を意味し、『自民族中心的』という意味です。",
+                "zh": "将自己的'民族(ethno)置于世界中心(centric)'，以此立场判断其他文化的态度，意为'民族中心主义的'。",
+                "fr": "Une perspective qui place sa propre 'ethnie(ethno) au centre(centric)' du monde et juge les autres cultures à partir de ce point de vue, signifiant 'centré sur son propre groupe ethnique'."
+            },
+            "example": "An ethnocentric perspective can lead to misunderstanding and conflict.",
+            "translation": {
+                "ko": "자기 민족 중심적인 관점은 오해와 갈등으로 이어질 수 있다.",
+                "ja": "エスノセントリック的視点は誤解と対立につながる可能性があります。",
+                "zh": "民族中心主义的观点可能导致误解和冲突。",
+                "fr": "Une perspective ethnocentrique peut mener à des malentendus et des conflits."
+            }
+        }
+    ]
+}

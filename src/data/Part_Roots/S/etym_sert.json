@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "sert (join) assertive, desert, insertion",
+        "origin": "Latin, serere, sertus (to join, to connect)",
+        "meaning": {
+            "ko": "연결하다",
+            "en": "to join",
+            "ja": "結ぶ",
+            "zh": "连接",
+            "fr": "joindre"
+        }
+    },
+    "words": [
+        {
+            "word": "assertive",
+            "part_of_speech": "",
+            "origin": "Latin, asserere (to claim, to join to oneself)",
+            "meaning": {
+                "ko": "주장하다, 자신에게 연결하다",
+                "en": "to assert, to connect to oneself",
+                "ja": "主張する、自信を持つ",
+                "zh": "主张、自信",
+                "fr": "affirmer, être confiant"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "as- (ad-)",
+                    "meaning": {
+                        "ko": "'~으로'",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "向",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sert",
+                    "meaning": {
+                        "ko": "'연결하다'",
+                        "en": "to join",
+                        "ja": "つなぐ",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신의 생각을 다른 사람에게 확고하게 연결하다'는 의미에서 '자기주장이 강한', '적극적인'이라는 뜻이 되었습니다.",
+                "en": "From the meaning 'to firmly connect one's own thoughts to others', it came to mean 'strong self-assertion' or 'proactive'",
+                "ja": "自分の考えを他人に確固につなぐという意味から、自己主張が強い、積極的という意味になりました",
+                "zh": "从将自己的想法坚定地传达给他人的含义演变为自主性强、积极主动的意思",
+                "fr": "Du sens de 'relier fermement ses propres pensées à autrui', c'est devenu signifier 'affirmation de soi forte' ou 'proactif'"
+            },
+            "example": "You need to be more assertive in meetings.",
+            "translation": {
+                "ko": "당신은 회의에서 좀 더 자기주장을 확실히 할 필요가 있다.",
+                "ja": "会議でもっと自信を持って主張する必要があります",
+                "zh": "你需要在会议中更有主见",
+                "fr": "Vous devez être plus affirmatif lors des réunions"
+            }
+        },
+        {
+            "word": "desert",
+            "part_of_speech": "",
+            "origin": "Latin, deserere (to abandon)",
+            "meaning": {
+                "ko": "버리다",
+                "en": "to abandon",
+                "ja": "見捨てる",
+                "zh": "遗弃",
+                "fr": "abandonner"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'~에서 떨어져'",
+                        "en": "away from",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "s'éloigner de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sert",
+                    "meaning": {
+                        "ko": "'연결하다'",
+                        "en": "to join",
+                        "ja": "つなぐ",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'연결을 끊고 떠나다'는 의미에서 '버리다', '탈영하다'라는 뜻입니다. (사막 desert와는 어원이 다름)",
+                "en": "Means to abandon or desert (leave one's post), from breaking a connection and departing. Different etymology from the noun 'desert' (sandy place).",
+                "ja": "つながりを切って去るという意味で、見捨てる、脱営するという意味です。名詞の砂漠desertとは語源が異なります。",
+                "zh": "意为断绝联系而离去，即遗弃、逃兵之意。与名词'沙漠desert'的词源不同。",
+                "fr": "Signifie abandonner ou déserter (quitter son poste), en rompant une connexion et en partant. Étymologie différente du nom 'désert' (lieu sablonneux)."
+            },
+            "example": "He deserted his post.",
+            "translation": {
+                "ko": "그는 자신의 직책을 버렸다.",
+                "ja": "彼は持ち場を見捨てた。",
+                "zh": "他遗弃了他的岗位。",
+                "fr": "Il a déserté son poste."
+            }
+        },
+        {
+            "word": "insertion",
+            "part_of_speech": "",
+            "origin": "Latin, insertio (a putting in)",
+            "meaning": {
+                "ko": "안에 넣기",
+                "en": "putting inside",
+                "ja": "挿入",
+                "zh": "插入",
+                "fr": "insertion"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...中",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sert",
+                    "meaning": {
+                        "ko": "'넣다, 연결하다'",
+                        "en": "to put, join",
+                        "ja": "入れる、つなぐ",
+                        "zh": "放入、连接",
+                        "fr": "mettre, joindre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'글이나 물건 사이에 무언가를 넣어 연결하는 것'이라는 의미에서 '삽입'을 뜻합니다.",
+                "en": "Means to insert or connect something between text or objects",
+                "ja": "文字や物の間に何かを入れて繋ぐことという意味で挿入を意味する",
+                "zh": "在文字或物体之间放入某物并连接的意思，表示插入",
+                "fr": "Signifie insérer ou connecter quelque chose entre du texte ou des objets"
+            },
+            "example": "The insertion of a new chapter improved the book.",
+            "translation": {
+                "ko": "새 장의 삽입은 그 책을 더 좋게 만들었다.",
+                "ja": "新しい章の挿入は本を改善した。",
+                "zh": "新章节的插入改进了这本书。",
+                "fr": "L'insertion d'un nouveau chapitre a amélioré le livre."
+            }
+        }
+    ]
+}

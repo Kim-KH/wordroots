@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "meta",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "넘어서, 변화",
+            "en": "beyond, change",
+            "ja": "超える、変化",
+            "zh": "超越、变化",
+            "fr": "au-delà, changement"
+        }
+    },
+    "words": [
+        {
+            "word": "metaphor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "meta-",
+                    "meaning": {
+                        "ko": "넘어서",
+                        "en": "beyond",
+                        "ja": "超える",
+                        "zh": "超过",
+                        "fr": "au-delà"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phor",
+                    "meaning": {
+                        "ko": "나르다",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "携带",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의미를 다른 곳으로 옮겨 나르는 것'이라는 의미에서 '은유', '비유'를 뜻합니다.",
+                "en": "Meaning is transferred or carried to another place, creating metaphor or analogy",
+                "ja": "意味を別の場所に移して運ぶことから、隠喩や比喩を意味します",
+                "zh": "将意义转移到另一个地方，由此表示隐喻或比喻",
+                "fr": "Transférer le sens vers un autre endroit, d'où proviennent la métaphore et l'analogie"
+            },
+            "example": "\"Life is a journey\" is a metaphor.",
+            "translation": {
+                "ko": "\"인생은 여정이다\"는 은유이다.",
+                "ja": "「人生は旅である」は隠喩です",
+                "zh": "\"人生是一段旅程\"是一个隐喻",
+                "fr": "« La vie est un voyage » est une métaphore"
+            }
+        },
+        {
+            "word": "metamorphosis",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "meta-",
+                    "meaning": {
+                        "ko": "변화",
+                        "en": "change",
+                        "ja": "変化",
+                        "zh": "变化",
+                        "fr": "changement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "morph",
+                    "meaning": {
+                        "ko": "형태",
+                        "en": "form",
+                        "ja": "形態",
+                        "zh": "形态",
+                        "fr": "forme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'형태의 완전한 변화' 즉, 곤충 등의 '변태' 또는 '완전한 변화'를 뜻합니다.",
+                "en": "Complete change of form; refers to the transformation or complete metamorphosis of insects.",
+                "ja": "形態の完全な変化、つまり昆虫などの変態または完全な変化を意味します。",
+                "zh": "形态的完全变化，即指昆虫等的变态或完全的变化。",
+                "fr": "Changement complet de forme ; désigne la transformation ou la métamorphose complète des insectes."
+            },
+            "example": "The metamorphosis from caterpillar to butterfly is amazing.",
+            "translation": {
+                "ko": "애벌레에서 나비로의 변태는 놀랍다.",
+                "ja": "毛虫から蝶への変態は驚くべきものです。",
+                "zh": "毛毛虫变成蝴蝶的变态是令人惊叹的。",
+                "fr": "La métamorphose de la chenille en papillon est remarquable."
+            }
+        },
+        {
+            "word": "metabolism",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "meta-",
+                    "meaning": {
+                        "ko": "변화",
+                        "en": "change",
+                        "ja": "変化",
+                        "zh": "变化",
+                        "fr": "changement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bolism",
+                    "meaning": {
+                        "ko": "던지기",
+                        "en": "throwing",
+                        "ja": "投げること",
+                        "zh": "投掷",
+                        "fr": "lancer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생체 내에서의 물질 변화' 즉, '물질대사', '신진대사'를 뜻합니다.",
+                "en": "Refers to chemical changes of substances within living organisms; also called material metabolism or anabolism-catabolism.",
+                "ja": "生体内での物質変化、つまり物質代謝、新陳代謝を意味します。",
+                "zh": "指生体内的物质变化，即物质代谢、新陈代谢。",
+                "fr": "Désigne les transformations chimiques des substances dans les organismes vivants; également appelé métabolisme matériel ou anabolisme-catabolisme."
+            },
+            "example": "Exercise can boost your metabolism.",
+            "translation": {
+                "ko": "운동은 신진대사를 촉진할 수 있다.",
+                "ja": "運動は代謝を促進することができます。",
+                "zh": "运动可以促进代谢。",
+                "fr": "L'exercice peut stimuler votre métabolisme."
+            }
+        }
+    ]
+}

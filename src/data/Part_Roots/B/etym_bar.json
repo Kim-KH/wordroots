@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "bar (pressure, weight) barometer, baritone",
+        "origin": "Greek, baros (weight)",
+        "meaning": {
+            "ko": "무게",
+            "en": "weight",
+            "ja": "重さ",
+            "zh": "重量",
+            "fr": "poids"
+        }
+    },
+    "words": [
+        {
+            "word": "barometer",
+            "part_of_speech": "",
+            "origin": "Greek, baros (weight) + metron (measure)",
+            "meaning": {
+                "ko": "무게 측정",
+                "en": "weight measure",
+                "ja": "気圧測定器",
+                "zh": "气压计",
+                "fr": "baromètre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "baro (baros)",
+                    "meaning": {
+                        "ko": "'무게, 압력'",
+                        "en": "weight, pressure",
+                        "ja": "重さ、気圧",
+                        "zh": "重量、压力",
+                        "fr": "poids, pression"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'측정 기구'",
+                        "en": "measuring device",
+                        "ja": "測定装置",
+                        "zh": "测量装置",
+                        "fr": "dispositif de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대기의 압력(baro)을 측정하는(meter) 기구'라는 의미에서 '기압계'를 뜻합니다. 비유적으로는 상황의 변화를 나타내는 '지표'라는 의미로도 쓰입니다.",
+                "en": "A device that measures atmospheric pressure (baro) using a measuring instrument (meter). Metaphorically, it also means an 'indicator' that shows changes in situations.",
+                "ja": "大気の圧力(baro)を測定する(meter)装置という意味から'気圧計'を表します。比喩的には状況の変化を示す'指標'という意味でも使われます。",
+                "zh": "根据测量大气压力(baro)的装置(meter)的含义表示'气压计'。比喻性地也用来表示显示情况变化的'指标'。",
+                "fr": "Appareil qui mesure la pression atmosphérique (baro) avec un instrument de mesure (meter). Au sens figuré, c'est aussi un 'indicateur' montrant les changements de situation."
+            },
+            "example": "The barometer is falling, so a storm might be coming.",
+            "translation": {
+                "ko": "기압계가 떨어지고 있으니, 폭풍이 올지도 모른다.",
+                "ja": "気圧計が下がっているので、嵐が来るかもしれません。",
+                "zh": "气压计在下降，所以暴风雨可能来临。",
+                "fr": "Le baromètre baisse, donc un orage pourrait arriver."
+            }
+        },
+        {
+            "word": "baritone",
+            "part_of_speech": "",
+            "origin": "Italian, baritono (deep-sounding)",
+            "meaning": {
+                "ko": "깊은 소리가 나는",
+                "en": "deep-sounding",
+                "ja": "深い音声の",
+                "zh": "深沉的嗓音",
+                "fr": "voix grave"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bari (barys)",
+                    "meaning": {
+                        "ko": "'무거운, 깊은'",
+                        "en": "heavy, deep",
+                        "ja": "重い、深い",
+                        "zh": "沉重、深的",
+                        "fr": "lourd, profond"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tone (tonos)",
+                    "meaning": {
+                        "ko": "'음'",
+                        "en": "tone",
+                        "ja": "音",
+                        "zh": "音",
+                        "fr": "ton"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무겁고 깊은(bari) 음(tone)'이라는 의미에서, 테너와 베이스 사이의 남성 음역인 '바리톤'을 가리킵니다.",
+                "en": "From Greek 'barys' (heavy, deep) + 'tonos' (tone), referring to a male singing voice between tenor and bass",
+                "ja": "重く深い(bari)音(tone)という意味で、テナーとベースの間の男性音域のバリトーンを指します",
+                "zh": "从希腊语'barys'(沉重、深的)+'tonos'(音)而来，指男性音域中男高音和低音之间的音色",
+                "fr": "Du grec 'barys' (lourd, profond) + 'tonos' (ton), désignant une voix masculine entre ténor et basse"
+            },
+            "example": "He has a rich baritone voice.",
+            "translation": {
+                "ko": "그는 풍부한 바리톤 목소리를 가지고 있다.",
+                "ja": "彼は豊かなバリトンボイスを持っている。",
+                "zh": "他有着丰富的男中音嗓音。",
+                "fr": "Il a une voix de baryton riche."
+            }
+        }
+    ]
+}

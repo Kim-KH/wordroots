@@ -1,0 +1,232 @@
+{
+    "root_info": {
+        "roots": "son(a) (sound) consonant, sonata, sonic, sonogram, sonorous",
+        "origin": "Latin, sonus (a sound)",
+        "meaning": {
+            "ko": "소리",
+            "en": "a sound",
+            "ja": "音",
+            "zh": "声音",
+            "fr": "un son"
+        }
+    },
+    "words": [
+        {
+            "word": "consonant",
+            "part_of_speech": "",
+            "origin": "Latin, consonans (sounding together)",
+            "meaning": {
+                "ko": "함께 소리 나는",
+                "en": "sounding together",
+                "ja": "一緒に鳴る音",
+                "zh": "一起发音",
+                "fr": "son ensemble"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "son-",
+                    "meaning": {
+                        "ko": "'소리'",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모음과 함께 소리가 나는' 글자라는 의미에서 '자음'을 뜻합니다.",
+                "en": "Consonants are letters that produce sound together with vowels",
+                "ja": "母音と一緒に音が出る文字という意味で子音を表します",
+                "zh": "表示与元音一起发音的字母意思",
+                "fr": "Les consonnes sont des lettres qui produisent du son avec les voyelles"
+            },
+            "example": "The English alphabet has 21 consonants.",
+            "translation": {
+                "ko": "영어 알파벳은 21개의 자음을 가지고 있다.",
+                "ja": "英語のアルファベットは21個の子音があります",
+                "zh": "英文字母有21个辅音",
+                "fr": "L'alphabet anglais a 21 consonnes"
+            }
+        },
+        {
+            "word": "sonata",
+            "part_of_speech": "",
+            "origin": "Italian, sonata (a piece of instrumental music)",
+            "meaning": {
+                "ko": "연주곡",
+                "en": "musical composition for solo instrument",
+                "ja": "器楽曲",
+                "zh": "奏鸣曲",
+                "fr": "sonate"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "son- (sonare 'to sound')",
+                    "meaning": {
+                        "ko": "'소리를 내다'",
+                        "en": "to sound",
+                        "ja": "音を出す",
+                        "zh": "发出声音",
+                        "fr": "produire du son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'악기로 소리를 내어 연주하는' 기악곡인 '소나타'를 뜻합니다.",
+                "en": "Sonata refers to an instrumental composition played by producing sound with musical instruments.",
+                "ja": "ソナタは、楽器で音を出して演奏する器楽曲を意味します。",
+                "zh": "奏鸣曲是指用乐器发出声音进行演奏的器乐作品。",
+                "fr": "La sonate est une composition instrumentale jouée en produisant des sons avec des instruments de musique."
+            },
+            "example": "Beethoven's Moonlight Sonata is a famous piano piece.",
+            "translation": {
+                "ko": "베토벤의 월광 소나타는 유명한 피아노 곡이다.",
+                "ja": "ベートーヴェンの『月光ソナタ』は有名なピアノ曲です。",
+                "zh": "贝多芬的《月光奏鸣曲》是著名的钢琴作品。",
+                "fr": "La Sonate au clair de lune de Beethoven est une célèbre pièce pour piano."
+            }
+        },
+        {
+            "word": "sonic",
+            "part_of_speech": "",
+            "origin": "Latin, sonus (sound)",
+            "meaning": {
+                "ko": "소리",
+                "en": "sound",
+                "ja": "音の、音速の",
+                "zh": "声音的、音速的",
+                "fr": "sonique, relatif au son"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "son-",
+                    "meaning": {
+                        "ko": "'소리'",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리의', '음속의'라는 뜻입니다.",
+                "en": "Means 'of sound' or 'of the speed of sound'",
+                "ja": "音に関する、または音速に関するという意味です",
+                "zh": "意思是'与声音有关的'或'与音速有关的'",
+                "fr": "Signifie 'relatif au son' ou 'relatif à la vitesse du son'"
+            },
+            "example": "A sonic boom is the sound associated with shock waves created by an object traveling through the air faster than the speed of sound.",
+            "translation": {
+                "ko": "소닉붐은 음속보다 빠르게 공기를 통과하는 물체에 의해 생성된 충격파와 관련된 소리이다.",
+                "ja": "ソニック爆発は、音速より速く空気中を移動する物体によって生成される衝撃波に関連する音です。",
+                "zh": "音爆是与以超音速穿过空气的物体产生的冲击波相关的声音。",
+                "fr": "Un boom sonique est le son associé aux ondes de choc créées par un objet voyageant dans l'air plus vite que la vitesse du son."
+            }
+        },
+        {
+            "word": "sonogram",
+            "part_of_speech": "",
+            "origin": "Latin, sonus (sound) + Greek, gramma (thing written)",
+            "meaning": {
+                "ko": "소리 기록",
+                "en": "sound recording",
+                "ja": "音声記録",
+                "zh": "声音记录",
+                "fr": "enregistrement sonore"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sono-",
+                    "meaning": {
+                        "ko": "'소리'",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "'기록, 영상'",
+                        "en": "record",
+                        "ja": "記録、画像",
+                        "zh": "记录、影像",
+                        "fr": "enregistrement, image"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'초음파를 이용하여 내부를 기록한 영상'인 '초음파 검사 사진'을 뜻합니다.",
+                "en": "A diagnostic image created using ultrasound technology to visualize internal structures, commonly used to examine an unborn baby",
+                "ja": "超音波を使用して内部構造を可視化する診断画像で、胎児の検査に一般的に使用される",
+                "zh": "使用超声波技术可视化内部结构的诊断图像，通常用于检查未出生的婴儿",
+                "fr": "Image diagnostique créée par échographie pour visualiser les structures internes, couramment utilisée pour examiner un fœtus"
+            },
+            "example": "The doctor showed them a sonogram of their unborn baby.",
+            "translation": {
+                "ko": "의사는 그들에게 태아의 초음파 사진을 보여주었다.",
+                "ja": "医者は彼らに未生児の超音波画像を見せた",
+                "zh": "医生向他们展示了他们未出生婴儿的超声波图像",
+                "fr": "Le médecin leur a montré une échographie de leur bébé à naître"
+            }
+        },
+        {
+            "word": "sonorous",
+            "part_of_speech": "",
+            "origin": "Latin, sonorus (sounding)",
+            "meaning": {
+                "ko": "소리 나는",
+                "en": "producing sound",
+                "ja": "響き渡る",
+                "zh": "响亮的",
+                "fr": "sonore"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "son-",
+                    "meaning": {
+                        "ko": "'소리'",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리가 깊고 풍부하게 울려 퍼지는'이라는 뜻입니다.",
+                "en": "It means a deep and rich sound that resonates",
+                "ja": "深く豊かに響き渡る音を意味します",
+                "zh": "表示深沉而丰富地回响的声音",
+                "fr": "Signifie un son profond et riche qui résonne"
+            },
+            "example": "He has a deep, sonorous voice.",
+            "translation": {
+                "ko": "그는 깊고 낭랑한 목소리를 가지고 있다.",
+                "ja": "彼は深く響き渡る声を持っている。",
+                "zh": "他有深沉响亮的嗓音。",
+                "fr": "Il a une voix profonde et sonore."
+            }
+        }
+    ]
+}

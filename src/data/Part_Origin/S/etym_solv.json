@@ -1,0 +1,329 @@
+{
+    "root_info": {
+        "roots": "solv, solu, solut: loosen, explain",
+        "origin": "Latin, solvere",
+        "meaning": {
+            "ko": "풀다",
+            "en": "to loosen",
+            "ja": "ほどく",
+            "zh": "松开",
+            "fr": "desserrer"
+        }
+    },
+    "words": [
+        {
+            "word": "resolve",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시, 완전히",
+                        "en": "again, intensive",
+                        "ja": "再び、徹底的に",
+                        "zh": "再次、彻底地",
+                        "fr": "à nouveau, intensément"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "solve",
+                    "meaning": {
+                        "ko": "풀다",
+                        "en": "to loosen",
+                        "ja": "ほどく",
+                        "zh": "解开",
+                        "fr": "délier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "얽힌 것을 '완전히 풀어내다'는 의미에서, 문제를 '해결하다', '결심하다'는 뜻입니다.",
+                "en": "From the sense of 'completely untangling something,' it came to mean 'solve a problem' or 'make a firm decision.'",
+                "ja": "絡み合ったものを「完全にほどく」という意味から、問題を「解決する」、「決心する」という意味になりました。",
+                "zh": "从「彻底解开缠结之物」的含义演变而来，用于表示「解决问题」或「下定决心」。",
+                "fr": "Du sens de 'démêler complètement quelque chose', il en est venu à signifier 'résoudre un problème' ou 'prendre une décision ferme'."
+            },
+            "example": "We need to resolve this conflict.",
+            "translation": {
+                "ko": "우리는 이 갈등을 해결해야 한다.",
+                "ja": "私たちはこの対立を解決する必要があります。",
+                "zh": "我们需要解决这个冲突。",
+                "fr": "Nous devons résoudre ce conflit."
+            }
+        },
+        {
+            "word": "solution",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "solut",
+                    "meaning": {
+                        "ko": "풀다",
+                        "en": "to loosen",
+                        "ja": "ほぐす",
+                        "zh": "松开",
+                        "fr": "desserrer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'풀어낸 것'이라는 의미에서, 문제의 '해결책' 또는 액체에 녹인 '용액'을 뜻합니다.",
+                "en": "From the meaning of 'something loosened', it refers to the 'resolution' of a problem or a 'liquid mixture' where something is dissolved.",
+                "ja": "『ほぐされたもの』という意味から、問題の『解決策』または液体に溶かされた『液液』を意味します。",
+                "zh": "从'被松开的东西'的含义来看，指的是问题的'解决方案'或液体中溶解的'溶液'。",
+                "fr": "Du sens de 'quelque chose qui a été desserré', il désigne la 'résolution' d'un problème ou un 'mélange liquide' où quelque chose est dissous."
+            },
+            "example": "There is no easy solution to this problem.",
+            "translation": {
+                "ko": "이 문제에 쉬운 해결책은 없다.",
+                "ja": "解決策、溶液",
+                "zh": "解决方案、溶液",
+                "fr": "solution, résolution"
+            }
+        },
+        {
+            "word": "absolve",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ab-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "from",
+                        "ja": "から",
+                        "zh": "从",
+                        "fr": "de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "solve",
+                    "meaning": {
+                        "ko": "풀다",
+                        "en": "to loosen",
+                        "ja": "解く",
+                        "zh": "松开",
+                        "fr": "délier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "죄나 의무로부터 '풀어주다'는 의미에서, '무죄임을 선언하다', '용서하다'는 뜻입니다.",
+                "en": "From the meaning of 'to loosen' from guilt or duty, it came to mean 'to declare innocent' or 'to forgive'.",
+                "ja": "罪や義務から'解き放つ'という意味から、'無罪を宣言する'、'許す'という意味になりました。",
+                "zh": "从'从罪恶或义务中解放'的含义，演变为'宣布无罪'或'原谅'的意思。",
+                "fr": "Du sens de 'délier' de la culpabilité ou du devoir, il en vint à signifier 'déclarer innocent' ou 'pardonner'."
+            },
+            "example": "The court absolved him of all blame.",
+            "translation": {
+                "ko": "법원은 그에게 모든 책임이 없음을 선언했다.",
+                "ja": "裁判所は彼をすべての非難から免れさせた。",
+                "zh": "法院宣布他不承担所有责任。",
+                "fr": "Le tribunal l'a innocenté de tous les reproches."
+            }
+        },
+        {
+            "word": "dissolve",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 따로",
+                        "en": "apart",
+                        "ja": "離れて、別に",
+                        "zh": "分开、分离",
+                        "fr": "apart, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "solve",
+                    "meaning": {
+                        "ko": "풀다",
+                        "en": "to loosen",
+                        "ja": "ほどく、緩める",
+                        "zh": "松开、放松",
+                        "fr": "desserrer, relâcher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'분리되어 풀어지다'는 의미에서, 고체가 액체에 '녹다', '용해되다' 또는 단체 등을 '해산시키다'는 뜻입니다.",
+                "en": "From the sense of 'becoming separated and loosened': solids 'melting' or 'dissolving' in liquids, or organizations being 'disbanded'.",
+                "ja": "「分離して解かれる」という意味から、固体が液体に「溶ける」「溶解する」、または団体などが「解散する」という意味です。",
+                "zh": "从\"分离并松开\"的含义，指固体在液体中\"溶解\"或\"消溶\"，或组织\"解散\"。",
+                "fr": "Du sens de 'se séparer et se relâcher': les solides 'fondent' ou 'se dissolvent' dans les liquides, ou les organisations sont 'dissoutes'."
+            },
+            "example": "Salt dissolves in water.",
+            "translation": {
+                "ko": "소금은 물에 녹는다.",
+                "ja": "塩は水に溶ける。",
+                "zh": "盐在水中溶解。",
+                "fr": "Le sel se dissout dans l'eau."
+            }
+        },
+        {
+            "word": "soluble",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "solu",
+                    "meaning": {
+                        "ko": "풀다, 녹다",
+                        "en": "to loosen",
+                        "ja": "ほどく、とける",
+                        "zh": "松开、溶解",
+                        "fr": "desserrer, dissoudre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ble",
+                    "meaning": {
+                        "ko": "~할 수 있는",
+                        "en": "able to be",
+                        "ja": "～することができる",
+                        "zh": "能够～",
+                        "fr": "capable de être"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'녹을 수 있는' 또는 '풀 수 있는'이라는 의미에서 '용해성의', '해결 가능한'이라는 뜻입니다.",
+                "en": "Meaning 'able to be loosened' or 'able to be dissolved'; refers to solubility or the quality of being dissolvable.",
+                "ja": "「溶かすことができる」または「解くことができる」という意味から、「溶解性のある」または「解決可能な」という意味になります。",
+                "zh": "从「能够溶解」或「能够松开」的意思演变而来，表示「可溶解的」或「可解决的」。",
+                "fr": "Du sens « capable d'être dissous » ou « capable d'être défait », signifiant « soluble » ou « résolvable »."
+            },
+            "example": "Sugar is soluble in water.",
+            "translation": {
+                "ko": "설탕은 물에 녹는다.",
+                "ja": "砂糖は水に溶ける。",
+                "zh": "糖可以溶于水。",
+                "fr": "Le sucre est soluble dans l'eau."
+            }
+        },
+        {
+            "word": "solvent",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "solv",
+                    "meaning": {
+                        "ko": "풀다, 지불하다",
+                        "en": "to loosen, pay",
+                        "ja": "解く、支払う",
+                        "zh": "松开、支付",
+                        "fr": "délier, payer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "빚을 '풀 수 있는(갚을 수 있는)' 능력이 있다는 의미에서 '지불 능력이 있는'이라는 뜻이며, 명사로는 다른 물질을 녹이는 '용매'를 뜻합니다.",
+                "en": "From the sense of being able to 'loosen' or pay debts—having the ability to pay. As a noun, it refers to a 'solvent' that dissolves other substances.",
+                "ja": "債務を「払える」能力があるという意味から、「支払い能力がある」という意味になります。名詞としては、他の物質を溶かす「溶媒」を意味します。",
+                "zh": "从能够\"偿还\"债务的意思引申，表示\"有支付能力\"。作为名词，指溶解其他物质的\"溶剂\"。",
+                "fr": "Du sens de pouvoir « délier » ou payer des dettes—avoir la capacité à payer. Comme nom, il désigne un « solvant » qui dissout d'autres substances."
+            },
+            "example": "The company is no longer solvent.",
+            "translation": {
+                "ko": "그 회사는 더 이상 지불 능력이 없다.",
+                "ja": "その会社はもはや支払い能力がない。",
+                "zh": "那家公司不再有偿付能力。",
+                "fr": "L'entreprise n'est plus solvable."
+            }
+        },
+        {
+            "word": "solve",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "solv",
+                    "meaning": {
+                        "ko": "풀다",
+                        "en": "to loosen",
+                        "ja": "解く",
+                        "zh": "解开",
+                        "fr": "délier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 solvere에서 직접 유래하여 문제나 수수께끼를 '풀다', '해결하다'는 뜻입니다.",
+                "en": "Derived directly from Latin solvere, meaning to 'loosen' or 'unfasten'; extended to mean 'solve' or 'resolve' problems and riddles.",
+                "ja": "ラテン語のsolveereから直接派生し、問題や謎を「解く」「解決する」という意味です。",
+                "zh": "直接源自拉丁语solvere，意为\"解开\"或\"松开\"；引申为\"解决\"问题和谜题。",
+                "fr": "Dérivé directement du latin solvere, signifiant 'délier' ou 'détacher'; étendu pour signifier 'résoudre' ou 'résoudre' des problèmes et des énigmes."
+            },
+            "example": "I can't solve this math problem.",
+            "translation": {
+                "ko": "나는 이 수학 문제를 풀 수 없다.",
+                "ja": "私はこの数学の問題を解くことができません。",
+                "zh": "我无法解决这道数学题。",
+                "fr": "Je ne peux pas résoudre ce problème de mathématiques."
+            }
+        },
+        {
+            "word": "resolution",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "완전히",
+                        "en": "intensive",
+                        "ja": "徹底的に",
+                        "zh": "彻底地",
+                        "fr": "intensément"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "solut",
+                    "meaning": {
+                        "ko": "풀다",
+                        "en": "to loosen",
+                        "ja": "ほどく",
+                        "zh": "松开",
+                        "fr": "desserrer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 풀어낸 상태'라는 의미에서, 굳은 '결심', '결의' 또는 문제의 '해결', 화면의 '해상도'를 뜻합니다.",
+                "en": "From the sense of 'completely loosened state', meaning firm determination or resolve, or the solution to a problem, or screen pixel density.",
+                "ja": "「完全にほどいた状態」という意味から、固い「決心」「決意」、または問題の「解決」、画面の「解像度」を意味します。",
+                "zh": "从「完全松开的状态」的含义出发，表示坚定的「决心」「决意」，或问题的「解决」，或屏幕的「分辨率」。",
+                "fr": "Du sens de 'complètement desserré', signifiant une détermination ferme, la solution à un problème, ou la résolution d'écran."
+            },
+            "example": "He made a New Year's resolution to exercise more.",
+            "translation": {
+                "ko": "그는 운동을 더 하겠다는 새해 결심을 했다.",
+                "ja": "彼は正月の決心として、もっと運動するつもりだった。",
+                "zh": "他许下了新年决心，要更多地锻炼身体。",
+                "fr": "Il a pris la résolution du Nouvel An de faire plus d'exercice."
+            }
+        }
+    ]
+}

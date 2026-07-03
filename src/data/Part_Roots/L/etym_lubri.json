@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "lubri (slippery) lubricant, lubricate",
+        "origin": "Latin, lubricus (slippery)",
+        "meaning": {
+            "ko": "미끄러운",
+            "en": "slippery",
+            "ja": "滑りやすい",
+            "zh": "光滑的",
+            "fr": "glissant"
+        }
+    },
+    "words": [
+        {
+            "word": "lubricant",
+            "part_of_speech": "",
+            "origin": "Latin, lubricare (to make slippery)",
+            "meaning": {
+                "ko": "미끄럽게 만들다",
+                "en": "to make slippery",
+                "ja": "滑らかにする物質",
+                "zh": "使光滑的物质",
+                "fr": "substance qui rend glissant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lubric-",
+                    "meaning": {
+                        "ko": "'미끄러운'",
+                        "en": "slippery",
+                        "ja": "滑りやすい",
+                        "zh": "光滑的",
+                        "fr": "glissant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기계 등을 미끄럽게 만드는 물질'인 '윤활유'를 뜻합니다.",
+                "en": "Refers to 'lubricating oil', a substance that makes machinery smooth and slippery.",
+                "ja": "機械などを滑らかにする物質である潤滑油を意味します。",
+                "zh": "指使机械等光滑的物质，即润滑油。",
+                "fr": "Désigne l'huile de lubrification, une substance qui rend les machines lisses et glissantes."
+            },
+            "example": "You should apply some lubricant to the rusty hinge.",
+            "translation": {
+                "ko": "녹슨 경첩에 윤활유를 좀 발라야 한다.",
+                "ja": "さびたヒンジに潤滑油を塗布すべきです。",
+                "zh": "你应该在生锈的铰链上涂上润滑油。",
+                "fr": "Vous devriez appliquer un lubrifiant à la charnière rouillée."
+            }
+        },
+        {
+            "word": "lubricate",
+            "part_of_speech": "",
+            "origin": "Latin, lubricare (to make slippery)",
+            "meaning": {
+                "ko": "미끄럽게 만들다",
+                "en": "to make slippery",
+                "ja": "滑らかにする",
+                "zh": "润滑",
+                "fr": "lubrifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lubric-",
+                    "meaning": {
+                        "ko": "'미끄러운'",
+                        "en": "slippery",
+                        "ja": "滑りやすい",
+                        "zh": "光滑的",
+                        "fr": "glissant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미끄럽게 만들다', '윤활유를 치다'라는 뜻입니다.",
+                "en": "Means to make slippery or apply lubricant",
+                "ja": "滑らかにすること、または潤滑油を塗ることを意味します",
+                "zh": "表示使其光滑或涂抹润滑剂",
+                "fr": "Signifie rendre glissant ou appliquer un lubrifiant"
+            },
+            "example": "You need to lubricate the chain on your bicycle.",
+            "translation": {
+                "ko": "자전거 체인에 윤활유를 칠해야 한다.",
+                "ja": "自転車のチェーンに潤滑油を塗る必要があります",
+                "zh": "你需要润滑自行车的链条",
+                "fr": "Vous devez lubrifier la chaîne de votre vélo"
+            }
+        }
+    ]
+}

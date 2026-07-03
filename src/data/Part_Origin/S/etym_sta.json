@@ -1,0 +1,508 @@
+{
+    "root_info": {
+        "roots": "sta: stand",
+        "origin": "PIE sta-",
+        "meaning": {
+            "ko": "서다",
+            "en": "to stand",
+            "ja": "立つ",
+            "zh": "站",
+            "fr": "se tenir debout"
+        }
+    },
+    "words": [
+        {
+            "word": "stable",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sta",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ble",
+                    "meaning": {
+                        "ko": "~할 수 있는",
+                        "en": "able to be",
+                        "ja": "〜できる",
+                        "zh": "能够〜",
+                        "fr": "pouvoir ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'굳건히 서 있을 수 있는'이라는 의미에서 '안정된', '안정적인'이라는 뜻입니다.",
+                "en": "From 'able to stand firmly': meaning steady or secure.",
+                "ja": "「しっかり立っていられる」という意味から、「安定した」という意味になりました。",
+                "zh": "从「能够稳固地站立」的意思衍生出「稳定的」的含义。",
+                "fr": "Du sens « capable de se tenir fermement » : signifiant stable ou sécurisé."
+            },
+            "example": "The economy is finally stable.",
+            "translation": {
+                "ko": "경제가 마침내 안정되었다.",
+                "ja": "経済がついに安定した。",
+                "zh": "经济终于稳定了。",
+                "fr": "L'économie est enfin stable."
+            }
+        },
+        {
+            "word": "destitute",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져, 완전히",
+                        "en": "away, completely",
+                        "ja": "離れて、完全に",
+                        "zh": "离开、完全地",
+                        "fr": "loin, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stit (statuere)",
+                    "meaning": {
+                        "ko": "세우다",
+                        "en": "to set up",
+                        "ja": "立てる、設置する",
+                        "zh": "建立、设置",
+                        "fr": "établir, mettre en place"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "statuere는 sta에서 유래했습니다. '모든 것이 멀리 떠나버린' 상태라는 의미에서, '극빈의', '궁핍한'이라는 뜻입니다.",
+                "en": "Statuere derives from sta. In the sense of 'all things left far away', it means 'extremely poor' or 'lacking'.",
+                "ja": "Statuerはstaから由来しました。'すべてが遠く離れてしまった状態'という意味から、'極度に貧しい'、'欠乏している'という意味になります。",
+                "zh": "Statuere源自sta。在'一切都远离消失'的意义上，表示'极度贫穷'、'缺乏'的意思。",
+                "fr": "Statuere dérive de sta. Au sens de 'tout laissé loin', il signifie 'extrêmement pauvre' ou 'manquant'."
+            },
+            "example": "The family was left destitute.",
+            "translation": {
+                "ko": "그 가족은 극빈 상태에 남겨졌다.",
+                "ja": "その家族は困窮した状態に置き去りにされた。",
+                "zh": "这个家庭被遗弃在贫困中。",
+                "fr": "La famille a été laissée dans le dénuement."
+            }
+        },
+        {
+            "word": "extant",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stant",
+                    "meaning": {
+                        "ko": "서 있는",
+                        "en": "standing",
+                        "ja": "立っている",
+                        "zh": "站立",
+                        "fr": "debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 나와 서 있는' 즉, 사라지지 않고 '현존하는', '남아있는'이라는 뜻입니다.",
+                "en": "'Standing out' — meaning still existing, not disappeared; surviving.",
+                "ja": "「外に立っている」つまり、消えずに「現存する」「残っている」という意味です。",
+                "zh": "「向外站立」，即消失而存在，「现存的」「保留下来的」的意思。",
+                "fr": "« Debout dehors » — signifiant toujours existant, non disparu ; subsistant."
+            },
+            "example": "Few copies of the book are still extant.",
+            "translation": {
+                "ko": "그 책의 사본 중 현존하는 것은 거의 없다.",
+                "ja": "その本の写本でまだ現存しているものはほとんどない。",
+                "zh": "这本书现存的副本很少。",
+                "fr": "Peu de copies du livre subsistent encore."
+            }
+        },
+        {
+            "word": "obstinate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "~에 맞서",
+                        "en": "against",
+                        "ja": "に対抗して",
+                        "zh": "对抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stin (stare)",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'맞서서 굳게 서 있는'이라는 의미에서, '완고한', '고집 센'이라는 뜻입니다.",
+                "en": "From the idea of 'standing firm against something', meaning stubborn or headstrong",
+                "ja": "何かに対抗して堅く立つという意味から、頑固で意志が強いという意味です",
+                "zh": "从对抗某事物坚定站立的概念引伸，表示固执己见、意志坚强",
+                "fr": "Du concept de 'se tenir fermement contre quelque chose', signifiant têtu ou volontaire"
+            },
+            "example": "He is as obstinate as a mule.",
+            "translation": {
+                "ko": "그는 노새처럼 고집이 세다.",
+                "ja": "彼はラバのように頑固だ",
+                "zh": "他像骡子一样固执",
+                "fr": "Il est aussi têtu qu'une mule"
+            }
+        },
+        {
+            "word": "constant",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stant",
+                    "meaning": {
+                        "ko": "서 있는",
+                        "en": "standing",
+                        "ja": "立っている",
+                        "zh": "站立",
+                        "fr": "debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'변함없이 함께 서 있는'이라는 의미에서, '끊임없는', '불변의'라는 뜻입니다.",
+                "en": "From the sense of 'standing together unchangingly,' meaning 'unceasing' or 'invariable.'",
+                "ja": "「変わらずに一緒に立つ」という意味から、「絶え間ない」「不変の」という意味になります。",
+                "zh": "从\"始终一起站立\"的含义引申为\"不断的\"或\"不变的\"。",
+                "fr": "Du sens de « se tenir ensemble sans changement », signifiant « incessant » ou « immuable »."
+            },
+            "example": "The machine needs a constant supply of power.",
+            "translation": {
+                "ko": "그 기계는 끊임없는 전력 공급이 필요하다.",
+                "ja": "その機械は絶え間ない電力供給が必要です。",
+                "zh": "那台机器需要不断的电力供应。",
+                "fr": "La machine a besoin d'un apport constant d'énergie."
+            }
+        },
+        {
+            "word": "destination",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "완전히",
+                        "en": "completely",
+                        "ja": "完全に",
+                        "zh": "完全地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stin (stare)",
+                    "meaning": {
+                        "ko": "서게 하다",
+                        "en": "to make stand",
+                        "ja": "立たせる",
+                        "zh": "使站立",
+                        "fr": "faire tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가야 할 곳으로 확고하게 정해진' 곳이라는 의미에서, '목적지', '행선지'를 뜻합니다.",
+                "en": "From the sense of 'a place firmly determined as where one must go,' meaning 'destination' or 'intended destination.'",
+                "ja": "'行くべき場所として確固に定められた'という意味から、'目的地'、'行き先'を意味します。",
+                "zh": "从'被确定为必须去的地方'的含义引申，表示'目的地'或'预定地点'。",
+                "fr": "Du sens de 'un lieu fermement déterminé où l'on doit aller', signifiant 'destination' ou 'lieu de destination'."
+            },
+            "example": "What is your final destination?",
+            "translation": {
+                "ko": "당신의 최종 목적지가 어디인가요?",
+                "ja": "あなたの最終目的地はどこですか？",
+                "zh": "你的最终目的地是哪里？",
+                "fr": "Quelle est votre destination finale ?"
+            }
+        },
+        {
+            "word": "stature",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stat (status)",
+                    "meaning": {
+                        "ko": "선 자세",
+                        "en": "standing posture",
+                        "ja": "立つ姿勢",
+                        "zh": "站立姿态",
+                        "fr": "posture debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서 있는 키'라는 의미에서, 사람의 '키', '신장' 또는 '지명도', '위상'을 뜻합니다.",
+                "en": "From 'standing height': means a person's height, stature, or prominence and status.",
+                "ja": "「立っている身長」の意味から、人の「身長」「体格」または「名声」「地位」を意味します。",
+                "zh": "从\"站立身高\"的含义引申，表示一个人的\"身高\"、\"体格\"或\"名望\"、\"地位\"。",
+                "fr": "De \"hauteur debout\" : signifie la taille, la stature d'une personne, ou sa renommée et son statut."
+            },
+            "example": "He is a man of great stature.",
+            "translation": {
+                "ko": "그는 위상이 대단한 사람이다.",
+                "ja": "彼は大きな影響力を持つ人物だ。",
+                "zh": "他是一个身份显赫的人。",
+                "fr": "C'est un homme de grande importance."
+            }
+        },
+        {
+            "word": "distance",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "apart",
+                        "ja": "離れて",
+                        "zh": "分开",
+                        "fr": "séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stance (stare)",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 떨어져 서 있는' 상태라는 의미에서, '거리'를 뜻합니다.",
+                "en": "From the state of 'standing apart from each other,' meaning 'distance'",
+                "ja": "'互いに離れて立つ'という状態から、'距離'を意味します",
+                "zh": "从'彼此相隔而立'的状态引申，表示'距离'",
+                "fr": "Du sens d'être debout séparé l'un de l'autre, signifiant 'distance'"
+            },
+            "example": "The distance to the moon is very great.",
+            "translation": {
+                "ko": "달까지의 거리는 매우 멀다.",
+                "ja": "月までの距離はとても遠い。",
+                "zh": "到月球的距离非常远。",
+                "fr": "La distance jusqu'à la lune est très grande."
+            }
+        },
+        {
+            "word": "substance",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "아래에",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stance (stare)",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "현상의 '아래에 서 있는' 근본적인 것, 즉 '물질', '본질', '실체'를 뜻합니다.",
+                "en": "Something standing beneath phenomena; the fundamental nature of things—matter, essence, or reality.",
+                "ja": "現象の『下に立つ』根本的なもの、つまり『物質』『本質』『実体』を意味します。",
+                "zh": "现象'下面站立'的根本性事物，即'物质''本质''实体'的含义。",
+                "fr": "Ce qui se tient sous les phénomènes ; la nature fondamentale des choses—matière, essence ou réalité."
+            },
+            "example": "What is this sticky substance?",
+            "translation": {
+                "ko": "이 끈적끈적한 물질은 무엇입니까?",
+                "ja": "この粘着性のある物質は何ですか？",
+                "zh": "这个粘性物质是什么？",
+                "fr": "Quelle est cette substance collante ?"
+            }
+        },
+        {
+            "word": "circumstance",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周りに",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stance (stare)",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주위에 서 있는 것들'이라는 의미에서, 어떤 일이 일어날 때의 '상황', '환경'을 뜻합니다.",
+                "en": "From the idea of 'things standing around', it means the 'situation' or 'conditions' when something occurs.",
+                "ja": "'周りに立っているもの'という意味から、何かが起こるときの'状況'、'環境'を意味します。",
+                "zh": "从'周围站立的东西'的概念出发，指某事发生时的'情况'、'条件'。",
+                "fr": "De l'idée de 'choses se tenant autour', cela signifie la 'situation' ou les 'conditions' quand quelque chose se produit."
+            },
+            "example": "Under the circumstances, we had no choice.",
+            "translation": {
+                "ko": "그 상황에서는, 우리에게 선택의 여지가 없었다.",
+                "ja": "状況",
+                "zh": "情况",
+                "fr": "circonstance"
+            }
+        },
+        {
+            "word": "arrest",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ar- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "向",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rest (restare)",
+                    "meaning": {
+                        "ko": "멈추다",
+                        "en": "to stop, remain",
+                        "ja": "止める、留まる",
+                        "zh": "停止、保持",
+                        "fr": "arrêter, rester"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 restare는 re- '뒤에' + stare '서다'에서 유래했습니다. '멈추게 하다'는 의미에서, '체포하다', '저지하다'는 뜻이 되었습니다.",
+                "en": "From Latin restare: re- 'back' + stare 'to stand'. Originally meaning 'to cause to stop', it evolved to mean 'to apprehend' or 'to stop'.",
+                "ja": "ラテン語のrestareは、re- '後ろに' + stare '立つ'から由来しています。'止めさせる'という意味から、'逮捕する'、'妨げる'という意味になりました。",
+                "zh": "源自拉丁语restare：re-'后面' + stare'站立'。从'使停止'的含义演变为'逮捕'、'阻止'的含义。",
+                "fr": "Du latin restare : re- 'arrière' + stare 'se tenir debout'. Du sens original 'faire s'arrêter', il a évolué pour signifier 'arrêter' ou 'appréhender'."
+            },
+            "example": "The police arrested the suspect.",
+            "translation": {
+                "ko": "경찰이 용의자를 체포했다.",
+                "ja": "警察は容疑者を逮捕した。",
+                "zh": "警察逮捕了嫌疑人。",
+                "fr": "La police a arrêté le suspect."
+            }
+        },
+        {
+            "word": "obstacle",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "~에 맞서",
+                        "en": "against",
+                        "ja": "に対して",
+                        "zh": "对抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sta",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "길 '앞에 맞서 서 있는 것'이라는 의미에서, '장애물', '방해물'을 뜻합니다.",
+                "en": "From the sense of 'standing in front of a path', meaning 'obstruction' or 'hindrance'.",
+                "ja": "「道の前に立ちはだかるもの」という意味から、「障害物」「妨害物」を意味します。",
+                "zh": "从「挡在路前面的东西」的含义演变而来，表示「障碍物」或「妨碍」。",
+                "fr": "Du sens de 'se tenir face à un chemin', signifiant 'obstruction' ou 'entrave'."
+            },
+            "example": "Lack of funding is a major obstacle.",
+            "translation": {
+                "ko": "자금 부족이 주된 장애물이다.",
+                "ja": "資金不足が主な障害物である。",
+                "zh": "资金短缺是主要的障碍。",
+                "fr": "Le manque de financement est un obstacle majeur."
+            }
+        }
+    ]
+}

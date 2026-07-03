@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "pict: paint, show, draw",
+        "origin": "Latin, pingere",
+        "meaning": {
+            "ko": "그리다",
+            "en": "to paint",
+            "ja": "描く",
+            "zh": "绘画",
+            "fr": "peindre"
+        }
+    },
+    "words": [
+        {
+            "word": "pictorial",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pictor",
+                    "meaning": {
+                        "ko": "화가",
+                        "en": "painter",
+                        "ja": "画家",
+                        "zh": "画家",
+                        "fr": "peintre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ial",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'화가의' 또는 '그림의'라는 의미에서 '그림을 이용한', '그림 같은'이라는 뜻입니다.",
+                "en": "Meaning 'of or related to a painter' or 'of or related to a picture', conveying 'using pictures', 'picture-like', or 'expressed through pictures'",
+                "ja": "「画家の」または「絵の」という意味から、「絵を用いた」「絵のような」という意味を表します",
+                "zh": "从「画家的」或「图画的」的含义出发，表示「使用图画的」、「如同图画的」的意思",
+                "fr": "Signifiant 'du ou relatif à un peintre' ou 'du ou relatif à une image', évoquant 'utilisant des images', 'semblable à une image' ou 'exprimé par des images'"
+            },
+            "example": "This is a pictorial history of the war.",
+            "translation": {
+                "ko": "이것은 그림으로 보는 전쟁 역사이다.",
+                "ja": "これは戦争の図解史です",
+                "zh": "这是战争的图解史",
+                "fr": "C'est une histoire illustrée de la guerre"
+            }
+        },
+        {
+            "word": "pigment",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pig (pingere)",
+                    "meaning": {
+                        "ko": "그리다, 색칠하다",
+                        "en": "to paint, color",
+                        "ja": "塗る、着色する",
+                        "zh": "涂、着色",
+                        "fr": "peindre, colorer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ment",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞接尾辞",
+                        "zh": "名词后缀",
+                        "fr": "suffixe nominal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'색칠하는 데 쓰는 것'이라는 의미에서, 물감의 원료가 되는 '색소', '안료'를 뜻합니다.",
+                "en": "From the meaning of 'something used for coloring', it refers to 'pigment' or 'colorant' which is the raw material of paint.",
+                "ja": "色塗りに使う物という意味から、物感の原料になる色素、顔料を意味します。",
+                "zh": "从用于着色的东西的含义来看，指的是成为涂料原料的色素、颜料。",
+                "fr": "Du sens de quelque chose servant à la coloration, il désigne le pigment ou le colorant qui est la matière première de la peinture."
+            },
+            "example": "The artist mixed the pigments.",
+            "translation": {
+                "ko": "화가는 안료들을 섞었다.",
+                "ja": "アーティストが顔料を混ぜました。",
+                "zh": "艺术家混合了颜料。",
+                "fr": "L'artiste a mélangé les pigments."
+            }
+        },
+        {
+            "word": "depict",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "완전히",
+                        "en": "thoroughly",
+                        "ja": "完全に",
+                        "zh": "彻底地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pict",
+                    "meaning": {
+                        "ko": "그리다",
+                        "en": "to paint",
+                        "ja": "描く",
+                        "zh": "绘画",
+                        "fr": "peindre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 그려내다'는 의미에서, 그림이나 글로 '묘사하다', '그리다'는 뜻입니다.",
+                "en": "From the sense of 'to paint thoroughly,' meaning to describe or portray in pictures or words.",
+                "ja": "「完全に描く」という意味から、絵や文字で「描写する」「描く」という意味です。",
+                "zh": "从「彻底地绘画」的含义引申，表示用图画或文字「描写」「描绘」的意思。",
+                "fr": "Du sens de « peindre complètement », signifiant décrire ou représenter par des images ou des mots."
+            },
+            "example": "The novel depicts life in the 19th century.",
+            "translation": {
+                "ko": "그 소설은 19세기 생활을 묘사한다.",
+                "ja": "その小説は19世紀の生活を描いている。",
+                "zh": "这部小说描绘了19世纪的生活。",
+                "fr": "Le roman décrit la vie au XIXe siècle."
+            }
+        },
+        {
+            "word": "picture",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pict",
+                    "meaning": {
+                        "ko": "그리다",
+                        "en": "to paint",
+                        "ja": "描く",
+                        "zh": "绘画",
+                        "fr": "peindre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形式后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'그려진 것'이라는 의미에서 '그림', '사진'을 뜻합니다.",
+                "en": "From the meaning 'something painted', referring to a painting or photograph",
+                "ja": "'描かれたもの'という意味から、'絵'、'写真'を意味します",
+                "zh": "从'被画的东西'的意思引申，表示'绘画'、'照片'",
+                "fr": "Du sens 'chose peinte', désignant une peinture ou une photographie"
+            },
+            "example": "I took a picture of the sunset.",
+            "translation": {
+                "ko": "나는 일몰 사진을 찍었다.",
+                "ja": "私は夕焼けの写真を撮った。",
+                "zh": "我拍了一张日落的照片。",
+                "fr": "J'ai pris une photo du coucher de soleil."
+            }
+        }
+    ]
+}

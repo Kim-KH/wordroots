@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "scrutia (study) inscrutable, scrutinize, scrutiny",
+        "origin": "Latin, scrutari (to search, to examine)",
+        "meaning": {
+            "ko": "조사하다",
+            "en": "to examine",
+            "ja": "調べる",
+            "zh": "检查",
+            "fr": "examiner"
+        }
+    },
+    "words": [
+        {
+            "word": "inscrutable",
+            "part_of_speech": "",
+            "origin": "Latin, inscrutabilis (unsearchable)",
+            "meaning": {
+                "ko": "조사할 수 없는",
+                "en": "unable to be investigated",
+                "ja": "謎めいた、不可解な",
+                "zh": "神秘莫测的",
+                "fr": "insondable, mystérieux"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "〜ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scrut-",
+                    "meaning": {
+                        "ko": "'조사하다'",
+                        "en": "to examine",
+                        "ja": "調べる、検討する",
+                        "zh": "检查、审视",
+                        "fr": "examiner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'조사해도 속을 알 수 없는'이라는 의미에서 '헤아리기 어려운', '불가해한'이라는 뜻입니다.",
+                "en": "Meaning 'difficult to understand' or 'incomprehensible' from the sense of 'unable to know the inside even if investigated'",
+                "ja": "調査しても内部が分からないという意味から、『理解しがたい』『不可解な』という意味",
+                "zh": "从'即使调查也无法了解内部'的意思引申，表示'难以理解的''不可解的'",
+                "fr": "Signifie 'difficile à comprendre' ou 'incompréhensible' au sens de 'impossible de connaître l'intérieur même en examinant'"
+            },
+            "example": "He had an inscrutable expression on his face.",
+            "translation": {
+                "ko": "그는 얼굴에 헤아릴 수 없는 표정을 짓고 있었다.",
+                "ja": "彼の顔には謎めいた表情があった。",
+                "zh": "他的脸上带着神秘莫测的表情。",
+                "fr": "Il avait une expression insondable sur le visage."
+            }
+        },
+        {
+            "word": "scrutinize",
+            "part_of_speech": "",
+            "origin": "Latin, scrutinium (a search)",
+            "meaning": {
+                "ko": "조사",
+                "en": "to investigate or examine",
+                "ja": "詳しく調べる",
+                "zh": "仔细检查",
+                "fr": "examiner attentivement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scrutin-",
+                    "meaning": {
+                        "ko": "'조사'",
+                        "en": "search",
+                        "ja": "探す",
+                        "zh": "搜索",
+                        "fr": "chercher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아주 자세히 조사하다'는 의미입니다.",
+                "en": "It means to examine very carefully",
+                "ja": "とても詳しく調べることを意味します",
+                "zh": "意思是非常仔细地检查",
+                "fr": "Cela signifie examiner très attentivement"
+            },
+            "example": "She scrutinized the document for any errors.",
+            "translation": {
+                "ko": "그녀는 오류가 있는지 그 문서를 면밀히 조사했다.",
+                "ja": "彼女は文書の誤りをくまなく調べた。",
+                "zh": "她仔细检查文件中的任何错误。",
+                "fr": "Elle a examiné attentivement le document pour détecter les erreurs."
+            }
+        },
+        {
+            "word": "scrutiny",
+            "part_of_speech": "",
+            "origin": "Latin, scrutinium (a search)",
+            "meaning": {
+                "ko": "조사",
+                "en": "investigation or examination",
+                "ja": "綿密な調査",
+                "zh": "仔细审查",
+                "fr": "examen attentif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scrutin-",
+                    "meaning": {
+                        "ko": "'조사'",
+                        "en": "search",
+                        "ja": "探索",
+                        "zh": "搜索",
+                        "fr": "recherche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'면밀한 조사', '철저한 검토'를 뜻합니다.",
+                "en": "Close examination or careful investigation",
+                "ja": "詳細な検討や念入りな調査を意味します",
+                "zh": "表示仔细的审视和彻底的检查",
+                "fr": "Signifie un examen minutieux et une inspection approfondie"
+            },
+            "example": "The project is under close scrutiny.",
+            "translation": {
+                "ko": "그 프로젝트는 면밀한 조사를 받고 있다.",
+                "ja": "プロジェクトは厳しい精査を受けています",
+                "zh": "该项目正在接受仔细审查",
+                "fr": "Le projet fait l'objet d'un examen minutieux"
+            }
+        }
+    ]
+}

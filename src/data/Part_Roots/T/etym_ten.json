@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "ten (grasp) tenacity, tenant, tenet",
+        "origin": "Latin, tenere (to hold, to grasp)",
+        "meaning": {
+            "ko": "잡다",
+            "en": "to hold",
+            "ja": "握る",
+            "zh": "握住",
+            "fr": "tenir"
+        }
+    },
+    "words": [
+        {
+            "word": "tenacity",
+            "part_of_speech": "",
+            "origin": "Latin, tenacitas (a holding fast)",
+            "meaning": {
+                "ko": "꽉 잡음",
+                "en": "holding firmly",
+                "ja": "粘り強さ",
+                "zh": "坚韧不拔",
+                "fr": "ténacité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ten-",
+                    "meaning": {
+                        "ko": "'잡다'",
+                        "en": "to hold",
+                        "ja": "握る",
+                        "zh": "握住",
+                        "fr": "tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'놓지 않고 꽉 잡고 있는' 끈기라는 의미에서 '고집', '완강함'을 뜻합니다.",
+                "en": "The meaning of perseverance and stubbornness comes from the sense of 'holding on firmly without letting go'",
+                "ja": "放さずにしっかり握り続ける意味から、粘り強さ、頑固さを意味します",
+                "zh": "从紧紧抓住不放的意义出发，表示坚持不懈和固执",
+                "fr": "Le sens de persévérance et d'obstination provient de l'idée de 'tenir fermement sans lâcher prise'"
+            },
+            "example": "He has the tenacity to finish the marathon.",
+            "translation": {
+                "ko": "그는 마라톤을 완주할 끈기가 있다.",
+                "ja": "彼はマラソンを完走する粘り強さを持っている",
+                "zh": "他有坚韧不拔的精神来完成马拉松",
+                "fr": "Il a la ténacité de terminer le marathon"
+            }
+        },
+        {
+            "word": "tenant",
+            "part_of_speech": "",
+            "origin": "Latin, tenens (holding)",
+            "meaning": {
+                "ko": "잡고 있는",
+                "en": "holding or grasping",
+                "ja": "借地人、賃借人",
+                "zh": "租户、承租人",
+                "fr": "locataire, preneur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ten-",
+                    "meaning": {
+                        "ko": "'잡다'",
+                        "en": "to hold",
+                        "ja": "握む、保つ",
+                        "zh": "握住、持有",
+                        "fr": "tenir, saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'땅이나 집을 잡고(빌려) 쓰는 사람'인 '세입자', '소작인'을 뜻합니다.",
+                "en": "A person who rents and uses land or a building from a landlord",
+                "ja": "地主から借りて土地や建物を使う人を意味します",
+                "zh": "从地主那里租借并使用土地或建筑物的人",
+                "fr": "Personne qui loue et utilise un terrain ou un bâtiment d'un propriétaire"
+            },
+            "example": "The tenant paid his rent on time.",
+            "translation": {
+                "ko": "그 세입자는 제때에 집세를 냈다.",
+                "ja": "その借地人は家賃を期限通りに支払った。",
+                "zh": "那个租户按时支付了租金。",
+                "fr": "Le locataire a payé son loyer à temps."
+            }
+        },
+        {
+            "word": "tenet",
+            "part_of_speech": "",
+            "origin": "Latin, tenet (he holds)",
+            "meaning": {
+                "ko": "그는 잡고 있다",
+                "en": "he is holding",
+                "ja": "信条、主義",
+                "zh": "信条、原则",
+                "fr": "principe, doctrine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ten-",
+                    "meaning": {
+                        "ko": "'잡다'",
+                        "en": "to hold",
+                        "ja": "握る、保つ",
+                        "zh": "握住、持有",
+                        "fr": "tenir, saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 집단이 굳게 잡고 있는' 믿음이라는 의미에서 '교리', '주의'를 뜻합니다.",
+                "en": "Means doctrine or principle in the sense of a belief firmly held by a group",
+                "ja": "集団が堅く握っている信念という意味で、教義や主義を意味します",
+                "zh": "指某个集团坚定持有的信念，意为教义或原则",
+                "fr": "Signifie doctrine ou principe au sens d'une croyance fermement tenue par un groupe"
+            },
+            "example": "Freedom of speech is a basic tenet of democracy.",
+            "translation": {
+                "ko": "언론의 자유는 민주주의의 기본 교리이다.",
+                "ja": "言論の自由は民主主義の基本的な信条です",
+                "zh": "言论自由是民主制度的基本原则",
+                "fr": "La liberté d'expression est un principe fondamental de la démocratie"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "qual (characteristic) qualify, qualitative, quality",
+        "origin": "Latin, qualis (of what kind)",
+        "meaning": {
+            "ko": "어떤 종류의",
+            "en": "of what kind",
+            "ja": "どのような種類の",
+            "zh": "什么样的",
+            "fr": "de quel type"
+        }
+    },
+    "words": [
+        {
+            "word": "qualify",
+            "part_of_speech": "",
+            "origin": "Latin, qualificare (to attribute a quality to)",
+            "meaning": {
+                "ko": "성질을 부여하다",
+                "en": "to give a quality or property to",
+                "ja": "性質を与える",
+                "zh": "赋予性质",
+                "fr": "donner une qualité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "qual-",
+                    "meaning": {
+                        "ko": "'어떤 종류의'",
+                        "en": "of what kind",
+                        "ja": "どんな種類の",
+                        "zh": "什么样的",
+                        "fr": "de quel genre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'필요한 자질을 갖추게 만들다'는 의미에서 '자격을 얻다', '자격을 주다'라는 뜻입니다.",
+                "en": "Means 'to acquire qualifications' or 'to give qualifications' based on having necessary qualities",
+                "ja": "必要な資質を備えさせるという意味から、資格を得る、資格を与えるという意味です",
+                "zh": "从具备必要素质的意思来看，表示获得资格、授予资格",
+                "fr": "Signifie acquérir ou accorder des qualifications basé sur le fait de posséder les qualités nécessaires"
+            },
+            "example": "You need to pass the exam to qualify for the job.",
+            "translation": {
+                "ko": "그 직업에 대한 자격을 얻으려면 시험에 합격해야 한다.",
+                "ja": "その仕事の資格を得るには試験に合格する必要があります。",
+                "zh": "你需要通过考试才能获得这份工作的资格。",
+                "fr": "Vous devez réussir l'examen pour être qualifié pour le poste."
+            }
+        },
+        {
+            "word": "qualitative",
+            "part_of_speech": "",
+            "origin": "Latin, qualitas (quality)",
+            "meaning": {
+                "ko": "질",
+                "en": "quality or nature",
+                "ja": "質に関する",
+                "zh": "与质量相关",
+                "fr": "relatif à la qualité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "qualita-",
+                    "meaning": {
+                        "ko": "'질'",
+                        "en": "quality",
+                        "ja": "質",
+                        "zh": "质量",
+                        "fr": "qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양보다는 종류나 특성, 즉 질과 관련된'이라는 의미에서 '질적인'이라는 뜻입니다.",
+                "en": "Refers to kind or characteristic rather than quantity; relating to quality",
+                "ja": "量より種類や特性、つまり質に関することを意味する",
+                "zh": "指种类或特征而非数量，即与质量相关的意思",
+                "fr": "Désigne le type ou la caractéristique plutôt que la quantité, c'est-à-dire relatif à la qualité"
+            },
+            "example": "The research is based on qualitative analysis of interviews.",
+            "translation": {
+                "ko": "그 연구는 인터뷰의 질적 분석에 기반한다.",
+                "ja": "この研究はインタビューの質的分析に基づいています。",
+                "zh": "这项研究基于对访谈的定性分析。",
+                "fr": "La recherche est basée sur une analyse qualitative des entretiens."
+            }
+        },
+        {
+            "word": "quality",
+            "part_of_speech": "",
+            "origin": "Latin, qualitas (a quality, property)",
+            "meaning": {
+                "ko": "성질, 특성",
+                "en": "nature, characteristic",
+                "ja": "性質、特性",
+                "zh": "性质、特征",
+                "fr": "qualité, caractéristique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "qual-",
+                    "meaning": {
+                        "ko": "'어떤 종류의'",
+                        "en": "of what kind",
+                        "ja": "何の種類の",
+                        "zh": "什么样的",
+                        "fr": "de quelle sorte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사물이 가진 고유한 특성'이라는 의미에서 '질', '품질'을 뜻합니다.",
+                "en": "Refers to 'quality' or 'characteristic' in the sense of an inherent attribute possessed by an object",
+                "ja": "物体が持つ固有の特性という意味で、『質』、『品質』を意味します",
+                "zh": "指物体所具有的固有特性，意为『质』、『品质』",
+                "fr": "Désigne la 'qualité' ou la 'caractéristique' au sens des attributs inhérents d'un objet"
+            },
+            "example": "This product is of high quality.",
+            "translation": {
+                "ko": "이 제품은 품질이 우수하다.",
+                "ja": "この製品は高品質です",
+                "zh": "这个产品质量很高",
+                "fr": "Ce produit est de haute qualité"
+            }
+        }
+    ]
+}

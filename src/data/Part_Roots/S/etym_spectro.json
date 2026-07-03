@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "spectro (spectrum) spectra, spectroscope, spectrometer",
+        "origin": "Latin, spectrum (an appearance, an image)",
+        "meaning": {
+            "ko": "모습, 상",
+            "en": "an appearance",
+            "ja": "外観、姿",
+            "zh": "外观、样子",
+            "fr": "apparence, allure"
+        }
+    },
+    "words": [
+        {
+            "word": "spectra",
+            "part_of_speech": "",
+            "origin": "Latin, spectrum",
+            "meaning": {
+                "ko": "상",
+                "en": "appearance or form",
+                "ja": "スペクトラム",
+                "zh": "光谱",
+                "fr": "spectres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spectr-",
+                    "meaning": {
+                        "ko": "'스펙트럼'",
+                        "en": "spectrum",
+                        "ja": "スペクトラム",
+                        "zh": "光谱",
+                        "fr": "spectre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'spectrum'의 복수형입니다.",
+                "en": "Plural form of 'spectrum'",
+                "ja": "'spectrum'の複数形です",
+                "zh": "'spectrum'的复数形式",
+                "fr": "Forme plurielle de 'spectrum'"
+            },
+            "example": "Different elements produce different emission spectra.",
+            "translation": {
+                "ko": "서로 다른 원소들은 서로 다른 방출 스펙트럼을 생성한다.",
+                "ja": "異なる元素は異なる発光スペクトラムを生成します。",
+                "zh": "不同的元素产生不同的发射光谱。",
+                "fr": "Différents éléments produisent différents spectres d'émission."
+            }
+        },
+        {
+            "word": "spectroscope",
+            "part_of_speech": "",
+            "origin": "Latin, spectrum + Greek, skopein (to view)",
+            "meaning": {
+                "ko": "스펙트럼을 보는 기구",
+                "en": "instrument for viewing spectrum",
+                "ja": "スペクトラムを見る器具",
+                "zh": "观察光谱的仪器",
+                "fr": "instrument d'observation spectrale"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spectro-",
+                    "meaning": {
+                        "ko": "'스펙트럼'",
+                        "en": "spectrum",
+                        "ja": "スペクトラム",
+                        "zh": "光谱",
+                        "fr": "spectre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "'보는 기구'",
+                        "en": "viewing instrument",
+                        "ja": "見る器具",
+                        "zh": "观察仪器",
+                        "fr": "instrument d'observation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛의 스펙트럼을 관찰하는' 기구인 '분광기'를 뜻합니다.",
+                "en": "A spectroscope is an instrument used to observe the spectrum of light and analyze its composition.",
+                "ja": "光のスペクトラムを観察して分析する分光器です",
+                "zh": "用于观察和分析光的光谱成分的仪器",
+                "fr": "Instrument servant à observer et analyser le spectre lumineux"
+            },
+            "example": "A spectroscope is used to analyze the composition of light.",
+            "translation": {
+                "ko": "분광기는 빛의 구성을 분석하는 데 사용된다.",
+                "ja": "分光器",
+                "zh": "分光镜",
+                "fr": "spectroscope"
+            }
+        },
+        {
+            "word": "spectrometer",
+            "part_of_speech": "",
+            "origin": "Latin, spectrum + Greek, metron (measure)",
+            "meaning": {
+                "ko": "스펙트럼을 재는 기구",
+                "en": "instrument that measures spectrum",
+                "ja": "スペクトラムを測定する装置",
+                "zh": "测量光谱的仪器",
+                "fr": "appareil mesurant le spectre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spectro-",
+                    "meaning": {
+                        "ko": "'스펙트럼'",
+                        "en": "spectrum",
+                        "ja": "スペクトラム",
+                        "zh": "光谱",
+                        "fr": "spectre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'측정기'",
+                        "en": "measuring instrument",
+                        "ja": "測定機器",
+                        "zh": "测量仪器",
+                        "fr": "appareil de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'스펙트럼을 측정하는' 기구인 '분광계'를 뜻합니다.",
+                "en": "A device that measures the spectrum of light or radiation",
+                "ja": "光またはスペクトラムを測定する分光計のことです",
+                "zh": "这是测量光谱的分光仪",
+                "fr": "Il s'agit d'un spectroscope mesurant le spectre lumineux"
+            },
+            "example": "The spectrometer measured the wavelengths of the emitted light.",
+            "translation": {
+                "ko": "분광계는 방출된 빛의 파장을 측정했다.",
+                "ja": "分光計",
+                "zh": "分光计",
+                "fr": "spectromètre"
+            }
+        }
+    ]
+}

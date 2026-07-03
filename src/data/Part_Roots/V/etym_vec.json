@@ -1,0 +1,243 @@
+{
+    "root_info": {
+        "roots": "vec, veh (carry) convect, convey, vehement, vehicle, vector",
+        "origin": "Latin, vehere (to carry)",
+        "meaning": {
+            "ko": "나르다",
+            "en": "to carry",
+            "ja": "運ぶ",
+            "zh": "携带",
+            "fr": "porter"
+        }
+    },
+    "words": [
+        {
+            "word": "convect",
+            "part_of_speech": "",
+            "origin": "Latin, convehere (to carry together)",
+            "meaning": {
+                "ko": "함께 나르다",
+                "en": "to carry together",
+                "ja": "一緒に運ぶ",
+                "zh": "一起运送",
+                "fr": "transporter ensemble"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vect",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "运送",
+                        "fr": "transporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열이 유체의 움직임과 함께 날라지는' 현상인 '대류하다'는 뜻입니다.",
+                "en": "Describes the phenomenon where heat is carried away by the movement of fluids, meaning 'convection'",
+                "ja": "熱が流体の動きとともに運ばれる現象を指し、対流の意味です",
+                "zh": "指热量随流体运动而传输的现象，意为对流",
+                "fr": "Décrit le phénomène où la chaleur est transportée par le mouvement des fluides, signifiant convection"
+            },
+            "example": "Heat is convected upwards through the liquid.",
+            "translation": {
+                "ko": "열은 액체를 통해 위쪽으로 대류된다.",
+                "ja": "熱は液体を通して上向きに対流する。",
+                "zh": "热量通过液体向上对流传输。",
+                "fr": "La chaleur est convectée vers le haut à travers le liquide."
+            }
+        },
+        {
+            "word": "convey",
+            "part_of_speech": "",
+            "origin": "Latin, conviare (to accompany on the way)",
+            "meaning": {
+                "ko": "함께 길을 가다",
+                "en": "to travel together on a road",
+                "ja": "伝える、運ぶ",
+                "zh": "传达、运送",
+                "fr": "transmettre, communiquer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble, avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vey (via 'way')",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "way",
+                        "ja": "道",
+                        "zh": "道路、方式",
+                        "fr": "chemin, voie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물건이나 정보를 한 곳에서 다른 곳으로 나르다'는 의미에서 '운반하다', '전달하다'라는 뜻입니다.",
+                "en": "Means to transport goods or information from one place to another; to deliver or communicate",
+                "ja": "物品や情報をある場所から別の場所へ運ぶという意味で、運搬する、伝達するという意味です",
+                "zh": "表示将物品或信息从一个地方运送到另一个地方，意为运输、传达",
+                "fr": "Signifie transporter des biens ou des informations d'un endroit à un autre; livrer ou communiquer"
+            },
+            "example": "Please convey my apologies to her.",
+            "translation": {
+                "ko": "그녀에게 제 사과를 전해주세요.",
+                "ja": "彼女への謝罪を伝えてください",
+                "zh": "请转达我对她的歉意",
+                "fr": "Veuillez lui transmettre mes excuses"
+            }
+        },
+        {
+            "word": "vehement",
+            "part_of_speech": "",
+            "origin": "Latin, vehemens (violent, impetuous)",
+            "meaning": {
+                "ko": "격렬한",
+                "en": "fierce or passionate",
+                "ja": "激烈な",
+                "zh": "激烈的",
+                "fr": "véhément"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vehe- (vehere)",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "携带",
+                        "fr": "porter"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mens",
+                    "meaning": {
+                        "ko": "'마음'",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心",
+                        "fr": "esprit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마음을 실어 나르듯이' 감정이 격렬하고 강렬하다는 의미입니다.",
+                "en": "Meaning intense and passionate emotion, as if carrying one's mind vigorously.",
+                "ja": "心を激しく運ぶようにして、感情が激烈で強烈だという意味です。",
+                "zh": "如同强烈地传递内心一样，表示感情激烈而强烈的含义。",
+                "fr": "Signifiant une émotion intense et passionnée, comme si on transportait son esprit vigoureusement."
+            },
+            "example": "He made a vehement denial of the accusation.",
+            "translation": {
+                "ko": "그는 그 비난을 격렬하게 부인했다.",
+                "ja": "彼は告発を激しく否定した。",
+                "zh": "他激烈地否认了这项指控。",
+                "fr": "Il a véhémentement nié l'accusation."
+            }
+        },
+        {
+            "word": "vehicle",
+            "part_of_speech": "",
+            "origin": "Latin, vehiculum (a conveyance)",
+            "meaning": {
+                "ko": "운송 수단",
+                "en": "means of transportation",
+                "ja": "運送手段",
+                "zh": "运输工具",
+                "fr": "moyen de transport"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "veh- (vehere)",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "运送",
+                        "fr": "transporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람이나 물건을 나르는 것'이라는 의미에서 '차량', '운송 수단'을 뜻합니다.",
+                "en": "Refers to a car or means of transportation with the meaning of carrying people or things",
+                "ja": "人や物を運ぶという意味で、車両や運送手段を指します",
+                "zh": "指用来运送人或物的车辆或运输工具",
+                "fr": "Désigne un véhicule ou un moyen de transport servant à transporter des personnes ou des biens"
+            },
+            "example": "A car is a type of vehicle.",
+            "translation": {
+                "ko": "자동차는 운송 수단의 한 종류이다.",
+                "ja": "車は運送手段の一種です。",
+                "zh": "汽车是运输工具的一种。",
+                "fr": "Une voiture est un type de moyen de transport."
+            }
+        },
+        {
+            "word": "vector",
+            "part_of_speech": "",
+            "origin": "Latin, vector (a carrier)",
+            "meaning": {
+                "ko": "나르는 것",
+                "en": "something that carries or conveys",
+                "ja": "運ぶもの",
+                "zh": "运载物",
+                "fr": "ce qui porte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vect- (vehere)",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "运送",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'크기와 방향을 함께 가지고 있는 양'인 '벡터' 또는 '질병을 옮기는 매개체'를 뜻합니다.",
+                "en": "Vector refers to either a quantity with both magnitude and direction, or a carrier that transmits disease.",
+                "ja": "ベクトルは大きさと方向を持つ量、または病気を伝える媒体を意味します。",
+                "zh": "矢量是指既有大小又有方向的量，或传播疾病的媒介。",
+                "fr": "Le vecteur désigne une quantité ayant à la fois magnitude et direction, ou un vecteur de transmission de maladie."
+            },
+            "example": "A vector has both magnitude and direction.",
+            "translation": {
+                "ko": "벡터는 크기와 방향을 모두 가지고 있다.",
+                "ja": "ベクトルは大きさと方向の両方を持っています。",
+                "zh": "矢量既有大小，也有方向。",
+                "fr": "Un vecteur a à la fois une magnitude et une direction."
+            }
+        }
+    ]
+}

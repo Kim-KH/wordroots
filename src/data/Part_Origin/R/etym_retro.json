@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "retro",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "뒤로",
+            "en": "backwards",
+            "ja": "後ろへ",
+            "zh": "向后",
+            "fr": "en arrière"
+        }
+    },
+    "words": [
+        {
+            "word": "retrorocket",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "retro-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "backwards",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rocket",
+                    "meaning": {
+                        "ko": "로켓",
+                        "en": "rocket",
+                        "ja": "ロケット",
+                        "zh": "火箭",
+                        "fr": "fusée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반대 방향으로 분사하는 로켓' 즉, 우주선 등의 속도를 줄이는 '역추진 로켓'을 뜻합니다.",
+                "en": "A rocket that fires in the opposite direction of travel, used to slow down spacecraft.",
+                "ja": "宇宙船などの速度を落とすため、進行方向と逆に噴射する『逆推進ロケット』を意味します。",
+                "zh": "指向相反方向喷射以减速宇宙飞船等的『反向推进火箭』。",
+                "fr": "Une fusée qui tire en sens inverse du déplacement pour ralentir un vaisseau spatial, appelée 'fusée rétropulsion'."
+            },
+            "example": "The spacecraft fired its retrorockets to slow down.",
+            "translation": {
+                "ko": "그 우주선은 속도를 줄이기 위해 역추진 로켓을 발사했다.",
+                "ja": "その宇宙船は減速するために逆推進ロケットを発射した。",
+                "zh": "那艘宇宙飞船发射了反向推进火箭来减速。",
+                "fr": "Le vaisseau spatial a tiré ses rétrofusées pour ralentir."
+            }
+        },
+        {
+            "word": "retrospect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "retro-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "backward",
+                        "ja": "後ろに",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤를 돌아보는 것'이라는 의미에서, '회상', '회고'를 뜻합니다.",
+                "en": "From the sense of 'looking back at the past,' meaning recollection or reflection.",
+                "ja": "過去を振り返って見ることから、『回想』『回顧』を意味します。",
+                "zh": "从'回顾过去'的含义出发，意为'回忆'、'反思'。",
+                "fr": "Du sens de 'regarder vers le passé', signifiant rétrospection ou réflexion."
+            },
+            "example": "In retrospect, it was a bad decision.",
+            "translation": {
+                "ko": "돌이켜보면, 그것은 나쁜 결정이었다.",
+                "ja": "振り返ってみると、それは悪い決断だった。",
+                "zh": "回顾起来，那是一个糟糕的决定。",
+                "fr": "En rétrospective, c'était une mauvaise décision."
+            }
+        },
+        {
+            "word": "retrogression",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "retro-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "backward",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gress",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 가는 것'이라는 의미에서 '퇴보', '후퇴'를 뜻합니다.",
+                "en": "Means backward movement; refers to decline or retreat",
+                "ja": "後ろへ進むことという意味から、衰退や後退を意味します",
+                "zh": "从向后运动的意思引申，表示衰退或倒退",
+                "fr": "Du sens de mouvement vers l'arrière ; signifie déclin ou recul"
+            },
+            "example": "The country experienced economic retrogression.",
+            "translation": {
+                "ko": "그 나라는 경제적 퇴보를 겪었다.",
+                "ja": "その国は経済的な衰退を経験した。",
+                "zh": "那个国家经历了经济衰退。",
+                "fr": "Le pays a connu une régression économique."
+            }
+        },
+        {
+            "word": "retroactive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "retro-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "backward",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "active",
+                    "meaning": {
+                        "ko": "활동적인",
+                        "en": "active or dynamic",
+                        "ja": "活動的な",
+                        "zh": "活跃的",
+                        "fr": "actif"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 거슬러 올라가 행동하는'이라는 의미에서, 법률 등이 '소급 적용되는'이라는 뜻입니다.",
+                "en": "From 'acting backward in time': laws or regulations that apply from an earlier date",
+                "ja": "「時間を遡って行動する」という意味から、法律などが「過去に遡って適用される」という意味です。",
+                "zh": "从「向后回溯而行动」的意思引申，指法律等「溯及既往地适用」。",
+                "fr": "Du sens « agir rétrospectivement » : les lois s'appliquent à une date antérieure."
+            },
+            "example": "The pay raise is retroactive to the beginning of the year.",
+            "translation": {
+                "ko": "그 임금 인상은 연초로 소급 적용된다.",
+                "ja": "その昇給は年初に遡って適用される。",
+                "zh": "该加薪从年初开始溯及既往。",
+                "fr": "L'augmentation de salaire s'applique rétroactivement au début de l'année."
+            }
+        }
+    ]
+}

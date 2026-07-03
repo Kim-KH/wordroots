@@ -1,0 +1,382 @@
+{
+    "root_info": {
+        "roots": "vid, vie, vis: see",
+        "origin": "Latin, videre",
+        "meaning": {
+            "ko": "보다",
+            "en": "to see",
+            "ja": "見る (miru)",
+            "zh": "看 (kàn)",
+            "fr": "voir"
+        }
+    },
+    "words": [
+        {
+            "word": "provide",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞서, 미리",
+                        "en": "before",
+                        "ja": "前に、あらかじめ",
+                        "zh": "之前、提前",
+                        "fr": "avant, préalablement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vide",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "필요한 것을 '미리 내다보고' 준비한다는 의미에서, '제공하다', '공급하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'looking ahead beforehand' to prepare what is needed, it came to mean 'to supply' or 'to furnish'.",
+                "ja": "必要なものを「あらかじめ見通して」準備するという意味から、「提供する」「供給する」という意味になりました。",
+                "zh": "从「提前预见」准备所需事物的意思，引申为「提供」「供应」的含义。",
+                "fr": "Du sens de 'prévoir à l'avance' ce qui est nécessaire, il en est venu à signifier 'fournir' ou 'approvisionner'."
+            },
+            "example": "The hotel will provide a free breakfast.",
+            "translation": {
+                "ko": "그 호텔은 무료 아침 식사를 제공할 것이다.",
+                "ja": "ホテルは無料の朝食を提供するでしょう。",
+                "zh": "那家酒店将提供免费早餐。",
+                "fr": "L'hôtel fournira un petit-déjeuner gratuit."
+            }
+        },
+        {
+            "word": "vista",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vis (videre)",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見える",
+                        "zh": "看到",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보이는 것'이라는 의미의 이탈리아어에서 유래했으며, 멀리 내다보이는 '경치', '전망'을 뜻합니다.",
+                "en": "Derived from Italian meaning 'something seen', referring to a distant view or scenic landscape.",
+                "ja": "'見えるもの'という意味のイタリア語に由来し、遠くに見える'景色'、'眺め'を意味します。",
+                "zh": "源自意大利语'看见的东西'的含义，指远处看得见的'景色'、'景观'。",
+                "fr": "Dérivé de l'italien signifiant 'quelque chose de vu', se référant à une vue lointaine ou à un paysage pittoresque."
+            },
+            "example": "From the hilltop, we enjoyed the beautiful vista.",
+            "translation": {
+                "ko": "언덕 꼭대기에서 우리는 아름다운 경치를 즐겼다.",
+                "ja": "丘の頂上から、私たちは美しい眺めを楽しみました。",
+                "zh": "从山顶上，我们欣赏了美丽的景色。",
+                "fr": "Du sommet de la colline, nous avons profité de la belle vue."
+            }
+        },
+        {
+            "word": "evident",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vid",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 보이는'이라는 의미에서, '분명한', '명백한'이라는 뜻입니다.",
+                "en": "From the sense of 'visible outwardly,' meaning clear or obvious.",
+                "ja": "『外に見える』という意味から、『明らかな』『はっきりした』という意味になります。",
+                "zh": "'明显可见'的意思，因此表示'清楚的''明显的'。",
+                "fr": "Du sens de 'visible extérieurement', signifiant clair ou évident."
+            },
+            "example": "It was evident that she was unhappy.",
+            "translation": {
+                "ko": "그녀가 불행하다는 것은 명백했다.",
+                "ja": "彼女が不幸であることは明らかだった。",
+                "zh": "很明显她不开心。",
+                "fr": "Il était évident qu'elle était malheureuse."
+            }
+        },
+        {
+            "word": "supervise",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "super-",
+                    "meaning": {
+                        "ko": "위에서",
+                        "en": "over",
+                        "ja": "上に",
+                        "zh": "在...之上",
+                        "fr": "au-dessus"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vise",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'위에서 내려다보다'는 의미에서, 일이나 사람을 '감독하다', '관리하다'는 뜻입니다.",
+                "en": "From the sense of 'looking down from above,' meaning to oversee or manage work and people.",
+                "ja": "「上から見下ろす」という意味から、仕事や人を「監督する」「管理する」という意味になります。",
+                "zh": "从「从上往下看」的含义引申，表示「监督」或「管理」工作和人员。",
+                "fr": "Du sens de « regarder de haut en bas », signifiant superviser ou gérer le travail et les personnes."
+            },
+            "example": "A manager needs to supervise the employees.",
+            "translation": {
+                "ko": "관리자는 직원들을 감독해야 한다.",
+                "ja": "マネージャーは従業員を監督する必要があります。",
+                "zh": "经理需要监督员工。",
+                "fr": "Un responsable doit superviser les employés."
+            }
+        },
+        {
+            "word": "advice",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~에 대하여",
+                        "en": "to",
+                        "ja": "~について",
+                        "zh": "对于",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vice (videre)",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 상황에 대해 보이는 견해'라는 의미에서, '조언', '충고'를 뜻합니다.",
+                "en": "From the sense of 'a perspective on a situation', meaning 'advice' or 'counsel'.",
+                "ja": "「ある状況について見える見方」という意味から、「助言」「忠告」を意味します。",
+                "zh": "从「对某种情况所表现的看法」的意义转变而来，意为「建议」「劝告」。",
+                "fr": "Du sens de « point de vue sur une situation », signifiant « conseil » ou « recommandation »."
+            },
+            "example": "Can I give you some advice?",
+            "translation": {
+                "ko": "조언 좀 해드려도 될까요?",
+                "ja": "何かアドバイスをしてもいいですか？",
+                "zh": "我能给你一些建议吗？",
+                "fr": "Puis-je vous donner un conseil ?"
+            }
+        },
+        {
+            "word": "visible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vis",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "~할 수 있는",
+                        "en": "able to be",
+                        "ja": "~できる",
+                        "zh": "能够被~",
+                        "fr": "capable d'être"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'볼 수 있는'이라는 의미입니다.",
+                "en": "From Latin visibilis: capable of being seen",
+                "ja": "ラテン語の visibilis から：見ることができる",
+                "zh": "源自拉丁语 visibilis：能够被看见的",
+                "fr": "Du latin visibilis : capable d'être vu"
+            },
+            "example": "The mountains were visible in the distance.",
+            "translation": {
+                "ko": "멀리 산들이 보였다.",
+                "ja": "遠くの山々が見えた。",
+                "zh": "远处的山是可见的。",
+                "fr": "Les montagnes étaient visibles au loin."
+            }
+        },
+        {
+            "word": "envy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "위에, 향하여",
+                        "en": "upon",
+                        "ja": "上に、向かって",
+                        "zh": "在...上面，朝向",
+                        "fr": "sur, vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vy (videre)",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "다른 사람을 '악의를 가지고 쳐다보다'는 의미에서, '질투', '선망'을 뜻하게 되었습니다.",
+                "en": "From the sense of 'looking at someone with malice', it came to mean 'jealousy' or 'longing'.",
+                "ja": "他人を『悪意を持って見つめる』という意味から、『嫉妬』『羨望』を意味するようになりました。",
+                "zh": "从'怀恶意地看着他人'的含义演变而来，逐渐表示'嫉妒'或'羡慕'。",
+                "fr": "Du sens de 'regarder quelqu'un avec malveillance', il en est venu à signifier 'jalousie' ou 'envie'."
+            },
+            "example": "I envy your success.",
+            "translation": {
+                "ko": "나는 당신의 성공이 부럽다.",
+                "ja": "私はあなたの成功がうらやましい。",
+                "zh": "我羡慕你的成功。",
+                "fr": "J'envie votre réussite."
+            }
+        },
+        {
+            "word": "visual",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vis",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보는 것과 관련된'이라는 의미에서 '시각의', '눈에 보이는'이라는 뜻입니다.",
+                "en": "Related to the act of seeing; meaning visual or visible to the eye",
+                "ja": "見ることに関連した意味で、視覚的、目に見える",
+                "zh": "与看有关的含义，表示视觉的、眼睛能看到的",
+                "fr": "Lié à l'acte de voir; signifiant visuel ou visible à l'œil"
+            },
+            "example": "This software has a good visual interface.",
+            "translation": {
+                "ko": "이 소프트웨어는 좋은 시각적 인터페이스를 가지고 있다.",
+                "ja": "視覚的な",
+                "zh": "视觉的",
+                "fr": "visuel"
+            }
+        },
+        {
+            "word": "revise",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vise",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 보다'는 의미에서, 글이나 계획을 '수정하다', '개정하다'는 뜻입니다.",
+                "en": "From 'see again': to correct or modify written work or plans",
+                "ja": "「もう一度見る」という意味から、文章や計画を「修正する」「改訂する」という意味になります。",
+                "zh": "源自「再次查看」的意思，指对文章或计划进行「修改」、「修订」。",
+                "fr": "Du sens « voir à nouveau » : corriger ou modifier un texte ou un plan."
+            },
+            "example": "You need to revise your essay.",
+            "translation": {
+                "ko": "당신은 당신의 에세이를 수정해야 합니다.",
+                "ja": "あなたはあなたのエッセイを改訂する必要があります。",
+                "zh": "你需要修改你的论文。",
+                "fr": "Vous devez réviser votre essai."
+            }
+        }
+    ]
+}

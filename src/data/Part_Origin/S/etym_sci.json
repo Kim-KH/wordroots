@@ -1,0 +1,172 @@
+{
+    "root_info": {
+        "roots": "sci, scio: to know",
+        "origin": "Latin, scire",
+        "meaning": {
+            "ko": "알다",
+            "en": "to know",
+            "ja": "知る",
+            "zh": "知道",
+            "fr": "savoir"
+        }
+    },
+    "words": [
+        {
+            "word": "sciolist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scio",
+                    "meaning": {
+                        "ko": "알다",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "savoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아는 척하는 사람'이라는 의미에서, 얕은 지식을 가지고 학자인 체하는 '사이비 학자', '어설픈 지식인'을 뜻합니다.",
+                "en": "A person who pretends to know; a charlatan scholar with superficial knowledge",
+                "ja": "浅い知識で学者のふりをする『似非学者』『かじった知識人』という意味です",
+                "zh": "指以肤浅知识自称学者的'伪学者'或'半瓶子知识分子'",
+                "fr": "Un faux savant qui prétend être érudit avec des connaissances superficielles"
+            },
+            "example": "The sciolist pretended to be an expert.",
+            "translation": {
+                "ko": "그 사이비 학자는 전문가인 척했다.",
+                "ja": "その似非学者は専門家のふりをした。",
+                "zh": "那个伪学者装作是专家。",
+                "fr": "Le charlatan prétendait être un expert."
+            }
+        },
+        {
+            "word": "prescience",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "미리",
+                        "en": "before",
+                        "ja": "前もって",
+                        "zh": "之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sci",
+                    "meaning": {
+                        "ko": "알다",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "savoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미리 아는 것'이라는 의미에서, 미래의 사건을 아는 능력, 즉 '예지', '선견'을 의미합니다.",
+                "en": "From Latin prae- (before) + scientia (knowledge). Means the ability to know future events; foresight or foreknowledge.",
+                "ja": "未来の出来事を知る能力を意味し、「予知」「先見」を指します。",
+                "zh": "指预先知道未来事件的能力，即\"预知\"或\"远见\"。",
+                "fr": "Capacité à connaître les événements futurs à l'avance ; prescience ou prévoyance."
+            },
+            "example": "He had the prescience to sell his stocks before the crash.",
+            "translation": {
+                "ko": "그는 폭락 전에 주식을 팔 선견지명이 있었다.",
+                "ja": "彼は暴落の前に株式を売る先見の明を持っていた。",
+                "zh": "他有先见之明，在股市崩盘前卖出了股票。",
+                "fr": "Il avait la prescience de vendre ses actions avant le krach."
+            }
+        },
+        {
+            "word": "plebiscite",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plebi (plebs)",
+                    "meaning": {
+                        "ko": "평민",
+                        "en": "common people",
+                        "ja": "平民",
+                        "zh": "平民",
+                        "fr": "peuple commun"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scit (scitum)",
+                    "meaning": {
+                        "ko": "법령",
+                        "en": "decree",
+                        "ja": "法令",
+                        "zh": "法令",
+                        "fr": "décret"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "scitum은 '알려진 것, 결정된 것'을 의미하는 scire에서 유래했습니다. '평민들의 결정'이라는 의미에서, 국가의 중요 정책에 대해 국민 전체가 참여하는 '국민 투표'를 뜻합니다.",
+                "en": "Scitum derives from scire meaning 'known, decided'. From 'decision of common people', it refers to a popular vote where all citizens participate in important state policies.",
+                "ja": "scitumは「知られた、決定された」を意味するscireに由来します。「平民の決定」という意味から、国家の重要な政策について国民全体が参加する「国民投票」を指します。",
+                "zh": "scitum源自scire，意为\"已知、已决定\"。从\"平民的决定\"之意，指国家重要政策中全体国民参与的\"全民投票\"。",
+                "fr": "Scitum dérive de scire signifiant « connu, décidé ». De « décision du peuple commun », il désigne un vote populaire auquel tous les citoyens participent sur les politiques d'État importantes."
+            },
+            "example": "The country held a plebiscite on independence.",
+            "translation": {
+                "ko": "그 나라는 독립에 대한 국민 투표를 실시했다.",
+                "ja": "その国は独立について国民投票を実施した。",
+                "zh": "那个国家就独立问题举行了全民投票。",
+                "fr": "Le pays a organisé un plébiscite sur l'indépendance."
+            }
+        },
+        {
+            "word": "conscience",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "with, together",
+                        "ja": "一緒に、共に",
+                        "zh": "一起、共同",
+                        "fr": "avec, ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sci",
+                    "meaning": {
+                        "ko": "알다",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "savoir, connaître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신과 함께 아는 것'이라는 의미에서, 옳고 그름을 아는 내면의 앎, 즉 '양심'을 뜻하게 되었습니다.",
+                "en": "From the sense of 'knowing with oneself,' it came to mean the inner knowing of right and wrong; one's moral sense.",
+                "ja": "「自分自身と一緒に知ること」という意味から、正しいことと間違っていることを知る内面の知識、つまり「道徳心」を意味するようになりました。",
+                "zh": "从「与自己一起认识」的含义出发，演变为指内心对是非的认识，即「良心」的含义。",
+                "fr": "Du sens de « connaître avec soi-même », il en est venu à signifier la connaissance intérieure du bien et du mal ; la conscience morale."
+            },
+            "example": "Let your conscience be your guide.",
+            "translation": {
+                "ko": "당신의 양심이 당신의 길잡이가 되게 하세요.",
+                "ja": "あなたの良心があなたの道しるべとなるようにしてください。",
+                "zh": "让你的良心成为你的指引。",
+                "fr": "Que votre conscience soit votre guide."
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "feli (happiness) felicity, felicitous",
+        "origin": "Latin, felix (happy, lucky)",
+        "meaning": {
+            "ko": "행복한",
+            "en": "happy",
+            "ja": "幸せな",
+            "zh": "快乐的",
+            "fr": "heureux"
+        }
+    },
+    "words": [
+        {
+            "word": "felicity",
+            "part_of_speech": "",
+            "origin": "Latin, felicitas (happiness, good fortune)",
+            "meaning": {
+                "ko": "행복",
+                "en": "happiness",
+                "ja": "幸福、幸せ",
+                "zh": "幸福、快乐",
+                "fr": "bonheur, félicité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feli-",
+                    "meaning": {
+                        "ko": "'행복'",
+                        "en": "happiness",
+                        "ja": "幸福",
+                        "zh": "幸福",
+                        "fr": "bonheur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더 없는 행복' 또는 '아주 적절함'을 뜻합니다.",
+                "en": "Means supreme happiness or great aptness/suitability",
+                "ja": "この上ない幸福、または非常に適切なこと",
+                "zh": "最高的幸福或极其恰当",
+                "fr": "Bonheur suprême ou caractère très approprié"
+            },
+            "example": "I wish you a life of great felicity.",
+            "translation": {
+                "ko": "당신의 삶에 큰 행복이 있기를 바랍니다.",
+                "ja": "人生の大きな幸福をお祈りします",
+                "zh": "祝你拥有伟大的幸福人生",
+                "fr": "Je vous souhaite une vie de grande félicité"
+            }
+        },
+        {
+            "word": "felicitous",
+            "part_of_speech": "",
+            "origin": "Latin, felix (happy, lucky)",
+            "meaning": {
+                "ko": "행복한",
+                "en": "happy, fortunate",
+                "ja": "幸せな、適切な",
+                "zh": "幸福的、恰当的",
+                "fr": "heureux, approprié"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feli-",
+                    "meaning": {
+                        "ko": "'행복, 적절함'",
+                        "en": "happy, appropriate",
+                        "ja": "幸福、適切さ",
+                        "zh": "幸福、恰当",
+                        "fr": "bonheur, convenance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'행복을 가져다줄 만큼 아주 적절한'이라는 의미에서 '아주 적절한', '절묘하게 어울리는'이라는 뜻입니다.",
+                "en": "Means 'very appropriate' or 'perfectly fitting' in the sense of bringing happiness through its suitability",
+                "ja": "幸福をもたらすほど非常に適切であるという意味から、非常に適切、巧みに調和するという意味です",
+                "zh": "从'足以带来幸福的极其恰当'的意思出发，意为'极其恰当'、'巧妙地协调一致'",
+                "fr": "Signifie 'très approprié' ou 'parfaitement adapté' dans le sens d'apporter du bonheur par sa convenance"
+            },
+            "example": "It was a felicitous choice of words.",
+            "translation": {
+                "ko": "그것은 아주 적절한 단어 선택이었다.",
+                "ja": "それは言葉の巧みな選択だった。",
+                "zh": "那是一个措辞恰当的选择。",
+                "fr": "C'était un choix de mots heureux."
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "pater, patr (father) paternal, paternity, paternoster",
+        "origin": "Latin, pater (father)",
+        "meaning": {
+            "ko": "아버지",
+            "en": "father",
+            "ja": "父",
+            "zh": "父亲",
+            "fr": "père"
+        }
+    },
+    "words": [
+        {
+            "word": "paternal",
+            "part_of_speech": "",
+            "origin": "Latin, paternus (of a father)",
+            "meaning": {
+                "ko": "아버지의",
+                "en": "of or relating to a father",
+                "ja": "父親の",
+                "zh": "父亲的",
+                "fr": "paternel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pater-",
+                    "meaning": {
+                        "ko": "'아버지'",
+                        "en": "father",
+                        "ja": "父親",
+                        "zh": "父亲",
+                        "fr": "père"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아버지의', '아버지 같은'이라는 뜻입니다.",
+                "en": "Means 'of or like a father'",
+                "ja": "父親のような、父親に関する意味です",
+                "zh": "表示父亲的或像父亲一样的意思",
+                "fr": "Signifie 'du père' ou 'comme un père'"
+            },
+            "example": "He showed a paternal concern for her well-being.",
+            "translation": {
+                "ko": "그는 그녀의 안녕에 대해 아버지 같은 관심을 보였다.",
+                "ja": "彼は彼女の幸福に対して父親らしい関心を示した。",
+                "zh": "他对她的幸福表现出父亲般的关心。",
+                "fr": "Il a montré une préoccupation paternelle pour son bien-être."
+            }
+        },
+        {
+            "word": "paternity",
+            "part_of_speech": "",
+            "origin": "Latin, paternitas (fatherhood)",
+            "meaning": {
+                "ko": "아버지임",
+                "en": "being a father",
+                "ja": "父親であること",
+                "zh": "父亲身份",
+                "fr": "paternité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pater-",
+                    "meaning": {
+                        "ko": "'아버지'",
+                        "en": "father",
+                        "ja": "父親",
+                        "zh": "父亲",
+                        "fr": "père"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아버지가 되는 것'을 의미하여 '부성'을 뜻합니다.",
+                "en": "Means the state of being a father, refers to paternity",
+                "ja": "父親になることを意味し、父性を指す",
+                "zh": "指成为父亲的状态，意为父权",
+                "fr": "Signifie l'état d'être père, désigne la paternité"
+            },
+            "example": "He denied paternity of the child.",
+            "translation": {
+                "ko": "그는 그 아이의 친부임을 부인했다.",
+                "ja": "彼はその子の父親であることを否定した。",
+                "zh": "他否认是该孩子的父亲。",
+                "fr": "Il a nié la paternité de l'enfant."
+            }
+        },
+        {
+            "word": "paternoster",
+            "part_of_speech": "",
+            "origin": "Latin, Pater Noster (Our Father)",
+            "meaning": {
+                "ko": "우리 아버지",
+                "en": "Our Father",
+                "ja": "主の祈り",
+                "zh": "主祷文",
+                "fr": "Notre Père"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pater-",
+                    "meaning": {
+                        "ko": "'아버지'",
+                        "en": "father",
+                        "ja": "父",
+                        "zh": "父亲",
+                        "fr": "père"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "noster",
+                    "meaning": {
+                        "ko": "'우리의'",
+                        "en": "our",
+                        "ja": "私たちの",
+                        "zh": "我们的",
+                        "fr": "notre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'우리 아버지'로 시작하는 '주기도문'을 뜻합니다.",
+                "en": "The Lord's Prayer prayer beginning with 'Our Father'",
+                "ja": "『我々の父』で始まる主の祈りを意味します",
+                "zh": "指以'我们的父亲'开头的主祷文",
+                "fr": "Prière du Seigneur commençant par 'Notre Père'"
+            },
+            "example": "The Lord's Prayer begins with the words \"Paternoster\".",
+            "translation": {
+                "ko": "주기도문은 \"우리 아버지\"라는 말로 시작된다.",
+                "ja": "主の祈りは'Paternoster'という言葉で始まります",
+                "zh": "主祷文以'Paternoster'这个词开头",
+                "fr": "Le Notre Père commence par les mots 'Paternoster'"
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "mechani (machine) machine, mechanic, mechanize",
+        "origin": "Greek, mekhane (machine, contrivance)",
+        "meaning": {
+            "ko": "기계",
+            "en": "machine",
+            "ja": "機械",
+            "zh": "机器",
+            "fr": "machine"
+        }
+    },
+    "words": [
+        {
+            "word": "machine",
+            "part_of_speech": "",
+            "origin": "Greek, mekhane",
+            "meaning": {
+                "ko": "기계, 장치",
+                "en": "machine, apparatus",
+                "ja": "機械、装置",
+                "zh": "机器、装置",
+                "fr": "machine, appareil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "machin-",
+                    "meaning": {
+                        "ko": "'기계'",
+                        "en": "machine",
+                        "ja": "機械",
+                        "zh": "机器",
+                        "fr": "machine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'힘을 전달하여 일을 하는 장치'인 '기계'를 뜻합니다.",
+                "en": "A device that transmits force to perform work",
+                "ja": "力を伝えて仕事をする装置",
+                "zh": "传递力量来完成工作的装置",
+                "fr": "Un appareil qui transmet la force pour effectuer un travail"
+            },
+            "example": "This is a very complex machine.",
+            "translation": {
+                "ko": "이것은 매우 복잡한 기계이다.",
+                "ja": "これは非常に複雑な機械です。",
+                "zh": "这是一台非常复杂的机器。",
+                "fr": "C'est une machine très complexe."
+            }
+        },
+        {
+            "word": "mechanic",
+            "part_of_speech": "",
+            "origin": "Greek, mekhanikos (pertaining to machines)",
+            "meaning": {
+                "ko": "기계에 관한",
+                "en": "related to machines",
+                "ja": "機械に関する",
+                "zh": "与机器有关的",
+                "fr": "relatif à la mécanique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mechan-",
+                    "meaning": {
+                        "ko": "'기계'",
+                        "en": "machine",
+                        "ja": "機械",
+                        "zh": "机器",
+                        "fr": "machine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기계를 다루는 사람'인 '정비공'을 뜻합니다.",
+                "en": "Refers to a person who handles machines, a mechanic or technician.",
+                "ja": "機械を扱う人、整備士を意味します。",
+                "zh": "指处理机器的人，即维修工。",
+                "fr": "Désigne une personne qui répare les machines, un mécanicien."
+            },
+            "example": "I took my car to the mechanic to get it fixed.",
+            "translation": {
+                "ko": "나는 차를 고치기 위해 정비소에 가져갔다.",
+                "ja": "整備士",
+                "zh": "机械师",
+                "fr": "mécanicien"
+            }
+        },
+        {
+            "word": "mechanize",
+            "part_of_speech": "",
+            "origin": "Greek, mekhane",
+            "meaning": {
+                "ko": "기계",
+                "en": "machine",
+                "ja": "機械化する",
+                "zh": "机械化",
+                "fr": "mécaniser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mechan-",
+                    "meaning": {
+                        "ko": "'기계'",
+                        "en": "machine",
+                        "ja": "機械",
+                        "zh": "机器",
+                        "fr": "machine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 작업을 기계로 하도록 만들다'는 의미에서 '기계화하다'라는 뜻입니다.",
+                "en": "Means to make a task or process done by machines",
+                "ja": "作業を機械で行うようにすることを意味する",
+                "zh": "指使任务或过程由机器完成",
+                "fr": "Signifie faire effectuer une tâche par des machines"
+            },
+            "example": "They are trying to mechanize the farming process.",
+            "translation": {
+                "ko": "그들은 농사 과정을 기계화하려고 노력하고 있다.",
+                "ja": "彼らは農業プロセスを機械化しようとしている",
+                "zh": "他们正试图使农业过程机械化",
+                "fr": "Ils essaient de mécaniser le processus agricole"
+            }
+        }
+    ]
+}

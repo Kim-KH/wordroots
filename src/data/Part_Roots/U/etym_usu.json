@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "usu (use) unusual, usual, usury, usurpation",
+        "origin": "Latin, uti, usus (to use)",
+        "meaning": {
+            "ko": "사용하다",
+            "en": "to use",
+            "ja": "使う",
+            "zh": "使用",
+            "fr": "utiliser"
+        }
+    },
+    "words": [
+        {
+            "word": "unusual",
+            "part_of_speech": "",
+            "origin": "English, un- + usual",
+            "meaning": {
+                "ko": "보통이 아닌",
+                "en": "not ordinary or usual",
+                "ja": "普通でない",
+                "zh": "不寻常的",
+                "fr": "inhabituel"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "un-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "~ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "usual",
+                    "meaning": {
+                        "ko": "'보통의'",
+                        "en": "ordinary or usual",
+                        "ja": "普通の",
+                        "zh": "通常的",
+                        "fr": "ordinaire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보통과 다른'이라는 의미에서 '특이한', '드문'이라는 뜻입니다.",
+                "en": "Means strange, rare, or different from the ordinary",
+                "ja": "普通と異なる意味で、珍しい、特異な",
+                "zh": "表示与普通不同，罕见的、特殊的",
+                "fr": "Signifie étrange, rare ou différent de l'ordinaire"
+            },
+            "example": "It is unusual for him to be late.",
+            "translation": {
+                "ko": "그가 늦는 것은 드문 일이다.",
+                "ja": "彼が遅刻するのは珍しい",
+                "zh": "他迟到是不寻常的",
+                "fr": "C'est inhabituel qu'il soit en retard"
+            }
+        },
+        {
+            "word": "usual",
+            "part_of_speech": "",
+            "origin": "Latin, usualis (customary)",
+            "meaning": {
+                "ko": "관습적인",
+                "en": "customary or according to habit",
+                "ja": "慣習的な",
+                "zh": "习惯性的",
+                "fr": "habituel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "us- (uti)",
+                    "meaning": {
+                        "ko": "'사용하다'",
+                        "en": "to use",
+                        "ja": "使う",
+                        "zh": "使用",
+                        "fr": "utiliser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'늘 사용되는'이라는 의미에서 '평소의', '보통의'라는 뜻입니다.",
+                "en": "From the sense of 'regularly used', meaning 'customary' or 'ordinary'",
+                "ja": "常に使われるという意味から、普段の、通常のという意味です",
+                "zh": "从经常使用的意义上，表示日常的、普通的意思",
+                "fr": "Du sens d'utilisation régulière, signifiant habituel ou ordinaire"
+            },
+            "example": "I went to bed at my usual time.",
+            "translation": {
+                "ko": "나는 평소 시간대로 잠자리에 들었다.",
+                "ja": "いつもの時間に寝た。",
+                "zh": "我在平时的时间睡觉。",
+                "fr": "Je suis allé me coucher à mon heure habituelle."
+            }
+        },
+        {
+            "word": "usury",
+            "part_of_speech": "",
+            "origin": "Latin, usura (a use, an interest)",
+            "meaning": {
+                "ko": "사용, 이자",
+                "en": "use, interest",
+                "ja": "法外な利息",
+                "zh": "高利贷",
+                "fr": "usure"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "us- (uti)",
+                    "meaning": {
+                        "ko": "'사용하다'",
+                        "en": "to use",
+                        "ja": "使用する",
+                        "zh": "使用",
+                        "fr": "utiliser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'돈을 사용한 대가'라는 의미에서 '이자'를 뜻했으나, 지금은 '법정 이율 이상의 고리대금'을 의미합니다.",
+                "en": "Originally meant 'interest' from the sense of 'compensation for using money', but now refers to 'illegal high-interest lending exceeding legal rates'.",
+                "ja": "元々は'お金を使用した代償'という意味で'利息'を意味していましたが、現在は'法定利率を超える高利貸し'を意味します。",
+                "zh": "原本是指'使用金钱的代价'意义上的'利息'，但现在指'超过法定利率的高利贷'。",
+                "fr": "Signifiait à l'origine 'intérêt' au sens de 'compensation pour l'usage d'argent', mais désigne maintenant 'prêt à taux illégalement élevé'"
+            },
+            "example": "Usury is the practice of lending money at exorbitant rates of interest.",
+            "translation": {
+                "ko": "고리대금업은 터무니없는 이율로 돈을 빌려주는 행위이다.",
+                "ja": "高利貸しは法外な利息でお金を貸す行為です。",
+                "zh": "高利贷是以过高利率借出金钱的行为。",
+                "fr": "L'usure est la pratique de prêter de l'argent à des taux d'intérêt exorbitants."
+            }
+        },
+        {
+            "word": "usurpation",
+            "part_of_speech": "",
+            "origin": "Latin, usurpatio (a seizing for use)",
+            "meaning": {
+                "ko": "사용하기 위한 강탈",
+                "en": "seizure for use",
+                "ja": "権力の不正奪取",
+                "zh": "非法夺取权力",
+                "fr": "usurpation du pouvoir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "u- (uti)",
+                    "meaning": {
+                        "ko": "'사용하다'",
+                        "en": "to use",
+                        "ja": "使用する",
+                        "zh": "使用",
+                        "fr": "utiliser"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "surp- (rapere)",
+                    "meaning": {
+                        "ko": "'강탈하다'",
+                        "en": "to seize",
+                        "ja": "奪い取る",
+                        "zh": "夺取",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람의 권력이나 지위를 불법적으로 빼앗아 사용하는 것'인 '강탈', '왕위 찬탈'을 뜻합니다.",
+                "en": "Illegal seizure of another person's power or position, often referring to usurpation of the throne",
+                "ja": "他者の権力や地位を不法に奪い取って使用すること、特に王位簒奪を意味する",
+                "zh": "非法夺取他人的权力或地位并使用，特别是指篡夺王位",
+                "fr": "Saisie illégale du pouvoir ou de la position d'autrui, souvent l'usurpation du trône"
+            },
+            "example": "The usurpation of the throne led to a civil war.",
+            "translation": {
+                "ko": "왕위 찬탈은 내전으로 이어졌다.",
+                "ja": "王位の簒奪は内戦につながった。",
+                "zh": "王位的篡夺导致了内战。",
+                "fr": "L'usurpation du trône a mené à une guerre civile."
+            }
+        }
+    ]
+}

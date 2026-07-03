@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "meteor (weather) hydrometeorology, meteorology, meteorologist",
+        "origin": "Greek, meteoros (high in the air)",
+        "meaning": {
+            "ko": "공중에 높은",
+            "en": "high in the air",
+            "ja": "空中で高い",
+            "zh": "空中高处",
+            "fr": "haut dans l'air"
+        }
+    },
+    "words": [
+        {
+            "word": "hydrometeorology",
+            "part_of_speech": "",
+            "origin": "Greek, hydor (water) + meteoros (high in the air) + logos (study)",
+            "meaning": {
+                "ko": "물과 대기 현상 연구",
+                "en": "study of water and atmospheric phenomena",
+                "ja": "水と大気現象の研究",
+                "zh": "水与大气现象研究",
+                "fr": "étude de l'eau et phénomènes atmosphériques"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hydro-",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meteorology",
+                    "meaning": {
+                        "ko": "'기상학'",
+                        "en": "meteorology",
+                        "ja": "気象学",
+                        "zh": "气象学",
+                        "fr": "météorologie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대기 중의 물과 관련된 기상 현상을 연구하는' 학문인 '수문기상학'을 뜻합니다.",
+                "en": "Hydrometeorology is the science studying atmospheric phenomena related to water in the atmosphere.",
+                "ja": "大気中の水に関する気象現象を研究する学問です",
+                "zh": "研究大气中与水有关的气象现象的科学",
+                "fr": "Science étudiant les phénomènes météorologiques liés à l'eau dans l'atmosphère"
+            },
+            "example": "Hydrometeorology is important for flood forecasting.",
+            "translation": {
+                "ko": "수문기상학은 홍수 예보에 중요하다.",
+                "ja": "水文気象学は洪水予報に重要です",
+                "zh": "水文气象学对洪水预报很重要",
+                "fr": "L'hydromètéorologie est importante pour la prévision des crues"
+            }
+        },
+        {
+            "word": "meteorology",
+            "part_of_speech": "",
+            "origin": "Greek, meteorologia (discourse on celestial phenomena)",
+            "meaning": {
+                "ko": "천체 현상에 대한 담론",
+                "en": "discourse on celestial phenomena",
+                "ja": "大気現象に関する学問",
+                "zh": "大气现象的学问",
+                "fr": "étude des phénomènes atmosphériques"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meteor-",
+                    "meaning": {
+                        "ko": "'대기 중의 현상'",
+                        "en": "atmospheric phenomena",
+                        "ja": "大気中の現象",
+                        "zh": "大气中的现象",
+                        "fr": "phénomènes atmosphériques"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대기 중에서 일어나는 현상'을 연구하는 학문인 '기상학'을 뜻합니다.",
+                "en": "The science that studies phenomena occurring in the atmosphere, meaning meteorology",
+                "ja": "大気中で起こる現象を研究する学問である気象学を意味します",
+                "zh": "指研究大气中发生的现象的学问，即气象学",
+                "fr": "Science étudiant les phénomènes qui se produisent dans l'atmosphère, signifiant la météorologie"
+            },
+            "example": "He studied meteorology to become a weather forecaster.",
+            "translation": {
+                "ko": "그는 기상 예보관이 되기 위해 기상학을 공부했다.",
+                "ja": "天気予報官になるために彼は気象学を勉強した",
+                "zh": "他学习气象学以成为天气预报员",
+                "fr": "Il a étudié la météorologie pour devenir météorologue"
+            }
+        },
+        {
+            "word": "meteorologist",
+            "part_of_speech": "",
+            "origin": "Greek, meteorologia",
+            "meaning": {
+                "ko": "기상학",
+                "en": "study of weather and atmosphere",
+                "ja": "気象学者",
+                "zh": "气象学家",
+                "fr": "météorologue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meteor-",
+                    "meaning": {
+                        "ko": "'기상'",
+                        "en": "weather",
+                        "ja": "気象",
+                        "zh": "天气",
+                        "fr": "météo"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자'",
+                        "en": "scholar or specialist",
+                        "ja": "学者",
+                        "zh": "学者",
+                        "fr": "savant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기상학을 연구하는 사람'인 '기상학자'를 뜻합니다.",
+                "en": "A person who studies meteorology",
+                "ja": "気象学を研究する人",
+                "zh": "研究气象学的人",
+                "fr": "Personne étudiant la météorologie"
+            },
+            "example": "The meteorologist predicted rain for tomorrow.",
+            "translation": {
+                "ko": "기상학자는 내일 비가 올 것이라고 예측했다.",
+                "ja": "気象学者は明日の雨を予測しました。",
+                "zh": "气象学家预测了明天的降雨。",
+                "fr": "Le météorologue a prédit de la pluie pour demain."
+            }
+        }
+    ]
+}

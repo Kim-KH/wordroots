@@ -1,0 +1,192 @@
+{
+    "root_info": {
+        "roots": "exter, extra",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "바깥의",
+            "en": "outside of",
+            "ja": "外の",
+            "zh": "外面的",
+            "fr": "en dehors de"
+        }
+    },
+    "words": [
+        {
+            "word": "external",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "exter",
+                    "meaning": {
+                        "ko": "바깥",
+                        "en": "outside",
+                        "ja": "外側",
+                        "zh": "外面",
+                        "fr": "extérieur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바깥쪽의', '외부의'라는 뜻입니다.",
+                "en": "Means 'outer' or 'external'",
+                "ja": "「外側の」「外部の」という意味です。",
+                "zh": "意为「外面的」「外部的」。",
+                "fr": "Signifie « extérieur » ou « externe »."
+            },
+            "example": "This is for external use only.",
+            "translation": {
+                "ko": "이것은 외용으로만 사용하시오.",
+                "ja": "これは外用のみです。",
+                "zh": "这仅供外用。",
+                "fr": "Ceci est à usage externe uniquement."
+            }
+        },
+        {
+            "word": "extrinsic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "extr",
+                    "meaning": {
+                        "ko": "바깥",
+                        "en": "outside",
+                        "ja": "外部から",
+                        "zh": "从外部来",
+                        "fr": "venant de l'extérieur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바깥에서 오는'이라는 의미에서 '외적인', '비본질적인'이라는 뜻입니다.",
+                "en": "Meaning 'coming from outside', thus 'external' or 'non-essential'",
+                "ja": "外部から来るという意味で、外的な、本質的でないという意味です",
+                "zh": "从外部来的意思，因此是外部的、非本质的意思",
+                "fr": "Signifiant 'venant de l'extérieur', ainsi 'externe' ou 'non-essentiel'"
+            },
+            "example": "Extrinsic motivation comes from rewards.",
+            "translation": {
+                "ko": "외적 동기 부여는 보상에서 온다.",
+                "ja": "外在的な",
+                "zh": "外在的",
+                "fr": "extrinsèque"
+            }
+        },
+        {
+            "word": "extraordinary",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "extra-",
+                    "meaning": {
+                        "ko": "밖의",
+                        "en": "beyond",
+                        "ja": "超えた",
+                        "zh": "超越",
+                        "fr": "au-delà de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ordinary",
+                    "meaning": {
+                        "ko": "평범한",
+                        "en": "ordinary",
+                        "ja": "普通の",
+                        "zh": "普通的",
+                        "fr": "ordinaire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'평범함을 벗어난'이라는 의미에서 '기이한', '비범한', '대단한'이라는 뜻입니다.",
+                "en": "Means 'remarkable', 'exceptional', or 'wonderful' from the sense of 'going beyond the ordinary'",
+                "ja": "普通を超えるという意味から、'珍しい'、'非凡な'、'素晴らしい'という意味です",
+                "zh": "从'超越普通'的意义引申出'奇异的'、'非凡的'、'卓越的'的含义",
+                "fr": "Signifie 'remarquable', 'exceptionnel' ou 'merveilleux' du sens de 'dépasser l'ordinaire'"
+            },
+            "example": "He has an extraordinary talent.",
+            "translation": {
+                "ko": "그는 비범한 재능을 가지고 있다.",
+                "ja": "並外れた",
+                "zh": "非凡的",
+                "fr": "extraordinaire"
+            }
+        },
+        {
+            "word": "extrapolate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "extra-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "outside",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polate",
+                    "meaning": {
+                        "ko": "다듬다",
+                        "en": "to refine",
+                        "ja": "推定する",
+                        "zh": "推断",
+                        "fr": "inférer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알고 있는 사실 밖으로 나아가 미루어 짐작하다'는 의미에서, '(데이터를 기반으로) 추정하다', '외삽하다'는 뜻입니다.",
+                "en": "To infer or estimate beyond known facts; to project data into unknown territory.",
+                "ja": "既知の事実を超えて推測すること。つまり、（データに基づいて）推定する、外挿するという意味です。",
+                "zh": "超越已知事实进行推测；即（基于数据）推断、外推的意思。",
+                "fr": "Inférer au-delà des faits connus ; c'est-à-dire estimer ou projeter (en fonction des données)."
+            },
+            "example": "We can extrapolate future trends from this data.",
+            "translation": {
+                "ko": "우리는 이 데이터로부터 미래의 경향을 추정할 수 있다.",
+                "ja": "このデータから将来のトレンドを推定することができます。",
+                "zh": "我们可以从这些数据推断出未来的趋势。",
+                "fr": "Nous pouvons extrapoler les tendances futures à partir de ces données."
+            }
+        },
+        {
+            "word": "extraneous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "extran",
+                    "meaning": {
+                        "ko": "바깥",
+                        "en": "outside",
+                        "ja": "外部の",
+                        "zh": "外部的",
+                        "fr": "extérieur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'외부에서 온'이라는 의미에서, '관련 없는', '이질적인'이라는 뜻입니다.",
+                "en": "From 'coming from outside,' meaning unrelated or irrelevant.",
+                "ja": "「外部から来た」という意味から、「関連のない」「無関係な」という意味になります。",
+                "zh": "从\"来自外部\"的意思引申为\"无关的\"、\"不相干的\"。",
+                "fr": "Du sens « venant de l'extérieur », signifie « sans rapport » ou « sans rapport »."
+            },
+            "example": "Please remove all extraneous details.",
+            "translation": {
+                "ko": "관련 없는 세부 사항은 모두 제거해 주세요..",
+                "ja": "関連のない詳細はすべて削除してください。",
+                "zh": "请删除所有无关的细节。",
+                "fr": "Veuillez supprimer tous les détails superflus."
+            }
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "skeleton (dried body) cytoskeleton, exoskeleton, endoskeleton, skeletal",
+        "origin": "Greek, skeleton soma (dried body)",
+        "meaning": {
+            "ko": "마른 몸",
+            "en": "dried body",
+            "ja": "干からびた体",
+            "zh": "干燥的身体",
+            "fr": "corps desséché"
+        }
+    },
+    "words": [
+        {
+            "word": "cytoskeleton",
+            "part_of_speech": "",
+            "origin": "Greek, kytos (hollow, cell) + skeleton",
+            "meaning": {
+                "ko": "세포 뼈대",
+                "en": "cell framework structure",
+                "ja": "細胞骨格",
+                "zh": "细胞骨架",
+                "fr": "cytosquelette"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyto-",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "skeleton",
+                    "meaning": {
+                        "ko": "'뼈대'",
+                        "en": "framework",
+                        "ja": "骨格",
+                        "zh": "骨架",
+                        "fr": "squelette"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포의 형태를 유지하는 뼈대'라는 의미에서 '세포 골격'을 뜻합니다.",
+                "en": "The cytoskeleton provides structural support to maintain cell shape.",
+                "ja": "細胞の形態を維持する骨格という意味で、細胞骨格を意味します。",
+                "zh": "在维持细胞形态的骨架意义上，指的是细胞骨架。",
+                "fr": "Signifie le cytosquelette dans le sens d'une structure supportant la forme cellulaire."
+            },
+            "example": "The cytoskeleton provides structural support to the cell.",
+            "translation": {
+                "ko": "세포 골격은 세포에 구조적 지지를 제공한다.",
+                "ja": "細胞骨格は細胞に構造的サポートを提供します。",
+                "zh": "细胞骨架为细胞提供结构支撑。",
+                "fr": "Le cytosquelette fournit un soutien structurel à la cellule."
+            }
+        },
+        {
+            "word": "exoskeleton",
+            "part_of_speech": "",
+            "origin": "Greek, exo- (outside) + skeleton",
+            "meaning": {
+                "ko": "바깥 뼈대",
+                "en": "outer skeletal structure",
+                "ja": "外骨格",
+                "zh": "外骨骼",
+                "fr": "exosquelette"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "exo-",
+                    "meaning": {
+                        "ko": "'바깥의'",
+                        "en": "outside",
+                        "ja": "外側の",
+                        "zh": "外部的",
+                        "fr": "extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "skeleton",
+                    "meaning": {
+                        "ko": "'뼈대'",
+                        "en": "skeletal framework",
+                        "ja": "骨組み",
+                        "zh": "骨架",
+                        "fr": "squelette"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸 바깥에 있는 뼈대'라는 의미에서 곤충이나 갑각류의 '외골격'을 뜻합니다.",
+                "en": "Refers to the 'exoskeleton' of insects and crustaceans, meaning a skeletal structure outside the body.",
+                "ja": "体の外側にある骨組みという意味で、昆虫や甲殻類の外骨格を指します。",
+                "zh": "指身体外部的骨架，用来描述昆虫和甲壳类的外骨骼。",
+                "fr": "Désigne l'exosquelette des insectes et crustacés, c'est-à-dire une structure osseuse située à l'extérieur du corps."
+            },
+            "example": "An insect's exoskeleton is made of chitin.",
+            "translation": {
+                "ko": "곤충의 외골격은 키틴질로 이루어져 있다.",
+                "ja": "昆虫の外骨格はキチンでできています。",
+                "zh": "昆虫的外骨骼是由几丁质制成的。",
+                "fr": "L'exosquelette d'un insecte est fait de chitine."
+            }
+        },
+        {
+            "word": "endoskeleton",
+            "part_of_speech": "",
+            "origin": "Greek, endon (within) + skeleton",
+            "meaning": {
+                "ko": "안쪽 뼈대",
+                "en": "inner skeletal structure",
+                "ja": "内骨格",
+                "zh": "内骨骼",
+                "fr": "endosquelette"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "endo-",
+                    "meaning": {
+                        "ko": "'안쪽의'",
+                        "en": "within",
+                        "ja": "内側の",
+                        "zh": "内部的",
+                        "fr": "interne"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "skeleton",
+                    "meaning": {
+                        "ko": "'뼈대'",
+                        "en": "skeletal framework",
+                        "ja": "骨格",
+                        "zh": "骨骼",
+                        "fr": "squelette"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸 안쪽에 있는 뼈대'인 '내골격'을 뜻합니다.",
+                "en": "Refers to the skeleton located inside the body, also known as the internal skeleton.",
+                "ja": "体の内側にある骨格、つまり内骨格を意味します。",
+                "zh": "指位于身体内部的骨骼，也称为内骨骼。",
+                "fr": "Désigne le squelette situé à l'intérieur du corps, également appelé squelette interne."
+            },
+            "example": "Humans have an endoskeleton made of bone and cartilage.",
+            "translation": {
+                "ko": "인간은 뼈와 연골로 이루어진 내골격을 가지고 있다.",
+                "ja": "人間は骨と軟骨からなる内骨格を持っています。",
+                "zh": "人类有由骨和软骨组成的内骨骼。",
+                "fr": "Les humains ont un endosquelette composé d'os et de cartilage."
+            }
+        },
+        {
+            "word": "skeletal",
+            "part_of_speech": "",
+            "origin": "Greek, skeleton",
+            "meaning": {
+                "ko": "마른 몸, 뼈대",
+                "en": "thin body, skeletal structure",
+                "ja": "骨格的な、痩せた",
+                "zh": "骨骼的、瘦的",
+                "fr": "squelettique, maigre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "skelet-",
+                    "meaning": {
+                        "ko": "'뼈대'",
+                        "en": "skeleton",
+                        "ja": "骨格",
+                        "zh": "骨骼",
+                        "fr": "squelette"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뼈대의', '해골의'라는 뜻입니다.",
+                "en": "Means 'of the skeleton' or 'of the bones'",
+                "ja": "骨格の、頭蓋骨のという意味です",
+                "zh": "骨骼的、骷髅的意思",
+                "fr": "Signifie 'du squelette' ou 'des os'"
+            },
+            "example": "The skeletal system provides the framework for the body.",
+            "translation": {
+                "ko": "골격계는 신체의 골격을 제공한다.",
+                "ja": "骨格系は体の枠組みを提供します",
+                "zh": "骨骼系统为身体提供框架",
+                "fr": "Le système squelettique fournit la structure du corps"
+            }
+        }
+    ]
+}

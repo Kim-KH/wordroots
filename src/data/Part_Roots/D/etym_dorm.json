@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "dorm (sleep) dormant, dormitory",
+        "origin": "Latin, dormire (to sleep)",
+        "meaning": {
+            "ko": "잠자다",
+            "en": "to sleep",
+            "ja": "眠る",
+            "zh": "睡觉",
+            "fr": "dormir"
+        }
+    },
+    "words": [
+        {
+            "word": "dormant",
+            "part_of_speech": "",
+            "origin": "Latin, dormire (to sleep)",
+            "meaning": {
+                "ko": "잠자다",
+                "en": "to sleep",
+                "ja": "休眠している",
+                "zh": "休眠的",
+                "fr": "dormant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dorm-",
+                    "meaning": {
+                        "ko": "'잠자다'",
+                        "en": "to sleep",
+                        "ja": "眠る",
+                        "zh": "睡眠",
+                        "fr": "dormir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잠자고 있는' 상태라는 의미에서 화산 등이 '휴면기의', 활동이 '중단된'이라는 뜻으로 쓰입니다.",
+                "en": "Used to describe a state of inactivity, as in volcanoes being in a 'dormant period' or activities being 'suspended'",
+                "ja": "火山などが休眠期にあることや活動が中断されていることを表します",
+                "zh": "用于描述不活跃状态，如火山处于休眠期或活动中止",
+                "fr": "Décrit un état d'inactivité, comme un volcan en période dormante ou une activité suspendue"
+            },
+            "example": "The volcano has been dormant for many years.",
+            "translation": {
+                "ko": "그 화산은 수년 동안 휴면 상태였다.",
+                "ja": "火山は何年も休眠状態にあります",
+                "zh": "火山已经休眠了多年",
+                "fr": "Le volcan est resté dormant pendant de nombreuses années"
+            }
+        },
+        {
+            "word": "dormitory",
+            "part_of_speech": "",
+            "origin": "Latin, dormitorium (a sleeping place)",
+            "meaning": {
+                "ko": "잠자는 장소",
+                "en": "place for sleeping",
+                "ja": "寝る場所",
+                "zh": "睡眠场所",
+                "fr": "lieu de sommeil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dorm-",
+                    "meaning": {
+                        "ko": "'잠자다'",
+                        "en": "to sleep",
+                        "ja": "眠る",
+                        "zh": "睡眠",
+                        "fr": "dormir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itory",
+                    "meaning": {
+                        "ko": "'~을 위한 장소'",
+                        "en": "place for purpose",
+                        "ja": "〜のための場所",
+                        "zh": "〜的场所",
+                        "fr": "lieu pour"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 사람이 함께 잠자는 장소'라는 의미에서 '기숙사'를 뜻합니다.",
+                "en": "It means dormitory in the sense of a place where multiple people sleep together",
+                "ja": "複数の人が一緒に寝る場所という意味で寮を指します",
+                "zh": "表示多个人一起睡觉的地方，意为宿舍",
+                "fr": "Signifie dortoir au sens d'un lieu où plusieurs personnes dorment ensemble"
+            },
+            "example": "He lives in a college dormitory.",
+            "translation": {
+                "ko": "그는 대학 기숙사에 산다.",
+                "ja": "彼は大学の寮に住んでいます。",
+                "zh": "他住在大学宿舍里。",
+                "fr": "Il vit dans un dortoir universitaire."
+            }
+        }
+    ]
+}

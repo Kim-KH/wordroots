@@ -1,0 +1,108 @@
+{
+    "root_info": {
+        "roots": "vac: empty",
+        "origin": "Latin, vacare",
+        "meaning": {
+            "ko": "비어 있다",
+            "en": "to be empty",
+            "ja": "空いている",
+            "zh": "空着",
+            "fr": "être vide"
+        }
+    },
+    "words": [
+        {
+            "word": "vacate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vac",
+                    "meaning": {
+                        "ko": "비어 있다",
+                        "en": "to be empty",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'장소를 비우다'는 의미에서, 집이나 방을 '비우다', 직책에서 '물러나다'는 뜻입니다.",
+                "en": "Means 'to empty a place' — to vacate a house or room, or to step down from a position.",
+                "ja": "場所を空にするという意味から、家や部屋を'空ける'、職位から'退く'という意味です。",
+                "zh": "从'清空地点'的含义，指'腾空'房屋或房间，或'辞去'职位。",
+                "fr": "Signifie 'vider un lieu' — quitter une maison ou une pièce, ou se retirer d'un poste."
+            },
+            "example": "You must vacate the room by noon.",
+            "translation": {
+                "ko": "당신은 정오까지 방을 비워야 합니다.",
+                "ja": "正午までにその部屋を空けなければなりません。",
+                "zh": "你必须在正午前腾空这个房间。",
+                "fr": "Vous devez libérer la chambre avant midi."
+            }
+        },
+        {
+            "word": "vacuum",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vacu (vacuus)",
+                    "meaning": {
+                        "ko": "빈",
+                        "en": "empty",
+                        "ja": "空の",
+                        "zh": "空的",
+                        "fr": "vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비어 있는 상태'라는 의미에서, '진공' 또는 '진공청소기'를 뜻합니다.",
+                "en": "From the meaning of 'empty state', it refers to 'vacuum' or 'vacuum cleaner'.",
+                "ja": "『空っぽの状態』という意味から、『真空』または『掃除機』を意味します。",
+                "zh": "从'空的状态'的含义出发，指'真空'或'吸尘器'。",
+                "fr": "Du sens d'état vide, il désigne le vide ou l'aspirateur."
+            },
+            "example": "Nature abhors a vacuum.",
+            "translation": {
+                "ko": "자연은 진공을 싫어한다. (속담)",
+                "ja": "自然は真空を嫌う。",
+                "zh": "自然厌恶真空。",
+                "fr": "La nature a horreur du vide."
+            }
+        },
+        {
+            "word": "vain",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vain (vanus)",
+                    "meaning": {
+                        "ko": "빈",
+                        "en": "empty",
+                        "ja": "空の",
+                        "zh": "空的",
+                        "fr": "vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 vanus는 vacare와 관련이 있습니다. '속이 텅 빈'이라는 의미에서, '헛된', '소용없는' 또는 '허영심이 강한'이라는 뜻으로 발전했습니다.",
+                "en": "Latin vanus is related to vacare. From the sense of 'completely empty,' it developed meanings of 'futile,' 'useless,' or 'conceited.'",
+                "ja": "ラテン語のvanusはvacare（空にする）に関連しています。「完全に空の」という意味から、「無駄な」「役に立たない」または「虚栄心の強い」という意味に発展しました。",
+                "zh": "拉丁语vanus与vacare相关。从\"完全空的\"的含义发展为\"徒劳的\"、\"无用的\"或\"虚荣心强的\"含义。",
+                "fr": "Le latin vanus est lié à vacare. Du sens « complètement vide », il a développé les significations « futile », « inutile » ou « vaniteux »."
+            },
+            "example": "All our efforts were in vain.",
+            "translation": {
+                "ko": "우리의 모든 노력은 헛되었다.",
+                "ja": "私たちのすべての努力は無駄に終わった。",
+                "zh": "我们所有的努力都白费了。",
+                "fr": "Tous nos efforts ont été vains."
+            }
+        }
+    ]
+}

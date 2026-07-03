@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "ulul (howl) ululate, ululation",
+        "origin": "Latin, ululare (to howl, to shriek)",
+        "meaning": {
+            "ko": "울부짖다",
+            "en": "to howl",
+            "ja": "遠吠えする",
+            "zh": "嚎叫",
+            "fr": "hurler"
+        }
+    },
+    "words": [
+        {
+            "word": "ululate",
+            "part_of_speech": "",
+            "origin": "Latin, ululare (to howl)",
+            "meaning": {
+                "ko": "울부짖다",
+                "en": "to wail or cry out loudly",
+                "ja": "울음을 크게 지르다",
+                "zh": "尖声哭喊",
+                "fr": "hurler avec emotion"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ulul-",
+                    "meaning": {
+                        "ko": "'울부짖다'",
+                        "en": "to howl",
+                        "ja": "ほえる",
+                        "zh": "嚎叫",
+                        "fr": "hurler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'슬픔이나 기쁨으로 길게 울부짖다'는 뜻입니다.",
+                "en": "To howl loudly in sadness or joy",
+                "ja": "悲しみや喜びで長く叫ぶこと",
+                "zh": "因悲伤或喜悦而长声哭喊",
+                "fr": "Crier longuement de tristesse ou joie"
+            },
+            "example": "The women began to ululate in grief.",
+            "translation": {
+                "ko": "그 여자들은 슬픔에 잠겨 울부짖기 시작했다.",
+                "ja": "女性たちは悲しみで尖声で泣き叫び始めた。",
+                "zh": "妇女们开始因悲伤而尖声哭喊。",
+                "fr": "Les femmes ont commencé à hurler de chagrin."
+            }
+        },
+        {
+            "word": "ululation",
+            "part_of_speech": "",
+            "origin": "Latin, ululatio (a howling)",
+            "meaning": {
+                "ko": "울부짖음",
+                "en": "wailing cry or howl",
+                "ja": "遠吠え",
+                "zh": "长嚎",
+                "fr": "hurlement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ulul-",
+                    "meaning": {
+                        "ko": "'울부짖다'",
+                        "en": "to howl",
+                        "ja": "遠吠えする",
+                        "zh": "长声嚎叫",
+                        "fr": "hurler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'길게 울부짖는 소리'를 뜻합니다.",
+                "en": "A prolonged, wavering cry or sound",
+                "ja": "長く続く変動する叫び声",
+                "zh": "指长时间的、波动性的叫声",
+                "fr": "Un cri prolongé et ondulant"
+            },
+            "example": "We could hear the ululation of the wolves in the distance.",
+            "translation": {
+                "ko": "우리는 멀리서 늑대들이 길게 울부짖는 소리를 들을 수 있었다.",
+                "ja": "遠くの狼の遠吠えが聞こえた。",
+                "zh": "我们能听到远处狼的长嚎。",
+                "fr": "Nous pouvions entendre le hurlement des loups au loin."
+            }
+        }
+    ]
+}

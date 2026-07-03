@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "liber (free) liberal, liberation, libertine",
+        "origin": "Latin, liber (free)",
+        "meaning": {
+            "ko": "자유로운",
+            "en": "free",
+            "ja": "自由な",
+            "zh": "自由的",
+            "fr": "libre"
+        }
+    },
+    "words": [
+        {
+            "word": "liberal",
+            "part_of_speech": "",
+            "origin": "Latin, liberalis (of freedom, generous)",
+            "meaning": {
+                "ko": "자유의, 관대한",
+                "en": "of freedom, generous",
+                "ja": "自由的な、寛大な",
+                "zh": "自由的、慷慨的",
+                "fr": "libre, généreux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liber-",
+                    "meaning": {
+                        "ko": "'자유'",
+                        "en": "free",
+                        "ja": "自由",
+                        "zh": "自由",
+                        "fr": "libre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자유를 존중하는'이라는 의미에서 '진보적인', '자유주의의' 또는 '관대한'이라는 뜻입니다.",
+                "en": "Means progressive, libertarian, or generous in the sense of respecting freedom",
+                "ja": "自由を尊重する意味で進歩的、自由主義的、または寛大という意味です",
+                "zh": "在尊重自由的意义上，意思是进步的、自由主义的或慷慨的",
+                "fr": "Au sens de respecter la liberté, cela signifie progressiste, libertaire ou généreux"
+            },
+            "example": "He has liberal views on social issues.",
+            "translation": {
+                "ko": "그는 사회 문제에 대해 진보적인 견해를 가지고 있다.",
+                "ja": "彼は社会問題に対して自由的な見方を持っている",
+                "zh": "他对社会问题持自由的态度",
+                "fr": "Il a des opinions libérales sur les questions sociales"
+            }
+        },
+        {
+            "word": "liberation",
+            "part_of_speech": "",
+            "origin": "Latin, liberatio (a setting free)",
+            "meaning": {
+                "ko": "자유롭게 함",
+                "en": "to make free",
+                "ja": "解放",
+                "zh": "解放",
+                "fr": "libération"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liber-",
+                    "meaning": {
+                        "ko": "'자유'",
+                        "en": "free",
+                        "ja": "自由",
+                        "zh": "自由",
+                        "fr": "libre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'억압에서 자유롭게 하는 것'이라는 의미에서 '해방'을 뜻합니다.",
+                "en": "Means liberation in the sense of freeing from oppression",
+                "ja": "抑圧から自由にすることを意味します",
+                "zh": "指从压迫中解放的意思",
+                "fr": "Signifie libération au sens de se libérer de l'oppression"
+            },
+            "example": "The liberation of the city was a joyous event.",
+            "translation": {
+                "ko": "그 도시의 해방은 기쁜 사건이었다.",
+                "ja": "その都市の解放は喜びの出来事でした。",
+                "zh": "这座城市的解放是一件令人高兴的事件。",
+                "fr": "La libération de la ville était un événement joyeux."
+            }
+        },
+        {
+            "word": "libertine",
+            "part_of_speech": "",
+            "origin": "Latin, libertinus (a freedman)",
+            "meaning": {
+                "ko": "자유민",
+                "en": "freedman",
+                "ja": "放蕩者",
+                "zh": "放纵的人",
+                "fr": "libertin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liber-",
+                    "meaning": {
+                        "ko": "'자유'",
+                        "en": "free",
+                        "ja": "自由",
+                        "zh": "自由",
+                        "fr": "libre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'규범에 얽매이지 않고 자유롭게 행동하는 사람'이라는 의미에서 '방탕아'라는 뜻으로 쓰입니다.",
+                "en": "Used to mean 'a debauched person' in the sense of someone who acts freely without being bound by social norms",
+                "ja": "社会的規範に縛られず、自由に行動する人という意味で、放蕩者という意味で使われます",
+                "zh": "用来表示不受社会规范束缚、自由行动的人，意为放荡者",
+                "fr": "Utilisé pour désigner une personne débridée, c'est-à-dire quelqu'un qui agit librement sans être lié par les normes sociales"
+            },
+            "example": "He lived the life of a libertine.",
+            "translation": {
+                "ko": "그는 방탕한 삶을 살았다.",
+                "ja": "彼は放蕩者の人生を送っていました",
+                "zh": "他过着放纵者的生活",
+                "fr": "Il menait la vie d'un libertin"
+            }
+        }
+    ]
+}

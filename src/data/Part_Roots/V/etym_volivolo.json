@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "voli/volo (will) malevolent, volitional, volunteer",
+        "origin": "Latin, velle (to will, to wish)",
+        "meaning": {
+            "ko": "의지를 갖다",
+            "en": "to will",
+            "ja": "意志を持つ",
+            "zh": "有意志",
+            "fr": "avoir la volonté"
+        }
+    },
+    "words": [
+        {
+            "word": "malevolent",
+            "part_of_speech": "",
+            "origin": "Latin, malevolens (ill-disposed, spiteful)",
+            "meaning": {
+                "ko": "나쁜 의지를 가진",
+                "en": "having bad intentions",
+                "ja": "悪意のある",
+                "zh": "恶意的",
+                "fr": "malveillant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "male-",
+                    "meaning": {
+                        "ko": "'나쁜'",
+                        "en": "badly",
+                        "ja": "悪い",
+                        "zh": "坏的",
+                        "fr": "mauvais"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "volent",
+                    "meaning": {
+                        "ko": "'의지'",
+                        "en": "wishing",
+                        "ja": "願い",
+                        "zh": "希望",
+                        "fr": "souhait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람이 잘못되기를 바라는 나쁜 의지를 가진'이라는 의미에서 '악의적인'이라는 뜻입니다.",
+                "en": "Having ill will wishing harm to others",
+                "ja": "他人の不幸を望む悪い意思",
+                "zh": "希望他人遭遇不幸的恶意",
+                "fr": "Volonté malveillante souhaitant du mal à autrui"
+            },
+            "example": "He gave me a malevolent look.",
+            "translation": {
+                "ko": "그는 나에게 악의적인 눈초리를 보냈다.",
+                "ja": "彼は私に悪意のある視線を向けた。",
+                "zh": "他用恶意的眼神看着我。",
+                "fr": "Il m'a lancé un regard malveillant."
+            }
+        },
+        {
+            "word": "volitional",
+            "part_of_speech": "",
+            "origin": "Latin, volitio (will)",
+            "meaning": {
+                "ko": "의지",
+                "en": "will or volition",
+                "ja": "意志的な",
+                "zh": "意志性的",
+                "fr": "volontaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "voli-",
+                    "meaning": {
+                        "ko": "'의지'",
+                        "en": "will",
+                        "ja": "意志",
+                        "zh": "意志",
+                        "fr": "volonté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자유 의지에 따른'이라는 의미에서 '의지적인'이라는 뜻입니다.",
+                "en": "Meaning 'willful' or 'intentional' in the sense of acting according to free will",
+                "ja": "自由意志に基づいて行われるという意味で'意志的な'という意味です",
+                "zh": "在'根据自由意志行动'的意义上表示'有意志的'",
+                "fr": "Signifie 'intentionnel' au sens d'agir selon la libre volonté"
+            },
+            "example": "A volitional act is one that is done by choice.",
+            "translation": {
+                "ko": "의지적 행위는 선택에 의해 행해지는 행위이다.",
+                "ja": "意志的な行為は選択によって行われるものです。",
+                "zh": "有意志的行为是通过选择进行的行为。",
+                "fr": "Un acte volontaire est celui qui est fait par choix."
+            }
+        },
+        {
+            "word": "volunteer",
+            "part_of_speech": "",
+            "origin": "French, volontaire (voluntary)",
+            "meaning": {
+                "ko": "자발적인",
+                "en": "voluntary, willingly undertaken",
+                "ja": "自発的な",
+                "zh": "自愿的",
+                "fr": "volontaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vol- (velle)",
+                    "meaning": {
+                        "ko": "'의지'",
+                        "en": "will",
+                        "ja": "意志",
+                        "zh": "意愿",
+                        "fr": "volonté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신의 의지에 따라 나서는 사람'인 '자원봉사자'를 뜻합니다.",
+                "en": "A person who comes forward according to their own will, meaning volunteer",
+                "ja": "自分の意志に従って行動する人、つまりボランティアを意味します",
+                "zh": "根据自己的意愿主动承担的人，即志愿者的意思",
+                "fr": "Une personne qui agit selon sa propre volonté, c'est-à-dire un bénévole"
+            },
+            "example": "She works as a volunteer at the local hospital.",
+            "translation": {
+                "ko": "그녀는 지역 병원에서 자원봉사자로 일한다.",
+                "ja": "彼女は地元の病院でボランティアとして働いています",
+                "zh": "她在当地医院做志愿者工作",
+                "fr": "Elle travaille comme bénévole à l'hôpital local"
+            }
+        }
+    ]
+}

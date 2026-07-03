@@ -1,0 +1,210 @@
+{
+    "root_info": {
+        "roots": "pena (punishment) penal, penalize, penalty, penance, penitentiary",
+        "origin": "Latin, poena (punishment, penalty)",
+        "meaning": {
+            "ko": "처벌",
+            "en": "punishment",
+            "ja": "罰",
+            "zh": "惩罚",
+            "fr": "punition"
+        }
+    },
+    "words": [
+        {
+            "word": "penal",
+            "part_of_speech": "",
+            "origin": "Latin, poenalis (relating to punishment)",
+            "meaning": {
+                "ko": "처벌에 관한",
+                "en": "relating to punishment",
+                "ja": "処罰に関する",
+                "zh": "与处罚有关",
+                "fr": "relatif à la punition"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pen-",
+                    "meaning": {
+                        "ko": "'처벌'",
+                        "en": "punishment",
+                        "ja": "処罰",
+                        "zh": "处罚",
+                        "fr": "punition"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'처벌과 관련된'이라는 의미에서 '형벌의'라는 뜻입니다.",
+                "en": "Meaning 'related to punishment' or 'of punishment'",
+                "ja": "処罰と関連した意味で、刑罰のという意味です",
+                "zh": "与处罚相关的含义，指刑罚的",
+                "fr": "Signifiant 'relatif au châtiment' ou 'de châtiment'"
+            },
+            "example": "He was sent to a penal colony.",
+            "translation": {
+                "ko": "그는 유형지에 보내졌다.",
+                "ja": "彼は流刑地に送られた。",
+                "zh": "他被送到了流放地。",
+                "fr": "Il a été envoyé dans une colonie pénitentiaire."
+            }
+        },
+        {
+            "word": "penalize",
+            "part_of_speech": "",
+            "origin": "Latin, poena (punishment)",
+            "meaning": {
+                "ko": "처벌",
+                "en": "to impose punishment or penalty",
+                "ja": "罰を与える",
+                "zh": "处罚",
+                "fr": "pénaliser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "penal-",
+                    "meaning": {
+                        "ko": "'처벌'",
+                        "en": "punishment or penalty",
+                        "ja": "罰を与える",
+                        "zh": "处罚",
+                        "fr": "punir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'벌칙을 가하다', '불리하게 만들다'라는 뜻입니다.",
+                "en": "To impose a penalty or punishment; to put at a disadvantage",
+                "ja": "罰則を課す、不利にする",
+                "zh": "施加处罚、使处于不利地位",
+                "fr": "infliger une pénalité ou punition"
+            },
+            "example": "The team was penalized for a foul.",
+            "translation": {
+                "ko": "그 팀은 반칙으로 벌칙을 받았다.",
+                "ja": "そのチームはファウルで罰を受けた。",
+                "zh": "该队因犯规而受到处罚。",
+                "fr": "L'équipe a été pénalisée pour une faute."
+            }
+        },
+        {
+            "word": "penalty",
+            "part_of_speech": "",
+            "origin": "Latin, poenalitas (punishableness)",
+            "meaning": {
+                "ko": "처벌 가능성",
+                "en": "possibility of punishment",
+                "ja": "罰金、処罰",
+                "zh": "罚款、处罚",
+                "fr": "amende, pénalité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pen-",
+                    "meaning": {
+                        "ko": "'처벌'",
+                        "en": "punishment",
+                        "ja": "処罰",
+                        "zh": "处罚",
+                        "fr": "punition"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법이나 규칙을 어겼을 때 받는 벌'인 '처벌', '벌금', '벌칙'을 뜻합니다.",
+                "en": "Refers to punishment, fine, or penalty imposed for breaking laws or rules",
+                "ja": "法律や規則を違反した時に受ける罰、罰金、罰則を意味します",
+                "zh": "指违反法律或规则时受到的处罚、罚款、惩罚",
+                "fr": "Désigne la punition, l'amende ou la sanction imposée pour violation de loi ou de règles"
+            },
+            "example": "The penalty for speeding is a fine.",
+            "translation": {
+                "ko": "과속에 대한 처벌은 벌금이다.",
+                "ja": "スピード違反の罰金です",
+                "zh": "超速的罚款是罚金。",
+                "fr": "L'amende pour excès de vitesse est une contravention."
+            }
+        },
+        {
+            "word": "penance",
+            "part_of_speech": "",
+            "origin": "Latin, paenitentia (repentance)",
+            "meaning": {
+                "ko": "뉘우침",
+                "en": "remorse or regret",
+                "ja": "懺悔",
+                "zh": "忏悔",
+                "fr": "pénitence"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pen- (paenitere 'to repent')",
+                    "meaning": {
+                        "ko": "'뉘우치다'",
+                        "en": "to repent",
+                        "ja": "後悔する",
+                        "zh": "后悔",
+                        "fr": "regretter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죄를 뉘우치고 속죄하기 위해 하는 행위'인 '보속', '고행'을 뜻합니다.",
+                "en": "An act of atonement or self-mortification done to express remorse for sins",
+                "ja": "罪を悔いて償うために行う行為",
+                "zh": "为了悔改和赎罪而进行的行为",
+                "fr": "Acte d'expiation ou de mortification pour racheter ses péchés"
+            },
+            "example": "He did penance for his sins.",
+            "translation": {
+                "ko": "그는 자신의 죄에 대해 보속을 했다.",
+                "ja": "彼は自分の罪のために懺悔をした。",
+                "zh": "他为自己的罪恶做忏悔。",
+                "fr": "Il a fait pénitence pour ses péchés."
+            }
+        },
+        {
+            "word": "penitentiary",
+            "part_of_speech": "",
+            "origin": "Latin, paenitentiarius (of penance)",
+            "meaning": {
+                "ko": "보속의",
+                "en": "relating to punishment",
+                "ja": "懺悔する",
+                "zh": "悔过的",
+                "fr": "pénitent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "penitent-",
+                    "meaning": {
+                        "ko": "'뉘우치는'",
+                        "en": "feeling remorse",
+                        "ja": "後悔している",
+                        "zh": "悔恨的",
+                        "fr": "repentant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죄를 뉘우치고 반성하게 하는 장소'라는 의미에서 '교도소'를 뜻합니다.",
+                "en": "A place where criminals are made to repent and reflect on their sins, meaning prison",
+                "ja": "罪を悔い反省させる場所という意味で刑務所を指します",
+                "zh": "指从悔罪和反省的地方监狱",
+                "fr": "Un lieu où les criminels sont amenés à se repentir et à réfléchir sur leurs péchés, signifiant prison"
+            },
+            "example": "He was sentenced to five years in the penitentiary.",
+            "translation": {
+                "ko": "그는 교도소에서 5년형을 선고받았다.",
+                "ja": "懺悔院",
+                "zh": "教悔所",
+                "fr": "pénitencier"
+            }
+        }
+    ]
+}

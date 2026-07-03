@@ -1,0 +1,226 @@
+{
+    "root_info": {
+        "roots": "ox(y) (oxygen) oxygen, oxygenate, oxidization, deoxyribonucleic acid",
+        "origin": "Greek, oxys (sharp, acid)",
+        "meaning": {
+            "ko": "날카로운, 산",
+            "en": "sharp, acid",
+            "ja": "鋭い、酸性",
+            "zh": "尖，酸",
+            "fr": "aigu, acide"
+        }
+    },
+    "words": [
+        {
+            "word": "oxygen",
+            "part_of_speech": "",
+            "origin": "Greek, oxys (acid) + genos (birth)",
+            "meaning": {
+                "ko": "산을 낳는 것",
+                "en": "thing that produces acid",
+                "ja": "酸を生成するもの",
+                "zh": "产生酸的物质",
+                "fr": "générateur d'acide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oxy-",
+                    "meaning": {
+                        "ko": "'산'",
+                        "en": "acid",
+                        "ja": "酸",
+                        "zh": "酸",
+                        "fr": "acide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "'생성하는 것'",
+                        "en": "producing or generating",
+                        "ja": "生成するもの",
+                        "zh": "生成的物质",
+                        "fr": "générateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "처음에는 모든 산(acid)을 만드는 원소라고 잘못 생각하여 '산을 만드는 것'이라는 뜻으로 이름 붙여졌으며, 지금은 '산소'를 뜻합니다.",
+                "en": "Initially, all acids were mistakenly thought to be created by this element, so it was named 'acid-creator'. Now it refers to oxygen.",
+                "ja": "最初、すべての酸がこの元素によって作られると誤解され、「酸を作るもの」という意味で名付けられました。現在は「酸素」を意味します。",
+                "zh": "最初错误地认为所有酸都由这种元素产生，因此被命名为'产生酸的物质'。现在指的是氧气。",
+                "fr": "Initialement, on croyait à tort que tous les acides étaient créés par cet élément, d'où le nom 'générateur d'acide'. Aujourd'hui, cela désigne l'oxygène."
+            },
+            "example": "We need oxygen to breathe.",
+            "translation": {
+                "ko": "우리는 숨 쉬기 위해 산소가 필요하다.",
+                "ja": "呼吸するために酸素が必要です。",
+                "zh": "我们需要氧气来呼吸。",
+                "fr": "Nous avons besoin d'oxygène pour respirer."
+            }
+        },
+        {
+            "word": "oxygenate",
+            "part_of_speech": "",
+            "origin": "English, oxygen",
+            "meaning": {
+                "ko": "산소",
+                "en": "oxygen",
+                "ja": "酸素を供給する",
+                "zh": "供应氧气",
+                "fr": "ajouter de l'oxygène"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oxygen-",
+                    "meaning": {
+                        "ko": "'산소'",
+                        "en": "oxygen",
+                        "ja": "酸素",
+                        "zh": "氧气",
+                        "fr": "oxygène"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'산소를 공급하다'라는 뜻입니다.",
+                "en": "To supply or add oxygen",
+                "ja": "酸素を供給することを意味します",
+                "zh": "表示供应或添加氧气",
+                "fr": "Signifie fournir ou ajouter de l'oxygène"
+            },
+            "example": "The lungs oxygenate the blood.",
+            "translation": {
+                "ko": "폐는 혈액에 산소를 공급한다.",
+                "ja": "肺は血液に酸素を供給する",
+                "zh": "肺给血液供应氧气",
+                "fr": "Les poumons oxygènent le sang"
+            }
+        },
+        {
+            "word": "oxidization",
+            "part_of_speech": "",
+            "origin": "Greek, oxys (acid)",
+            "meaning": {
+                "ko": "산",
+                "en": "mountain or acid",
+                "ja": "酸化",
+                "zh": "氧化",
+                "fr": "oxydation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oxid- (from oxide)",
+                    "meaning": {
+                        "ko": "'산화물'",
+                        "en": "oxide",
+                        "ja": "酸化物",
+                        "zh": "氧化物",
+                        "fr": "oxyde"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'산소와 결합하는 과정'인 '산화'를 뜻합니다.",
+                "en": "The process of combining with oxygen",
+                "ja": "酸素と結合する過程",
+                "zh": "与氧气结合的过程",
+                "fr": "Processus de combinaison avec l'oxygène"
+            },
+            "example": "The oxidization of iron causes rust.",
+            "translation": {
+                "ko": "철의 산화는 녹을 유발한다.",
+                "ja": "鉄の酸化は錆を引き起こします。",
+                "zh": "铁的氧化导致生锈。",
+                "fr": "L'oxydation du fer provoque la rouille."
+            }
+        },
+        {
+            "word": "deoxyribonucleic acid",
+            "part_of_speech": "",
+            "origin": "de- (remove) + oxygen + ribose + nucleic acid",
+            "meaning": {
+                "ko": "산소가 제거된 리보핵산",
+                "en": "nucleic acid with removed oxygen",
+                "ja": "脱酸素リボ核酸",
+                "zh": "脱氧核糖核酸",
+                "fr": "acide désoxyribonucléique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'제거'",
+                        "en": "'제거'",
+                        "ja": "除去",
+                        "zh": "移除",
+                        "fr": "suppression"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oxy-",
+                    "meaning": {
+                        "ko": "'산소'",
+                        "en": "'산소'",
+                        "ja": "酸素",
+                        "zh": "氧气",
+                        "fr": "oxygène"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ribo-",
+                    "meaning": {
+                        "ko": "'리보스'",
+                        "en": "ribose sugar",
+                        "ja": "糖の一種",
+                        "zh": "糖类物质",
+                        "fr": "type de sucre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nucleic",
+                    "meaning": {
+                        "ko": "'핵의'",
+                        "en": "'핵의'",
+                        "ja": "核の",
+                        "zh": "核的",
+                        "fr": "nucléaire"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "acid",
+                    "meaning": {
+                        "ko": "'산'",
+                        "en": "'산'",
+                        "ja": "酸",
+                        "zh": "酸",
+                        "fr": "acide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "DNA의 정식 명칭으로, 구성 성분인 당에서 산소 원자 하나가 제거되었다는 의미를 담고 있습니다.",
+                "en": "The formal name of DNA, which reflects that one oxygen atom has been removed from the sugar component that makes up its structure.",
+                "ja": "DNAの正式名称であり、構成成分である糖から酸素原子一つが除去されたという意味を含んでいます。",
+                "zh": "DNA的正式名称，其名称反映了组成成分中的糖失去了一个氧原子。",
+                "fr": "Le nom officiel de l'ADN, reflétant que un atome d'oxygène a été retiré du sucre qui compose sa structure."
+            },
+            "example": "Deoxyribonucleic acid, or DNA, carries the genetic instructions for all living things.",
+            "translation": {
+                "ko": "디옥시리보핵산, 즉 DNA는 모든 생명체의 유전 정보를 담고 있다.",
+                "ja": "脱酸素リボ核酸（DNA）は、すべての生物の遺伝情報を担っています。",
+                "zh": "脱氧核糖核酸（DNA）携带所有生物的遗传指令。",
+                "fr": "L'acide désoxyribonucléique, ou ADN, porte les instructions génétiques pour tous les êtres vivants."
+            }
+        }
+    ]
+}

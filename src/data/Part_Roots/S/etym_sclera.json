@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "sclera(o) (hard) arteriosclerosis, sclera, sclerotic, sclerosis,",
+        "origin": "Greek, skleros (hard)",
+        "meaning": {
+            "ko": "단단한",
+            "en": "hard",
+            "ja": "硬い",
+            "zh": "坚硬",
+            "fr": "dur"
+        }
+    },
+    "words": [
+        {
+            "word": "arteriosclerosis",
+            "part_of_speech": "",
+            "origin": "Greek, arteria (artery) + sklerosis (hardening)",
+            "meaning": {
+                "ko": "동맥 경화",
+                "en": "hardening of the arteries",
+                "ja": "動脈硬化",
+                "zh": "动脉硬化",
+                "fr": "artériosclérose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arterio-",
+                    "meaning": {
+                        "ko": "'동맥'",
+                        "en": "artery",
+                        "ja": "動脈",
+                        "zh": "动脉",
+                        "fr": "artère"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sclerosis",
+                    "meaning": {
+                        "ko": "'경화'",
+                        "en": "hardening",
+                        "ja": "硬化",
+                        "zh": "硬化",
+                        "fr": "durcissement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동맥이 딱딱하게 굳어지는' 질병인 '동맥 경화증'을 뜻합니다.",
+                "en": "A disease where arteries become stiff and hard",
+                "ja": "動脈がかたくなる病気",
+                "zh": "动脉变硬的疾病",
+                "fr": "maladie où les artères durcissent"
+            },
+            "example": "High blood pressure can lead to arteriosclerosis.",
+            "translation": {
+                "ko": "고혈압은 동맥 경화증으로 이어질 수 있다.",
+                "ja": "高血圧は動脈硬化につながることがあります。",
+                "zh": "高血压可导致动脉硬化。",
+                "fr": "L'hypertension peut mener à l'artériosclérose."
+            }
+        },
+        {
+            "word": "sclera",
+            "part_of_speech": "",
+            "origin": "Greek, skleros (hard)",
+            "meaning": {
+                "ko": "단단한",
+                "en": "firm and hard",
+                "ja": "硬い",
+                "zh": "坚硬的",
+                "fr": "dur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scler-",
+                    "meaning": {
+                        "ko": "'단단한'",
+                        "en": "hard",
+                        "ja": "硬い",
+                        "zh": "坚硬的",
+                        "fr": "dur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'눈을 보호하는 단단한 흰자위'인 '공막'을 뜻합니다.",
+                "en": "The sclera is the firm white part that protects the eye.",
+                "ja": "目を保護する硬い白い部分である強膜を意味します。",
+                "zh": "指保护眼睛的坚硬白色部分，即巩膜。",
+                "fr": "Désigne la partie blanche et ferme qui protège l'oeil, la sclérotique."
+            },
+            "example": "The sclera is the white part of the eye.",
+            "translation": {
+                "ko": "공막은 눈의 흰자위 부분이다.",
+                "ja": "強膜は目の白い部分です。",
+                "zh": "巩膜是眼睛的白色部分。",
+                "fr": "La sclérotique est la partie blanche de l'oeil."
+            }
+        },
+        {
+            "word": "sclerotic",
+            "part_of_speech": "",
+            "origin": "Greek, skleros (hard)",
+            "meaning": {
+                "ko": "단단한",
+                "en": "hard or firm",
+                "ja": "硬化した",
+                "zh": "硬化的",
+                "fr": "sclérosé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scler-",
+                    "meaning": {
+                        "ko": "'단단한'",
+                        "en": "hard",
+                        "ja": "硬い",
+                        "zh": "坚硬的",
+                        "fr": "dur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'조직이 단단하게 굳어지는'이라는 의미에서 '경화된'이라는 뜻입니다.",
+                "en": "Refers to tissue becoming hardened or hardening",
+                "ja": "組織が硬く固まることから'硬化した'という意味です",
+                "zh": "指组织变硬或硬化的意思",
+                "fr": "Signifie que le tissu devient dur ou durcit"
+            },
+            "example": "Sclerotic arteries can restrict blood flow.",
+            "translation": {
+                "ko": "경화된 동맥은 혈류를 제한할 수 있다.",
+                "ja": "硬化した動脈は血流を制限することができます",
+                "zh": "硬化的动脉会限制血流",
+                "fr": "Les artères sclérosées peuvent restreindre la circulation sanguine"
+            }
+        },
+        {
+            "word": "sclerosis",
+            "part_of_speech": "",
+            "origin": "Greek, sklerosis (a hardening)",
+            "meaning": {
+                "ko": "단단해짐",
+                "en": "hardening or becoming hard",
+                "ja": "硬化症",
+                "zh": "硬化症",
+                "fr": "sclérose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scler-",
+                    "meaning": {
+                        "ko": "'단단한'",
+                        "en": "hard",
+                        "ja": "硬い",
+                        "zh": "坚硬的",
+                        "fr": "dur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신체 조직이 비정상적으로 단단해지는' 병인 '경화증'을 뜻합니다.",
+                "en": "A disease in which body tissue abnormally hardens, referred to as 'sclerosis'",
+                "ja": "身体組織が異常に硬くなる病気の経化症を意味します",
+                "zh": "指身体组织异常硬化的硬化症疾病",
+                "fr": "Maladie où les tissus corporels durcissent anormalement"
+            },
+            "example": "Multiple sclerosis is a disease of the central nervous system.",
+            "translation": {
+                "ko": "다발성 경화증은 중추 신경계의 질환이다.",
+                "ja": "多発性硬化症は中枢神経系の病気です",
+                "zh": "多发性硬化症是中枢神经系统的疾病",
+                "fr": "La sclérose en plaques est une maladie du système nerveux central"
+            }
+        }
+    ]
+}

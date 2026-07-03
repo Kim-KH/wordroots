@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "stereo (two) stereomicroscope, stereophonic, stereoscopic",
+        "origin": "Greek, stereos (solid, firm)",
+        "meaning": {
+            "ko": "입체의",
+            "en": "solid",
+            "ja": "立体的な",
+            "zh": "立体的",
+            "fr": "solide"
+        }
+    },
+    "words": [
+        {
+            "word": "stereomicroscope",
+            "part_of_speech": "",
+            "origin": "Greek, stereos (solid) + mikros (small) + skopein (to view)",
+            "meaning": {
+                "ko": "입체 작은 것을 보는 기구",
+                "en": "instrument for viewing small three-dimensional objects",
+                "ja": "立体顕微鏡",
+                "zh": "立体显微镜",
+                "fr": "microscope stéréoscopique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stereo-",
+                    "meaning": {
+                        "ko": "'입체의'",
+                        "en": "solid",
+                        "ja": "立体的な",
+                        "zh": "立体的",
+                        "fr": "solide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "microscope",
+                    "meaning": {
+                        "ko": "'현미경'",
+                        "en": "optical magnifying instrument",
+                        "ja": "顕微鏡",
+                        "zh": "显微镜",
+                        "fr": "microscope"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개의 접안렌즈를 사용하여 물체를 입체적으로 볼 수 있는' 현미경인 '실체 현미경'을 뜻합니다.",
+                "en": "A stereomicroscope, also called a dissecting microscope, uses two eyepieces to provide a three-dimensional view of specimens for detailed examination.",
+                "ja": "ステレオ顕微鏡は2つの接眼レンズを使用して立体的な観察ができる顕微鏡です。",
+                "zh": "立体显微镜使用两个目镜提供立体的观察视图。",
+                "fr": "Le microscope stéréoscopique utilise deux oculaires pour fournir une vue tridimensionnelle."
+            },
+            "example": "A stereomicroscope provides a three-dimensional view of the specimen.",
+            "translation": {
+                "ko": "실체 현미경은 표본의 3차원적인 모습을 제공한다.",
+                "ja": "立体顕微鏡",
+                "zh": "立体显微镜",
+                "fr": "microscope stéréoscopique"
+            }
+        },
+        {
+            "word": "stereophonic",
+            "part_of_speech": "",
+            "origin": "Greek, stereos (solid) + phone (sound)",
+            "meaning": {
+                "ko": "입체 소리",
+                "en": "three-dimensional sound",
+                "ja": "立体音響",
+                "zh": "立体声音",
+                "fr": "stéréophonique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stereo-",
+                    "meaning": {
+                        "ko": "'입체의'",
+                        "en": "solid",
+                        "ja": "立体的",
+                        "zh": "立体的",
+                        "fr": "solide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phonic",
+                    "meaning": {
+                        "ko": "'소리의'",
+                        "en": "of sound",
+                        "ja": "音声の",
+                        "zh": "声音的",
+                        "fr": "du son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개 이상의 스피커를 사용하여 소리를 입체적으로 들리게 하는' 방식인 '스테레오의'라는 뜻입니다.",
+                "en": "A method of sound reproduction using two or more speakers to create a three-dimensional audio effect, meaning stereo",
+                "ja": "2つ以上のスピーカーを使用して、音を立体的に聞こえさせる方式で、ステレオという意味です",
+                "zh": "使用两个或多个扬声器来创建立体声效果的音频再现方式，即立体声的含义",
+                "fr": "Méthode de reproduction du son utilisant deux ou plusieurs haut-parleurs pour créer un effet audio tridimensionnel, signifiant stéréo"
+            },
+            "example": "The movie has a stereophonic soundtrack.",
+            "translation": {
+                "ko": "그 영화는 입체 음향 사운드트랙을 가지고 있다.",
+                "ja": "その映画は立体音響のサウンドトラックを持っている",
+                "zh": "这部电影有立体声音轨",
+                "fr": "Le film a une bande sonore stéréophonique"
+            }
+        },
+        {
+            "word": "stereoscopic",
+            "part_of_speech": "",
+            "origin": "Greek, stereos (solid) + skopein (to view)",
+            "meaning": {
+                "ko": "입체를 보는",
+                "en": "viewing three-dimensional images",
+                "ja": "立体を見る",
+                "zh": "立体视觉",
+                "fr": "vision en relief"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stereo-",
+                    "meaning": {
+                        "ko": "'입체의'",
+                        "en": "solid",
+                        "ja": "立体の",
+                        "zh": "立体的",
+                        "fr": "solide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scopic",
+                    "meaning": {
+                        "ko": "'보는'",
+                        "en": "viewing or seeing",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 눈의 시차를 이용하여 이미지를 입체적으로 보이게 하는'이라는 뜻입니다.",
+                "en": "Uses parallax between both eyes to make images appear three-dimensional",
+                "ja": "両眼の視差を利用して画像を立体的に見える",
+                "zh": "利用双眼视差使图像呈现立体效果",
+                "fr": "Utilise la parallaxe binoculaire pour percevoir la profondeur"
+            },
+            "example": "Stereoscopic vision allows us to perceive depth.",
+            "translation": {
+                "ko": "입체시는 우리가 깊이를 인지할 수 있게 해준다.",
+                "ja": "立体視覚",
+                "zh": "立体镜像",
+                "fr": "stéréoscopie"
+            }
+        }
+    ]
+}

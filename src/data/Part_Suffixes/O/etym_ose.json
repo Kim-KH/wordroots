@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "ose (sugar ending) fructose, glucose, lactose, ribose, sucrose",
+        "origin": "from glucose",
+        "meaning": {
+            "ko": "당을 나타내는 접미사",
+            "en": "sugar ending",
+            "ja": "糖を表す接尾辞",
+            "zh": "表示糖的后缀",
+            "fr": "suffixe indiquant le sucre"
+        }
+    },
+    "words": [
+        {
+            "word": "fructose",
+            "part_of_speech": "",
+            "origin": "Latin, fructus (fruit)",
+            "meaning": {
+                "ko": "과일",
+                "en": "fruit",
+                "ja": "果物の糖",
+                "zh": "水果糖",
+                "fr": "sucre de fruit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fruct-",
+                    "meaning": {
+                        "ko": "'과일'",
+                        "en": "fruit",
+                        "ja": "果物",
+                        "zh": "水果",
+                        "fr": "fruit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "'당'",
+                        "en": "sugar",
+                        "ja": "糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과일에 많이 들어있는 당'이라는 의미에서 '과당'을 뜻합니다.",
+                "en": "Fructose refers to a sugar found abundantly in fruits",
+                "ja": "果物に多く含まれている糖という意味で果糖を意味します",
+                "zh": "指大量存在于水果中的糖,因此称为果糖",
+                "fr": "Sucre abondant dans les fruits, d'où le nom de fructose"
+            },
+            "example": "Fructose is sweeter than glucose.",
+            "translation": {
+                "ko": "과당은 포도당보다 더 달다.",
+                "ja": "フルクトースはグルコースより甘い。",
+                "zh": "果糖比葡萄糖更甜。",
+                "fr": "Le fructose est plus sucré que le glucose."
+            }
+        },
+        {
+            "word": "glucose",
+            "part_of_speech": "",
+            "origin": "Greek, glykys (sweet)",
+            "meaning": {
+                "ko": "달콤한",
+                "en": "sweet",
+                "ja": "甘い砂糖",
+                "zh": "甜糖",
+                "fr": "sucre doux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gluc-",
+                    "meaning": {
+                        "ko": "'달콤한, 당'",
+                        "en": "sweet, sugar",
+                        "ja": "甘い、砂糖",
+                        "zh": "甜、糖",
+                        "fr": "doux, sucre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "'당'",
+                        "en": "sugar",
+                        "ja": "糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'달콤한 맛이 나는 당'이라는 의미에서 '포도당'을 뜻합니다.",
+                "en": "Glucose means grape sugar from the meaning of 'sweet-tasting sugar'",
+                "ja": "甘い味がする砂糖という意味からぶどう糖を意味する",
+                "zh": "从甜味糖的含义指葡萄糖",
+                "fr": "Glucose signifie sucre de raisin du sens de 'sucre au goût sucré'"
+            },
+            "example": "Glucose is a simple sugar that is an important energy source for living organisms.",
+            "translation": {
+                "ko": "포도당은 살아있는 유기체의 중요한 에너지원인 단당류이다.",
+                "ja": "ブドウ糖は生物の重要なエネルギー源である単糖です。",
+                "zh": "葡萄糖是生物的重要能量来源的单糖。",
+                "fr": "Le glucose est un sucre simple qui est une source d'énergie importante pour les organismes vivants."
+            }
+        },
+        {
+            "word": "lactose",
+            "part_of_speech": "",
+            "origin": "Latin, lac (milk)",
+            "meaning": {
+                "ko": "우유",
+                "en": "milk",
+                "ja": "乳糖",
+                "zh": "乳糖",
+                "fr": "lactose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lact-",
+                    "meaning": {
+                        "ko": "'젖'",
+                        "en": "milk",
+                        "ja": "乳",
+                        "zh": "乳",
+                        "fr": "lait"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "'당'",
+                        "en": "sugar",
+                        "ja": "糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'젖에 포함된 당'이라는 의미에서 '유당', '젖당'을 뜻합니다.",
+                "en": "Lactose is the sugar found in milk",
+                "ja": "乳に含まれる糖という意味で、乳糖を意味します",
+                "zh": "由于乳中所含的糖而得名，意为乳糖",
+                "fr": "Le sucre contenu dans le lait, signifiant lactose"
+            },
+            "example": "Lactose is the sugar found in milk.",
+            "translation": {
+                "ko": "유당은 우유에서 발견되는 당이다.",
+                "ja": "乳糖は牛乳に含まれる糖です。",
+                "zh": "乳糖是牛乳中所含的糖。",
+                "fr": "Le lactose est le sucre trouvé dans le lait."
+            }
+        },
+        {
+            "word": "ribose",
+            "part_of_speech": "",
+            "origin": "from gum arabic",
+            "meaning": {
+                "ko": "아라비아 고무에서 유래",
+                "en": "derived from gum arabic",
+                "ja": "アラビアガムに由来",
+                "zh": "源自阿拉伯胶",
+                "fr": "dérivé de gomme arabique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rib-",
+                    "meaning": {
+                        "ko": "'리보스'",
+                        "en": "ribose",
+                        "ja": "リボース",
+                        "zh": "核糖",
+                        "fr": "ribose"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "'당'",
+                        "en": "sugar",
+                        "ja": "糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "RNA를 구성하는 중요한 5탄당입니다.",
+                "en": "Ribose is a key component of RNA.",
+                "ja": "RNAを構成する重要な5炭糖です",
+                "zh": "是构成RNA的重要五碳糖",
+                "fr": "C'est un pentose important qui compose l'ARN"
+            },
+            "example": "Ribose is a key component of RNA.",
+            "translation": {
+                "ko": "리보스는 RNA의 핵심 구성 요소이다.",
+                "ja": "リボースはRNAの重要な成分です",
+                "zh": "核糖是RNA的关键成分",
+                "fr": "Le ribose est un composant clé de l'ARN"
+            }
+        },
+        {
+            "word": "sucrose",
+            "part_of_speech": "",
+            "origin": "French, sucre (sugar)",
+            "meaning": {
+                "ko": "설탕",
+                "en": "sugar",
+                "ja": "砂糖",
+                "zh": "蔗糖",
+                "fr": "sucre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sucr-",
+                    "meaning": {
+                        "ko": "'설탕'",
+                        "en": "sugar",
+                        "ja": "砂糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "'당'",
+                        "en": "sugar",
+                        "ja": "糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "포도당과 과당이 결합된 '자당', 즉 일반적인 '설탕'을 뜻합니다.",
+                "en": "Sucrose is a disaccharide composed of glucose and fructose, commonly known as table sugar.",
+                "ja": "ブドウ糖と果糖が結合した二糖類で、一般的な砂糖を意味します。",
+                "zh": "葡萄糖和果糖结合的二糖，即普通的砂糖。",
+                "fr": "Disaccharide composé de glucose et de fructose, communément appelé sucre de table."
+            },
+            "example": "Sucrose is commonly known as table sugar.",
+            "translation": {
+                "ko": "자당은 일반적으로 설탕으로 알려져 있다.",
+                "ja": "ショ糖は一般的にテーブルシュガーとして知られています。",
+                "zh": "蔗糖通常被称为食用糖。",
+                "fr": "Le sucrose est communément connu sous le nom de sucre de table."
+            }
+        }
+    ]
+}

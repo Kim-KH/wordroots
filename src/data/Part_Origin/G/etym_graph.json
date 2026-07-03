@@ -1,0 +1,276 @@
+{
+    "root_info": {
+        "roots": "graph, gram",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "쓰다",
+            "en": "to write",
+            "ja": "書く",
+            "zh": "写",
+            "fr": "écrire"
+        }
+    },
+    "words": [
+        {
+            "word": "polygraph",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "poly",
+                    "meaning": {
+                        "ko": "많은",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "기록",
+                        "en": "writing",
+                        "ja": "記録",
+                        "zh": "记录",
+                        "fr": "écriture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'많은 생리적 변화를 기록하는 장치'라는 의미에서 '거짓말 탐지기'를 뜻합니다.",
+                "en": "A device that records many physiological changes; used to mean 'lie detector'",
+                "ja": "多くの生理的変化を記録する装置という意味から、『嘘発見器』を意味します",
+                "zh": "从'记录许多生理变化的装置'的意思引申为'测谎仪'",
+                "fr": "Appareil enregistrant de nombreux changements physiologiques; désigne un détecteur de mensonges"
+            },
+            "example": "He agreed to take a polygraph test.",
+            "translation": {
+                "ko": "그는 거짓말 탐지기 테스트를 받기로 동의했다.",
+                "ja": "彼は嘘発見器テストを受けることに同意した。",
+                "zh": "他同意进行测谎仪检测。",
+                "fr": "Il a accepté de se soumettre à un test au polygraphe."
+            }
+        },
+        {
+            "word": "grammar",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gramm",
+                    "meaning": {
+                        "ko": "글자, 쓰기",
+                        "en": "letter, writing",
+                        "ja": "文字、書く",
+                        "zh": "字母、书写",
+                        "fr": "lettre, écriture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'글자를 올바르게 쓰는 기술'이라는 의미에서 '문법'을 뜻합니다.",
+                "en": "From the meaning 'the technique of writing letters correctly', it signifies 'grammar'.",
+                "ja": "文字を正しく書く技術という意味から、文法を意味します。",
+                "zh": "从正确书写字母的技术这一含义引申出文法的意思。",
+                "fr": "Du sens de la technique d'écrire les lettres correctement, il signifie la grammaire."
+            },
+            "example": "You need to improve your grammar.",
+            "translation": {
+                "ko": "당신은 문법을 향상시킬 필요가 있다.",
+                "ja": "あなたは文法を改善する必要があります。",
+                "zh": "你需要改进你的语法。",
+                "fr": "Vous devez améliorer votre grammaire."
+            }
+        },
+        {
+            "word": "biography",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio",
+                    "meaning": {
+                        "ko": "삶",
+                        "en": "life",
+                        "ja": "人生",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-graphy",
+                    "meaning": {
+                        "ko": "쓴 글",
+                        "en": "writing",
+                        "ja": "文章",
+                        "zh": "文字",
+                        "fr": "écriture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 사람의 삶에 대해 쓴 글' 즉, '전기(傳記)'를 의미합니다.",
+                "en": "A written account of a person's life",
+                "ja": "ある人物の人生について書かれた文章、つまり伝記を意味します。",
+                "zh": "一个人生活的书面记录，即传记。",
+                "fr": "Un récit écrit sur la vie d'une personne, c'est-à-dire une biographie."
+            },
+            "example": "He wrote a biography of Einstein.",
+            "translation": {
+                "ko": "그는 아인슈타인의 전기를 썼다.",
+                "ja": "彼はアインシュタインの伝記を書いた。",
+                "zh": "他写了爱因斯坦的传记。",
+                "fr": "Il a écrit une biographie d'Einstein."
+            }
+        },
+        {
+            "word": "graphite",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "쓰다",
+                        "en": "to write",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'글씨를 쓰는 데 사용되는 광물'이라는 의미에서 '흑연'을 뜻합니다. 연필심의 재료입니다.",
+                "en": "A mineral used for writing, the material in pencil lead.",
+                "ja": "文字を書くのに使われる鉱物という意味で、鉛筆の芯の素材です。",
+                "zh": "意为用于书写的矿物，是铅笔芯的材料。",
+                "fr": "Minéral utilisé pour l'écriture, constituant de la mine de crayon."
+            },
+            "example": "The pencil lead is made of graphite.",
+            "translation": {
+                "ko": "그 연필심은 흑연으로 만들어졌다.",
+                "ja": "その鉛筆の芯は黒鉛でできている。",
+                "zh": "那支铅笔的芯是由石墨制成的。",
+                "fr": "La mine de ce crayon est faite de graphite."
+            }
+        },
+        {
+            "word": "telegram",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tele",
+                    "meaning": {
+                        "ko": "멀리",
+                        "en": "far",
+                        "ja": "遠く",
+                        "zh": "远",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "쓰인 것",
+                        "en": "written",
+                        "ja": "書かれたもの",
+                        "zh": "书写的东西",
+                        "fr": "chose écrite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 보내기 위해 쓴 글'이라는 의미에서 '전보'를 뜻합니다.",
+                "en": "A message sent over long distances using written text, meaning 'telegram'",
+                "ja": "遠くに送るために書かれた文字という意味から、電報を指します",
+                "zh": "从为了发送到远处而书写的文字这一含义引申为电报",
+                "fr": "Signifie 'télégraphe' à partir du sens de texte écrit envoyé sur de longues distances"
+            },
+            "example": "They sent a telegram to announce the birth.",
+            "translation": {
+                "ko": "그들은 출생을 알리기 위해 전보를 보냈다.",
+                "ja": "電報",
+                "zh": "电报",
+                "fr": "télégraphe"
+            }
+        },
+        {
+            "word": "autograph",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "auto",
+                    "meaning": {
+                        "ko": "자신",
+                        "en": "self",
+                        "ja": "自分自身",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "쓴 것",
+                        "en": "writing",
+                        "ja": "書いたもの",
+                        "zh": "书写的东西",
+                        "fr": "écriture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자기 자신이 직접 쓴 것'이라는 의미에서 유명인의 '사인'이나 '자필 서명'을 뜻합니다.",
+                "en": "From the meaning 'something written by oneself,' it refers to a famous person's signature or handwritten autograph.",
+                "ja": "「自分自身が直接書いたもの」という意味から、有名人の「署名」や「直筆サイン」を意味します。",
+                "zh": "从「自己亲手写的东西」的含义衍生，指名人的「签名」或「亲笔签署」。",
+                "fr": "Du sens « quelque chose écrit de sa propre main », il désigne la signature ou l'autographe d'une personne célèbre."
+            },
+            "example": "I got the singer's autograph.",
+            "translation": {
+                "ko": "나는 그 가수의 사인을 받았다.",
+                "ja": "私はその歌手のサインをもらった。",
+                "zh": "我得到了那位歌手的签名。",
+                "fr": "J'ai obtenu l'autographe du chanteur."
+            }
+        },
+        {
+            "word": "graphic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "그리다, 쓰다",
+                        "en": "to draw, write",
+                        "ja": "描く、書く",
+                        "zh": "绘画、书写",
+                        "fr": "dessiner, écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'그림이나 글씨처럼 생생한'이라는 의미에서 '생생한', '그림의', '도표의'라는 뜻이 되었습니다.",
+                "en": "From the sense of 'vivid like drawings or writing,' it came to mean 'vivid,' 'of drawing,' or 'of diagrams.'",
+                "ja": "「絵や文字のように生き生きしている」という意味から、「生き生きしている」「絵の」「図表の」という意味になりました。",
+                "zh": "从「像图画或文字一样栩栩如生」的含义，演变为「生动的」「绘画的」「图表的」之意。",
+                "fr": "Du sens de « vivide comme un dessin ou une écriture », il a pris les significations « vivide », « de dessin » ou « de diagramme »."
+            },
+            "example": "The report included several graphic charts.",
+            "translation": {
+                "ko": "그 보고서에는 몇 개의 도표가 포함되어 있었다.",
+                "ja": "そのレポートには、いくつかの図表が含まれていました。",
+                "zh": "该报告包含了几个图表。",
+                "fr": "Le rapport incluait plusieurs diagrammes."
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "neur(o) (nerve) neurology, neuron, neurotransmitter",
+        "origin": "Greek, neuron (nerve, sinew)",
+        "meaning": {
+            "ko": "신경",
+            "en": "nerve",
+            "ja": "神経",
+            "zh": "神经",
+            "fr": "nerf"
+        }
+    },
+    "words": [
+        {
+            "word": "neurology",
+            "part_of_speech": "",
+            "origin": "Greek, neuron (nerve) + logos (study)",
+            "meaning": {
+                "ko": "신경 연구",
+                "en": "study of nerves",
+                "ja": "神経学",
+                "zh": "神经学",
+                "fr": "neurologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neuro-",
+                    "meaning": {
+                        "ko": "'신경'",
+                        "en": "nerve",
+                        "ja": "神経",
+                        "zh": "神经",
+                        "fr": "nerf"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신경계와 그 질병을 연구하는 의학 분야'인 '신경학'을 뜻합니다.",
+                "en": "A medical field studying the nervous system and its diseases",
+                "ja": "神経系とその病気を研究する医学分野",
+                "zh": "研究神经系统及其疾病的医学领域",
+                "fr": "Domaine médical étudiant le système nerveux et ses maladies"
+            },
+            "example": "He is a specialist in neurology.",
+            "translation": {
+                "ko": "그는 신경학 전문의이다.",
+                "ja": "彼は神経学の専門家です。",
+                "zh": "他是神经学专家。",
+                "fr": "Il est un spécialiste en neurologie."
+            }
+        },
+        {
+            "word": "neuron",
+            "part_of_speech": "",
+            "origin": "Greek, neuron (nerve)",
+            "meaning": {
+                "ko": "신경",
+                "en": "nerve",
+                "ja": "神経細胞",
+                "zh": "神经细胞",
+                "fr": "cellule nerveuse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neur-",
+                    "meaning": {
+                        "ko": "'신경'",
+                        "en": "nerve",
+                        "ja": "神経",
+                        "zh": "神经",
+                        "fr": "nerf"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신경계를 이루는 기본 단위'인 '뉴런', '신경 세포'를 뜻합니다.",
+                "en": "A neuron is the basic unit that makes up the nervous system, meaning a nerve cell.",
+                "ja": "ニューロンは神経系を構成する基本単位である神経細胞を意味します。",
+                "zh": "神经元是构成神经系统的基本单位，意为神经细胞。",
+                "fr": "Un neurone est l'unité fondamentale constituant le système nerveux, signifiant une cellule nerveuse."
+            },
+            "example": "Neurons transmit signals throughout the body.",
+            "translation": {
+                "ko": "뉴런은 몸 전체에 신호를 전달한다.",
+                "ja": "ニューロンは全身に信号を伝達します。",
+                "zh": "神经元在全身传递信号。",
+                "fr": "Les neurones transmettent des signaux dans tout le corps."
+            }
+        },
+        {
+            "word": "neurotransmitter",
+            "part_of_speech": "",
+            "origin": "Greek, neuron (nerve) + English, transmitter",
+            "meaning": {
+                "ko": "신경 전달 물질",
+                "en": "chemical messenger in nervous system",
+                "ja": "神経伝達物質",
+                "zh": "神经递质",
+                "fr": "neurotransmetteur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neuro-",
+                    "meaning": {
+                        "ko": "'신경'",
+                        "en": "nerve",
+                        "ja": "神経",
+                        "zh": "神经",
+                        "fr": "nerf"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "transmitter",
+                    "meaning": {
+                        "ko": "'전달 물질'",
+                        "en": "conveying substance",
+                        "ja": "伝達物質",
+                        "zh": "传递物质",
+                        "fr": "substance de transmission"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신경 세포 사이에서 신호를 전달하는 화학 물질'인 '신경 전달 물질'을 뜻합니다.",
+                "en": "A chemical substance that transmits signals between nerve cells",
+                "ja": "神経細胞間でシグナルを伝達する化学物質",
+                "zh": "在神经细胞之间传递信号的化学物质",
+                "fr": "Une substance chimique qui transmet les signaux entre les cellules nerveuses"
+            },
+            "example": "Serotonin is a neurotransmitter that affects mood.",
+            "translation": {
+                "ko": "세로토닌은 기분에 영향을 미치는 신경 전달 물질이다.",
+                "ja": "セロトニンは気分に影響する神経伝達物質です",
+                "zh": "血清素是影响情绪的神经递质",
+                "fr": "La sérotonine est un neurotransmetteur qui affecte l'humeur"
+            }
+        }
+    ]
+}

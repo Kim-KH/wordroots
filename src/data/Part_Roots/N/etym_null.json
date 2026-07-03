@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "null (none) null, nullify",
+        "origin": "Latin, nullus (not any, none)",
+        "meaning": {
+            "ko": "아무것도 아닌",
+            "en": "none",
+            "ja": "何もない",
+            "zh": "无",
+            "fr": "aucun"
+        }
+    },
+    "words": [
+        {
+            "word": "null",
+            "part_of_speech": "",
+            "origin": "Latin, nullus (none)",
+            "meaning": {
+                "ko": "아무것도 아닌",
+                "en": "nothing at all",
+                "ja": "無効な",
+                "zh": "无效的",
+                "fr": "nul"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "null-",
+                    "meaning": {
+                        "ko": "'아무것도 아닌'",
+                        "en": "none",
+                        "ja": "無効な",
+                        "zh": "无效的",
+                        "fr": "nul"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아무런 법적 효력이 없는'이라는 의미에서 '무효의'라는 뜻입니다.",
+                "en": "Means invalid or without legal effect",
+                "ja": "法的効力がないという意味で無効",
+                "zh": "没有法律效力的意思",
+                "fr": "Sans effet juridique valide"
+            },
+            "example": "The contract was declared null and void.",
+            "translation": {
+                "ko": "그 계약은 무효로 선언되었다.",
+                "ja": "その契約は無効と宣言された。",
+                "zh": "该合同被宣布无效。",
+                "fr": "Le contrat a été déclaré nul."
+            }
+        },
+        {
+            "word": "nullify",
+            "part_of_speech": "",
+            "origin": "Latin, nullificare (to make nothing)",
+            "meaning": {
+                "ko": "아무것도 아니게 만들다",
+                "en": "to make nothing",
+                "ja": "無効にする",
+                "zh": "使无效",
+                "fr": "annuler"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "null-",
+                    "meaning": {
+                        "ko": "'아무것도 아닌'",
+                        "en": "none",
+                        "ja": "無の",
+                        "zh": "无的",
+                        "fr": "nul"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아무것도 아닌 것으로 만들다'는 의미에서 '무효화하다'라는 뜻입니다.",
+                "en": "From Latin nullus meaning 'none' + -ify meaning 'to make'. Literally 'to make none' or 'to make void', meaning to invalidate or cancel.",
+                "ja": "ラテン語の'nullus'(何もない)と'-ify'(~にする)から。文字通りには'何もない状態にする'という意味で、無効化することを表します。",
+                "zh": "来自拉丁语'nullus'(无)+'-ify'(使~)。字面意思是'使其无效'或'使其作废',表示使某物失效。",
+                "fr": "Du latin 'nullus' (aucun) + '-ify' (rendre). Littéralement 'rendre nul' ou 'rendre vide', signifiant invalider ou annuler."
+            },
+            "example": "The new law will nullify the old one.",
+            "translation": {
+                "ko": "새 법은 기존 법을 무효화할 것이다.",
+                "ja": "新しい法律は古い法律を無効にするでしょう。",
+                "zh": "新法律将使旧法律失效。",
+                "fr": "La nouvelle loi annulera l'ancienne."
+            }
+        }
+    ]
+}

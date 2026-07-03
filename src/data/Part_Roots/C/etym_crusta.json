@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "crusta (shell) crustacean, crusty",
+        "origin": "Latin, crusta (shell, crust, rind)",
+        "meaning": {
+            "ko": "껍질",
+            "en": "shell, crust",
+            "ja": "殻",
+            "zh": "壳",
+            "fr": "coquille, croûte"
+        }
+    },
+    "words": [
+        {
+            "word": "crustacean",
+            "part_of_speech": "",
+            "origin": "Latin, crusta (shell)",
+            "meaning": {
+                "ko": "껍질",
+                "en": "shell or crust",
+                "ja": "甲殻類",
+                "zh": "甲壳类",
+                "fr": "crustacé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crusta (crusta)",
+                    "meaning": {
+                        "ko": "'껍질'",
+                        "en": "shell",
+                        "ja": "殻",
+                        "zh": "壳",
+                        "fr": "coquille"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-cean",
+                    "meaning": {
+                        "ko": "'~에 속하는 동물'",
+                        "en": "animal belonging to",
+                        "ja": "属する動物",
+                        "zh": "所属的动物",
+                        "fr": "animal appartenant à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "딱딱한 '껍질(crusta)'을 가진 동물이라는 의미에서 게, 새우, 가재 등을 포함하는 '갑각류' 동물을 가리킵니다.",
+                "en": "Animals with hard 'shell (crusta)' including crabs, shrimp, and crayfish are called 'crustaceans'.",
+                "ja": "固い『殻(crusta)』を持つ動物でカニ、エビ、ザリガニなどを含む『甲殻類』動物を指します。",
+                "zh": "具有坚硬『壳(crusta)』的动物，包括螃蟹、虾、龙虾等『甲壳类』动物。",
+                "fr": "Les animaux ayant une 'coquille dure (crusta)' incluant crabes, crevettes et écrevisses sont appelés 'crustacés'."
+            },
+            "example": "Lobsters and crabs are both crustaceans.",
+            "translation": {
+                "ko": "바닷가재와 게는 둘 다 갑각류이다.",
+                "ja": "ロブスターとカニの両方は甲殻類です。",
+                "zh": "龙虾和螃蟹都是甲壳类。",
+                "fr": "Les homards et les crabes sont tous deux des crustacés."
+            }
+        },
+        {
+            "word": "crusty",
+            "part_of_speech": "",
+            "origin": "Latin, crusta (crust)",
+            "meaning": {
+                "ko": "껍질",
+                "en": "crust or hard outer layer",
+                "ja": "硬い皮を持つ",
+                "zh": "有硬皮的",
+                "fr": "ayant une croûte dure"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crust (crusta)",
+                    "meaning": {
+                        "ko": "'껍질'",
+                        "en": "crust",
+                        "ja": "硬い皮",
+                        "zh": "硬皮",
+                        "fr": "croûte dure"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-y",
+                    "meaning": {
+                        "ko": "'~을 가진'",
+                        "en": "having or full of",
+                        "ja": "~を持つ",
+                        "zh": "具有~",
+                        "fr": "ayant~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'딱딱한 껍질(crust)을 가진'이라는 의미로, 빵 등이 '바삭바삭한'이라는 뜻과, 성격이 '퉁명스러운'이라는 비유적인 뜻으로 쓰입니다.",
+                "en": "Means having a hard crust; used literally for bread's crispy texture and figuratively for gruff personality",
+                "ja": "硬い皮を持つことを意味し、パンなどの『パリパリした』という文字通りの意味と、性格が『ぶっきらぼうな』という比喩的な意味で使われます",
+                "zh": "意为具有硬皮，用于面包等的『酥脆的』字面意思，以及性格『生硬的』的比喻意思",
+                "fr": "Signifie avoir une croûte dure; utilisé littéralement pour la texture croustillante du pain et au sens figuré pour une personnalité bourrue"
+            },
+            "example": "I love the smell of crusty bread fresh from the oven.",
+            "translation": {
+                "ko": "나는 오븐에서 갓 나온 바삭한 빵 냄새를 아주 좋아한다.",
+                "ja": "焼きたてのパンの香りが大好きです。",
+                "zh": "我喜欢烤面包的香脆味道。",
+                "fr": "J'aime l'odeur du pain croustillant frais du four."
+            }
+        }
+    ]
+}

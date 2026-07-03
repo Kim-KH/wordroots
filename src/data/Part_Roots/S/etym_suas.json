@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "suas (to advise, agree) assuasive, dissuade, persuade, suave",
+        "origin": "Latin, suadere (to advise, to urge)",
+        "meaning": {
+            "ko": "조언하다",
+            "en": "to advise",
+            "ja": "助言する",
+            "zh": "建议",
+            "fr": "conseiller"
+        }
+    },
+    "words": [
+        {
+            "word": "assuasive",
+            "part_of_speech": "",
+            "origin": "Latin, ad- (to) + suavis (sweet)",
+            "meaning": {
+                "ko": "달콤하게 하다",
+                "en": "to make sweet",
+                "ja": "なだめる、和らげる",
+                "zh": "安抚、缓和",
+                "fr": "apaiser, adoucir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "as- (ad-)",
+                    "meaning": {
+                        "ko": "'~으로'",
+                        "en": "to",
+                        "ja": "へ、に",
+                        "zh": "向、到",
+                        "fr": "vers, à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suas- (suavis)",
+                    "meaning": {
+                        "ko": "'달콤한'",
+                        "en": "sweet",
+                        "ja": "甘い",
+                        "zh": "甜的",
+                        "fr": "doux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기분을 달콤하게 만들다'는 의미에서 '달래는', '완화하는'이라는 뜻입니다.",
+                "en": "Means to soothe or calm someone's feelings, bringing comfort and relief",
+                "ja": "気持ちをなだめて、心地よくさせるという意味で、『なだめる』『緩和する』という意味です",
+                "zh": "意为安慰或平复某人的情绪，带来舒适和救济",
+                "fr": "Signifie réconforter ou calmer les sentiments de quelqu'un, apportant du confort et du soulagement"
+            },
+            "example": "He spoke in a gentle, assuasive tone.",
+            "translation": {
+                "ko": "그는 부드럽고 달래는 듯한 어조로 말했다.",
+                "ja": "彼は優しく、なだめるような口調で話した。",
+                "zh": "他用温柔、安抚的语气说话。",
+                "fr": "Il parlait d'un ton doux et apaisant."
+            }
+        },
+        {
+            "word": "dissuade",
+            "part_of_speech": "",
+            "origin": "Latin, dissuadere (to advise against)",
+            "meaning": {
+                "ko": "반대하여 조언하다",
+                "en": "to advise against",
+                "ja": "やめるよう勧める",
+                "zh": "劝阻",
+                "fr": "dissuader"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "'반대하여'",
+                        "en": "away from",
+                        "ja": "離れる",
+                        "zh": "远离",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suade",
+                    "meaning": {
+                        "ko": "'조언하다'",
+                        "en": "to advise",
+                        "ja": "助言する",
+                        "zh": "劝告",
+                        "fr": "conseiller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 일을 하지 않도록 조언하다'는 의미에서 '만류하다'라는 뜻입니다.",
+                "en": "To advise someone not to do something",
+                "ja": "ある行動をしないよう勧告する意味",
+                "zh": "劝告某人不要做某事",
+                "fr": "Conseiller à quelqu'un de ne pas faire quelque chose"
+            },
+            "example": "I tried to dissuade him from leaving.",
+            "translation": {
+                "ko": "나는 그가 떠나지 않도록 만류하려고 노력했다.",
+                "ja": "彼が去るのを思いとどまらせようとした",
+                "zh": "我试图劝阻他离开",
+                "fr": "J'ai essayé de le dissuader de partir"
+            }
+        },
+        {
+            "word": "persuade",
+            "part_of_speech": "",
+            "origin": "Latin, persuadere (to convince)",
+            "meaning": {
+                "ko": "완전히 조언하다",
+                "en": "to advise completely",
+                "ja": "完全に助言する",
+                "zh": "完全劝告",
+                "fr": "conseiller complètement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "'완전히'",
+                        "en": "thoroughly",
+                        "ja": "完全に",
+                        "zh": "完全地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suade",
+                    "meaning": {
+                        "ko": "'조언하다'",
+                        "en": "to advise",
+                        "ja": "助言する",
+                        "zh": "劝告",
+                        "fr": "conseiller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 이해하도록 조언하다'는 의미에서 '설득하다'라는 뜻입니다.",
+                "en": "Means to advise someone to fully understand, hence persuade",
+                "ja": "完全に理解させるよう助言することから説得するという意味",
+                "zh": "完全理解劝告的意思，因此是说服",
+                "fr": "Signifie conseiller pour comprendre complètement, d'où persuader"
+            },
+            "example": "He persuaded me to join the team.",
+            "translation": {
+                "ko": "그는 내가 팀에 합류하도록 설득했다.",
+                "ja": "彼は私をチームに参加するよう説得した。",
+                "zh": "他劝说我加入这个队。",
+                "fr": "Il m'a persuadé de rejoindre l'équipe."
+            }
+        },
+        {
+            "word": "suave",
+            "part_of_speech": "",
+            "origin": "Latin, suavis (sweet, agreeable)",
+            "meaning": {
+                "ko": "달콤한, 기분 좋은",
+                "en": "sweet, pleasant",
+                "ja": "洗練された、気持ちよい",
+                "zh": "圆滑的、令人愉快的",
+                "fr": "suave, agréable"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suav- (suadere)",
+                    "meaning": {
+                        "ko": "'기분 좋은'",
+                        "en": "agreeable",
+                        "ja": "快い、心地よい",
+                        "zh": "令人愉快的",
+                        "fr": "agréable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람을 기분 좋게 만드는'이라는 의미에서 '(남성이) 세련되고 점잖은'이라는 뜻입니다.",
+                "en": "From the sense of making people feel good, it means refined and dignified, typically describing men.",
+                "ja": "人を気分よくさせるという意味から、洗練され上品であるという意味へ発展しました。",
+                "zh": "从令人感到舒适的含义引申，指男性的精致和沉着的举止。",
+                "fr": "Du sens de plaire à quelqu'un, il signifie raffiné et digne, typiquement pour décrire les hommes."
+            },
+            "example": "He is a suave and sophisticated gentleman.",
+            "translation": {
+                "ko": "그는 세련되고 교양 있는 신사이다.",
+                "ja": "彼は洗練された上品な紳士だ。",
+                "zh": "他是一个圆滑而优雅的绅士。",
+                "fr": "Il est un gentleman suave et sophistiqué."
+            }
+        }
+    ]
+}

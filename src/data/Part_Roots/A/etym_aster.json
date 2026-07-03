@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "aster, astro (star) aster, asteroid, astronaut, astronomy",
+        "origin": "Greek, astēr (star)",
+        "meaning": {
+            "ko": "별",
+            "en": "star",
+            "ja": "星",
+            "zh": "星",
+            "fr": "étoile"
+        }
+    },
+    "words": [
+        {
+            "word": "aster",
+            "part_of_speech": "",
+            "origin": "Greek, astēr (star)",
+            "meaning": {
+                "ko": "별",
+                "en": "star",
+                "ja": "星",
+                "zh": "星",
+                "fr": "étoile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aster (astēr)",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "星",
+                        "fr": "étoile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "꽃잎의 모양이 '별(aster)'과 같다고 해서 붙여진 이름으로, 국화과의 꽃인 '과꽃' 또는 '아스터'를 의미합니다.",
+                "en": "Named for its star-shaped flower; a genus of flowering plants in the daisy family.",
+                "ja": "星形の花から名付けられた、キク科の花「紫苑（シオン）」または「アスター」。",
+                "zh": "因星形花朵而得名，菊科植物「紫菀」或「翠菊」。",
+                "fr": "Nommé pour sa fleur en forme d'étoile; un genre de plantes à fleurs de la famille des marguerites."
+            },
+            "example": "The garden was full of colorful asters.",
+            "translation": {
+                "ko": "정원은 형형색색의 과꽃으로 가득했다.",
+                "ja": "紫のアスターが秋に庭に咲いた。",
+                "zh": "紫色的紫菀在秋天盛开在花园里。",
+                "fr": "Des asters violets ont fleuri dans le jardin en automne."
+            }
+        },
+        {
+            "word": "asteroid",
+            "part_of_speech": "",
+            "origin": "Greek, asteroeidēs (starlike)",
+            "meaning": {
+                "ko": "별처럼 생긴",
+                "en": "starlike",
+                "ja": "星のような",
+                "zh": "星状的",
+                "fr": "ressemblant à une étoile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aster (astēr)",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "星",
+                        "fr": "étoile"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-oid",
+                    "meaning": {
+                        "ko": "'~을 닮은 것'",
+                        "en": "resembling or like",
+                        "ja": "~に似たもの",
+                        "zh": "像~的东西",
+                        "fr": "ressemblant à ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별(aster)처럼 보이는(oid)' 천체라는 의미에서, 행성보다는 작지만 우주 공간을 떠다니는 암석인 '소행성'을 뜻합니다.",
+                "en": "An asteroid is a small rocky body orbiting in space, smaller than a planet, named for its star-like appearance (aster = star, oid = resembling).",
+                "ja": "小惑星は惑星より小さい岩石天体で、星(aster)のように見える(oid)ことから、宇宙空間を漂う岩石を意味します。",
+                "zh": "小行星是比行星小的岩石天体，因其星(aster)似(oid)的外观而得名，在太空中漂浮。",
+                "fr": "Un astéroïde est un petit corps rocheux en orbite, plus petit qu'une planète, nommé pour son apparence étoilée (aster = étoile, oid = ressemblant à)."
+            },
+            "example": "An asteroid is believed to have caused the extinction of the dinosaurs.",
+            "translation": {
+                "ko": "소행성이 공룡의 멸종을 초래한 것으로 여겨진다.",
+                "ja": "小惑星は恐竜の絶滅を引き起こしたと考えられています。",
+                "zh": "据信小行星导致了恐龙的灭绝。",
+                "fr": "On croit qu'un astéroïde a causé l'extinction des dinosaures."
+            }
+        },
+        {
+            "word": "astronaut",
+            "part_of_speech": "",
+            "origin": "Greek, astron (star) + nautēs (sailor)",
+            "meaning": {
+                "ko": "별의 항해사",
+                "en": "star sailor",
+                "ja": "星の航海者",
+                "zh": "星的航海家",
+                "fr": "navigateur des étoiles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "astro (astron)",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "星",
+                        "fr": "étoile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "naut (nautēs)",
+                    "meaning": {
+                        "ko": "'항해사'",
+                        "en": "sailor",
+                        "ja": "航海者",
+                        "zh": "航海家",
+                        "fr": "navigateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별(astro) 사이를 항해하는(naut) 사람'이라는 의미로 '우주비행사'를 뜻하는 단어가 만들어졌습니다.",
+                "en": "The word 'astronaut' was created from the meaning 'a person who navigates between stars (astro) (naut)', referring to a space explorer.",
+                "ja": "'星(astro)の間を航海する(naut)人'という意味で、宇宙飛行士を意味する単語が作られました。",
+                "zh": "从'在星星(astro)之间航海的(naut)人'的含义出发，创造了表示宇航员的单词。",
+                "fr": "Le mot 'astronaute' a été créé à partir du sens 'd'une personne qui navigue entre les étoiles (astro) (naut)', désignant un explorateur spatial."
+            },
+            "example": "Neil Armstrong was the first astronaut to walk on the moon.",
+            "translation": {
+                "ko": "닐 암스트롱은 달 위를 걸은 최초의 우주비행사였다.",
+                "ja": "ニール・アームストロングは月面を歩いた最初の宇宙飛行士でした。",
+                "zh": "尼尔·阿姆斯特朗是第一个在月球上行走的宇航员。",
+                "fr": "Neil Armstrong était le premier astronaute à marcher sur la lune."
+            }
+        },
+        {
+            "word": "astronomy",
+            "part_of_speech": "",
+            "origin": "Greek, astronomia (star-arranging)",
+            "meaning": {
+                "ko": "별의 법칙",
+                "en": "law of the stars",
+                "ja": "星の法則",
+                "zh": "星的规律",
+                "fr": "loi des étoiles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "astro (astron)",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "星",
+                        "fr": "étoile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomy (nomos)",
+                    "meaning": {
+                        "ko": "'법칙, 배열'",
+                        "en": "law, arrangement",
+                        "ja": "法則、配列",
+                        "zh": "规律、排列",
+                        "fr": "loi, arrangement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별(astro)의 법칙(nomy)이나 배열을 연구하는 학문'이라는 의미에서 '천문학'을 뜻하게 되었습니다.",
+                "en": "Astronomy comes from the meaning of studying the law or arrangement of stars (astro = star, nomy = law/arrangement), which became the term for the study of celestial phenomena.",
+                "ja": "天文学は星(astro)の法則(nomy)や配列を研究する学問という意味から生まれた。",
+                "zh": "天文学来自研究星(astro)的规律(nomy)或排列的学问之意。",
+                "fr": "L'astronomie vient du sens d'étudier la loi ou l'arrangement des étoiles (astro = étoile, nomy = loi/arrangement)."
+            },
+            "example": "Astronomy is the scientific study of celestial objects and phenomena.",
+            "translation": {
+                "ko": "천문학은 천체와 우주 현상에 대한 과학적인 연구이다.",
+                "ja": "天文学",
+                "zh": "天文学",
+                "fr": "astronomie"
+            }
+        }
+    ]
+}

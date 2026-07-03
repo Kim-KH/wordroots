@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "quasi (partly, so called) quasi-intellectual, Quasimodo, quasar",
+        "origin": "Latin, quasi (as if, almost)",
+        "meaning": {
+            "ko": "마치 ~처럼, 거의",
+            "en": "as if, almost",
+            "ja": "あたかも、ほぼ",
+            "zh": "仿佛、几乎",
+            "fr": "comme si, presque"
+        }
+    },
+    "words": [
+        {
+            "word": "quasi-intellectual",
+            "part_of_speech": "",
+            "origin": "Latin, quasi (as if) + English, intellectual",
+            "meaning": {
+                "ko": "마치 지식인인 것처럼",
+                "en": "as if intellectual",
+                "ja": "似非知識人",
+                "zh": "伪知识分子",
+                "fr": "pseudo-intellectuel"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "quasi-",
+                    "meaning": {
+                        "ko": "'유사한'",
+                        "en": "resembling",
+                        "ja": "似ている",
+                        "zh": "相似的",
+                        "fr": "ressemblant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "intellectual",
+                    "meaning": {
+                        "ko": "'지식인'",
+                        "en": "intellectual person",
+                        "ja": "知識人",
+                        "zh": "知识分子",
+                        "fr": "intellectuel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지식인인 척하지만 실제로는 그렇지 않은'이라는 의미에서 '사이비 지식인'을 뜻합니다.",
+                "en": "Refers to someone who pretends to be an intellectual but is not truly one",
+                "ja": "知識人のふりをしているが、実際にはそうではない意味での偽りの知識人",
+                "zh": "指看似是知识分子，但实际上并非如此的人",
+                "fr": "Désigne quelqu'un qui prétend être un intellectuel mais ne l'est pas vraiment"
+            },
+            "example": "He's a quasi-intellectual who uses big words to sound smart.",
+            "translation": {
+                "ko": "그는 똑똑하게 들리기 위해 어려운 단어를 사용하는 사이비 지식인이다.",
+                "ja": "知識人ぶった人",
+                "zh": "装作知识分子的人",
+                "fr": "qui fait semblant d'être intellectuel"
+            }
+        },
+        {
+            "word": "Quasimodo",
+            "part_of_speech": "",
+            "origin": "Latin, quasi modo geniti infantes (like newborn babes)",
+            "meaning": {
+                "ko": "갓난아기처럼",
+                "en": "like a newborn baby",
+                "ja": "新生児のような",
+                "zh": "像新生儿一样",
+                "fr": "comme un nouveau-né"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Quasi",
+                    "meaning": {
+                        "ko": "'마치 ~처럼'",
+                        "en": "as if",
+                        "ja": "あたかも~のように",
+                        "zh": "仿佛~一样",
+                        "fr": "comme si"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "modo",
+                    "meaning": {
+                        "ko": "'방식'",
+                        "en": "manner",
+                        "ja": "方法",
+                        "zh": "方式",
+                        "fr": "manière"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "소설 '노트르담의 꼽추'의 주인공 이름으로, '마치 ~처럼'이라는 부활절 후 첫 일요일의 명칭에서 따왔습니다.",
+                "en": "Quasimodo is the protagonist of Victor Hugo's novel 'The Hunchback of Notre-Dame'. The name comes from 'Quasi modo' (Latin: 'as if'), the designation of the first Sunday after Easter.",
+                "ja": "小説『ノートルダムのせむし男』の主人公の名前で、復活祭後の最初の日曜日の名称『Quasi modo』（ラテン語：『あたかも~のように』）に由来しています。",
+                "zh": "小说《巴黎圣母院》的主人公名字，来自复活节后第一个星期日的拉丁文名称'Quasi modo'（意为'仿佛~一样'）。",
+                "fr": "Nom du protagoniste du roman 'Notre-Dame de Paris' de Victor Hugo, tiré de 'Quasi modo' (latin : 'comme si'), la désignation du dimanche suivant Pâques."
+            },
+            "example": "Quasimodo is the protagonist of Victor Hugo's novel \"The Hunchback of Notre-Dame\".",
+            "translation": {
+                "ko": "콰지모도는 빅토르 위고의 소설 \"노트르담의 꼽추\"의 주인공이다.",
+                "ja": "クワジモド",
+                "zh": "卡西莫多",
+                "fr": "Quasimodo"
+            }
+        },
+        {
+            "word": "quasar",
+            "part_of_speech": "",
+            "origin": "quasi-stellar radio source",
+            "meaning": {
+                "ko": "별과 유사한 전파원",
+                "en": "radio source resembling a star",
+                "ja": "星に似た電波源",
+                "zh": "类似恒星的无线电源",
+                "fr": "source radio semblable à une étoile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quas- (quasi-)",
+                    "meaning": {
+                        "ko": "'유사한'",
+                        "en": "resembling",
+                        "ja": "似ている",
+                        "zh": "相似的",
+                        "fr": "ressemblant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ar (star)",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "恒星",
+                        "fr": "étoile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별과 비슷하게 보이지만 실제로는 매우 멀리 있는 강력한 천체'인 '퀘이사'를 뜻합니다.",
+                "en": "A quasar refers to an extremely powerful celestial object that appears similar to a star but is actually located extremely far away.",
+                "ja": "クエーサーは星のように見えますが、実は非常に遠く離れた極めて強力な天体を意味します。",
+                "zh": "类星体看起来像星星，但实际上是位置非常遥远的极其强大的天体。",
+                "fr": "Un quasar désigne un objet céleste extrêmement puissant qui ressemble à une étoile mais qui est en réalité situé extrêmement loin."
+            },
+            "example": "A quasar is an extremely luminous active galactic nucleus.",
+            "translation": {
+                "ko": "퀘이사는 극도로 밝은 활동 은하핵이다.",
+                "ja": "クエーサー",
+                "zh": "类星体",
+                "fr": "quasar"
+            }
+        }
+    ]
+}

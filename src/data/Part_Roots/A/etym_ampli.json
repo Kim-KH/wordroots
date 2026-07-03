@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "ampli(large, increase) ample, amplify, amplitude",
+        "origin": "Latin, amplus (large, spacious)",
+        "meaning": {
+            "ko": "큰",
+            "en": "large",
+            "ja": "大きい",
+            "zh": "大",
+            "fr": "grand"
+        }
+    },
+    "words": [
+        {
+            "word": "ample",
+            "part_of_speech": "",
+            "origin": "Latin, amplus (large)",
+            "meaning": {
+                "ko": "큰",
+                "en": "large",
+                "ja": "広い、十分な",
+                "zh": "宽敞、充分的",
+                "fr": "spacieux, suffisant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ampl (amplus)",
+                    "meaning": {
+                        "ko": "'넓은, 큰'",
+                        "en": "spacious, large",
+                        "ja": "広い、大きい",
+                        "zh": "宽敞、广阔",
+                        "fr": "spacieux, vaste"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'크고 넓다'는 의미에서 공간이나 양이 '풍부한', '충분한'이라는 뜻으로 사용됩니다.",
+                "en": "From the sense of 'large and spacious', it is used to mean 'abundant' or 'sufficient' in terms of space or quantity.",
+                "ja": "'大きく広い'という意味から、空間や量が'豊富な''十分な'という意味で使用されます。",
+                "zh": "从'大而宽敞'的含义引申，用来表示空间或数量'丰富的''充分的'意思。",
+                "fr": "Du sens de 'grand et spacieux', il signifie 'abondant' ou 'suffisant' en termes d'espace ou de quantité."
+            },
+            "example": "There is ample evidence to support his claim.",
+            "translation": {
+                "ko": "그의 주장을 뒷받침할 충분한 증거가 있다.",
+                "ja": "彼の主張を裏付ける十分な証拠がある。",
+                "zh": "有充分的证据支持他的主张。",
+                "fr": "Il y a suffisamment de preuves pour soutenir son affirmation."
+            }
+        },
+        {
+            "word": "amplify",
+            "part_of_speech": "",
+            "origin": "Latin, amplificare (to enlarge)",
+            "meaning": {
+                "ko": "크게 만들다",
+                "en": "to make large",
+                "ja": "大きくする",
+                "zh": "放大",
+                "fr": "amplifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ampli (amplus)",
+                    "meaning": {
+                        "ko": "'넓은, 큰'",
+                        "en": "large",
+                        "ja": "広い、大きい",
+                        "zh": "宽阔、大",
+                        "fr": "large, ample"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~するようにする",
+                        "zh": "使得~",
+                        "fr": "faire, rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'크게(ampli) 만들다(fy)'라는 의미로, 소리나 신호를 '증폭시키다' 또는 이야기 등을 '더 상세히 설명하다'라는 뜻으로 쓰입니다.",
+                "en": "Meaning 'to make large (ampli) do (fy)', used to 'amplify' sound or signals, or to 'explain in more detail' stories etc.",
+                "ja": "'大きく(ampli)する(fy)'という意味で、音や信号を'増幅させる'または話などを'より詳しく説明する'という意味で使われます。",
+                "zh": "意思是'放大(ampli)使(fy)'，用来'放大'声音或信号，或'更详细地说明'故事等。",
+                "fr": "Signifie 'faire grand (ampli) faire (fy)', utilisé pour 'amplifier' le son ou les signaux, ou 'expliquer plus en détail' les histoires etc."
+            },
+            "example": "We need to amplify the speaker's voice so everyone can hear.",
+            "translation": {
+                "ko": "모든 사람이 들을 수 있도록 발표자의 목소리를 증폭시켜야 합니다.",
+                "ja": "スピーカーの音声を増幅する必要があります。誰もが聞こえるようにするために。",
+                "zh": "我们需要放大扬声器的声音，以便每个人都能听到。",
+                "fr": "Nous devons amplifier la voix du haut-parleur pour que tout le monde puisse entendre."
+            }
+        },
+        {
+            "word": "amplitude",
+            "part_of_speech": "",
+            "origin": "Latin, amplitudo (width, breadth)",
+            "meaning": {
+                "ko": "큼",
+                "en": "largeness",
+                "ja": "大きさ、広がり",
+                "zh": "幅度、广度",
+                "fr": "amplitude, largeur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ampl (amplus)",
+                    "meaning": {
+                        "ko": "'넓은, 큰'",
+                        "en": "large",
+                        "ja": "大きい、広い",
+                        "zh": "大、宽",
+                        "fr": "grand, large"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itude",
+                    "meaning": {
+                        "ko": "'상태, 성질'",
+                        "en": "state or quality",
+                        "ja": "状態、性質",
+                        "zh": "状态、性质",
+                        "fr": "état, qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'넓음', '큼'을 나타내는 명사로, 물리학에서는 파동의 '진폭'을 의미하며, 일반적으로는 '풍부함', '넓이'를 뜻합니다.",
+                "en": "A noun representing largeness or expansiveness. In physics, it denotes the amplitude of waves. Generally means abundance or extent.",
+                "ja": "大きさや広がりを表す名詞。物理学では波動の振幅を意味し、一般的には豊かさや範囲を示します。",
+                "zh": "表示大小或广度的名词。在物理学中指波的振幅，通常表示丰富度或范围。",
+                "fr": "Nom exprimant la grandeur ou l'étendue. En physique, désigne l'amplitude des ondes. Généralement signifie abondance ou étendue."
+            },
+            "example": "The amplitude of the sound wave determines its loudness.",
+            "translation": {
+                "ko": "음파의 진폭은 소리의 크기를 결정한다.",
+                "ja": "音波の振幅はその音量を決定します。",
+                "zh": "声波的幅度决定了其响度。",
+                "fr": "L'amplitude de l'onde sonore détermine son intensité."
+            }
+        }
+    ]
+}

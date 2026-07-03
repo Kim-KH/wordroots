@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "aper (open) aperture, apertif",
+        "origin": "Latin, aperire (to open)",
+        "meaning": {
+            "ko": "열다",
+            "en": "to open",
+            "ja": "開く",
+            "zh": "打开",
+            "fr": "ouvrir"
+        }
+    },
+    "words": [
+        {
+            "word": "aperture",
+            "part_of_speech": "",
+            "origin": "Latin, apertura (an opening)",
+            "meaning": {
+                "ko": "열린 곳",
+                "en": "an opening",
+                "ja": "開口部",
+                "zh": "开口",
+                "fr": "ouverture"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "apert (aperire)",
+                    "meaning": {
+                        "ko": "'열다'",
+                        "en": "to open",
+                        "ja": "開く",
+                        "zh": "打开",
+                        "fr": "ouvrir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "'행위, 결과'",
+                        "en": "action or result",
+                        "ja": "行為、結果",
+                        "zh": "行为、结果",
+                        "fr": "action, résultat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열린(apert) 결과물'이라는 의미로, 카메라 렌즈의 '조리개'나 벽이나 바위의 '틈' 또는 '구멍'을 뜻합니다.",
+                "en": "Refers to an opening resulting from the action of opening, such as the aperture of a camera lens, or a gap or hole in a wall or rock.",
+                "ja": "開く行為の結果として生じた開口を指し、カメラレンズの絞りや壁や岩の隙間または穴を意味します。",
+                "zh": "指由打开动作产生的开口，如相机镜头的光圈或墙壁或岩石中的缝隙或孔洞。",
+                "fr": "Désigne une ouverture résultant de l'action d'ouvrir, comme le diaphragme d'un objectif photographique ou une fissure ou un trou dans un mur ou une roche."
+            },
+            "example": "The photographer adjusted the aperture to control the amount of light.",
+            "translation": {
+                "ko": "사진사는 빛의 양을 조절하기 위해 조리개를 조정했다.",
+                "ja": "写真家は光の量を調整するために絞りを調整しました。",
+                "zh": "摄影师调整光圈来控制光线的量。",
+                "fr": "Le photographe a ajusté le diaphragme pour contrôler la quantité de lumière."
+            }
+        },
+        {
+            "word": "aperitif",
+            "part_of_speech": "",
+            "origin": "French, apéritif (opening)",
+            "meaning": {
+                "ko": "여는 것",
+                "en": "opening",
+                "ja": "開くこと",
+                "zh": "开启",
+                "fr": "ouverture"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aper (aperire)",
+                    "meaning": {
+                        "ko": "'열다'",
+                        "en": "to open",
+                        "ja": "開く",
+                        "zh": "打开",
+                        "fr": "ouvrir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itif (Latin -itivus)",
+                    "meaning": {
+                        "ko": "'~의 성질을 가진'",
+                        "en": "having the quality of",
+                        "ja": "~の性質を持つ",
+                        "zh": "具有~的性质",
+                        "fr": "ayant la nature de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "식사 전에 '입맛을 열어주는(aper)' 것이라는 의미에서 식전에 마시는 술인 '식전주(아페리티프)'를 의미합니다.",
+                "en": "A drink served before a meal to stimulate appetite, from the sense of 'opening' one's appetite",
+                "ja": "食事前に'味覚を開く'という意味で、食前に飲むカクテルやワインを指します",
+                "zh": "在进餐前饮用以促进食欲的饮品,源于'打开'食欲的含义",
+                "fr": "Boisson servie avant le repas pour stimuler l'appétit, du sens d'ouvrir l'appétit"
+            },
+            "example": "They enjoyed an aperitif before dinner.",
+            "translation": {
+                "ko": "그들은 저녁 식사 전에 식전주를 즐겼다.",
+                "ja": "食前酒",
+                "zh": "开胃酒",
+                "fr": "apéritif"
+            }
+        }
+    ]
+}

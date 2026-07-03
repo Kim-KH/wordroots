@@ -1,0 +1,351 @@
+{
+    "root_info": {
+        "roots": "circum",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "주위에",
+            "en": "around",
+            "ja": "周囲",
+            "zh": "周围",
+            "fr": "autour"
+        }
+    },
+    "words": [
+        {
+            "word": "circumnavigate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周囲に",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "navigate",
+                    "meaning": {
+                        "ko": "항해하다",
+                        "en": "to sail or travel by sea",
+                        "ja": "航海する",
+                        "zh": "航海",
+                        "fr": "naviguer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주위를 항해하다'는 의미에서, 세계를 '일주 항해하다'는 뜻입니다.",
+                "en": "From Latin circum- (around) + navigare (to sail), meaning to sail around the world.",
+                "ja": "ラテン語の「周囲に航海する」から、世界を一周航海することを意味します。",
+                "zh": "来自拉丁语，意为\"围绕...航海\"，指环绕地球航海。",
+                "fr": "Du latin circum- (autour) et navigare (naviguer), signifiant faire le tour du monde en bateau."
+            },
+            "example": "Magellan's crew was the first to circumnavigate the globe.",
+            "translation": {
+                "ko": "마젤란의 선원들은 최초로 세계를 일주 항해했다.",
+                "ja": "マゼランの乗組員たちは、最初に地球を一周航海した。",
+                "zh": "麦哲伦的船员是第一批环绕地球航海的人。",
+                "fr": "L'équipage de Magellan a été le premier à circumnaviguer le globe."
+            }
+        },
+        {
+            "word": "circumflex",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에, 구부러진",
+                        "en": "around",
+                        "ja": "周囲に",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flex",
+                    "meaning": {
+                        "ko": "구부리다",
+                        "en": "to bend",
+                        "ja": "曲げる",
+                        "zh": "弯曲",
+                        "fr": "courber"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'구부러진' 모양이라는 의미에서, 발음 기호의 '곡절 부호(^)'를 뜻합니다.",
+                "en": "From its curved shape, it refers to the accent mark (^) used in pronunciation notation.",
+                "ja": "曲がった形状から、発音表記で使用されるアクセント記号(^)を指します。",
+                "zh": "从其弯曲的形状来看，指的是在发音标记中使用的重音符号(^)。",
+                "fr": "De sa forme courbe, il désigne le signe diacritique (^) utilisé dans la notation de la prononciation."
+            },
+            "example": "The word \"rôle\" has a circumflex.",
+            "translation": {
+                "ko": "\"rôle\"이라는 단어에는 곡절 부호가 있다.",
+                "ja": "サーカムフレックス、曲折アクセント記号",
+                "zh": "抑扬符、曲折重音符",
+                "fr": "accent circonflexe"
+            }
+        },
+        {
+            "word": "circumstance",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周囲に",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stance",
+                    "meaning": {
+                        "ko": "서 있는 것",
+                        "en": "standing or being positioned",
+                        "ja": "立っているもの",
+                        "zh": "站立的事物",
+                        "fr": "choses qui se tiennent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주위에 서 있는 것들'이라는 의미에서, 어떤 일이 일어날 때의 '상황', '환경'을 뜻합니다.",
+                "en": "From 'things standing around,' meaning the situation or environment in which something occurs.",
+                "ja": "「周囲に立っているもの」という意味から、ある出来事が起こる時の「状況」「環境」を意味します。",
+                "zh": "从\"周围站立的事物\"的意思衍生出来，指某件事发生时的\"情况\"、\"环境\"。",
+                "fr": "Du sens de 'choses qui se tiennent autour', désignant la 'situation' ou 'l'environnement' dans lequel quelque chose se produit."
+            },
+            "example": "Under the circumstances, we cannot help you.",
+            "translation": {
+                "ko": "이 상황에서는, 저희가 당신을 도울 수 없습니다.",
+                "ja": "この状況では、私たちはあなたを助けることができません。",
+                "zh": "在这种情况下，我们无法帮助你。",
+                "fr": "Dans ces circonstances, nous ne pouvons pas vous aider."
+            }
+        },
+        {
+            "word": "circumference",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周りに",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "运送",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "중심 '주위를 두르며 가는' 선의 길이라는 의미에서 '원주', '둘레'를 뜻합니다.",
+                "en": "From the meaning of 'the length of a line going around the center', meaning 'circumference' or 'perimeter'.",
+                "ja": "中心の「周りを取り巻く線」の長さという意味から、「円周」「周囲」を意味します。",
+                "zh": "从'围绕中心的线的长度'的含义引申，表示'周长'或'周围'。",
+                "fr": "Du sens de 'la longueur d'une ligne qui entoure le centre', signifiant 'circonférence' ou 'périmètre'."
+            },
+            "example": "What is the circumference of the Earth?",
+            "translation": {
+                "ko": "지구의 둘레는 얼마인가요?",
+                "ja": "地球の周囲はどのくらいですか？",
+                "zh": "地球的周长是多少？",
+                "fr": "Quelle est la circonférence de la Terre ?"
+            }
+        },
+        {
+            "word": "circumlocution",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周りに",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "locut",
+                    "meaning": {
+                        "ko": "말하기",
+                        "en": "speaking",
+                        "ja": "話すこと",
+                        "zh": "说话",
+                        "fr": "parler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빙 둘러서 말하는 것'이라는 의미에서 '완곡한 표현', '에둘러 말하기'를 뜻합니다.",
+                "en": "Meaning indirect or evasive speech; using many words to avoid directly stating something",
+                "ja": "周りを迂回して話すことから、遠回しな表現、回りくどい言い方を意味します",
+                "zh": "从绕过周围说话的含义来看，指婉转的表达、拐弯抹角的说法",
+                "fr": "Du sens de parler autour du sujet, signifie une expression indirecte ou une façon de parler détournée"
+            },
+            "example": "Please avoid circumlocution and get to the point.",
+            "translation": {
+                "ko": "에둘러 말하지 말고 요점만 말해주세요.",
+                "ja": "遠回しな言い方を避けて、要点に達してください",
+                "zh": "请避免绕圈子说话，直接说重点",
+                "fr": "Veuillez éviter la circonlocution et allez droit au but"
+            }
+        },
+        {
+            "word": "circumvent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周囲に",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vent",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빙 둘러서 오다'는 의미에서, 문제나 법률 등을 '피하다', '우회하다'는 뜻입니다.",
+                "en": "From 'to come around': to avoid or bypass a problem, law, etc.",
+                "ja": "「周りを回って来る」という意味から、問題や法律などを「避ける」「迂回する」という意味になりました。",
+                "zh": "从\"绕过来\"的意思引申，表示\"规避\"或\"绕过\"问题、法律等。",
+                "fr": "Du sens de 'venir autour': contourner ou éviter un problème, une loi, etc."
+            },
+            "example": "He tried to circumvent the law.",
+            "translation": {
+                "ko": "그는 법을 피하려고 했다.",
+                "ja": "彼は法律を回避しようとした。",
+                "zh": "他试图规避法律。",
+                "fr": "Il a essayé de contourner la loi."
+            }
+        },
+        {
+            "word": "circumscribe",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周りに",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scribe",
+                    "meaning": {
+                        "ko": "쓰다, 그리다",
+                        "en": "write, draw",
+                        "ja": "書く、描く",
+                        "zh": "写、画",
+                        "fr": "écrire, dessiner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주위에 선을 그리다'는 의미에서, 권력이나 자유 등을 '제한하다', '억제하다'는 뜻입니다.",
+                "en": "From the literal meaning 'draw a line around,' it evolved to mean 'limit' or 'restrict' power, freedom, etc.",
+                "ja": "『周りに線を引く』という文字通りの意味から、権力や自由などを『制限する』『抑制する』という意味に発展しました。",
+                "zh": "从字面意思'在周围画线'演变而来，引申为'限制'或'约束'权力、自由等。",
+                "fr": "Du sens littéral 'tracer une ligne autour', il a évolué pour signifier 'limiter' ou 'restreindre' le pouvoir, la liberté, etc."
+            },
+            "example": "Her power is circumscribed by the constitution.",
+            "translation": {
+                "ko": "그녀의 권력은 헌법에 의해 제한된다.",
+                "ja": "彼女の権力は憲法によって制限されている。",
+                "zh": "她的权力受到宪法的限制。",
+                "fr": "Son pouvoir est limité par la constitution."
+            }
+        },
+        {
+            "word": "circulatory",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周りに",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "latory",
+                    "meaning": {
+                        "ko": "움직이는",
+                        "en": "moving",
+                        "ja": "動く",
+                        "zh": "移动的",
+                        "fr": "mouvant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸 주위를 도는 것'과 관련되었다는 의미에서, '순환의'라는 뜻입니다.",
+                "en": "Related to 'moving around the body', meaning 'of circulation'",
+                "ja": "「体の周りを回る」という意味に関連し、「循環の」という意味です。",
+                "zh": "与「在身体周围循环」相关，意为「循环的」。",
+                "fr": "Lié à « circulant autour du corps », signifiant « de la circulation »."
+            },
+            "example": "Exercise is good for the circulatory system.",
+            "translation": {
+                "ko": "운동은 순환계에 좋다.",
+                "ja": "運動は循環系に良い。",
+                "zh": "运动对循环系统有益。",
+                "fr": "L'exercice est bon pour le système circulatoire."
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "pac, pax (peace) pacify, Pacific, pacifist",
+        "origin": "Latin, pax, pacis (peace)",
+        "meaning": {
+            "ko": "평화",
+            "en": "peace",
+            "ja": "平和",
+            "zh": "和平",
+            "fr": "paix"
+        }
+    },
+    "words": [
+        {
+            "word": "pacify",
+            "part_of_speech": "",
+            "origin": "Latin, pacificare (to make peace)",
+            "meaning": {
+                "ko": "평화를 만들다",
+                "en": "to make peace",
+                "ja": "平和にする",
+                "zh": "使平静",
+                "fr": "pacifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pac-",
+                    "meaning": {
+                        "ko": "'평화'",
+                        "en": "peace",
+                        "ja": "平和",
+                        "zh": "平和",
+                        "fr": "paix"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'평화롭게 만들다'는 의미에서 '(화난 사람을) 달래다', '(나라를) 평정하다'라는 뜻입니다.",
+                "en": "Means to calm an angry person or pacify a country through making peace",
+                "ja": "怒った人をなだめる、または国を平定するという意味",
+                "zh": "使愤怒的人平静或使国家和平的意思",
+                "fr": "Signifie calmer une personne en colère ou pacifier un pays par la paix"
+            },
+            "example": "The mother tried to pacify her crying baby.",
+            "translation": {
+                "ko": "그 엄마는 우는 아기를 달래려고 했다.",
+                "ja": "母は泣いている赤ちゃんをなだめようとした。",
+                "zh": "母亲试图使哭泣的婴儿平静。",
+                "fr": "La mère a essayé de pacifier son bébé qui pleurait."
+            }
+        },
+        {
+            "word": "Pacific",
+            "part_of_speech": "",
+            "origin": "Latin, pacificus (peace-making)",
+            "meaning": {
+                "ko": "평화를 만드는",
+                "en": "making peace",
+                "ja": "平和を作る",
+                "zh": "制造和平",
+                "fr": "créer la paix"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pac-",
+                    "meaning": {
+                        "ko": "'평화'",
+                        "en": "peace",
+                        "ja": "平和",
+                        "zh": "和平",
+                        "fr": "paix"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "탐험가 마젤란이 '평화로운 바다'라고 명명한 데서 유래하여 '태평양'을 뜻합니다.",
+                "en": "Derived from explorer Magellan's naming of the 'peaceful sea', meaning the Pacific Ocean.",
+                "ja": "探検家マゼランが『平和な海』と命名したことに由来し、『太平洋』を意味します。",
+                "zh": "源自探险家麦哲伦将其命名为『平静的海』，意为太平洋。",
+                "fr": "Dérivé du nom donné par l'explorateur Magellan à la 'mer paisible', signifiant l'océan Pacifique."
+            },
+            "example": "The Pacific Ocean is the largest and deepest of Earth's oceans.",
+            "translation": {
+                "ko": "태평양은 지구의 대양 중 가장 크고 깊다.",
+                "ja": "太平洋は地球最大で最も深い海洋です。",
+                "zh": "太平洋是地球上最大、最深的海洋。",
+                "fr": "L'océan Pacifique est le plus grand et le plus profond des océans terrestres."
+            }
+        },
+        {
+            "word": "pacifist",
+            "part_of_speech": "",
+            "origin": "Latin, pax (peace) + facere (to make)",
+            "meaning": {
+                "ko": "평화를 만드는 사람",
+                "en": "person who makes peace",
+                "ja": "平和を求める人",
+                "zh": "追求和平的人",
+                "fr": "personne pour la paix"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "paci-",
+                    "meaning": {
+                        "ko": "'평화'",
+                        "en": "peace",
+                        "ja": "平和",
+                        "zh": "和平",
+                        "fr": "paix"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 경우에도 전쟁과 폭력에 반대하는 사람'인 '평화주의자'를 뜻합니다.",
+                "en": "A person who opposes war and violence in any circumstance; a pacifist.",
+                "ja": "どんな場合でも戦争と暴力に反対する人、平和主義者を意味します。",
+                "zh": "在任何情况下都反对战争和暴力的人，即和平主义者。",
+                "fr": "Une personne qui s'oppose à la guerre et à la violence en toutes circonstances."
+            },
+            "example": "As a pacifist, he refused to fight in the war.",
+            "translation": {
+                "ko": "평화주의자로서, 그는 전쟁에서 싸우기를 거부했다.",
+                "ja": "平和主義者",
+                "zh": "和平主义者",
+                "fr": "pacifiste"
+            }
+        }
+    ]
+}

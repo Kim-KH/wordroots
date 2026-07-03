@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "gluc, glyc(o) (sugar) glucose, glycerin, hypoglycemia",
+        "origin": "Greek, glykys (sweet)",
+        "meaning": {
+            "ko": "달콤한",
+            "en": "sweet",
+            "ja": "甘い",
+            "zh": "甜",
+            "fr": "sucré"
+        }
+    },
+    "words": [
+        {
+            "word": "glucose",
+            "part_of_speech": "",
+            "origin": "Greek, glykys (sweet)",
+            "meaning": {
+                "ko": "달콤한",
+                "en": "sweet",
+                "ja": "甘い糖",
+                "zh": "甜糖",
+                "fr": "sucre doux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gluc-",
+                    "meaning": {
+                        "ko": "'달콤한, 당'",
+                        "en": "sweet, sugar",
+                        "ja": "甘い、砂糖",
+                        "zh": "甜的、糖",
+                        "fr": "sucré, sucre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "(화학) 당을 나타내는 접미사",
+                        "en": "chemistry suffix for sugar",
+                        "ja": "化学の糖を示す接尾辞",
+                        "zh": "化学表示糖的后缀",
+                        "fr": "suffixe chimique indiquant sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'달콤한 맛이 나는 당'이라는 의미에서 '포도당'을 뜻합니다.",
+                "en": "Means 'grape sugar' from the concept of 'sweet-tasting sugar'",
+                "ja": "甘い味がする糖という意味から、ブドウ糖を意味します",
+                "zh": "从'有甜味的糖'的含义来看，指葡萄糖",
+                "fr": "Signifie 'sucre de raisin' du concept de 'sucre au goût sucré'"
+            },
+            "example": "Glucose is the main source of energy for the body's cells.",
+            "translation": {
+                "ko": "포도당은 신체 세포의 주요 에너지원이다.",
+                "ja": "ブドウ糖は身体の細胞の主なエネルギー源です",
+                "zh": "葡萄糖是身体细胞的主要能量来源",
+                "fr": "Le glucose est la principale source d'énergie des cellules du corps"
+            }
+        },
+        {
+            "word": "glycerin",
+            "part_of_speech": "",
+            "origin": "Greek, glykeros (sweet)",
+            "meaning": {
+                "ko": "달콤한",
+                "en": "sweet",
+                "ja": "甘い液体",
+                "zh": "甘味液体",
+                "fr": "liquide sucré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "glycer-",
+                    "meaning": {
+                        "ko": "'달콤한'",
+                        "en": "sweet",
+                        "ja": "甘い",
+                        "zh": "甘的",
+                        "fr": "sucré"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단맛이 나는 액체'라는 의미에서 '글리세린'을 뜻합니다.",
+                "en": "Refers to glycerin from the meaning of 'liquid with sweet taste'",
+                "ja": "甘い味がする液体という意味からグリセリンを意味します",
+                "zh": "从'有甜味的液体'的意思指代甘油",
+                "fr": "Se réfère à la glycérine à partir du sens de 'liquide au goût sucré'"
+            },
+            "example": "Glycerin is used in many skin care products.",
+            "translation": {
+                "ko": "글리세린은 많은 스킨케어 제품에 사용된다.",
+                "ja": "グリセリンは多くのスキンケア製品に使用されています。",
+                "zh": "甘油被用于许多护肤产品中。",
+                "fr": "La glycérine est utilisée dans de nombreux produits de soins de la peau."
+            }
+        },
+        {
+            "word": "hypoglycemia",
+            "part_of_speech": "",
+            "origin": "Greek, hypo- (under) + glykys (sweet) + haima (blood)",
+            "meaning": {
+                "ko": "혈액 속의 당이 낮은 상태",
+                "en": "low blood sugar state",
+                "ja": "血液中の糖が低い状態",
+                "zh": "血液中血糖过低",
+                "fr": "taux de sucre sanguin bas"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hypo-",
+                    "meaning": {
+                        "ko": "'아래'",
+                        "en": "under",
+                        "ja": "下、以下",
+                        "zh": "下、低于",
+                        "fr": "sous, inférieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "glyc-",
+                    "meaning": {
+                        "ko": "'당'",
+                        "en": "sugar",
+                        "ja": "糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emia",
+                    "meaning": {
+                        "ko": "'혈액 상태'",
+                        "en": "blood condition",
+                        "ja": "血液の状態",
+                        "zh": "血液状态",
+                        "fr": "état sanguin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈액 속의 당 수치가 정상보다 낮은' 상태인 '저혈당증'을 뜻합니다.",
+                "en": "A condition where blood glucose levels are lower than normal",
+                "ja": "血液中のブドウ糖濃度が正常値より低い状態",
+                "zh": "血液中血糖浓度低于正常值的状态",
+                "fr": "État où la concentration de glucose sanguin est inférieure à la normale"
+            },
+            "example": "Symptoms of hypoglycemia include dizziness and confusion.",
+            "translation": {
+                "ko": "저혈당증의 증상으로는 현기증과 혼란이 있다.",
+                "ja": "低血糖症",
+                "zh": "低血糖症",
+                "fr": "hypoglycémie"
+            }
+        }
+    ]
+}

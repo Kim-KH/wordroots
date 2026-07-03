@@ -1,0 +1,126 @@
+{
+    "root_info": {
+        "roots": "entero (intestine) enteritis, gastroenterologist",
+        "origin": "Greek, enteron (intestine)",
+        "meaning": {
+            "ko": "창자, 내장",
+            "en": "intestine",
+            "ja": "腸",
+            "zh": "肠",
+            "fr": "intestin"
+        }
+    },
+    "words": [
+        {
+            "word": "enteritis",
+            "part_of_speech": "",
+            "origin": "Greek, enteron (intestine) + -itis (inflammation)",
+            "meaning": {
+                "ko": "창자 염증",
+                "en": "intestinal inflammation",
+                "ja": "腸の炎症",
+                "zh": "肠道炎症",
+                "fr": "inflammation intestinale"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "enter-",
+                    "meaning": {
+                        "ko": "'창자'",
+                        "en": "intestine",
+                        "ja": "腸",
+                        "zh": "肠道",
+                        "fr": "intestin"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'장에 염증이 생기는 병'이라는 의미에서 '장염'을 뜻합니다.",
+                "en": "Refers to enteritis, meaning a disease in which inflammation occurs in the intestines",
+                "ja": "腸に炎症が生じる病気を意味する腸炎を指します",
+                "zh": "指肠道发生炎症的疾病，称为肠炎",
+                "fr": "Fait référence à l'entérite, signifiant une maladie caractérisée par une inflammation des intestins"
+            },
+            "example": "Enteritis can be caused by bacteria or viruses.",
+            "translation": {
+                "ko": "장염은 박테리아나 바이러스에 의해 발생할 수 있다.",
+                "ja": "腸炎は細菌またはウイルスによって引き起こされる可能性があります",
+                "zh": "肠炎可由细菌或病毒引起",
+                "fr": "L'entérite peut être causée par des bactéries ou des virus"
+            }
+        },
+        {
+            "word": "gastroenterologist",
+            "part_of_speech": "",
+            "origin": "Greek, gaster (stomach) + enteron (intestine) + logos (study)",
+            "meaning": {
+                "ko": "위와 장 연구",
+                "en": "study of stomach and intestines",
+                "ja": "胃腸病専門医",
+                "zh": "胃肠病专家",
+                "fr": "gastro-entérologue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gastro-",
+                    "meaning": {
+                        "ko": "'위'",
+                        "en": "stomach",
+                        "ja": "胃",
+                        "zh": "胃",
+                        "fr": "estomac"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "entero-",
+                    "meaning": {
+                        "ko": "'장'",
+                        "en": "intestine",
+                        "ja": "腸",
+                        "zh": "肠",
+                        "fr": "intestin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자'",
+                        "en": "one who studies",
+                        "ja": "研究者",
+                        "zh": "研究者",
+                        "fr": "celui qui étudie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'위와 장을 연구하는 의사'라는 의미에서 '위장병 전문의'를 뜻합니다.",
+                "en": "A doctor specializing in stomach and intestinal diseases",
+                "ja": "胃と腸の病気を専門とする医師",
+                "zh": "专门研究胃肠疾病的医生",
+                "fr": "Médecin spécialiste des maladies de l'estomac et de l'intestin"
+            },
+            "example": "You should see a gastroenterologist for your digestive problems.",
+            "translation": {
+                "ko": "소화기 문제로 위장병 전문의의 진찰을 받아야 합니다.",
+                "ja": "消化器の問題については胃腸病専門医の診察を受けるべきです。",
+                "zh": "对于消化问题，你应该看胃肠病专家。",
+                "fr": "Vous devriez consulter un gastro-entérologue pour vos problèmes digestifs."
+            }
+        }
+    ]
+}

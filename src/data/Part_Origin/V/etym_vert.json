@@ -1,0 +1,245 @@
+{
+    "root_info": {
+        "roots": "vert, vers",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "돌다",
+            "en": "to turn",
+            "ja": "回る",
+            "zh": "转",
+            "fr": "tourner"
+        }
+    },
+    "words": [
+        {
+            "word": "convert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "완전히",
+                        "en": "completely",
+                        "ja": "完全に",
+                        "zh": "完全地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "回転させる",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 방향을 바꾸다'는 의미에서, 형태나 목적, 종교 등을 '전환하다', '개조하다', '개종시키다'는 뜻입니다.",
+                "en": "From the meaning of 'completely changing direction', it means to 'convert', 'transform', or 'change' the form, purpose, religion, etc.",
+                "ja": "完全に方向を変えるという意味から、形態や目的、宗教などを転換する、改造する、改宗させるという意味です。",
+                "zh": "从'完全改变方向'的含义出发，指改变形式、目的、宗教等，意为'转换'、'改造'、'改宗'。",
+                "fr": "Du sens de 'changer complètement de direction', il signifie 'convertir', 'transformer' ou 'changer' la forme, le but, la religion, etc."
+            },
+            "example": "You can convert the file to a different format.",
+            "translation": {
+                "ko": "당신은 그 파일을 다른 형식으로 변환할 수 있다.",
+                "ja": "ファイルを別の形式に変換できます。",
+                "zh": "你可以将文件转换为不同的格式。",
+                "fr": "Vous pouvez convertir le fichier dans un format différent."
+            }
+        },
+        {
+            "word": "revert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌아가다",
+                        "en": "to turn",
+                        "ja": "回転する",
+                        "zh": "转向",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래 상태로 되돌아가다'는 의미에서 '복귀하다', '회귀하다'는 뜻입니다.",
+                "en": "to return to original state; to revert or regress",
+                "ja": "元の状態に戻るという意味で、復帰する、回帰するという意味です。",
+                "zh": "表示回到原始状态的意思，即回归、返回的含义。",
+                "fr": "Signifie retourner à l'état d'origine ; revenir en arrière ou régresser."
+            },
+            "example": "After the diet, she reverted to her old eating habits.",
+            "translation": {
+                "ko": "다이어트 후에, 그녀는 옛 식습관으로 되돌아갔다.",
+                "ja": "ダイエットの後、彼女は昔の食習慣に戻ってしまった。",
+                "zh": "节食后，她又回到了以前的饮食习惯。",
+                "fr": "Après le régime, elle est revenue à ses anciennes habitudes alimentaires."
+            }
+        },
+        {
+            "word": "advertise",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to",
+                        "ja": "へ向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "回転させる",
+                        "zh": "转向",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "사람들의 주의를 상품 쪽으로 '돌리게 하다'는 의미에서, '광고하다', '알리다'는 뜻이 되었습니다.",
+                "en": "From the meaning of 'turning people's attention toward products', it came to mean 'to advertise' or 'to make known'.",
+                "ja": "人々の注意を製品の方へ'回転させる'という意味から、'広告を出す'、'知らせる'という意味になりました。",
+                "zh": "从'将人们的注意力转向产品'的含义中，演变成了'做广告'、'告知'的意思。",
+                "fr": "Du sens de 'tourner l'attention des gens vers les produits', il est devenu signifier 'faire de la publicité' ou 'faire connaître'."
+            },
+            "example": "They advertise their products on TV.",
+            "translation": {
+                "ko": "그들은 TV에 자사 제품을 광고한다.",
+                "ja": "彼らはテレビで彼らの製品を広告する。",
+                "zh": "他们在电视上宣传他们的产品。",
+                "fr": "Ils font la publicité de leurs produits à la télévision."
+            }
+        },
+        {
+            "word": "versatile",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "回す",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이리저리 쉽게 방향을 바꿀 수 있는'이라는 의미에서, '다재다능한', '다용도의'라는 뜻입니다.",
+                "en": "From the sense of 'easily changing direction in various ways,' meaning 'talented in many ways' or 'multipurpose.'",
+                "ja": "「いろいろな方向に簡単に変えられる」という意味から、「多才な」「多用途の」という意味になりました。",
+                "zh": "从'可以轻松地向各个方向改变'的含义衍生出'多才多艺'或'多用途'的意思。",
+                "fr": "Du sens de 'pouvoir changer facilement de direction de diverses manières', signifiant 'talentueux dans de nombreux domaines' ou 'à usages multiples'."
+            },
+            "example": "He is a very versatile actor.",
+            "translation": {
+                "ko": "그는 매우 다재다능한 배우이다.",
+                "ja": "彼は非常に多才な俳優です。",
+                "zh": "他是一位非常多才多艺的演员。",
+                "fr": "Il est un acteur très polyvalent."
+            }
+        },
+        {
+            "word": "vertigo",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回転する",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세상이 빙빙 도는' 느낌이라는 의미에서 '현기증', '어지럼증'을 뜻합니다.",
+                "en": "From the sensation of the world spinning around; means dizziness or vertigo.",
+                "ja": "世界がぐるぐる回る感覚から、めまい、現症を意味します。",
+                "zh": "源自世界旋转的感觉；表示眩晕、头晕目眩。",
+                "fr": "De la sensation que le monde tourne autour de soi ; signifie vertige ou étourdissement."
+            },
+            "example": "He suffers from vertigo.",
+            "translation": {
+                "ko": "그는 현기증으로 고통받는다.",
+                "ja": "彼は現症に悩まされている。",
+                "zh": "他患有眩晕症。",
+                "fr": "Il souffre de vertiges."
+            }
+        },
+        {
+            "word": "invert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "거꾸로",
+                        "en": "upside down",
+                        "ja": "逆さま",
+                        "zh": "倒过来",
+                        "fr": "à l'envers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "回す",
+                        "zh": "翻转",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'거꾸로 뒤집다'는 의미에서, 순서나 위치를 '도치시키다', '거꾸로 하다'는 뜻입니다.",
+                "en": "From the sense of 'turning upside down', meaning to reverse the order or position of something.",
+                "ja": "『逆さまにひっくり返す』という意味から、順序や位置を『転置する』『逆にする』という意味です。",
+                "zh": "从'倒过来翻转'的含义出发，表示'改变顺序或位置'、'颠倒'之意。",
+                "fr": "Du sens de 'retourner à l'envers', signifiant inverser l'ordre ou la position de quelque chose."
+            },
+            "example": "Invert the glass to let it dry.",
+            "translation": {
+                "ko": "마르도록 잔을 뒤집어 놓으세요.",
+                "ja": "ガラスをひっくり返して乾かしてください。",
+                "zh": "把玻璃杯倒过来使其干燥。",
+                "fr": "Retournez le verre pour le laisser sécher."
+            }
+        }
+    ]
+}

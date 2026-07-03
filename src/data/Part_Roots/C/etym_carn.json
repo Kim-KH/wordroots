@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "carn(i) (flesh) carnage, carnal, carnival, carnivore",
+        "origin": "Latin, caro (genitive carnis) (flesh)",
+        "meaning": {
+            "ko": "살, 육체",
+            "en": "flesh",
+            "ja": "肉",
+            "zh": "肉",
+            "fr": "chair"
+        }
+    },
+    "words": [
+        {
+            "word": "carnage",
+            "part_of_speech": "",
+            "origin": "Latin, carnem (flesh)",
+            "meaning": {
+                "ko": "살",
+                "en": "flesh or meat",
+                "ja": "大量殺戮",
+                "zh": "大屠杀",
+                "fr": "carnage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carn (caro)",
+                    "meaning": {
+                        "ko": "'살'",
+                        "en": "flesh",
+                        "ja": "肉",
+                        "zh": "肉",
+                        "fr": "chair"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-age",
+                    "meaning": {
+                        "ko": "'집합, 상태'",
+                        "en": "collection or state",
+                        "ja": "集合、状態",
+                        "zh": "集合、状态",
+                        "fr": "collection, état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'살점들의 집합'이라는 끔찍한 이미지에서 '대학살', '살육'이라는 의미로 발전했습니다.",
+                "en": "Developed from the gruesome image of 'collection of flesh pieces' to mean 'massacre' or 'slaughter'.",
+                "ja": "肉片の集まりという恐ろしいイメージから、大量殺戮や殺戮という意味に発展しました。",
+                "zh": "从肉片集合这种令人恐怖的意象发展为大屠杀或杀戮的含义。",
+                "fr": "Développé à partir de l'image macabre de 'collection de morceaux de chair' pour signifier 'massacre' ou 'tuerie'."
+            },
+            "example": "The battlefield was a scene of dreadful carnage.",
+            "translation": {
+                "ko": "전쟁터는 끔찍한 대학살의 현장이었다.",
+                "ja": "戦場は恐ろしい大量殺戮の光景だった。",
+                "zh": "战场是令人恐怖的大屠杀景象。",
+                "fr": "Le champ de bataille était une scène de carnage terrible."
+            }
+        },
+        {
+            "word": "carnal",
+            "part_of_speech": "",
+            "origin": "Latin, carnalis (of the flesh)",
+            "meaning": {
+                "ko": "육체의",
+                "en": "of the body",
+                "ja": "肉体的な",
+                "zh": "肉体的",
+                "fr": "charnel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carn (caro)",
+                    "meaning": {
+                        "ko": "'살, 육체'",
+                        "en": "flesh",
+                        "ja": "肉、肉体",
+                        "zh": "肉、身体",
+                        "fr": "chair, corps"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "정신적인 것과 대비되는 '육체(carn)의', '성욕의'라는 의미로 사용됩니다.",
+                "en": "Used to mean 'of the flesh (carn)', 'sensual' in contrast to spiritual things",
+                "ja": "精神的なものとの対比で、『肉体(carn)の』『肉欲的な』という意味で使用されます",
+                "zh": "与精神对比，用于表示『肉体的』『肉欲的』之意",
+                "fr": "Utilisé pour signifier 'de la chair (carn)', 'sensuel' par contraste avec le spirituel"
+            },
+            "example": "The movie was criticized for its focus on carnal desires.",
+            "translation": {
+                "ko": "그 영화는 육체적 욕망에 초점을 맞추었다는 비판을 받았다.",
+                "ja": "その映画は肉体的な欲望への焦点で批評されました",
+                "zh": "这部电影因专注于肉欲而受到批评",
+                "fr": "Le film a été critiqué pour sa focalisation sur les désirs charnels"
+            }
+        },
+        {
+            "word": "carnival",
+            "part_of_speech": "",
+            "origin": "Italian, carnevale (Shrovetide)",
+            "meaning": {
+                "ko": "고기를 없애는 시기",
+                "en": "season of removing meat",
+                "ja": "肉を除く時期",
+                "zh": "去除肉类的时期",
+                "fr": "période sans viande"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carn (caro)",
+                    "meaning": {
+                        "ko": "'살, 고기'",
+                        "en": "flesh",
+                        "ja": "肉、身体",
+                        "zh": "肉、身体",
+                        "fr": "chair, viande"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "levare",
+                    "meaning": {
+                        "ko": "'없애다, 들어 올리다'",
+                        "en": "to remove, lift",
+                        "ja": "取り除く、上げる",
+                        "zh": "移除、举起",
+                        "fr": "enlever, lever"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "기독교에서 사순절 금식 기간 전에 '고기(carn)를 없애는(levare)' 축제라는 의미에서 유래하여, 오늘날의 화려한 '카니발', '축제'를 뜻하게 되었습니다.",
+                "en": "In Christianity, derived from the meaning of 'removing meat (carn) before the Lenten fasting period (levare)', and has come to mean today's spectacular 'carnival' and 'festival'.",
+                "ja": "キリスト教の四旬節断食前に'肉(carn)を取り除く(levare)'という意味の祭りに由来し、現代の派手な'カーニバル'や'祭り'を意味するようになった。",
+                "zh": "源自基督教传统，指四旬节斋戒前'去除肉类(carn)'的节日意义(levare)，演变为现代华丽的'嘉年华'和'节日'。",
+                "fr": "Dérivé du sens chrétien de fête 'enlevant la viande (carn)' avant le Carême (levare), devenu le spectaculaire 'carnaval' et 'fête' moderne."
+            },
+            "example": "Brazil is famous for its annual carnival.",
+            "translation": {
+                "ko": "브라질은 매년 열리는 카니발로 유명하다.",
+                "ja": "ブラジルは毎年のカーニバルで有名です。",
+                "zh": "巴西以其年度嘉年华而闻名。",
+                "fr": "Le Brésil est célèbre pour son carnaval annuel."
+            }
+        },
+        {
+            "word": "carnivore",
+            "part_of_speech": "",
+            "origin": "Latin, caro (flesh) + vorare (to devour)",
+            "meaning": {
+                "ko": "살을 삼키다",
+                "en": "to devour meat",
+                "ja": "肉食動物",
+                "zh": "食肉动物",
+                "fr": "carnivore"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carni (caro)",
+                    "meaning": {
+                        "ko": "'살, 고기'",
+                        "en": "flesh",
+                        "ja": "肉、flesh",
+                        "zh": "肉、flesh",
+                        "fr": "chair, viande"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vore (vorare)",
+                    "meaning": {
+                        "ko": "'삼키다, 먹다'",
+                        "en": "to devour",
+                        "ja": "食べる、devour",
+                        "zh": "吞食、devour",
+                        "fr": "dévorer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'고기(carni)를 먹는(-vore) 동물'이라는 의미로 '육식동물'을 뜻합니다.",
+                "en": "An animal that eats flesh (carni) and devours (-vore) meat",
+                "ja": "肉(carni)を食べる(-vore)動物という意味で肉食動物を意味します",
+                "zh": "表示吃肉(carni)和吞食(-vore)的动物的意思，即食肉动物",
+                "fr": "Un animal qui mange la chair (carni) et dévore (-vore) la viande, signifiant carnivore"
+            },
+            "example": "Lions and tigers are carnivores.",
+            "translation": {
+                "ko": "사자와 호랑이는 육식동물이다.",
+                "ja": "ライオンとトラは肉食動物です。",
+                "zh": "狮子和老虎是食肉动物。",
+                "fr": "Les lions et les tigres sont des carnivores."
+            }
+        }
+    ]
+}

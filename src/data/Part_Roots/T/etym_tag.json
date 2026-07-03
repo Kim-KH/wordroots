@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "tag (touch) contagious, tag",
+        "origin": "Latin, tangere (to touch)",
+        "meaning": {
+            "ko": "만지다",
+            "en": "to touch",
+            "ja": "触れる",
+            "zh": "触碰",
+            "fr": "toucher"
+        }
+    },
+    "words": [
+        {
+            "word": "contagious",
+            "part_of_speech": "",
+            "origin": "Latin, contagio (a touching, contact)",
+            "meaning": {
+                "ko": "접촉",
+                "en": "contact",
+                "ja": "伝染性の",
+                "zh": "传染性的",
+                "fr": "contagieux"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tag- (tangere)",
+                    "meaning": {
+                        "ko": "'만지다'",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "接触",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'접촉을 통해 함께 퍼져나가는'이라는 의미에서 '전염성의'라는 뜻입니다.",
+                "en": "Means 'infectious' from the sense of 'spreading together through contact'",
+                "ja": "接触を通じて一緒に広がるという意味から'伝染性の'という意味です",
+                "zh": "从'通过接触一起传播'的意思引申为'传染性的'",
+                "fr": "Signifie 'infectieux' du sens de 'se propager ensemble par contact'"
+            },
+            "example": "The flu is a highly contagious disease.",
+            "translation": {
+                "ko": "독감은 전염성이 매우 강한 질병이다.",
+                "ja": "インフルエンザは非常に伝染性の高い病気です",
+                "zh": "流感是一种高度传染性的疾病",
+                "fr": "La grippe est une maladie hautement contagieuse"
+            }
+        },
+        {
+            "word": "tag",
+            "part_of_speech": "",
+            "origin": "Middle English, tagge (a hanging piece)",
+            "meaning": {
+                "ko": "매달린 조각",
+                "en": "hanging piece",
+                "ja": "つり下がった札",
+                "zh": "悬挂的标签",
+                "fr": "étiquette suspendue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tag",
+                    "meaning": {
+                        "ko": "'꼬리표'",
+                        "en": "label or tag",
+                        "ja": "値札",
+                        "zh": "标签",
+                        "fr": "étiquette"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물건에 붙여놓은 꼬리표' 또는 '꼬리표를 붙잡는' 놀이인 '술래잡기'를 뜻합니다. (tangere 어원과 연관됨)",
+                "en": "Refers to a label attached to an object or the game of chasing to catch someone's tag. Related to the Latin origin 'tangere'.",
+                "ja": "物に付けた札、または札を捕まえる遊びを意味します。ラテン語の語源『tangere』に関連しています。",
+                "zh": "指贴在物品上的标签，或抓住标签的游戏。与拉丁词源'tangere'有关。",
+                "fr": "Désigne une étiquette collée sur un objet ou le jeu consistant à attraper une étiquette. Lié à l'origine latine 'tangere'."
+            },
+            "example": "The price tag is on the back of the shirt.",
+            "translation": {
+                "ko": "가격표는 셔츠 뒤에 있다.",
+                "ja": "シャツの背中に値札が付いています。",
+                "zh": "价格标签贴在衬衫的背面。",
+                "fr": "L'étiquette de prix est au dos de la chemise."
+            }
+        }
+    ]
+}

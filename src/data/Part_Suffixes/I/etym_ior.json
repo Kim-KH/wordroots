@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ior (pertaining to) junior, savior, senior",
+        "origin": "Latin, -ior (comparative suffix)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "pertaining to",
+            "ja": "…に関する",
+            "zh": "…有关的",
+            "fr": "…se rapportant à"
+        }
+    },
+    "words": [
+        {
+            "word": "junior",
+            "part_of_speech": "",
+            "origin": "Latin, junior (younger)",
+            "meaning": {
+                "ko": "더 젊은",
+                "en": "more young",
+                "ja": "より若い",
+                "zh": "更年轻的",
+                "fr": "plus jeune"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "juven- (juvenis)",
+                    "meaning": {
+                        "ko": "'젊은'",
+                        "en": "young",
+                        "ja": "若い",
+                        "zh": "年轻的",
+                        "fr": "jeune"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ior",
+                    "meaning": {
+                        "ko": "'더 ~한'",
+                        "en": "more",
+                        "ja": "より~な",
+                        "zh": "更~的",
+                        "fr": "plus~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나이나 지위가 더 낮은'이라는 의미에서 '손아랫사람', '하급자'를 뜻합니다.",
+                "en": "Refers to someone of lower age or rank; a junior person or subordinate",
+                "ja": "年齢や地位がより低い人を指す。後輩や下級者を意味します。",
+                "zh": "指年龄或地位较低的人。意为后辈或下属。",
+                "fr": "Désigne une personne d'âge ou de rang inférieur; un subordonné."
+            },
+            "example": "He is my junior by two years.",
+            "translation": {
+                "ko": "그는 나보다 두 살 어리다.",
+                "ja": "彼は私より2歳年下です。",
+                "zh": "他比我小两岁。",
+                "fr": "Il est mon cadet de deux ans."
+            }
+        },
+        {
+            "word": "savior",
+            "part_of_speech": "",
+            "origin": "Latin, salvator (a saver)",
+            "meaning": {
+                "ko": "구원자",
+                "en": "one who saves",
+                "ja": "救い主、救世主",
+                "zh": "救世主、救星",
+                "fr": "sauveur, rédempteur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sav- (salvare)",
+                    "meaning": {
+                        "ko": "'구하다'",
+                        "en": "to save",
+                        "ja": "救う",
+                        "zh": "拯救",
+                        "fr": "sauver"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ior",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'위험에서 구해주는 사람'인 '구원자', '구세주'를 뜻합니다.",
+                "en": "A person who saves others from danger; a rescuer or redeemer",
+                "ja": "危険から救う人、救世主を意味します",
+                "zh": "从危险中拯救他人的人，救星或救世主",
+                "fr": "Une personne qui sauve d'autres du danger, un sauveur ou rédempteur"
+            },
+            "example": "He was hailed as the savior of the nation.",
+            "translation": {
+                "ko": "그는 나라의 구세주로 환호받았다.",
+                "ja": "彼は国の救世主として称えられた。",
+                "zh": "他被誉为国家的救星。",
+                "fr": "Il a été salué comme le sauveur de la nation."
+            }
+        },
+        {
+            "word": "senior",
+            "part_of_speech": "",
+            "origin": "Latin, senior (older)",
+            "meaning": {
+                "ko": "더 늙은",
+                "en": "older, more aged",
+                "ja": "より年上の",
+                "zh": "更年长的",
+                "fr": "plus âgé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sen- (senex)",
+                    "meaning": {
+                        "ko": "'늙은'",
+                        "en": "old",
+                        "ja": "年上の",
+                        "zh": "年长的",
+                        "fr": "âgé"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ior",
+                    "meaning": {
+                        "ko": "'더 ~한'",
+                        "en": "more, further",
+                        "ja": "より~した",
+                        "zh": "更~的",
+                        "fr": "plus ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나이나 지위가 더 높은'이라는 의미에서 '손윗사람', '선배'를 뜻합니다.",
+                "en": "Means an older person or senior in age or rank; refers to someone higher in seniority",
+                "ja": "年齢や地位がより高い人を意味し、年上の人や先輩を指します",
+                "zh": "指年龄或地位更高的人，意为年长者或前辈",
+                "fr": "Signifie une personne plus âgée ou de rang supérieur; désigne un aîné ou un supérieur hiérarchique"
+            },
+            "example": "You should respect your seniors.",
+            "translation": {
+                "ko": "당신은 선배를 존경해야 한다.",
+                "ja": "あなたの先輩を尊重すべきです",
+                "zh": "你应该尊重你的前辈",
+                "fr": "Vous devriez respecter vos aînés"
+            }
+        }
+    ]
+}

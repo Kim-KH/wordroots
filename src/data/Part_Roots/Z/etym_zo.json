@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "zo (animal) zoology, zoophyte, zoon, zoospore",
+        "origin": "Greek, zoion (an animal)",
+        "meaning": {
+            "ko": "동물",
+            "en": "an animal",
+            "ja": "動物",
+            "zh": "动物",
+            "fr": "un animal"
+        }
+    },
+    "words": [
+        {
+            "word": "zoology",
+            "part_of_speech": "",
+            "origin": "Greek, zoion (animal) + logos (study)",
+            "meaning": {
+                "ko": "동물 연구",
+                "en": "study of animals",
+                "ja": "動物の研究",
+                "zh": "动物研究",
+                "fr": "étude des animaux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "zoo-",
+                    "meaning": {
+                        "ko": "'동물'",
+                        "en": "animal",
+                        "ja": "動物",
+                        "zh": "动物",
+                        "fr": "animal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동물을 연구하는 학문'인 '동물학'을 뜻합니다.",
+                "en": "Zoology refers to the science of studying animals, called 'zoology' in English.",
+                "ja": "動物を研究する学問である'動物学'を意味します。",
+                "zh": "指研究动物的学问'动物学'。",
+                "fr": "Désigne la science d'étudier les animaux, appelée 'zoologie' en français."
+            },
+            "example": "Zoology is a branch of biology.",
+            "translation": {
+                "ko": "동물학은 생물학의 한 분야이다.",
+                "ja": "動物学は生物学の一分野です。",
+                "zh": "动物学是生物学的一个分支。",
+                "fr": "La zoologie est une branche de la biologie."
+            }
+        },
+        {
+            "word": "zoophyte",
+            "part_of_speech": "",
+            "origin": "Greek, zoophyton (an animal-plant)",
+            "meaning": {
+                "ko": "동물-식물",
+                "en": "animal-plant",
+                "ja": "動物のような植物",
+                "zh": "动物似的植物",
+                "fr": "animal-plante"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "zoo-",
+                    "meaning": {
+                        "ko": "'동물'",
+                        "en": "animal",
+                        "ja": "動物",
+                        "zh": "动物",
+                        "fr": "animal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyte",
+                    "meaning": {
+                        "ko": "'식물'",
+                        "en": "plant",
+                        "ja": "植物",
+                        "zh": "植物",
+                        "fr": "plante"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물처럼 보이지만 실제로는 동물인' 산호, 해면 등을 가리키는 옛말입니다.",
+                "en": "An archaic term referring to organisms like corals and sponges that appear plant-like but are actually animals.",
+                "ja": "サンゴやスポンジなど、植物のように見えるが実際には動物である生物を指す古い言葉です。",
+                "zh": "指珊瑚和海绵等看起来像植物但实际上是动物的古老术语。",
+                "fr": "Terme archaïque désignant les coraux et éponges qui ressemblent à des plantes mais sont en réalité des animaux."
+            },
+            "example": "A coral is a type of zoophyte.",
+            "translation": {
+                "ko": "산호는 식충동물의 일종이다.",
+                "ja": "ズーファイト",
+                "zh": "动物植物",
+                "fr": "zoophyte"
+            }
+        },
+        {
+            "word": "zoon",
+            "part_of_speech": "",
+            "origin": "Greek, zoion (an animal)",
+            "meaning": {
+                "ko": "동물",
+                "en": "animal",
+                "ja": "動物",
+                "zh": "动物",
+                "fr": "animal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "zo-",
+                    "meaning": {
+                        "ko": "'동물'",
+                        "en": "animal",
+                        "ja": "動物",
+                        "zh": "动物",
+                        "fr": "animal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하나의 완전한 개체로서의 동물'을 뜻하는 생물학 용어입니다.",
+                "en": "A biological term meaning an individual animal as a complete organism.",
+                "ja": "1つの完全な個体としての動物を意味する生物学用語です",
+                "zh": "指单个完整个体的动物的生物学术语",
+                "fr": "Terme biologique désignant un animal individuel comme organisme complet"
+            },
+            "example": "In a colonial organism, each individual animal is called a zoon.",
+            "translation": {
+                "ko": "군체 유기체에서 각각의 개별 동물은 개충이라고 불린다.",
+                "ja": "群体生物では、各個体の動物がzoonと呼ばれます",
+                "zh": "在群体生物中，每个单独的动物被称为zoon",
+                "fr": "Dans un organisme colonial, chaque animal individuel s'appelle un zoon"
+            }
+        },
+        {
+            "word": "zoospore",
+            "part_of_speech": "",
+            "origin": "Greek, zoion (animal) + sporos (a seed)",
+            "meaning": {
+                "ko": "동물 씨앗",
+                "en": "animal spore",
+                "ja": "動物のような胞子",
+                "zh": "动物孢子",
+                "fr": "zoospore"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "zoo-",
+                    "meaning": {
+                        "ko": "'동물'",
+                        "en": "animal",
+                        "ja": "動物",
+                        "zh": "动物",
+                        "fr": "animal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spore",
+                    "meaning": {
+                        "ko": "'포자'",
+                        "en": "spore",
+                        "ja": "胞子",
+                        "zh": "孢子",
+                        "fr": "spore"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동물처럼 편모를 이용해 움직일 수 있는' 포자인 '유주 포자'를 뜻합니다.",
+                "en": "A spore that can move using flagella like an animal",
+                "ja": "動物のように鞭毛を使って移動できる遊走胞子",
+                "zh": "像动物一样用鞭毛移动的游走孢子",
+                "fr": "Une spore qui se déplace comme un animal en utilisant des flagelles"
+            },
+            "example": "Algae and fungi can reproduce using zoospores.",
+            "translation": {
+                "ko": "조류와 균류는 유주 포자를 이용하여 번식할 수 있다.",
+                "ja": "遊走胞子",
+                "zh": "游走孢子",
+                "fr": "zoospore"
+            }
+        }
+    ]
+}

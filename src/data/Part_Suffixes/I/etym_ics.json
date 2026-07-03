@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ics (technology) acoustics, mathematics, physics",
+        "origin": "Greek, -ika (neuter plural, matters of)",
+        "meaning": {
+            "ko": "기술, 학문",
+            "en": "technology, science",
+            "ja": "技術、科学",
+            "zh": "技术、科学",
+            "fr": "technologie, science"
+        }
+    },
+    "words": [
+        {
+            "word": "acoustics",
+            "part_of_speech": "",
+            "origin": "Greek, akoustikos (of hearing)",
+            "meaning": {
+                "ko": "청각의",
+                "en": "of hearing",
+                "ja": "音響学",
+                "zh": "声学",
+                "fr": "acoustique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "acou-",
+                    "meaning": {
+                        "ko": "'듣다'",
+                        "en": "to hear",
+                        "ja": "聞く",
+                        "zh": "听",
+                        "fr": "entendre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-stics",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "science or study",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리의 성질을 연구하는 학문'인 '음향학'을 뜻합니다.",
+                "en": "The study of sound properties and characteristics",
+                "ja": "音の性質を研究する学問",
+                "zh": "研究声音性质的学问",
+                "fr": "L'étude des propriétés du son"
+            },
+            "example": "The acoustics of the concert hall are excellent.",
+            "translation": {
+                "ko": "그 콘서트홀의 음향 시설은 훌륭하다.",
+                "ja": "このコンサートホールの音響は素晴らしい。",
+                "zh": "这个音乐厅的音响效果很好。",
+                "fr": "L'acoustique de cette salle de concert est excellente."
+            }
+        },
+        {
+            "word": "mathematics",
+            "part_of_speech": "",
+            "origin": "Greek, mathematikos (fond of learning)",
+            "meaning": {
+                "ko": "배우기를 좋아하는",
+                "en": "loving to learn",
+                "ja": "学ぶことを好む",
+                "zh": "喜欢学习",
+                "fr": "aimer apprendre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mathemat-",
+                    "meaning": {
+                        "ko": "'배움, 지식'",
+                        "en": "learning, knowledge",
+                        "ja": "学び、知識",
+                        "zh": "学习、知识",
+                        "fr": "apprentissage, savoir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ics",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study, discipline",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'수와 양, 공간에 대해 배우는 학문'인 '수학'을 뜻합니다.",
+                "en": "Refers to mathematics, the study of numbers, quantities, and space",
+                "ja": "数と量、空間について学ぶ学問である数学を意味します",
+                "zh": "指研究数字、数量和空间的学科数学",
+                "fr": "Fait référence aux mathématiques, l'étude des nombres, des quantités et de l'espace"
+            },
+            "example": "Mathematics is the language of science.",
+            "translation": {
+                "ko": "수학은 과학의 언어이다.",
+                "ja": "数学は科学の言語です",
+                "zh": "数学是科学的语言",
+                "fr": "Les mathématiques sont le langage de la science"
+            }
+        },
+        {
+            "word": "physics",
+            "part_of_speech": "",
+            "origin": "Greek, ta physika (the natural things)",
+            "meaning": {
+                "ko": "자연적인 것들",
+                "en": "natural things",
+                "ja": "自然現象の学問",
+                "zh": "自然现象的学问",
+                "fr": "étude des phénomènes naturels"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "physi-",
+                    "meaning": {
+                        "ko": "'자연'",
+                        "en": "nature",
+                        "ja": "自然",
+                        "zh": "自然",
+                        "fr": "nature"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ics",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study of",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자연의 근본 원리를 연구하는 학문'인 '물리학'을 뜻합니다.",
+                "en": "Physics refers to the study of fundamental principles of nature",
+                "ja": "物理学は自然の根本原理を研究する学問を意味します",
+                "zh": "物理学是指研究自然基本原理的学问",
+                "fr": "La physique désigne l'étude des principes fondamentaux de la nature"
+            },
+            "example": "He is a professor of physics.",
+            "translation": {
+                "ko": "그는 물리학 교수이다.",
+                "ja": "彼は物理学の教授です",
+                "zh": "他是物理学教授",
+                "fr": "Il est professeur de physique"
+            }
+        }
+    ]
+}

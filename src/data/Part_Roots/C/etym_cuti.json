@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "cuti (skin) cuticle, subcutaneous",
+        "origin": "Latin, cutis (skin)",
+        "meaning": {
+            "ko": "피부",
+            "en": "skin",
+            "ja": "皮膚",
+            "zh": "皮肤",
+            "fr": "peau"
+        }
+    },
+    "words": [
+        {
+            "word": "cuticle",
+            "part_of_speech": "",
+            "origin": "Latin, cuticula (little skin)",
+            "meaning": {
+                "ko": "작은 피부",
+                "en": "small skin",
+                "ja": "小さな皮膚",
+                "zh": "小皮肤",
+                "fr": "petite peau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cuti-",
+                    "meaning": {
+                        "ko": "'피부'",
+                        "en": "skin",
+                        "ja": "皮膚",
+                        "zh": "皮肤",
+                        "fr": "peau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부의 겉을 덮고 있는 얇은 막'이라는 의미에서 손발톱의 '큐티클' 또는 표피를 뜻합니다.",
+                "en": "A thin membrane covering the surface of skin; refers to the 'cuticle' of nails and fingers/toes or the epidermis.",
+                "ja": "皮膚の表面を覆う薄い膜。爪や指先の『キューティクル』または表皮を意味します。",
+                "zh": "覆盖皮肤表面的薄膜;指甲或手指脚趾的'护理层'或表皮。",
+                "fr": "Fine membrane couvrant la surface de la peau; désigne la 'cuticule' des ongles ou l'épiderme."
+            },
+            "example": "A cuticle pusher is used to push back the skin from your nails.",
+            "translation": {
+                "ko": "큐티클 푸셔는 손톱의 피부를 뒤로 미는 데 사용된다.",
+                "ja": "キューティクル",
+                "zh": "角质层",
+                "fr": "cuticule"
+            }
+        },
+        {
+            "word": "subcutaneous",
+            "part_of_speech": "",
+            "origin": "Latin, sub (under) + cutis (skin)",
+            "meaning": {
+                "ko": "피부 아래",
+                "en": "beneath the skin",
+                "ja": "皮膚の下の",
+                "zh": "皮肤下的",
+                "fr": "sous-cutané"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "'아래에'",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cut-",
+                    "meaning": {
+                        "ko": "'피부'",
+                        "en": "skin",
+                        "ja": "皮膚",
+                        "zh": "皮肤",
+                        "fr": "peau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-aneous",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부 아래에 있는'이라는 의미에서 '피하의'라는 뜻입니다.",
+                "en": "Meaning 'located under the skin'",
+                "ja": "皮膚の下に位置するという意味から、皮下のという意味です",
+                "zh": "从位于皮肤下的意思，指皮下的含义",
+                "fr": "Signifie 'situé sous la peau'"
+            },
+            "example": "A subcutaneous injection is given into the layer of fat under the skin.",
+            "translation": {
+                "ko": "피하 주사는 피부 아래 지방층에 놓는다.",
+                "ja": "皮下注射は皮膚の下の脂肪層に注射されます。",
+                "zh": "皮下注射是注入皮肤下脂肪层中的。",
+                "fr": "Une injection sous-cutanée est administrée dans la couche de graisse sous la peau."
+            }
+        }
+    ]
+}

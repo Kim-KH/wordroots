@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "publi (populace) public, publicize, publish",
+        "origin": "Latin, publicus (of the people)",
+        "meaning": {
+            "ko": "사람들의",
+            "en": "of the people",
+            "ja": "人民の",
+            "zh": "人民的",
+            "fr": "du peuple"
+        }
+    },
+    "words": [
+        {
+            "word": "public",
+            "part_of_speech": "",
+            "origin": "Latin, publicus (of the people)",
+            "meaning": {
+                "ko": "사람들의",
+                "en": "of people",
+                "ja": "公共の、大衆の",
+                "zh": "公共的、公众的",
+                "fr": "public, commun"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "publ-",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人们",
+                        "fr": "peuple"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 사람들과 관련된'이라는 의미에서 '공공의', '대중의'라는 뜻입니다.",
+                "en": "Means 'public' or 'for the masses' in the sense of relating to all people",
+                "ja": "すべての人々に関連する意味で、公共の、大衆的という意味です",
+                "zh": "指与所有人相关的意思，即公共的、大众的含义",
+                "fr": "Signifie 'public' ou 'pour les masses' au sens de concerner tout le monde"
+            },
+            "example": "This is a public park.",
+            "translation": {
+                "ko": "이곳은 공공 공원이다.",
+                "ja": "これは公共の公園です。",
+                "zh": "这是一个公共公园。",
+                "fr": "C'est un parc public."
+            }
+        },
+        {
+            "word": "publicize",
+            "part_of_speech": "",
+            "origin": "English, public",
+            "meaning": {
+                "ko": "대중의",
+                "en": "of the general public",
+                "ja": "公衆に知らせる",
+                "zh": "向公众宣传",
+                "fr": "faire connaître au public"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "public-",
+                    "meaning": {
+                        "ko": "'대중'",
+                        "en": "the general public",
+                        "ja": "公衆",
+                        "zh": "公众",
+                        "fr": "public"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대중에게 알리다'는 뜻입니다.",
+                "en": "It means to inform the public",
+                "ja": "公衆に知らせることを意味します",
+                "zh": "意思是向公众宣传",
+                "fr": "Cela signifie informer le public"
+            },
+            "example": "They are trying to publicize the event.",
+            "translation": {
+                "ko": "그들은 그 행사를 홍보하려고 노력하고 있다.",
+                "ja": "彼らはそのイベントを宣伝しようとしています",
+                "zh": "他们正在尝试宣传这个活动",
+                "fr": "Ils essaient de publiciser l'événement"
+            }
+        },
+        {
+            "word": "publish",
+            "part_of_speech": "",
+            "origin": "Latin, publicare (to make public)",
+            "meaning": {
+                "ko": "공개하다",
+                "en": "to make public",
+                "ja": "公開する",
+                "zh": "出版",
+                "fr": "publier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "publ-",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人们",
+                        "fr": "people"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'글이나 정보를 대중에게 공개하다'는 의미에서 '출판하다', '발표하다'라는 뜻입니다.",
+                "en": "Means to make writing or information public to the masses; to publish or announce",
+                "ja": "文章や情報を大衆に公開することを意味します。出版する、発表するという意味です。",
+                "zh": "意思是向公众公开文章或信息；出版或发表。",
+                "fr": "Signifie rendre public l'écriture ou l'information au public ; publier ou annoncer."
+            },
+            "example": "The author is going to publish a new book.",
+            "translation": {
+                "ko": "그 작가는 새 책을 출판할 예정이다.",
+                "ja": "著者は新しい本を出版するつもりです。",
+                "zh": "作者将要出版一本新书。",
+                "fr": "L'auteur va publier un nouveau livre."
+            }
+        }
+    ]
+}

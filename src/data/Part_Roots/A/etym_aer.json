@@ -1,0 +1,176 @@
+{
+    "root_info": {
+        "roots": "aer(o) (air, gas) aerobic, aerial, aerodynamic",
+        "origin": "Greek, aēr (air)",
+        "meaning": {
+            "ko": "공기",
+            "en": "air",
+            "ja": "空気",
+            "zh": "空气",
+            "fr": "air"
+        }
+    },
+    "words": [
+        {
+            "word": "aerobic",
+            "part_of_speech": "",
+            "origin": "Greek, aero- (air) + bios (life)",
+            "meaning": {
+                "ko": "공기 속의 삶",
+                "en": "air life",
+                "ja": "空気中の生命",
+                "zh": "空气中的生命",
+                "fr": "vie dans l'air"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "aero-",
+                    "meaning": {
+                        "ko": "'공기'",
+                        "en": "air",
+                        "ja": "空気",
+                        "zh": "空气",
+                        "fr": "air"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~에 관련된'",
+                        "en": "related to",
+                        "ja": "~に関連した",
+                        "zh": "与~相关的",
+                        "fr": "relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공기(aero) 속의 생명(bio)과 관련된'이라는 의미로, 생물이 생명을 유지하는 데 산소를 필요로 하는 상태를 말하며, 운동에서는 산소 공급을 통해 지방을 연소시키는 '유산소 운동'을 뜻합니다.",
+                "en": "Aerobic refers to processes requiring oxygen for life maintenance in organisms. In exercise, it describes fat-burning activities powered by oxygen supply, known as aerobic exercise.",
+                "ja": "有酸素運動は、生物が生命を維持するために酸素を必要とする状態を指し、運動では酸素供給を通じて脂肪を燃焼させる運動を意味します。",
+                "zh": "有氧运动是指生物为了维持生命需要氧气的状态，在运动中是指通过氧气供应来燃烧脂肪的运动。",
+                "fr": "L'exercice aérobie désigne les processus nécessitant l'oxygène pour maintenir la vie. En sport, il décrit une activité brûlant les graisses via l'apport d'oxygène."
+            },
+            "example": "Aerobic exercise helps improve your cardiovascular health.",
+            "translation": {
+                "ko": "유산소 운동은 심혈관 건강을 향상시키는 데 도움이 됩니다.",
+                "ja": "有酸素運動はあなたの心血管の健康を改善するのに役立ちます。",
+                "zh": "有氧运动有助于改善你的心血管健康。",
+                "fr": "L'exercice aérobie aide à améliorer votre santé cardiovasculaire."
+            }
+        },
+        {
+            "word": "aerial",
+            "part_of_speech": "",
+            "origin": "Latin, aerius (airy, of the air)",
+            "meaning": {
+                "ko": "공기의",
+                "en": "of the air",
+                "ja": "空気の",
+                "zh": "空气的",
+                "fr": "de l'air"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aer (aēr)",
+                    "meaning": {
+                        "ko": "'공기'",
+                        "en": "air",
+                        "ja": "空気",
+                        "zh": "空气",
+                        "fr": "air"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ial",
+                    "meaning": {
+                        "ko": "'~의, ~에 관련된'",
+                        "en": "of, relating to",
+                        "ja": "~の、~に関連した",
+                        "zh": "~的、~相关的",
+                        "fr": "~de, ~relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공기(aer)의'라는 의미에서 '공중의', '항공의'라는 뜻으로 사용되며, 명사로는 '안테나'를 의미하기도 합니다.",
+                "en": "From aer meaning air, used to mean airborne or aviation-related; as a noun also means antenna",
+                "ja": "空気を意味するaerから、空中の、航空のという意味で使われ、名詞としてはアンテナを意味します",
+                "zh": "来自表示空气的aer，用来表示空中的、航空的意思，作为名词也可表示天线",
+                "fr": "De aer signifiant air, utilisé pour dire aérien ou relatif à l'aviation; en tant que nom signifie aussi antenne"
+            },
+            "example": "The aerial photographs clearly showed the damage caused by the storm.",
+            "translation": {
+                "ko": "항공 사진은 폭풍으로 인한 피해를 명확하게 보여주었습니다.",
+                "ja": "空中写真は嵐による被害を明確に示していました。",
+                "zh": "航拍照片清楚地显示了风暴造成的损害。",
+                "fr": "Les photographies aériennes ont clairement montré les dégâts causés par la tempête."
+            }
+        },
+        {
+            "word": "aerodynamic",
+            "part_of_speech": "",
+            "origin": "Greek, aero- (air) + dynamis (power)",
+            "meaning": {
+                "ko": "공기의 힘",
+                "en": "air power",
+                "ja": "空気力学的",
+                "zh": "空气动力学的",
+                "fr": "aérodynamique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "aero-",
+                    "meaning": {
+                        "ko": "'공기'",
+                        "en": "air",
+                        "ja": "空気",
+                        "zh": "空气",
+                        "fr": "air"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dynamic (dynamis)",
+                    "meaning": {
+                        "ko": "'힘, 운동'",
+                        "en": "power, motion",
+                        "ja": "力、運動",
+                        "zh": "力、运动",
+                        "fr": "force, mouvement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공기(aero)의 움직임(dynamic)에 관한'이라는 의미로, 물체가 공기 중에서 받는 힘이나 그 움직임을 연구하는 '공기역학의' 또는 공기 저항을 적게 받도록 설계된 '유선형의'라는 뜻으로 쓰입니다.",
+                "en": "Refers to how objects experience forces or motion through air (aerodynamics), or describes streamlined design to reduce air resistance.",
+                "ja": "空気(aero)の動き(dynamic)に関する意味で、物体が空気中で受ける力やその動きを研究する'空気力学的な'、または空気抵抗を少なく受けるように設計された'流線型の'という意味で使われます。",
+                "zh": "指空气(aero)运动(dynamic)相关的含义，研究物体在空气中受到的力或其运动的'空气动力学的'，或指设计得能够减少空气阻力的'流线型的'。",
+                "fr": "Se rapporte au mouvement de l'air (aero) et à la dynamique (dynamic), signifiant 'aérodynamique' pour l'étude des forces et du mouvement dans l'air, ou 'profilé' pour un design réduisant la résistance aérienne."
+            },
+            "example": "The car has a sleek, aerodynamic design to improve fuel efficiency.",
+            "translation": {
+                "ko": "그 차는 연비를 향상시키기 위해 매끈하고 유선형인 디자인을 가지고 있다.",
+                "ja": "その車は燃料効率を改善するためにすっきりした空気力学的なデザインを持っています。",
+                "zh": "这辆车具有光滑的空气动力学设计，以改善燃油效率。",
+                "fr": "La voiture a un design épuré et aérodynamique pour améliorer l'efficacité carburant."
+            }
+        }
+    ]
+}

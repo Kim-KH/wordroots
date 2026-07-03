@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "lobe (rounded) lobe, lobotomy, lobular",
+        "origin": "Greek, lobos (lobe of the ear or liver)",
+        "meaning": {
+            "ko": "둥근 부분",
+            "en": "rounded part",
+            "ja": "丸い部分",
+            "zh": "圆形部分",
+            "fr": "partie arrondie"
+        }
+    },
+    "words": [
+        {
+            "word": "lobe",
+            "part_of_speech": "",
+            "origin": "Greek, lobos",
+            "meaning": {
+                "ko": "둥근 부분",
+                "en": "round part",
+                "ja": "丸い突出部分",
+                "zh": "圆形突出部分",
+                "fr": "partie arrondie proéminente"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lobe-",
+                    "meaning": {
+                        "ko": "'엽'",
+                        "en": "lobe",
+                        "ja": "葉",
+                        "zh": "叶",
+                        "fr": "lobe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'귀, 뇌, 폐 등의 둥글게 튀어나온 부분'인 '엽'을 뜻합니다.",
+                "en": "Refers to '엽' meaning the rounded protruding parts of ears, brain, lungs, etc.",
+                "ja": "耳、脳、肺などの丸く突き出た部分を意味する'葉'を指します",
+                "zh": "指耳朵、大脑、肺等圆形突出部分的'叶'",
+                "fr": "Désigne le 'lobe' signifiant les parties arrondies proéminentes des oreilles, cerveau, poumons, etc."
+            },
+            "example": "The frontal lobe of the brain is responsible for planning and decision-making.",
+            "translation": {
+                "ko": "뇌의 전두엽은 계획과 의사 결정을 담당한다.",
+                "ja": "脳の前頭葉は計画と意思決定を担当しています",
+                "zh": "大脑的额叶负责计划和决策",
+                "fr": "Le lobe frontal du cerveau est responsable de la planification et de la prise de décision"
+            }
+        },
+        {
+            "word": "lobotomy",
+            "part_of_speech": "",
+            "origin": "Greek, lobos (lobe) + tome (a cutting)",
+            "meaning": {
+                "ko": "뇌엽 절단",
+                "en": "severing of brain lobes",
+                "ja": "脳葉切断術",
+                "zh": "脑叶切除术",
+                "fr": "lobotomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lobo-",
+                    "meaning": {
+                        "ko": "'뇌엽'",
+                        "en": "lobe",
+                        "ja": "脳葉",
+                        "zh": "脑叶",
+                        "fr": "lobe"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tomy",
+                    "meaning": {
+                        "ko": "'절단술'",
+                        "en": "cutting",
+                        "ja": "切断術",
+                        "zh": "切割术",
+                        "fr": "section"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뇌의 전두엽을 절단하는' 정신 외과 수술인 '뇌엽 절제술'을 뜻합니다.",
+                "en": "A neurosurgical procedure involving severing the prefrontal lobe of the brain",
+                "ja": "脳の前頭葉を切断する精神外科手術",
+                "zh": "切断脑前额叶的精神外科手术",
+                "fr": "Intervention neurochirurgicale sectionnant le lobe préfrontal"
+            },
+            "example": "Lobotomy is a controversial and rarely performed surgical procedure.",
+            "translation": {
+                "ko": "뇌엽 절제술은 논란이 많고 거의 시행되지 않는 외과 수술이다.",
+                "ja": "脳葉切断術は議論の多い、ほとんど行われない外科手術です。",
+                "zh": "脑叶切除术是一种有争议且很少进行的外科手术。",
+                "fr": "La lobotomie est une intervention chirurgicale controversée et rarement pratiquée."
+            }
+        },
+        {
+            "word": "lobular",
+            "part_of_speech": "",
+            "origin": "Latin, lobulus (a small lobe)",
+            "meaning": {
+                "ko": "작은 엽",
+                "en": "small lobe",
+                "ja": "小葉の",
+                "zh": "小叶的",
+                "fr": "lobulaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lob-",
+                    "meaning": {
+                        "ko": "'엽'",
+                        "en": "lobe",
+                        "ja": "葉",
+                        "zh": "叶",
+                        "fr": "lobe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 엽으로 이루어진' 또는 '소엽의'라는 뜻입니다.",
+                "en": "Meaning 'composed of small lobes' or 'of small lobes'",
+                "ja": "小葉で構成された、または小葉のという意味です",
+                "zh": "由小叶组成或小叶的意思",
+                "fr": "Signifie 'composé de petits lobes' ou 'des petits lobes'"
+            },
+            "example": "The glands are arranged in a lobular pattern.",
+            "translation": {
+                "ko": "분비선은 소엽 형태로 배열되어 있다.",
+                "ja": "腺は小葉状のパターンで配列されています。",
+                "zh": "腺体以小叶状的模式排列。",
+                "fr": "Les glandes sont disposées selon un motif lobulaire."
+            }
+        }
+    ]
+}

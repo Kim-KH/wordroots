@@ -1,0 +1,232 @@
+{
+    "root_info": {
+        "roots": "foli(o) (leaf) defoliate, exfoliate, folio, foliage, foliate",
+        "origin": "Latin, folium (leaf)",
+        "meaning": {
+            "ko": "나뭇잎",
+            "en": "leaf",
+            "ja": "葉",
+            "zh": "叶子",
+            "fr": "feuille"
+        }
+    },
+    "words": [
+        {
+            "word": "defoliate",
+            "part_of_speech": "",
+            "origin": "Latin, de- (off) + folium (leaf)",
+            "meaning": {
+                "ko": "잎을 없애다",
+                "en": "to remove leaves",
+                "ja": "葉を落とす",
+                "zh": "除去叶片",
+                "fr": "enlever les feuilles"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'~을 없애다'",
+                        "en": "off, away",
+                        "ja": "除去する、離す",
+                        "zh": "移除、离开",
+                        "fr": "enlever, éloigner"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "foli-",
+                    "meaning": {
+                        "ko": "'잎'",
+                        "en": "leaf",
+                        "ja": "葉",
+                        "zh": "叶子",
+                        "fr": "feuille"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나무나 식물의 잎을 떨어뜨리다'는 의미로 '고엽제를 쓰다'라는 뜻입니다.",
+                "en": "Means to strip leaves from trees or plants, often referring to the use of defoliants",
+                "ja": "樹木や植物の葉を落とすこと。枯葉剤の使用を意味する場合もある。",
+                "zh": "指从树木或植物上去除叶片，通常指使用落叶剂。",
+                "fr": "Signifie enlever les feuilles des arbres ou des plantes, souvent en référence à l'utilisation de défoliants."
+            },
+            "example": "The chemical was used to defoliate the jungle.",
+            "translation": {
+                "ko": "그 화학물질은 정글의 잎을 떨어뜨리는 데 사용되었다.",
+                "ja": "その化学物質はジャングルの葉を落とすために使用された。",
+                "zh": "那种化学物质被用来除去丛林的叶片。",
+                "fr": "Le produit chimique a été utilisé pour enlever les feuilles de la jungle."
+            }
+        },
+        {
+            "word": "exfoliate",
+            "part_of_speech": "",
+            "origin": "Latin, ex- (out) + folium (leaf)",
+            "meaning": {
+                "ko": "잎을 벗겨내다",
+                "en": "to strip off leaves",
+                "ja": "角質を取り除く",
+                "zh": "去除角质",
+                "fr": "exfolier"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로, 벗겨내다'",
+                        "en": "out, off",
+                        "ja": "外へ、剥ぎ取る",
+                        "zh": "向外、剥去",
+                        "fr": "dehors, enlever"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "foli-",
+                    "meaning": {
+                        "ko": "'잎, 얇은 층'",
+                        "en": "leaf",
+                        "ja": "葉、薄い層",
+                        "zh": "叶子、薄层",
+                        "fr": "feuille, couche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죽은 피부 세포를 잎처럼 벗겨내다'는 의미에서 '(피부의) 각질을 벗겨내다'라는 뜻입니다.",
+                "en": "The literal meaning of 'remove leaves' from dead skin cells to mean 'remove dead skin cells or keratin from skin'.",
+                "ja": "死んだ皮膚細胞を葉のように剥ぎ取るという字義的意味から、皮膚の角質を取り除くという意味になります。",
+                "zh": "从字面上'像叶子一样剥去死亡皮肤细胞'的含义，延伸为'去除皮肤角质'的意思。",
+                "fr": "Le sens littéral d'enlever les feuilles des cellules mortes pour signifier enlever les cellules mortes ou la kératine de la peau."
+            },
+            "example": "You should exfoliate your skin once a week.",
+            "translation": {
+                "ko": "일주일에 한 번 피부 각질을 제거해야 한다.",
+                "ja": "週に一度、肌を角質除去すべきです。",
+                "zh": "你应该每周去除一次皮肤角质。",
+                "fr": "Vous devriez exfolier votre peau une fois par semaine."
+            }
+        },
+        {
+            "word": "folio",
+            "part_of_speech": "",
+            "origin": "Latin, folium (leaf, sheet)",
+            "meaning": {
+                "ko": "잎, 한 장",
+                "en": "leaf, sheet",
+                "ja": "1枚の紙、一葉",
+                "zh": "纸张、一页",
+                "fr": "feuille de papier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "foli-",
+                    "meaning": {
+                        "ko": "'종이 한 장'",
+                        "en": "sheet of paper",
+                        "ja": "紙一枚",
+                        "zh": "一张纸",
+                        "fr": "feuille de papier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'종이 한 장을 반으로 접어 만든 책의 크기'를 의미하는 '폴리오판' 또는 '작품집'을 뜻합니다.",
+                "en": "A book size made by folding a sheet of paper in half, or a collection of works",
+                "ja": "紙を半分に折って作った書籍のサイズ、または作品集を意味します",
+                "zh": "指将纸张对折制成的书籍尺寸或作品集",
+                "fr": "Taille de livre obtenue en pliant une feuille en deux, ou recueil d'œuvres"
+            },
+            "example": "He published a folio of his photographs.",
+            "translation": {
+                "ko": "그는 그의 사진 작품집을 출판했다.",
+                "ja": "彼は自分の写真集を出版した。",
+                "zh": "他出版了自己的摄影集。",
+                "fr": "Il a publié un recueil de ses photographies."
+            }
+        },
+        {
+            "word": "foliage",
+            "part_of_speech": "",
+            "origin": "Latin, folium (leaf)",
+            "meaning": {
+                "ko": "잎",
+                "en": "leaves",
+                "ja": "木の葉全体",
+                "zh": "树叶总体",
+                "fr": "feuillage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "foli-",
+                    "meaning": {
+                        "ko": "'잎'",
+                        "en": "leaf",
+                        "ja": "葉",
+                        "zh": "叶",
+                        "fr": "feuille"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나뭇잎 전체'를 무성하게 이르는 말입니다.",
+                "en": "Refers to all the leaves of a tree collectively",
+                "ja": "木の葉全体を指す言葉",
+                "zh": "指树木全部叶子的总称",
+                "fr": "Désigne l'ensemble des feuilles d'un arbre"
+            },
+            "example": "The foliage turns beautiful colors in the fall.",
+            "translation": {
+                "ko": "가을에는 나뭇잎이 아름다운 색으로 변한다.",
+                "ja": "秋は木の葉が美しい色に変わります",
+                "zh": "秋天树叶会变成美丽的颜色",
+                "fr": "Le feuillage prend de belles couleurs en automne"
+            }
+        },
+        {
+            "word": "foliate",
+            "part_of_speech": "",
+            "origin": "Latin, foliatus (leafy)",
+            "meaning": {
+                "ko": "잎이 있는",
+                "en": "having leaves",
+                "ja": "葉のある",
+                "zh": "有叶的",
+                "fr": "feuillu"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "foli-",
+                    "meaning": {
+                        "ko": "'잎'",
+                        "en": "leaf",
+                        "ja": "葉",
+                        "zh": "叶",
+                        "fr": "feuille"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잎으로 덮인' 또는 '잎 모양의'라는 뜻입니다.",
+                "en": "Means 'covered with leaves' or 'leaf-shaped'",
+                "ja": "葉で覆われた、または葉の形をしたという意味です",
+                "zh": "意为被叶子覆盖或叶子形状的",
+                "fr": "Signifie couvert de feuilles ou en forme de feuille"
+            },
+            "example": "The column was decorated with foliate patterns.",
+            "translation": {
+                "ko": "그 기둥은 잎 모양의 무늬로 장식되어 있었다.",
+                "ja": "その柱は葉模様の装飾で飾られていた。",
+                "zh": "那根柱子用叶状图案装饰。",
+                "fr": "La colonne était décorée de motifs feuillagés."
+            }
+        }
+    ]
+}

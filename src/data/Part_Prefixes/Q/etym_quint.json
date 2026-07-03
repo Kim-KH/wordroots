@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "quint (five) quintet, quintuplet, quintessence, quintessential",
+        "origin": "Latin, quintus (fifth)",
+        "meaning": {
+            "ko": "다섯 번째",
+            "en": "fifth",
+            "ja": "5番目",
+            "zh": "第五",
+            "fr": "cinquième"
+        }
+    },
+    "words": [
+        {
+            "word": "quintet",
+            "part_of_speech": "",
+            "origin": "Italian, quintetto",
+            "meaning": {
+                "ko": "다섯 개로 된 것",
+                "en": "thing made of five",
+                "ja": "五人組、五重奏",
+                "zh": "五重奏",
+                "fr": "quintette"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quint-",
+                    "meaning": {
+                        "ko": "'다섯'",
+                        "en": "five",
+                        "ja": "五",
+                        "zh": "五",
+                        "fr": "cinq"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다섯 명으로 이루어진 연주단'이라는 의미에서 '5중주단' 또는 '5중주곡'을 뜻합니다.",
+                "en": "A group of five performers or a musical composition for five instruments/voices",
+                "ja": "5人の演奏者または5つの楽器/声のための楽曲",
+                "zh": "五个演奏者组成的乐队或五件乐器的乐曲",
+                "fr": "Un groupe de cinq musiciens ou une composition pour cinq instruments"
+            },
+            "example": "The jazz quintet was performing at the club.",
+            "translation": {
+                "ko": "그 재즈 5중주단은 클럽에서 공연하고 있었다.",
+                "ja": "ジャズ五重奏団はクラブで演奏していた。",
+                "zh": "爵士五重奏乐队在俱乐部演出。",
+                "fr": "Le quintette de jazz se produisait au club."
+            }
+        },
+        {
+            "word": "quintuplet",
+            "part_of_speech": "",
+            "origin": "Latin, quintus (fifth) + -plus (fold)",
+            "meaning": {
+                "ko": "다섯 겹",
+                "en": "five layers",
+                "ja": "五つ子",
+                "zh": "五胞胎",
+                "fr": "quintuplés"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "quint-",
+                    "meaning": {
+                        "ko": "'다섯'",
+                        "en": "five",
+                        "ja": "五つ",
+                        "zh": "五个",
+                        "fr": "cinq"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "한 번에 태어난 '다섯 명의 아이'를 의미하여 '다섯 쌍둥이'를 뜻합니다.",
+                "en": "Refers to five children born at the same time, meaning 'quintuplets'",
+                "ja": "同時に生まれた5人の子どもを意味し、5つ子を指します",
+                "zh": "指同时出生的五个孩子，意思是五胞胎",
+                "fr": "Désigne cinq enfants nés au même moment, signifiant quintuplés"
+            },
+            "example": "The birth of quintuplets is a rare event.",
+            "translation": {
+                "ko": "다섯 쌍둥이의 탄생은 드문 일이다.",
+                "ja": "五つ子の誕生は稀な出来事です。",
+                "zh": "五胞胎的出生是一件罕见的事件。",
+                "fr": "La naissance de quintuplés est un événement rare."
+            }
+        },
+        {
+            "word": "quintessence",
+            "part_of_speech": "",
+            "origin": "Latin, quinta essentia (fifth essence)",
+            "meaning": {
+                "ko": "다섯 번째 원소",
+                "en": "fifth element",
+                "ja": "五番目の要素",
+                "zh": "第五种元素",
+                "fr": "cinquième essence"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quint-",
+                    "meaning": {
+                        "ko": "'다섯 번째'",
+                        "en": "fifth",
+                        "ja": "五番目の",
+                        "zh": "第五的",
+                        "fr": "cinquième"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "essence",
+                    "meaning": {
+                        "ko": "'본질, 정수'",
+                        "en": "essence",
+                        "ja": "本質、精髄",
+                        "zh": "本质、精华",
+                        "fr": "essence, quintessence"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 철학에서 흙, 물, 공기, 불에 이은 '제5의 원소'가 가장 순수한 본질이라고 생각한 데서 유래하여, 어떤 것의 '전형', '정수'를 뜻합니다.",
+                "en": "In ancient philosophy, the fifth element beyond earth, water, air, and fire was considered the purest essence, thus the word came to mean the typical or essential nature of something.",
+                "ja": "古代哲学では、土、水、空気、火に続く第5の要素が最も純粋な本質だと考えられていたため、何かの典型や精髄を意味するようになりました。",
+                "zh": "在古代哲学中，继土、水、空气、火之后的第五元素被认为是最纯净的本质，因此该词来表示某物的典范或精华。",
+                "fr": "En philosophie antique, le cinquième élément au-delà de la terre, de l'eau, de l'air et du feu était considéré comme l'essence la plus pure, d'où le terme signifie la nature typique ou essentielle de quelque chose."
+            },
+            "example": "He was the quintessence of a English gentleman.",
+            "translation": {
+                "ko": "그는 영국 신사의 전형이었다.",
+                "ja": "彼は英国紳士の典型でした。",
+                "zh": "他是英国绅士的典范。",
+                "fr": "Il était l'essence même d'un gentleman anglais."
+            }
+        },
+        {
+            "word": "quintessential",
+            "part_of_speech": "",
+            "origin": "Latin, quinta essentia (fifth essence)",
+            "meaning": {
+                "ko": "다섯 번째 원소",
+                "en": "fifth essence",
+                "ja": "典型的な、本質的な",
+                "zh": "典型的、本质的",
+                "fr": "quintessentiel, typique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quint-",
+                    "meaning": {
+                        "ko": "'다섯 번째'",
+                        "en": "fifth",
+                        "ja": "五番目の",
+                        "zh": "第五的",
+                        "fr": "cinquième"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "essential",
+                    "meaning": {
+                        "ko": "'본질적인'",
+                        "en": "essential or fundamental",
+                        "ja": "本質的な",
+                        "zh": "本质的",
+                        "fr": "essentiel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'quintessence'의 형용사형으로, '전형적인', '본질적인'이라는 뜻입니다.",
+                "en": "Adjective form of 'quintessence' meaning typical or essential",
+                "ja": "'quintessence'の形容詞形で、典型的、本質的という意味",
+                "zh": "'quintessence'的形容词形式，表示典型的、本质的意思",
+                "fr": "Forme adjectivale de 'quintessence', signifiant typique ou essentiel"
+            },
+            "example": "New York is the quintessential big city.",
+            "translation": {
+                "ko": "뉴욕은 전형적인 대도시이다.",
+                "ja": "ニューヨークは典型的な大都市です",
+                "zh": "纽约是典型的大城市",
+                "fr": "New York est la grande ville quintessentielle"
+            }
+        }
+    ]
+}

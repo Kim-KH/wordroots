@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "trache (windpipe) trachea, tracheal, tracheobronchial, tracheotomy",
+        "origin": "Greek, trakheia arteria (rough artery)",
+        "meaning": {
+            "ko": "거친 동맥",
+            "en": "rough artery",
+            "ja": "粗い動脈",
+            "zh": "粗糙动脉",
+            "fr": "artère rugueuse"
+        }
+    },
+    "words": [
+        {
+            "word": "trachea",
+            "part_of_speech": "",
+            "origin": "Greek, trakheia (rough)",
+            "meaning": {
+                "ko": "거친",
+                "en": "rough",
+                "ja": "気管",
+                "zh": "气管",
+                "fr": "trachée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trache-",
+                    "meaning": {
+                        "ko": "'거친, 기관'",
+                        "en": "rough, windpipe",
+                        "ja": "粗い、管",
+                        "zh": "粗糙、管道",
+                        "fr": "rude, tuyau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'표면이 거친 관'이라는 의미에서 '기관', '기도'를 뜻합니다.",
+                "en": "From the meaning 'rough-surfaced tube', it refers to the trachea or airway.",
+                "ja": "表面が粗い管という意味から、気管や気道を指します。",
+                "zh": "从表面粗糙的管这个意思，指气管或气道。",
+                "fr": "Du sens de 'tube à surface rugueuse', il désigne la trachée ou les voies respiratoires."
+            },
+            "example": "The trachea is also known as the windpipe.",
+            "translation": {
+                "ko": "기관은 기도라고도 알려져 있다.",
+                "ja": "気管はまた気道とも呼ばれています。",
+                "zh": "气管也被称为气道。",
+                "fr": "La trachée est aussi appelée les voies respiratoires."
+            }
+        },
+        {
+            "word": "tracheal",
+            "part_of_speech": "",
+            "origin": "Greek, trakheia",
+            "meaning": {
+                "ko": "거친",
+                "en": "rough",
+                "ja": "気管の",
+                "zh": "气管的",
+                "fr": "trachéal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trache-",
+                    "meaning": {
+                        "ko": "'기관'",
+                        "en": "trachea",
+                        "ja": "気管",
+                        "zh": "气管",
+                        "fr": "trachée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기관의'라는 뜻입니다.",
+                "en": "Means relating to the trachea",
+                "ja": "気管に関する意味です",
+                "zh": "表示与气管相关的意思",
+                "fr": "Signifie relatif à la trachée"
+            },
+            "example": "He required a tracheal tube to help him breathe.",
+            "translation": {
+                "ko": "그는 숨을 쉬는 데 도움이 되는 기관 튜브가 필요했다.",
+                "ja": "彼は呼吸を助けるために気管チューブが必要でした。",
+                "zh": "他需要气管插管来帮助呼吸。",
+                "fr": "Il avait besoin d'un tube trachéal pour l'aider à respirer."
+            }
+        },
+        {
+            "word": "tracheobronchial",
+            "part_of_speech": "",
+            "origin": "Greek, trakheia + bronkhos (windpipe)",
+            "meaning": {
+                "ko": "기관과 기관지",
+                "en": "trachea and bronchi",
+                "ja": "気管と気管支",
+                "zh": "气管和支气管",
+                "fr": "trachée et bronches"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tracheo-",
+                    "meaning": {
+                        "ko": "'기관'",
+                        "en": "trachea",
+                        "ja": "気管",
+                        "zh": "气管",
+                        "fr": "trachée"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bronchial",
+                    "meaning": {
+                        "ko": "'기관지의'",
+                        "en": "of the bronchi",
+                        "ja": "気管支の",
+                        "zh": "支气管的",
+                        "fr": "des bronches"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기관과 기관지의'라는 뜻입니다.",
+                "en": "Refers to the trachea and bronchi together",
+                "ja": "気管と気管支を合わせた意味です",
+                "zh": "气管和支气管合在一起的意思",
+                "fr": "Signifie la trachée et les bronches ensemble"
+            },
+            "example": "The tracheobronchial tree is the part of the respiratory system that includes the trachea and the bronchi.",
+            "translation": {
+                "ko": "기관 기관지 나무는 기관과 기관지를 포함하는 호흡계의 일부이다.",
+                "ja": "気管気管支樹は呼吸器系の一部で、気管と気管支を含みます。",
+                "zh": "气管支气管树是呼吸系统的一部分，包括气管和支气管。",
+                "fr": "L'arbre trachéobronchique est la partie du système respiratoire qui inclut la trachée et les bronches."
+            }
+        },
+        {
+            "word": "tracheotomy",
+            "part_of_speech": "",
+            "origin": "Greek, trakheia (windpipe) + tome (a cutting)",
+            "meaning": {
+                "ko": "기도 절개",
+                "en": "incision of the windpipe",
+                "ja": "気管切開術",
+                "zh": "气管切开术",
+                "fr": "trachéotomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tracheo-",
+                    "meaning": {
+                        "ko": "'기관'",
+                        "en": "trachea",
+                        "ja": "気管",
+                        "zh": "气管",
+                        "fr": "trachée"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tomy",
+                    "meaning": {
+                        "ko": "'절개술'",
+                        "en": "cutting",
+                        "ja": "切開",
+                        "zh": "切开",
+                        "fr": "incision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숨을 쉴 수 있도록 기관을 절개하는 수술'인 '기관 절개술'을 뜻합니다.",
+                "en": "A surgical procedure that cuts the trachea to enable breathing",
+                "ja": "呼吸ができるよう気管を切開する手術を意味します",
+                "zh": "指为了能够呼吸而切开气管的手术",
+                "fr": "Une intervention chirurgicale qui incise la trachée pour permettre la respiration"
+            },
+            "example": "A tracheotomy may be necessary in an emergency.",
+            "translation": {
+                "ko": "응급 상황에서는 기관 절개술이 필요할 수 있다.",
+                "ja": "緊急時に気管切開術が必要になることがあります",
+                "zh": "在紧急情况下可能需要进行气管切开术",
+                "fr": "Une trachéotomie peut être nécessaire en cas d'urgence"
+            }
+        }
+    ]
+}

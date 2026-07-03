@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "stasis, stat (stationary, control) homeostasis, static, statue, thermostat",
+        "origin": "Greek, stasis (a standing, a standing still)",
+        "meaning": {
+            "ko": "정지",
+            "en": "a standing still",
+            "ja": "静止",
+            "zh": "静止",
+            "fr": "immobilité"
+        }
+    },
+    "words": [
+        {
+            "word": "homeostasis",
+            "part_of_speech": "",
+            "origin": "Greek, homoios (like) + stasis (a standing still)",
+            "meaning": {
+                "ko": "비슷하게 유지함",
+                "en": "maintaining similarity",
+                "ja": "内部状態を一定に保つ",
+                "zh": "保持内部状态稳定",
+                "fr": "maintenir l'équilibre interne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "homeo-",
+                    "meaning": {
+                        "ko": "'비슷한, 같은'",
+                        "en": "similar",
+                        "ja": "同じ、類似した",
+                        "zh": "相同、相似的",
+                        "fr": "semblable, identique"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stasis",
+                    "meaning": {
+                        "ko": "'정지, 상태'",
+                        "en": "standing still",
+                        "ja": "静止、状態",
+                        "zh": "停止、状态",
+                        "fr": "immobilité, état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'외부 환경 변화에 대해 신체 내부 상태를 비슷하게(일정하게) 유지하려는 성질'인 '항상성'을 뜻합니다.",
+                "en": "Homeostasis refers to the body's ability to maintain similar, stable internal conditions in response to external environmental changes.",
+                "ja": "外部環境の変化に対して、身体の内部状態を一定に保つ性質を示す恒常性を意味します。",
+                "zh": "指身体针对外部环境变化，保持内部状态恒定稳定的能力和性质。",
+                "fr": "Désigne la capacité du corps à maintenir des conditions internes stables et constantes malgré les changements de l'environnement externe."
+            },
+            "example": "Homeostasis is the body's ability to maintain a stable internal environment.",
+            "translation": {
+                "ko": "항상성은 안정적인 내부 환경을 유지하는 신체의 능력이다.",
+                "ja": "ホメオスタシス",
+                "zh": "稳定内部环境",
+                "fr": "homéostasie"
+            }
+        },
+        {
+            "word": "static",
+            "part_of_speech": "",
+            "origin": "Greek, statikos (causing to stand)",
+            "meaning": {
+                "ko": "서게 만드는",
+                "en": "to make stand",
+                "ja": "動かない、静止した",
+                "zh": "不动的、静止的",
+                "fr": "immobile, stationnaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stat-",
+                    "meaning": {
+                        "ko": "'서 있는'",
+                        "en": "standing",
+                        "ja": "立っている",
+                        "zh": "站立的",
+                        "fr": "debout, immobile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직이지 않고 정지해 있는'이라는 뜻입니다.",
+                "en": "Means not moving and remaining stationary",
+                "ja": "動かずに静止している状態を意味します",
+                "zh": "表示不动、保持静止的状态",
+                "fr": "Signifie ne pas bouger et rester immobile"
+            },
+            "example": "The price of oil has remained static for months.",
+            "translation": {
+                "ko": "유가는 몇 달 동안 변동이 없었다.",
+                "ja": "石油の価格は何ヶ月も変わらないままです。",
+                "zh": "油价几个月来保持不变。",
+                "fr": "Le prix du pétrole est resté inchangé pendant des mois."
+            }
+        },
+        {
+            "word": "statue",
+            "part_of_speech": "",
+            "origin": "Latin, statua (a standing image)",
+            "meaning": {
+                "ko": "서 있는 상",
+                "en": "standing figure or image",
+                "ja": "立った像",
+                "zh": "站立的雕像",
+                "fr": "statue debout"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stat- (stare)",
+                    "meaning": {
+                        "ko": "'서다'",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람이나 동물을 세워 놓은 모습으로 만든' '조각상'을 뜻합니다.",
+                "en": "A sculpture depicting a person or animal in a standing posture",
+                "ja": "人や動物を立たせた姿で作った彫刻像を意味します",
+                "zh": "指以人或动物站立的姿态制作的雕塑作品",
+                "fr": "Une sculpture représentant une personne ou un animal dans une posture debout"
+            },
+            "example": "The Statue of Liberty is a famous landmark.",
+            "translation": {
+                "ko": "자유의 여신상은 유명한 랜드마크이다.",
+                "ja": "自由の女神像は有名なランドマークです",
+                "zh": "自由女神像是著名的地标",
+                "fr": "La Statue de la Liberté est un monument célèbre"
+            }
+        },
+        {
+            "word": "thermostat",
+            "part_of_speech": "",
+            "origin": "Greek, therme (heat) + statos (stationary)",
+            "meaning": {
+                "ko": "열을 고정시키는 것",
+                "en": "device that fixes temperature",
+                "ja": "温度を一定に保つ装置",
+                "zh": "保持恒定温度的装置",
+                "fr": "appareil qui maintient température constante"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thermo-",
+                    "meaning": {
+                        "ko": "'열'",
+                        "en": "heat",
+                        "ja": "熱",
+                        "zh": "热",
+                        "fr": "chaleur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stat",
+                    "meaning": {
+                        "ko": "'고정시키는 장치'",
+                        "en": "device that keeps something stationary",
+                        "ja": "固定する装置",
+                        "zh": "保持固定的装置",
+                        "fr": "dispositif qui maintient stable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'온도를 일정하게 유지시키는' 장치인 '온도 조절 장치'를 뜻합니다.",
+                "en": "A device that automatically regulates temperature to keep it constant",
+                "ja": "温度を自動的に調整して一定に保つ装置です",
+                "zh": "自动调节温度以保持恒定的装置",
+                "fr": "appareil qui régule automatiquement la température pour la maintenir constante"
+            },
+            "example": "You can adjust the temperature with the thermostat.",
+            "translation": {
+                "ko": "온도 조절 장치로 온도를 조절할 수 있다.",
+                "ja": "温度調節器で温度を調整できます",
+                "zh": "你可以用温度调节器调节温度",
+                "fr": "Vous pouvez ajuster la température avec le thermostat"
+            }
+        }
+    ]
+}

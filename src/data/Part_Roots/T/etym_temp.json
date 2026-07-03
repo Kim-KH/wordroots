@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "temp (time, state) temper, temporary, temperature",
+        "origin": "Latin, tempus (time, a period)",
+        "meaning": {
+            "ko": "시간",
+            "en": "time",
+            "ja": "時間",
+            "zh": "时间",
+            "fr": "temps"
+        }
+    },
+    "words": [
+        {
+            "word": "temper",
+            "part_of_speech": "",
+            "origin": "Latin, temperare (to mix, to regulate)",
+            "meaning": {
+                "ko": "섞다, 조절하다",
+                "en": "to mix, to regulate",
+                "ja": "混ぜる、調節する",
+                "zh": "混合、调节",
+                "fr": "mélanger, tempérer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "temp- (tempus)",
+                    "meaning": {
+                        "ko": "'시간, 상태'",
+                        "en": "time, state",
+                        "ja": "時間、状態",
+                        "zh": "时间、状态",
+                        "fr": "temps, état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'적절한 상태로 조절하다'는 의미에서 유래하여, 마음의 상태인 '기질', '성미'를 뜻하게 되었습니다.",
+                "en": "Derived from the meaning 'to adjust to an appropriate state', it came to mean 'temperament' or 'disposition', which is a state of mind.",
+                "ja": "適切な状態に調節するという意味から派生し、心の状態である気質、性質を意味するようになりました。",
+                "zh": "源自'调节至适当状态'的含义，后来演变为表示'气质'或'性格'，即心理状态。",
+                "fr": "Dérivé du sens 'd'ajuster à un état approprié', il en est venu à signifier 'tempérament' ou 'disposition', un état d'esprit."
+            },
+            "example": "He has a quick temper.",
+            "translation": {
+                "ko": "그는 성미가 급하다.",
+                "ja": "彼は気が短い。",
+                "zh": "他脾气急躁。",
+                "fr": "Il a un tempérament vif."
+            }
+        },
+        {
+            "word": "temporary",
+            "part_of_speech": "",
+            "origin": "Latin, temporarius (lasting for a time)",
+            "meaning": {
+                "ko": "한동안 지속되는",
+                "en": "lasting for a while",
+                "ja": "一時的な",
+                "zh": "暂时的",
+                "fr": "temporaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tempor- (tempus)",
+                    "meaning": {
+                        "ko": "'시간'",
+                        "en": "time",
+                        "ja": "時間",
+                        "zh": "时间",
+                        "fr": "temps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'영원하지 않고 한정된 시간 동안만 지속되는'이라는 의미에서 '일시적인'이라는 뜻입니다.",
+                "en": "Meaning 'temporary' or 'transient' in the sense of lasting only for a limited time, not permanent",
+                "ja": "永遠ではなく限定された時間だけ続く意味から一時的という意味です",
+                "zh": "从不永久、仅在有限时间内持续的意义上表示临时的",
+                "fr": "Signifie 'temporaire' ou 'éphémère' au sens de durer seulement pendant une période limitée, non permanent"
+            },
+            "example": "This is just a temporary solution.",
+            "translation": {
+                "ko": "이것은 단지 임시적인 해결책일 뿐이다.",
+                "ja": "これはただの一時的な解決策です",
+                "zh": "这只是一个暂时的解决方案",
+                "fr": "Ce n'est qu'une solution temporaire"
+            }
+        },
+        {
+            "word": "temperature",
+            "part_of_speech": "",
+            "origin": "Latin, temperatura (a due mixture, a tempering)",
+            "meaning": {
+                "ko": "적절한 혼합, 조절",
+                "en": "proper mixture, regulation",
+                "ja": "適切な混合、調節",
+                "zh": "适当的混合、调节",
+                "fr": "mélange approprié, régulation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "temper- (tempus)",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸의 상태를 나타내는' 덥고 찬 정도인 '온도', '체온'을 뜻합니다.",
+                "en": "The temperature is rising.",
+                "ja": "体の状態を示す熱さと冷たさの程度である温度、体温を意味します。",
+                "zh": "表示身体状态的冷热程度，即温度、体温的意思。",
+                "fr": "La température est la mesure de la chaleur et du froid indiquant l'état du corps, signifiant chaleur corporelle."
+            },
+            "example": "The temperature is rising.",
+            "translation": {
+                "ko": "기온이 오르고 있다.",
+                "ja": "気温が上昇しています。",
+                "zh": "温度正在上升。",
+                "fr": "La température augmente."
+            }
+        }
+    ]
+}

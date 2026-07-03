@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "hem(o), hemat (blood) hematoma, hemoglobin, hemophilia, hemostat",
+        "origin": "Greek, haima (blood)",
+        "meaning": {
+            "ko": "피",
+            "en": "blood",
+            "ja": "血",
+            "zh": "血",
+            "fr": "sang"
+        }
+    },
+    "words": [
+        {
+            "word": "hematoma",
+            "part_of_speech": "",
+            "origin": "Greek, haima (blood) + -oma (tumor)",
+            "meaning": {
+                "ko": "피의 종양",
+                "en": "blood tumor or swelling",
+                "ja": "血液の腫瘤",
+                "zh": "血液肿块",
+                "fr": "hématome sanguin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hemat-",
+                    "meaning": {
+                        "ko": "'피'",
+                        "en": "blood",
+                        "ja": "血液",
+                        "zh": "血液",
+                        "fr": "sang"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-oma",
+                    "meaning": {
+                        "ko": "'종양'",
+                        "en": "tumor",
+                        "ja": "腫瘍",
+                        "zh": "肿瘤",
+                        "fr": "tumeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피가 조직 내에 고여서 생긴 덩어리'인 '혈종'을 뜻합니다.",
+                "en": "A hematoma is a swelling of blood accumulated within tissues.",
+                "ja": "血液が組織内に溜まることで生じた腫れを意味します",
+                "zh": "血液在组织内积累形成的肿块",
+                "fr": "Un hématome est une accumulation de sang dans les tissus"
+            },
+            "example": "He developed a large hematoma on his leg after the fall.",
+            "translation": {
+                "ko": "그는 넘어진 후 다리에 큰 혈종이 생겼다.",
+                "ja": "彼は転倒後、脚に大きな血腫を生じた",
+                "zh": "他跌倒后腿上形成了一个大血肿",
+                "fr": "Il a développé un large hématome à la jambe après la chute"
+            }
+        },
+        {
+            "word": "hemoglobin",
+            "part_of_speech": "",
+            "origin": "Greek, haima (blood) + Latin, globus (ball)",
+            "meaning": {
+                "ko": "피의 공",
+                "en": "blood sphere",
+                "ja": "血液のタンパク質",
+                "zh": "血液蛋白质",
+                "fr": "protéine du sang"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hemo-",
+                    "meaning": {
+                        "ko": "'피'",
+                        "en": "blood",
+                        "ja": "血液",
+                        "zh": "血液",
+                        "fr": "sang"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "globin",
+                    "meaning": {
+                        "ko": "'글로빈'",
+                        "en": "a type of protein",
+                        "ja": "タンパク質の一種",
+                        "zh": "蛋白质的一种",
+                        "fr": "type de protéine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피 속에 있는 공 모양의 단백질'이라는 의미에서 '헤모글로빈(혈색소)'을 뜻합니다.",
+                "en": "Hemoglobin refers to a spherical protein found in blood that carries oxygen",
+                "ja": "血液に含まれる球状のタンパク質という意味から、酸素を運ぶヘモグロビンを指します",
+                "zh": "从血液中含有的球形蛋白质的意义来看，指的是能运输氧气的血红蛋白",
+                "fr": "Fait référence à une protéine sphérique présente dans le sang qui transporte l'oxygène"
+            },
+            "example": "Hemoglobin carries oxygen from the lungs to the rest of the body.",
+            "translation": {
+                "ko": "헤모글로빈은 폐에서 몸의 나머지 부분으로 산소를 운반한다.",
+                "ja": "ヘモグロビンは肺から体の残りの部分に酸素を運ぶ",
+                "zh": "血红蛋白将氧气从肺运送到身体其他部分",
+                "fr": "L'hémoglobine transporte l'oxygène des poumons vers le reste du corps"
+            }
+        },
+        {
+            "word": "hemophilia",
+            "part_of_speech": "",
+            "origin": "Greek, haima (blood) + philia (love, tendency)",
+            "meaning": {
+                "ko": "피를 사랑함",
+                "en": "love of blood",
+                "ja": "血を愛する",
+                "zh": "爱血",
+                "fr": "amour du sang"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hemo-",
+                    "meaning": {
+                        "ko": "'피'",
+                        "en": "blood",
+                        "ja": "血",
+                        "zh": "血",
+                        "fr": "sang"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "philia",
+                    "meaning": {
+                        "ko": "'경향'",
+                        "en": "tendency or inclination",
+                        "ja": "傾向",
+                        "zh": "倾向",
+                        "fr": "tendance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피가 멈추지 않고 계속 흐르는 경향이 있는' 유전병이라는 의미에서 '혈우병'을 뜻합니다.",
+                "en": "A genetic disorder where blood continues to flow without stopping",
+                "ja": "血が止まらず流れ続ける遺伝病",
+                "zh": "血液无法停止流动的遗传病",
+                "fr": "Maladie génétique où le sang ne cesse de s'écouler"
+            },
+            "example": "Hemophilia is a rare bleeding disorder.",
+            "translation": {
+                "ko": "혈우병은 희귀한 출혈성 질환이다.",
+                "ja": "血友病は稀な出血性疾患です。",
+                "zh": "血友病是一种罕见的出血障碍。",
+                "fr": "L'hémophilie est un trouble hémorragique rare."
+            }
+        },
+        {
+            "word": "hemostat",
+            "part_of_speech": "",
+            "origin": "Greek, haima (blood) + stasis (a standing still)",
+            "meaning": {
+                "ko": "피를 멈추게 하는 것",
+                "en": "something that stops blood",
+                "ja": "止血器具",
+                "zh": "止血器",
+                "fr": "hémostat"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hemo-",
+                    "meaning": {
+                        "ko": "'피'",
+                        "en": "blood",
+                        "ja": "血",
+                        "zh": "血",
+                        "fr": "sang"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stat",
+                    "meaning": {
+                        "ko": "'멈추게 하는 것'",
+                        "en": "something that stops",
+                        "ja": "止める物",
+                        "zh": "停止的东西",
+                        "fr": "arrêteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'출혈을 멈추게 하는 의료 기구'인 '지혈 겸자'를 뜻합니다.",
+                "en": "A medical instrument that clamps bleeding vessels to stop hemorrhage",
+                "ja": "出血を止めるための医療器具で、血管をクランプして止血します",
+                "zh": "用于止血的医疗器械，通过夹持血管来停止出血",
+                "fr": "Instrument médical qui pince les vaisseaux saignants pour arrêter l'hémorragie"
+            },
+            "example": "The surgeon used a hemostat to clamp the bleeding vessel.",
+            "translation": {
+                "ko": "외과 의사는 출혈하는 혈관을 막기 위해 지혈 겸자를 사용했다.",
+                "ja": "外科医は出血している血管をクランプするために止血器具を使用しました",
+                "zh": "外科医生使用止血器来夹持出血的血管",
+                "fr": "Le chirurgien a utilisé un hémostat pour pincer le vaisseau qui saignait"
+            }
+        }
+    ]
+}

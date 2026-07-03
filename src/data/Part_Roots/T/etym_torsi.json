@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "torsi (twist) torque, torsion, tortellini, tortuous",
+        "origin": "Latin, torquere, tortus (to twist)",
+        "meaning": {
+            "ko": "비틀다",
+            "en": "to twist",
+            "ja": "ねじる",
+            "zh": "扭转",
+            "fr": "tordre"
+        }
+    },
+    "words": [
+        {
+            "word": "torque",
+            "part_of_speech": "",
+            "origin": "Latin, torquere (to twist)",
+            "meaning": {
+                "ko": "비틀다",
+                "en": "to twist",
+                "ja": "回転力",
+                "zh": "扭转力",
+                "fr": "couple de force"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "torqu-",
+                    "meaning": {
+                        "ko": "'비틀다'",
+                        "en": "to twist",
+                        "ja": "ねじる",
+                        "zh": "扭转",
+                        "fr": "tordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물체를 회전시키는 힘'인 '토크', '회전력'을 뜻합니다.",
+                "en": "Refers to torque, rotational force that causes an object to rotate",
+                "ja": "物体を回転させる力である'トルク'、'回転力'を意味します",
+                "zh": "指使物体旋转的力'扭矩'、'旋转力'",
+                "fr": "Désigne le couple, la force de rotation qui fait tourner un objet"
+            },
+            "example": "The engine produces a lot of torque.",
+            "translation": {
+                "ko": "그 엔진은 많은 회전력을 생산한다.",
+                "ja": "エンジンは大きな回転力を生み出す",
+                "zh": "引擎产生很大的扭转力",
+                "fr": "Le moteur produit beaucoup de couple"
+            }
+        },
+        {
+            "word": "torsion",
+            "part_of_speech": "",
+            "origin": "Latin, torsio (a twisting)",
+            "meaning": {
+                "ko": "비틀림",
+                "en": "twisting or turning action",
+                "ja": "ねじれ",
+                "zh": "扭转",
+                "fr": "torsion"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tors-",
+                    "meaning": {
+                        "ko": "'비틀다'",
+                        "en": "to twist",
+                        "ja": "ねじる",
+                        "zh": "扭转",
+                        "fr": "tordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비트는 행위' 또는 '비틀린 상태'인 '비틀림'을 뜻합니다.",
+                "en": "The state or act of twisting",
+                "ja": "ねじる行為またはねじれた状態を意味します",
+                "zh": "表示扭转的行为或被扭转的状态",
+                "fr": "L'acte ou l'état de tordre"
+            },
+            "example": "The metal rod broke under torsion.",
+            "translation": {
+                "ko": "그 금속 막대는 비틀림 때문에 부러졌다.",
+                "ja": "金属棒は捩じれで壊れた。",
+                "zh": "金属棒在扭转下断裂。",
+                "fr": "La tige métallique s'est cassée sous torsion."
+            }
+        },
+        {
+            "word": "tortellini",
+            "part_of_speech": "",
+            "origin": "Italian, tortello (a small cake or fritter)",
+            "meaning": {
+                "ko": "작은 케이크",
+                "en": "small cake",
+                "ja": "小さなパスタ",
+                "zh": "小型意大利面",
+                "fr": "petites pâtes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tort- (torquere)",
+                    "meaning": {
+                        "ko": "'비틀다'",
+                        "en": "to twist",
+                        "ja": "ねじる",
+                        "zh": "扭转",
+                        "fr": "tordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반죽을 꼬아서 만든 작은 파스타'인 '토르텔리니'를 뜻합니다.",
+                "en": "Tortellini refers to small pasta made by twisting dough.",
+                "ja": "生地をねじって作った小さなパスタの『トルテリーニ』を意味します。",
+                "zh": "'托特利尼'是指用扭转面团制作的小型意大利面。",
+                "fr": "Tortellini désigne les petites pâtes fabriquées en tordant la pâte."
+            },
+            "example": "Tortellini is often served in broth or with a cream sauce.",
+            "translation": {
+                "ko": "토르텔리니는 종종 맑은 수프나 크림 소스와 함께 제공된다.",
+                "ja": "トルテリーニは、スープやクリームソースで提供されることが多い。",
+                "zh": "托特利尼通常用肉汤或奶油酱食用。",
+                "fr": "Les tortellini sont souvent servis dans un bouillon ou avec une sauce à la crème."
+            }
+        },
+        {
+            "word": "tortuous",
+            "part_of_speech": "",
+            "origin": "Latin, tortuosus (full of twists)",
+            "meaning": {
+                "ko": "비틀림으로 가득 찬",
+                "en": "full of twists and turns",
+                "ja": "ねじれた、曲がりくねった",
+                "zh": "弯曲的、复杂的",
+                "fr": "tortueux, sinueux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tortu- (torquere)",
+                    "meaning": {
+                        "ko": "'비틀다'",
+                        "en": "to twist",
+                        "ja": "ねじる、曲げる",
+                        "zh": "扭转、弯曲",
+                        "fr": "tordre, tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'구불구불한' 또는 이야기가 '복잡하고 길고 복잡한'이라는 뜻입니다.",
+                "en": "Means winding or twisting; also describing complex and lengthy stories",
+                "ja": "曲がりくねっている、または物語が複雑で長く込み入っているという意味です",
+                "zh": "指蜿蜒曲折，或故事复杂冗长的意思",
+                "fr": "Signifie sinueux ou compliqué; décrit aussi les histoires complexes et longues"
+            },
+            "example": "The path to the summit was long and tortuous.",
+            "translation": {
+                "ko": "정상으로 가는 길은 길고 구불구불했다.",
+                "ja": "山頂への道のりは長く、曲がりくねっていた。",
+                "zh": "通往山顶的路漫长而蜿蜒。",
+                "fr": "Le chemin vers le sommet était long et tortueux."
+            }
+        }
+    ]
+}

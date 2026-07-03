@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "phag (eat) esophagus, macrophage, phagocyte, sarcophagus",
+        "origin": "Greek, phagein (to eat)",
+        "meaning": {
+            "ko": "먹다",
+            "en": "to eat",
+            "ja": "食べる",
+            "zh": "吃",
+            "fr": "manger"
+        }
+    },
+    "words": [
+        {
+            "word": "esophagus",
+            "part_of_speech": "",
+            "origin": "Greek, oisophagos",
+            "meaning": {
+                "ko": "음식을 나르는 것",
+                "en": "tube that carries food",
+                "ja": "食べ物を運ぶ管",
+                "zh": "运输食物的管道",
+                "fr": "tube transportant la nourriture"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "eso- (oiso-)",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "运输",
+                        "fr": "transporter"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phagos",
+                    "meaning": {
+                        "ko": "'먹다'",
+                        "en": "to eat",
+                        "ja": "食べる",
+                        "zh": "吃",
+                        "fr": "manger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음식을 (위장으로) 나르는 통로'라는 의미에서 '식도'를 뜻합니다.",
+                "en": "The esophagus is a muscular tube connecting the throat with the stomach, literally meaning the passage that carries food to the stomach.",
+                "ja": "食道は咽頭と胃を結ぶ筋肉質の管で、文字通り食物を胃に運ぶ通路を意味します。",
+                "zh": "食道是连接咽喉和胃的肌肉管，字面上指的是将食物运送到胃部的通道。",
+                "fr": "L'œsophage est un tube musculaire reliant le pharynx à l'estomac, signifiant littéralement le passage qui transporte la nourriture vers l'estomac."
+            },
+            "example": "The esophagus is a muscular tube connecting the throat with the stomach.",
+            "translation": {
+                "ko": "식도는 목과 위를 연결하는 근육질의 관이다.",
+                "ja": "食道",
+                "zh": "食道",
+                "fr": "œsophage"
+            }
+        },
+        {
+            "word": "macrophage",
+            "part_of_speech": "",
+            "origin": "Greek, makros (large) + phagein (to eat)",
+            "meaning": {
+                "ko": "크게 먹는 것",
+                "en": "eating greatly",
+                "ja": "大きく食べる細胞",
+                "zh": "大型吞噬细胞",
+                "fr": "grande cellule mangeuse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "macro-",
+                    "meaning": {
+                        "ko": "'큰'",
+                        "en": "large",
+                        "ja": "大きい",
+                        "zh": "大的",
+                        "fr": "grand"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phage",
+                    "meaning": {
+                        "ko": "'먹는 세포'",
+                        "en": "eater",
+                        "ja": "食べる細胞",
+                        "zh": "吞噬细胞",
+                        "fr": "cellule mangeuse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸 안에 침입한 세균 등을 크게 잡아먹는' 면역 세포인 '대식세포'를 뜻합니다.",
+                "en": "A type of white blood cell that ingests invading bacteria and pathogens in the body",
+                "ja": "体内に侵入した細菌などを大きく食べ込む免疫細胞である大食細胞を意味します",
+                "zh": "一种白血球，能吞噬入侵体内的细菌等病原体的免疫细胞",
+                "fr": "Un type de globule blanc qui ingère les bactéries et agents pathogènes envahisseurs dans le corps"
+            },
+            "example": "Macrophages are a type of white blood cell.",
+            "translation": {
+                "ko": "대식세포는 백혈구의 일종이다.",
+                "ja": "大食細胞は白血球の一種です",
+                "zh": "巨噬细胞是一种白血球",
+                "fr": "Les macrophages sont un type de globule blanc"
+            }
+        },
+        {
+            "word": "phagocyte",
+            "part_of_speech": "",
+            "origin": "Greek, phagein (to eat) + kytos (hollow, cell)",
+            "meaning": {
+                "ko": "먹는 세포",
+                "en": "cell that eats",
+                "ja": "食べる細胞",
+                "zh": "吃的细胞",
+                "fr": "cellule mangeuse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phago-",
+                    "meaning": {
+                        "ko": "'먹다'",
+                        "en": "to eat",
+                        "ja": "食べる",
+                        "zh": "吃",
+                        "fr": "manger"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyte",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸속의 이물질을 잡아먹는 세포'인 '식세포'를 뜻합니다.",
+                "en": "A phagocyte is a cell that engulfs and digests foreign particles in the body",
+                "ja": "体内の異物を捕食する細胞である食細胞を意味します",
+                "zh": "指吞噬身体内异物的细胞",
+                "fr": "Cellule qui ingère et digère les particules étrangères dans le corps"
+            },
+            "example": "A phagocyte is a cell that engulfs and digests foreign particles.",
+            "translation": {
+                "ko": "식세포는 외부 입자를 감싸고 소화시키는 세포이다.",
+                "ja": "食細胞",
+                "zh": "吞噬细胞",
+                "fr": "phagocyte"
+            }
+        },
+        {
+            "word": "sarcophagus",
+            "part_of_speech": "",
+            "origin": "Greek, sarkophagos (flesh-eating)",
+            "meaning": {
+                "ko": "살을 먹는",
+                "en": "eating flesh",
+                "ja": "肉を食べる石棺",
+                "zh": "吃肉的石棺",
+                "fr": "mangeur de chair"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sarco-",
+                    "meaning": {
+                        "ko": "'살'",
+                        "en": "flesh",
+                        "ja": "肉",
+                        "zh": "肉",
+                        "fr": "chair"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phagus",
+                    "meaning": {
+                        "ko": "'먹는 것'",
+                        "en": "eater",
+                        "ja": "食べるもの",
+                        "zh": "吃的东西",
+                        "fr": "mangeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시신의 살을 먹어 없애는' 돌로 만든 관이라는 의미에서 '석관'을 뜻합니다.",
+                "en": "Stone coffin that eats/consumes the flesh of corpses",
+                "ja": "遺体の肉を食べて消す石で作られた棺という意味から、石棺を指します",
+                "zh": "从吃掉尸体肉质的石制棺材的含义来指代石棺",
+                "fr": "Cercueil en pierre qui consume la chair des cadavres, d'où le nom de sarcophage"
+            },
+            "example": "The ancient sarcophagus was elaborately carved.",
+            "translation": {
+                "ko": "그 고대 석관은 정교하게 조각되어 있었다.",
+                "ja": "古い石棺は精密に彫られていました",
+                "zh": "古代的石棺被精细地雕刻了",
+                "fr": "Le sarcophage antique était élaborément sculpté"
+            }
+        }
+    ]
+}

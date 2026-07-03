@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "plum (feather) plumage, plumate, plume",
+        "origin": "Latin, pluma (a feather)",
+        "meaning": {
+            "ko": "깃털",
+            "en": "feather",
+            "ja": "羽毛",
+            "zh": "羽毛",
+            "fr": "plume"
+        }
+    },
+    "words": [
+        {
+            "word": "plumage",
+            "part_of_speech": "",
+            "origin": "Latin, pluma (feather)",
+            "meaning": {
+                "ko": "깃털",
+                "en": "feathers",
+                "ja": "鳥の羽毛",
+                "zh": "鸟的羽毛",
+                "fr": "plumage des oiseaux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plum-",
+                    "meaning": {
+                        "ko": "'깃털'",
+                        "en": "feather",
+                        "ja": "羽毛",
+                        "zh": "羽毛",
+                        "fr": "plume"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새의 몸 전체를 덮고 있는 깃털'인 '우모(羽毛)'를 뜻합니다.",
+                "en": "Refers to feathers covering a bird's entire body",
+                "ja": "鳥の体全体を覆う羽毛を意味します",
+                "zh": "指覆盖鸟类整个身体的羽毛",
+                "fr": "Désigne les plumes couvrant tout le corps d'un oiseau"
+            },
+            "example": "The male peacock has a beautiful plumage.",
+            "translation": {
+                "ko": "수컷 공작은 아름다운 깃털을 가지고 있다.",
+                "ja": "オスの孔雀は美しい羽毛を持っています。",
+                "zh": "雄孔雀有美丽的羽毛。",
+                "fr": "Le paon mâle a un magnifique plumage."
+            }
+        },
+        {
+            "word": "plumate",
+            "part_of_speech": "",
+            "origin": "Latin, plumatus (feathered)",
+            "meaning": {
+                "ko": "깃털이 있는",
+                "en": "having feathers",
+                "ja": "羽毛がある",
+                "zh": "有羽毛的",
+                "fr": "garni de plumes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plum-",
+                    "meaning": {
+                        "ko": "'깃털'",
+                        "en": "feather",
+                        "ja": "羽毛",
+                        "zh": "羽毛",
+                        "fr": "plume"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깃털이 있는'이라는 뜻입니다.",
+                "en": "Having feathers or feather-like structures",
+                "ja": "羽毛を持つという意味です",
+                "zh": "具有羽毛的意思",
+                "fr": "Cela signifie avoir des plumes"
+            },
+            "example": "The ancient arrow was plumate.",
+            "translation": {
+                "ko": "그 고대 화살에는 깃털이 달려 있었다.",
+                "ja": "古い矢は羽毛がついていた。",
+                "zh": "古箭具有羽毛。",
+                "fr": "L'ancienne flèche était garnie de plumes."
+            }
+        },
+        {
+            "word": "plume",
+            "part_of_speech": "",
+            "origin": "Latin, pluma (feather)",
+            "meaning": {
+                "ko": "깃털",
+                "en": "feather",
+                "ja": "羽毛",
+                "zh": "羽毛",
+                "fr": "plume"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plum-",
+                    "meaning": {
+                        "ko": "'깃털'",
+                        "en": "feather",
+                        "ja": "羽毛",
+                        "zh": "羽毛",
+                        "fr": "plume"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'크고 화려한 깃털 장식' 또는 '(연기, 수증기 등이) 깃털처럼 피어오르는 기둥'을 뜻합니다.",
+                "en": "Large decorative feather ornament or a column of smoke, vapor, etc. rising like a feather",
+                "ja": "大きく華やかな羽毛装飾、または煙や水蒸気などが羽毛のように立ち上る柱",
+                "zh": "大而华丽的羽毛装饰或烟雾等像羽毛一样升起的柱子",
+                "fr": "Grand ornement de plume décoratif ou colonne de fumée s'élevant comme une plume"
+            },
+            "example": "A plume of smoke rose from the chimney.",
+            "translation": {
+                "ko": "굴뚝에서 연기 기둥이 피어올랐다.",
+                "ja": "煙の柱が煙突から立ち上った。",
+                "zh": "烟柱从烟囱升起。",
+                "fr": "Un panache de fumée s'élevait de la cheminée."
+            }
+        }
+    ]
+}

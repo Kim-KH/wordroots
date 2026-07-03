@@ -1,0 +1,351 @@
+{
+    "root_info": {
+        "roots": "jac, ject",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "던지다",
+            "en": "to throw",
+            "ja": "投げる",
+            "zh": "扔",
+            "fr": "jeter"
+        }
+    },
+    "words": [
+        {
+            "word": "reject",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "던지다",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "扔",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 던져 버리다'는 의미에서 '거절하다', '거부하다'는 뜻입니다.",
+                "en": "From the sense 'to throw back', meaning to refuse or decline",
+                "ja": "「後ろへ投げ捨てる」という意味から、「拒否する」「断る」という意味になります。",
+                "zh": "从「向后扔掉」的含义引申为「拒绝」「否定」的意思。",
+                "fr": "Du sens « jeter vers l'arrière », signifiant refuser ou rejeter."
+            },
+            "example": "My application was rejected.",
+            "translation": {
+                "ko": "내 지원서는 거절되었다.",
+                "ja": "私の願書は却下された。",
+                "zh": "我的申请被拒绝了。",
+                "fr": "Ma candidature a été rejetée."
+            }
+        },
+        {
+            "word": "eject",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "던지다",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "抛",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 던지다'는 의미에서 '내쫓다', '분출하다', 조종사 등이 '탈출하다'는 뜻으로 쓰입니다.",
+                "en": "From the sense of 'throw out,' it means to expel, discharge, or for pilots to escape by ejection.",
+                "ja": "「外へ投げる」という意味から、「追い出す」「噴出させる」、パイロットなどが「脱出する」という意味で使われます。",
+                "zh": "从「向外抛」的意思派生，表示「驱逐」「喷出」，以及飞行员等「弹射逃生」的含义。",
+                "fr": "Du sens de « lancer dehors », il signifie expulser, rejeter, ou pour les pilotes s'échapper par éjection."
+            },
+            "example": "Please eject the disk.",
+            "translation": {
+                "ko": "디스크를 꺼내주세요.",
+                "ja": "ディスクを取り出してください。",
+                "zh": "请弹出光盘。",
+                "fr": "Veuillez éjecter le disque."
+            }
+        },
+        {
+            "word": "project",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "던지다",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "抛",
+                        "fr": "lancer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 던져진 계획'이라는 의미에서 '(연구, 사업) 계획', '과제'를 뜻합니다. 동사로는 '투영하다', '계획하다'는 뜻입니다.",
+                "en": "From the meaning of 'a plan thrown forward', it means '(research, business) plan' or 'task'. As a verb, it means 'to project' or 'to plan'.",
+                "ja": "'前へ投げられた計画'という意味から、'(研究、事業)計画'、'課題'を意味します。動詞としては'投影する'、'計画する'という意味です。",
+                "zh": "从'向前抛出的计划'的含义，指'(研究、事业)计划'或'任务'。作为动词，表示'投影'、'规划'的意思。",
+                "fr": "Du sens de 'un plan jeté en avant', il signifie '(recherche, affaires) plan' ou 'tâche'. En tant que verbe, il signifie 'projeter' ou 'planifier'."
+            },
+            "example": "We are working on a new project.",
+            "translation": {
+                "ko": "우리는 새로운 프로젝트를 진행 중이다.",
+                "ja": "私たちは新しいプロジェクトに取り組んでいます。",
+                "zh": "我们在进行一个新项目。",
+                "fr": "Nous travaillons sur un nouveau projet."
+            }
+        },
+        {
+            "word": "trajectory",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tra- (trans-)",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横贯",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "던지다",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "投掷",
+                        "fr": "lancer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'던져진 물체가 가로질러 날아가는 길' 즉, '궤도', '탄도'를 의미합니다.",
+                "en": "Path of a thrown object crossing through space; orbit or ballistic path",
+                "ja": "投げられた物体が横切って飛ぶ道、つまり軌道や弾道を意味します",
+                "zh": "被投掷物体横贯穿过空间的路径，即轨道或弹道",
+                "fr": "Le chemin par lequel un objet lancé traverse l'espace; une orbite ou une trajectoire balistique"
+            },
+            "example": "The missile's trajectory was calculated.",
+            "translation": {
+                "ko": "그 미사일의 궤도가 계산되었다.",
+                "ja": "そのミサイルの軌道が計算された。",
+                "zh": "那枚导弹的轨迹被计算出来了。",
+                "fr": "La trajectoire du missile a été calculée."
+            }
+        },
+        {
+            "word": "interject",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "在…之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "던지다",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "投掷",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "말 '사이에 (말을) 던져 넣다'는 의미에서 '불쑥 끼어들다', '말참견하다'는 뜻입니다.",
+                "en": "From the sense of throwing words between speech: to interrupt or interpose a remark",
+                "ja": "会話の間に言葉を投げ込む意味から、突然口を挟む、割り込むという意味になった",
+                "zh": "从在说话中间投入言葉的意义引申为突然插话、打断的意思",
+                "fr": "Du sens de jeter des paroles au milieu de la conversation : interrompre ou insérer une remarque"
+            },
+            "example": "He interjected a brief comment.",
+            "translation": {
+                "ko": "그는 짧은 논평을 불쑥 끼워 넣었다.",
+                "ja": "彼は短い意見を突然挟んだ。",
+                "zh": "他突然插入了一句简短的评论。",
+                "fr": "Il a soudainement inséré un bref commentaire."
+            }
+        },
+        {
+            "word": "dejected",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "아래로",
+                        "en": "down",
+                        "ja": "下へ",
+                        "zh": "向下",
+                        "fr": "vers le bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "던지다",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "扔",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "기분이나 사기가 '아래로 내던져진' 상태를 의미하며, '낙담한', '기가 죽은'이라는 뜻입니다.",
+                "en": "Describes a state where one's mood or spirit is 'thrown downward,' meaning dispirited or disheartened.",
+                "ja": "気分や士気が『下へ投げ落とされた』状態を意味し、『がっかりした』『気が沈んだ』という意味です。",
+                "zh": "表示情绪或士气被'向下投掷'的状态，意为'沮丧的'、'灰心丧气的'。",
+                "fr": "Décrit un état où l'humeur ou le moral est 'jeté vers le bas', signifiant découragé ou déprimé."
+            },
+            "example": "She looked dejected after the loss.",
+            "translation": {
+                "ko": "그녀는 패배 후 낙담한 모습이었다.",
+                "ja": "彼女は敗北後、落ち込んだ表情をしていた。",
+                "zh": "她在失败后看起来很沮丧。",
+                "fr": "Elle avait l'air découragée après la défaite."
+            }
+        },
+        {
+            "word": "inject",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "into",
+                        "ja": "中へ",
+                        "zh": "进入",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "던지다",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "投掷",
+                        "fr": "lancer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "액체 등을 '안으로 던져 넣다'는 의미에서 '주사하다', '주입하다'는 뜻입니다.",
+                "en": "From the literal sense of 'throwing liquid into something,' meaning to inject or infuse.",
+                "ja": "液体などを『中へ投げ入れる』という意味から、『注射する』『注入する』という意味になります。",
+                "zh": "从'将液体投入其中'的字面意思，引申为'注射'、'注入'之意。",
+                "fr": "Du sens littéral de 'projeter un liquide à l'intérieur', signifiant injecter ou infuser."
+            },
+            "example": "The nurse will inject the medicine.",
+            "translation": {
+                "ko": "간호사가 약을 주사할 것이다.",
+                "ja": "看護師が薬を注射するでしょう。",
+                "zh": "护士会给药物注射。",
+                "fr": "L'infirmière va injecter le médicament."
+            }
+        },
+        {
+            "word": "ejaculate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "jacul",
+                    "meaning": {
+                        "ko": "던지다",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "抛出",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 내던지다'는 의미에서, 말을 '외치다' 또는 액체를 '사정하다', '분출하다'는 뜻입니다.",
+                "en": "From 'throw outward': to cry out suddenly or to discharge liquid forcefully.",
+                "ja": "「外へ投げ出す」の意から、言葉を「叫び出す」または液体を「射出する」という意味。",
+                "zh": "从\"向外抛出\"的意思来，表示\"突然喊出\"或\"液体喷射\"。",
+                "fr": "De « jeter vers l'extérieur » : crier soudainement ou expulser un liquide avec force."
+            },
+            "example": "He ejaculated a cry of surprise.",
+            "translation": {
+                "ko": "그는 놀라서 외마디 소리를 질렀다.",
+                "ja": "彼は驚きの叫びを上げた。",
+                "zh": "他惊讶地喊出了一声。",
+                "fr": "Il poussa un cri de surprise."
+            }
+        }
+    ]
+}

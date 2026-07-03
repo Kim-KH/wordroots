@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "liqua (fluid) liquid, liquidate, liquor",
+        "origin": "Latin, liquere (to be fluid)",
+        "meaning": {
+            "ko": "액체이다",
+            "en": "to be fluid",
+            "ja": "流動的である",
+            "zh": "是流动的",
+            "fr": "être fluide"
+        }
+    },
+    "words": [
+        {
+            "word": "liquid",
+            "part_of_speech": "",
+            "origin": "Latin, liquidus (fluid, moist)",
+            "meaning": {
+                "ko": "액체의",
+                "en": "of liquid",
+                "ja": "液体",
+                "zh": "液体",
+                "fr": "liquide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liqu-",
+                    "meaning": {
+                        "ko": "'액체'",
+                        "en": "fluid",
+                        "ja": "流動性物質",
+                        "zh": "流动物质",
+                        "fr": "substance fluide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'흐르는 성질을 가진 물질'인 '액체'를 뜻합니다.",
+                "en": "Refers to 'liquid', a substance with flowing properties.",
+                "ja": "流動性を持つ物質である液体を意味します。",
+                "zh": "指具有流动性质的物质即液体。",
+                "fr": "Désigne le liquide, une substance ayant des propriétés d'écoulement."
+            },
+            "example": "Water is a liquid at room temperature.",
+            "translation": {
+                "ko": "물은 실온에서 액체이다.",
+                "ja": "水は室温で液体です。",
+                "zh": "水在室温下是液体。",
+                "fr": "L'eau est un liquide à température ambiante."
+            }
+        },
+        {
+            "word": "liquidate",
+            "part_of_speech": "",
+            "origin": "Latin, liquidare (to make clear, to melt)",
+            "meaning": {
+                "ko": "명확하게 하다, 녹이다",
+                "en": "to clarify, to melt",
+                "ja": "清算する、溶かす",
+                "zh": "清算、融化",
+                "fr": "liquider, fondre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liqu-",
+                    "meaning": {
+                        "ko": "'녹이다, 청산하다'",
+                        "en": "to melt, clear",
+                        "ja": "溶かす、清算する",
+                        "zh": "融化、清算",
+                        "fr": "fondre, liquider"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자산을 녹여 현금으로 만들다'는 의미에서 '회사를 정리하다', '부채를 청산하다'라는 뜻이 되었습니다.",
+                "en": "From the meaning of melting assets into cash, it came to mean liquidating a company or settling debts",
+                "ja": "資産を溶かして現金にするという意味から、会社を清算する、負債を清算するという意味になりました",
+                "zh": "从将资产熔化为现金的含义，演变为清算公司、清偿债务的意思",
+                "fr": "Du sens de transformer les actifs en espèces, il a pris le sens de liquider une entreprise ou de régler les dettes"
+            },
+            "example": "The company was forced to liquidate its assets.",
+            "translation": {
+                "ko": "그 회사는 자산을 청산해야만 했다.",
+                "ja": "その企業は資産を清算することを強いられた。",
+                "zh": "该公司被迫清算其资产。",
+                "fr": "L'entreprise a été forcée de liquider ses actifs."
+            }
+        },
+        {
+            "word": "liquor",
+            "part_of_speech": "",
+            "origin": "Latin, liquor (fluidity, a liquid)",
+            "meaning": {
+                "ko": "액체",
+                "en": "liquid",
+                "ja": "液体",
+                "zh": "液体",
+                "fr": "liquide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liqu-",
+                    "meaning": {
+                        "ko": "'액체'",
+                        "en": "fluid",
+                        "ja": "液体",
+                        "zh": "液体",
+                        "fr": "liquide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알코올을 포함한 액체'라는 의미에서 '독한 술', '주류'를 뜻합니다.",
+                "en": "Refers to strong alcohol or alcoholic beverages containing alcohol",
+                "ja": "アルコールを含む液体という意味で、強い酒や酒類を意味します",
+                "zh": "指含有酒精的液体，意为烈酒或酒类",
+                "fr": "Fait référence aux alcools forts ou aux boissons alcoolisées contenant de l'alcool"
+            },
+            "example": "He drinks hard liquor like whiskey and gin.",
+            "translation": {
+                "ko": "그는 위스키나 진 같은 독한 술을 마신다.",
+                "ja": "彼はウイスキーやジンのような強い酒を飲みます",
+                "zh": "他喝威士忌和杜松子酒这样的烈酒",
+                "fr": "Il boit des alcools forts comme le whisky et le gin"
+            }
+        }
+    ]
+}

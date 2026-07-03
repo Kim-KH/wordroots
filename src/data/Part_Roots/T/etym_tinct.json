@@ -1,0 +1,405 @@
+{
+    "root_info": {
+        "roots": "tinct (color) tinct, tint, tincture",
+        "origin": "Latin, tingere, tinctus (to dye, to color)",
+        "meaning": {
+            "ko": "색을 들이다",
+            "en": "to dye, to color",
+            "ja": "染める、色を付ける",
+            "zh": "染色、着色",
+            "fr": "teindre, colorer"
+        }
+    },
+    "words": [
+        {
+            "word": "tinct",
+            "part_of_speech": "",
+            "origin": "Latin, tinctus (a dyeing)",
+            "meaning": {
+                "ko": "염색",
+                "en": "a dyeing",
+                "ja": "染色、色合い",
+                "zh": "染色、色调",
+                "fr": "teinture, nuance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tinct- (tingere)",
+                    "meaning": {
+                        "ko": "'색을 들이다'",
+                        "en": "to color",
+                        "ja": "色を付ける",
+                        "zh": "着色、染色",
+                        "fr": "colorer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'색을 들이는 것'이라는 의미에서 '색조', '엷은 빛깔'을 뜻하는 옛말 또는 문학적 표현입니다.",
+                "en": "An archaic or literary expression meaning 'hue' or 'slight color' from the concept of dyeing something with color.",
+                "ja": "色を染めるという意味から、色合いや薄い色を表す古い言い方または文学的な表現です。",
+                "zh": "从'给...着色'的含义引申出来，表示色调或淡淡的颜色的古老或文学性的表达。",
+                "fr": "Expression archaïque ou littéraire signifiant 'teinte' ou 'couleur légère', dérivée du concept de coloration."
+            },
+            "example": "The morning sky had a rosy tinct.",
+            "translation": {
+                "ko": "아침 하늘은 장밋빛 색조를 띠었다.",
+                "ja": "朝焼けの空は薔薇色のような色合いをしていた。",
+                "zh": "清晨的天空呈现出玫瑰色的色调。",
+                "fr": "Le ciel du matin avait une nuance rosée."
+            }
+        },
+        {
+            "word": "tint",
+            "part_of_speech": "",
+            "origin": "Latin, tinctus (a dyeing)",
+            "meaning": {
+                "ko": "염색",
+                "en": "a dyeing",
+                "ja": "淡い色合い",
+                "zh": "淡色",
+                "fr": "teinte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tint (tingere)",
+                    "meaning": {
+                        "ko": "'색을 들이다'",
+                        "en": "to color",
+                        "ja": "色を付ける",
+                        "zh": "着色",
+                        "fr": "colorer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'tinct'에서 유래한 단어로, '엷은 색깔' 또는 '색조'를 뜻합니다.",
+                "en": "A word derived from 'tinct', meaning a light color or color tone.",
+                "ja": "'tinct'に由来する単語で、淡い色合いまたは色調を意味します。",
+                "zh": "源自'tinct'的单词，表示淡色或色调。",
+                "fr": "Mot dérivé de 'tinct', signifiant une couleur claire ou une nuance de couleur."
+            },
+            "example": "She has a reddish tint in her hair.",
+            "translation": {
+                "ko": "그녀의 머리카락에는 붉은빛이 돈다.",
+                "ja": "彼女の髪には赤みがかった色合いがあります。",
+                "zh": "她的头发中带有红色调。",
+                "fr": "Elle a une teinte rougeâtre dans ses cheveux."
+            }
+        },
+        {
+            "word": "tincture",
+            "part_of_speech": "",
+            "origin": "Latin, tinctura (a dyeing)",
+            "meaning": {
+                "ko": "염색",
+                "en": "a dyeing",
+                "ja": "染色",
+                "zh": "染色",
+                "fr": "teinture"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tinct- (tingere)",
+                    "meaning": {
+                        "ko": "'색을 들이다'",
+                        "en": "to color",
+                        "ja": "色を付ける",
+                        "zh": "着色",
+                        "fr": "colorer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "약초 등을 알코올에 담가 '성분을 우려낸' 약제인 '팅크제'를 뜻하거나, '기미', '기운'을 뜻하기도 합니다.",
+                "en": "The word tincture originally referred to a dyeing process, but now commonly means a medicinal preparation made by steeping herbs in alcohol, or can also refer to a slight trace or hint of something.",
+                "ja": "ティンクチャーは元々は染色を意味していましたが、現在はアルコールに浸した草本植物から成分を抽出した医薬製剤を指すか、または何かの微かな痕跡や雰囲気を意味することもあります。",
+                "zh": "蒂克切尔原本是指染色过程，但现在通常指用酒精浸泡草药提取成分制成的药物制剂，或指某事物的微弱痕迹或气息。",
+                "fr": "Le mot teinture faisait initialement référence à un processus de coloration, mais désigne maintenant généralement une préparation médicale à base de plantes macérées dans l'alcool, ou peut aussi évoquer une légère trace ou teinte de quelque chose."
+            },
+            "example": "The doctor prescribed a tincture of iodine.",
+            "translation": {
+                "ko": "의사는 요오드 팅크제를 처방했다.",
+                "ja": "医者はヨウ素のチンキを処方した。",
+                "zh": "医生开了碘酊。",
+                "fr": "Le médecin a prescrit une teinture d'iode."
+            }
+        },
+        {
+            "word": "tingle",
+            "part_of_speech": "",
+            "origin": "Latin, tinnire (to ring)",
+            "meaning": {
+                "ko": "울리다",
+                "en": "to ring or sound",
+                "ja": "ぴりぴりする",
+                "zh": "刺痛感",
+                "fr": "picotement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ting- (tinnire)",
+                    "meaning": {
+                        "ko": "'울리다'",
+                        "en": "to ring",
+                        "ja": "鳴る",
+                        "zh": "响铃",
+                        "fr": "sonner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 종이 울리는 것 같은' 느낌이라는 의미에서 몸이 '따끔거리다', '얼얼하다'라는 뜻이 되었습니다.",
+                "en": "The sensation of body tingling comes from the image of a small bell ringing, metaphorically describing a prickling or numbing feeling.",
+                "ja": "小さな鐘が鳴るような感覚から、体がぴりぴりする、しびれるという意味になりました。",
+                "zh": "从小铃铛响声的比喻，引申为身体刺痛或麻木的感觉。",
+                "fr": "La sensation de picotement provient de la métaphore d'une petite cloche qui sonne, décrivant une sensation de fourmillement ou d'engourdissement."
+            },
+            "example": "My fingers are starting to tingle from the cold.",
+            "translation": {
+                "ko": "추위 때문에 손가락이 따끔거리기 시작한다.",
+                "ja": "私の指が冷えからぴりぴりし始めている。",
+                "zh": "我的手指开始因为寒冷而刺痛。",
+                "fr": "Mes doigts commencent à picoter à cause du froid."
+            }
+        },
+        {
+            "word": "tintinnabulation",
+            "part_of_speech": "",
+            "origin": "Latin, tintinnabulum (a small bell)",
+            "meaning": {
+                "ko": "작은 종",
+                "en": "a small bell",
+                "ja": "小さな鐘の音",
+                "zh": "小铃铛的声音",
+                "fr": "son de petite cloche"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tintinna- (tinnire)",
+                    "meaning": {
+                        "ko": "'울리다'",
+                        "en": "to ring",
+                        "ja": "鳴る",
+                        "zh": "发出声音",
+                        "fr": "sonner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'종이 딸랑딸랑 울리는 소리'를 묘사하는 문학적인 단어입니다.",
+                "en": "A literary word describing the jingling sound of bells ringing.",
+                "ja": "鐘がチリンチリンと鳴る音を表す文学的な言葉です。",
+                "zh": "描述铃铛叮当叮当响声的文学性词汇。",
+                "fr": "Un mot littéraire décrivant le tintement des cloches qui sonnent."
+            },
+            "example": "We could hear the tintinnabulation of the sleigh bells.",
+            "translation": {
+                "ko": "우리는 썰매 방울이 딸랑거리는 소리를 들을 수 있었다.",
+                "ja": "そり鈴のチリンチリンという音が聞こえました。",
+                "zh": "我们能听到雪橇铃铛的叮当声。",
+                "fr": "Nous pouvions entendre le tintement des grelots du traîneau."
+            }
+        },
+        {
+            "word": "tinnitus",
+            "part_of_speech": "",
+            "origin": "Latin, tinnitus (a ringing)",
+            "meaning": {
+                "ko": "울림",
+                "en": "a ringing",
+                "ja": "耳の中での鳴り",
+                "zh": "耳鸣",
+                "fr": "bourdonnement auriculaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tinni- (tinnire)",
+                    "meaning": {
+                        "ko": "'울리다'",
+                        "en": "to ring",
+                        "ja": "鳴る",
+                        "zh": "鸣响",
+                        "fr": "sonner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "외부 소리 자극 없이 귀에서 '계속 소리가 울리는' 증상인 '이명'을 뜻합니다.",
+                "en": "Tinnitus is a ringing or buzzing noise in one or both ears.",
+                "ja": "外部の音刺激がないのに耳で音が鳴り続ける症状です",
+                "zh": "没有外部声音刺激时耳朵持续发出声音的症状",
+                "fr": "Symptôme d'une sonnerie persistante sans stimulus sonore externe"
+            },
+            "example": "Tinnitus is a ringing or buzzing noise in one or both ears.",
+            "translation": {
+                "ko": "이명은 한쪽 또는 양쪽 귀에서 울리거나 윙윙거리는 소음이다.",
+                "ja": "耳鳴り",
+                "zh": "耳鸣",
+                "fr": "acouphène"
+            }
+        },
+        {
+            "word": "titan",
+            "part_of_speech": "",
+            "origin": "Greek, Titan",
+            "meaning": {
+                "ko": "거인족",
+                "en": "race of giants",
+                "ja": "巨人族",
+                "zh": "巨人族",
+                "fr": "géant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "titan-",
+                    "meaning": {
+                        "ko": "'거인'",
+                        "en": "giant",
+                        "ja": "巨人",
+                        "zh": "巨人",
+                        "fr": "géant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "그리스 신화의 거인족 '타이탄'에서 유래하여, '거인', '거물'을 뜻합니다.",
+                "en": "Derived from 'Titan', a giant race in Greek mythology, meaning giant or major figure.",
+                "ja": "ギリシャ神話の巨人族『タイタン』に由来し、『巨人』『大物』を意味します。",
+                "zh": "源自希腊神话中的巨人族『泰坦』，意为巨人或重要人物。",
+                "fr": "Dérivé de 'Titan', race de géants de la mythologie grecque, signifie géant ou personnage majeur."
+            },
+            "example": "He is a titan of the tech industry.",
+            "translation": {
+                "ko": "그는 기술 산업의 거물이다.",
+                "ja": "彼はテック業界の巨人です。",
+                "zh": "他是科技行业的巨人。",
+                "fr": "Il est un géant de l'industrie technologique."
+            }
+        },
+        {
+            "word": "titanic",
+            "part_of_speech": "",
+            "origin": "Greek, Titanikos (of the Titans)",
+            "meaning": {
+                "ko": "타이탄의",
+                "en": "of the Titans",
+                "ja": "巨大な、莫大な",
+                "zh": "巨大的、庞大的",
+                "fr": "titanesque, colossal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "titan-",
+                    "meaning": {
+                        "ko": "'거인'",
+                        "en": "giant",
+                        "ja": "巨人",
+                        "zh": "巨人",
+                        "fr": "géant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'타이탄처럼 거대한'이라는 의미에서 '거대한', '엄청난'이라는 뜻입니다.",
+                "en": "From Titans in Greek mythology, meaning enormous or tremendous in size or scope",
+                "ja": "ギリシャ神話のタイタンのように、非常に大きなまたは壮大なという意味",
+                "zh": "源自希腊神话中的泰坦，表示极其巨大或宏伟",
+                "fr": "Tiré des Titans de la mythologie grecque, signifiant énorme ou formidable en taille ou en portée"
+            },
+            "example": "The ship was of titanic proportions.",
+            "translation": {
+                "ko": "그 배는 엄청난 규모였다.",
+                "ja": "この船は巨大な規模だった。",
+                "zh": "这艘船规模庞大。",
+                "fr": "Le navire avait des proportions colossales."
+            }
+        },
+        {
+            "word": "Titanism",
+            "part_of_speech": "",
+            "origin": "Greek, Titan",
+            "meaning": {
+                "ko": "거인족",
+                "en": "race of giants",
+                "ja": "巨人族の精神",
+                "zh": "泰坦精神",
+                "fr": "esprit titanique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Titan-",
+                    "meaning": {
+                        "ko": "'거인'",
+                        "en": "giant",
+                        "ja": "巨人",
+                        "zh": "巨人",
+                        "fr": "géant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'타이탄처럼 신에게 반항하는' 정신을 의미하여 '반항 정신'을 뜻합니다.",
+                "en": "Spirit of rebellion against gods like Titans",
+                "ja": "タイタンのように神に反抗する精神",
+                "zh": "像泰坦一样反抗神的精神",
+                "fr": "Esprit de révolte contre les dieux comme les Titans"
+            },
+            "example": "The romantic poets often expressed a spirit of Titanism in their work.",
+            "translation": {
+                "ko": "낭만주의 시인들은 종종 작품에서 반항 정신을 표현했다.",
+                "ja": "ロマン派の詩人たちは彼らの作品でしばしば巨人族の精神を表現した。",
+                "zh": "浪漫派诗人经常在他们的作品中表达泰坦精神。",
+                "fr": "Les poètes romantiques exprimaient souvent un esprit titanique dans leurs œuvres."
+            }
+        },
+        {
+            "word": "titanium",
+            "part_of_speech": "",
+            "origin": "Greek, Titan",
+            "meaning": {
+                "ko": "거인족",
+                "en": "race of giants",
+                "ja": "巨人族",
+                "zh": "巨人族",
+                "fr": "race de géants"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "titan-",
+                    "meaning": {
+                        "ko": "'거인'",
+                        "en": "giant",
+                        "ja": "巨人",
+                        "zh": "巨人",
+                        "fr": "géant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'타이탄처럼 강한' 금속이라는 의미에서 원소 '티타늄'의 이름이 되었습니다.",
+                "en": "The element titanium got its name from the meaning 'metal as strong as titans'",
+                "ja": "タイタンのように強い金属という意味から、元素'チタン'の名前になりました。",
+                "zh": "从'像泰坦一样强大的金属'的含义演变而来，成为元素'钛'的名称。",
+                "fr": "Le nom de l'élément titane provient du sens 'métal aussi fort que les titans'."
+            },
+            "example": "Titanium is a strong, lightweight metal.",
+            "translation": {
+                "ko": "티타늄은 강하고 가벼운 금속이다.",
+                "ja": "チタンは強度が高く軽量な金属です。",
+                "zh": "钛是一种强度高且轻质的金属。",
+                "fr": "Le titane est un métal solide et léger."
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "idi(o) (individual, self) idiom, idiosyncratic",
+        "origin": "Greek, idios (one's own, private)",
+        "meaning": {
+            "ko": "자기 자신의",
+            "en": "one's own",
+            "ja": "自分自身の",
+            "zh": "自己的",
+            "fr": "le sien"
+        }
+    },
+    "words": [
+        {
+            "word": "idiom",
+            "part_of_speech": "",
+            "origin": "Greek, idioma (peculiarity, peculiar phraseology)",
+            "meaning": {
+                "ko": "특이성, 독특한 어법",
+                "en": "particularity, distinctive expression",
+                "ja": "慣用句、熟語",
+                "zh": "习语、成语",
+                "fr": "expression idiomatique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "idi-",
+                    "meaning": {
+                        "ko": "'자신만의, 독특한'",
+                        "en": "one's own, peculiar",
+                        "ja": "独自の、独特な",
+                        "zh": "独有的、特殊的",
+                        "fr": "propre à soi, particulier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 언어에만 있는 독특한 표현'이라는 의미에서 '관용구', '숙어'를 뜻합니다.",
+                "en": "Refers to unique expressions specific to a particular language, meaning 'idiom' or 'set phrase'",
+                "ja": "特定の言語にのみ存在する独特な表現で、'慣用句'や'熟語'を意味します",
+                "zh": "指特定语言中独有的独特表达，意为'习语'或'成语'",
+                "fr": "Désigne les expressions uniques spécifiques à une langue particulière, signifiant 'expression idiomatique' ou 'locution'"
+            },
+            "example": "\"To kick the bucket\" is an idiom that means \"to die\".",
+            "translation": {
+                "ko": "\"양동이를 차다\"는 \"죽다\"를 의미하는 관용구이다.",
+                "ja": "To kick the bucketは死ぬことを意味する慣用句です",
+                "zh": "To kick the bucket是一个意为死亡的习语",
+                "fr": "To kick the bucket est une expression idiomatique qui signifie mourir"
+            }
+        },
+        {
+            "word": "idiosyncratic",
+            "part_of_speech": "",
+            "origin": "Greek, idiosynkrasia (a peculiar temperament)",
+            "meaning": {
+                "ko": "독특한 기질",
+                "en": "unique temperament",
+                "ja": "独特な気質",
+                "zh": "独特的气质",
+                "fr": "tempérament unique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "idio-",
+                    "meaning": {
+                        "ko": "'자신만의'",
+                        "en": "one's own",
+                        "ja": "自分自身の",
+                        "zh": "自己的",
+                        "fr": "propre à soi"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "syn-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cratic (krasis)",
+                    "meaning": {
+                        "ko": "'혼합'",
+                        "en": "mixture",
+                        "ja": "混合",
+                        "zh": "混合",
+                        "fr": "mélange"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자기 자신만의 독특한 기질을 가진'이라는 의미에서 '특이한', '개성 있는'이라는 뜻입니다.",
+                "en": "Having one's own unique temperament; means peculiar or distinctive",
+                "ja": "自分自身だけの独特な気質を持つこと。特異な、個性的という意味です",
+                "zh": "拥有自己独特的气质，意思是奇特的、有个性的",
+                "fr": "Posséder son propre tempérament unique; signifie particulier ou distinctif"
+            },
+            "example": "His teaching methods are idiosyncratic but effective.",
+            "translation": {
+                "ko": "그의 교수법은 특이하지만 효과적이다.",
+                "ja": "彼の教え方は独特だが効果的だ。",
+                "zh": "他的教学方法独特但有效。",
+                "fr": "Ses méthodes d'enseignement sont idiosyncrasiques mais efficaces."
+            }
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "gor: to gather, to bring together",
+        "origin": "Greek, ageirein (agora: marketplace)",
+        "meaning": {
+            "ko": "모으다",
+            "en": "to gather",
+            "ja": "集める",
+            "zh": "聚集",
+            "fr": "rassembler"
+        }
+    },
+    "words": [
+        {
+            "word": "agoraphobia",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agora",
+                    "meaning": {
+                        "ko": "광장, 시장",
+                        "en": "marketplace",
+                        "ja": "広場、市場",
+                        "zh": "广场、市场",
+                        "fr": "marché, place publique"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phobia",
+                    "meaning": {
+                        "ko": "공포",
+                        "en": "fear",
+                        "ja": "恐怖",
+                        "zh": "恐惧",
+                        "fr": "peur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람들이 모이는 장소(광장)에 대한 공포'라는 의미로, '광장 공포증'을 뜻합니다.",
+                "en": "Fear of open or crowded spaces where escape might be difficult",
+                "ja": "人が集まる場所（広場）に対する恐怖という意味で、広場恐怖症を指します",
+                "zh": "指对人聚集的地方（广场）的恐惧，即广场恐惧症",
+                "fr": "Peur des espaces ouverts ou des lieux publics, littéralement 'peur de la place publique'"
+            },
+            "example": "Agoraphobia can make leaving home difficult.",
+            "translation": {
+                "ko": "광장 공포증은 외출을 어렵게 만들 수 있다.",
+                "ja": "広場恐怖症は外出を困難にすることがあります。",
+                "zh": "广场恐惧症会使外出变得困难。",
+                "fr": "L'agoraphobie peut rendre difficile de quitter la maison."
+            }
+        },
+        {
+            "word": "category",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cat- (kata-)",
+                    "meaning": {
+                        "ko": "아래로, 대항하여",
+                        "en": "down, against",
+                        "ja": "下へ、対抗して",
+                        "zh": "向下，对抗",
+                        "fr": "vers le bas, contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "egor (agoreuein)",
+                    "meaning": {
+                        "ko": "연설하다, 주장하다",
+                        "en": "to speak in the assembly",
+                        "ja": "集会で話す、主張する",
+                        "zh": "在集会上发言、主张",
+                        "fr": "parler en assemblée, affirmer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "그리스어 kategoria('고발', '단언')에서 유래했으며, 이는 '사람들이 모인 곳(agora)에서 주장하다'는 의미입니다. 현재는 '범주', '부문'을 뜻합니다.",
+                "en": "From Greek kategoria ('accusation', 'assertion'), meaning 'to speak out in the agora (public assembly)'. Now means 'class' or 'type'.",
+                "ja": "ギリシャ語のkategoria（『告発』『断言』）に由来し、『人々が集まる場所（agora）で主張する』という意味です。現在は『範疇』『部門』を意味します。",
+                "zh": "来自希腊语kategoria（'指控'、'主张'），意为'在广场（agora）中发言'。现在表示'范畴'或'部门'。",
+                "fr": "Du grec kategoria ('accusation', 'affirmation'), signifiant 'parler dans l'agora (assemblée publique)'. Désigne aujourd'hui une 'classe' ou 'type'."
+            },
+            "example": "This book falls into the category of fiction.",
+            "translation": {
+                "ko": "이 책은 소설 부문에 속한다.",
+                "ja": "この本は小説のカテゴリーに属している。",
+                "zh": "这本书属于小说类别。",
+                "fr": "Ce livre appartient à la catégorie de la fiction."
+            }
+        },
+        {
+            "word": "allegory",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "all- (allos)",
+                    "meaning": {
+                        "ko": "다른",
+                        "en": "other",
+                        "ja": "別の",
+                        "zh": "其他的",
+                        "fr": "autre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "egor (agoreuein)",
+                    "meaning": {
+                        "ko": "말하다",
+                        "en": "to speak in public",
+                        "ja": "公に話す",
+                        "zh": "公开讲述",
+                        "fr": "parler en public"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 방식으로 말하는 것'이라는 의미로, 추상적인 개념을 구체적인 인물이나 이야기에 빗대어 표현하는 '우화', '풍유'를 의미합니다.",
+                "en": "Speaking in a different way; a narrative technique expressing abstract concepts through concrete characters or stories; an allegory or parable.",
+                "ja": "異なる方法で語るという意味で、抽象的な概念を具体的な人物や物語に例えて表現する『寓話』『風刺的物語』を意味します。",
+                "zh": "以不同方式讲述的意思，用具体的人物或故事来比喻抽象概念的表达手法，指『寓言』『讽喻』。",
+                "fr": "Parlé d'une manière différente; une technique narrative exprimant des concepts abstraits à travers des personnages ou des histoires concrets; une allégorie ou une parabole."
+            },
+            "example": "\"Animal Farm\" is an allegory of the Russian Revolution.",
+            "translation": {
+                "ko": "'동물농장'은 러시아 혁명에 대한 우화이다.",
+                "ja": "『動物農場』はロシア革命の寓話である。",
+                "zh": "《动物农场》是对俄国革命的寓言。",
+                "fr": "« La Ferme des animaux » est une allégorie de la Révolution russe."
+            }
+        },
+        {
+            "word": "panegyric",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pan-",
+                    "meaning": {
+                        "ko": "모든",
+                        "en": "all",
+                        "ja": "すべての",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "egyr (aguris)",
+                    "meaning": {
+                        "ko": "모임, 집회",
+                        "en": "assembly",
+                        "ja": "集会、集まり",
+                        "zh": "集会、聚集",
+                        "fr": "assemblée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 사람이 모인 곳에서 하는 연설'이라는 의미에서, 칭찬 일색의 '찬사', '칭송의 글'을 뜻합니다.",
+                "en": "From the sense of 'a speech given where all people gather,' it came to mean high praise or commendatory writing.",
+                "ja": "すべての人が集まる場所で行われるスピーチという意味から、褒め言葉ばかりの『賞賛』『称賛の文』を意味するようになった。",
+                "zh": "从'在所有人聚集的地方进行的演讲'的含义引申而来，现指高度的赞美或称颂性的文章。",
+                "fr": "Du sens d'« un discours prononcé devant l'assemblée complète », il en est venu à signifier l'éloge appuyé ou un écrit de louange."
+            },
+            "example": "He delivered a panegyric on the late president.",
+            "translation": {
+                "ko": "그는 고인이 된 대통령에 대한 찬사를 바쳤다.",
+                "ja": "彼は故大統領についての賞賛の辞を述べた。",
+                "zh": "他对已故总统发表了颂辞。",
+                "fr": "Il a prononcé un panégyrique en l'honneur du président décédé."
+            }
+        }
+    ]
+}

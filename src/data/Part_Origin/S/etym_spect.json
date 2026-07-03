@@ -1,0 +1,245 @@
+{
+    "root_info": {
+        "roots": "spect",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "보다",
+            "en": "to look",
+            "ja": "見る",
+            "zh": "看",
+            "fr": "regarder"
+        }
+    },
+    "words": [
+        {
+            "word": "inspect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안",
+                        "en": "into",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안을 들여다보다'는 의미에서, '검사하다', '점검하다'는 뜻입니다.",
+                "en": "Meaning 'to look into the inside', it means 'to inspect' or 'to examine'",
+                "ja": "内側を詳しく見るという意味から、検査する、点検するという意味になります",
+                "zh": "从详细查看内部的含义来看，表示检查、检验的意思",
+                "fr": "Du sens de regarder l'intérieur en détail, cela signifie inspecter, examiner"
+            },
+            "example": "You should inspect the car before buying it.",
+            "translation": {
+                "ko": "차를 사기 전에 점검해야 한다.",
+                "ja": "購入前に車を検査すべきです",
+                "zh": "购买前你应该检查这辆车",
+                "fr": "Vous devriez inspecter la voiture avant de l'acheter"
+            }
+        },
+        {
+            "word": "spectator",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보는 사람'이라는 의미에서, 스포츠 경기나 공연의 '관중'을 뜻합니다.",
+                "en": "From 'one who watches,' referring to an audience member at sports events or performances.",
+                "ja": "「見る人」という意味から、スポーツの試合や公演の「観客」を意味します。",
+                "zh": "源于「观看的人」，指运动比赛或演出的「观众」。",
+                "fr": "Du sens « celui qui regarde », désignant un spectateur lors d'événements sportifs ou de représentations."
+            },
+            "example": "The stadium was full of spectators.",
+            "translation": {
+                "ko": "경기장은 관중으로 가득 찼다.",
+                "ja": "スタジアムは観客でいっぱいだった。",
+                "zh": "体育场里挤满了观众。",
+                "fr": "Le stade était rempli de spectateurs."
+            }
+        },
+        {
+            "word": "circumspect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위",
+                        "en": "around",
+                        "ja": "周囲",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "행동하기 전에 '주위를 둘러보는'이라는 의미에서, '신중한', '조심스러운'이라는 뜻입니다.",
+                "en": "From the idea of 'looking around' before acting, meaning 'cautious' or 'careful'.",
+                "ja": "行動する前に『周囲を見回す』という意味から、『慎重な』『注意深い』という意味になりました。",
+                "zh": "从行动前'环顾周围'的意思引申，表示'谨慎的''小心的'意思。",
+                "fr": "Du sens de 'regarder autour de soi' avant d'agir, signifiant 'prudent' ou 'attentif'."
+            },
+            "example": "He is very circumspect in his business dealings.",
+            "translation": {
+                "ko": "그는 사업 거래에서 매우 신중하다.",
+                "ja": "彼はビジネス取引において非常に慎重だ。",
+                "zh": "他在商业交易中非常谨慎。",
+                "fr": "Il est très prudent dans ses transactions commerciales."
+            }
+        },
+        {
+            "word": "retrospect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "retro-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "backward",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤를 돌아보는 것'이라는 의미에서, '회상', '회고'를 뜻합니다.",
+                "en": "From the sense of 'looking back,' meaning reflection or recollection.",
+                "ja": "「後ろを振り返って見る」という意味から、「回想」「回顧」を意味します。",
+                "zh": "从「向后看」的意义出发，表示「回顾」「回想」。",
+                "fr": "Du sens de 'regarder en arrière', signifiant rétrospective ou réminiscence."
+            },
+            "example": "In retrospect, I made a mistake.",
+            "translation": {
+                "ko": "돌이켜보면, 내가 실수했다.",
+                "ja": "振り返って考えると、私は間違いを犯した。",
+                "zh": "回顾起来，我犯了一个错误。",
+                "fr": "Rétrospectivement, j'ai fait une erreur."
+            }
+        },
+        {
+            "word": "prospect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前方へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞을 내다보는 것'이라는 의미에서 '전망', '가능성', '가망'을 뜻합니다.",
+                "en": "From the meaning of 'looking ahead', it signifies 'outlook', 'possibility', or 'hope'.",
+                "ja": "前方を見通すという意味から、展望、可能性、見込みを意味します。",
+                "zh": "从'向前看'的含义出发，表示'前景'、'可能性'或'希望'。",
+                "fr": "Du sens de 'regarder devant', il signifie 'perspective', 'possibilité' ou 'espoir'."
+            },
+            "example": "The prospect of a new job is exciting.",
+            "translation": {
+                "ko": "새 직장에 대한 전망이 흥미진진하다.",
+                "ja": "新しい仕事の見込みはワクワクしている。",
+                "zh": "新工作的前景令人兴奋。",
+                "fr": "La perspective d'un nouvel emploi est excitante."
+            }
+        },
+        {
+            "word": "spectacle",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'볼 만한 것'이라는 의미에서 '장관', '구경거리'를 뜻합니다. 복수형(spectacles)은 '안경'을 의미합니다.",
+                "en": "From Latin spectare 'to watch.' Originally meant 'something worth seeing' or 'a sight to behold.' The plural form spectacles refers to eyeglasses.",
+                "ja": "ラテン語のspectare「見る」に由来します。もともと「見る価値のあるもの」という意味で、「壮観」「見もの」を指します。複数形（spectacles）は「眼鏡」を意味します。",
+                "zh": "源自拉丁语spectare「看」。原意为「值得一看的东西」或「奇观」。复数形式（spectacles）指「眼镜」。",
+                "fr": "Du latin spectare « regarder ». Signifiait à l'origine « quelque chose qui mérite d'être vu » ou « un spectacle ». La forme plurielle (spectacles) désigne les « lunettes »."
+            },
+            "example": "The sunset was a beautiful spectacle.",
+            "translation": {
+                "ko": "일몰은 아름다운 장관이었다.",
+                "ja": "夕焼けは美しい光景だった。",
+                "zh": "日落是美丽的奇观。",
+                "fr": "Le coucher de soleil était un beau spectacle."
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "scien (know) conscience, omniscience, science, scientist",
+        "origin": "Latin, scire (to know)",
+        "meaning": {
+            "ko": "알다",
+            "en": "to know",
+            "ja": "知る",
+            "zh": "知道",
+            "fr": "savoir"
+        }
+    },
+    "words": [
+        {
+            "word": "conscience",
+            "part_of_speech": "",
+            "origin": "Latin, conscientia (knowledge within oneself, moral sense)",
+            "meaning": {
+                "ko": "자기 자신 안의 앎, 도덕 감각",
+                "en": "inner knowing of self, moral sense",
+                "ja": "道徳的自覚、良心",
+                "zh": "道德感、良心",
+                "fr": "conscience morale, sens du bien"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together, with",
+                        "ja": "共に、一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble, avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "science",
+                    "meaning": {
+                        "ko": "'앎'",
+                        "en": "knowing",
+                        "ja": "知ること、認識",
+                        "zh": "知道、认识",
+                        "fr": "connaissance, savoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'옳고 그름에 대해 자기 자신과 함께 아는' 마음이라는 의미에서 '양심'을 뜻합니다.",
+                "en": "Refers to the mind that knows right and wrong together with oneself, meaning moral awareness",
+                "ja": "正と悪について自分自身と共に知る心という意味で、道徳的自覚を意味します",
+                "zh": "指与自己一起知道对错的心，表示道德自觉",
+                "fr": "Signifie l'esprit qui connaît le bien et le mal avec soi-même, exprimant la conscience morale"
+            },
+            "example": "He has a guilty conscience.",
+            "translation": {
+                "ko": "그는 양심의 가책을 느끼고 있다.",
+                "ja": "彼は罪悪感を感じている",
+                "zh": "他有罪恶感",
+                "fr": "Il a mauvaise conscience"
+            }
+        },
+        {
+            "word": "omniscience",
+            "part_of_speech": "",
+            "origin": "Latin, omnisciens (all-knowing)",
+            "meaning": {
+                "ko": "모든 것을 앎",
+                "en": "knowing all things",
+                "ja": "すべてを知ること",
+                "zh": "知道一切",
+                "fr": "connaissance de tout"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "omni-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべての",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "science",
+                    "meaning": {
+                        "ko": "'앎'",
+                        "en": "knowing",
+                        "ja": "知ること",
+                        "zh": "知道",
+                        "fr": "connaissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 것을 아는 지식'이라는 의미에서 '전지'를 뜻합니다.",
+                "en": "Refers to 'omniscience' meaning knowledge of knowing all things",
+                "ja": "すべてのことを知る知識という意味で、全知を意味します",
+                "zh": "指知道一切事物的知识，意为全知",
+                "fr": "Se réfère à la connaissance de toutes choses, signifiant l'omniscience"
+            },
+            "example": "The concept of divine omniscience is complex.",
+            "translation": {
+                "ko": "신의 전지라는 개념은 복잡하다.",
+                "ja": "神の全知という概念は複雑です。",
+                "zh": "神圣的全知概念很复杂。",
+                "fr": "Le concept d'omniscience divine est complexe."
+            }
+        },
+        {
+            "word": "science",
+            "part_of_speech": "",
+            "origin": "Latin, scientia (knowledge)",
+            "meaning": {
+                "ko": "지식",
+                "en": "knowledge",
+                "ja": "知識",
+                "zh": "知识",
+                "fr": "connaissance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scien-",
+                    "meaning": {
+                        "ko": "'알다'",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "savoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자연 세계에 대한 체계적인 지식'인 '과학'을 뜻합니다.",
+                "en": "Refers to science as systematic knowledge about the natural world.",
+                "ja": "自然界に関する体系的な知識である'科学'を意味します。",
+                "zh": "指作为关于自然界的系统知识的'科学'。",
+                "fr": "Désigne la science comme connaissance systématique du monde naturel."
+            },
+            "example": "Science has changed the world.",
+            "translation": {
+                "ko": "과학은 세상을 바꾸었다.",
+                "ja": "科学は世界を変えた。",
+                "zh": "科学改变了世界。",
+                "fr": "La science a changé le monde."
+            }
+        },
+        {
+            "word": "scientist",
+            "part_of_speech": "",
+            "origin": "Latin, scientia (knowledge)",
+            "meaning": {
+                "ko": "지식",
+                "en": "knowledge",
+                "ja": "科学を研究する人",
+                "zh": "研究科学的人",
+                "fr": "personne étudiant science"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scien-",
+                    "meaning": {
+                        "ko": "'알다'",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "connaître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과학을 연구하는 사람'인 '과학자'를 뜻합니다.",
+                "en": "Refers to a scientist, a person who researches science",
+                "ja": "科学を研究する人を意味する科学者のことです",
+                "zh": "指从事科学研究的人，即科学家",
+                "fr": "Désigne un chercheur en sciences"
+            },
+            "example": "She is a brilliant scientist.",
+            "translation": {
+                "ko": "그녀는 뛰어난 과학자이다.",
+                "ja": "科学者",
+                "zh": "科学家",
+                "fr": "scientifique"
+            }
+        }
+    ]
+}

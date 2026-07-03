@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ing (act of) cleaning, hunting, living, regretting",
+        "origin": "Old English, -ung, -ing (verbal noun suffix)",
+        "meaning": {
+            "ko": "…하는 행위",
+            "en": "act of",
+            "ja": "…する行為",
+            "zh": "…的行为",
+            "fr": "acte de…"
+        }
+    },
+    "words": [
+        {
+            "word": "cleaning",
+            "part_of_speech": "",
+            "origin": "English, clean + -ing",
+            "meaning": {
+                "ko": "깨끗하게 하는 행위",
+                "en": "act of making clean",
+                "ja": "きれいにする行為",
+                "zh": "清洁的行为",
+                "fr": "action de nettoyer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clean",
+                    "meaning": {
+                        "ko": "'깨끗하게 하다'",
+                        "en": "to make clean",
+                        "ja": "きれいにする",
+                        "zh": "使干净",
+                        "fr": "rendre propre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ing",
+                    "meaning": {
+                        "ko": "'행위'",
+                        "en": "act or process",
+                        "ja": "行為",
+                        "zh": "行为",
+                        "fr": "action"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'청소하는 행위'를 뜻합니다.",
+                "en": "Means the act of cleaning",
+                "ja": "掃除する行為を意味します",
+                "zh": "表示清扫的行为",
+                "fr": "Signifie l'acte de nettoyer"
+            },
+            "example": "The house needs a good cleaning.",
+            "translation": {
+                "ko": "그 집은 대청소가 필요하다.",
+                "ja": "家は良い清掃が必要です",
+                "zh": "房子需要好好清洁",
+                "fr": "La maison a besoin d'un bon nettoyage"
+            }
+        },
+        {
+            "word": "hunting",
+            "part_of_speech": "",
+            "origin": "English, hunt + -ing",
+            "meaning": {
+                "ko": "사냥하는 행위",
+                "en": "the act of hunting",
+                "ja": "狩りをする行為",
+                "zh": "狩猎的行为",
+                "fr": "action de chasser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hunt",
+                    "meaning": {
+                        "ko": "'사냥하다'",
+                        "en": "to hunt",
+                        "ja": "狩りをする",
+                        "zh": "狩猎",
+                        "fr": "chasser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ing",
+                    "meaning": {
+                        "ko": "'행위'",
+                        "en": "action or process",
+                        "ja": "行為",
+                        "zh": "行为",
+                        "fr": "action"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사냥하는 행위'를 뜻합니다.",
+                "en": "Refers to the act of hunting",
+                "ja": "狩りをする行為を意味します",
+                "zh": "指狩猎的行为",
+                "fr": "Signifie l'acte de chasser"
+            },
+            "example": "Hunting is a popular sport in this area.",
+            "translation": {
+                "ko": "사냥은 이 지역에서 인기 있는 스포츠이다.",
+                "ja": "狩りはこの地域で人気のあるスポーツです",
+                "zh": "狩猎是这个地区流行的运动",
+                "fr": "La chasse est un sport populaire dans cette région"
+            }
+        },
+        {
+            "word": "living",
+            "part_of_speech": "",
+            "origin": "English, live + -ing",
+            "meaning": {
+                "ko": "사는 행위",
+                "en": "the act of living",
+                "ja": "生きる行為",
+                "zh": "生活行为",
+                "fr": "fait de vivre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "live",
+                    "meaning": {
+                        "ko": "'살다'",
+                        "en": "to live",
+                        "ja": "生きる",
+                        "zh": "生活",
+                        "fr": "vivre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ing",
+                    "meaning": {
+                        "ko": "'행위, 상태'",
+                        "en": "action or state",
+                        "ja": "行為、状態",
+                        "zh": "行为、状态",
+                        "fr": "action, état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'살아있는 상태' 또는 '생계'를 뜻합니다.",
+                "en": "Refers to being alive or means of subsistence",
+                "ja": "生存している状態または生計を意味する",
+                "zh": "指生存状态或生计",
+                "fr": "désigne l'état d'être vivant ou les moyens de subsistance"
+            },
+            "example": "He makes a living as a writer.",
+            "translation": {
+                "ko": "그는 작가로서 생계를 꾸린다.",
+                "ja": "彼は作家として生計を立てている",
+                "zh": "他以作家身份谋生",
+                "fr": "Il gagne sa vie en tant qu'écrivain"
+            }
+        },
+        {
+            "word": "regretting",
+            "part_of_speech": "",
+            "origin": "English, regret + -ing",
+            "meaning": {
+                "ko": "후회하는 행위",
+                "en": "the act of feeling regret",
+                "ja": "後悔する行為",
+                "zh": "后悔的行为",
+                "fr": "acte de regretter"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "regret",
+                    "meaning": {
+                        "ko": "'후회하다'",
+                        "en": "to feel regret",
+                        "ja": "後悔する",
+                        "zh": "后悔",
+                        "fr": "regretter"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ing",
+                    "meaning": {
+                        "ko": "'행위'",
+                        "en": "action or state",
+                        "ja": "行為",
+                        "zh": "行为",
+                        "fr": "action"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'후회하는 행위'를 뜻합니다.",
+                "en": "Means 'the act of regretting'",
+                "ja": "後悔する行為を意味します",
+                "zh": "表示后悔的行为",
+                "fr": "signifie l'acte de regretter"
+            },
+            "example": "Regretting the past will not change anything.",
+            "translation": {
+                "ko": "과거를 후회하는 것은 아무것도 바꾸지 못할 것이다.",
+                "ja": "過去を後悔することは何も変わりません",
+                "zh": "后悔过去不会改变任何事情",
+                "fr": "Regretter le passé ne changera rien"
+            }
+        }
+    ]
+}

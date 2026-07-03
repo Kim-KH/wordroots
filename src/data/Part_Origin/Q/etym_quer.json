@@ -1,0 +1,329 @@
+{
+    "root_info": {
+        "roots": "quer, ques, quir, quis: ask, seek",
+        "origin": "Latin, quærere",
+        "meaning": {
+            "ko": "묻다, 찾다",
+            "en": "to ask, to seek",
+            "ja": "尋ねる、求める",
+            "zh": "询问、寻求",
+            "fr": "demander, chercher"
+        }
+    },
+    "words": [
+        {
+            "word": "disquisition",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 철저히",
+                        "en": "apart, thoroughly",
+                        "ja": "離れて、徹底的に",
+                        "zh": "分开、彻底地",
+                        "fr": "à part, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quisit",
+                    "meaning": {
+                        "ko": "찾다, 조사하다",
+                        "en": "to seek",
+                        "ja": "探す、調査する",
+                        "zh": "寻求、调查",
+                        "fr": "chercher, enquêter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'철저히 조사하여 쓴 것'이라는 의미로, 특정 주제에 대한 길고 상세한 '논문', '논고'를 뜻합니다.",
+                "en": "A long, detailed written examination of a subject; a formal treatise or discourse thoroughly investigating a specific topic.",
+                "ja": "特定のテーマについて徹底的に調査して書いた文献という意味で、長く詳細な『論文』『論考』を指します。",
+                "zh": "'彻底调查后写成的东西'之意，指关于特定主题的长篇详细'论文''论著'。",
+                "fr": "Un écrit produit par une enquête approfondie, désignant un long et détaillé 'traité' ou 'essai' sur un sujet spécifique."
+            },
+            "example": "He wrote a disquisition on ancient history.",
+            "translation": {
+                "ko": "그는 고대사에 대한 논문을 썼다.",
+                "ja": "彼は古代史に関する論文を書いた。",
+                "zh": "他写了一篇关于古代史的论文。",
+                "fr": "Il a écrit un traité sur l'histoire ancienne."
+            }
+        },
+        {
+            "word": "acquisition",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ac- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quisit",
+                    "meaning": {
+                        "ko": "찾다, 얻다",
+                        "en": "to seek",
+                        "ja": "探す、得る",
+                        "zh": "寻求、获得",
+                        "fr": "chercher, obtenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'찾아서 얻는 것'이라는 의미에서, 지식이나 재산의 '습득', '취득' 또는 기업 '인수'를 뜻합니다.",
+                "en": "From the meaning of 'seeking and obtaining', it refers to 'learning' or 'acquisition' of knowledge or property, or 'takeover' of a company.",
+                "ja": "探して得るという意味から、知識や財産の習得や取得、または企業の買収を意味します。",
+                "zh": "从寻求和获得的含义来说，指知识或财产的习得、获得，或公司的收购。",
+                "fr": "Du sens de 'chercher et obtenir', il signifie l'apprentissage ou l'acquisition de connaissances ou de biens, ou la prise de contrôle d'une entreprise."
+            },
+            "example": "Language acquisition takes time.",
+            "translation": {
+                "ko": "언어 습득은 시간이 걸린다.",
+                "ja": "言語習得には時間がかかります。",
+                "zh": "语言习得需要时间。",
+                "fr": "L'acquisition d'une langue prend du temps."
+            }
+        },
+        {
+            "word": "inquire",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "into",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quire",
+                    "meaning": {
+                        "ko": "찾다, 묻다",
+                        "en": "to seek, ask",
+                        "ja": "探す、尋ねる",
+                        "zh": "寻求、询问",
+                        "fr": "chercher, demander"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 파고들어 묻다'는 의미에서, 정보를 얻기 위해 '문의하다', '조사하다'는 뜻입니다.",
+                "en": "From the sense of 'ask by probing inward': to ask for information; to investigate.",
+                "ja": "内側に掘り下げて尋ねるという意味から、情報を得るために『問い合わせる』『調査する』という意味です。",
+                "zh": "从'向内深入地询问'的意思出发，表示为了获取信息而'咨询'、'调查'。",
+                "fr": "Du sens de 'chercher en approfondissant': demander pour obtenir des informations; enquêter."
+            },
+            "example": "I will inquire about the train schedule.",
+            "translation": {
+                "ko": "기차 시간표에 대해 문의하겠습니다.",
+                "ja": "列車の時間表について問い合わせます。",
+                "zh": "我将查询火车时刻表。",
+                "fr": "Je vais m'informer sur l'horaire des trains."
+            }
+        },
+        {
+            "word": "query",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quer (quærere)",
+                    "meaning": {
+                        "ko": "묻다",
+                        "en": "to ask",
+                        "ja": "尋ねる",
+                        "zh": "询问",
+                        "fr": "demander"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'묻는 것'이라는 의미에서 '질문', '의문'을 뜻합니다.",
+                "en": "From the meaning of 'asking,' it comes to mean 'question' or 'inquiry.'",
+                "ja": "「尋ねる」という意味から、「質問」「疑問」を意味するようになりました。",
+                "zh": "从「询问」的意思延伸而来，表示「问题」或「疑问」。",
+                "fr": "Du sens de « demander », il en vient à signifier « question » ou « demande d'information »."
+            },
+            "example": "I have a query about my bill.",
+            "translation": {
+                "ko": "제 청구서에 대해 질문이 있습니다.",
+                "ja": "私の請求書について質問があります。",
+                "zh": "我对我的账单有疑问。",
+                "fr": "J'ai une question concernant ma facture."
+            }
+        },
+        {
+            "word": "conquer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께, 완전히",
+                        "en": "with, thoroughly",
+                        "ja": "一緒に、完全に",
+                        "zh": "一起、彻底",
+                        "fr": "avec, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quer",
+                    "meaning": {
+                        "ko": "찾다, 얻다",
+                        "en": "to seek",
+                        "ja": "探す、得る",
+                        "zh": "寻求、获得",
+                        "fr": "chercher, obtenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 찾아서 얻다'는 의미에서, 영토를 '정복하다' 또는 어려움을 '극복하다'는 뜻이 되었습니다.",
+                "en": "From the sense of thoroughly seeking and obtaining, it came to mean conquering territory or overcoming difficulties.",
+                "ja": "完全に探して得るという意味から、領土を『征服する』または困難を『克服する』という意味になりました。",
+                "zh": "从彻底寻求和获得的意义引申，后来指征服领土或克服困难。",
+                "fr": "Du sens de chercher et d'obtenir complètement, il en vint à signifier conquérir un territoire ou surmonter des difficultés."
+            },
+            "example": "Alexander the Great conquered a vast empire.",
+            "translation": {
+                "ko": "알렉산더 대왕은 광대한 제국을 정복했다.",
+                "ja": "征服する",
+                "zh": "征服",
+                "fr": "conquérir"
+            }
+        },
+        {
+            "word": "quest",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quest",
+                    "meaning": {
+                        "ko": "찾다",
+                        "en": "to seek",
+                        "ja": "探す",
+                        "zh": "寻求",
+                        "fr": "chercher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'찾는 행위'라는 의미에서, 길고 힘든 '탐색', '추구'를 뜻합니다.",
+                "en": "From the meaning of 'seeking,' it refers to a long and difficult 'search' or 'pursuit.'",
+                "ja": "『探す行為』という意味から、長く困難な『探索』『追求』を意味します。",
+                "zh": "从'寻求行为'的含义出发，指长期艰难的'搜索'或'追求'。",
+                "fr": "Du sens de 'chercher', il désigne une longue et difficile 'recherche' ou 'quête'."
+            },
+            "example": "He went on a quest for the Holy Grail.",
+            "translation": {
+                "ko": "그는 성배를 찾아 탐색을 떠났다.",
+                "ja": "彼は聖杯を求めて探索の旅に出た。",
+                "zh": "他踏上了寻求圣杯的冒险之旅。",
+                "fr": "Il s'embarqua dans une quête du Saint Graal."
+            }
+        },
+        {
+            "word": "require",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quire",
+                    "meaning": {
+                        "ko": "찾다, 묻다",
+                        "en": "to seek",
+                        "ja": "探す、求める",
+                        "zh": "寻求",
+                        "fr": "chercher, demander"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반복해서 찾고 요구하다'는 의미에서, '필요로 하다', '요구하다'는 뜻입니다.",
+                "en": "From the sense of 'repeatedly seeking and demanding,' it came to mean 'need' or 'demand.'",
+                "ja": "「繰り返して探し求める」という意味から、「必要とする」「要求する」という意味になりました。",
+                "zh": "从「反复寻求和要求」的含义演变而来，表示「需要」或「要求」。",
+                "fr": "Du sens de 'chercher et demander à plusieurs reprises', il a acquis le sens de 'avoir besoin de' ou 'exiger'."
+            },
+            "example": "This job requires a lot of travel.",
+            "translation": {
+                "ko": "이 일은 많은 출장을 필요로 한다.",
+                "ja": "この仕事には多くの出張が必要だ。",
+                "zh": "这份工作需要大量出差。",
+                "fr": "Ce travail nécessite beaucoup de déplacements."
+            }
+        },
+        {
+            "word": "question",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quest",
+                    "meaning": {
+                        "ko": "찾다, 묻다",
+                        "en": "to seek, ask",
+                        "ja": "求める、尋ねる",
+                        "zh": "寻求、询问",
+                        "fr": "chercher, demander"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominal suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'묻는 행위' 또는 '묻는 것'이라는 의미에서 '질문'을 뜻합니다.",
+                "en": "Derived from the act or object of asking; means 'inquiry' or 'something asked'",
+                "ja": "尋ねる行為または尋ねられたことから生まれた意味で、『質問』を意味します",
+                "zh": "源自询问的行为或被询问的事物，意为'询问'或'问题'",
+                "fr": "Dérivé de l'acte ou de l'objet de demander; signifie 'interrogation' ou 'ce qui est demandé'"
+            },
+            "example": "Do you have any questions?",
+            "translation": {
+                "ko": "질문 있습니까?",
+                "ja": "何か質問がありますか？",
+                "zh": "你有任何问题吗？",
+                "fr": "Avez-vous des questions ?"
+            }
+        }
+    ]
+}

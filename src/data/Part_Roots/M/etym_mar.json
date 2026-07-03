@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "mar (sea) marina, marine, mariner, maritime",
+        "origin": "Latin, mare (sea)",
+        "meaning": {
+            "ko": "바다",
+            "en": "sea",
+            "ja": "海",
+            "zh": "海",
+            "fr": "mer"
+        }
+    },
+    "words": [
+        {
+            "word": "marina",
+            "part_of_speech": "",
+            "origin": "Latin, marinus (of the sea)",
+            "meaning": {
+                "ko": "바다의",
+                "en": "of the sea",
+                "ja": "海の港",
+                "zh": "海港",
+                "fr": "port maritime"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mar-",
+                    "meaning": {
+                        "ko": "'바다'",
+                        "en": "sea",
+                        "ja": "海",
+                        "zh": "海",
+                        "fr": "mer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보트나 요트를 위한 바다의 항구'라는 의미에서 '마리나', '요트 정박지'를 뜻합니다.",
+                "en": "Meaning 'marina' or 'yacht anchorage' from the sense of a sea port for boats or yachts.",
+                "ja": "ボートやヨットのための海の港という意味から、'マリーナ'や'ヨット停泊地'を意味します。",
+                "zh": "从船只或游艇的海港的意义出发，意为'码头'或'游艇停泊地'。",
+                "fr": "Signifiant 'marina' ou 'mouillage de yacht' au sens d'un port maritime pour bateaux ou yachts."
+            },
+            "example": "They moored their boat in the marina.",
+            "translation": {
+                "ko": "그들은 요트 정박지에 보트를 정박시켰다.",
+                "ja": "彼らはボートをマリーナに係留した。",
+                "zh": "他们把船停靠在码头。",
+                "fr": "Ils ont mouillé leur bateau dans la marina."
+            }
+        },
+        {
+            "word": "marine",
+            "part_of_speech": "",
+            "origin": "Latin, marinus (of the sea)",
+            "meaning": {
+                "ko": "바다의",
+                "en": "of the sea",
+                "ja": "海の",
+                "zh": "海的",
+                "fr": "marin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mar-",
+                    "meaning": {
+                        "ko": "'바다'",
+                        "en": "sea",
+                        "ja": "海",
+                        "zh": "海",
+                        "fr": "mer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바다의', '해양의'라는 뜻입니다.",
+                "en": "Means 'of the sea' or 'maritime'",
+                "ja": "海に関する、海洋の意味です",
+                "zh": "表示与海洋有关的含义",
+                "fr": "Signifie 'relatif à la mer' ou 'maritime'"
+            },
+            "example": "Marine biologists study life in the ocean.",
+            "translation": {
+                "ko": "해양 생물학자들은 바다의 생명체를 연구한다.",
+                "ja": "海洋生物学者は海の生命を研究します。",
+                "zh": "海洋生物学家研究海洋中的生命。",
+                "fr": "Les biologistes marins étudient la vie dans l'océan."
+            }
+        },
+        {
+            "word": "mariner",
+            "part_of_speech": "",
+            "origin": "Latin, marinus (of the sea)",
+            "meaning": {
+                "ko": "바다의",
+                "en": "of the sea",
+                "ja": "海の人",
+                "zh": "海的人",
+                "fr": "homme de la mer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mar-",
+                    "meaning": {
+                        "ko": "'바다'",
+                        "en": "sea",
+                        "ja": "海",
+                        "zh": "海",
+                        "fr": "mer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바다에서 일하는 사람'인 '선원', '뱃사람'을 뜻합니다.",
+                "en": "A person who works at sea; sailor or seafarer",
+                "ja": "海で働く人、船乗り",
+                "zh": "在海上工作的人，水手",
+                "fr": "Personne qui travaille en mer, marin"
+            },
+            "example": "The ancient mariner told tales of his voyages.",
+            "translation": {
+                "ko": "그 늙은 선원은 자신의 항해 이야기를 들려주었다.",
+                "ja": "船乗り",
+                "zh": "水手",
+                "fr": "marin"
+            }
+        },
+        {
+            "word": "maritime",
+            "part_of_speech": "",
+            "origin": "Latin, maritimus (of the sea)",
+            "meaning": {
+                "ko": "바다의",
+                "en": "of the sea",
+                "ja": "海に関する",
+                "zh": "海洋的",
+                "fr": "maritime"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mari-",
+                    "meaning": {
+                        "ko": "'바다'",
+                        "en": "sea",
+                        "ja": "海",
+                        "zh": "海",
+                        "fr": "mer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바다와 관련된', '해상의'라는 뜻입니다.",
+                "en": "Related to the sea or seafaring",
+                "ja": "海と関連する、海上の",
+                "zh": "与海洋相关、海上的",
+                "fr": "Relatif à la mer ou à la navigation"
+            },
+            "example": "The city has a rich maritime history.",
+            "translation": {
+                "ko": "그 도시는 풍부한 해양 역사를 가지고 있다.",
+                "ja": "その都市は豊かな海洋史を持っています。",
+                "zh": "这座城市有着丰富的海洋历史。",
+                "fr": "La ville a une riche histoire maritime."
+            }
+        }
+    ]
+}

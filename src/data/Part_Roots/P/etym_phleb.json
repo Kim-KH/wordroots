@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "phleb (vein) phlebitis, phlebotomy",
+        "origin": "Greek, phleps, phlebos (a vein)",
+        "meaning": {
+            "ko": "정맥",
+            "en": "vein",
+            "ja": "静脈",
+            "zh": "静脉",
+            "fr": "veine"
+        }
+    },
+    "words": [
+        {
+            "word": "phlebitis",
+            "part_of_speech": "",
+            "origin": "Greek, phleps (vein) + -itis (inflammation)",
+            "meaning": {
+                "ko": "정맥 염증",
+                "en": "inflammation of the veins",
+                "ja": "静脈炎症",
+                "zh": "静脉炎症",
+                "fr": "inflammation veineuse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phleb-",
+                    "meaning": {
+                        "ko": "'정맥'",
+                        "en": "vein",
+                        "ja": "静脈",
+                        "zh": "静脉",
+                        "fr": "veine"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정맥에 염증이 생기는 병'인 '정맥염'을 뜻합니다.",
+                "en": "A disease in which inflammation occurs in the veins, referred to as phlebitis",
+                "ja": "静脈に炎症が起こる病気、静脈炎を意味します",
+                "zh": "指静脉发生炎症的疾病，称为静脉炎",
+                "fr": "Une maladie où l'inflammation survient dans les veines, appelée phlébite"
+            },
+            "example": "Phlebitis can cause pain and swelling in the affected limb.",
+            "translation": {
+                "ko": "정맥염은 해당 팔다리에 통증과 부기를 유발할 수 있다.",
+                "ja": "静脈炎症による痛みと腫れが影響を受けた四肢に生じることがあります",
+                "zh": "静脉炎症会导致患肢疼痛和肿胀",
+                "fr": "La phlébite peut causer de la douleur et un gonflement dans le membre affecté"
+            }
+        },
+        {
+            "word": "phlebotomy",
+            "part_of_speech": "",
+            "origin": "Greek, phleps (vein) + tome (a cutting)",
+            "meaning": {
+                "ko": "정맥 절개",
+                "en": "vein incision",
+                "ja": "静脈穿刺",
+                "zh": "静脉穿刺",
+                "fr": "phlébotomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phlebo-",
+                    "meaning": {
+                        "ko": "'정맥'",
+                        "en": "vein",
+                        "ja": "静脈",
+                        "zh": "静脉",
+                        "fr": "veine"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tomy",
+                    "meaning": {
+                        "ko": "'절개'",
+                        "en": "cutting",
+                        "ja": "切開",
+                        "zh": "切开",
+                        "fr": "incision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진단이나 치료를 위해 정맥을 절개하여 피를 뽑는' 행위인 '정맥 절개술', '채혈'을 뜻합니다.",
+                "en": "Phlebotomy refers to the medical procedure of incising a vein to draw blood for diagnostic or therapeutic purposes, also known as blood collection.",
+                "ja": "診断や治療のため静脈を切開して採血する医療行為を意味します。",
+                "zh": "指为诊断或治疗目的而切开静脉采血的医疗行为。",
+                "fr": "Acte médical consistant à inciser une veine pour prélever du sang à des fins diagnostiques ou thérapeutiques."
+            },
+            "example": "Phlebotomy is the process of making an incision in a vein with a needle.",
+            "translation": {
+                "ko": "정맥 절개술은 바늘로 정맥을 절개하는 과정이다.",
+                "ja": "静脈穿刺は針で静脈に穿刺して採血する過程です。",
+                "zh": "静脉穿刺是用针头在静脉中进行穿刺以采集血液的过程。",
+                "fr": "La phlébotomie est le processus de perforation d'une veine avec une aiguille pour prélever du sang."
+            }
+        }
+    ]
+}

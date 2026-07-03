@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "sacchar (sugar) polysaccharide, monosaccharide, saccharine",
+        "origin": "Greek, sakcharon (sugar)",
+        "meaning": {
+            "ko": "설탕",
+            "en": "sugar",
+            "ja": "砂糖",
+            "zh": "糖",
+            "fr": "sucre"
+        }
+    },
+    "words": [
+        {
+            "word": "polysaccharide",
+            "part_of_speech": "",
+            "origin": "Greek, poly- (many) + sakcharon (sugar)",
+            "meaning": {
+                "ko": "많은 당",
+                "en": "many sugars",
+                "ja": "多くの糖",
+                "zh": "许多糖",
+                "fr": "nombreux sucres"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "poly-",
+                    "meaning": {
+                        "ko": "'많은'",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "saccharide",
+                    "meaning": {
+                        "ko": "'당'",
+                        "en": "sugar",
+                        "ja": "糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'많은 단당류가 결합하여 만들어진' 탄수화물인 '다당류'를 뜻합니다.",
+                "en": "A carbohydrate called polysaccharide, formed by combining many monosaccharides.",
+                "ja": "多くの単糖が結合して作られた炭水化物である多糖類を意味します。",
+                "zh": "由许多单糖结合而成的碳水化合物，称为多糖。",
+                "fr": "Un glucide appelé polysaccharide, formé par la combinaison de nombreux monosaccharides."
+            },
+            "example": "Starch and cellulose are polysaccharides.",
+            "translation": {
+                "ko": "녹말과 셀룰로스는 다당류이다.",
+                "ja": "多糖類",
+                "zh": "多糖",
+                "fr": "polysaccharide"
+            }
+        },
+        {
+            "word": "monosaccharide",
+            "part_of_speech": "",
+            "origin": "Greek, mono- (one) + sakcharon (sugar)",
+            "meaning": {
+                "ko": "하나의 당",
+                "en": "one sugar",
+                "ja": "単一の糖",
+                "zh": "单一的糖",
+                "fr": "sucre unique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mono-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "saccharide",
+                    "meaning": {
+                        "ko": "'당'",
+                        "en": "sugar",
+                        "ja": "糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'탄수화물의 가장 기본적인 단위'인 '단당류'를 뜻합니다.",
+                "en": "The basic unit of carbohydrates, meaning monosaccharide",
+                "ja": "炭水化物の最も基本的な単位である単糖類を意味します",
+                "zh": "指碳水化物最基本的单位单糖",
+                "fr": "L'unité la plus basique des glucides, signifiant monosaccharide"
+            },
+            "example": "Glucose is a monosaccharide.",
+            "translation": {
+                "ko": "포도당은 단당류이다.",
+                "ja": "グルコースは単糖類です",
+                "zh": "葡萄糖是单糖",
+                "fr": "Le glucose est un monosaccharide"
+            }
+        },
+        {
+            "word": "saccharine",
+            "part_of_speech": "",
+            "origin": "Greek, sakcharon (sugar)",
+            "meaning": {
+                "ko": "설탕",
+                "en": "sugar",
+                "ja": "砂糖のような甘い",
+                "zh": "过度甜蜜的",
+                "fr": "excessivement sucré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sacchar-",
+                    "meaning": {
+                        "ko": "'설탕'",
+                        "en": "sugar",
+                        "ja": "砂糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'설탕처럼 지나치게 달콤한'이라는 의미이며, 인공 감미료 '사카린'을 뜻하기도 합니다.",
+                "en": "Means excessively sweet like sugar, and also refers to the artificial sweetener saccharin",
+                "ja": "砂糖のように過度に甘いという意味であり、人工甘味料のサッカリンを指すこともあります",
+                "zh": "意为像糖一样过度甘甜，也指人工甘味料糖精",
+                "fr": "Signifie excessivement sucré comme le sucre, et désigne aussi l'édulcorant artificiel saccharine"
+            },
+            "example": "The movie has a saccharine plot.",
+            "translation": {
+                "ko": "그 영화는 지나치게 달콤한 줄거리를 가지고 있다.",
+                "ja": "映画のプロットは甘ったるい",
+                "zh": "这部电影的情节过于甜蜜",
+                "fr": "L'intrigue du film est excessivement sucrée"
+            }
+        }
+    ]
+}

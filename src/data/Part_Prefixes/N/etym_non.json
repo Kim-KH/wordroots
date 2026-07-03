@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "non (not) noncompliant, nonconformist, nonfiction, nonsense",
+        "origin": "Latin, non (not)",
+        "meaning": {
+            "ko": "부정",
+            "en": "not",
+            "ja": "否定",
+            "zh": "否定",
+            "fr": "négation"
+        }
+    },
+    "words": [
+        {
+            "word": "noncompliant",
+            "part_of_speech": "",
+            "origin": "English, non- + compliant",
+            "meaning": {
+                "ko": "순응하지 않는",
+                "en": "not complying or obedient",
+                "ja": "順応しない",
+                "zh": "不遵守的",
+                "fr": "non conforme"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "non-",
+                    "meaning": {
+                        "ko": "'않는'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "不",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "compliant",
+                    "meaning": {
+                        "ko": "'순응하는'",
+                        "en": "complying or obedient",
+                        "ja": "順応する",
+                        "zh": "遵守",
+                        "fr": "se conformer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'규칙이나 요구에 따르지 않는'이라는 의미에서 '순응하지 않는'이라는 뜻으로 쓰입니다.",
+                "en": "Used to mean 'not following rules or requirements'",
+                "ja": "規則や要求に従わないという意味で使用される",
+                "zh": "用于表示不遵循规则或要求的含义",
+                "fr": "Utilisé pour signifier ne pas suivre les règles ou les exigences"
+            },
+            "example": "The company was fined for being noncompliant with safety regulations.",
+            "translation": {
+                "ko": "그 회사는 안전 규정을 준수하지 않아 벌금을 부과받았다.",
+                "ja": "その会社は安全規制に順応していないため罰金を科せられた。",
+                "zh": "该公司因不遵守安全规定而被罚款。",
+                "fr": "L'entreprise a été condamnée à une amende pour non-conformité aux réglementations de sécurité."
+            }
+        },
+        {
+            "word": "nonconformist",
+            "part_of_speech": "",
+            "origin": "English, non- + conformist",
+            "meaning": {
+                "ko": "순응주의자가 아닌 사람",
+                "en": "person who does not conform",
+                "ja": "非順応主義者",
+                "zh": "不墨守成规的人",
+                "fr": "non-conformiste"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "non-",
+                    "meaning": {
+                        "ko": "'아닌'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "不",
+                        "fr": "non"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "conformist",
+                    "meaning": {
+                        "ko": "'순응주의자'",
+                        "en": "conformist",
+                        "ja": "順応主義者",
+                        "zh": "墨守成规者",
+                        "fr": "conformiste"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일반적인 관행이나 규칙에 따르지 않는 사람'을 의미합니다.",
+                "en": "A person who does not follow conventional practices or rules",
+                "ja": "一般的な慣行や規則に従わない人を意味します",
+                "zh": "指不遵循一般惯例或规则的人",
+                "fr": "Personne qui ne suit pas les conventions ou règles établies"
+            },
+            "example": "He was a nonconformist who challenged the established traditions.",
+            "translation": {
+                "ko": "그는 기존의 전통에 도전하는 비순응주의자였다.",
+                "ja": "確立された伝統に異議を唱える非順応主義者だった",
+                "zh": "他是一个挑战既定传统的不墨守成规的人",
+                "fr": "Il était un non-conformiste qui remettait en question les traditions établies"
+            }
+        },
+        {
+            "word": "nonfiction",
+            "part_of_speech": "",
+            "origin": "English, non- + fiction",
+            "meaning": {
+                "ko": "허구가 아닌 것",
+                "en": "something that is not fictional",
+                "ja": "虚構でない文学",
+                "zh": "非虚构作品",
+                "fr": "non-fiction"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "non-",
+                    "meaning": {
+                        "ko": "'아닌'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "不是",
+                        "fr": "non"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fiction",
+                    "meaning": {
+                        "ko": "'소설, 허구'",
+                        "en": "novel or invented story",
+                        "ja": "小説、虚構",
+                        "zh": "小说、虚构",
+                        "fr": "fiction"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'허구(꾸며낸 이야기)가 아닌 글'이라는 의미에서 '논픽션', '실화'를 뜻합니다.",
+                "en": "Refers to literature that is not made-up or fictional; real accounts or factual writing",
+                "ja": "作り話ではなく、実話や事実に基づく文章を意味します",
+                "zh": "指非虚构或非小说的文学作品；真实记录或基于事实的写作",
+                "fr": "Désigne la littérature qui n'est pas fictive; récits réels ou écrits factuels"
+            },
+            "example": "I prefer reading nonfiction to fiction.",
+            "translation": {
+                "ko": "나는 소설보다 논픽션을 읽는 것을 더 좋아한다.",
+                "ja": "ノンフィクション",
+                "zh": "非虚构文学",
+                "fr": "non-fiction"
+            }
+        },
+        {
+            "word": "nonsense",
+            "part_of_speech": "",
+            "origin": "English, non- + sense",
+            "meaning": {
+                "ko": "이치에 맞지 않음",
+                "en": "not consistent with logic",
+                "ja": "意味不明な話",
+                "zh": "荒唐无理的话",
+                "fr": "paroles dénuées de sens"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "non-",
+                    "meaning": {
+                        "ko": "'없는'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "没有",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sense",
+                    "meaning": {
+                        "ko": "'의미, 이치'",
+                        "en": "meaning or logic",
+                        "ja": "意味、理屈",
+                        "zh": "意义、道理",
+                        "fr": "sens, logique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의미가 없거나 이치에 맞지 않는 말이나 생각'을 의미하여 '허튼소리', '터무니없는 생각'을 뜻합니다.",
+                "en": "Refers to talk or thoughts that lack meaning or are illogical, such as nonsensical speech or absurd ideas.",
+                "ja": "意味がないまたは理屈に合わない話や考えを指し、くだらない話や無茶な考えを意味します。",
+                "zh": "指没有意义或不合逻辑的言论或想法，意为荒唐的言论或荒谬的思想。",
+                "fr": "Se réfère à des paroles ou des pensées qui manquent de sens ou qui sont illogiques, telles que des bavardages absurdes ou des idées farfelues."
+            },
+            "example": "Stop talking nonsense and tell me what really happened.",
+            "translation": {
+                "ko": "허튼소리 그만하고 진짜 무슨 일이 있었는지 말해봐.",
+                "ja": "ばかなことを言うのをやめて、本当は何が起こったのか教えてください。",
+                "zh": "别说蠢话了，告诉我到底发生了什么。",
+                "fr": "Arrête de dire des bêtises et dis-moi ce qui s'est vraiment passé."
+            }
+        }
+    ]
+}

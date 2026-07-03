@@ -1,0 +1,130 @@
+{
+    "root_info": {
+        "roots": "phot",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "빛",
+            "en": "light",
+            "ja": "光",
+            "zh": "光",
+            "fr": "lumière"
+        }
+    },
+    "words": [
+        {
+            "word": "photograph",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "photo",
+                    "meaning": {
+                        "ko": "빛",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "그림, 기록",
+                        "en": "picture, record",
+                        "ja": "絵、記録",
+                        "zh": "画、记录",
+                        "fr": "dessin, enregistrement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛으로 그린 그림' 즉, '사진'을 뜻합니다.",
+                "en": "A picture drawn with light, meaning a photograph",
+                "ja": "光で描いた絵、つまり写真を意味します",
+                "zh": "用光线绘制的图画，即照片的意思",
+                "fr": "Un dessin réalisé avec de la lumière, signifiant une photographie"
+            },
+            "example": "I took a photograph of the family.",
+            "translation": {
+                "ko": "나는 그 가족의 사진을 찍었다.",
+                "ja": "写真",
+                "zh": "照片",
+                "fr": "photographie"
+            }
+        },
+        {
+            "word": "photosynthesis",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "photo",
+                    "meaning": {
+                        "ko": "빛",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "synthesis",
+                    "meaning": {
+                        "ko": "합성",
+                        "en": "combination or synthesis",
+                        "ja": "合成",
+                        "zh": "合成",
+                        "fr": "synthèse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛을 이용한 합성' 즉, 식물의 '광합성'을 뜻합니다.",
+                "en": "Light-driven synthesis; the process by which plants use light to produce food.",
+                "ja": "光を利用した合成、つまり植物の光合成を意味します。",
+                "zh": "利用光的合成，即植物的光合成。",
+                "fr": "Synthèse utilisant la lumière ; c'est la photosynthèse des plantes."
+            },
+            "example": "Plants use photosynthesis to make food.",
+            "translation": {
+                "ko": "식물은 광합성을 이용하여 양분을 만든다.",
+                "ja": "植物は光合成を使って栄養分を作ります。",
+                "zh": "植物利用光合作用制造养分。",
+                "fr": "Les plantes utilisent la photosynthèse pour fabriquer de la nourriture."
+            }
+        },
+        {
+            "word": "photon",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phot",
+                    "meaning": {
+                        "ko": "빛",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛의 입자' 즉, '광자'를 뜻합니다.",
+                "en": "A particle of light; a quantum of electromagnetic radiation.",
+                "ja": "光の粒子、つまり光子を意味します。",
+                "zh": "光的粒子，即光子的意思。",
+                "fr": "Une particule de lumière, c'est-à-dire un quantum de rayonnement électromagnétique."
+            },
+            "example": "A photon is a particle of light.",
+            "translation": {
+                "ko": "광자는 빛의 입자이다.",
+                "ja": "光子は光の粒子です。",
+                "zh": "光子是光的粒子。",
+                "fr": "Un photon est une particule de lumière."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "taxo (arrangement) taxidermy, taximeter, taxonomy",
+        "origin": "Greek, taxis (arrangement, order)",
+        "meaning": {
+            "ko": "배열",
+            "en": "arrangement",
+            "ja": "配置",
+            "zh": "排列",
+            "fr": "arrangement"
+        }
+    },
+    "words": [
+        {
+            "word": "taxidermy",
+            "part_of_speech": "",
+            "origin": "Greek, taxis (arrangement) + derma (skin)",
+            "meaning": {
+                "ko": "피부 배열",
+                "en": "arrangement of skin",
+                "ja": "動物の剥製術",
+                "zh": "动物标本制作",
+                "fr": "taxidermie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "taxi-",
+                    "meaning": {
+                        "ko": "'배열'",
+                        "en": "arrangement",
+                        "ja": "配置",
+                        "zh": "排列",
+                        "fr": "arrangement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dermy",
+                    "meaning": {
+                        "ko": "'피부'",
+                        "en": "skin",
+                        "ja": "皮膚",
+                        "zh": "皮肤",
+                        "fr": "peau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동물의 가죽을 실물처럼 보이도록 배열하는' 기술인 '박제술'을 뜻합니다.",
+                "en": "The technique of arranging an animal's skin to appear lifelike, known as taxidermy.",
+                "ja": "動物の皮膚を本物のように見えるように配置する技術、すなわち剥製術を意味します。",
+                "zh": "将动物的皮肤排列成逼真外观的技术，称为动物标本制作。",
+                "fr": "La technique d'arranger la peau d'un animal pour paraître vivant, connue sous le nom de taxidermie."
+            },
+            "example": "Taxidermy is the art of preserving an animal's body for display.",
+            "translation": {
+                "ko": "박제술은 전시를 위해 동물의 몸을 보존하는 기술이다.",
+                "ja": "タクシダーミーは動物の身体を展示用に保存する芸術です。",
+                "zh": "动物标本制作是为展示而保存动物尸体的艺术。",
+                "fr": "La taxidermie est l'art de préserver le corps d'un animal pour l'exposition."
+            }
+        },
+        {
+            "word": "taximeter",
+            "part_of_speech": "",
+            "origin": "Greek, taxis (tax, rate) + metron (measure)",
+            "meaning": {
+                "ko": "요금을 재는 것",
+                "en": "measuring fare or charge",
+                "ja": "運賃を測定する機器",
+                "zh": "测量车费的仪器",
+                "fr": "appareil mesurant le tarif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "taxi-",
+                    "meaning": {
+                        "ko": "'요금'",
+                        "en": "tax",
+                        "ja": "運賃",
+                        "zh": "车费",
+                        "fr": "tarif"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'측정기'",
+                        "en": "measuring device",
+                        "ja": "測定器",
+                        "zh": "测量仪",
+                        "fr": "appareil de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이동 거리에 따라 요금을 측정하는 기계'인 '택시 미터기'를 뜻합니다.",
+                "en": "A device in a taxi that measures the fare based on distance traveled and time elapsed",
+                "ja": "タクシーの走行距離と経過時間に基づいて運賃を測定する機械です",
+                "zh": "根据出租车行驶距离和经过时间来测量车费的机器",
+                "fr": "Machine mesurant le tarif selon la distance parcourue et le temps écoulé du taxi"
+            },
+            "example": "The taximeter calculates the fare based on distance and time.",
+            "translation": {
+                "ko": "택시 미터기는 거리와 시간에 따라 요금을 계산한다.",
+                "ja": "タクシーメーター",
+                "zh": "出租车计价器",
+                "fr": "taximètre"
+            }
+        },
+        {
+            "word": "taxonomy",
+            "part_of_speech": "",
+            "origin": "Greek, taxis (arrangement) + nomos (law)",
+            "meaning": {
+                "ko": "배열의 법칙",
+                "en": "system of classification and arrangement",
+                "ja": "分類学",
+                "zh": "分类学",
+                "fr": "classification"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "taxo-",
+                    "meaning": {
+                        "ko": "'배열'",
+                        "en": "arrangement",
+                        "ja": "配列",
+                        "zh": "排列",
+                        "fr": "arrangement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomy",
+                    "meaning": {
+                        "ko": "'법칙, 학문'",
+                        "en": "law or science",
+                        "ja": "法則、学問",
+                        "zh": "法则、学科",
+                        "fr": "loi, science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생물을 체계적으로 배열하고 분류하는 학문'인 '분류학'을 뜻합니다.",
+                "en": "The science of systematically arranging and classifying organisms",
+                "ja": "生物を体系的に配列し分類する学問",
+                "zh": "系统地排列和分类生物的科学",
+                "fr": "Science classant systématiquement les organismes"
+            },
+            "example": "Taxonomy is the science of classifying organisms.",
+            "translation": {
+                "ko": "분류학은 유기체를 분류하는 과학이다.",
+                "ja": "分類学は生物を分類する科学です。",
+                "zh": "分类学是对生物进行分类的科学。",
+                "fr": "La taxonomie est la science de classifier les organismes."
+            }
+        }
+    ]
+}

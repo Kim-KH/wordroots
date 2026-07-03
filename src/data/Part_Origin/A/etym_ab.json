@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "ab",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "떨어져",
+            "en": "away from",
+            "ja": "離れて",
+            "zh": "离开",
+            "fr": "loin de"
+        }
+    },
+    "words": [
+        {
+            "word": "absent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ab-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sent",
+                    "meaning": {
+                        "ko": "존재하다",
+                        "en": "to be",
+                        "ja": "存在する",
+                        "zh": "存在",
+                        "fr": "être"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자리에 없이 떨어져 있는'이라는 의미에서 '결석한', '없는'이라는 뜻입니다.",
+                "en": "Meaning 'not present at one's place' or 'missing', hence 'absent' or 'not there'.",
+                "ja": "自分のいるべき場所にいない状態を表し、欠席した、いない という意味です。",
+                "zh": "表示不在自己应该在的地方，因此意为缺席、不存在。",
+                "fr": "Signifie 'pas présent à sa place' ou 'manquant', d'où 'absent' ou 'inexistant'."
+            },
+            "example": "Why were you absent yesterday?",
+            "translation": {
+                "ko": "어제 왜 결석했나요?",
+                "ja": "昨日、なぜ欠席していたのですか？",
+                "zh": "你昨天为什么缺席？",
+                "fr": "Pourquoi étiez-vous absent hier?"
+            }
+        },
+        {
+            "word": "abduction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ab-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duct",
+                    "meaning": {
+                        "ko": "이끌다",
+                        "en": "to lead",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 다른 곳으로 강제로 이끌고 가는 행위'라는 의미에서 '유괴', '납치'를 뜻합니다.",
+                "en": "Means kidnapping or abduction—the act of forcibly taking someone away to a distant place.",
+                "ja": "遠く別の場所へ強制的に連れ去る行為という意味から、『誘拐』『拉致』を意味します。",
+                "zh": "从将某人强制带往远处这一含义衍生出『绑架』『拐卖』的意思。",
+                "fr": "Du sens d'emmener quelqu'un de force vers un endroit lointain, signifie 'enlèvement' ou 'kidnapping'."
+            },
+            "example": "The police are investigating the abduction.",
+            "translation": {
+                "ko": "경찰은 그 유괴 사건을 조사하고 있다.",
+                "ja": "警察はその誘拐事件を調査しています。",
+                "zh": "警察正在调查这起绑架案。",
+                "fr": "La police enquête sur l'enlèvement."
+            }
+        },
+        {
+            "word": "aberrant",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ab-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away from",
+                        "ja": "離れて",
+                        "zh": "远离",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "err",
+                    "meaning": {
+                        "ko": "헤매다, 벗어나다",
+                        "en": "to wander",
+                        "ja": "さまよう、逸脱する",
+                        "zh": "漂泊、偏离",
+                        "fr": "errer, s'écarter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정상적인 경로에서 벗어나 헤매는'이라는 의미에서 '비정상적인', '일탈적인'이라는 뜻입니다.",
+                "en": "From the sense of 'wandering from the normal path', meaning abnormal or deviant.",
+                "ja": "正常な経路から逸脱してさまよう意味から、異常な、逸脱的という意味になります。",
+                "zh": "从'离开正常路径而漂泊'的含义引申为'异常的'、'偏离的'之意。",
+                "fr": "Du sens de 's'écarter du chemin normal en errant', signifiant anormal ou déviant."
+            },
+            "example": "His aberrant behavior worried his parents.",
+            "translation": {
+                "ko": "그의 일탈적인 행동은 그의 부모님을 걱정시켰다.",
+                "ja": "彼の異常な行動は両親を心配させた。",
+                "zh": "他的异常行为让他的父母感到担忧。",
+                "fr": "Son comportement aberrant inquiétait ses parents."
+            }
+        },
+        {
+            "word": "abstemious",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "abs-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away from",
+                        "ja": "離れて",
+                        "zh": "远离",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tem",
+                    "meaning": {
+                        "ko": "술",
+                        "en": "strong drink",
+                        "ja": "強い酒",
+                        "zh": "烈酒",
+                        "fr": "boisson alcoolisée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'술로부터 멀리 떨어져 있는'이라는 의미에서, 음식이나 술 등을 '절제하는', '금욕적인'이라는 뜻입니다.",
+                "en": "From the sense of 'staying away from drink,' it means to practice moderation in food and drink, or to be abstemious.",
+                "ja": "「酒から遠く離れている」という意味から、食べ物や酒などを「節制する」、「禁欲的である」という意味になります。",
+                "zh": "从「远离酒精」的含义引申，表示对食物或饮酒等的「节制」、「禁欲」。",
+                "fr": "Du sens de « se tenir loin de la boisson », signifie pratiquer la modération dans la nourriture et la boisson, ou être sobre."
+            },
+            "example": "He lives an abstemious life.",
+            "translation": {
+                "ko": "그는 절제하는 삶을 산다.",
+                "ja": "彼は節制した生活を送っている。",
+                "zh": "他过着节制的生活。",
+                "fr": "Il mène une vie frugale."
+            }
+        }
+    ]
+}

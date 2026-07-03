@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "penetr (insert) penetrate, impenetrable",
+        "origin": "Latin, penetrare (to put into, to enter)",
+        "meaning": {
+            "ko": "안으로 넣다",
+            "en": "to insert",
+            "ja": "挿入する",
+            "zh": "插入",
+            "fr": "insérer"
+        }
+    },
+    "words": [
+        {
+            "word": "penetrate",
+            "part_of_speech": "",
+            "origin": "Latin, penetrare (to put into)",
+            "meaning": {
+                "ko": "안으로 넣다",
+                "en": "to put inside",
+                "ja": "貫く、突き抜ける",
+                "zh": "穿透、贯穿",
+                "fr": "pénétrer, traverser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pen- (penitus 'within')",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "within",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trare",
+                    "meaning": {
+                        "ko": "'들어가다'",
+                        "en": "to enter",
+                        "ja": "入る",
+                        "zh": "进入",
+                        "fr": "entrer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 깊숙이 들어가다'는 의미에서 '뚫고 들어가다', '관통하다', '침투하다'라는 뜻입니다.",
+                "en": "Means to deeply enter, pass through, or infiltrate",
+                "ja": "深く入り込む、突き通す、浸透するという意味",
+                "zh": "深入进入、穿过、渗透的意思",
+                "fr": "Signifie entrer profondément, traverser ou s'infiltrer"
+            },
+            "example": "The bullet penetrated his armor.",
+            "translation": {
+                "ko": "총알이 그의 갑옷을 뚫었다.",
+                "ja": "その弾丸は彼の鎧を貫いた。",
+                "zh": "那颗子弹穿透了他的盔甲。",
+                "fr": "La balle a pénétré son armure."
+            }
+        },
+        {
+            "word": "impenetrable",
+            "part_of_speech": "",
+            "origin": "Latin, impenetrabilis (that cannot be passed through)",
+            "meaning": {
+                "ko": "통과할 수 없는",
+                "en": "cannot be passed through",
+                "ja": "通り抜けられない",
+                "zh": "无法穿过",
+                "fr": "impénétrable"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "~ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "penetrable",
+                    "meaning": {
+                        "ko": "'뚫을 수 있는'",
+                        "en": "able to pierce through",
+                        "ja": "貫通できる",
+                        "zh": "能穿透",
+                        "fr": "pénétrable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뚫고 들어갈 수 없는'이라는 의미에서 '통과할 수 없는', '이해할 수 없는'이라는 뜻입니다.",
+                "en": "Meaning unable to pass through, unable to understand",
+                "ja": "貫き通すことができないという意味で、通り抜けられない、理解できないという意味です",
+                "zh": "从无法穿过的意思延伸为无法通过、无法理解的含义",
+                "fr": "Signifie impossible à traverser, impossible à comprendre"
+            },
+            "example": "The jungle was dense and impenetrable.",
+            "translation": {
+                "ko": "그 정글은 빽빽해서 들어갈 수가 없었다.",
+                "ja": "ジャングルは密集していて通り抜けられなかった。",
+                "zh": "丛林密集得无法穿过。",
+                "fr": "La jungle était dense et impénétrable."
+            }
+        }
+    ]
+}

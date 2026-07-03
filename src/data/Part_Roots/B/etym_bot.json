@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "bot (plant) botany, botanical, botanist",
+        "origin": "Greek, botanē (pasture, herb)",
+        "meaning": {
+            "ko": "식물",
+            "en": "plant, herb",
+            "ja": "植物、草本",
+            "zh": "植物、草本",
+            "fr": "plante, herbe"
+        }
+    },
+    "words": [
+        {
+            "word": "botany",
+            "part_of_speech": "",
+            "origin": "Greek, botanē (pasture, herb)",
+            "meaning": {
+                "ko": "식물",
+                "en": "herb",
+                "ja": "植物、草本植物",
+                "zh": "植物、草本植物",
+                "fr": "plante, herbe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bot (boskein)",
+                    "meaning": {
+                        "ko": "'먹이다, 방목하다'",
+                        "en": "to feed, to graze",
+                        "ja": "給餌する、放牧する",
+                        "zh": "饲养、放牧",
+                        "fr": "nourrir, paître"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-any",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science, étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 가축을 '먹이는' 풀이나 목초지를 의미하던 단어에서 '식물' 전반을 가리키게 되었고, 이를 연구하는 학문인 '식물학'을 뜻하게 되었습니다.",
+                "en": "Originally referred to grass or pasture used to feed livestock, later came to mean plants in general, and eventually the scientific study of plants (botany).",
+                "ja": "もともと家畜を飼うために使う草や牧草地を意味していたが、次第に一般的な植物全体を指すようになり、やがてそれを研究する学問である植物学を意味するようになった。",
+                "zh": "最初指用来饲养家畜的草或牧场，后来逐渐指代植物整体，最终指代研究植物的学问植物学。",
+                "fr": "Désignait à l'origine l'herbe ou les pâturages pour nourrir le bétail, a progressivement signifié les plantes en général, puis la science étudiant les plantes."
+            },
+            "example": "Botany is the scientific study of plant life.",
+            "translation": {
+                "ko": "식물학은 식물의 생명에 대한 과학적인 연구이다.",
+                "ja": "植物学は植物生命を科学的に研究することです。",
+                "zh": "植物学是对植物生命的科学研究。",
+                "fr": "La botanique est l'étude scientifique de la vie des plantes."
+            }
+        },
+        {
+            "word": "botanical",
+            "part_of_speech": "",
+            "origin": "Greek, botanikos (of herbs)",
+            "meaning": {
+                "ko": "식물에 관한",
+                "en": "of herbs",
+                "ja": "植物に関する",
+                "zh": "植物的",
+                "fr": "botanique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "botan (botanē)",
+                    "meaning": {
+                        "ko": "'식물'",
+                        "en": "plant, herb",
+                        "ja": "植物",
+                        "zh": "植物",
+                        "fr": "plante"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ical",
+                    "meaning": {
+                        "ko": "'~에 관련된'",
+                        "en": "relating to",
+                        "ja": "~に関連した",
+                        "zh": "与~相关的",
+                        "fr": "relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물(botan)에 관련된'이라는 의미로, '식물학의' 또는 '식물에서 채취한'이라는 뜻을 가집니다.",
+                "en": "Means 'of plants' or 'relating to plants', derived from Greek 'botan' (plant) with the suffix indicating relation or association.",
+                "ja": "ギリシャ語の'botan'(植物)と関連を示す接尾辞から派生し、'植物に関する'または'植物学的な'という意味です。",
+                "zh": "源自希腊语'botan'(植物)和表示关联的后缀，意为'与植物相关的'或'植物学的'。",
+                "fr": "Dérivé du grec 'botan' (plante) avec un suffixe indiquant la relation, signifiant 'relatif aux plantes' ou 'botanique'."
+            },
+            "example": "The museum has a collection of beautiful botanical illustrations.",
+            "translation": {
+                "ko": "그 박물관은 아름다운 식물 세밀화 컬렉션을 소장하고 있다.",
+                "ja": "博物館には美しい植物学的イラストの収集がある。",
+                "zh": "博物馆拥有一系列美丽的植物学插图。",
+                "fr": "Le musée possède une collection de belles illustrations botaniques."
+            }
+        },
+        {
+            "word": "botanist",
+            "part_of_speech": "",
+            "origin": "Greek, botanē (herb)",
+            "meaning": {
+                "ko": "식물",
+                "en": "herb",
+                "ja": "植物学者",
+                "zh": "植物学家",
+                "fr": "botaniste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "botan (botanē)",
+                    "meaning": {
+                        "ko": "'식물'",
+                        "en": "plant",
+                        "ja": "植物",
+                        "zh": "植物",
+                        "fr": "plante"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ist",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물(botan)을 연구하는 사람(ist)'이라는 의미로, '식물학자'를 뜻합니다.",
+                "en": "A person who studies plants (plant + person who studies)",
+                "ja": "植物を研究する人という意味で、植物学者を表します",
+                "zh": "研究植物的人，意为植物学家",
+                "fr": "Une personne qui étudie les plantes, signifiant botaniste"
+            },
+            "example": "The botanist discovered a new species of orchid in the rainforest.",
+            "translation": {
+                "ko": "그 식물학자는 열대우림에서 새로운 종류의 난초를 발견했다.",
+                "ja": "熱帯雨林で蘭の新種を発見した植物学者。",
+                "zh": "这位植物学家在雨林中发现了一种兰花新种。",
+                "fr": "Le botaniste a découvert une nouvelle espèce d'orchidée dans la forêt tropicale."
+            }
+        }
+    ]
+}

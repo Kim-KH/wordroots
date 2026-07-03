@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ory (place) dormitory, factory, laboratory",
+        "origin": "Latin, -orium (a place for)",
+        "meaning": {
+            "ko": "장소",
+            "en": "place",
+            "ja": "場所",
+            "zh": "地方",
+            "fr": "lieu"
+        }
+    },
+    "words": [
+        {
+            "word": "dormitory",
+            "part_of_speech": "",
+            "origin": "Latin, dormitorium (a sleeping place)",
+            "meaning": {
+                "ko": "잠자는 장소",
+                "en": "sleeping place",
+                "ja": "寝る場所",
+                "zh": "睡眠场所",
+                "fr": "lieu de sommeil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dorm-",
+                    "meaning": {
+                        "ko": "'잠자다'",
+                        "en": "to sleep",
+                        "ja": "寝る",
+                        "zh": "睡眠",
+                        "fr": "dormir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itory",
+                    "meaning": {
+                        "ko": "'~을 위한 장소'",
+                        "en": "place for the purpose of",
+                        "ja": "~のための場所",
+                        "zh": "~的场所",
+                        "fr": "lieu pour ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 사람이 함께 잠자는 장소'인 '기숙사'를 뜻합니다.",
+                "en": "A dormitory is a place where multiple people sleep together, typically a residence hall for students.",
+                "ja": "複数の人が一緒に寝る場所、通常は学生用の寮を意味します",
+                "zh": "多个人一起睡觉的地方，通常指学生宿舍",
+                "fr": "Un lieu où plusieurs personnes dorment ensemble, généralement un dortoir pour étudiants"
+            },
+            "example": "Many college students live in a dormitory.",
+            "translation": {
+                "ko": "많은 대학생들이 기숙사에서 산다.",
+                "ja": "多くの大学生が寮に住んでいます",
+                "zh": "许多大学生住在宿舍里",
+                "fr": "De nombreux étudiants universitaires vivent dans un dortoir"
+            }
+        },
+        {
+            "word": "factory",
+            "part_of_speech": "",
+            "origin": "Latin, factorium (a place where things are made)",
+            "meaning": {
+                "ko": "물건을 만드는 장소",
+                "en": "place where things are made",
+                "ja": "物を作る場所",
+                "zh": "制造物品的地方",
+                "fr": "lieu de fabrication"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fact- (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "fabriquer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ory",
+                    "meaning": {
+                        "ko": "'~하는 장소'",
+                        "en": "place where something happens",
+                        "ja": "~する場所",
+                        "zh": "~的场所",
+                        "fr": "lieu où ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물건을 만드는 장소'인 '공장'을 뜻합니다.",
+                "en": "Refers to a factory, a place where goods are manufactured",
+                "ja": "物を製造する場所である工場を意味します",
+                "zh": "指代工厂，即制造物品的地方",
+                "fr": "Désigne une usine, un lieu de fabrication de biens"
+            },
+            "example": "He works at a car factory.",
+            "translation": {
+                "ko": "그는 자동차 공장에서 일한다.",
+                "ja": "彼は自動車工場で働いています",
+                "zh": "他在汽车工厂工作",
+                "fr": "Il travaille dans une usine automobile"
+            }
+        },
+        {
+            "word": "laboratory",
+            "part_of_speech": "",
+            "origin": "Latin, laboratorium (a place for work)",
+            "meaning": {
+                "ko": "일하는 장소",
+                "en": "place where work is done",
+                "ja": "働く場所",
+                "zh": "工作场所",
+                "fr": "lieu de travail"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "labor-",
+                    "meaning": {
+                        "ko": "'일'",
+                        "en": "work",
+                        "ja": "仕事",
+                        "zh": "工作",
+                        "fr": "travail"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-atory",
+                    "meaning": {
+                        "ko": "'~하는 장소'",
+                        "en": "place where something is done",
+                        "ja": "~する場所",
+                        "zh": "~的场所",
+                        "fr": "lieu de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과학적인 작업을 하는 장소'인 '실험실'을 뜻합니다.",
+                "en": "Refers to a laboratory, a place where scientific work is conducted",
+                "ja": "科学的な作業を行う場所である実験室を意味します",
+                "zh": "指进行科学工作的地方实验室",
+                "fr": "Désigne un laboratoire, lieu où s'effectuent des travaux scientifiques"
+            },
+            "example": "The results of the laboratory tests will be available tomorrow.",
+            "translation": {
+                "ko": "실험실 검사 결과는 내일 나올 것이다.",
+                "ja": "明日、実験室の検査結果が利用可能になります",
+                "zh": "实验室测试的结果明天就会公布",
+                "fr": "Les résultats des tests de laboratoire seront disponibles demain"
+            }
+        }
+    ]
+}

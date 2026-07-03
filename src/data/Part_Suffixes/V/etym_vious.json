@@ -1,0 +1,187 @@
+{
+    "root_info": {
+        "roots": "vious (characterized by) envious, previous, obvious",
+        "origin": "Latin, -vius (of a way) + -osus (full of)",
+        "meaning": {
+            "ko": "…의 특징을 가진",
+            "en": "characterized by",
+            "ja": "…によって特徴づけられた",
+            "zh": "…的特征",
+            "fr": "…caractérisé par"
+        }
+    },
+    "words": [
+        {
+            "word": "envious",
+            "part_of_speech": "",
+            "origin": "Latin, invidiosus (full of envy)",
+            "meaning": {
+                "ko": "질투로 가득 찬",
+                "en": "full of jealousy",
+                "ja": "嫉妬に満ちた",
+                "zh": "充满嫉妒的",
+                "fr": "rempli d'envie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "envy",
+                    "meaning": {
+                        "ko": "'질투'",
+                        "en": "jealousy",
+                        "ja": "嫉妬",
+                        "zh": "嫉妒",
+                        "fr": "envie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ious",
+                    "meaning": {
+                        "ko": "'~으로 가득한'",
+                        "en": "full of",
+                        "ja": "~で満ちた",
+                        "zh": "充满~的",
+                        "fr": "rempli de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'질투하는', '부러워하는'이라는 뜻입니다.",
+                "en": "Means jealous or wishing for what others have",
+                "ja": "他人が持つものを羨ましく思う、嫉妬する意味です",
+                "zh": "表示嫉妒的或渴望他人拥有的东西",
+                "fr": "Signifie jaloux ou désirer ce que les autres ont"
+            },
+            "example": "He was envious of his friend's success.",
+            "translation": {
+                "ko": "그는 친구의 성공을 부러워했다.",
+                "ja": "彼は友人の成功が羨ましかった。",
+                "zh": "他嫉妒他朋友的成功。",
+                "fr": "Il enviait le succès de son ami."
+            }
+        },
+        {
+            "word": "previous",
+            "part_of_speech": "",
+            "origin": "Latin, praevius (going before)",
+            "meaning": {
+                "ko": "앞에 가는",
+                "en": "going ahead in front",
+                "ja": "以前の",
+                "zh": "以前的",
+                "fr": "précédent"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "'앞에'",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vi- (via)",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "way",
+                        "ja": "道",
+                        "zh": "道路",
+                        "fr": "chemin"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or having the quality of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시간이나 순서상으로 길 앞에 있는'이라는 의미에서 '이전의'라는 뜻입니다.",
+                "en": "Means 'former' or 'prior' in the sense of coming before in time or sequence.",
+                "ja": "時間や順序で前に来るという意味で、『以前の』という意味です。",
+                "zh": "在时间或顺序上表示先前的，意为『之前的』。",
+                "fr": "Signifie 'antérieur' ou 'préalable' dans le sens de venir avant dans le temps ou la séquence."
+            },
+            "example": "I have a previous engagement.",
+            "translation": {
+                "ko": "나는 선약이 있다.",
+                "ja": "私は以前の約束があります。",
+                "zh": "我有一个以前的约定。",
+                "fr": "J'ai un engagement antérieur."
+            }
+        },
+        {
+            "word": "obvious",
+            "part_of_speech": "",
+            "origin": "Latin, obvius (in the way, evident)",
+            "meaning": {
+                "ko": "길에 있는, 명백한",
+                "en": "in the way, clear",
+                "ja": "明白な、明らかな",
+                "zh": "明显的、显而易见的",
+                "fr": "évident, manifeste"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "'앞에'",
+                        "en": "in front of",
+                        "ja": "前に",
+                        "zh": "前面、面前",
+                        "fr": "devant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vi- (via)",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "way",
+                        "ja": "道、方法",
+                        "zh": "道路、方式",
+                        "fr": "chemin, voie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "de, du"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'길 앞에 있어 누구나 볼 수 있는'이라는 의미에서 '명백한', '분명한'이라는 뜻입니다.",
+                "en": "From the idea of something being 'in front of the way' that anyone can see, meaning clear or obvious.",
+                "ja": "道の前にあって誰もが見ることができるという意味から、明白な、明らかなという意味になります。",
+                "zh": "源于在道路前面任何人都能看到的含义，表示清晰明白、显而易见。",
+                "fr": "De l'idée que quelque chose se trouve devant la voie et que tout le monde peut voir, signifiant clair ou évident."
+            },
+            "example": "The answer is obvious.",
+            "translation": {
+                "ko": "답은 명백하다.",
+                "ja": "その答えは明白です。",
+                "zh": "答案很明显。",
+                "fr": "La réponse est évidente."
+            }
+        }
+    ]
+}

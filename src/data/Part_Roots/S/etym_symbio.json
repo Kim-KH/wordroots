@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "symbio (live together) symbiotic, symbiosis, symbiote",
+        "origin": "Greek, symbiosis (a living together)",
+        "meaning": {
+            "ko": "함께 사는 것",
+            "en": "a living together",
+            "ja": "一緒に暮らすこと",
+            "zh": "一起生活",
+            "fr": "vivre ensemble"
+        }
+    },
+    "words": [
+        {
+            "word": "symbiotic",
+            "part_of_speech": "",
+            "origin": "Greek, symbiosis",
+            "meaning": {
+                "ko": "함께 사는 것",
+                "en": "living together",
+                "ja": "共生の",
+                "zh": "共生的",
+                "fr": "symbiotique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sym- (syn-)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio-",
+                    "meaning": {
+                        "ko": "'삶'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 다른 종이 함께 살아가는'이라는 의미에서 '공생의'라는 뜻입니다.",
+                "en": "Describes a relationship where different species live together and benefit from each other",
+                "ja": "異なる種が相互に利益を得ながら一緒に生きる関係を表す",
+                "zh": "表示不同物种相互受益地一起生活的关系",
+                "fr": "Décrit une relation où différentes espèces vivent ensemble et en tirent mutuellement profit"
+            },
+            "example": "The relationship between bees and flowers is symbiotic.",
+            "translation": {
+                "ko": "벌과 꽃의 관계는 공생 관계이다.",
+                "ja": "ミツバチと花の関係は共生的である。",
+                "zh": "蜜蜂和花之间的关系是共生的。",
+                "fr": "La relation entre les abeilles et les fleurs est symbiotique."
+            }
+        },
+        {
+            "word": "symbiosis",
+            "part_of_speech": "",
+            "origin": "Greek, symbiosis",
+            "meaning": {
+                "ko": "함께 사는 것",
+                "en": "living together",
+                "ja": "共に生きること",
+                "zh": "共同生活",
+                "fr": "vivre ensemble"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sym- (syn-)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio-",
+                    "meaning": {
+                        "ko": "'삶'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 다른 종이 함께 살아가는' 현상인 '공생'을 뜻합니다.",
+                "en": "Symbiosis refers to a phenomenon where different species live together and coexist.",
+                "ja": "異なる種が一緒に生きていく現象である共生を意味します。",
+                "zh": "指不同物种共同生活在一起的现象，称为共生。",
+                "fr": "Symbiose désigne le phénomène où différentes espèces vivent ensemble en coexistence."
+            },
+            "example": "Symbiosis is a close and long-term interaction between two different biological species.",
+            "translation": {
+                "ko": "공생은 서로 다른 두 생물 종 사이의 긴밀하고 장기적인 상호 작용이다.",
+                "ja": "共生は二つの異なる生物種間の密接で長期的な相互作用です。",
+                "zh": "共生是两个不同生物物种之间的紧密和长期相互作用。",
+                "fr": "La symbiose est une interaction étroite et durable entre deux espèces biologiques différentes."
+            }
+        },
+        {
+            "word": "symbiote",
+            "part_of_speech": "",
+            "origin": "Greek, symbiotes (one who lives with)",
+            "meaning": {
+                "ko": "함께 사는 자",
+                "en": "one who lives together",
+                "ja": "共に生きる者",
+                "zh": "共生的生物",
+                "fr": "organisme vivant ensemble"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "symbi-",
+                    "meaning": {
+                        "ko": "'함께 살다'",
+                        "en": "to live together",
+                        "ja": "共に生きる",
+                        "zh": "共同生活",
+                        "fr": "vivre ensemble"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공생 관계에 있는 생물'을 뜻합니다.",
+                "en": "An organism that lives in symbiotic relationship",
+                "ja": "共生関係にある生物を意味します",
+                "zh": "指与其他生物有共生关系的生物",
+                "fr": "Désigne un organisme vivant en relation symbiotique"
+            },
+            "example": "The clownfish and the sea anemone are famous symbiotes.",
+            "translation": {
+                "ko": "흰동가리와 말미잘은 유명한 공생 관계이다.",
+                "ja": "共生生物",
+                "zh": "共生体",
+                "fr": "symbiote"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "stab (firm, standing) establish, stable, stabilize",
+        "origin": "Latin, stare (to stand)",
+        "meaning": {
+            "ko": "서다",
+            "en": "to stand",
+            "ja": "立つ",
+            "zh": "站立",
+            "fr": "se tenir debout"
+        }
+    },
+    "words": [
+        {
+            "word": "establish",
+            "part_of_speech": "",
+            "origin": "Latin, stabilire (to make stable)",
+            "meaning": {
+                "ko": "안정되게 만들다",
+                "en": "make stable or secure",
+                "ja": "確立する、設立する",
+                "zh": "建立、确立",
+                "fr": "établir, fonder"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로, 완전히'",
+                        "en": "out, thoroughly",
+                        "ja": "外へ、完全に",
+                        "zh": "向外、彻底地",
+                        "fr": "dehors, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stab- (stare)",
+                    "meaning": {
+                        "ko": "'서다'",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'굳건히 서게 만들다'는 의미에서 '설립하다', '확립하다'라는 뜻입니다.",
+                "en": "Means 'to make stand firmly', thus 'to establish, to found'",
+                "ja": "しっかり立たせるという意味から、設立する、確立するという意味です",
+                "zh": "从'使其稳固地站立'的含义引申，表示'建立、确立'",
+                "fr": "Signifie 'faire tenir fermement', d'où 'établir, fonder'"
+            },
+            "example": "The company was established in 1950.",
+            "translation": {
+                "ko": "그 회사는 1950년에 설립되었다.",
+                "ja": "その企業は1950年に設立された。",
+                "zh": "该公司成立于1950年。",
+                "fr": "L'entreprise a été établie en 1950."
+            }
+        },
+        {
+            "word": "stable",
+            "part_of_speech": "",
+            "origin": "Latin, stabilis (able to stand)",
+            "meaning": {
+                "ko": "설 수 있는",
+                "en": "able to stand",
+                "ja": "安定した",
+                "zh": "稳定的",
+                "fr": "stable"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sta- (stare)",
+                    "meaning": {
+                        "ko": "'서다'",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'흔들리지 않고 굳건히 서 있는'이라는 의미에서 '안정된'이라는 뜻입니다.",
+                "en": "Meaning 'stable' from the sense of standing firmly without wavering",
+                "ja": "ぐらつかずにしっかり立っているという意味から'安定した'という意味",
+                "zh": "从牢固站立而不摇晃的含义引申为'稳定的'的意思",
+                "fr": "Signifie 'stable' par le sens de se tenir fermement sans vaciller"
+            },
+            "example": "The patient's condition is stable.",
+            "translation": {
+                "ko": "환자의 상태는 안정적이다.",
+                "ja": "患者の状態は安定している。",
+                "zh": "患者的状况是稳定的。",
+                "fr": "L'état du patient est stable."
+            }
+        },
+        {
+            "word": "stabilize",
+            "part_of_speech": "",
+            "origin": "Latin, stabilis (stable)",
+            "meaning": {
+                "ko": "안정된",
+                "en": "stable or steady",
+                "ja": "安定させる",
+                "zh": "使稳定",
+                "fr": "stabiliser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stable",
+                    "meaning": {
+                        "ko": "'안정된'",
+                        "en": "stable or steady",
+                        "ja": "安定した",
+                        "zh": "稳定的",
+                        "fr": "stable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안정되게 만들다'는 뜻입니다.",
+                "en": "It means to make something stable",
+                "ja": "何かを安定させることを意味します",
+                "zh": "意思是使某物稳定",
+                "fr": "Cela signifie rendre quelque chose stable"
+            },
+            "example": "The government is trying to stabilize the economy.",
+            "translation": {
+                "ko": "정부는 경제를 안정시키려고 노력하고 있다.",
+                "ja": "政府は経済を安定させようとしています。",
+                "zh": "政府正在努力稳定经济。",
+                "fr": "Le gouvernement essaie de stabiliser l'économie."
+            }
+        }
+    ]
+}

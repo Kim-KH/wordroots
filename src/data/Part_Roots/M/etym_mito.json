@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "mito (thread) mitochondria, mitogen, mitosis",
+        "origin": "Greek, mitos (a thread)",
+        "meaning": {
+            "ko": "실",
+            "en": "thread",
+            "ja": "糸",
+            "zh": "线",
+            "fr": "fil"
+        }
+    },
+    "words": [
+        {
+            "word": "mitochondria",
+            "part_of_speech": "",
+            "origin": "Greek, mitos (thread) + khondrion (a small granule)",
+            "meaning": {
+                "ko": "실 모양의 작은 알갱이",
+                "en": "small granules shaped like thread",
+                "ja": "糸状の小粒",
+                "zh": "线状的小颗粒",
+                "fr": "petits granules filiformes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mito-",
+                    "meaning": {
+                        "ko": "'실'",
+                        "en": "thread",
+                        "ja": "糸",
+                        "zh": "线",
+                        "fr": "fil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chondria",
+                    "meaning": {
+                        "ko": "'알갱이'",
+                        "en": "granule",
+                        "ja": "粒",
+                        "zh": "颗粒",
+                        "fr": "granule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 내에서 '실이나 알갱이 모양으로 보이는' 세포 소기관인 '미토콘드리아'를 뜻합니다.",
+                "en": "Mitochondria are cellular organelles that appear thread-like or granule-shaped within cells.",
+                "ja": "ミトコンドリアは細胞内で糸や粒状に見える細胞小器官です。",
+                "zh": "线粒体是细胞内呈线状或颗粒状的细胞器。",
+                "fr": "Les mitochondries sont des organites cellulaires qui apparaissent sous forme de filaments ou de granules dans les cellules."
+            },
+            "example": "Mitochondria are the powerhouses of the cell.",
+            "translation": {
+                "ko": "미토콘드리아는 세포의 발전소이다.",
+                "ja": "ミトコンドリアは細胞のエネルギー生産工場です。",
+                "zh": "线粒体是细胞的能量工厂。",
+                "fr": "Les mitochondries sont les usines énergétiques des cellules."
+            }
+        },
+        {
+            "word": "mitogen",
+            "part_of_speech": "",
+            "origin": "Greek, mitos (thread) + genos (birth)",
+            "meaning": {
+                "ko": "실을 낳는 것",
+                "en": "something that produces thread",
+                "ja": "糸を生じさせるもの",
+                "zh": "产生纱线的物质",
+                "fr": "substance produisant du fil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mito-",
+                    "meaning": {
+                        "ko": "'실(염색사)'",
+                        "en": "thread",
+                        "ja": "糸",
+                        "zh": "纱线",
+                        "fr": "fil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "'생성하는 것'",
+                        "en": "producer",
+                        "ja": "生成するもの",
+                        "zh": "产生的物质",
+                        "fr": "producteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 분열 시 나타나는 '염색사(실)의 형성을 유도하는' 물질인 '유사 분열 촉진 물질'을 뜻합니다.",
+                "en": "A substance that induces the formation of thread-like structures (chromosomes) that appear during cell division, also known as a mitosis-promoting substance.",
+                "ja": "細胞分裂時に現れる糸状物（染色体）の形成を誘導する物質で、有糸分裂促進物質とも呼ばれます。",
+                "zh": "细胞分裂时诱导纱线状结构（染色体）形成的物质，也称为有丝分裂促进物质。",
+                "fr": "Substance qui induit la formation de structures filifères (chromosomes) apparaissant lors de la division cellulaire, également appelée substance promotrice de mitose."
+            },
+            "example": "A mitogen is a chemical substance that encourages a cell to commence cell division.",
+            "translation": {
+                "ko": "유사 분열 촉진 물질은 세포가 세포 분열을 시작하도록 장려하는 화학 물질이다.",
+                "ja": "有糸分裂促進物質",
+                "zh": "有丝分裂原",
+                "fr": "mitogène"
+            }
+        },
+        {
+            "word": "mitosis",
+            "part_of_speech": "",
+            "origin": "Greek, mitos (thread)",
+            "meaning": {
+                "ko": "실",
+                "en": "thread",
+                "ja": "体細胞分裂",
+                "zh": "有丝分裂",
+                "fr": "mitose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mito-",
+                    "meaning": {
+                        "ko": "'실'",
+                        "en": "thread",
+                        "ja": "糸",
+                        "zh": "线",
+                        "fr": "fil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 분열 시 염색체가 '실 모양'으로 나타나는 데서 유래하여, '체세포 분열', '유사 분열'을 뜻합니다.",
+                "en": "During cell division, chromosomes appear thread-like, hence the term refers to 'somatic cell division' or 'similar division'.",
+                "ja": "細胞分裂時に染色体が'糸状'に見えることに由来し、'体細胞分裂'を意味します。",
+                "zh": "源自细胞分裂时染色体呈现'线状'形态，意为'有丝分裂'。",
+                "fr": "Dérivé de l'apparence en forme de fil des chromosomes lors de la division cellulaire, signifiant 'division cellulaire somatique'."
+            },
+            "example": "Mitosis is the process by which a cell divides into two identical daughter cells.",
+            "translation": {
+                "ko": "유사 분열은 하나의 세포가 두 개의 동일한 딸세포로 분열하는 과정이다.",
+                "ja": "有糸分裂は、細胞が2つの同一な娘細胞に分裂するプロセスです。",
+                "zh": "有丝分裂是细胞分裂成两个相同的子细胞的过程。",
+                "fr": "La mitose est le processus par lequel une cellule se divise en deux cellules filles identiques."
+            }
+        }
+    ]
+}

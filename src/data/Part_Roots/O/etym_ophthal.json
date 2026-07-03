@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "ophthal (eye) ophthalmologist, ophthalmology, ophthalmia, ophthalmoscope",
+        "origin": "Greek, ophthalmos (the eye)",
+        "meaning": {
+            "ko": "눈",
+            "en": "eye",
+            "ja": "目",
+            "zh": "眼",
+            "fr": "œil"
+        }
+    },
+    "words": [
+        {
+            "word": "ophthalmologist",
+            "part_of_speech": "",
+            "origin": "Greek, ophthalmos (eye) + logos (study)",
+            "meaning": {
+                "ko": "눈 연구가",
+                "en": "eye researcher",
+                "ja": "眼科医",
+                "zh": "眼科医生",
+                "fr": "ophtalmologiste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ophthalm-",
+                    "meaning": {
+                        "ko": "'눈'",
+                        "en": "eye",
+                        "ja": "眼",
+                        "zh": "眼睛",
+                        "fr": "oeil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자, 전문가'",
+                        "en": "scholar or specialist",
+                        "ja": "学者、専門家",
+                        "zh": "学者、专家",
+                        "fr": "savant, expert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'눈과 그 질병을 전문적으로 연구하고 치료하는 의사'인 '안과 의사'를 뜻합니다.",
+                "en": "A physician who specializes in researching and treating the eyes and their diseases",
+                "ja": "眼とその病気を専門的に研究し治療する医師",
+                "zh": "专业研究和治疗眼睛及其疾病的医生",
+                "fr": "Médecin spécialisé dans l'étude et le traitement des yeux et de leurs maladies"
+            },
+            "example": "An ophthalmologist can diagnose and treat eye diseases.",
+            "translation": {
+                "ko": "안과 의사는 눈병을 진단하고 치료할 수 있다.",
+                "ja": "眼科医",
+                "zh": "眼科医生",
+                "fr": "ophtalmologiste"
+            }
+        },
+        {
+            "word": "ophthalmology",
+            "part_of_speech": "",
+            "origin": "Greek, ophthalmos (eye) + logos (study)",
+            "meaning": {
+                "ko": "눈 연구",
+                "en": "study of the eye",
+                "ja": "眼の研究",
+                "zh": "眼睛研究",
+                "fr": "étude des yeux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ophthalm-",
+                    "meaning": {
+                        "ko": "'눈'",
+                        "en": "eye",
+                        "ja": "眼",
+                        "zh": "眼睛",
+                        "fr": "oeil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'눈과 그 질병을 다루는 의학 분야'인 '안과학'을 뜻합니다.",
+                "en": "Medical field dealing with eyes and their diseases",
+                "ja": "眼とその疾病を扱う医学分野",
+                "zh": "处理眼睛及其疾病的医学领域",
+                "fr": "domaine médical traitant yeux et maladies"
+            },
+            "example": "He specialized in ophthalmology.",
+            "translation": {
+                "ko": "그는 안과학을 전공했다.",
+                "ja": "彼は眼科学を専門としていた。",
+                "zh": "他专门从事眼科学。",
+                "fr": "Il s'était spécialisé en ophtalmologie."
+            }
+        },
+        {
+            "word": "ophthalmia",
+            "part_of_speech": "",
+            "origin": "Greek, ophthalmia (disease of the eyes)",
+            "meaning": {
+                "ko": "눈병",
+                "en": "eye disease",
+                "ja": "眼病",
+                "zh": "眼病",
+                "fr": "ophtalmie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ophthalm-",
+                    "meaning": {
+                        "ko": "'눈'",
+                        "en": "eye",
+                        "ja": "目",
+                        "zh": "眼睛",
+                        "fr": "oeil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'눈의 염증'을 뜻하는 '안염'을 가리킵니다.",
+                "en": "Refers to 'an염' meaning inflammation of the eye",
+                "ja": "目の炎症を意味する'眼炎'を指します",
+                "zh": "指眼睛炎症的'眼炎'",
+                "fr": "Désigne l'ophtalmie signifiant inflammation de l'oeil"
+            },
+            "example": "Ophthalmia can cause redness and irritation of the eyes.",
+            "translation": {
+                "ko": "안염은 눈의 충혈과 자극을 유발할 수 있다.",
+                "ja": "眼病は目の充血と刺激を引き起こす可能性があります。",
+                "zh": "眼病可能会导致眼睛发红和刺激。",
+                "fr": "L'ophtalmie peut causer des rougeurs et une irritation des yeux."
+            }
+        },
+        {
+            "word": "ophthalmoscope",
+            "part_of_speech": "",
+            "origin": "Greek, ophthalmos (eye) + skopein (to view)",
+            "meaning": {
+                "ko": "눈을 보는 기구",
+                "en": "instrument for examining the eye",
+                "ja": "眼底検査器具",
+                "zh": "眼底检查仪",
+                "fr": "ophtalmoscope"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ophthalmo-",
+                    "meaning": {
+                        "ko": "'눈'",
+                        "en": "eye",
+                        "ja": "眼、目",
+                        "zh": "眼睛",
+                        "fr": "oeil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "'보는 기구'",
+                        "en": "viewing instrument",
+                        "ja": "検査する道具",
+                        "zh": "检查工具",
+                        "fr": "instrument d'examen"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'눈의 내부를 검사하는 의료 기구'인 '검안경'을 뜻합니다.",
+                "en": "A medical instrument used to examine the interior of the eye, also called a retinoscope",
+                "ja": "目の内部を検査する医療機器で、検眼鏡とも呼ばれます",
+                "zh": "用于检查眼睛内部的医疗器械，也称为验光镜",
+                "fr": "Un instrument médical utilisé pour examiner l'intérieur de l'oeil, aussi appelé rétinoscope"
+            },
+            "example": "The doctor used an ophthalmoscope to look at the back of her eye.",
+            "translation": {
+                "ko": "의사는 그녀의 눈 뒤쪽을 보기 위해 검안경을 사용했다.",
+                "ja": "眼底鏡",
+                "zh": "眼镜",
+                "fr": "ophtalmoscope"
+            }
+        }
+    ]
+}

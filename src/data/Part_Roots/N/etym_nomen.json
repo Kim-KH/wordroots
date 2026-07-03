@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "nomen, nomin (name) nominal, nominate, nominee, nomenclature",
+        "origin": "Latin, nomen (name)",
+        "meaning": {
+            "ko": "이름",
+            "en": "name",
+            "ja": "名前",
+            "zh": "名字",
+            "fr": "nom"
+        }
+    },
+    "words": [
+        {
+            "word": "nominal",
+            "part_of_speech": "",
+            "origin": "Latin, nominalis (of a name)",
+            "meaning": {
+                "ko": "이름의",
+                "en": "of or relating to a name",
+                "ja": "名目上の",
+                "zh": "名义上的",
+                "fr": "nominal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomin-",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이름뿐이고 실질적이지는 않은'이라는 의미에서 '명목상의'라는 뜻입니다.",
+                "en": "Meaning 'in name only and not substantive'",
+                "ja": "名前だけで実質的でないという意味で、名目上のという意味です",
+                "zh": "表示仅仅是名义上，而非实质性的含义",
+                "fr": "Signifie 'de nom seulement et non substantiel'"
+            },
+            "example": "He is the nominal head of the company, but his wife makes all the decisions.",
+            "translation": {
+                "ko": "그는 그 회사의 명목상 대표이지만, 그의 아내가 모든 결정을 내린다.",
+                "ja": "彼は会社の名目上の長ですが、妻がすべての決定を下します。",
+                "zh": "他是公司名义上的负责人，但他的妻子做出所有决定。",
+                "fr": "Il est le chef nominal de l'entreprise, mais sa femme prend toutes les décisions."
+            }
+        },
+        {
+            "word": "nominate",
+            "part_of_speech": "",
+            "origin": "Latin, nominare (to name)",
+            "meaning": {
+                "ko": "이름을 부르다",
+                "en": "to call by name",
+                "ja": "名前を呼ぶ",
+                "zh": "提名",
+                "fr": "nommer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomin-",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'후보자로 이름을 부르다'는 의미에서 '지명하다', '추천하다'라는 뜻입니다.",
+                "en": "It means to call someone's name as a candidate; to nominate or recommend",
+                "ja": "候補者として名前を呼ぶという意味で、指名する、推薦するという意味です",
+                "zh": "作为候选人提名某人的意思；指定或推荐",
+                "fr": "Cela signifie appeler le nom de quelqu'un comme candidat; désigner ou recommander"
+            },
+            "example": "She was nominated for the award.",
+            "translation": {
+                "ko": "그녀는 그 상의 후보로 지명되었다.",
+                "ja": "彼女は賞にノミネートされた",
+                "zh": "她被提名参加该奖项",
+                "fr": "Elle a été nommée pour le prix"
+            }
+        },
+        {
+            "word": "nominee",
+            "part_of_speech": "",
+            "origin": "Latin, nominare (to name)",
+            "meaning": {
+                "ko": "이름을 부르다",
+                "en": "to call by name",
+                "ja": "指名された候補者",
+                "zh": "被提名的候选人",
+                "fr": "personne nommée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomin-",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'후보자로 지명된 사람'을 뜻합니다.",
+                "en": "A person designated as a candidate",
+                "ja": "候補者として指名された人",
+                "zh": "被指定为候选人的人",
+                "fr": "personne désignée comme candidate"
+            },
+            "example": "The nominees for Best Actress were announced.",
+            "translation": {
+                "ko": "여우주연상 후보들이 발표되었다.",
+                "ja": "候補者",
+                "zh": "被提名人",
+                "fr": "candidat"
+            }
+        },
+        {
+            "word": "nomenclature",
+            "part_of_speech": "",
+            "origin": "Latin, nomenclatura (a calling by name)",
+            "meaning": {
+                "ko": "이름 부르기",
+                "en": "naming or calling by name",
+                "ja": "名前を付ける",
+                "zh": "命名法",
+                "fr": "nomenclature"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomen",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clat- (calare)",
+                    "meaning": {
+                        "ko": "'부르다'",
+                        "en": "to call",
+                        "ja": "呼ぶ",
+                        "zh": "称呼",
+                        "fr": "appeler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'학술 분야에서 사용되는 용어 체계'인 '학명', '명명법'을 뜻합니다.",
+                "en": "In academic fields, it refers to a system of terms used for scientific naming or classification systems.",
+                "ja": "学術分野で使用される学名や命名体系のこと",
+                "zh": "学术领域中使用的学名或命名体系",
+                "fr": "Système de termes utilisés dans les domaines académiques pour la dénomination scientifique"
+            },
+            "example": "Binomial nomenclature is used to name species.",
+            "translation": {
+                "ko": "이명법은 종의 이름을 붙이는 데 사용된다.",
+                "ja": "二名法命名法は種を命名するために使用されます",
+                "zh": "二名法被用来命名物种",
+                "fr": "La nomenclature binomiale est utilisée pour nommer les espèces"
+            }
+        }
+    ]
+}

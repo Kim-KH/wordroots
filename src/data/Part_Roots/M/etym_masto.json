@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "masto (breast) mastectomy, mastitic, mastitis",
+        "origin": "Greek, mastos (breast)",
+        "meaning": {
+            "ko": "가슴, 젖",
+            "en": "breast",
+            "ja": "胸、乳房",
+            "zh": "乳房、胸部",
+            "fr": "sein, poitrine"
+        }
+    },
+    "words": [
+        {
+            "word": "mastectomy",
+            "part_of_speech": "",
+            "origin": "Greek, mastos (breast) + ektome (a cutting out)",
+            "meaning": {
+                "ko": "유방 절제",
+                "en": "breast removal",
+                "ja": "乳房切除術",
+                "zh": "乳房切除术",
+                "fr": "mastectomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mast-",
+                    "meaning": {
+                        "ko": "'유방'",
+                        "en": "breast",
+                        "ja": "乳房",
+                        "zh": "乳房",
+                        "fr": "sein"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ectomy",
+                    "meaning": {
+                        "ko": "'절제술'",
+                        "en": "surgical removal",
+                        "ja": "外科的切除",
+                        "zh": "外科切除",
+                        "fr": "ablation chirurgicale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유방을 외과적으로 제거하는 수술'인 '유방 절제술'을 뜻합니다.",
+                "en": "Surgical procedure to remove breast tissue, typically as cancer treatment",
+                "ja": "がん治療の一部として乳房を外科的に除去する手術",
+                "zh": "作为癌症治疗的一部分，外科切除乳房组织的手术",
+                "fr": "Intervention chirurgicale d'ablation du sein, généralement pour traiter le cancer"
+            },
+            "example": "She underwent a mastectomy as part of her cancer treatment.",
+            "translation": {
+                "ko": "그녀는 암 치료의 일환으로 유방 절제술을 받았다.",
+                "ja": "彼女はがん治療の一環として乳房切除術を受けた。",
+                "zh": "作为癌症治疗的一部分，她接受了乳房切除术。",
+                "fr": "Elle a subi une mastectomie dans le cadre de son traitement du cancer."
+            }
+        },
+        {
+            "word": "mastitic",
+            "part_of_speech": "",
+            "origin": "Greek, mastos (breast) + -itis (inflammation)",
+            "meaning": {
+                "ko": "유방 염증",
+                "en": "breast inflammation",
+                "ja": "乳房炎症の",
+                "zh": "乳房炎症的",
+                "fr": "mammite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mast-",
+                    "meaning": {
+                        "ko": "'유방'",
+                        "en": "breast",
+                        "ja": "乳房",
+                        "zh": "乳房",
+                        "fr": "sein"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itic",
+                    "meaning": {
+                        "ko": "'~염증의'",
+                        "en": "of inflammation",
+                        "ja": "炎症の",
+                        "zh": "炎症的",
+                        "fr": "inflammatoire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유선염의'라는 뜻입니다.",
+                "en": "Means mastitis or inflammation of the breast",
+                "ja": "乳腺炎を意味します",
+                "zh": "意味乳腺炎",
+                "fr": "Signifie mastite ou inflammation du sein"
+            },
+            "example": "The cow showed mastitic symptoms.",
+            "translation": {
+                "ko": "그 소는 유선염 증상을 보였다.",
+                "ja": "その牛は乳房炎の症状を示していた。",
+                "zh": "那头牛表现出乳房炎的症状。",
+                "fr": "La vache présentait des symptômes de mammite."
+            }
+        },
+        {
+            "word": "mastitis",
+            "part_of_speech": "",
+            "origin": "Greek, mastos (breast) + -itis (inflammation)",
+            "meaning": {
+                "ko": "유방 염증",
+                "en": "breast inflammation",
+                "ja": "乳房炎症",
+                "zh": "乳房炎症",
+                "fr": "inflammation du sein"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mast-",
+                    "meaning": {
+                        "ko": "'유방'",
+                        "en": "breast",
+                        "ja": "乳房",
+                        "zh": "乳房",
+                        "fr": "sein"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유방 조직의 염증'인 '유선염'을 뜻합니다.",
+                "en": "Mastitis is an infection of the breast tissue.",
+                "ja": "乳房組織の炎症を意味する乳腺炎です。",
+                "zh": "指乳房组织的炎症,即乳腺炎。",
+                "fr": "Inflammation du tissu mammaire, appelée mastite."
+            },
+            "example": "Mastitis is an infection of the breast tissue.",
+            "translation": {
+                "ko": "유선염은 유방 조직의 감염이다.",
+                "ja": "乳房炎症は乳房組織の感染症です。",
+                "zh": "乳房炎症是乳房组织的感染。",
+                "fr": "La mastite est une infection du tissu mammaire."
+            }
+        }
+    ]
+}

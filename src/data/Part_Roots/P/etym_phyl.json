@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "phyl (tribe, class) phylogeny, phylum",
+        "origin": "Greek, phylon (a tribe, a race)",
+        "meaning": {
+            "ko": "부족, 종족",
+            "en": "tribe",
+            "ja": "部族",
+            "zh": "部落",
+            "fr": "tribu"
+        }
+    },
+    "words": [
+        {
+            "word": "phylogeny",
+            "part_of_speech": "",
+            "origin": "Greek, phylon (tribe) + geneia (origin)",
+            "meaning": {
+                "ko": "종족의 기원",
+                "en": "origin of a race or ethnic group",
+                "ja": "種族の進化史",
+                "zh": "种族的进化历史",
+                "fr": "histoire évolutive d'une espèce"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phylo-",
+                    "meaning": {
+                        "ko": "'종족'",
+                        "en": "tribe, race",
+                        "ja": "種族、民族",
+                        "zh": "种族、民族",
+                        "fr": "tribu, race"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "geny",
+                    "meaning": {
+                        "ko": "'발생, 기원'",
+                        "en": "origin",
+                        "ja": "発生、起源",
+                        "zh": "发生、起源",
+                        "fr": "origine, apparition"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생물 종족의 진화적인 발생과 역사'를 연구하는 학문인 '계통 발생학'을 뜻합니다.",
+                "en": "The science studying the evolutionary origin and history of biological species",
+                "ja": "生物種族の進化的な発生と歴史を研究する学問である系統発生学を意味します",
+                "zh": "指研究生物种族的进化性发生和历史的学科即系统发生学",
+                "fr": "La science étudiant l'origine évolutive et l'histoire des espèces biologiques"
+            },
+            "example": "Phylogeny traces the evolutionary history of a species.",
+            "translation": {
+                "ko": "계통 발생학은 한 종의 진화 역사를 추적한다.",
+                "ja": "系統発生学",
+                "zh": "系统发生学",
+                "fr": "phylogenèse"
+            }
+        },
+        {
+            "word": "phylum",
+            "part_of_speech": "",
+            "origin": "Greek, phylon (tribe)",
+            "meaning": {
+                "ko": "부족",
+                "en": "tribe or clan",
+                "ja": "動物分類の門",
+                "zh": "动物分类的门",
+                "fr": "embranchement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyl-",
+                    "meaning": {
+                        "ko": "'종족'",
+                        "en": "tribe",
+                        "ja": "部族",
+                        "zh": "部落",
+                        "fr": "tribu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "생물 분류에서 '계(kingdom)'와 '강(class)' 사이의 단계인 '문(門)'을 뜻합니다.",
+                "en": "In biological classification, it refers to 'phylum' - a taxonomic rank between 'kingdom' and 'class'.",
+                "ja": "生物分類において、『界』と『綱』の間の分類段階である『門』を意味します。",
+                "zh": "在生物分类中，指介于『界』和『纲』之间的分类等级『门』。",
+                "fr": "En classification biologique, il désigne le 'phylum' - un rang taxonomique entre 'règne' et 'classe'."
+            },
+            "example": "The animal kingdom is divided into several phyla.",
+            "translation": {
+                "ko": "동물계는 여러 문으로 나뉜다.",
+                "ja": "動物界はいくつかの門に分けられます。",
+                "zh": "动物界被分为多个门。",
+                "fr": "Le règne animal est divisé en plusieurs embranchements."
+            }
+        }
+    ]
+}

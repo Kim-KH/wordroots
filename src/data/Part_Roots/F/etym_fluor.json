@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "fluor (glow) fluoresce, fluorescent, fluoroscope",
+        "origin": "Latin, fluere (to flow)",
+        "meaning": {
+            "ko": "흐르다",
+            "en": "to flow",
+            "ja": "流れる",
+            "zh": "流",
+            "fr": "couler"
+        }
+    },
+    "words": [
+        {
+            "word": "fluoresce",
+            "part_of_speech": "",
+            "origin": "English, fluor- (from fluorspar) + -esce (begin to)",
+            "meaning": {
+                "ko": "형석처럼 빛나기 시작하다",
+                "en": "to shine like fluorite",
+                "ja": "蛍光を発する",
+                "zh": "发荧光",
+                "fr": "fluorescer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fluor-",
+                    "meaning": {
+                        "ko": "'흐르다, 빛나다'",
+                        "en": "to flow, to shine",
+                        "ja": "流れる、輝く",
+                        "zh": "流动、发光",
+                        "fr": "couler, briller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "특정 광물(형석, fluorspar)이 빛을 받아 '빛을 내는' 현상에서 유래하여 '형광을 발하다'라는 뜻이 되었습니다.",
+                "en": "Derived from fluorite (fluorspar), a mineral that emits light when exposed to light, leading to the meaning 'to emit fluorescence'.",
+                "ja": "光を受けて光を放つ特定の鉱物(蛍石、fluorspar)に由来し、蛍光を発するという意味になりました。",
+                "zh": "源自受光后发光的特定矿物（萤石、fluorite），因而获得发荧光的含义。",
+                "fr": "Dérivé de la fluorite (fluorine), un minéral qui émet de la lumière lorsqu'il est exposé à la lumière, d'où le sens 'émettre de la fluorescence'."
+            },
+            "example": "Some deep-sea creatures can fluoresce.",
+            "translation": {
+                "ko": "일부 심해 생물은 형광을 발할 수 있다.",
+                "ja": "深海の生き物の中には蛍光を発することができるものもあります。",
+                "zh": "一些深海生物可以发荧光。",
+                "fr": "Certaines créatures des profondeurs peuvent fluorescer."
+            }
+        },
+        {
+            "word": "fluorescent",
+            "part_of_speech": "",
+            "origin": "English, fluor- + -escent (beginning to)",
+            "meaning": {
+                "ko": "형석처럼 빛나는",
+                "en": "shining like fluorite",
+                "ja": "蛍石のように輝く",
+                "zh": "像萤石一样发光",
+                "fr": "Brillant comme la fluorite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fluor-",
+                    "meaning": {
+                        "ko": "'흐르다, 빛나다'",
+                        "en": "to flow, to shine",
+                        "ja": "流れる、輝く",
+                        "zh": "流动、发光",
+                        "fr": "Couler, briller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'형광을 발하는'이라는 뜻입니다.",
+                "en": "Meaning to emit fluorescence",
+                "ja": "蛍光を発するという意味です",
+                "zh": "表示发出荧光",
+                "fr": "Signifiant émettre de la fluorescence"
+            },
+            "example": "We replaced the old light bulb with a fluorescent one.",
+            "translation": {
+                "ko": "우리는 낡은 전구를 형광등으로 교체했다.",
+                "ja": "古い電球を蛍光灯に交換しました",
+                "zh": "我们用荧光灯替换了旧灯泡",
+                "fr": "Nous avons remplacé l'ancienne ampoule par une fluorescente"
+            }
+        },
+        {
+            "word": "fluoroscope",
+            "part_of_speech": "",
+            "origin": "English, fluoro- + -scope (instrument for viewing)",
+            "meaning": {
+                "ko": "형광을 보는 기계",
+                "en": "machine for viewing fluorescence",
+                "ja": "蛍光を見る機械",
+                "zh": "荧光观看装置",
+                "fr": "appareil de visualisation fluorescente"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fluoro-",
+                    "meaning": {
+                        "ko": "'형광'",
+                        "en": "fluorescence",
+                        "ja": "蛍光",
+                        "zh": "荧光",
+                        "fr": "fluorescence"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "'보는 기구'",
+                        "en": "viewing instrument",
+                        "ja": "見る機器",
+                        "zh": "观看仪器",
+                        "fr": "instrument d'observation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'X선을 형광판에 비추어 내부를 볼 수 있게 하는 장치'인 '형광 투시경'을 뜻합니다.",
+                "en": "A medical device that projects X-rays onto a fluorescent screen to allow visualization of the body's interior",
+                "ja": "X線を蛍光板に照射して内部を見える装置、蛍光透視鏡を意味します",
+                "zh": "将X射线投射到荧光屏上以查看体内的装置，称为荧光透视镜",
+                "fr": "Un appareil médical qui projette les rayons X sur un écran fluorescent pour visualiser l'intérieur du corps"
+            },
+            "example": "A fluoroscope allows doctors to see inside the body in real time.",
+            "translation": {
+                "ko": "형광 투시경은 의사들이 몸속을 실시간으로 볼 수 있게 해준다.",
+                "ja": "蛍光透視鏡",
+                "zh": "荧光透视镜",
+                "fr": "fluoroscope"
+            }
+        }
+    ]
+}

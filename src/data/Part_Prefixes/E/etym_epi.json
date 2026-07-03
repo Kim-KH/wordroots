@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "epi (over, on, attached) epidemic, epidermis, epiphenomenon, episode",
+        "origin": "Greek, epi (upon, on, over)",
+        "meaning": {
+            "ko": "위에, ~에 붙어",
+            "en": "upon, on, over",
+            "ja": "上に、~の上、~に付いて",
+            "zh": "在...上面、在...之上、附着在",
+            "fr": "sur, au-dessus de, attaché à"
+        }
+    },
+    "words": [
+        {
+            "word": "epidemic",
+            "part_of_speech": "",
+            "origin": "Greek, epidemia (a stay in a place)",
+            "meaning": {
+                "ko": "한 장소에 머무름",
+                "en": "to stay in one place",
+                "ja": "一箇所に留まる",
+                "zh": "停留在一个地方",
+                "fr": "rester en un lieu"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "epi-",
+                    "meaning": {
+                        "ko": "'~위에'",
+                        "en": "upon",
+                        "ja": "～の上に",
+                        "zh": "在～之上",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "demic (demos)",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人们",
+                        "fr": "peuple"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'(많은) 사람들 위에 머무는 병'이라는 의미에서 '전염병' 또는 '유행'을 뜻하게 되었습니다.",
+                "en": "From the meaning 'disease that spreads among (many) people', it came to mean 'epidemic' or 'outbreak'.",
+                "ja": "「(多くの)人々の上に広がる病気」という意味から、「伝染病」または「流行」を意味するようになりました。",
+                "zh": "从\"在(很多)人群中传播的疾病\"的含义演变为\"传染病\"或\"流行病\"。",
+                "fr": "Du sens 'maladie qui se propage parmi (beaucoup de) gens', il en est venu à signifier 'épidémie' ou 'épidémie'."
+            },
+            "example": "The city is suffering from a flu epidemic.",
+            "translation": {
+                "ko": "그 도시는 독감 유행으로 고통받고 있다.",
+                "ja": "その都市はインフルエンザの流行に苦しんでいます。",
+                "zh": "这座城市正在遭受流感疫情的折磨。",
+                "fr": "La ville souffre d'une épidémie de grippe."
+            }
+        },
+        {
+            "word": "epidermis",
+            "part_of_speech": "",
+            "origin": "Greek, epidermis (the outer skin)",
+            "meaning": {
+                "ko": "바깥 피부",
+                "en": "outer skin",
+                "ja": "表皮",
+                "zh": "表皮",
+                "fr": "épiderme"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "epi-",
+                    "meaning": {
+                        "ko": "'~위에'",
+                        "en": "upon",
+                        "ja": "~の上に",
+                        "zh": "在~之上",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dermis (derma)",
+                    "meaning": {
+                        "ko": "'피부'",
+                        "en": "skin",
+                        "ja": "皮膚",
+                        "zh": "皮肤",
+                        "fr": "peau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진피 위에 있는 피부'라는 의미로, 피부의 가장 바깥층인 '표피'를 뜻합니다.",
+                "en": "The outermost layer of skin, located above the dermis; the epidermis refers to the outermost layer of the skin.",
+                "ja": "真皮の上にある皮膚; 皮膚の最も外側の層である表皮を意味します。",
+                "zh": "位于真皮上方的皮肤；表皮是指皮肤的最外层。",
+                "fr": "La couche la plus externe de la peau, située au-dessus du derme; l'épiderme désigne la couche la plus superficielle de la peau."
+            },
+            "example": "The epidermis is the outermost layer of the skin.",
+            "translation": {
+                "ko": "표피는 피부의 가장 바깥층이다.",
+                "ja": "表皮は皮膚の最も外側の層です。",
+                "zh": "表皮是皮肤的最外层。",
+                "fr": "L'épiderme est la couche la plus externe de la peau."
+            }
+        },
+        {
+            "word": "epiphenomenon",
+            "part_of_speech": "",
+            "origin": "Greek, epi (in addition) + phenomenon",
+            "meaning": {
+                "ko": "현상에 더하여",
+                "en": "in addition to phenomenon",
+                "ja": "付随現象",
+                "zh": "附随现象",
+                "fr": "phénomène secondaire"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "epi-",
+                    "meaning": {
+                        "ko": "'덧붙여'",
+                        "en": "in addition",
+                        "ja": "さらに付け加えて",
+                        "zh": "另外加上",
+                        "fr": "en plus"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phenomenon",
+                    "meaning": {
+                        "ko": "'현상'",
+                        "en": "phenomenon",
+                        "ja": "現象",
+                        "zh": "现象",
+                        "fr": "phénomène"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주된 현상에 덧붙여 나타나는 현상'이라는 의미에서 '부수 현상'을 뜻하는 철학 및 과학 용어입니다.",
+                "en": "A philosophical and scientific term meaning a secondary phenomenon that appears in addition to a primary phenomenon.",
+                "ja": "主要な現象に付け加わって起こる現象という意味で、哲学および科学用語として使われています。",
+                "zh": "在主要现象之外附加出现的现象之意，是哲学和科学术语。",
+                "fr": "Un terme philosophique et scientifique désignant un phénomène secondaire qui apparaît en addition à un phénomène principal."
+            },
+            "example": "Consciousness could be an epiphenomenon of brain activity.",
+            "translation": {
+                "ko": "의식은 뇌 활동의 부수 현상일 수 있다.",
+                "ja": "意識は脳活動の付随現象である可能性がある。",
+                "zh": "意识可能是大脑活动的附随现象。",
+                "fr": "La conscience pourrait être un épiphénomène de l'activité cérébrale."
+            }
+        },
+        {
+            "word": "episode",
+            "part_of_speech": "",
+            "origin": "Greek, epeisodion (a coming in besides)",
+            "meaning": {
+                "ko": "곁으로 들어옴",
+                "en": "entering from the side",
+                "ja": "挿話、一場面",
+                "zh": "插曲、片段",
+                "fr": "épisode, scène"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "epi-",
+                    "meaning": {
+                        "ko": "'곁에, 추가로'",
+                        "en": "besides, in addition",
+                        "ja": "そばに、さらに",
+                        "zh": "旁边、额外",
+                        "fr": "à côté, en plus"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sode (eisodos)",
+                    "meaning": {
+                        "ko": "'들어옴, 등장'",
+                        "en": "a coming in",
+                        "ja": "入ること、登場",
+                        "zh": "进入、出现",
+                        "fr": "une venue, une entrée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "연극에서 막과 막 사이에 '추가로 들어오는 장면'을 의미하다가, 이야기의 '삽화', '한 회분', 또는 일련의 '사건'을 뜻하게 되었습니다.",
+                "en": "Originally meant an additional scene between acts in drama, later came to mean an illustration, single installment, or series of events in a story.",
+                "ja": "演劇で幕と幕の間に追加される場面を意味していたが、後に物語の挿話、一話分、または一連の出来事を意味するようになった。",
+                "zh": "最初在戏剧中指幕与幕之间额外插入的场景，后来指故事中的插曲、单集或一系列事件。",
+                "fr": "Initialement, désignait une scène supplémentaire entre les actes au théâtre, puis a signifié une illustration, un épisode unique ou une série d'événements dans une histoire."
+            },
+            "example": "It was a memorable episode in my life.",
+            "translation": {
+                "ko": "그것은 내 인생에서 기억에 남는 사건이었다.",
+                "ja": "それは私の人生の中で記憶に残る挿話だった。",
+                "zh": "那是我人生中难以忘怀的插曲。",
+                "fr": "C'était un épisode mémorable de ma vie."
+            }
+        }
+    ]
+}

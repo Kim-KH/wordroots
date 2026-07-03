@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "helio (sun) heliocentric, heliograph, heliopause, heliostat",
+        "origin": "Greek, helios (sun)",
+        "meaning": {
+            "ko": "태양",
+            "en": "sun",
+            "ja": "太陽",
+            "zh": "太阳",
+            "fr": "soleil"
+        }
+    },
+    "words": [
+        {
+            "word": "heliocentric",
+            "part_of_speech": "",
+            "origin": "Greek, helios (sun) + kentron (center)",
+            "meaning": {
+                "ko": "태양 중심",
+                "en": "sun-centered",
+                "ja": "太陽中心の",
+                "zh": "日心的",
+                "fr": "héliocentrique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "helio-",
+                    "meaning": {
+                        "ko": "'태양'",
+                        "en": "sun",
+                        "ja": "太陽",
+                        "zh": "太阳",
+                        "fr": "soleil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "centric",
+                    "meaning": {
+                        "ko": "'중심의'",
+                        "en": "of center",
+                        "ja": "中心の",
+                        "zh": "中心的",
+                        "fr": "centrique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'태양을 중심으로 하는'이라는 뜻입니다.",
+                "en": "Centered on the sun",
+                "ja": "太陽を中心とする",
+                "zh": "以太阳为中心",
+                "fr": "centré sur le soleil"
+            },
+            "example": "Copernicus proposed a heliocentric model of the solar system.",
+            "translation": {
+                "ko": "코페르니쿠스는 태양 중심의 태양계 모델을 제안했다.",
+                "ja": "コペルニクスは太陽系の太陽中心モデルを提案した。",
+                "zh": "哥白尼提出了日心制太阳系模型。",
+                "fr": "Copernic a proposé un modèle héliocentrique du système solaire."
+            }
+        },
+        {
+            "word": "heliograph",
+            "part_of_speech": "",
+            "origin": "Greek, helios (sun) + graphein (to write)",
+            "meaning": {
+                "ko": "태양으로 쓰기",
+                "en": "writing with sunlight",
+                "ja": "太陽で書く",
+                "zh": "用太阳书写",
+                "fr": "écrire avec le soleil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "helio-",
+                    "meaning": {
+                        "ko": "'태양'",
+                        "en": "sun",
+                        "ja": "太陽",
+                        "zh": "太阳",
+                        "fr": "soleil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "'쓰는 도구'",
+                        "en": "writing tool",
+                        "ja": "書く道具",
+                        "zh": "书写工具",
+                        "fr": "outil d'écriture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'햇빛을 반사시켜 신호를 보내는 장치'인 '회광 통신기'를 뜻합니다.",
+                "en": "A device that reflects sunlight to send signals, also known as a heliographic telegraph.",
+                "ja": "日光を反射させて信号を送る装置で、回光通信機とも呼ばれます。",
+                "zh": "通过反射阳光发送信号的装置，也称为回光通信机。",
+                "fr": "Un appareil qui reflète la lumière solaire pour envoyer des signaux, également appelé télégraphe héliographique."
+            },
+            "example": "The army used a heliograph to send messages across long distances.",
+            "translation": {
+                "ko": "군대는 장거리 메시지를 보내기 위해 회광 통신기를 사용했다.",
+                "ja": "太陽光信号機",
+                "zh": "日光信号机",
+                "fr": "héliographe"
+            }
+        },
+        {
+            "word": "heliopause",
+            "part_of_speech": "",
+            "origin": "Greek, helios (sun) + Latin, pausa (a pause)",
+            "meaning": {
+                "ko": "태양의 멈춤",
+                "en": "the sun's boundary",
+                "ja": "太陽風の境界",
+                "zh": "太阳风边界",
+                "fr": "limite du vent solaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "helio-",
+                    "meaning": {
+                        "ko": "'태양'",
+                        "en": "sun",
+                        "ja": "太陽",
+                        "zh": "太阳",
+                        "fr": "soleil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pause",
+                    "meaning": {
+                        "ko": "'경계, 멈춤'",
+                        "en": "boundary, cessation",
+                        "ja": "境界、停止",
+                        "zh": "边界、停止",
+                        "fr": "limite, arrêt"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'태양풍의 영향력이 미치는 경계면'인 '태양권 계면'을 뜻합니다.",
+                "en": "The boundary where the sun's wind influence ends",
+                "ja": "太陽風の影響が及ぶ境界面を意味します",
+                "zh": "指太阳风影响范围的边界面",
+                "fr": "Désigne la limite où l'influence du vent solaire s'arrête"
+            },
+            "example": "The Voyager 1 spacecraft has crossed the heliopause.",
+            "translation": {
+                "ko": "보이저 1호 우주선은 태양권 계면을 통과했다.",
+                "ja": "ボイジャー1号宇宙船はヘリオポーズを通過しました",
+                "zh": "旅行者1号航天器已经穿过了太阳风顶",
+                "fr": "Le vaisseau spatial Voyager 1 a franchi l'héliopause"
+            }
+        },
+        {
+            "word": "heliostat",
+            "part_of_speech": "",
+            "origin": "Greek, helios (sun) + statos (stationary)",
+            "meaning": {
+                "ko": "태양을 고정시키는 것",
+                "en": "device that fixes the sun",
+                "ja": "太陽光を固定する装置",
+                "zh": "固定太阳光的装置",
+                "fr": "appareil fixant la lumière solaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "helio-",
+                    "meaning": {
+                        "ko": "'태양'",
+                        "en": "sun",
+                        "ja": "太陽",
+                        "zh": "太阳",
+                        "fr": "soleil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stat",
+                    "meaning": {
+                        "ko": "'고정된'",
+                        "en": "fixed or stationary",
+                        "ja": "固定された",
+                        "zh": "固定的",
+                        "fr": "fixé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'태양의 움직임에 따라 거울을 움직여 햇빛을 한 곳에 고정시키는 장치'인 '헬리오스탯'을 뜻합니다.",
+                "en": "A device that moves mirrors according to the sun's movement to concentrate sunlight in one location.",
+                "ja": "太陽の動きに合わせて鏡を動かし、日光を一箇所に集中させる装置です。",
+                "zh": "根据太阳的运动移动镜子以将阳光集中在一个位置的装置。",
+                "fr": "Un appareil qui déplace les miroirs selon le mouvement du soleil pour concentrer la lumière solaire en un seul endroit."
+            },
+            "example": "A heliostat is used to concentrate sunlight for solar power plants.",
+            "translation": {
+                "ko": "헬리오스탯은 태양열 발전소를 위해 햇빛을 집중시키는 데 사용된다.",
+                "ja": "ヘリオスタット",
+                "zh": "日光跟踪镜",
+                "fr": "héliostase"
+            }
+        }
+    ]
+}

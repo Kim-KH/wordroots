@@ -1,0 +1,225 @@
+{
+    "root_info": {
+        "roots": "mis",
+        "origin": "Old English / Old Norse",
+        "meaning": {
+            "ko": "나쁜, 나쁘게",
+            "en": "bad, badly",
+            "ja": "悪い、悪く",
+            "zh": "坏的、坏地",
+            "fr": "mauvais, mal"
+        }
+    },
+    "words": [
+        {
+            "word": "misinform",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mis-",
+                    "meaning": {
+                        "ko": "잘못",
+                        "en": "wrongly, badly",
+                        "ja": "誤った",
+                        "zh": "错误的",
+                        "fr": "mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "inform",
+                    "meaning": {
+                        "ko": "알리다",
+                        "en": "to inform, to tell",
+                        "ja": "知らせる",
+                        "zh": "通知",
+                        "fr": "informer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못 알리다'는 뜻입니다.",
+                "en": "To inform someone incorrectly or give false information",
+                "ja": "誤った情報を伝えることを意味します",
+                "zh": "意思是向某人传达错误的或虚假的信息",
+                "fr": "Signifie donner une fausse ou mauvaise information"
+            },
+            "example": "He was misinformed about the meeting time.",
+            "translation": {
+                "ko": "그는 회의 시간에 대해 잘못된 정보를 받았다.",
+                "ja": "彼は会議の時間について誤った情報を受け取った。",
+                "zh": "他收到了关于会议时间的错误信息。",
+                "fr": "Il a reçu une fausse information concernant l'heure de la réunion."
+            }
+        },
+        {
+            "word": "misinterpret",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mis-",
+                    "meaning": {
+                        "ko": "잘못",
+                        "en": "wrongly, incorrectly",
+                        "ja": "誤った",
+                        "zh": "错误的",
+                        "fr": "mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "interpret",
+                    "meaning": {
+                        "ko": "해석하다",
+                        "en": "to explain the meaning of",
+                        "ja": "解釈する",
+                        "zh": "解释",
+                        "fr": "interpréter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못 해석하다', '오해하다'는 뜻입니다.",
+                "en": "To understand or explain something incorrectly; to misunderstand.",
+                "ja": "何かを誤って理解または説明すること。誤解する。",
+                "zh": "错误地理解或解释某事；误解。",
+                "fr": "Comprendre ou expliquer quelque chose de manière incorrecte ; malentendu."
+            },
+            "example": "Don't misinterpret my words.",
+            "translation": {
+                "ko": "내 말을 오해하지 마세요.",
+                "ja": "私の言葉を誤解しないでください。",
+                "zh": "不要误解我的话。",
+                "fr": "Ne déformez pas mes paroles."
+            }
+        },
+        {
+            "word": "misnomer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mis-",
+                    "meaning": {
+                        "ko": "잘못된",
+                        "en": "incorrect or wrong",
+                        "ja": "誤った",
+                        "zh": "错误的",
+                        "fr": "incorrect"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomer",
+                    "meaning": {
+                        "ko": "이름",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名称",
+                        "fr": "nom"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못 붙여진 이름', '부적절한 명칭'을 뜻합니다.",
+                "en": "An incorrect or inappropriate name given to something",
+                "ja": "誤りがある、不適切な名称のこと",
+                "zh": "给某物取的错误或不恰当的名称",
+                "fr": "Un nom incorrect ou inapproprié donné à quelque chose"
+            },
+            "example": "\"Greenland\" is a famous misnomer, as it is mostly covered in ice.",
+            "translation": {
+                "ko": "\"그린란드\"는 대부분 얼음으로 덮여 있기 때문에 유명한 부적절한 명칭이다.",
+                "ja": "誤称",
+                "zh": "误名",
+                "fr": "misnomer"
+            }
+        },
+        {
+            "word": "mistake",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mis-",
+                    "meaning": {
+                        "ko": "잘못",
+                        "en": "wrong or incorrect",
+                        "ja": "誤り",
+                        "zh": "错误",
+                        "fr": "erreur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "take",
+                    "meaning": {
+                        "ko": "취하다",
+                        "en": "to take or seize",
+                        "ja": "取る",
+                        "zh": "采取",
+                        "fr": "prendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못 취하다', '잘못 이해하다'는 의미에서 '실수'를 뜻합니다.",
+                "en": "From 'take wrongly' or 'understand wrongly', meaning an error or blunder",
+                "ja": "「誤って取る」「誤って理解する」という意味から「誤り」を意味します",
+                "zh": "从「错误地采取」或「错误地理解」的意思转变为「错误」的含义",
+                "fr": "Du sens de 'prendre mal' ou 'comprendre mal', désignant une erreur"
+            },
+            "example": "Everyone makes mistakes.",
+            "translation": {
+                "ko": "누구나 실수를 한다.",
+                "ja": "誰もが誤りを犯す。",
+                "zh": "每个人都会犯错误。",
+                "fr": "Tout le monde fait des erreurs."
+            }
+        },
+        {
+            "word": "misogynist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "miso",
+                    "meaning": {
+                        "ko": "혐오",
+                        "en": "hatred",
+                        "ja": "憎悪",
+                        "zh": "仇恨",
+                        "fr": "haine"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gyn",
+                    "meaning": {
+                        "ko": "여성",
+                        "en": "woman",
+                        "ja": "女性",
+                        "zh": "女性",
+                        "fr": "femme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여성을 혐오하는 사람'을 뜻합니다. mis-(잘못)와는 어원이 다릅니다.",
+                "en": "Means 'a person who hates women.' Different etymology from mis- (badly).",
+                "ja": "女性を憎む人を意味します。mis-（悪く）とは異なる語源です。",
+                "zh": "意为'仇恨女性的人'。与mis-（错误地）的词源不同。",
+                "fr": "Signifie 'une personne qui hait les femmes.' Étymologie différente de mis- (mal)."
+            },
+            "example": "He was known as a misogynist.",
+            "translation": {
+                "ko": "그는 여성 혐오자로 알려져 있었다.",
+                "ja": "彼は女性嫌悪者として知られていた。",
+                "zh": "他被称为厌女者。",
+                "fr": "Il était connu comme misogyne."
+            }
+        }
+    ]
+}

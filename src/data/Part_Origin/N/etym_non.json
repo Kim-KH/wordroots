@@ -1,0 +1,99 @@
+{
+    "root_info": {
+        "roots": "non",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "아니다",
+            "en": "not",
+            "ja": "ない",
+            "zh": "不",
+            "fr": "non"
+        }
+    },
+    "words": [
+        {
+            "word": "nonferrous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "non-",
+                    "meaning": {
+                        "ko": "아닌",
+                        "en": "not",
+                        "ja": "ではない",
+                        "zh": "非",
+                        "fr": "non"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ferrous",
+                    "meaning": {
+                        "ko": "철을 함유한",
+                        "en": "containing iron",
+                        "ja": "鉄を含む",
+                        "zh": "含铁的",
+                        "fr": "contenant du fer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'철을 함유하지 않은' 즉, '비철금속의'라는 뜻입니다.",
+                "en": "'Not containing iron'; meaning 'of nonferrous metals'",
+                "ja": "「鉄を含まない」つまり「非鉄金属の」という意味です。",
+                "zh": "「不含铁的」，即「非铁金属的」之意。",
+                "fr": "« Ne contenant pas de fer » ; signifie « des métaux non ferreux »."
+            },
+            "example": "Aluminum and copper are nonferrous metals.",
+            "translation": {
+                "ko": "알루미늄과 구리는 비철금속이다.",
+                "ja": "アルミニウムと銅は非鉄金属です。",
+                "zh": "铝和铜是非铁金属。",
+                "fr": "L'aluminium et le cuivre sont des métaux non ferreux."
+            }
+        },
+        {
+            "word": "nondescript",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "non-",
+                    "meaning": {
+                        "ko": "아닌",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "不",
+                        "fr": "non"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "descript",
+                    "meaning": {
+                        "ko": "묘사된",
+                        "en": "described",
+                        "ja": "描写された",
+                        "zh": "描述的",
+                        "fr": "décrit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뚜렷하게 묘사할 수 없는'이라는 의미에서 '별 특징 없는'이라는 뜻입니다.",
+                "en": "Meaning 'lacking distinctive or interesting features; unable to be described clearly'",
+                "ja": "明確に描写できない、または特徴のない状態を意味します",
+                "zh": "表示缺乏鲜明的特征或无法清楚描述的含义",
+                "fr": "Signifie manquant de caractéristiques distinctives ou difficile à décrire clairement"
+            },
+            "example": "He wore a nondescript gray suit.",
+            "translation": {
+                "ko": "그는 별 특징 없는 회색 정장을 입고 있었다.",
+                "ja": "彼は目立たない灰色のスーツを着ていました",
+                "zh": "他穿着一套不起眼的灰色西装",
+                "fr": "Il portait un costume gris quelconque"
+            }
+        }
+    ]
+}

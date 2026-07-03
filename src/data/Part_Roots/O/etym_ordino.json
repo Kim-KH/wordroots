@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "ordino (arrange) ordain, order, ordinal",
+        "origin": "Latin, ordo, ordinis (a row, order)",
+        "meaning": {
+            "ko": "순서, 질서",
+            "en": "order",
+            "ja": "順序、秩序",
+            "zh": "顺序、秩序",
+            "fr": "ordre, séquence"
+        }
+    },
+    "words": [
+        {
+            "word": "ordain",
+            "part_of_speech": "",
+            "origin": "Latin, ordinare (to put in order)",
+            "meaning": {
+                "ko": "순서대로 놓다",
+                "en": "to arrange in order",
+                "ja": "聖職者に任命する",
+                "zh": "授予圣职",
+                "fr": "ordonner prêtre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ord-",
+                    "meaning": {
+                        "ko": "'순서, 명령'",
+                        "en": "order",
+                        "ja": "順序、命令",
+                        "zh": "秩序、命令",
+                        "fr": "ordre, commandement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신이 명령하여 정하다'는 의미에서 '명하다' 또는 성직자로 '임명하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'God commands and ordains' to mean 'to command' or 'to appoint as clergy'",
+                "ja": "神が命じて定めるという意味から、命じる、または聖職者に任命するという意味になりました",
+                "zh": "从神命令和规定的意思演变为命令或任命为神职人员的意思",
+                "fr": "Du sens de Dieu commande et ordonne au sens de commander ou nommer au clergé"
+            },
+            "example": "He was ordained as a priest.",
+            "translation": {
+                "ko": "그는 사제로 서품되었다.",
+                "ja": "彼は司祭に叙任された。",
+                "zh": "他被任命为牧师。",
+                "fr": "Il a été ordonné prêtre."
+            }
+        },
+        {
+            "word": "order",
+            "part_of_speech": "",
+            "origin": "Latin, ordo (order)",
+            "meaning": {
+                "ko": "순서",
+                "en": "sequence or arrangement",
+                "ja": "順序、秩序",
+                "zh": "顺序、秩序",
+                "fr": "ordre, séquence"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ord-",
+                    "meaning": {
+                        "ko": "'순서, 질서'",
+                        "en": "order",
+                        "ja": "順序、秩序",
+                        "zh": "顺序、秩序",
+                        "fr": "ordre, séquence"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정해진 순서나 규칙'이라는 의미에서 '순서', '질서', '명령', '주문' 등 다양한 뜻으로 쓰입니다.",
+                "en": "This word has multiple meanings including sequence, rules, command, and request depending on context.",
+                "ja": "文脈により順序、秩序、命令、注文など多様な意味で使われます",
+                "zh": "根据语境可表示顺序、秩序、命令、订单等多种含义",
+                "fr": "Selon le contexte, peut signifier ordre, séquence, commandement ou commande"
+            },
+            "example": "Please put the books in alphabetical order.",
+            "translation": {
+                "ko": "책을 알파벳 순서대로 정리해 주세요.",
+                "ja": "本を名前順に並べてください。",
+                "zh": "请按字母顺序排列这些书。",
+                "fr": "Veuillez ranger les livres en ordre alphabétique."
+            }
+        },
+        {
+            "word": "ordinal",
+            "part_of_speech": "",
+            "origin": "Latin, ordinalis (showing order)",
+            "meaning": {
+                "ko": "순서를 보여주는",
+                "en": "showing order",
+                "ja": "順序を示す",
+                "zh": "表示顺序的",
+                "fr": "indiquant l'ordre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ordin-",
+                    "meaning": {
+                        "ko": "'순서'",
+                        "en": "order",
+                        "ja": "順序",
+                        "zh": "顺序",
+                        "fr": "ordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'순서를 나타내는 수'인 '서수'를 뜻합니다. (예: first, second)",
+                "en": "Refers to 'ordinal numbers' which show sequence order. (e.g.: first, second)",
+                "ja": "順序を表す数である'序数'を意味します。(例: first, second)",
+                "zh": "指表示顺序的数字'序数'。(例如: first, second)",
+                "fr": "Désigne les 'nombres ordinaux' qui expriment l'ordre de succession. (ex: first, second)"
+            },
+            "example": "\"First,\" \"second,\" and \"third\" are ordinal numbers.",
+            "translation": {
+                "ko": "\"첫 번째\", \"두 번째\", \"세 번째\"는 서수이다.",
+                "ja": "序数",
+                "zh": "序数",
+                "fr": "nombre ordinal"
+            }
+        }
+    ]
+}

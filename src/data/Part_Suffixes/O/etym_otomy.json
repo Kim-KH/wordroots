@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "otomy (incision) lobotomy, tracheotomy",
+        "origin": "Greek, -tomia (a cutting)",
+        "meaning": {
+            "ko": "절개",
+            "en": "incision",
+            "ja": "切開",
+            "zh": "切口",
+            "fr": "incision"
+        }
+    },
+    "words": [
+        {
+            "word": "lobotomy",
+            "part_of_speech": "",
+            "origin": "Greek, lobos (lobe) + tome (a cutting)",
+            "meaning": {
+                "ko": "뇌엽 절단",
+                "en": "brain lobe cutting",
+                "ja": "脳葉切断術",
+                "zh": "脑叶切断术",
+                "fr": "lobotomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lobo-",
+                    "meaning": {
+                        "ko": "'뇌엽'",
+                        "en": "lobe",
+                        "ja": "脳葉",
+                        "zh": "脑叶",
+                        "fr": "lobe"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tomy",
+                    "meaning": {
+                        "ko": "'절단술'",
+                        "en": "cutting",
+                        "ja": "切断術",
+                        "zh": "切断术",
+                        "fr": "ablation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뇌의 전두엽을 절단하는' 정신 외과 수술인 '뇌엽 절제술'을 뜻합니다.",
+                "en": "A neurosurgical procedure involving severance of the prefrontal lobe of the brain",
+                "ja": "脳の前頭葉を切断する精神外科手術",
+                "zh": "切除脑部前额叶的精神外科手术",
+                "fr": "Procédure neurochirurgicale impliquant la section du lobe préfrontal"
+            },
+            "example": "Lobotomy is now a banned medical procedure in many countries.",
+            "translation": {
+                "ko": "뇌엽 절제술은 현재 많은 나라에서 금지된 의료 시술이다.",
+                "ja": "ロボトミーは現在多くの国で禁止された医療処置です。",
+                "zh": "脑叶切断术现在在许多国家是被禁止的医疗程序。",
+                "fr": "La lobotomie est maintenant une procédure médicale interdite dans de nombreux pays."
+            }
+        },
+        {
+            "word": "tracheotomy",
+            "part_of_speech": "",
+            "origin": "Greek, trakheia (windpipe) + tome (a cutting)",
+            "meaning": {
+                "ko": "기도 절개",
+                "en": "incision of the trachea",
+                "ja": "気管切開",
+                "zh": "气管切开术",
+                "fr": "trachéotomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tracheo-",
+                    "meaning": {
+                        "ko": "'기관'",
+                        "en": "trachea",
+                        "ja": "気管",
+                        "zh": "气管",
+                        "fr": "trachée"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tomy",
+                    "meaning": {
+                        "ko": "'절개술'",
+                        "en": "cutting",
+                        "ja": "切開",
+                        "zh": "切开",
+                        "fr": "incision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숨을 쉴 수 있도록 기관을 절개하는 수술'인 '기관 절개술'을 뜻합니다.",
+                "en": "A surgical procedure that incises the trachea to enable breathing",
+                "ja": "呼吸ができるよう気管を切開する手術を意味します",
+                "zh": "指为了能够呼吸而切开气管的手术",
+                "fr": "Intervention chirurgicale qui incise la trachée pour permettre la respiration"
+            },
+            "example": "An emergency tracheotomy saved his life.",
+            "translation": {
+                "ko": "응급 기관 절개술이 그의 생명을 구했다.",
+                "ja": "緊急の気管切開が彼の命を救った。",
+                "zh": "紧急气管切开术救了他的生命。",
+                "fr": "Une trachéotomie d'urgence lui a sauvé la vie."
+            }
+        }
+    ]
+}

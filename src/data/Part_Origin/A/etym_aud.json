@@ -1,0 +1,234 @@
+{
+    "root_info": {
+        "roots": "aud, audit, aur: hear",
+        "origin": "Latin, audire",
+        "meaning": {
+            "ko": "듣다",
+            "en": "to hear",
+            "ja": "聞く",
+            "zh": "听",
+            "fr": "entendre"
+        }
+    },
+    "words": [
+        {
+            "word": "audition",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "audi",
+                    "meaning": {
+                        "ko": "듣다",
+                        "en": "to hear",
+                        "ja": "聞く",
+                        "zh": "听",
+                        "fr": "entendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "심사위원이 연주나 연기를 '들어보는 것'이라는 의미에서 '오디션'을 뜻합니다.",
+                "en": "From the idea of judges 'hearing' a performance or acting audition.",
+                "ja": "審査員が演奏や演技を『聞く』という意味から『オーディション』を指します。",
+                "zh": "源自评审团'听'表演或演技的意思，因此称为'试镜'。",
+                "fr": "Du sens que les juges 'écoutent' une performance ou un jeu d'acteur pour l'audition."
+            },
+            "example": "She has an audition for a movie tomorrow.",
+            "translation": {
+                "ko": "그녀는 내일 영화 오디션이 있다.",
+                "ja": "彼女は明日、映画のオーディションがある。",
+                "zh": "她明天有一场电影试镜。",
+                "fr": "Elle a une audition pour un film demain."
+            }
+        },
+        {
+            "word": "auditorium",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "auditor (hearer)",
+                    "meaning": {
+                        "ko": "듣는 사람",
+                        "en": "one who hears",
+                        "ja": "聞く人",
+                        "zh": "听的人",
+                        "fr": "personne qui écoute"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ium",
+                    "meaning": {
+                        "ko": "장소",
+                        "en": "place",
+                        "ja": "場所",
+                        "zh": "场所",
+                        "fr": "lieu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람들이 듣는 장소'라는 의미에서 '강당', '객석'을 뜻합니다.",
+                "en": "A place where people listen; refers to a lecture hall or seating area for audiences.",
+                "ja": "「人々が聞く場所」という意味から、「講堂」「客席」を指します。",
+                "zh": "从「人们听的地方」这个意思引申出「讲堂」「观众席」的含义。",
+                "fr": "Signifie littéralement « lieu où les gens écoutent » ; désigne une salle de conférence ou un espace d'audience."
+            },
+            "example": "The lecture was held in the main auditorium.",
+            "translation": {
+                "ko": "그 강의는 주 강당에서 열렸다.",
+                "ja": "その講義は主講堂で行われました。",
+                "zh": "那场讲座在主讲堂举行。",
+                "fr": "La conférence s'est déroulée dans l'auditorium principal."
+            }
+        },
+        {
+            "word": "obey",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "toward",
+                        "ja": "～に向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ey (audire)",
+                    "meaning": {
+                        "ko": "듣다",
+                        "en": "to hear",
+                        "ja": "聞く",
+                        "zh": "听",
+                        "fr": "écouter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "명령에 '귀를 기울여 듣다'는 의미에서 '복종하다', '따르다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'listening with attention to a command,' it came to mean 'obey' or 'follow.'",
+                "ja": "命令に『耳を傾けて聞く』という意味から、『従う』『服従する』という意味になりました。",
+                "zh": "从'对命令竖起耳朵听'的含义，转变为'服从''遵从'的意思。",
+                "fr": "Du sens d'« écouter attentivement un ordre », il en est venu à signifier « obéir » ou « suivre »."
+            },
+            "example": "You must obey the law.",
+            "translation": {
+                "ko": "당신은 법을 따라야 한다.",
+                "ja": "あなたは法律に従わなければならない。",
+                "zh": "你必须遵守法律。",
+                "fr": "Vous devez obéir à la loi."
+            }
+        },
+        {
+            "word": "audible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "audi",
+                    "meaning": {
+                        "ko": "듣다",
+                        "en": "to hear",
+                        "ja": "聞く",
+                        "zh": "听",
+                        "fr": "entendre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "~할 수 있는",
+                        "en": "able to be",
+                        "ja": "〜できる",
+                        "zh": "能够被〜",
+                        "fr": "pouvoir être"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'들을 수 있는'이라는 뜻입니다.",
+                "en": "Able to be heard",
+                "ja": "聞こえることができる",
+                "zh": "能够被听到",
+                "fr": "Capable d'être entendu"
+            },
+            "example": "His voice was barely audible.",
+            "translation": {
+                "ko": "그의 목소리는 겨우 들릴 정도였다.",
+                "ja": "彼の声はかろうじて聞こえた。",
+                "zh": "他的声音几乎听不见。",
+                "fr": "Sa voix était à peine audible."
+            }
+        },
+        {
+            "word": "audit",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "audit",
+                    "meaning": {
+                        "ko": "듣는 행위",
+                        "en": "a hearing",
+                        "ja": "聞く行為",
+                        "zh": "听的行为",
+                        "fr": "action d'écouter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 계정을 '듣고' 심사하던 것에서 유래하여, '회계 감사'를 뜻하게 되었습니다.",
+                "en": "Originally referred to listening to and examining accounts; now means financial audit.",
+                "ja": "元々は会計を「聞いて」審査することに由来し、「会計監査」を意味するようになりました。",
+                "zh": "源自最初\"听取\"和审查账目的做法，后来引申为\"财务审计\"。",
+                "fr": "Originaire de l'examen des comptes en les écoutant; est devenu synonyme d'audit financier."
+            },
+            "example": "The company has an annual audit.",
+            "translation": {
+                "ko": "그 회사는 매년 회계 감사를 받는다.",
+                "ja": "その会社は毎年監査を受けている。",
+                "zh": "那家公司每年接受审计。",
+                "fr": "L'entreprise subit un audit annuel."
+            }
+        },
+        {
+            "word": "audience",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "audi",
+                    "meaning": {
+                        "ko": "듣다",
+                        "en": "to hear",
+                        "ja": "聞く",
+                        "zh": "听",
+                        "fr": "entendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'듣는 사람들'이라는 의미에서 '청중', '관객'을 뜻합니다.",
+                "en": "From 'people who listen'; means audience or spectators",
+                "ja": "「聞く人たち」という意味から、「観客」や「聴衆」を表します",
+                "zh": "从「听的人们」的意思引申，表示「观众」或「听众」",
+                "fr": "Du sens de « personnes qui écoutent »; signifie audience ou spectateurs"
+            },
+            "example": "The audience applauded loudly.",
+            "translation": {
+                "ko": "관객들은 큰 박수를 쳤다.",
+                "ja": "観客たちは大きな拍手をした。",
+                "zh": "观众们热烈地鼓掌。",
+                "fr": "Le public a applaudi bruyamment."
+            }
+        }
+    ]
+}

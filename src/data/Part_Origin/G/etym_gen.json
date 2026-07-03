@@ -1,0 +1,656 @@
+{
+    "root_info": {
+        "roots": "gen, gin: to give birth, kind",
+        "origin": "Greek, genos & Latin, genus",
+        "meaning": {
+            "ko": "탄생, 종족, 종류",
+            "en": "birth, race, kind",
+            "ja": "誕生、民族、種類",
+            "zh": "出生、种族、种类",
+            "fr": "naissance, race, espèce"
+        }
+    },
+    "words": [
+        {
+            "word": "genus",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "종류, 탄생",
+                        "en": "kind, birth",
+                        "ja": "種類、誕生",
+                        "zh": "种类、出生",
+                        "fr": "type, naissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어에서 직접 온 단어로, 생물 분류 체계에서 '과(family)'와 '종(species)' 사이의 단계인 '속(屬)'을 의미합니다.",
+                "en": "From Latin, meaning a taxonomic rank between family and species in biological classification.",
+                "ja": "ラテン語から直接来た言葉で、生物分類体系における「科」と「種」の間の段階である「属」を意味します。",
+                "zh": "直接来自拉丁语，在生物分类系统中指「科」和「种」之间的等级，即「属」。",
+                "fr": "Du latin, désignant le rang taxonomique entre la famille et l'espèce dans la classification biologique."
+            },
+            "example": "The lion belongs to the genus Panthera.",
+            "translation": {
+                "ko": "사자는 판테라 속에 속한다.",
+                "ja": "ライオンはパンテラ属に属しています。",
+                "zh": "狮子属于豹属。",
+                "fr": "Le lion appartient au genre Panthera."
+            }
+        },
+        {
+            "word": "generic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "종류",
+                        "en": "kind",
+                        "ja": "種類",
+                        "zh": "种类",
+                        "fr": "sorte"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-eric",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 종류 전체에 속하는'이라는 의미에서 '포괄적인', '총칭의'라는 뜻입니다. 브랜드가 없는 '제네릭' 의약품이나 상품을 지칭하기도 합니다.",
+                "en": "Meaning 'belonging to an entire category.' Used to describe unbranded generic medicines or products.",
+                "ja": "「ある種類全体に属する」という意味から「包括的な」「総称の」という意味になります。ブランドがない「ジェネリック」医薬品や商品を指すこともあります。",
+                "zh": "源自\"属于某一类别的全体\"的含义，引申为\"包容性的\"、\"通用的\"。也用来指没有品牌的\"仿制\"药品或商品。",
+                "fr": "Du sens « appartenant à une catégorie entière », d'où « englobant », « universel ». Désigne aussi les médicaments ou produits génériques sans marque."
+            },
+            "example": "\"Dog\" is a generic term.",
+            "translation": {
+                "ko": "'개'는 총칭적인 용어이다.",
+                "ja": "「犬」は総称的な用語である。",
+                "zh": "\"狗\"是一个通用术语。",
+                "fr": "« Chien » est un terme générique."
+            }
+        },
+        {
+            "word": "miscegenation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "misce (miscere)",
+                    "meaning": {
+                        "ko": "섞다",
+                        "en": "to mix",
+                        "ja": "混ぜる",
+                        "zh": "混合",
+                        "fr": "mélanger"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "종족, 인종",
+                        "en": "race",
+                        "ja": "人種、民族",
+                        "zh": "种族",
+                        "fr": "race"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 인종을 섞는 것'이라는 의미로, '인종 혼합', 특히 다른 인종 간의 결혼이나 출산을 의미합니다.",
+                "en": "Mixing of different races; specifically refers to interracial marriage or reproduction.",
+                "ja": "異なる人種を混ぜることを意味し、特に異なる人種間の結婚や出産を指します。",
+                "zh": "混合不同种族的意思，特别是指不同种族之间的婚姻或生育。",
+                "fr": "Mélange de races différentes; désigne spécifiquement le mariage ou la reproduction entre personnes de races différentes."
+            },
+            "example": "Laws against miscegenation were abolished.",
+            "translation": {
+                "ko": "인종 혼합을 금지하는 법률이 폐지되었다.",
+                "ja": "人種混合禁止法が廃止された。",
+                "zh": "禁止种族混合的法律被废除了。",
+                "fr": "Les lois contre le métissage ont été abolies."
+            }
+        },
+        {
+            "word": "degenerate",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "아래로, 떨어져",
+                        "en": "down, away from",
+                        "ja": "下へ、離れて",
+                        "zh": "向下，离开",
+                        "fr": "vers le bas, loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "종류, 본성",
+                        "en": "kind, nature",
+                        "ja": "種類、本質",
+                        "zh": "种类、本质",
+                        "fr": "sorte, nature"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래의 좋은 종류(본성)에서 벗어나 아래로 떨어진' 상태를 의미하며, '퇴보한', '타락한'이라는 뜻입니다.",
+                "en": "State of falling away from one's original good nature or kind; means 'degenerated' or 'corrupted'",
+                "ja": "本来の良い本質から外れて低下した状態を意味し、『退化した』『堕落した』という意味です。",
+                "zh": "指从原本良好的本质中偏离并下降的状态，意为'衰退的'、'堕落的'。",
+                "fr": "État de s'écarter de sa nature bonne originelle; signifie 'dégénéré' ou 'corrompu'."
+            },
+            "example": "The debate became degenerate.",
+            "translation": {
+                "ko": "그 토론은 타락했다.",
+                "ja": "その議論は堕落した。",
+                "zh": "那场辩论变得堕落了。",
+                "fr": "Le débat est devenu dégénéré."
+            }
+        },
+        {
+            "word": "generous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "탄생, 고귀한 종류",
+                        "en": "birth, noble kind",
+                        "ja": "誕生、高貴な種類",
+                        "zh": "出生、高贵的种类",
+                        "fr": "naissance, sorte noble"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 '고귀한 가문에서 태어난' 사람의 성품을 의미했습니다. 여기서 '관대한', '후한'이라는 뜻으로 발전했습니다.",
+                "en": "Originally meant the character of someone born into a noble family. Later developed to mean 'liberal', 'bountiful'.",
+                "ja": "元々は『高貴な家系に生まれた』人の性質を意味していました。ここから『寛大な』『惜しみない』という意味に発展しました。",
+                "zh": "原本指『出身于高贵家族』的人的性格。后来发展出『慷慨的』『大方的』之意。",
+                "fr": "Signifiait à l'origine le caractère de quelqu'un né dans une famille noble. A évolué vers le sens de 'libéral', 'généreux'."
+            },
+            "example": "He is a very generous person.",
+            "translation": {
+                "ko": "그는 매우 관대한 사람이다.",
+                "ja": "彼は非常に寛大な人だ。",
+                "zh": "他是一个非常慷慨的人。",
+                "fr": "Il est une personne très généreuse."
+            }
+        },
+        {
+            "word": "general",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "종류",
+                        "en": "kind",
+                        "ja": "種類",
+                        "zh": "种类",
+                        "fr": "sorte"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞語尾",
+                        "zh": "形容词词尾",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 종류 전체에 관한'이라는 의미에서 '일반적인', '전반적인'이라는 뜻이 되었습니다.",
+                "en": "From the sense of 'concerning an entire specific category' evolved to mean 'typical,' 'widespread'",
+                "ja": "'特定の種類全体に関する'という意味から、'一般的な'、'広範な'という意味へと発展しました。",
+                "zh": "从'涉及特定类别整体'的含义演变为'普遍的'、'广泛的'的意思。",
+                "fr": "Du sens de 'concernant l'ensemble d'une catégorie spécifique' a évolué vers 'général', 'commun'."
+            },
+            "example": "This is a matter of general interest.",
+            "translation": {
+                "ko": "이것은 일반적인 관심사이다.",
+                "ja": "これは一般的な関心事である。",
+                "zh": "这是一个普遍关注的问题。",
+                "fr": "C'est une question d'intérêt général."
+            }
+        },
+        {
+            "word": "natal",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nat (natus)",
+                    "meaning": {
+                        "ko": "태어난",
+                        "en": "born",
+                        "ja": "生まれた",
+                        "zh": "出生的",
+                        "fr": "né"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 nasci(태어나다)에서 유래했으며, 이는 genus와 같은 인도유럽어족 어원에 뿌리를 둡니다. '출생의', '탄생과 관련된'이라는 뜻입니다.",
+                "en": "From Latin nasci (to be born), rooted in Indo-European origins shared with genus. Means 'of birth' or 'related to birth'.",
+                "ja": "ラテン語のnasci(生まれる)に由来し、genusと同じインド・ヨーロッパ語族の語源に根ざしています。'出生の'、'誕生に関連した'という意味です。",
+                "zh": "来自拉丁语nasci(出生)，与genus等印欧语族词源同根。意为'出生的'、'与出生有关的'。",
+                "fr": "Du latin nasci (naître), enraciné dans les origines indo-européennes partagées avec genus. Signifie 'de naissance' ou 'relatif à la naissance'."
+            },
+            "example": "She returned to her natal city.",
+            "translation": {
+                "ko": "그녀는 자신의 출생 도시로 돌아갔다.",
+                "ja": "彼女は生まれ故郷の町に戻った。",
+                "zh": "她回到了她的出生城市。",
+                "fr": "Elle est retournée dans sa ville natale."
+            }
+        },
+        {
+            "word": "heterogeneous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hetero",
+                    "meaning": {
+                        "ko": "다른",
+                        "en": "different",
+                        "ja": "異なる",
+                        "zh": "不同的",
+                        "fr": "différent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "종류",
+                        "en": "kind",
+                        "ja": "種類",
+                        "zh": "种类",
+                        "fr": "sorte"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 종류의 것들로 이루어진'이라는 의미에서 '이질적인', '여러 다른 종류들로 이뤄진'이라는 뜻입니다.",
+                "en": "From Greek hetero- (different) and -geneous (of a kind). Meaning composed of different kinds or elements; diverse in nature.",
+                "ja": "ギリシャ語の「hetero-（異なる）」と「-geneous（種類の）」から。異なる種類や要素で構成されていることを意味します。",
+                "zh": "源自希腊语hetero-（不同的）和-geneous（种类）。表示由不同种类或元素组成；性质多样。",
+                "fr": "Du grec hetero- (différent) et -geneous (de sorte). Signifie composé de différentes sortes ou éléments; de nature diverse."
+            },
+            "example": "It is a heterogeneous group of students.",
+            "translation": {
+                "ko": "그것은 이질적인 학생 집단이다.",
+                "ja": "それは異質な学生グループです。",
+                "zh": "这是一个由不同学生组成的群体。",
+                "fr": "C'est un groupe hétérogène d'étudiants."
+            }
+        },
+        {
+            "word": "genitive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "탄생, 기원",
+                        "en": "origin, birth",
+                        "ja": "起源、誕生",
+                        "zh": "起源、出生",
+                        "fr": "origine, naissance"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itive",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形式后缀",
+                        "fr": "suffixe de forme adjectivale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기원이나 소유를 나타내는'이라는 의미에서 문법의 '소유격'을 의미합니다.",
+                "en": "In the sense of 'indicating origin or possession', it refers to the grammatical 'possessive case'.",
+                "ja": "「起源または所有を示す」という意味において、文法の「所有格」を意味します。",
+                "zh": "在「表示起源或所有」的意义上，指语法中的「所有格」。",
+                "fr": "Dans le sens d'«indiquer l'origine ou la possession», il désigne le «cas possessif» en grammaire."
+            },
+            "example": "In \"the dog's bone\", \"dog's\" is in the genitive case.",
+            "translation": {
+                "ko": "\"the dog's bone\"에서 \"dog's\"는 소유격이다.",
+                "ja": "所有格",
+                "zh": "属格",
+                "fr": "génitif"
+            }
+        },
+        {
+            "word": "nascent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nasc (nasci)",
+                    "meaning": {
+                        "ko": "태어나다",
+                        "en": "to be born",
+                        "ja": "生まれる",
+                        "zh": "出生",
+                        "fr": "naître"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ent",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形式后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'막 태어나는'이라는 의미로, '초기의', '발생기의'라는 뜻입니다.",
+                "en": "Meaning 'just being born'; describes something in its early or initial stage.",
+                "ja": "『生まれたばかり』という意味で、『初期の』『発生段階の』という意味です。",
+                "zh": "'刚刚出生'的意思，表示'初期的''萌芽阶段的'含义。",
+                "fr": "Signifiant 'qui vient de naître'; décrit quelque chose à son stade initial ou naissant."
+            },
+            "example": "The country has a nascent democracy.",
+            "translation": {
+                "ko": "그 나라는 초기 단계의 민주주의를 가지고 있다.",
+                "ja": "その国は初期段階の民主主義を持っている。",
+                "zh": "该国拥有初生阶段的民主制度。",
+                "fr": "Le pays possède une démocratie naissante."
+            }
+        },
+        {
+            "word": "genocide",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "geno",
+                    "meaning": {
+                        "ko": "인종, 종족",
+                        "en": "race, people",
+                        "ja": "人種、民族",
+                        "zh": "种族、民族",
+                        "fr": "race, peuple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-cide",
+                    "meaning": {
+                        "ko": "죽이다",
+                        "en": "to kill",
+                        "ja": "殺す",
+                        "zh": "杀死",
+                        "fr": "tuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 인종을 죽이는 행위' 즉, '집단 학살'을 의미하는 현대에 만들어진 단어입니다.",
+                "en": "A modern term meaning the act of killing one race, i.e., 'mass slaughter of a group'.",
+                "ja": "ある人種を殺す行為、つまり集団虐殺を意味する現代に造られた言葉です。",
+                "zh": "现代造词，指杀害一个种族的行为，即'集团大屠杀'。",
+                "fr": "Terme moderne signifiant l'acte de tuer une race, c'est-à-dire 'massacre de masse d'un groupe'."
+            },
+            "example": "Genocide is a crime against humanity.",
+            "translation": {
+                "ko": "집단 학살은 인류에 대한 범죄이다.",
+                "ja": "ジェノサイド",
+                "zh": "种族灭绝",
+                "fr": "génocide"
+            }
+        },
+        {
+            "word": "homogeneous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "homo",
+                    "meaning": {
+                        "ko": "같은",
+                        "en": "same",
+                        "ja": "同じ",
+                        "zh": "相同",
+                        "fr": "même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "종류",
+                        "en": "kind",
+                        "ja": "種類",
+                        "zh": "种类",
+                        "fr": "sorte"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'같은 종류의 것들로 이루어진'이라는 의미에서 '동질적인', '균질의'라는 뜻입니다.",
+                "en": "Means 'made up of things of the same kind', therefore 'having uniform composition' or 'uniform in nature'",
+                "ja": "同じ種類のもので構成されているという意味から、同質的な、均一な、という意味です",
+                "zh": "从由同一种类的事物组成的意思，引申为同质的、均匀的、统一的",
+                "fr": "Signifie composé de choses de même nature, donc de composition uniforme ou uniforme par nature"
+            },
+            "example": "The population is largely homogeneous.",
+            "translation": {
+                "ko": "그 인구는 대체로 동질적이다.",
+                "ja": "同質の",
+                "zh": "同质的",
+                "fr": "homogène"
+            }
+        },
+        {
+            "word": "malign",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mal",
+                    "meaning": {
+                        "ko": "나쁜",
+                        "en": "bad",
+                        "ja": "悪い",
+                        "zh": "坏的",
+                        "fr": "mauvais"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ign (genus)",
+                    "meaning": {
+                        "ko": "종류, 본성",
+                        "en": "kind, nature",
+                        "ja": "種類、本質",
+                        "zh": "种类、本质",
+                        "fr": "sorte, nature"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나쁜 본성을 가진'이라는 의미에서 '악의적인', '해로운'이라는 뜻입니다. 종양에 대해 말할 때 '악성의'라는 의미로도 쓰입니다.",
+                "en": "From Latin malus (bad) + -ign (kind, nature). Means 'evil-intentioned' or 'harmful'; also used medically to describe malignant tumors.",
+                "ja": "ラテン語のmalus（悪い）と-ign（種類、本質）から。『悪意のある』『有害な』という意味で、腫瘍に対して『悪性の』という医学的意味でも使われます。",
+                "zh": "源自拉丁语malus（坏的）和-ign（种类、本质）。意为'恶意的'或'有害的'；在医学上也用来描述恶性肿瘤。",
+                "fr": "Du latin malus (mauvais) + -ign (sorte, nature). Signifie 'malveillant' ou 'nuisible'; aussi utilisé en médecine pour décrire les tumeurs malignes."
+            },
+            "example": "He has a malign influence.",
+            "translation": {
+                "ko": "그는 악의적인 영향력을 가지고 있다.",
+                "ja": "彼は悪意のある影響力を持っている。",
+                "zh": "他拥有恶意的影响力。",
+                "fr": "Il exerce une influence malveillante."
+            }
+        },
+        {
+            "word": "generation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "낳다, 탄생",
+                        "en": "to beget, birth",
+                        "ja": "生む、誕生",
+                        "zh": "生育、出生",
+                        "fr": "engendrer, naissance"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'낳는 행위' 또는 '태어난 사람들'이라는 의미에서 '세대' 또는 '생성', '발생'을 의미합니다.",
+                "en": "From the sense of 'the act of begetting' or 'people born', meaning an age group, creation, or origin.",
+                "ja": "「生む行為」または「生まれた人々」という意味から、年代、世代、生成、発生を意味します。",
+                "zh": "从\"生育行为\"或\"出生的人们\"的含义引出，表示年代、世代、生成或产生。",
+                "fr": "Du sens de 'l'acte de procréer' ou 'les gens nés', signifiant une génération, une création ou une origine."
+            },
+            "example": "There is a new generation of artists.",
+            "translation": {
+                "ko": "새로운 세대의 예술가들이 있다.",
+                "ja": "新しい世代の芸術家がいます。",
+                "zh": "有一代新的艺术家。",
+                "fr": "Il y a une nouvelle génération d'artistes."
+            }
+        },
+        {
+            "word": "nature",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nat (natus)",
+                    "meaning": {
+                        "ko": "태어난",
+                        "en": "born",
+                        "ja": "生まれた",
+                        "zh": "出生",
+                        "fr": "né"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 natura('탄생', '본성')에서 유래했으며, 이는 nasci('태어나다')와 관련이 있습니다. '태어날 때부터 가진 성질' 즉 '본성', '천성'을 의미하며, 인간이 만들지 않은 '자연'을 뜻하기도 합니다.",
+                "en": "From Latin natura ('birth', 'essential qualities'), related to nasci ('to be born'). Originally meant 'innate quality' or 'essential character', later extended to mean 'the natural world' not made by humans.",
+                "ja": "ラテン語のnatura（『出生』『本質』）に由来し、nasci（『生まれる』）と関連しています。もともと『生まれつきの性質』や『本質的な特性』を意味し、後に人間が作らない『自然界』を意味するようになりました。",
+                "zh": "来自拉丁语natura（'出生'、'本质'），与nasci（'出生'）相关。原义为'与生俱来的性质'或'本质特征'，后来扩展为指'自然界'（非人造）。",
+                "fr": "Du latin natura ('naissance', 'essence'), lié à nasci ('naître'). Signifiait à l'origine 'qualité innée' ou 'caractère essentiel', puis s'est étendu pour désigner 'le monde naturel' non créé par l'homme."
+            },
+            "example": "It is human nature to make mistakes.",
+            "translation": {
+                "ko": "실수하는 것은 인간의 본성이다.",
+                "ja": "間違いを犯すことは人間の本性である。",
+                "zh": "犯错是人的本性。",
+                "fr": "C'est la nature humaine de faire des erreurs."
+            }
+        }
+    ]
+}

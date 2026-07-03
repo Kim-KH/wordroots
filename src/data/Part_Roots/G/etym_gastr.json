@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "gastr(o) (digestive) gastric, gastritis, gastrointestinal",
+        "origin": "Greek, gaster (stomach, belly)",
+        "meaning": {
+            "ko": "위",
+            "en": "stomach",
+            "ja": "胃",
+            "zh": "胃",
+            "fr": "estomac"
+        }
+    },
+    "words": [
+        {
+            "word": "gastric",
+            "part_of_speech": "",
+            "origin": "Greek, gaster (stomach)",
+            "meaning": {
+                "ko": "위",
+                "en": "stomach",
+                "ja": "胃の、胃に関する",
+                "zh": "胃的、与胃有关的",
+                "fr": "gastrique, relatif à l'estomac"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gastr-",
+                    "meaning": {
+                        "ko": "'위'",
+                        "en": "stomach",
+                        "ja": "胃",
+                        "zh": "胃",
+                        "fr": "estomac"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'위의', '위와 관련된'이라는 뜻입니다.",
+                "en": "Means 'of the stomach' or 'relating to the stomach'",
+                "ja": "胃に関する、胃のという意味です",
+                "zh": "表示与胃有关或属于胃的",
+                "fr": "Signifie 'de l'estomac' ou 'relatif à l'estomac'"
+            },
+            "example": "He suffers from gastric ulcers.",
+            "translation": {
+                "ko": "그는 위궤양으로 고통받고 있다.",
+                "ja": "彼は胃潰瘍に苦しんでいます。",
+                "zh": "他患有胃溃疡。",
+                "fr": "Il souffre d'ulcères gastriques."
+            }
+        },
+        {
+            "word": "gastritis",
+            "part_of_speech": "",
+            "origin": "Greek, gaster (stomach) + -itis (inflammation)",
+            "meaning": {
+                "ko": "위 염증",
+                "en": "stomach inflammation",
+                "ja": "胃炎",
+                "zh": "胃炎",
+                "fr": "gastrite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gastr-",
+                    "meaning": {
+                        "ko": "'위'",
+                        "en": "stomach",
+                        "ja": "胃",
+                        "zh": "胃",
+                        "fr": "estomac"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'위에 염증이 생기는 병'이라는 의미에서 '위염'을 뜻합니다.",
+                "en": "Gastritis means stomach inflammation disease",
+                "ja": "胃に炎症が生じる病気を意味します",
+                "zh": "指胃部炎症引起的疾病",
+                "fr": "Signifie inflammation de l'estomac"
+            },
+            "example": "Gastritis can cause stomach pain and nausea.",
+            "translation": {
+                "ko": "위염은 복통과 메스꺼움을 유발할 수 있다.",
+                "ja": "胃炎は胃痛と吐き気を引き起こす可能性があります。",
+                "zh": "胃炎会导致胃痛和恶心。",
+                "fr": "La gastrite peut causer des douleurs à l'estomac et des nausées."
+            }
+        },
+        {
+            "word": "gastrointestinal",
+            "part_of_speech": "",
+            "origin": "Greek, gaster (stomach) + Latin, intestinum (intestine)",
+            "meaning": {
+                "ko": "위와 장의",
+                "en": "stomach and intestines",
+                "ja": "胃と腸の",
+                "zh": "胃和肠的",
+                "fr": "gastro-intestinal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gastro-",
+                    "meaning": {
+                        "ko": "'위'",
+                        "en": "stomach",
+                        "ja": "胃",
+                        "zh": "胃",
+                        "fr": "estomac"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "intestinal",
+                    "meaning": {
+                        "ko": "'장의'",
+                        "en": "intestine",
+                        "ja": "腸",
+                        "zh": "肠",
+                        "fr": "intestin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'위와 장을 포함하는 소화 기관의'라는 뜻입니다.",
+                "en": "Refers to digestive organs including the stomach and intestines",
+                "ja": "胃と腸を含む消化器官を指しています",
+                "zh": "指包括胃和肠的消化器官",
+                "fr": "Fait référence aux organes digestifs incluant l'estomac et les intestins"
+            },
+            "example": "The gastrointestinal tract is a long tube that runs from the mouth to the anus.",
+            "translation": {
+                "ko": "위장관은 입에서 항문까지 이어지는 긴 관이다.",
+                "ja": "消化管は口から肛門まで続く長い管です",
+                "zh": "消化道是从口腔延伸到肛门的长管",
+                "fr": "Le tractus gastro-intestinal est un long tube qui s'étend de la bouche à l'anus"
+            }
+        }
+    ]
+}

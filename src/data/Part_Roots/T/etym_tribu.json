@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "tribu (press, tribe) retribution, tribulation, tribunal, tribune",
+        "origin": "Latin, tribus (a tribe)",
+        "meaning": {
+            "ko": "부족",
+            "en": "a tribe",
+            "ja": "部族",
+            "zh": "部落",
+            "fr": "tribu"
+        }
+    },
+    "words": [
+        {
+            "word": "retribution",
+            "part_of_speech": "",
+            "origin": "Latin, retribuere (to give back)",
+            "meaning": {
+                "ko": "되돌려주다",
+                "en": "to give back",
+                "ja": "応報、報復",
+                "zh": "报应、惩罚",
+                "fr": "rétribution, châtiment"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시, 뒤로'",
+                        "en": "back",
+                        "ja": "戻す、後ろへ",
+                        "zh": "回到、向后",
+                        "fr": "retour, arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tribu- (tribuere)",
+                    "meaning": {
+                        "ko": "'주다, 할당하다'",
+                        "en": "to assign, give",
+                        "ja": "与える、割り当てる",
+                        "zh": "给予、分配",
+                        "fr": "donner, attribuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신이 한 일에 대해 되돌려 받는 것'이라는 의미에서 '응보', '징벌'을 뜻합니다.",
+                "en": "Means punishment or recompense for one's actions",
+                "ja": "自分の行為に対して受け取る報い、応報や懲罰を意味する",
+                "zh": "对自己的行为所得到的回报，意味着应报或惩罚",
+                "fr": "Signifie la punition ou la récompense pour ses actes"
+            },
+            "example": "He is seeking retribution for the murder of his son.",
+            "translation": {
+                "ko": "그는 아들을 살해한 것에 대한 응징을 모색하고 있다.",
+                "ja": "息子の殺害に対する報復を求めている。",
+                "zh": "他在为儿子被谋杀寻求报复。",
+                "fr": "Il cherche une rétribution pour le meurtre de son fils."
+            }
+        },
+        {
+            "word": "tribulation",
+            "part_of_speech": "",
+            "origin": "Latin, tribulare (to press, to oppress)",
+            "meaning": {
+                "ko": "압박하다",
+                "en": "to oppress or press down",
+                "ja": "苦難、試練",
+                "zh": "苦难、磨难",
+                "fr": "épreuve, tribulation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tribu-",
+                    "meaning": {
+                        "ko": "'압박'",
+                        "en": "press",
+                        "ja": "圧迫する",
+                        "zh": "压迫、压力",
+                        "fr": "presser, appuyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'압박을 가하는' 시련이라는 의미에서 '고난', '시련'을 뜻합니다.",
+                "en": "Tribulation refers to hardship or trial, derived from the meaning of applying pressure or oppression.",
+                "ja": "圧力を加える試練という意味から、困難や試練を意味します。",
+                "zh": "从施加压力或压迫的含义延伸，表示困难或磨难。",
+                "fr": "Signifie épreuve ou souffrance, dérivé du sens d'appliquer une pression ou une oppression."
+            },
+            "example": "They endured many trials and tribulations.",
+            "translation": {
+                "ko": "그들은 많은 시련과 고난을 견뎌냈다.",
+                "ja": "彼らは多くの試練と苦難に耐えた。",
+                "zh": "他们经历了许多磨难和困苦。",
+                "fr": "Ils ont enduré de nombreuses épreuves et tribulations."
+            }
+        },
+        {
+            "word": "tribunal",
+            "part_of_speech": "",
+            "origin": "Latin, tribunal (a raised platform for a magistrate)",
+            "meaning": {
+                "ko": "재판관석",
+                "en": "judge's bench or seat",
+                "ja": "裁判官席",
+                "zh": "法官席位",
+                "fr": "tribunal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tribun- (tribunus)",
+                    "meaning": {
+                        "ko": "'호민관'",
+                        "en": "tribune or magistrate",
+                        "ja": "保民官",
+                        "zh": "保民官",
+                        "fr": "tribun"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'재판관이 앉는 장소'라는 의미에서 '법정', '재판소'를 뜻합니다.",
+                "en": "Refers to a place where judges sit, meaning 'court' or 'tribunal'",
+                "ja": "裁判官が座る場所という意味から、'法廷'、'裁判所'を意味します",
+                "zh": "从法官坐的地方这个意义来看，意为'法庭'、'法院'",
+                "fr": "Désigne le lieu où siègent les juges, signifiant 'cour' ou 'tribunal'"
+            },
+            "example": "The case will be heard by an international tribunal.",
+            "translation": {
+                "ko": "그 사건은 국제 재판소에서 심리될 것이다.",
+                "ja": "その事件は国際的な法廷で審理されます",
+                "zh": "该案件将由国际法庭审理",
+                "fr": "L'affaire sera jugée par un tribunal international"
+            }
+        },
+        {
+            "word": "tribune",
+            "part_of_speech": "",
+            "origin": "Latin, tribunus (a representative of a tribe)",
+            "meaning": {
+                "ko": "부족의 대표",
+                "en": "tribal representative",
+                "ja": "部族の代表",
+                "zh": "部落的代表",
+                "fr": "représentant de tribu"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tribu-",
+                    "meaning": {
+                        "ko": "'부족'",
+                        "en": "tribe",
+                        "ja": "部族",
+                        "zh": "部落",
+                        "fr": "tribu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마에서 '평민을 대표했던' 관리인 '호민관'을 뜻합니다.",
+                "en": "In ancient Rome, a magistrate called 'tribune' who represented plebeians.",
+                "ja": "古代ローマで平民を代表した官吏『保民官』を意味します。",
+                "zh": "在古罗马，指代表平民的官员『保民官』。",
+                "fr": "À Rome antique, magistrat nommé 'tribun' représentant les plébéiens."
+            },
+            "example": "The tribune protected the rights of the common people.",
+            "translation": {
+                "ko": "호민관은 평민의 권리를 보호했다.",
+                "ja": "保民官は庶民の権利を守った。",
+                "zh": "保民官保护了平民的权利。",
+                "fr": "Le tribun protégeait les droits du peuple."
+            }
+        }
+    ]
+}

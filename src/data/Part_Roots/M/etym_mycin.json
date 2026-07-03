@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "mycin (from fungus) erythromycin, neomycin, streptomycin",
+        "origin": "Greek, mykes (fungus)",
+        "meaning": {
+            "ko": "균류, 버섯",
+            "en": "fungus",
+            "ja": "菌",
+            "zh": "真菌",
+            "fr": "fongus"
+        }
+    },
+    "words": [
+        {
+            "word": "erythromycin",
+            "part_of_speech": "",
+            "origin": "Greek, erythros (red) + mykes (fungus)",
+            "meaning": {
+                "ko": "붉은 균",
+                "en": "red bacterium",
+                "ja": "赤色菌",
+                "zh": "红色菌",
+                "fr": "bactérie rouge"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "erythro-",
+                    "meaning": {
+                        "ko": "'붉은'",
+                        "en": "red",
+                        "ja": "赤い",
+                        "zh": "红色的",
+                        "fr": "rouge"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mycin",
+                    "meaning": {
+                        "ko": "'균에서 유래한 물질'",
+                        "en": "substance derived from bacteria",
+                        "ja": "菌由来物質",
+                        "zh": "菌衍生物质",
+                        "fr": "substance dérivée bactérienne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'붉은색을 띠는 방선균에서 추출한' 항생제의 일종입니다.",
+                "en": "A type of antibiotic extracted from red-colored actinomycetes",
+                "ja": "赤色放線菌から抽出した抗生物質の一種です",
+                "zh": "从红色放线菌中提取的一种抗生素",
+                "fr": "Un type d'antibiotique extrait d'actinomycètes rouges"
+            },
+            "example": "The doctor prescribed erythromycin for his infection.",
+            "translation": {
+                "ko": "의사는 그의 감염에 에리트로마이신을 처방했다.",
+                "ja": "医者は彼の感染症のためにエリスロマイシンを処方した",
+                "zh": "医生为他的感染开了红霉素",
+                "fr": "Le médecin a prescrit de l'érythromycine pour son infection"
+            }
+        },
+        {
+            "word": "neomycin",
+            "part_of_speech": "",
+            "origin": "Greek, neos (new) + mykes (fungus)",
+            "meaning": {
+                "ko": "새로운 균",
+                "en": "new antibiotic substance",
+                "ja": "新しい菌由来物質",
+                "zh": "新型菌类物质",
+                "fr": "nouvelle substance dérivée de bactérie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neo-",
+                    "meaning": {
+                        "ko": "'새로운'",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mycin",
+                    "meaning": {
+                        "ko": "'균에서 유래한 물질'",
+                        "en": "substance derived from bacteria",
+                        "ja": "菌由来物質",
+                        "zh": "菌类衍生物",
+                        "fr": "substance dérivée de bactérie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "방선균에서 발견된 '새로운' 항생제의 일종입니다.",
+                "en": "A type of new antibiotic discovered in actinomycetes.",
+                "ja": "放線菌から発見された新しい抗生物質の一種です。",
+                "zh": "从放线菌中发现的一种新型抗生素。",
+                "fr": "Un type de nouvel antibiotique découvert dans les actinomycètes."
+            },
+            "example": "Neomycin is an antibiotic found in many topical creams.",
+            "translation": {
+                "ko": "네오마이신은 많은 국소 크림에서 발견되는 항생제이다.",
+                "ja": "ネオマイシン",
+                "zh": "新霉素",
+                "fr": "néomycine"
+            }
+        },
+        {
+            "word": "streptomycin",
+            "part_of_speech": "",
+            "origin": "Greek, streptos (twisted) + mykes (fungus)",
+            "meaning": {
+                "ko": "꼬인 균",
+                "en": "twisted bacterium",
+                "ja": "ねじれた菌",
+                "zh": "扭曲的菌",
+                "fr": "bactérie tordue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strepto-",
+                    "meaning": {
+                        "ko": "'사슬 모양의'",
+                        "en": "chain-shaped",
+                        "ja": "鎖状の",
+                        "zh": "链状的",
+                        "fr": "en forme de chaîne"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mycin",
+                    "meaning": {
+                        "ko": "'균에서 유래한 물질'",
+                        "en": "substance derived from bacteria",
+                        "ja": "菌から由来する物質",
+                        "zh": "来自菌的物质",
+                        "fr": "substance dérivée de bactérie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사슬 모양으로 자라는 방선균에서 추출한' 항생제로, 결핵 치료에 사용되었습니다.",
+                "en": "Streptomycin was the first antibiotic effective against tuberculosis.",
+                "ja": "連鎖状に成長する放線菌から抽出した抗生物質で、結核治療に使用されました。",
+                "zh": "从呈链状生长的放线菌中提取的抗生素，曾用于结核病治疗。",
+                "fr": "Un antibiotique extrait de bactéries filamenteuses qui se développent en chaîne, utilisé pour traiter la tuberculose."
+            },
+            "example": "Streptomycin was the first antibiotic effective against tuberculosis.",
+            "translation": {
+                "ko": "스트렙토마이신은 결핵에 효과적인 최초의 항생제였다.",
+                "ja": "ストレプトマイシン",
+                "zh": "链霉素",
+                "fr": "streptomycine"
+            }
+        }
+    ]
+}

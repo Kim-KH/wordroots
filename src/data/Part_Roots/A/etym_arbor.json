@@ -1,0 +1,162 @@
+{
+    "root_info": {
+        "roots": "arbor (tree) Arbor Day, arboreal, arboretum",
+        "origin": "Latin, arbor (tree)",
+        "meaning": {
+            "ko": "나무",
+            "en": "tree",
+            "ja": "木",
+            "zh": "树",
+            "fr": "arbre"
+        }
+    },
+    "words": [
+        {
+            "word": "Arbor Day",
+            "part_of_speech": "",
+            "origin": "Latin, arbor (tree)",
+            "meaning": {
+                "ko": "나무",
+                "en": "tree",
+                "ja": "木",
+                "zh": "树",
+                "fr": "arbre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Arbor",
+                    "meaning": {
+                        "ko": "'나무'",
+                        "en": "tree",
+                        "ja": "木",
+                        "zh": "树",
+                        "fr": "arbre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Day",
+                    "meaning": {
+                        "ko": "'날'",
+                        "en": "day"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나무(Arbor)의 날'이라는 뜻으로, 나무 심기를 장려하기 위해 정해진 '식목일'을 의미합니다.",
+                "en": "From Latin 'arbor (tree)'; a day dedicated to planting trees.",
+                "ja": "ラテン語の「arbor（木）の日」から、木を植えることを奨励するために定められた「植樹祭」。",
+                "zh": "源自拉丁语「arbor（树）之日」，为鼓励植树而设立的「植树节」。",
+                "fr": "Du latin 'arbor (arbre)'; une journée dédiée à la plantation d'arbres."
+            },
+            "example": "Many schools celebrate Arbor Day by planting trees on campus.",
+            "translation": {
+                "ko": "많은 학교들이 교정에 나무를 심으며 식목일을 기념한다.",
+                "ja": "生徒たちは植樹祭にナラの苗木を植えた。",
+                "zh": "学生们在植树节种植了橡树幼苗。",
+                "fr": "Les élèves ont planté des plants de chêne le Jour de l'Arbre."
+            }
+        },
+        {
+            "word": "arboreal",
+            "part_of_speech": "",
+            "origin": "Latin, arboreus (pertaining to trees)",
+            "meaning": {
+                "ko": "나무에 관한",
+                "en": "pertaining to trees",
+                "ja": "木に関する",
+                "zh": "与树木有关的",
+                "fr": "relatif aux arbres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arbor",
+                    "meaning": {
+                        "ko": "'나무'",
+                        "en": "tree",
+                        "ja": "木",
+                        "zh": "树",
+                        "fr": "arbre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-eal",
+                    "meaning": {
+                        "ko": "'~에 관련된'",
+                        "en": "related to",
+                        "ja": "~に関連した",
+                        "zh": "与~有关的",
+                        "fr": "relatif à~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나무(arbor)에 관련된'이라는 의미로, 동물 등이 '나무 위에서 사는', '수목성의'라는 뜻으로 사용됩니다.",
+                "en": "Meaning 'related to trees (arbor)'. Used to describe animals, etc. that 'live in trees' or 'tree-dwelling'.",
+                "ja": "木(arbor)に関連したという意味で、動物などが「木の上で生きる」「樹上生活の」という意味で使われます。",
+                "zh": "意思是'与树木(arbor)有关'，用来描述动物等'在树上生活'或'树栖性的'。",
+                "fr": "Signifie 'relatif aux arbres (arbor)'. Utilisé pour décrire les animaux qui 'vivent dans les arbres' ou 'arboricoles'."
+            },
+            "example": "Monkeys are arboreal animals that spend most of their lives in trees.",
+            "translation": {
+                "ko": "원숭이는 대부분의 삶을 나무에서 보내는 수목성 동물이다.",
+                "ja": "サルは一生の大部分を木の上で過ごす樹上生活の動物です。",
+                "zh": "猴子是一生中大部分时间在树上生活的树栖动物。",
+                "fr": "Les singes sont des animaux arboricoles qui passent la plupart de leur vie dans les arbres."
+            }
+        },
+        {
+            "word": "arboretum",
+            "part_of_speech": "",
+            "origin": "Latin, arboretum (a place with trees)",
+            "meaning": {
+                "ko": "나무가 있는 곳",
+                "en": "a place with trees",
+                "ja": "樹木がある場所",
+                "zh": "有树木的地方",
+                "fr": "lieu avec des arbres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arbor",
+                    "meaning": {
+                        "ko": "'나무'",
+                        "en": "tree",
+                        "ja": "樹木",
+                        "zh": "树木",
+                        "fr": "arbre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-etum",
+                    "meaning": {
+                        "ko": "'장소'",
+                        "en": "a place of",
+                        "ja": "場所",
+                        "zh": "地方",
+                        "fr": "lieu de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "식물원 중에서도 특히 '나무(arbor)를 수집하여 심어놓은 장소'라는 의미로 '수목원'을 뜻합니다.",
+                "en": "A place where trees, especially various tree species, are collected and cultivated for botanical study and display",
+                "ja": "植物園の中でも特に樹木を集めて植えた場所の意味で樹木園を指します",
+                "zh": "植物园中特别是'收集并种植树木(arbor)的地方'的意思,指树木园",
+                "fr": "Un lieu où les arbres, en particulier diverses espèces d'arbres, sont rassemblés et cultivés pour l'étude et l'exposition botaniques"
+            },
+            "example": "The arboretum has a vast collection of trees from around the world.",
+            "translation": {
+                "ko": "그 수목원은 전 세계에서 온 방대한 나무 수종을 보유하고 있다.",
+                "ja": "アルボレータム(樹木園)",
+                "zh": "树木园(植物园)",
+                "fr": "arborétum"
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "root_info": {
+        "roots": "dyn, dyna",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "힘",
+            "en": "power",
+            "ja": "力",
+            "zh": "力",
+            "fr": "puissance"
+        }
+    },
+    "words": [
+        {
+            "word": "dynamic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dyn",
+                    "meaning": {
+                        "ko": "힘",
+                        "en": "power",
+                        "ja": "力",
+                        "zh": "力",
+                        "fr": "puissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'힘이 있는', '활력이 넘치는'이라는 의미에서 '역동적인', '활발한'이라는 뜻입니다.",
+                "en": "From the sense of 'having power' or 'full of vitality,' meaning 'characterized by energy and effective action.'",
+                "ja": "「力がある」「活力に満ちている」という意味から、「躍動的な」「活発な」という意味になります。",
+                "zh": "从「有力量」「充满活力」的含义引申为「充满能量和行动力的」「积极的」的意思。",
+                "fr": "Du sens « ayant de la puissance » ou « plein de vitalité », signifiant « caractérisé par l'énergie et l'action efficace »."
+            },
+            "example": "He has a dynamic personality.",
+            "translation": {
+                "ko": "그는 역동적인 성격을 가지고 있다.",
+                "ja": "彼は躍動的な性格を持っている。",
+                "zh": "他性格充满活力。",
+                "fr": "Il a une personnalité dynamique."
+            }
+        },
+        {
+            "word": "dynamometer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dynamo",
+                    "meaning": {
+                        "ko": "힘",
+                        "en": "power",
+                        "ja": "力",
+                        "zh": "力",
+                        "fr": "puissance"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "측정기",
+                        "en": "measuring instrument",
+                        "ja": "測定器",
+                        "zh": "测量仪",
+                        "fr": "appareil de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "엔진 등의 '힘(출력)을 측정하는 기계' 즉, '동력계'를 뜻합니다.",
+                "en": "A machine that measures the power output of an engine or motor.",
+                "ja": "エンジンなどの力(出力)を測定する機械、つまり動力計を意味します。",
+                "zh": "测量引擎等力量(输出功率)的机器，即动力计。",
+                "fr": "Une machine qui mesure la puissance de sortie d'un moteur ou d'une engine."
+            },
+            "example": "They tested the engine on a dynamometer.",
+            "translation": {
+                "ko": "그들은 동력계로 엔진을 시험했다.",
+                "ja": "彼らは動力計でエンジンをテストした。",
+                "zh": "他们用动力计测试了引擎。",
+                "fr": "Ils ont testé le moteur sur un dynamomètre."
+            }
+        },
+        {
+            "word": "dynamite",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dyn",
+                    "meaning": {
+                        "ko": "힘",
+                        "en": "power",
+                        "ja": "力",
+                        "zh": "力",
+                        "fr": "puissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'강력한 힘'을 가진 폭약이라는 의미에서 '다이너마이트'라는 이름이 붙었습니다.",
+                "en": "Named dynamite from the Greek 'dynamis' (power), as it is an explosive with immense force.",
+                "ja": "強大な力を持つ爆薬であることから、ギリシャ語の「dynamis」（力）に由来して「ダイナマイト」と名付けられました。",
+                "zh": "因为它是一种具有巨大威力的炸药，名字来自希腊语「dynamis」（力），被称为「炸药」。",
+                "fr": "Nommé dynamite d'après le grec « dynamis » (puissance), car c'est un explosif d'une force immense."
+            },
+            "example": "They used dynamite to blast the rock.",
+            "translation": {
+                "ko": "그들은 바위를 폭파하기 위해 다이너마이트를 사용했다.",
+                "ja": "彼らは岩を爆破するためにダイナマイトを使用した。",
+                "zh": "他们用炸药炸开岩石。",
+                "fr": "Ils ont utilisé la dynamite pour faire sauter le rocher."
+            }
+        },
+        {
+            "word": "dynasty",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dyn",
+                    "meaning": {
+                        "ko": "힘, 지배",
+                        "en": "power, rule",
+                        "ja": "力、支配",
+                        "zh": "力量、统治",
+                        "fr": "pouvoir, règne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지배자의 힘'이라는 의미에서 한 가문이 다스리는 '왕조'를 뜻합니다.",
+                "en": "From the sense of 'power of rulers,' meaning a royal house that governs for generations.",
+                "ja": "「支配者の力」という意味から、一つの王家が治める「王朝」を指します。",
+                "zh": "从「统治者的力量」之意，指由一个皇族统治多个世代的「王朝」。",
+                "fr": "Du sens de « pouvoir des dirigeants », désignant une maison royale qui gouverne sur plusieurs générations."
+            },
+            "example": "The Ming dynasty ruled China for centuries.",
+            "translation": {
+                "ko": "명 왕조는 수 세기 동안 중국을 통치했다.",
+                "ja": "明王朝は数世紀にわたって中国を統治した。",
+                "zh": "明王朝统治中国数个世纪。",
+                "fr": "La dynastie Ming a gouverné la Chine pendant des siècles."
+            }
+        }
+    ]
+}

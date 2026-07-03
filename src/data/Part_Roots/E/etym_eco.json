@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "eco(s) (house) ecology, economy, ecosystem",
+        "origin": "Greek, oikos (house, dwelling)",
+        "meaning": {
+            "ko": "집",
+            "en": "house",
+            "ja": "家",
+            "zh": "家",
+            "fr": "maison"
+        }
+    },
+    "words": [
+        {
+            "word": "ecology",
+            "part_of_speech": "",
+            "origin": "Greek, oikos (house) + logos (study)",
+            "meaning": {
+                "ko": "집에 대한 연구",
+                "en": "study of home",
+                "ja": "生物の環境に関する研究",
+                "zh": "生物与环境的研究",
+                "fr": "étude de l'environnement des organismes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eco-",
+                    "meaning": {
+                        "ko": "'집, 환경'",
+                        "en": "house, environment",
+                        "ja": "家、環境",
+                        "zh": "家、环境",
+                        "fr": "maison, environnement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science, étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생물이 사는 집(환경)에 대해 연구하는 학문'이라는 의미에서 '생태학'을 뜻합니다.",
+                "en": "Refers to 'seintaigaku' (ecology), meaning the science that studies the environment in which organisms live.",
+                "ja": "生物が住む家(環境)についての研究という意味で、生態学を指します。",
+                "zh": "指生态学，意为研究生物所生活的家(环境)的学问。",
+                "fr": "Désigne l'écologie, c'est-à-dire la science qui étudie l'environnement dans lequel vivent les organismes."
+            },
+            "example": "Ecology deals with the relations of organisms to one another and to their physical surroundings.",
+            "translation": {
+                "ko": "생태학은 유기체와 다른 유기체 및 물리적 환경과의 관계를 다룬다.",
+                "ja": "生態学",
+                "zh": "生态学",
+                "fr": "écologie"
+            }
+        },
+        {
+            "word": "economy",
+            "part_of_speech": "",
+            "origin": "Greek, oikonomia (household management)",
+            "meaning": {
+                "ko": "집안 관리",
+                "en": "household management",
+                "ja": "家計管理",
+                "zh": "家庭管理",
+                "fr": "gestion du foyer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eco-",
+                    "meaning": {
+                        "ko": "'집'",
+                        "en": "house",
+                        "ja": "家",
+                        "zh": "家",
+                        "fr": "maison"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomy",
+                    "meaning": {
+                        "ko": "'관리, 법칙'",
+                        "en": "management, law",
+                        "ja": "管理、法則",
+                        "zh": "管理、法则",
+                        "fr": "gestion, loi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'집안 살림을 관리하는 것'에서 의미가 확장되어 국가의 '경제' 또는 '절약'을 뜻하게 되었습니다.",
+                "en": "The meaning expanded from 'managing household affairs' to refer to a nation's 'economy' or 'frugality'.",
+                "ja": "家計の管理から意味が拡張され、国の経済または節約を意味するようになりました。",
+                "zh": "含义从管理家务扩展到指国家的经济或节约。",
+                "fr": "Le sens s'est étendu de la gestion des affaires ménagères à l'économie nationale ou à l'épargne."
+            },
+            "example": "The country's economy is growing steadily.",
+            "translation": {
+                "ko": "그 나라의 경제는 꾸준히 성장하고 있다.",
+                "ja": "その国の経済は着実に成長している。",
+                "zh": "该国的经济在稳步增长。",
+                "fr": "L'économie du pays croît régulièrement."
+            }
+        },
+        {
+            "word": "ecosystem",
+            "part_of_speech": "",
+            "origin": "Greek, oikos (house) + English, system",
+            "meaning": {
+                "ko": "집 시스템",
+                "en": "house system",
+                "ja": "生態系",
+                "zh": "生态系统",
+                "fr": "écosystème"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eco-",
+                    "meaning": {
+                        "ko": "'집, 환경'",
+                        "en": "house, environment",
+                        "ja": "家、環境",
+                        "zh": "家、环境",
+                        "fr": "maison, environnement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "system",
+                    "meaning": {
+                        "ko": "'체계'",
+                        "en": "system or organization",
+                        "ja": "体系",
+                        "zh": "体系",
+                        "fr": "système"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 환경과 그 안의 생물들이 이루는 하나의 체계'라는 의미에서 '생태계'를 뜻합니다.",
+                "en": "Refers to 'ecosystem' in the sense of 'a system formed by a specific environment and organisms within it'",
+                "ja": "特定の環境とその中の生物が形成する一つの体系という意味で生態系を指します",
+                "zh": "指特定环境与其中生物构成的一个体系意义上的生态系统",
+                "fr": "Désigne l'écosystème au sens d'un système formé par un environnement spécifique et les organismes qu'il contient"
+            },
+            "example": "A coral reef is a complex ecosystem.",
+            "translation": {
+                "ko": "산호초는 복잡한 생태계이다.",
+                "ja": "サンゴ礁は複雑な生態系です",
+                "zh": "珊瑚礁是复杂的生态系统",
+                "fr": "Un récif corallien est un écosystème complexe"
+            }
+        }
+    ]
+}

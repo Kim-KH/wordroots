@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "laryng (throat) laryngitis, laryngoscope, larynx",
+        "origin": "Greek, larynx (the upper part of the windpipe)",
+        "meaning": {
+            "ko": "후두",
+            "en": "larynx",
+            "ja": "喉頭",
+            "zh": "喉头",
+            "fr": "larynx"
+        }
+    },
+    "words": [
+        {
+            "word": "laryngitis",
+            "part_of_speech": "",
+            "origin": "Greek, larynx + -itis (inflammation)",
+            "meaning": {
+                "ko": "후두 염증",
+                "en": "inflammation of the larynx",
+                "ja": "喉頭炎症",
+                "zh": "喉炎",
+                "fr": "laryngite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "laryng-",
+                    "meaning": {
+                        "ko": "'후두'",
+                        "en": "larynx",
+                        "ja": "喉頭",
+                        "zh": "喉头",
+                        "fr": "larynx"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'후두에 염증이 생기는 병'인 '후두염'을 뜻합니다.",
+                "en": "Laryngitis means inflammation of the larynx",
+                "ja": "喉頭に炎症が生じる病気の喉頭炎を意味します",
+                "zh": "指喉头发炎的疾病喉炎",
+                "fr": "Laryngite désigne une inflammation du larynx"
+            },
+            "example": "Laryngitis can cause a sore throat and hoarseness.",
+            "translation": {
+                "ko": "후두염은 인후통과 쉰 목소리를 유발할 수 있다.",
+                "ja": "喉頭炎は喉の痛みと嗄声を引き起こします",
+                "zh": "喉炎会导致喉咙疼痛和声音嘶哑",
+                "fr": "La laryngite peut causer un mal de gorge et de l'enrouement"
+            }
+        },
+        {
+            "word": "laryngoscope",
+            "part_of_speech": "",
+            "origin": "Greek, larynx + skopein (to view)",
+            "meaning": {
+                "ko": "후두를 보는 것",
+                "en": "instrument for viewing the larynx",
+                "ja": "喉頭を見る器具",
+                "zh": "喉头检查仪",
+                "fr": "laryngoscope"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "laryngo-",
+                    "meaning": {
+                        "ko": "'후두'",
+                        "en": "larynx",
+                        "ja": "喉頭",
+                        "zh": "喉头",
+                        "fr": "larynx"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "'보는 기구'",
+                        "en": "instrument for viewing",
+                        "ja": "見る器具",
+                        "zh": "观察工具",
+                        "fr": "instrument d'observation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'후두를 검사하는 의료 기구'인 '후두경'을 뜻합니다.",
+                "en": "A medical device used to examine the larynx",
+                "ja": "喉頭を検査する医療器具",
+                "zh": "用于检查喉头的医疗设备",
+                "fr": "Appareil médical pour examiner le larynx"
+            },
+            "example": "The doctor used a laryngoscope to examine the patient's throat.",
+            "translation": {
+                "ko": "의사는 환자의 목을 검사하기 위해 후두경을 사용했다.",
+                "ja": "医者は患者の喉を検査するために喉頭鏡を使用しました。",
+                "zh": "医生用喉头镜检查了患者的喉咙。",
+                "fr": "Le médecin a utilisé un laryngoscope pour examiner la gorge du patient."
+            }
+        },
+        {
+            "word": "larynx",
+            "part_of_speech": "",
+            "origin": "Greek, larynx",
+            "meaning": {
+                "ko": "후두",
+                "en": "voice box",
+                "ja": "喉頭",
+                "zh": "喉头",
+                "fr": "larynx"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "laryng-",
+                    "meaning": {
+                        "ko": "'후두'",
+                        "en": "larynx",
+                        "ja": "喉頭",
+                        "zh": "喉头",
+                        "fr": "larynx"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "목의 기도 윗부분에 위치한 발성 기관인 '후두'를 뜻합니다.",
+                "en": "The larynx is a vocal organ located in the upper part of the airway of the neck.",
+                "ja": "首の気道上部に位置する発声器官である喉頭を意味します。",
+                "zh": "位于颈部气道上部的发声器官喉头。",
+                "fr": "Organe vocal situé dans la partie supérieure des voies respiratoires du cou."
+            },
+            "example": "The larynx is also known as the voice box.",
+            "translation": {
+                "ko": "후두는 성대 상자로도 알려져 있다.",
+                "ja": "喉頭は音声ボックスとしても知られています。",
+                "zh": "喉头也被称为音声盒。",
+                "fr": "Le larynx est aussi connu sous le nom de boîte vocale."
+            }
+        }
+    ]
+}

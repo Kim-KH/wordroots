@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "vestig (trace) investigate, vestige, vestigial",
+        "origin": "Latin, vestigium (a footprint, a trace)",
+        "meaning": {
+            "ko": "발자국, 흔적",
+            "en": "a footprint, a trace",
+            "ja": "足跡、痕跡",
+            "zh": "足迹、痕迹",
+            "fr": "une empreinte, une trace"
+        }
+    },
+    "words": [
+        {
+            "word": "investigate",
+            "part_of_speech": "",
+            "origin": "Latin, investigare (to track, to trace out)",
+            "meaning": {
+                "ko": "추적하다",
+                "en": "to trace",
+                "ja": "調査する",
+                "zh": "调查",
+                "fr": "enquêter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in, into",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dedans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vestig-",
+                    "meaning": {
+                        "ko": "'흔적'",
+                        "en": "trace",
+                        "ja": "痕跡",
+                        "zh": "痕迹",
+                        "fr": "trace"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'흔적을 따라 안으로 들어가다'는 의미에서 '조사하다', '수사하다'는 뜻입니다.",
+                "en": "Literally 'to go into following traces' - means to investigate or examine",
+                "ja": "文字通りに『痕跡をたどって中へ入る』という意味から、『調査する』『捜査する』という意味です",
+                "zh": "字面意思是'跟随痕迹向内进入'——意为调查、审查",
+                "fr": "Littéralement 'entrer dedans en suivant des traces' - signifie enquêter ou examiner"
+            },
+            "example": "The police are investigating the crime.",
+            "translation": {
+                "ko": "경찰은 그 범죄를 수사하고 있다.",
+                "ja": "警察はその犯罪を調査している。",
+                "zh": "警察在调查这起犯罪。",
+                "fr": "La police enquête sur le crime."
+            }
+        },
+        {
+            "word": "vestige",
+            "part_of_speech": "",
+            "origin": "Latin, vestigium (a trace)",
+            "meaning": {
+                "ko": "흔적",
+                "en": "trace or sign of something past",
+                "ja": "痕跡",
+                "zh": "痕迹",
+                "fr": "vestige"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vestig-",
+                    "meaning": {
+                        "ko": "'흔적'",
+                        "en": "trace",
+                        "ja": "痕跡",
+                        "zh": "痕迹",
+                        "fr": "trace"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과거에 존재했던 것의 남아있는' '자취', '흔적'을 뜻합니다.",
+                "en": "Remaining trace or mark of something that existed in the past",
+                "ja": "過去に存在したものの残された痕跡",
+                "zh": "过去存在的事物遗留下来的痕迹",
+                "fr": "Trace restante de quelque chose qui existait autrefois"
+            },
+            "example": "The building shows no vestige of its former glory.",
+            "translation": {
+                "ko": "그 건물은 이전의 영광의 흔적을 전혀 보여주지 않는다.",
+                "ja": "その建物は以前の栄光の痕跡を全く示していない。",
+                "zh": "那栋建筑没有显示出它曾经的荣耀的任何痕迹。",
+                "fr": "Le bâtiment ne montre aucune trace de sa gloire passée."
+            }
+        },
+        {
+            "word": "vestigial",
+            "part_of_speech": "",
+            "origin": "Latin, vestigium (a trace)",
+            "meaning": {
+                "ko": "흔적",
+                "en": "trace or remnant",
+                "ja": "痕跡的な",
+                "zh": "残迹的",
+                "fr": "vestigial"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vestig-",
+                    "meaning": {
+                        "ko": "'흔적'",
+                        "en": "trace",
+                        "ja": "痕跡",
+                        "zh": "痕迹",
+                        "fr": "trace"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과거에는 기능했으나 지금은 흔적만 남은'이라는 의미에서 '흔적 기관의'라는 뜻입니다.",
+                "en": "Meaning a remnant organ that was functional in the past but now only leaves traces",
+                "ja": "過去には機能していたが、現在は痕跡だけが残っているという意味で、残存器官の",
+                "zh": "过去发挥功能，现在仅留下痕迹的器官意义上，残留器官的",
+                "fr": "Signifiant un organe fonctionnel par le passé mais ne laissant que des traces aujourd'hui"
+            },
+            "example": "The appendix is a vestigial organ.",
+            "translation": {
+                "ko": "충수는 흔적 기관이다.",
+                "ja": "虫垂は痕跡器官である。",
+                "zh": "阑尾是残迹器官。",
+                "fr": "L'appendice est un organe vestigial."
+            }
+        }
+    ]
+}

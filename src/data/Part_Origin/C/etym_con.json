@@ -1,0 +1,351 @@
+{
+    "root_info": {
+        "roots": "con, com",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "함께",
+            "en": "with, together",
+            "ja": "一緒に、共に",
+            "zh": "一起、共同",
+            "fr": "avec, ensemble"
+        }
+    },
+    "words": [
+        {
+            "word": "convene",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vene",
+                    "meaning": {
+                        "ko": "오다",
+                        "en": "to come",
+                        "ja": "来る",
+                        "zh": "来",
+                        "fr": "venir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 오다'는 의미에서, 회의 등을 위해 '모이다', '소집하다'는 뜻입니다.",
+                "en": "From 'come together': to gather or summon for a meeting",
+                "ja": "「一緒に来る」の意味から、会議などのために「集まる」「召集する」という意味です。",
+                "zh": "从「一起来」的意思出发，表示为了会议等「聚集」「召集」的意思。",
+                "fr": "Du sens de « venir ensemble » : se rassembler ou convoquer pour une réunion."
+            },
+            "example": "The committee will convene next week.",
+            "translation": {
+                "ko": "위원회는 다음 주에 소집될 것이다.",
+                "ja": "委員会は来週招集される予定です。",
+                "zh": "委员会将在下周召集。",
+                "fr": "Le comité se réunira la semaine prochaine."
+            }
+        },
+        {
+            "word": "compress",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "press",
+                    "meaning": {
+                        "ko": "누르다",
+                        "en": "to press",
+                        "ja": "押す",
+                        "zh": "按压",
+                        "fr": "presser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 누르다'는 의미에서 '압축하다', '요약하다'는 뜻입니다.",
+                "en": "'Together' + 'press' gives the meaning of 'compress' or 'condense'",
+                "ja": "「一緒に押す」という意味から「圧縮する」「要約する」という意味になります",
+                "zh": "\"一起按压\"的意思引申为\"压缩\"、\"浓缩\"的含义",
+                "fr": "Du sens \"presser ensemble\" découle le sens de \"compresser\" ou \"résumer\""
+            },
+            "example": "You need to compress the file.",
+            "translation": {
+                "ko": "당신은 그 파일을 압축해야 한다.",
+                "ja": "そのファイルを圧縮する必要があります。",
+                "zh": "你需要压缩这个文件。",
+                "fr": "Vous devez compresser le fichier."
+            }
+        },
+        {
+            "word": "contemporary",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tempor",
+                    "meaning": {
+                        "ko": "시간",
+                        "en": "time",
+                        "ja": "時間",
+                        "zh": "时间",
+                        "fr": "temps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'같은 시간을 함께 보내는'이라는 의미에서 '동시대의', '현대의'라는 뜻입니다.",
+                "en": "From the idea of 'sharing the same time period,' meaning 'of the same era' or 'modern.'",
+                "ja": "「同じ時間を一緒に過ごす」という意味から、「同時代の」「現代の」という意味になりました。",
+                "zh": "从「一起度过同样时间」的含义引申为「同时代的」、「当代的」之意。",
+                "fr": "Du sens de « partager la même période de temps », signifiant « de la même époque » ou « moderne »."
+            },
+            "example": "He is a contemporary artist.",
+            "translation": {
+                "ko": "그는 현대 미술가이다.",
+                "ja": "彼は現代美術家です。",
+                "zh": "他是当代艺术家。",
+                "fr": "C'est un artiste contemporain."
+            }
+        },
+        {
+            "word": "converge",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verge",
+                    "meaning": {
+                        "ko": "기울다",
+                        "en": "to lean",
+                        "ja": "傾く",
+                        "zh": "倾斜",
+                        "fr": "pencher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 점을 향해 함께 기울다'는 의미에서 '모여들다', '수렴하다'는 뜻입니다.",
+                "en": "Means to come together or converge from the sense of 'inclining together toward one point'",
+                "ja": "「一つの点に向かって一緒に傾く」という意味から、「集まる」「収束する」という意味になります",
+                "zh": "从「一起向一个点倾斜」的意思引申出「聚集」「收敛」的含义",
+                "fr": "Du sens de 's'incliner ensemble vers un point' dérive le sens de 'se rassembler' ou 'converger'"
+            },
+            "example": "The two roads converge here.",
+            "translation": {
+                "ko": "그 두 길은 여기서 합쳐진다.",
+                "ja": "その二つの道はここで合流する。",
+                "zh": "这两条路在这里汇合。",
+                "fr": "Les deux routes convergent ici."
+            }
+        },
+        {
+            "word": "compact",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pact",
+                    "meaning": {
+                        "ko": "고정시키다",
+                        "en": "to fix or secure",
+                        "ja": "固める",
+                        "zh": "固定",
+                        "fr": "fixer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 단단히 고정시킨'이라는 의미에서 '조밀한', '소형의'라는 뜻입니다.",
+                "en": "From the sense of 'firmly fixed together,' it came to mean 'dense' or 'small in size.'",
+                "ja": "「一緒に固く固めた」という意味から、「密集した」「小型の」という意味になりました。",
+                "zh": "从「紧密固定在一起」的含义演变为「密集的」或「小型的」意思。",
+                "fr": "Du sens de « fixé fermement ensemble », il en est venu à signifier « dense » ou « petit. »"
+            },
+            "example": "This is a compact camera.",
+            "translation": {
+                "ko": "이것은 소형 카메라이다.",
+                "ja": "これはコンパクトカメラです。",
+                "zh": "这是一台小型相机。",
+                "fr": "C'est un appareil photo compact."
+            }
+        },
+        {
+            "word": "confluence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flu",
+                    "meaning": {
+                        "ko": "흐르다",
+                        "en": "to flow",
+                        "ja": "流れる",
+                        "zh": "流动",
+                        "fr": "couler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "두 개 이상의 강물이 '함께 흘러 합쳐지는 지점' 즉 '합류점'을 의미합니다.",
+                "en": "The point where two or more rivers flow together and merge, meaning a junction point.",
+                "ja": "2つ以上の川が『一緒に流れて合わさる地点』つまり『合流点』を意味します。",
+                "zh": "指两条或多条河流'一起流动并汇合的地点'，即'汇流点'的意思。",
+                "fr": "Le point où deux rivières ou plus coulent ensemble et se rejoignent, c'est-à-dire un point de jonction."
+            },
+            "example": "The city is located at the confluence of two rivers.",
+            "translation": {
+                "ko": "그 도시는 두 강의 합류 지점에 위치해 있다.",
+                "ja": "合流",
+                "zh": "汇合",
+                "fr": "confluence"
+            }
+        },
+        {
+            "word": "conjoin",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "join",
+                    "meaning": {
+                        "ko": "연결하다",
+                        "en": "to connect",
+                        "ja": "つなぐ",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 연결하다'는 의미로, '결합하다', '연합하다'는 뜻의 격식 있는 표현입니다.",
+                "en": "A formal expression meaning 'to connect together', with the sense of 'combine' or 'unite'",
+                "ja": "「一緒につなぐ」という意味で、「結合する」「連合する」という格式高い表現です",
+                "zh": "意为'一起连接'，具有'结合'或'联合'的含义，是一个正式的表达方式",
+                "fr": "Une expression formelle signifiant 'connecter ensemble', avec le sens de 'combiner' ou 'unir'"
+            },
+            "example": "The two stories were conjoined into one.",
+            "translation": {
+                "ko": "그 두 이야기는 하나로 결합되었다.",
+                "ja": "二つの物語は一つに結合された",
+                "zh": "两个故事被合并成了一个",
+                "fr": "Les deux histoires ont été jointes en une seule"
+            }
+        },
+        {
+            "word": "combine",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bine",
+                    "meaning": {
+                        "ko": "둘",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'둘을 함께 하다'는 의미에서 '결합하다', '병행하다'는 뜻입니다.",
+                "en": "From the sense of 'doing two things together'; means to join or unite",
+                "ja": "「二つを一緒にする」という意味から、「結合する」「統合する」という意味です",
+                "zh": "源自「把两个合在一起」的含义，表示「结合」「联合」",
+                "fr": "Du sens de 'faire deux choses ensemble'; signifie joindre ou unir"
+            },
+            "example": "We need to combine our efforts.",
+            "translation": {
+                "ko": "우리는 힘을 합쳐야 한다.",
+                "ja": "私たちは努力を結合する必要があります。",
+                "zh": "我们需要联合我们的努力。",
+                "fr": "Nous devons combiner nos efforts."
+            }
+        }
+    ]
+}

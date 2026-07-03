@@ -1,0 +1,298 @@
+{
+    "root_info": {
+        "roots": "inter, intro",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "사이에",
+            "en": "between",
+            "ja": "間に",
+            "zh": "之间",
+            "fr": "entre"
+        }
+    },
+    "words": [
+        {
+            "word": "international",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "national",
+                    "meaning": {
+                        "ko": "국가의",
+                        "en": "of a nation",
+                        "ja": "国家の",
+                        "zh": "国家的",
+                        "fr": "national"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'국가들 사이의'라는 의미에서 '국제적인'이라는 뜻입니다.",
+                "en": "Meaning 'between nations' or 'among countries'",
+                "ja": "「国家間の」という意味から「国際的な」という意味です",
+                "zh": "从「国家之间的」衍生出「国际的」之意",
+                "fr": "Signifie 'entre nations' ou 'international'"
+            },
+            "example": "This is an international airport.",
+            "translation": {
+                "ko": "이곳은 국제공항이다.",
+                "ja": "ここは国際空港です。",
+                "zh": "这是一个国际机场。",
+                "fr": "C'est un aéroport international."
+            }
+        },
+        {
+            "word": "intercept",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cept",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to seize",
+                        "ja": "捕まえる",
+                        "zh": "抓住",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'중간에 들어가 잡다'는 의미에서 공이나 통신 등을 '가로채다'는 뜻입니다.",
+                "en": "From the sense of 'catching something in the middle,' used to mean intercepting balls, communications, etc.",
+                "ja": "「中間に入って捕まえる」という意味から、ボールや通信などを「横取りする」という意味になります。",
+                "zh": "从\"在中间抓住\"的意思演变而来，表示\"截获\"球、信息等的含义。",
+                "fr": "Du sens de « saisir quelque chose au milieu », utilisé pour signifier intercepter des balles, des communications, etc."
+            },
+            "example": "The spy intercepted the message.",
+            "translation": {
+                "ko": "그 스파이는 메시지를 가로챘다.",
+                "ja": "そのスパイはメッセージを傍受した。",
+                "zh": "那个间谍截获了消息。",
+                "fr": "L'espion a intercepté le message."
+            }
+        },
+        {
+            "word": "intermission",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mission",
+                    "meaning": {
+                        "ko": "보내는 것",
+                        "en": "sending or transmitting",
+                        "ja": "送る事",
+                        "zh": "打发的时间",
+                        "fr": "temps passé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "연극이나 공연의 막 '사이에 보내는 시간'이라는 의미에서 '중간 휴식 시간'을 뜻합니다.",
+                "en": "From the meaning 'time spent between acts of a play or performance,' referring to a break in the middle.",
+                "ja": "演劇や公演の幕『間に過ごす時間』という意味から『中間休憩時間』を指します。",
+                "zh": "从戏剧或演出的幕间『之间打发的时间』的含义引申为『中途休息时间』。",
+                "fr": "Du sens de 'temps passé entre les actes d'une pièce de théâtre ou d'un spectacle', désignant une pause au milieu."
+            },
+            "example": "We bought popcorn during the intermission.",
+            "translation": {
+                "ko": "우리는 중간 휴식 시간에 팝콘을 샀다.",
+                "ja": "私たちは中間休憩の時間にポップコーンを買った。",
+                "zh": "我们在中间休息时间买了爆米花。",
+                "fr": "Nous avons acheté du pop-corn pendant l'entracte."
+            }
+        },
+        {
+            "word": "internal",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter- (intra-)",
+                    "meaning": {
+                        "ko": "안",
+                        "en": "within",
+                        "ja": "内部の",
+                        "zh": "内部的",
+                        "fr": "à l'intérieur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안쪽의', '내부의'라는 뜻입니다. inter와 형태는 같지만, '안'을 뜻하는 intra와 의미가 더 가깝습니다.",
+                "en": "Means 'inner' or 'within.' Though similar in form to inter-, it is closer in meaning to intra-, which also means 'inside.'",
+                "ja": "'内側の'、'内部の'という意味です。interと形態は同じですが、'中'を意味するintraと意味がより近いです。",
+                "zh": "意为'内侧的'、'内部的'。虽然形式与inter-相同，但语义更接近表示'内部'的intra-。",
+                "fr": "Signifie 'intérieur' ou 'dedans'. Bien que similaire en forme à inter-, il est plus proche en sens du préfixe intra- qui signifie aussi 'à l'intérieur'."
+            },
+            "example": "The doctor checked for internal injuries.",
+            "translation": {
+                "ko": "의사는 내부 부상이 있는지 확인했다.",
+                "ja": "医者は内部損傷がないか調べた。",
+                "zh": "医生检查了内部伤害。",
+                "fr": "Le médecin a examiné les blessures internes."
+            }
+        },
+        {
+            "word": "intermittent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mittent",
+                    "meaning": {
+                        "ko": "보내는",
+                        "en": "sending",
+                        "ja": "送る",
+                        "zh": "传送",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사이에 쉼을 두면서 보내는'이라는 의미에서 '간헐적인', '때때로 중단되는'이라는 뜻입니다.",
+                "en": "From the sense of 'sending with pauses in between,' meaning 'occurring at intervals' or 'periodically stopping.'",
+                "ja": "「間に休みを挟みながら送る」という意味から、「間欠的な」「時々中断される」という意味になります。",
+                "zh": "从「在中间插入休息而进行」的意思，衍生出「间断性的」「时断时续的」的含义。",
+                "fr": "Du sens de « envoyer avec des pauses entre », signifiant « se produisant par intervalles » ou « s'arrêtant périodiquement »."
+            },
+            "example": "We had intermittent rain all day.",
+            "translation": {
+                "ko": "우리는 하루 종일 간헐적으로 비를 맞았다.",
+                "ja": "私たちは一日中間欠的な雨に見舞われた。",
+                "zh": "我们整天都在下断断续续的雨。",
+                "fr": "Nous avons eu de la pluie intermittente toute la journée."
+            }
+        },
+        {
+            "word": "introvert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intro-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "inward",
+                        "ja": "内側へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "向ける",
+                        "zh": "转向",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "관심과 에너지를 '안으로 돌리는' 사람이라는 의미에서 '내성적인 사람'을 뜻합니다.",
+                "en": "From Latin 'intro-' (inward) + 'vertere' (to turn). Describes a person who directs their interest and energy inward rather than outward.",
+                "ja": "関心とエネルギーを『内側に向ける』人という意味から、内向的な人を指します。",
+                "zh": "源自拉丁文，意为将兴趣和精力『向内转向』的人，即内向的人。",
+                "fr": "Du latin 'intro-' (vers l'intérieur) + 'vertere' (tourner). Décrit une personne qui dirige son intérêt et son énergie vers l'intérieur plutôt que vers l'extérieur."
+            },
+            "example": "He is a quiet introvert.",
+            "translation": {
+                "ko": "그는 조용한 내성적인 사람이다.",
+                "ja": "彼は静かな内向的な人です。",
+                "zh": "他是一个安静的内向的人。",
+                "fr": "Il est une personne introverti et tranquille."
+            }
+        },
+        {
+            "word": "introduce",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intro-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "inward",
+                        "ja": "内側へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duce",
+                    "meaning": {
+                        "ko": "이끌다",
+                        "en": "to lead",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 이끌어 들이다'는 의미에서 사람을 '소개하다', 새로운 것을 '도입하다'는 뜻입니다.",
+                "en": "From 'lead inward': to present a person or bring in something new",
+                "ja": "「内側に導く」という意味から、人を「紹介する」、新しいものを「導入する」という意味になります。",
+                "zh": "从「向内引导」的含义衍生，表示「介绍某人」或「引入新事物」。",
+                "fr": "Du sens « conduire vers l'intérieur » : présenter une personne ou introduire quelque chose de nouveau."
+            },
+            "example": "Let me introduce my friend.",
+            "translation": {
+                "ko": "제 친구를 소개할게요.",
+                "ja": "私の友人を紹介させてください。",
+                "zh": "让我介绍一下我的朋友。",
+                "fr": "Permettez-moi de vous présenter mon ami."
+            }
+        }
+    ]
+}

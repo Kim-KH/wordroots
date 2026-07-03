@@ -1,0 +1,329 @@
+{
+    "root_info": {
+        "roots": "volv, volt, vol: roll, turn",
+        "origin": "Latin, volvere",
+        "meaning": {
+            "ko": "구르다, 돌다",
+            "en": "to roll, to turn",
+            "ja": "転がる、回る",
+            "zh": "滚动、转动",
+            "fr": "rouler, tourner"
+        }
+    },
+    "words": [
+        {
+            "word": "voluble",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "volu (volvere)",
+                    "meaning": {
+                        "ko": "구르다",
+                        "en": "to roll",
+                        "ja": "転がる",
+                        "zh": "滚动",
+                        "fr": "rouler"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ble",
+                    "meaning": {
+                        "ko": "~하기 쉬운",
+                        "en": "easy to do",
+                        "ja": "~しやすい",
+                        "zh": "容易~",
+                        "fr": "facile à~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "말이 '쉽게 굴러 나오는'이라는 의미에서, '유창한', '달변의'라는 뜻입니다.",
+                "en": "From the sense of words 'rolling out easily,' meaning fluent or eloquent speech.",
+                "ja": "言葉が『簡単に転がり出る』という意味から、『流暢な』『弁舌の巧みな』という意味になった。",
+                "zh": "从言语'轻易滚出'的含义，引申为'流利的''善辩的'之意。",
+                "fr": "Du sens où les paroles 'sortent roulant facilement', signifiant éloquent ou bavard."
+            },
+            "example": "She is a voluble speaker.",
+            "translation": {
+                "ko": "그녀는 달변가이다.",
+                "ja": "彼女は弁舌の巧みな話者だ。",
+                "zh": "她是一个健谈的演讲者。",
+                "fr": "Elle est une oratrice volubile."
+            }
+        },
+        {
+            "word": "revolve",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "volv",
+                    "meaning": {
+                        "ko": "구르다",
+                        "en": "to roll",
+                        "ja": "転がる",
+                        "zh": "滚动",
+                        "fr": "rouler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'계속해서 돌다'는 의미에서, 축을 중심으로 '회전하다', '공전하다'는 뜻입니다.",
+                "en": "From the sense of 'turning continuously': to rotate around an axis, to orbit",
+                "ja": "「継続的に回転する」という意味から、軸を中心に「回転する」「公転する」という意味です。",
+                "zh": "从\"持续转动\"的意思引申，表示围绕轴心\"旋转\"、\"公转\"的含义。",
+                "fr": "Du sens de 'tourner continuellement': tourner autour d'un axe, orbiter autour de"
+            },
+            "example": "The Earth revolves around the Sun.",
+            "translation": {
+                "ko": "지구는 태양 주위를 공전한다.",
+                "ja": "地球は太陽の周りを公転しています。",
+                "zh": "地球围绕太阳公转。",
+                "fr": "La Terre tourne autour du Soleil."
+            }
+        },
+        {
+            "word": "involve",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "volv",
+                    "meaning": {
+                        "ko": "구르다",
+                        "en": "to roll",
+                        "ja": "転がる",
+                        "zh": "滚动",
+                        "fr": "rouler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 굴러 들어가게 하다'는 의미에서, 어떤 사건이나 활동에 '관련시키다', '포함하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'roll into', it came to mean 'to implicate' or 'to include' in an event or activity.",
+                "ja": "「中へ転がり込ませる」という意味から、ある事件や活動に「関与させる」「含める」という意味になりました。",
+                "zh": "从「向内滚动」的含义引申而来，表示将某人「牵连」或「包含」在某个事件或活动中。",
+                "fr": "Du sens de 'rouler vers l'intérieur', il en est venu à signifier 'impliquer' ou 'inclure' dans un événement ou une activité."
+            },
+            "example": "The accident involved three cars.",
+            "translation": {
+                "ko": "그 사고에는 자동차 세 대가 관련되었다.",
+                "ja": "その事故には3台の車が関わっていました。",
+                "zh": "那起事故涉及三辆车。",
+                "fr": "L'accident impliquait trois voitures."
+            }
+        },
+        {
+            "word": "valve",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "valv (volvere)",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回転する",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'회전하는 문짝'을 의미하는 라틴어 valva에서 유래했으며, 이는 volvere와 관련이 있습니다. 유체의 흐름을 제어하는 '밸브'를 의미합니다.",
+                "en": "From Latin valva meaning 'turning door,' related to volvere. Refers to a device controlling fluid flow.",
+                "ja": "『回転する扉』を意味するラテン語valvaに由来し、volvereと関連しています。流体の流れを制御する装置を指します。",
+                "zh": "源自拉丁语valva，意为'转动的门'，与volvere相关。指控制流体流动的装置。",
+                "fr": "Du latin valva signifiant 'porte tournante', lié à volvere. Désigne un dispositif de contrôle du flux de fluide."
+            },
+            "example": "You need to close the main water valve.",
+            "translation": {
+                "ko": "당신은 주 수도 밸브를 잠가야 한다.",
+                "ja": "メインの水道バルブを閉じる必要があります。",
+                "zh": "你需要关闭主水管阀门。",
+                "fr": "Vous devez fermer la vanne d'eau principale."
+            }
+        },
+        {
+            "word": "devolve",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "아래로",
+                        "en": "down",
+                        "ja": "下へ",
+                        "zh": "向下",
+                        "fr": "vers le bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "volv",
+                    "meaning": {
+                        "ko": "구르다",
+                        "en": "to roll",
+                        "ja": "転がる",
+                        "zh": "滚动",
+                        "fr": "rouler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "책임이나 권력이 '아래로 굴러 내려가다'는 의미에서, 권한 등을 '양도하다', '위임하다'는 뜻입니다.",
+                "en": "From the idea of responsibility or power 'rolling down,' meaning to transfer or delegate authority.",
+                "ja": "責任や権力が「下へ転がり落ちる」という意味から、権限などを「譲渡する」「委任する」という意味になりました。",
+                "zh": "从责任或权力\"向下滚落\"的概念出发，引申为\"转移\"或\"委托\"权力的意思。",
+                "fr": "De l'idée que la responsabilité ou le pouvoir \"roule vers le bas\", signifiant transférer ou déléguer l'autorité."
+            },
+            "example": "The responsibilities will devolve upon the new manager.",
+            "translation": {
+                "ko": "그 책임들은 새 관리자에게 위임될 것이다.",
+                "ja": "その責任は新しい管理者に委任されるだろう。",
+                "zh": "这些责任将委托给新经理。",
+                "fr": "Les responsabilités seront dévolues au nouveau directeur."
+            }
+        },
+        {
+            "word": "convolution",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "volut",
+                    "meaning": {
+                        "ko": "구르다",
+                        "en": "to roll",
+                        "ja": "転がる",
+                        "zh": "滚动",
+                        "fr": "rouler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 여러 번 감겨 있는' 상태라는 의미에서, '나선', '회선' 또는 이야기의 '복잡함'을 뜻합니다.",
+                "en": "From the sense of 'wound together repeatedly': a coil, spiral turn, or complexity in a narrative.",
+                "ja": "「一緒に何度も巻きつく」という意味から、らせん、巻き、または物語の複雑さを指します。",
+                "zh": "从「一起反复缠绕」的含义引申，指线圈、螺旋转或故事情节的复杂性。",
+                "fr": "Du sens de « enroulé ensemble à plusieurs reprises » : une spire, une bobine, ou la complexité d'un récit."
+            },
+            "example": "The plot of the novel has many convolutions.",
+            "translation": {
+                "ko": "그 소설의 줄거리는 많은 복잡한 부분들이 있다.",
+                "ja": "その小説の筋立てには多くの複雑な部分がある。",
+                "zh": "这部小说的情节有许多复杂的转折。",
+                "fr": "L'intrigue du roman comporte de nombreuses complications."
+            }
+        },
+        {
+            "word": "volume",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "volum (volvere)",
+                    "meaning": {
+                        "ko": "구르다",
+                        "en": "to roll",
+                        "ja": "巻く",
+                        "zh": "卷",
+                        "fr": "rouler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "옛날 책 형태인 '두루마리'를 의미하는 라틴어 volumen에서 유래했습니다. 여기서 책의 '권', '양', 공간의 '부피', 소리의 '음량' 등 다양한 뜻으로 확장되었습니다.",
+                "en": "Derived from Latin volumen, meaning ancient scroll-form books. Later expanded to various meanings: book 'volume', 'quantity', spatial 'bulk', and sound 'loudness'.",
+                "ja": "古代の巻物形式の本を意味するラテン語のvolumenに由来します。そこから書籍の『巻』『量』、空間の『体積』、音の『音量』など様々な意味に拡張されました。",
+                "zh": "源自拉丁语volumen，意为古代卷轴形式的书籍。后来扩展为多种含义：书籍的'卷数''数量'、空间的'体积'、声音的'音量'等。",
+                "fr": "Dérivé du latin volumen, signifiant les anciens livres en forme de rouleau. S'est étendu à divers sens: 'tome' ou 'numéro' de livre, 'quantité', 'volume' spatial et 'intensité' sonore."
+            },
+            "example": "Please turn down the volume.",
+            "translation": {
+                "ko": "볼륨 좀 줄여주세요.",
+                "ja": "音量を下げてください。",
+                "zh": "请把音量调小。",
+                "fr": "Baissez le volume, s'il vous plaît."
+            }
+        },
+        {
+            "word": "revolt",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "반대로",
+                        "en": "against",
+                        "ja": "に対して",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "volt",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回転する",
+                        "zh": "转身",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "권력에 '반대 방향으로 돌아서다'는 의미에서, '반란을 일으키다', '반란'을 뜻합니다.",
+                "en": "From the meaning 'to turn away in the opposite direction from power', it means 'to raise a rebellion' or 'rebellion'.",
+                "ja": "権力に対して『反対方向に身を翻す』という意味から、『反乱を起こす』、『反乱』を意味します。",
+                "zh": "从'背离权力，转身反向'的含义出发，表示'发动反乱'或'反乱'。",
+                "fr": "Du sens 'se tourner dans la direction opposée au pouvoir', cela signifie 'se rebeller' ou 'révolte'."
+            },
+            "example": "The people revolted against the dictator.",
+            "translation": {
+                "ko": "국민들은 독재자에 대항하여 반란을 일으켰다.",
+                "ja": "人々は独裁者に反乱を起こした。",
+                "zh": "人民反抗独裁者。",
+                "fr": "Le peuple s'est révolté contre le dictateur."
+            }
+        }
+    ]
+}

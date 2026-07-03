@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "cephal(o) (head) cephalic, cephalopod, hydrocephalus",
+        "origin": "Greek, kephalē (head)",
+        "meaning": {
+            "ko": "머리",
+            "en": "head",
+            "ja": "頭",
+            "zh": "头",
+            "fr": "tête"
+        }
+    },
+    "words": [
+        {
+            "word": "cephalic",
+            "part_of_speech": "",
+            "origin": "Greek, kephalikos (of the head)",
+            "meaning": {
+                "ko": "머리의",
+                "en": "of the head",
+                "ja": "頭部の",
+                "zh": "头部的",
+                "fr": "de la tête"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cephal (kephalē)",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头",
+                        "fr": "tête"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~의, ~에 관련된'",
+                        "en": "relating to or pertaining to",
+                        "ja": "~の、~に関連した",
+                        "zh": "~的、~相关的",
+                        "fr": "~de, ~relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리(cephal)에 관련된'이라는 뜻으로 '두부의', '머리 쪽의'를 의미하는 해부학 용어입니다.",
+                "en": "An anatomical term meaning 'related to the head', referring to the head region or upper part of the body.",
+                "ja": "頭部に関連するという意味の解剖学用語で、頭部領域または体の上部を指します。",
+                "zh": "解剖学术语，意为'与头部相关'，指头部区域或身体上部。",
+                "fr": "Terme anatomique signifiant 'relatif à la tête', faisant référence à la région céphalique ou à la partie supérieure du corps."
+            },
+            "example": "The cephalic presentation is the most common position for childbirth.",
+            "translation": {
+                "ko": "두위 분만은 가장 일반적인 분만 자세이다.",
+                "ja": "頭部の位置が最も一般的な分娩時の胎児の向きです。",
+                "zh": "头位是分娩时最常见的胎儿位置。",
+                "fr": "La présentation céphalique est la position la plus courante du fœtus lors de l'accouchement."
+            }
+        },
+        {
+            "word": "cephalopod",
+            "part_of_speech": "",
+            "origin": "Greek, kephalē (head) + podos (foot)",
+            "meaning": {
+                "ko": "머리-발",
+                "en": "head-foot",
+                "ja": "頭足類",
+                "zh": "头足类",
+                "fr": "céphalopode"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cephalo (kephalē)",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头",
+                        "fr": "tête"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod",
+                    "meaning": {
+                        "ko": "'발, 다리'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "足",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리(cephalo)에 발(pod)이 달린 동물'이라는 의미로, 오징어, 문어, 낙지 등이 포함되는 '두족류'를 가리킵니다.",
+                "en": "Refers to animals with feet attached to the head, including squid, octopus, and cuttlefish.",
+                "ja": "頭に足が付いた動物を指し、イカ、タコ、コウイカなどが含まれます。",
+                "zh": "指头部长有足的动物，包括乌贼、章鱼和墨鱼等。",
+                "fr": "Désigne les animaux ayant des pieds attachés à la tête, incluant les calmars, les pieuvres et les seiches."
+            },
+            "example": "The giant squid is the largest cephalopod.",
+            "translation": {
+                "ko": "대왕오징어는 가장 큰 두족류이다.",
+                "ja": "ダイオウイカは最大の頭足類です。",
+                "zh": "巨型乌贼是最大的头足类。",
+                "fr": "Le calmar géant est le plus grand céphalopode."
+            }
+        },
+        {
+            "word": "hydrocephalus",
+            "part_of_speech": "",
+            "origin": "Greek, hydōr (water) + kephalē (head)",
+            "meaning": {
+                "ko": "물-머리",
+                "en": "water in the head",
+                "ja": "水-頭",
+                "zh": "水-头",
+                "fr": "eau-tête"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hydro (hydōr)",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cephalus (kephalē)",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头",
+                        "fr": "tête"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리(cephalus)에 물(hydro)이 차는' 병적 상태를 의미하며, '뇌수종' 또는 '물뇌증'이라고 합니다.",
+                "en": "Hydrocephalus refers to a pathological condition where fluid accumulates in the head, also called 'cerebrospinal fluid accumulation' or 'water brain disease'.",
+                "ja": "頭部に液体が溜まる病的状態を意味し、脳脊髄液貯留症またはプール脳症とも呼ばれます。",
+                "zh": "指头部积液的病理状态，也称脑脊液积聚症或积水脑病。",
+                "fr": "Fait référence à un état pathologique où le liquide s'accumule dans la tête, aussi appelé 'accumulation de liquide céphalorachidien' ou 'cerveau hydrique'."
+            },
+            "example": "Hydrocephalus can cause increased pressure inside the skull.",
+            "translation": {
+                "ko": "뇌수종은 두개골 내 압력 상승을 유발할 수 있다.",
+                "ja": "頭部水腫症",
+                "zh": "脑积水",
+                "fr": "hydrocéphalie"
+            }
+        }
+    ]
+}

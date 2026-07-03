@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "chrom(o) (color) chromatic, chromosome, chromoplast",
+        "origin": "Greek, khrōma (color, complexion)",
+        "meaning": {
+            "ko": "색깔",
+            "en": "color",
+            "ja": "色",
+            "zh": "颜色",
+            "fr": "couleur"
+        }
+    },
+    "words": [
+        {
+            "word": "chromatic",
+            "part_of_speech": "",
+            "origin": "Greek, khrōmatikos (relating to color)",
+            "meaning": {
+                "ko": "색의",
+                "en": "of color",
+                "ja": "色彩の",
+                "zh": "色彩的",
+                "fr": "chromatique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chromat (khrōma)",
+                    "meaning": {
+                        "ko": "'색'",
+                        "en": "color",
+                        "ja": "色",
+                        "zh": "颜色",
+                        "fr": "couleur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~의, ~에 관련된'",
+                        "en": "of or relating to",
+                        "ja": "~の、~に関連する",
+                        "zh": "~的、~相关的",
+                        "fr": "~de、relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'색채(chromat)의'라는 뜻을 가집니다. 음악에서는 기본 음계에 없는 음들을 포함하는 '반음계의'라는 의미로 사용됩니다.",
+                "en": "In music, chromatic refers to notes outside the standard scale, including semitones. In art and design, it relates to color and its properties.",
+                "ja": "色彩(chromat)に関する意味を持ちます。音楽では基本音階に含まれない音を含む半音階の意味で使われます。",
+                "zh": "具有色彩(chromat)的含义。在音乐中，指包括基本音阶外的音符，即半音阶的意思。",
+                "fr": "Signifie relatif à la couleur (chromat). En musique, il désigne les notes en dehors de l'échelle diatonique, incluant les demi-tons."
+            },
+            "example": "The artist used a wide chromatic range in his painting.",
+            "translation": {
+                "ko": "그 화가는 그의 그림에서 폭넓은 색채 범위를 사용했다.",
+                "ja": "色彩豊かな絵を描くために、その芸術家は広い色彩範囲を使用しました。",
+                "zh": "这位艺术家在绘画中使用了广泛的色彩范围。",
+                "fr": "L'artiste a utilisé une large gamme de couleurs dans sa peinture."
+            }
+        },
+        {
+            "word": "chromosome",
+            "part_of_speech": "",
+            "origin": "Greek, khrōma (color) + sōma (body)",
+            "meaning": {
+                "ko": "색깔 몸체",
+                "en": "colored body",
+                "ja": "色を帯びた体",
+                "zh": "着色体",
+                "fr": "corps coloré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chromo (khrōma)",
+                    "meaning": {
+                        "ko": "'색'",
+                        "en": "color",
+                        "ja": "色",
+                        "zh": "颜色",
+                        "fr": "couleur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "some (sōma)",
+                    "meaning": {
+                        "ko": "'몸, 물체'",
+                        "en": "body",
+                        "ja": "体、物体",
+                        "zh": "身体、物质",
+                        "fr": "corps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포를 염색했을 때 '색(chromo)을 띠는 물체(some)'로 관찰된다고 해서 '염색체'라는 이름이 붙었습니다.",
+                "en": "When cells are stained, the name 'chromosome' comes from the observation of 'colored (chromo) bodies (some)'.",
+                "ja": "細胞を染色した時に、'色(chromo)を帯びる物体(some)'として観察されることから'染色体'という名前が付きました。",
+                "zh": "当细胞被染色时，因为观察到'着色(chromo)的物体(some)'而得名'染色体'。",
+                "fr": "Quand les cellules sont colorées, le nom 'chromosome' provient de l'observation de 'corps (some) colorés (chromo)'."
+            },
+            "example": "Humans have 23 pairs of chromosomes.",
+            "translation": {
+                "ko": "인간은 23쌍의 염색체를 가지고 있다.",
+                "ja": "人間は23対の染色体を持っています。",
+                "zh": "人类有23对染色体。",
+                "fr": "Les humains ont 23 paires de chromosomes."
+            }
+        },
+        {
+            "word": "chromoplast",
+            "part_of_speech": "",
+            "origin": "Greek, khrōma (color) + plastos (formed, molded)",
+            "meaning": {
+                "ko": "색깔 입자",
+                "en": "colored particle",
+                "ja": "色素体",
+                "zh": "色素体",
+                "fr": "chromoplaste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chromo (khrōma)",
+                    "meaning": {
+                        "ko": "'색'",
+                        "en": "color",
+                        "ja": "色",
+                        "zh": "颜色",
+                        "fr": "couleur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plast",
+                    "meaning": {
+                        "ko": "'만들어진 것, 입자'",
+                        "en": "formed thing, particle",
+                        "ja": "作られた粒子",
+                        "zh": "形成的颗粒",
+                        "fr": "particule formée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "식물 세포에서 엽록소 이외의 '색(chromo)을 가진 입자(plast)'라는 의미로, 꽃잎이나 과일의 색을 나타내는 '유색체'를 뜻합니다.",
+                "en": "In plant cells, a particle with color (chromo) other than chlorophyll (plast), meaning a pigmented body that displays colors in flower petals and fruits.",
+                "ja": "植物細胞で葉緑素以外の色(chromo)を持つ粒子(plast)という意味で、花弁や果実の色を表現する有色体を指します。",
+                "zh": "在植物细胞中，除叶绿素外具有颜色的颗粒，指花瓣和果实显示颜色的有色体。",
+                "fr": "Dans les cellules végétales, une particule de couleur autre que la chlorophylle, signifiant un corps pigmenté qui affiche les couleurs des pétales et des fruits."
+            },
+            "example": "Chromoplasts are responsible for the red color of tomatoes.",
+            "translation": {
+                "ko": "유색체는 토마토의 붉은색을 담당한다.",
+                "ja": "トマトの赤い色はクロモプラストによって生じています。",
+                "zh": "番茄的红色是由色素体产生的。",
+                "fr": "La couleur rouge des tomates est produite par les chromoplastes."
+            }
+        }
+    ]
+}

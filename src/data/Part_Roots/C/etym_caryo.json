@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "caryo (nucleus) eukaryote, prokaryote",
+        "origin": "Greek, karyon (nut, kernel)",
+        "meaning": {
+            "ko": "견과, 핵",
+            "en": "nut, kernel",
+            "ja": "ナッツ、核",
+            "zh": "坚果，核",
+            "fr": "noix, noyau"
+        }
+    },
+    "words": [
+        {
+            "word": "eukaryote",
+            "part_of_speech": "",
+            "origin": "Greek, eu- (good, true) + karyon (nut, kernel)",
+            "meaning": {
+                "ko": "진정한 핵",
+                "en": "true nucleus",
+                "ja": "真核",
+                "zh": "真核",
+                "fr": "vrai noyau"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "eu-",
+                    "meaning": {
+                        "ko": "'진정한, 좋은'",
+                        "en": "true, good",
+                        "ja": "真の、良い",
+                        "zh": "真实的，好的",
+                        "fr": "vrai, bon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "karyo (karyon)",
+                    "meaning": {
+                        "ko": "'핵'",
+                        "en": "nucleus, kernel",
+                        "ja": "核",
+                        "zh": "核",
+                        "fr": "noyau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진정한(eu) 핵(karyo)을 가진 세포'라는 의미로 '진핵생물'을 뜻합니다.",
+                "en": "An organism with a true (eu) nucleus (karyo); includes animals, plants, and fungi.",
+                "ja": "「真の(eu)核(karyo)を持つ細胞」から「真核生物」。動物・植物・菌類を含む。",
+                "zh": "意为「有真正(eu)细胞核(karyo)的细胞」，即「真核生物」，包括动物、植物和真菌。",
+                "fr": "Un organisme avec un vrai (eu) noyau (karyo); inclut les animaux, les plantes et les champignons."
+            },
+            "example": "Humans, plants, and fungi are all eukaryotes.",
+            "translation": {
+                "ko": "인간, 식물, 곰팡이는 모두 진핵생물이다.",
+                "ja": "人間の細胞には明確な核があるため、真核生物だ。",
+                "zh": "人类是真核生物，因为我们的细胞有明确的细胞核。",
+                "fr": "Les humains sont des eucaryotes car nos cellules ont un noyau défini."
+            }
+        },
+        {
+            "word": "prokaryote",
+            "part_of_speech": "",
+            "origin": "Greek, pro- (before) + karyon (nut, kernel)",
+            "meaning": {
+                "ko": "핵 이전",
+                "en": "before nucleus",
+                "ja": "核の前",
+                "zh": "核前",
+                "fr": "avant le noyau"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'이전의'",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "karyo (karyon)",
+                    "meaning": {
+                        "ko": "'핵'",
+                        "en": "nucleus, kernel",
+                        "ja": "核",
+                        "zh": "核",
+                        "fr": "noyau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "핵막으로 둘러싸인 핵이 형성되기 '이전(pro) 단계의 세포'라는 의미로 '원핵생물'을 뜻합니다.",
+                "en": "An organism whose cells lack a nucleus enclosed by a membrane; bacteria are prokaryotes.",
+                "ja": "核膜に囲まれた核を持たない細胞から「原核生物」。細菌が代表例。",
+                "zh": "细胞缺乏膜包围细胞核的生物，即「原核生物」，细菌是代表例。",
+                "fr": "Un organisme dont les cellules n'ont pas de noyau entouré d'une membrane; les bactéries sont des procaryotes."
+            },
+            "example": "Bacteria are the best-known group of prokaryotes.",
+            "translation": {
+                "ko": "박테리아는 가장 잘 알려진 원핵생물 그룹이다.",
+                "ja": "細菌は真の核を持たない原核生物だ。",
+                "zh": "细菌是没有真正细胞核的原核生物。",
+                "fr": "Les bactéries sont des procaryotes qui n'ont pas de vrai noyau."
+            }
+        }
+    ]
+}

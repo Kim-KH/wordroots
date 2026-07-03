@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "supin (lying back) supine, supinate, supination",
+        "origin": "Latin, supinus (lying on the back)",
+        "meaning": {
+            "ko": "등을 대고 누운",
+            "en": "lying on the back",
+            "ja": "仰向けに横たわる",
+            "zh": "仰卧",
+            "fr": "allongé sur le dos"
+        }
+    },
+    "words": [
+        {
+            "word": "supine",
+            "part_of_speech": "",
+            "origin": "Latin, supinus (lying on the back)",
+            "meaning": {
+                "ko": "등을 대고 누운",
+                "en": "lying on one's back",
+                "ja": "仰向けに寝ている",
+                "zh": "仰卧的",
+                "fr": "allongé sur le dos"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "supin-",
+                    "meaning": {
+                        "ko": "'등을 대고 누운'",
+                        "en": "lying on one's back",
+                        "ja": "仰向けに寝ている",
+                        "zh": "仰卧的",
+                        "fr": "allongé sur le dos"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'얼굴을 위로 하고 등을 바닥에 대고 누운' 자세를 뜻합니다.",
+                "en": "A position lying on one's back with face upward and back on the ground.",
+                "ja": "顔を上に向け、背中を地面に付けて寝ている姿勢を意味します。",
+                "zh": "指面朝上、背部贴在地面上的卧姿。",
+                "fr": "Position allongée sur le dos, le visage vers le haut et le dos au sol."
+            },
+            "example": "He was lying supine on the floor.",
+            "translation": {
+                "ko": "그는 바닥에 등을 대고 누워 있었다.",
+                "ja": "彼は床に仰向けに寝ていた。",
+                "zh": "他仰卧在地板上。",
+                "fr": "Il était allongé sur le dos sur le sol."
+            }
+        },
+        {
+            "word": "supinate",
+            "part_of_speech": "",
+            "origin": "Latin, supinus (lying on the back)",
+            "meaning": {
+                "ko": "등을 대고 누운",
+                "en": "lying on the back",
+                "ja": "手のひらを上向きにする",
+                "zh": "手掌向上翻转",
+                "fr": "tourner la paume vers le haut"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "supin-",
+                    "meaning": {
+                        "ko": "'위를 향한'",
+                        "en": "facing upward",
+                        "ja": "上向きの",
+                        "zh": "向上的",
+                        "fr": "vers le haut"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "손바닥이나 발바닥이 '위를 향하도록 돌리다'는 의미의 해부학 용어입니다.",
+                "en": "An anatomical term meaning to turn the palm or sole of the foot upward.",
+                "ja": "手のひらや足の裏を上向きに回転させることを意味する解剖学用語です。",
+                "zh": "解剖学术语，表示将手掌或脚底向上翻转。",
+                "fr": "Terme anatomique signifiant tourner la paume ou la plante du pied vers le haut."
+            },
+            "example": "To supinate your hand, you turn your palm upward.",
+            "translation": {
+                "ko": "손을 회외(뒤침)시키려면, 손바닥을 위로 돌려야 한다.",
+                "ja": "手のひらを上に向ける場合、手を上向きに回転させます。",
+                "zh": "要使手掌向上翻转，需要将手向上转动。",
+                "fr": "Pour supiner votre main, vous tournez votre paume vers le haut."
+            }
+        },
+        {
+            "word": "supination",
+            "part_of_speech": "",
+            "origin": "Latin, supinus (lying on the back)",
+            "meaning": {
+                "ko": "등을 대고 누운",
+                "en": "lying on back",
+                "ja": "仰向けに寝ること",
+                "zh": "仰卧",
+                "fr": "supination"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "supin-",
+                    "meaning": {
+                        "ko": "'위를 향한'",
+                        "en": "facing upward",
+                        "ja": "上向きの",
+                        "zh": "向上的",
+                        "fr": "tourné vers le haut"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손바닥이나 발바닥을 위로 돌리는' 동작인 '회외(뒤침)'를 뜻합니다.",
+                "en": "Supination is the opposite of pronation.",
+                "ja": "手のひらや足の裏を上向きに回す動作を意味します",
+                "zh": "指手掌或脚底向上转动的动作",
+                "fr": "L'action de tourner la paume ou la plante du pied vers le haut"
+            },
+            "example": "Supination is the opposite of pronation.",
+            "translation": {
+                "ko": "회외는 회내(엎침)의 반대이다.",
+                "ja": "仰向けの動作は回内の反対です",
+                "zh": "仰卧是内旋的相反",
+                "fr": "La supination est l'opposé de la pronation"
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ortho (straight) orthodontic, orthodox, orthopedic, orthoscopic",
+        "origin": "Greek, orthos (straight, right, correct)",
+        "meaning": {
+            "ko": "곧은",
+            "en": "straight",
+            "ja": "真っ直ぐ",
+            "zh": "笔直",
+            "fr": "droit"
+        }
+    },
+    "words": [
+        {
+            "word": "orthodontic",
+            "part_of_speech": "",
+            "origin": "Greek, orthos (straight) + odon (tooth)",
+            "meaning": {
+                "ko": "곧은 이빨",
+                "en": "straight teeth",
+                "ja": "歯列矯正の",
+                "zh": "正畸的",
+                "fr": "orthodontique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ortho-",
+                    "meaning": {
+                        "ko": "'곧은, 바른'",
+                        "en": "straight",
+                        "ja": "まっすぐな、正しい",
+                        "zh": "笔直的、正确的",
+                        "fr": "droit, correct"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dont-",
+                    "meaning": {
+                        "ko": "'이빨'",
+                        "en": "tooth",
+                        "ja": "歯",
+                        "zh": "牙齿",
+                        "fr": "dent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'치아를 바르게 만드는' 것과 관련된 분야라는 의미에서 '치과 교정의'라는 뜻입니다.",
+                "en": "Refers to the dental field related to correcting teeth alignment",
+                "ja": "歯を正しく配置することに関連する歯科分野を指します",
+                "zh": "指与纠正牙齿排列相关的牙科领域",
+                "fr": "Désigne le domaine dentaire lié à la correction de l'alignement des dents"
+            },
+            "example": "Orthodontic treatment can improve your smile.",
+            "translation": {
+                "ko": "치아 교정 치료는 당신의 미소를 개선할 수 있다.",
+                "ja": "歯列矯正治療はあなたの笑顔を改善することができます。",
+                "zh": "正畸治疗可以改善你的笑容。",
+                "fr": "Le traitement orthodontique peut améliorer votre sourire."
+            }
+        },
+        {
+            "word": "orthodox",
+            "part_of_speech": "",
+            "origin": "Greek, orthodoxos (of the right opinion)",
+            "meaning": {
+                "ko": "올바른 의견의",
+                "en": "of correct opinion",
+                "ja": "正統的な意見",
+                "zh": "正统的观点",
+                "fr": "opinion orthodoxe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ortho-",
+                    "meaning": {
+                        "ko": "'올바른'",
+                        "en": "right, correct",
+                        "ja": "正しい、正当な",
+                        "zh": "正确的、恰当的",
+                        "fr": "juste, correct"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dox",
+                    "meaning": {
+                        "ko": "'의견'",
+                        "en": "opinion",
+                        "ja": "意見、見方",
+                        "zh": "意见、观点",
+                        "fr": "opinion, avis"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전통적으로 옳다고 인정된'이라는 의미에서 '정통의', '전통적인'이라는 뜻입니다.",
+                "en": "Meaning 'traditionally recognized as correct', hence 'orthodox' or 'traditional'",
+                "ja": "伝統的に正しいと認められているという意味で、正統的、伝統的な意味です",
+                "zh": "表示传统上被认可为正确的意思，因此意为正统的、传统的",
+                "fr": "Sens de 'reconnu traditionnellement comme correct', d'où 'orthodoxe' ou 'traditionnel'"
+            },
+            "example": "He has very orthodox views on marriage.",
+            "translation": {
+                "ko": "그는 결혼에 대해 매우 정통적인 견해를 가지고 있다.",
+                "ja": "彼は結婚について非常に正統的な見方を持っている",
+                "zh": "他对婚姻有非常正统的看法",
+                "fr": "Il a des opinions très orthodoxes sur le mariage"
+            }
+        },
+        {
+            "word": "orthopedic",
+            "part_of_speech": "",
+            "origin": "Greek, orthos (straight) + pais (child)",
+            "meaning": {
+                "ko": "곧은 아이",
+                "en": "straight child",
+                "ja": "整形外科の",
+                "zh": "骨科的",
+                "fr": "orthopédique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ortho-",
+                    "meaning": {
+                        "ko": "'곧은'",
+                        "en": "straight",
+                        "ja": "まっすぐな",
+                        "zh": "笔直的",
+                        "fr": "droit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped-",
+                    "meaning": {
+                        "ko": "'아이'",
+                        "en": "child",
+                        "ja": "子ども",
+                        "zh": "孩子",
+                        "fr": "enfant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 '어린이의 신체 변형을 교정하는' 의술에서 유래하여, '뼈, 관절, 근육 등의 이상을 치료하는' 분야인 '정형외과의'라는 뜻이 되었습니다.",
+                "en": "Originally derived from the medical practice of correcting physical deformities in children, it evolved to mean the field that treats abnormalities of bones, joints, and muscles.",
+                "ja": "もともと子どもの身体変形を矯正する医術に由来し、骨、関節、筋肉などの異常を治療する分野を意味するようになりました。",
+                "zh": "最初源于纠正儿童身体畸形的医学实践，后来演变为治疗骨骼、关节和肌肉异常的医学领域。",
+                "fr": "À l'origine dérivé de la pratique médicale de correction des déformités physiques chez l'enfant, il a évolué pour désigner le domaine qui traite les anomalies des os, articulations et muscles."
+            },
+            "example": "He is an orthopedic surgeon.",
+            "translation": {
+                "ko": "그는 정형외과 의사이다.",
+                "ja": "彼は整形外科医です。",
+                "zh": "他是骨科医生。",
+                "fr": "C'est un chirurgien orthopédiste."
+            }
+        },
+        {
+            "word": "orthoscopic",
+            "part_of_speech": "",
+            "origin": "Greek, orthos (straight) + skopein (to view)",
+            "meaning": {
+                "ko": "곧게 보는",
+                "en": "viewing straight or direct",
+                "ja": "歪みのない見方",
+                "zh": "无扭曲的视图",
+                "fr": "vue sans distorsion"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ortho-",
+                    "meaning": {
+                        "ko": "'올바른'",
+                        "en": "correct",
+                        "ja": "正しい",
+                        "zh": "正确的",
+                        "fr": "correct"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scopic",
+                    "meaning": {
+                        "ko": "'보는'",
+                        "en": "viewing or seeing",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'올바른(왜곡되지 않은) 상을 보여주는'이라는 의미입니다.",
+                "en": "Refers to showing undistorted images",
+                "ja": "歪まない像を示すことを意味します",
+                "zh": "指显示不失真的图像",
+                "fr": "Signifie montrer des images sans distorsion"
+            },
+            "example": "Orthoscopic lenses provide a distortion-free view.",
+            "translation": {
+                "ko": "정사(正射) 렌즈는 왜곡 없는 시야를 제공한다.",
+                "ja": "正視鏡的レンズは歪みのない視界を提供します",
+                "zh": "正像透镜提供无扭曲的视图",
+                "fr": "Les lentilles orthoscopiques fournissent une vue sans distorsion"
+            }
+        }
+    ]
+}

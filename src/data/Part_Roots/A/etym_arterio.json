@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "arterio (vessels leading from heart) artery, arteriosclerosis",
+        "origin": "Greek, artēria (windpipe, artery)",
+        "meaning": {
+            "ko": "동맥",
+            "en": "artery",
+            "ja": "動脈",
+            "zh": "动脉",
+            "fr": "artère"
+        }
+    },
+    "words": [
+        {
+            "word": "artery",
+            "part_of_speech": "",
+            "origin": "Greek, artēria (windpipe, artery)",
+            "meaning": {
+                "ko": "기관",
+                "en": "windpipe",
+                "ja": "気管",
+                "zh": "气管",
+                "fr": "trachée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arter (artēria)",
+                    "meaning": {
+                        "ko": "'동맥'",
+                        "en": "artery",
+                        "ja": "動脈",
+                        "zh": "动脉",
+                        "fr": "artère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스에서는 동맥이 공기를 운반한다고 생각하여 '기관(windpipe)'과 같은 단어로 불렀습니다. 이후 해부학이 발전하면서 심장에서 피를 내보내는 혈관인 '동맥'을 구체적으로 지칭하게 되었습니다.",
+                "en": "In ancient Greece, arteries were thought to carry air and were called by the same word as 'windpipe'. As anatomy developed, the term came to specifically refer to blood vessels that carry blood from the heart.",
+                "ja": "古代ギリシャでは、動脈が空気を運ぶと考えられ、'気管'と同じ言葉で呼ばれていました。解剖学が発展するにつれ、心臓から血液を送り出す血管である'動脈'を具体的に指すようになりました。",
+                "zh": "在古代希腊，动脉被认为输送空气，与'气管'使用相同的词汇。随着解剖学的发展，该术语后来专门指从心脏输送血液的血管。",
+                "fr": "Dans la Grèce antique, les artères étaient censées transporter l'air et portaient le même nom que la 'trachée'. Au fur et à mesure du développement de l'anatomie, le terme en est venu à désigner spécifiquement les vaisseaux qui transportent le sang du cœur."
+            },
+            "example": "The main artery carrying blood from the heart is the aorta.",
+            "translation": {
+                "ko": "심장에서 혈액을 운반하는 주 동맥은 대동맥이다.",
+                "ja": "心臓から血液を運ぶ主な動脈は大動脈です。",
+                "zh": "从心脏输送血液的主要动脉是主动脉。",
+                "fr": "L'artère principale qui transporte le sang du cœur est l'aorte."
+            }
+        },
+        {
+            "word": "arteriosclerosis",
+            "part_of_speech": "",
+            "origin": "Greek, artēria (artery) + sklērōsis (hardening)",
+            "meaning": {
+                "ko": "동맥의 경화",
+                "en": "hardening of the arteries",
+                "ja": "動脈の硬化",
+                "zh": "动脉硬化",
+                "fr": "durcissement des artères"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arterio (artēria)",
+                    "meaning": {
+                        "ko": "'동맥'",
+                        "en": "artery",
+                        "ja": "動脈",
+                        "zh": "动脉",
+                        "fr": "artère"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sclerosis (sklēros)",
+                    "meaning": {
+                        "ko": "'딱딱한'",
+                        "en": "hard",
+                        "ja": "硬い",
+                        "zh": "硬的",
+                        "fr": "dur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동맥(arterio)이 딱딱해지는(sclero) 상태'라는 의미로, 혈관 벽이 두꺼워지고 탄력을 잃는 질환인 '동맥 경화증'을 뜻합니다.",
+                "en": "Arteriosclerosis means the hardening of arteries (arterio = artery, sclero = hard), a disease where blood vessel walls thicken and lose elasticity.",
+                "ja": "動脈(arterio)が硬くなる(sclero)状態という意味で、血管壁が厚くなり弾力性を失う疾患の動脈硬化症を表します。",
+                "zh": "动脉(arterio)硬化(sclero)的状态，是血管壁变厚、失去弹性的疾病动脉硬化症。",
+                "fr": "L'artériosclérose signifie le durcissement des artères (arterio = artère, sclero = dur), une maladie où les parois des vaisseaux s'épaississent et perdent leur élasticité."
+            },
+            "example": "Arteriosclerosis can increase the risk of heart attack and stroke.",
+            "translation": {
+                "ko": "동맥 경화증은 심장마비와 뇌졸중의 위험을 증가시킬 수 있다.",
+                "ja": "動脈硬化は心筋梗塞と脳卒中のリスクを増加させる可能性があります。",
+                "zh": "动脉硬化会增加心脏病发作和中风的风险。",
+                "fr": "L'artériosclérose peut augmenter le risque de crise cardiaque et d'accident vasculaire cérébral."
+            }
+        }
+    ]
+}

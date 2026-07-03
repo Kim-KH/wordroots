@@ -1,0 +1,254 @@
+{
+    "root_info": {
+        "roots": "penta (five) pentad, pentagon, pentameter, pentadactyl, pentatonic",
+        "origin": "Greek, pente (five)",
+        "meaning": {
+            "ko": "다섯",
+            "en": "five",
+            "ja": "5つ",
+            "zh": "五",
+            "fr": "cinq"
+        }
+    },
+    "words": [
+        {
+            "word": "pentad",
+            "part_of_speech": "",
+            "origin": "Greek, pentas (a group of five)",
+            "meaning": {
+                "ko": "다섯의 그룹",
+                "en": "group of five",
+                "ja": "5つのグループ",
+                "zh": "五个一组",
+                "fr": "groupe de cinq"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "penta-",
+                    "meaning": {
+                        "ko": "'다섯'",
+                        "en": "five",
+                        "ja": "5つ",
+                        "zh": "五",
+                        "fr": "cinq"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다섯으로 이루어진 한 벌' 또는 '5년의 기간'을 의미합니다.",
+                "en": "Means 'a set of five' or 'a period of five years'",
+                "ja": "5つで構成される1セット、または5年間を意味します",
+                "zh": "指由五个组成的一组，或五年的时期",
+                "fr": "Signifie un ensemble de cinq ou une période de cinq ans"
+            },
+            "example": "The research was conducted over a pentad.",
+            "translation": {
+                "ko": "그 연구는 5년의 기간에 걸쳐 수행되었다.",
+                "ja": "研究は5年間にわたって実施されました",
+                "zh": "研究在五年的时期内进行",
+                "fr": "La recherche a été menée sur une période de cinq ans"
+            }
+        },
+        {
+            "word": "pentagon",
+            "part_of_speech": "",
+            "origin": "Greek, pentagonon (five-angled)",
+            "meaning": {
+                "ko": "다섯 개의 각",
+                "en": "five angles",
+                "ja": "5つの角",
+                "zh": "五个角",
+                "fr": "cinq angles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "penta-",
+                    "meaning": {
+                        "ko": "'다섯'",
+                        "en": "five",
+                        "ja": "5",
+                        "zh": "五",
+                        "fr": "cinq"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gon",
+                    "meaning": {
+                        "ko": "'각'",
+                        "en": "angle",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "angle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다섯 개의 각을 가진 도형'이라는 의미에서 '5각형'을 뜻하며, 미국 국방부 건물의 모양 때문에 '미 국방부'를 가리키기도 합니다.",
+                "en": "A shape with five angles, also called pentagon (5-sided polygon). Additionally, it refers to the U.S. Department of Defense due to the pentagon-shaped building.",
+                "ja": "5つの角を持つ図形で、五角形を意味します。米国国防総省の建物の形状から、米国国防総省を指すこともあります。",
+                "zh": "具有五个角的图形，即五边形。由于美国国防部建筑物的五边形形状，也可指美国国防部。",
+                "fr": "Une forme possédant cinq angles, appelée pentagone. En raison de la forme pentagonale du bâtiment du Département de la Défense américain, il peut aussi désigner le Département de la Défense des États-Unis."
+            },
+            "example": "The Pentagon is the headquarters of the United States Department of Defense.",
+            "translation": {
+                "ko": "펜타곤은 미국 국방부의 본부이다.",
+                "ja": "ペンタゴン、五角形",
+                "zh": "五角形、五边形",
+                "fr": "pentagone"
+            }
+        },
+        {
+            "word": "pentameter",
+            "part_of_speech": "",
+            "origin": "Greek, pentametros (of five measures)",
+            "meaning": {
+                "ko": "다섯 개의 운율",
+                "en": "five metrical units",
+                "ja": "5音脚の韻律",
+                "zh": "五音步格",
+                "fr": "pentamètre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "penta-",
+                    "meaning": {
+                        "ko": "'다섯'",
+                        "en": "five",
+                        "ja": "5つの",
+                        "zh": "五个",
+                        "fr": "cinq"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'측정, 운율'",
+                        "en": "measure",
+                        "ja": "測定、韻律",
+                        "zh": "测量、韵律",
+                        "fr": "mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "시에서 '다섯 개의 음보로 이루어진 시구'라는 의미에서 '5보격'을 뜻합니다.",
+                "en": "In poetry, a line composed of five metrical feet or stressed syllables.",
+                "ja": "詩において5つの音脚で構成される詩行を意味します。",
+                "zh": "在诗歌中，由五个音步组成的诗行。",
+                "fr": "En poésie, un vers composé de cinq pieds métriques ou syllabes accentuées."
+            },
+            "example": "Shakespeare often wrote in iambic pentameter.",
+            "translation": {
+                "ko": "셰익스피어는 종종 약강 5보격으로 글을 썼다.",
+                "ja": "シェイクスピアはしばしば抑揚格5音脚で書いた。",
+                "zh": "莎士比亚经常使用抑扬格五音步进行创作。",
+                "fr": "Shakespeare écrivait souvent en pentamètre iambique."
+            }
+        },
+        {
+            "word": "pentadactyl",
+            "part_of_speech": "",
+            "origin": "Greek, pentadaktylos (five-fingered)",
+            "meaning": {
+                "ko": "다섯 개의 손가락",
+                "en": "having five fingers",
+                "ja": "5本の指を持つ",
+                "zh": "五个手指",
+                "fr": "cinq doigts"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "penta-",
+                    "meaning": {
+                        "ko": "'다섯'",
+                        "en": "five",
+                        "ja": "5つ",
+                        "zh": "五",
+                        "fr": "cinq"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dactyl",
+                    "meaning": {
+                        "ko": "'손가락, 발가락'",
+                        "en": "finger, toe",
+                        "ja": "指、足の指",
+                        "zh": "手指、脚趾",
+                        "fr": "doigt, orteil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다섯 개의 손가락(발가락)을 가진'이라는 의미의 생물학 용어입니다.",
+                "en": "A biological term meaning having five fingers or toes",
+                "ja": "5本の指(足の指)を持つという意味の生物学用語です",
+                "zh": "指拥有五个手指(脚趾)的生物学术语",
+                "fr": "Terme biologique signifiant avoir cinq doigts ou orteils"
+            },
+            "example": "Most mammals are pentadactyl.",
+            "translation": {
+                "ko": "대부분의 포유류는 오지(다섯 발가락)를 가지고 있다.",
+                "ja": "ほとんどの哺乳類は5本指動物です",
+                "zh": "大多数哺乳动物都是五指动物",
+                "fr": "La plupart des mammifères sont pentadactyles"
+            }
+        },
+        {
+            "word": "pentatonic",
+            "part_of_speech": "",
+            "origin": "Greek, pente (five) + tonos (tone)",
+            "meaning": {
+                "ko": "다섯 개의 음",
+                "en": "five musical tones",
+                "ja": "五音階",
+                "zh": "五声音阶",
+                "fr": "gamme pentatonique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "penta-",
+                    "meaning": {
+                        "ko": "'다섯'",
+                        "en": "five",
+                        "ja": "五つ",
+                        "zh": "五个",
+                        "fr": "cinq"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tonic (tonos)",
+                    "meaning": {
+                        "ko": "'음'",
+                        "en": "tone",
+                        "ja": "音",
+                        "zh": "音",
+                        "fr": "ton"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다섯 개의 음으로 구성된 음계'라는 의미로 '5음 음계'를 뜻합니다.",
+                "en": "A musical scale composed of five tones, also known as a five-tone scale",
+                "ja": "五つの音で構成された音階、5音音階を意味します",
+                "zh": "由五个音组成的音阶，意为五声音阶",
+                "fr": "Une gamme musicale composée de cinq tons, également appelée gamme à cinq tons"
+            },
+            "example": "The pentatonic scale is used in many types of folk music.",
+            "translation": {
+                "ko": "5음 음계는 많은 종류의 민속 음악에서 사용된다.",
+                "ja": "ペンタトニックスケールは多くの民族音楽で使われています。",
+                "zh": "五声音阶被用于许多民族音乐中。",
+                "fr": "La gamme pentatonique est utilisée dans de nombreux types de musique folklorique."
+            }
+        }
+    ]
+}

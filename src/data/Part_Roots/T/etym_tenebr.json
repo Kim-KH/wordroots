@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "tenebr (dark) Tenebrae, tenebrific, tenebrous",
+        "origin": "Latin, tenebrae (darkness)",
+        "meaning": {
+            "ko": "어둠",
+            "en": "darkness",
+            "ja": "暗さ",
+            "zh": "黑暗",
+            "fr": "obscurité"
+        }
+    },
+    "words": [
+        {
+            "word": "Tenebrae",
+            "part_of_speech": "",
+            "origin": "Latin, tenebrae (darkness)",
+            "meaning": {
+                "ko": "어둠",
+                "en": "darkness",
+                "ja": "暗闇",
+                "zh": "黑暗",
+                "fr": "ténèbres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Tenebr-",
+                    "meaning": {
+                        "ko": "'어둠'",
+                        "en": "darkness",
+                        "ja": "暗闇",
+                        "zh": "黑暗",
+                        "fr": "ténèbres"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "부활절 전 3일간 '촛불을 하나씩 꺼 어둠 속에서' 드리는 가톨릭의 '성삼일 전례'를 뜻합니다.",
+                "en": "Tenebrae is a Christian religious service celebrated during Holy Week.",
+                "ja": "復活祭の前3日間、ろうそくを1本ずつ消して暗闇の中で行うカトリックの聖三日間の典礼を意味します。",
+                "zh": "指复活节前3天内，逐一吹灭蜡烛在黑暗中进行的天主教圣三日典礼。",
+                "fr": "Désigne un office catholique des Trois Jours sacrés, célébré en éteignant progressivement les bougies dans l'obscurité avant Pâques."
+            },
+            "example": "Tenebrae is a Christian religious service celebrated during Holy Week.",
+            "translation": {
+                "ko": "테네브레는 성주간 동안 거행되는 기독교 종교 의식이다.",
+                "ja": "テネブラエ",
+                "zh": "暗黑咏唱礼",
+                "fr": "Ténèbres"
+            }
+        },
+        {
+            "word": "tenebrific",
+            "part_of_speech": "",
+            "origin": "Latin, tenebrae (darkness) + facere (to make)",
+            "meaning": {
+                "ko": "어둠을 만드는",
+                "en": "making darkness",
+                "ja": "暗黒を作る",
+                "zh": "制造黑暗",
+                "fr": "qui crée l'obscurité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tenebr-",
+                    "meaning": {
+                        "ko": "'어둠'",
+                        "en": "darkness",
+                        "ja": "暗黒",
+                        "zh": "黑暗",
+                        "fr": "obscurité"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fic",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어둠을 만들어내는'이라는 뜻입니다.",
+                "en": "Means producing or creating darkness",
+                "ja": "暗黒を生み出す意味です",
+                "zh": "表示产生或制造黑暗",
+                "fr": "Signifie produire ou créer l'obscurité"
+            },
+            "example": "The tenebrific clouds gathered before the storm.",
+            "translation": {
+                "ko": "폭풍 전에 어두운 구름이 모여들었다.",
+                "ja": "暗黒の雲が嵐の前に集まった。",
+                "zh": "制造黑暗的云层在暴风雨前聚集。",
+                "fr": "Les nuages ténébriques se rassemblaient avant l'orage."
+            }
+        },
+        {
+            "word": "tenebrous",
+            "part_of_speech": "",
+            "origin": "Latin, tenebrosus (dark)",
+            "meaning": {
+                "ko": "어두운",
+                "en": "dark",
+                "ja": "暗い、陰気な",
+                "zh": "黑暗的、阴沉的",
+                "fr": "ténébreux, sombre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tenebr-",
+                    "meaning": {
+                        "ko": "'어둠'",
+                        "en": "darkness",
+                        "ja": "暗闇",
+                        "zh": "黑暗",
+                        "fr": "ténèbres"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어두운', '음침한'이라는 뜻입니다.",
+                "en": "Means dark or gloomy",
+                "ja": "暗い、陰気という意味です",
+                "zh": "意思是黑暗的、阴沉的",
+                "fr": "Signifie sombre ou sinistre"
+            },
+            "example": "We walked through the tenebrous forest.",
+            "translation": {
+                "ko": "우리는 어두컴컴한 숲을 걸었다.",
+                "ja": "私たちは暗い森を歩きました。",
+                "zh": "我们走过了黑暗的森林。",
+                "fr": "Nous avons marché à travers la forêt ténébreuse."
+            }
+        }
+    ]
+}

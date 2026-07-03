@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "phal (fingers/toes) phalanges, phalanx",
+        "origin": "Greek, phalanx (line of battle, finger bone)",
+        "meaning": {
+            "ko": "전투 대형",
+            "en": "line of battle",
+            "ja": "戦闘隊形",
+            "zh": "战斗队形",
+            "fr": "ligne de bataille"
+        }
+    },
+    "words": [
+        {
+            "word": "phalanges",
+            "part_of_speech": "",
+            "origin": "Greek, phalanx",
+            "meaning": {
+                "ko": "전투 대형",
+                "en": "battle formation",
+                "ja": "指骨",
+                "zh": "指骨",
+                "fr": "phalanges"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phalang-",
+                    "meaning": {
+                        "ko": "'손가락뼈'",
+                        "en": "finger bone",
+                        "ja": "指の骨",
+                        "zh": "手指骨",
+                        "fr": "os des doigts"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'phalanx'의 복수형으로, '손가락뼈' 또는 '발가락뼈'를 뜻합니다.",
+                "en": "Plural of phalanx, meaning finger bones or toe bones.",
+                "ja": "phalanxの複数形で、指骨または足指骨を意味します。",
+                "zh": "phalanx的复数形式，指手指骨或脚趾骨。",
+                "fr": "Pluriel de phalanx, désignant les os des doigts ou des orteils."
+            },
+            "example": "The human hand has 14 phalanges.",
+            "translation": {
+                "ko": "인간의 손에는 14개의 지골이 있다.",
+                "ja": "人間の手には14本の指骨があります。",
+                "zh": "人手有14块指骨。",
+                "fr": "La main humaine a 14 phalanges."
+            }
+        },
+        {
+            "word": "phalanx",
+            "part_of_speech": "",
+            "origin": "Greek, phalanx",
+            "meaning": {
+                "ko": "전투 대형",
+                "en": "battle formation",
+                "ja": "密集戦闘陣形",
+                "zh": "密集战斗阵形",
+                "fr": "formation militaire compacte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phalan-",
+                    "meaning": {
+                        "ko": "'대형'",
+                        "en": "formation",
+                        "ja": "陣形",
+                        "zh": "阵形",
+                        "fr": "formation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스의 '밀집 보병 대형' 또는 해부학에서 '지골(손가락/발가락뼈)'을 뜻합니다.",
+                "en": "In ancient Greece, refers to a 'dense infantry formation' or in anatomy means 'phalanges (finger/toe bones)'.",
+                "ja": "古代ギリシャの『密集歩兵陣形』または解剖学で『指骨(指/足の骨)』を意味します",
+                "zh": "古代希腊的『密集步兵阵形』或解剖学中『指骨(手指/脚趾骨)』的意思",
+                "fr": "En Grèce antique, désigne une 'formation d'infanterie dense' ou en anatomie signifie 'phalanges (os des doigts/orteils)'"
+            },
+            "example": "The Macedonian phalanx was a formidable military formation.",
+            "translation": {
+                "ko": "마케도니아의 팔랑크스는 강력한 군사 대형이었다.",
+                "ja": "マケドニアのファランクスは手強い軍事陣形でした。",
+                "zh": "马其顿方阵是令人敬畏的军事阵形。",
+                "fr": "La phalange macédonienne était une formation militaire redoutable."
+            }
+        }
+    ]
+}

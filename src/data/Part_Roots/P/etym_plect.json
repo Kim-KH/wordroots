@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "plect (braid, weave) complected, complex, complexion",
+        "origin": "Latin, plectere (to plait, to weave)",
+        "meaning": {
+            "ko": "짜다",
+            "en": "to weave",
+            "ja": "織る",
+            "zh": "织",
+            "fr": "tisser"
+        }
+    },
+    "words": [
+        {
+            "word": "complected",
+            "part_of_speech": "",
+            "origin": "Latin, complexus (encircling, encompassing)",
+            "meaning": {
+                "ko": "둘러싸는",
+                "en": "to surround or enclose",
+                "ja": "肌色を持つ",
+                "zh": "肤色的",
+                "fr": "teint"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plect-",
+                    "meaning": {
+                        "ko": "'짜다'",
+                        "en": "to weave",
+                        "ja": "編む",
+                        "zh": "编织",
+                        "fr": "tisser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안색을 가진'이라는 의미로 주로 다른 단어와 함께 쓰입니다. (예: dark-complected)",
+                "en": "Primarily used with other words to describe skin tone (e.g., dark-complected)",
+                "ja": "肌色を表す際に他の単語と組み合わせて使用されます",
+                "zh": "主要与其他词组合使用来描述肤色",
+                "fr": "Principalement utilisé avec d'autres mots pour décrire le teint"
+            },
+            "example": "He was a light-complected man with blue eyes.",
+            "translation": {
+                "ko": "그는 파란 눈을 가진 흰 피부의 남자였다.",
+                "ja": "彼は青い目をした薄い肌色の男だった。",
+                "zh": "他是一个肤色较浅、蓝眼睛的男人。",
+                "fr": "C'était un homme au teint clair avec des yeux bleus."
+            }
+        },
+        {
+            "word": "complex",
+            "part_of_speech": "",
+            "origin": "Latin, complexus (surrounding)",
+            "meaning": {
+                "ko": "둘러싸는",
+                "en": "to surround or enclose",
+                "ja": "複雑な、囲まれた",
+                "zh": "复杂的、围绕的",
+                "fr": "complexe, entouré"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plex (plicare 'to fold')",
+                    "meaning": {
+                        "ko": "'접다, 짜다'",
+                        "en": "to fold, weave",
+                        "ja": "折る、織る",
+                        "zh": "折叠、编织",
+                        "fr": "plier, tisser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 요소가 함께 얽혀 짜여 있는' 상태라는 의미에서 '복잡한' 또는 '복합체', '강박관념'을 뜻합니다.",
+                "en": "Multiple elements intricately woven together; means 'complex', 'composite', or 'obsession'",
+                "ja": "複数の要素が一緒に絡み合い織られている状態；複雑、複合体、強迫観念を意味する",
+                "zh": "多个要素紧密交织在一起的状态；表示复杂、复合体或强迫观念",
+                "fr": "État où plusieurs éléments sont entrelacés ensemble; signifie complexe, composé ou obsession"
+            },
+            "example": "The instructions were too complex for me to understand.",
+            "translation": {
+                "ko": "그 설명서는 내가 이해하기에 너무 복잡했다.",
+                "ja": "その指示は私が理解するには複雑すぎました。",
+                "zh": "那些说明对我来说太复杂了，无法理解。",
+                "fr": "Les instructions étaient trop complexes pour que je les comprenne."
+            }
+        },
+        {
+            "word": "complexion",
+            "part_of_speech": "",
+            "origin": "Latin, complexio (a combination, a physical constitution)",
+            "meaning": {
+                "ko": "조합, 체질",
+                "en": "combination, constitution",
+                "ja": "肌色、気質",
+                "zh": "肤色、气质",
+                "fr": "teint, tempérament"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plect-",
+                    "meaning": {
+                        "ko": "'짜다'",
+                        "en": "to weave",
+                        "ja": "織る",
+                        "zh": "编织",
+                        "fr": "tisser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 의학에서 '체액의 조합'이 기질과 안색을 결정한다고 믿었던 데서 유래하여, '안색' 또는 사태의 '양상'을 뜻합니다.",
+                "en": "In ancient medicine, it was believed that the combination of bodily humors determined temperament and skin tone, hence the word came to mean 'skin color' or 'aspect of a situation'.",
+                "ja": "古代医学では、体液の組み合わせが気質と肌色を決定すると信じられており、『肌色』または事態の『様子』を意味するようになりました。",
+                "zh": "在古代医学中，人们相信体液的组合决定了气质和肤色，因此该词来表示'肤色'或事态的'表现'。",
+                "fr": "En médecine antique, on croyait que la combinaison des humeurs déterminait le tempérament et le teint, d'où le mot signifie 'teint' ou 'aspect' d'une situation."
+            },
+            "example": "She has a fair complexion.",
+            "translation": {
+                "ko": "그녀는 피부가 희다.",
+                "ja": "彼女は色白です。",
+                "zh": "她肤色白皙。",
+                "fr": "Elle a un teint clair."
+            }
+        }
+    ]
+}

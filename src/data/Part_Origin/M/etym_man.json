@@ -1,0 +1,528 @@
+{
+    "root_info": {
+        "roots": "man, manu: hand",
+        "origin": "Latin, manus",
+        "meaning": {
+            "ko": "손",
+            "en": "hand",
+            "ja": "手",
+            "zh": "手",
+            "fr": "main"
+        }
+    },
+    "words": [
+        {
+            "word": "manual",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "manu",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形式后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 하는'이라는 의미에서 '수동의', '육체의'라는 뜻을 가지며, 명사로는 '설명서'를 의미합니다.",
+                "en": "From the meaning of 'done by hand', it carries the sense of 'passive' or 'physical'. As a noun, it means 'instruction manual'.",
+                "ja": "'手で行う'という意味から、'受動的な'または'肉体的な'という意味を持ち、名詞としては'取扱説明書'を意味します。",
+                "zh": "从'用手做'的意思延伸，具有'被动的'或'身体的'含义，作为名词表示'说明书'。",
+                "fr": "Du sens de 'fait à la main', il porte le sens de 'passif' ou 'physique'. Comme nom, cela signifie 'guide d'instruction'."
+            },
+            "example": "This car has a manual transmission.",
+            "translation": {
+                "ko": "이 차는 수동 변속기를 가지고 있다.",
+                "ja": "マニュアルトランスミッション",
+                "zh": "手动变速器",
+                "fr": "boîte de vitesses manuelle"
+            }
+        },
+        {
+            "word": "manuscript",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "manu",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "script",
+                    "meaning": {
+                        "ko": "쓴 것",
+                        "en": "written",
+                        "ja": "書かれたもの",
+                        "zh": "写的东西",
+                        "fr": "écrit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 쓴 것'이라는 의미에서, 인쇄되기 전의 '원고'나 옛날의 '필사본'을 뜻합니다.",
+                "en": "From 'something written by hand,' referring to an author's original text before printing or a historical handwritten copy.",
+                "ja": "「手で書いたもの」という意味から、印刷前の「原稿」や古い「手書き本」を指します。",
+                "zh": "从\"手写的东西\"的意思而来，指印刷前的\"原稿\"或古代的\"手抄本\"。",
+                "fr": "Du sens de « quelque chose écrit à la main », désignant le texte original d'un auteur avant l'impression ou une copie manuscrite historique."
+            },
+            "example": "The author sent the manuscript to the publisher.",
+            "translation": {
+                "ko": "작가는 출판사에 원고를 보냈다.",
+                "ja": "著者は出版社に原稿を送った。",
+                "zh": "作者将手稿发送给了出版社。",
+                "fr": "L'auteur a envoyé le manuscrit à l'éditeur."
+            }
+        },
+        {
+            "word": "manage",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "man (manus)",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 말을 '손으로 다루다'는 의미에서, 사업체나 사람 등을 '관리하다', '경영하다' 또는 어려운 일을 '가까스로 해내다'는 뜻으로 발전했습니다.",
+                "en": "Originally meant 'to handle with the hand'; developed to mean 'to manage or run a business/people' or 'to barely accomplish a difficult task'.",
+                "ja": "元々は『手で扱う』という意味から、事業体や人などを『管理する』『経営する』、または困難な仕事を『何とかやり遂げる』という意味へと発展しました。",
+                "zh": "原本意为『用手处理』，后来引申为『管理或经营企业/人员』或『勉强完成困难的工作』。",
+                "fr": "Signifiait à l'origine « manier avec la main »; s'est développé pour signifier « gérer ou diriger une entreprise/des personnes » ou « accomplir à peine une tâche difficile »."
+            },
+            "example": "She can manage the project well.",
+            "translation": {
+                "ko": "그녀는 그 프로젝트를 잘 관리할 수 있다.",
+                "ja": "彼女はそのプロジェクトをうまく管理できる。",
+                "zh": "她能很好地管理这个项目。",
+                "fr": "Elle peut bien gérer le projet."
+            }
+        },
+        {
+            "word": "manacle",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "man (manus)",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-cle",
+                    "meaning": {
+                        "ko": "작은 것",
+                        "en": "diminutive",
+                        "ja": "小さいもの",
+                        "zh": "小的东西",
+                        "fr": "chose petite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손에 채우는 작은 것'이라는 의미에서 '수갑'을 뜻합니다.",
+                "en": "Means 'handcuffs' from the sense of 'something small worn on the hand'",
+                "ja": "手に装着する小さいものという意味から手錠を意味します",
+                "zh": "从戴在手上的小东西这个意义引申为手铐的意思",
+                "fr": "Signifie menottes à partir du sens de quelque chose de petit porté sur la main"
+            },
+            "example": "The prisoner was put in manacles.",
+            "translation": {
+                "ko": "그 죄수는 수갑이 채워졌다.",
+                "ja": "手錠",
+                "zh": "手铐",
+                "fr": "menottes"
+            }
+        },
+        {
+            "word": "manumission",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "manu",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mission (mittere)",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to send",
+                        "ja": "送る",
+                        "zh": "送出",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주인의 손(지배)에서부터 멀리 보내주다'는 의미로, 노예를 '해방'하는 것을 뜻하는 역사적 용어입니다.",
+                "en": "From Latin manus (hand) + mittere (to send): originally meant releasing a slave by a formal gesture, symbolizing removal from the owner's control.",
+                "ja": "ラテン語の「手」と「送る」から成り、主人の支配から奴隷を解放することを意味する歴史用語です。",
+                "zh": "源自拉丁语\"手\"和\"送出\"，意为将奴隶从主人的控制中释放，是一个历史术语。",
+                "fr": "Du latin manus (main) et mittere (envoyer): terme historique signifiant l'affranchissement d'un esclave, symbolisant sa libération du contrôle du maître."
+            },
+            "example": "Manumission was a common practice in ancient Rome.",
+            "translation": {
+                "ko": "노예 해방은 고대 로마에서 흔한 관행이었다.",
+                "ja": "奴隷解放は古代ローマで一般的な慣行でした。",
+                "zh": "奴隶解放在古代罗马是常见的做法。",
+                "fr": "L'affranchissement était une pratique courante dans la Rome antique."
+            }
+        },
+        {
+            "word": "amanuensis",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "a manu",
+                    "meaning": {
+                        "ko": "손으로부터",
+                        "en": "from the hand",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 쓰는 일을 하는 사람' 즉, 다른 사람이 구술하는 것을 받아쓰거나 문서를 베끼는 '대필자', '필기사'를 의미합니다.",
+                "en": "A person who writes by hand; a scribe or secretary who transcribes dictation or copies documents for another person.",
+                "ja": "他人の口述を筆記したり、文書を書き写したりする『代筆者』『筆記者』を意味します。",
+                "zh": "指为他人笔录口述内容或誊写文件的人，即'代笔者'或'抄写员'。",
+                "fr": "Une personne qui écrit à la main; un secrétaire ou un scribe qui transcrit la dictée ou recopie des documents pour autrui."
+            },
+            "example": "The famous writer hired an amanuensis.",
+            "translation": {
+                "ko": "그 유명한 작가는 대필자를 고용했다.",
+                "ja": "その有名な作家は代筆者を雇った。",
+                "zh": "那位著名作家雇了一名代笔者。",
+                "fr": "L'écrivain célèbre a embauché un amanuensis."
+            }
+        },
+        {
+            "word": "maintain",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "main (manus)",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tain (tenere)",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to hold",
+                        "ja": "持つ",
+                        "zh": "抓住",
+                        "fr": "tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손에 잡고 있다'는 의미에서, 어떤 상태나 수준을 '유지하다' 또는 기계 등을 '보수 관리하다'는 뜻이 되었습니다.",
+                "en": "From 'holding in hand': came to mean 'to keep up' a state or level, or 'to service and manage' machines.",
+                "ja": "「手に握っている」という意味から、ある状態や水準を「維持する」、または機械などを「保守管理する」という意味になりました。",
+                "zh": "从「握在手中」的意思演变而来，指「维持」某种状态或水平，或对机器等进行「保养管理」。",
+                "fr": "Du sens « tenir à la main » : est devenu signifier « maintenir » un état ou un niveau, ou « entretenir et gérer » des machines."
+            },
+            "example": "It is important to maintain a healthy diet.",
+            "translation": {
+                "ko": "건강한 식단을 유지하는 것은 중요하다.",
+                "ja": "健康的な食事を維持することは重要です。",
+                "zh": "保持健康的饮食很重要。",
+                "fr": "Il est important de maintenir une alimentation saine."
+            }
+        },
+        {
+            "word": "mansuetude",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "man (manus)",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suetude (suescere)",
+                    "meaning": {
+                        "ko": "익숙해지다",
+                        "en": "to accustom",
+                        "ja": "慣れる",
+                        "zh": "习惯",
+                        "fr": "s'accoutumer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손에 익숙해진' 상태, 즉 '길들여진' 상태라는 의미에서 '온유함', '유순함'을 뜻하는 문어체 단어입니다.",
+                "en": "From Latin 'manus' (hand) + 'suescere' (to accustom): literally 'hand-accustomed,' meaning a tamed or docile state; a formal word for gentleness or meekness.",
+                "ja": "ラテン語の「manus」(手)と「suescere」(慣れる)から：文字通り「手に慣れた」状態、つまり「飼い慣らされた」状態を意味し、温和さや従順さを表す文語的な単語です。",
+                "zh": "来自拉丁语\"manus\"(手)和\"suescere\"(习惯)：字面上为\"手习惯的\"状态，即\"被驯服的\"状态，表示温和或驯顺的书面用语。",
+                "fr": "Du latin « manus » (main) et « suescere » (s'accoutumer) : littéralement « habitué à la main », signifiant un état d'apprivoisement ou de docilité ; un mot formel désignant la douceur ou la manssuétude."
+            },
+            "example": "He was known for his mansuetude.",
+            "translation": {
+                "ko": "그는 온유함으로 알려져 있었다.",
+                "ja": "彼は温和さで知られていた。",
+                "zh": "他以温和著称。",
+                "fr": "Il était connu pour sa manssuétude."
+            }
+        },
+        {
+            "word": "manipulation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mani (manus)",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pul (plere)",
+                    "meaning": {
+                        "ko": "채우다",
+                        "en": "to fill",
+                        "ja": "満たす",
+                        "zh": "填充",
+                        "fr": "remplir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 채우거나 다루는 것'이라는 의미에서, 기계 등을 능숙하게 '조작'하는 것을 뜻합니다. 부정적으로는 사람이나 정보를 교묘하게 '조종'하는 것을 의미합니다.",
+                "en": "From 'handling or filling with the hand,' it came to mean skillfully 'operating' machines. Negatively, it means cunningly 'controlling' people or information.",
+                "ja": "手で満たしたり扱ったりすることから、機械などを巧みに『操作』することを意味します。否定的には、人や情報を巧妙に『操作』することを意味します。",
+                "zh": "从'用手填充或处理'的意思，演变为熟练地'操纵'机器等。消极地表示巧妙地'控制'人或信息。",
+                "fr": "Du sens de 'manipuler ou remplir à la main', il signifie 'opérer' des machines avec habileté. Négativement, cela veut dire 'contrôler' les gens ou l'information de manière astucieuse."
+            },
+            "example": "The media was accused of manipulation.",
+            "translation": {
+                "ko": "대중 매체는 여론 조작으로 비난받았다.",
+                "ja": "メディアは世論操作で非難された。",
+                "zh": "媒体因信息操纵而受到指责。",
+                "fr": "Les médias ont été accusés de manipulation."
+            }
+        },
+        {
+            "word": "mandate",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "man (manus)",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "date (dare)",
+                    "meaning": {
+                        "ko": "주다",
+                        "en": "to give",
+                        "ja": "与える",
+                        "zh": "给予",
+                        "fr": "donner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손에 쥐여 주는 것'이라는 의미에서, 권위 있는 기관이 내리는 '명령', '지시' 또는 선거를 통해 유권자가 부여하는 '권한'을 뜻합니다.",
+                "en": "From the literal sense of 'something given into hand,' it came to mean an 'order' or 'instruction' from an authority, or 'authority' granted by voters through elections.",
+                "ja": "手に握らせて与えるという意味から、権威ある機関が下す『命令』『指示』、または選挙を通じて有権者が与える『権限』を意味するようになりました。",
+                "zh": "从'握在手中给予的东西'这一字面意义出发，引申为权威机构下达的'命令''指令'，或通过选举由选民赋予的'权限'。",
+                "fr": "Du sens littéral de 'quelque chose remis en main', il en vient à signifier un 'ordre' ou une 'instruction' émanant d'une autorité, ou une 'autorité' confiée par les électeurs par voie électorale."
+            },
+            "example": "The government has a mandate to reform the economy.",
+            "translation": {
+                "ko": "정부는 경제를 개혁할 권한을 가지고 있다.",
+                "ja": "政府は経済を改革する権限を持っています。",
+                "zh": "政府拥有改革经济的权限。",
+                "fr": "Le gouvernement a le mandat de réformer l'économie."
+            }
+        },
+        {
+            "word": "maneuver",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "man (manus)",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "euver (operari)",
+                    "meaning": {
+                        "ko": "일하다",
+                        "en": "to work",
+                        "ja": "働く",
+                        "zh": "工作",
+                        "fr": "travailler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 하는 일'이라는 의미에서, 군대의 '기동 훈련', 교묘한 '책략', 또는 차량 등의 '움직임', '조종'을 뜻합니다.",
+                "en": "From 'work done by hand,' it evolved to mean military drills, tactical schemes, or the movement and control of vehicles.",
+                "ja": "「手でする仕事」という意味から、軍事の「機動訓練」、巧妙な「策略」、または車両などの「動き」「操作」を意味するようになりました。",
+                "zh": "从「用手做的工作」的含义演变而来，现指军事「机动训练」、巧妙的「策略」或车辆等的「运动」「操纵」。",
+                "fr": "Du sens de « travail fait à la main », il a évolué pour désigner des exercices militaires, des tactiques ingénieuses, ou le mouvement et le contrôle de véhicules."
+            },
+            "example": "The pilot performed a difficult maneuver.",
+            "translation": {
+                "ko": "조종사는 어려운 기동을 선보였다.",
+                "ja": "パイロットは難しい機動を実行した。",
+                "zh": "飞行员执行了一个困难的机动动作。",
+                "fr": "Le pilote a exécuté une manœuvre difficile."
+            }
+        },
+        {
+            "word": "manifest",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mani",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fest (festus)",
+                    "meaning": {
+                        "ko": "붙잡힌",
+                        "en": "struck",
+                        "ja": "打たれた",
+                        "zh": "被击中",
+                        "fr": "frappé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 쳐서 잡을 수 있을 만큼' 명백하다는 의미에서, '분명한', '명백한'이라는 뜻입니다.",
+                "en": "From the idea of being 'clear enough to grasp by hand', meaning obvious or evident",
+                "ja": "『手でつかめるほど明らかな』という意味から、『明白な』『はっきりした』という意味になりました。",
+                "zh": "从'用手可以抓住那么清楚'的概念引申，表示'明显的''清晰的'。",
+                "fr": "Du concept d'être 'assez clair pour saisir à la main', signifiant évident ou manifeste."
+            },
+            "example": "His guilt was manifest to everyone.",
+            "translation": {
+                "ko": "그의 유죄는 모든 사람에게 명백했다.",
+                "ja": "彼の有罪は誰の目にも明白だった。",
+                "zh": "他的有罪对每个人来说都是显而易见的。",
+                "fr": "Sa culpabilité était manifeste à tous."
+            }
+        },
+        {
+            "word": "manner",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "man (manus)",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 다루는 방식'이라는 의미에서, 일을 처리하는 '방식', '태도', 또는 사람의 '예의범절'을 뜻합니다.",
+                "en": "From the sense of 'handling with hands,' it means the 'way' or 'method' of doing things, one's 'attitude,' or a person's 'etiquette' and 'courtesy.'",
+                "ja": "「手で扱う方式」という意味から、仕事を処理する「やり方」「態度」、または人の「礼儀作法」を意味します。",
+                "zh": "从\"用手处理的方式\"的含义引申，指处理工作的\"方式\"\"态度\"，或人的\"礼仪\"\"举止\"。",
+                "fr": "Du sens de « manipuler à la main », il désigne la « manière » ou « méthode » de faire les choses, l'« attitude » d'une personne ou ses « bonnes manières »."
+            },
+            "example": "He has a very polite manner.",
+            "translation": {
+                "ko": "그는 매우 공손한 태도를 가지고 있다.",
+                "ja": "彼はとても丁寧な態度を持っている。",
+                "zh": "他的举止非常有礼貌。",
+                "fr": "Il a des manières très polies."
+            }
+        }
+    ]
+}

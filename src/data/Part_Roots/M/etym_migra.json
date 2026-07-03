@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "migra (wander) immigrant, migrant, migratory",
+        "origin": "Latin, migrare (to move from one place to another)",
+        "meaning": {
+            "ko": "떠돌다, 이주하다",
+            "en": "to wander",
+            "ja": "さまよう、放浪する",
+            "zh": "流浪、漂泊",
+            "fr": "errer, vagabonder"
+        }
+    },
+    "words": [
+        {
+            "word": "immigrant",
+            "part_of_speech": "",
+            "origin": "Latin, immigrare (to move into)",
+            "meaning": {
+                "ko": "안으로 이주하다",
+                "en": "to migrate inward",
+                "ja": "移民",
+                "zh": "移民",
+                "fr": "immigrant"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in, into",
+                        "ja": "内へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "migrant",
+                    "meaning": {
+                        "ko": "'이주자'",
+                        "en": "migrant person",
+                        "ja": "移住者",
+                        "zh": "迁移者",
+                        "fr": "migrant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 나라 안으로 들어와 사는' 사람인 '이민자'를 뜻합니다.",
+                "en": "A person who comes to live in another country",
+                "ja": "他国に移り住む人",
+                "zh": "移居到另一个国家的人",
+                "fr": "personne qui s'installe dans un autre pays"
+            },
+            "example": "He is an immigrant from Ireland.",
+            "translation": {
+                "ko": "그는 아일랜드에서 온 이민자이다.",
+                "ja": "彼はアイルランドからの移民です。",
+                "zh": "他是来自爱尔兰的移民。",
+                "fr": "Il est un immigrant d'Irlande."
+            }
+        },
+        {
+            "word": "migrant",
+            "part_of_speech": "",
+            "origin": "Latin, migrans (migrating)",
+            "meaning": {
+                "ko": "이주하는",
+                "en": "migrating or moving to a new place",
+                "ja": "移住する人",
+                "zh": "移居的人",
+                "fr": "personne qui migre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "migr-",
+                    "meaning": {
+                        "ko": "'이주하다'",
+                        "en": "to move",
+                        "ja": "移動する",
+                        "zh": "移动",
+                        "fr": "se déplacer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일자리를 찾아 한 곳에서 다른 곳으로 이동하는' 사람인 '이주자', '철새'를 뜻합니다.",
+                "en": "A person who moves from one place to another to find jobs; a migrant worker or seasonal worker.",
+                "ja": "仕事を探すため一箇所から別の場所へ移動する人、移住労働者や季節労働者を意味します。",
+                "zh": "为了找工作从一个地方移居到另一个地方的人，指移居工作者或季节性工作者。",
+                "fr": "Une personne qui se déplace d'un endroit à un autre pour trouver du travail; travailleur migrant ou saisonnier."
+            },
+            "example": "Many migrant workers come here to find jobs.",
+            "translation": {
+                "ko": "많은 이주 노동자들이 일자리를 찾기 위해 이곳으로 온다.",
+                "ja": "多くの移住労働者がここに仕事を探しに来ます。",
+                "zh": "许多移居工人来这里找工作。",
+                "fr": "De nombreux travailleurs migrants viennent ici pour trouver du travail."
+            }
+        },
+        {
+            "word": "migratory",
+            "part_of_speech": "",
+            "origin": "Latin, migratorius (wandering)",
+            "meaning": {
+                "ko": "떠도는",
+                "en": "wandering, roaming",
+                "ja": "渡り性の",
+                "zh": "迁徙性的",
+                "fr": "migrateur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "migr-",
+                    "meaning": {
+                        "ko": "'이주하다'",
+                        "en": "to move",
+                        "ja": "移動する",
+                        "zh": "迁移",
+                        "fr": "se déplacer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'계절에 따라 정기적으로 이동하는'이라는 의미에서 '이주하는'이라는 뜻입니다.",
+                "en": "Means moving regularly according to seasons",
+                "ja": "季節に応じて定期的に移動する意味で'移住する'という意味です",
+                "zh": "根据季节定期迁移的意思,意为'迁移的'",
+                "fr": "Signifie se déplacer régulièrement selon les saisons"
+            },
+            "example": "Canada geese are migratory birds.",
+            "translation": {
+                "ko": "캐나다 기러기는 철새이다.",
+                "ja": "カナダガンは渡り鳥です。",
+                "zh": "加拿大鹅是迁徙鸟。",
+                "fr": "Les bernaches du Canada sont des oiseaux migrateurs."
+            }
+        }
+    ]
+}

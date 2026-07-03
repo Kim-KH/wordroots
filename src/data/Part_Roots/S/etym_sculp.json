@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "sculp (carve) scalpel, sculpt, sculptor, sculpture",
+        "origin": "Latin, sculpere (to carve)",
+        "meaning": {
+            "ko": "새기다, 조각하다",
+            "en": "to carve",
+            "ja": "彫る、刻む",
+            "zh": "雕刻、刻画",
+            "fr": "graver, sculpter"
+        }
+    },
+    "words": [
+        {
+            "word": "scalpel",
+            "part_of_speech": "",
+            "origin": "Latin, scalpellum (a small chisel or knife)",
+            "meaning": {
+                "ko": "작은 칼",
+                "en": "small knife",
+                "ja": "小さな刃物",
+                "zh": "小刀",
+                "fr": "petit couteau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scalp- (sculpere)",
+                    "meaning": {
+                        "ko": "'새기다'",
+                        "en": "to carve",
+                        "ja": "彫刻する",
+                        "zh": "雕刻",
+                        "fr": "graver"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'살을 새기듯 자르는 작은 칼'이라는 의미에서 '외과용 메스'를 뜻합니다.",
+                "en": "A surgical knife used to carve flesh, referring to a surgical scalpel",
+                "ja": "肉を彫るように切る小さな刃物という意味から、外科用メスを指します",
+                "zh": "从切割肉体如雕刻的小刀意义，指外科手术刀",
+                "fr": "D'un petit couteau qui découpe la chair comme une gravure, se réfère au scalpel chirurgical"
+            },
+            "example": "The surgeon used a scalpel to make an incision.",
+            "translation": {
+                "ko": "외과 의사는 절개를 하기 위해 메스를 사용했다.",
+                "ja": "外科医はメスで切開を行いました",
+                "zh": "外科医生用手术刀做切口",
+                "fr": "Le chirurgien a utilisé un scalpel pour faire une incision"
+            }
+        },
+        {
+            "word": "sculpt",
+            "part_of_speech": "",
+            "origin": "Latin, sculpere (to carve)",
+            "meaning": {
+                "ko": "조각하다",
+                "en": "to carve or shape",
+                "ja": "彫刻する",
+                "zh": "雕刻",
+                "fr": "sculpter"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sculp-",
+                    "meaning": {
+                        "ko": "'조각하다'",
+                        "en": "to carve",
+                        "ja": "彫る",
+                        "zh": "雕刻",
+                        "fr": "tailler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'돌이나 나무 등을 깎아서 모양을 만들다'는 의미에서 '조각하다'라는 뜻입니다.",
+                "en": "It means to carve stone, wood, etc. to create a shape.",
+                "ja": "石や木などを削って形を作ること。",
+                "zh": "通过削切石头或木头等来创造形状。",
+                "fr": "Signifie tailler la pierre, le bois, etc. pour créer une forme."
+            },
+            "example": "He sculpted the statue out of marble.",
+            "translation": {
+                "ko": "그는 대리석으로 그 조각상을 조각했다.",
+                "ja": "彼は大理石から像を彫刻した。",
+                "zh": "他用大理石雕刻了这座雕像。",
+                "fr": "Il a sculpté la statue dans le marbre."
+            }
+        },
+        {
+            "word": "sculptor",
+            "part_of_speech": "",
+            "origin": "Latin, sculptor",
+            "meaning": {
+                "ko": "조각가",
+                "en": "person who sculpts",
+                "ja": "彫刻家",
+                "zh": "雕刻家",
+                "fr": "sculpteur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sculp-",
+                    "meaning": {
+                        "ko": "'조각하다'",
+                        "en": "to carve",
+                        "ja": "彫刻する",
+                        "zh": "雕刻",
+                        "fr": "tailler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'조각하는 사람'인 '조각가'를 뜻합니다.",
+                "en": "A sculptor is a person who carves",
+                "ja": "彫刻する人を意味します",
+                "zh": "指从事雕刻的人",
+                "fr": "Une personne qui taille ou grave"
+            },
+            "example": "The sculptor is working on a new piece.",
+            "translation": {
+                "ko": "그 조각가는 새로운 작품을 작업하고 있다.",
+                "ja": "彫刻家は新しい作品に取り組んでいます。",
+                "zh": "雕刻家正在创作一件新作品。",
+                "fr": "Le sculpteur travaille sur une nouvelle œuvre."
+            }
+        },
+        {
+            "word": "sculpture",
+            "part_of_speech": "",
+            "origin": "Latin, sculptura (a carving)",
+            "meaning": {
+                "ko": "조각",
+                "en": "carved or cast object",
+                "ja": "彫刻",
+                "zh": "雕塑",
+                "fr": "sculpture"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sculp-",
+                    "meaning": {
+                        "ko": "'조각하다'",
+                        "en": "to carve",
+                        "ja": "彫る",
+                        "zh": "雕刻",
+                        "fr": "tailler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'조각된 작품'인 '조각' 또는 '조각술'을 뜻합니다.",
+                "en": "Refers to carved artwork or the art of sculpting",
+                "ja": "彫られた作品または彫刻術を意味します",
+                "zh": "指雕刻的作品或雕刻艺术",
+                "fr": "Désigne une œuvre sculptée ou l'art de la sculpture"
+            },
+            "example": "The museum has a collection of modern sculpture.",
+            "translation": {
+                "ko": "그 박물관은 현대 조각품들을 소장하고 있다.",
+                "ja": "博物館は現代彫刻の収集品があります",
+                "zh": "博物馆有现代雕塑的收藏",
+                "fr": "Le musée possède une collection de sculpture moderne"
+            }
+        }
+    ]
+}

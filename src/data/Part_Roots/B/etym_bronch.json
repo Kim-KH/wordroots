@@ -1,0 +1,101 @@
+{
+    "root_info": {
+        "roots": "bronch (trachea) bronchia, bronchitis",
+        "origin": "Greek, bronkhos (windpipe, throat)",
+        "meaning": {
+            "ko": "기관",
+            "en": "windpipe",
+            "ja": "気管",
+            "zh": "气管",
+            "fr": "trachée"
+        }
+    },
+    "words": [
+        {
+            "word": "bronchia",
+            "part_of_speech": "",
+            "origin": "Greek, bronkhia (the bronchial tubes)",
+            "meaning": {
+                "ko": "기관지",
+                "en": "bronchial tubes",
+                "ja": "気管支",
+                "zh": "支气管",
+                "fr": "bronches"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bronch (bronkhos)",
+                    "meaning": {
+                        "ko": "'기관, 목구멍'",
+                        "en": "windpipe, throat",
+                        "ja": "気管、喉",
+                        "zh": "气管，喉咙",
+                        "fr": "trachée, gorge"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "폐로 이어지는 '기관(trachea)'에서 갈라져 나온 공기 통로인 '기관지'를 의미하는 'bronchus'의 복수형입니다.",
+                "en": "Plural of bronchus; the air passages branching from the trachea into the lungs.",
+                "ja": "気管から分岐した空気通路「気管支」を意味するbronchusの複数形。",
+                "zh": "支气管bronchus的复数形，指从气管分叉进入肺部的空气通道「支气管」。",
+                "fr": "Pluriel de bronchus; les passages d'air se ramifiant de la trachée vers les poumons."
+            },
+            "example": "The bronchia are the main passageways into the lungs.",
+            "translation": {
+                "ko": "기관지는 폐로 들어가는 주된 통로이다.",
+                "ja": "呼吸器感染症の際、気管支に粘液が蓄積する。",
+                "zh": "呼吸道感染时，支气管中会积聚黏液。",
+                "fr": "Du mucus s'accumule dans les bronches lors d'une infection respiratoire."
+            }
+        },
+        {
+            "word": "bronchitis",
+            "part_of_speech": "",
+            "origin": "Greek, bronkhos (windpipe) + -itis (inflammation)",
+            "meaning": {
+                "ko": "기관 염증",
+                "en": "inflammation of the windpipe",
+                "ja": "気管炎",
+                "zh": "气管炎",
+                "fr": "trachéite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bronch (bronkhos)",
+                    "meaning": {
+                        "ko": "'기관지'",
+                        "en": "bronchial tube",
+                        "ja": "気管支",
+                        "zh": "支气管",
+                        "fr": "bronche"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기관지(bronch)에 생긴 염증(itis)'이라는 뜻의 의학 용어로, '기관지염'을 가리킵니다.",
+                "en": "Inflammation (itis) of the bronchi (bronch); a respiratory disease.",
+                "ja": "「気管支(bronch)の炎症(itis)」から「気管支炎」。",
+                "zh": "意为「支气管(bronch)的炎症(itis)」，即「支气管炎」。",
+                "fr": "Inflammation (itis) des bronches (bronch); une maladie respiratoire."
+            },
+            "example": "Smoking is a major cause of chronic bronchitis.",
+            "translation": {
+                "ko": "흡연은 만성 기관지염의 주요 원인이다.",
+                "ja": "何週間も咳が続いた後、彼は気管支炎と診断された。",
+                "zh": "咳嗽数周后，他被诊断出患有支气管炎。",
+                "fr": "Il a été diagnostiqué d'une bronchite après des semaines de toux."
+            }
+        }
+    ]
+}

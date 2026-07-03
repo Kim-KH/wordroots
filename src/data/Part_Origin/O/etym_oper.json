@@ -1,0 +1,119 @@
+{
+    "root_info": {
+        "roots": "oper: work",
+        "origin": "Latin, opus",
+        "meaning": {
+            "ko": "일",
+            "en": "work",
+            "ja": "仕事",
+            "zh": "工作",
+            "fr": "travail"
+        }
+    },
+    "words": [
+        {
+            "word": "opus",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opus",
+                    "meaning": {
+                        "ko": "일, 작품",
+                        "en": "work",
+                        "ja": "作品、仕事",
+                        "zh": "作品、工作",
+                        "fr": "œuvre, travail"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어에서 직접 온 단어로, 예술가나 작곡가의 '작품', 특히 번호를 붙인 '작품'을 의미합니다.",
+                "en": "A word derived directly from Latin, referring to a 'work' of an artist or composer, especially a numbered 'work'.",
+                "ja": "ラテン語から直接来た単語で、芸術家や作曲家の『作品』、特に番号が付いた『作品』を意味します。",
+                "zh": "直接来自拉丁语的单词，指艺术家或作曲家的'作品'，特别是编号的'作品'。",
+                "fr": "Un mot dérivé directement du latin, désignant une 'œuvre' d'un artiste ou d'un compositeur, en particulier une 'œuvre' numérotée."
+            },
+            "example": "His last opus was a masterpiece.",
+            "translation": {
+                "ko": "그의 마지막 작품은 걸작이었다.",
+                "ja": "彼の最後の作品は傑作だった。",
+                "zh": "他最后的作品是杰作。",
+                "fr": "Son dernier opus était un chef-d'œuvre."
+            }
+        },
+        {
+            "word": "operation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oper",
+                    "meaning": {
+                        "ko": "일하다",
+                        "en": "to work",
+                        "ja": "働く",
+                        "zh": "工作",
+                        "fr": "travailler"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominalizing suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일하는 과정'이라는 의미에서 기계의 '작동', 사업체의 '운영', 군대의 '작전', 의학의 '수술' 등 다양한 뜻으로 쓰입니다.",
+                "en": "Used in various meanings including machine 'operation', business 'management', military 'operation', medical 'surgery', etc., from the concept of 'process of working'.",
+                "ja": "『働く過程』という意味から、機械の『作動』、事業体の『運営』、軍隊の『作戦』、医学の『手術』など様々な意味で使われます。",
+                "zh": "从'工作过程'的含义出发，用于机器的'运作'、企业的'经营'、军队的'作战'、医学的'手术'等多种含义。",
+                "fr": "À partir du concept de 'processus de travail', utilisé dans diverses significations incluant le 'fonctionnement' des machines, la 'gestion' des entreprises, l''opération' militaire, la 'chirurgie' médicale, etc."
+            },
+            "example": "The operation was a success.",
+            "translation": {
+                "ko": "그 수술은 성공적이었다.",
+                "ja": "その手術は成功した。",
+                "zh": "那次手术很成功。",
+                "fr": "L'opération a été un succès."
+            }
+        },
+        {
+            "word": "opera",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oper",
+                    "meaning": {
+                        "ko": "일, 작품",
+                        "en": "work",
+                        "ja": "作品、仕事",
+                        "zh": "作品、工作",
+                        "fr": "œuvre, travail"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 opus의 복수형인 opera('작품들')에서 유래했습니다. 음악, 연기, 무대 장치 등 여러 '작품들'이 결합된 종합 예술 '오페라'를 의미하게 되었습니다.",
+                "en": "From Latin opera, plural of opus ('works'). Multiple artistic elements—music, acting, stagecraft—combine into a comprehensive art form.",
+                "ja": "ラテン語opusの複数形operaに由来します。音楽、演技、舞台装置など複数の要素が組み合わさった総合芸術を意味するようになりました。",
+                "zh": "源自拉丁语opus的复数形式opera（\"作品们\"）。音乐、表演、舞台设计等多种元素结合而成的综合艺术。",
+                "fr": "Du latin opera, pluriel d'opus (« œuvres »). Forme d'art synthétique combinant musique, jeu d'acteur et mise en scène."
+            },
+            "example": "We went to the opera last night.",
+            "translation": {
+                "ko": "우리는 어젯밤에 오페라를 보러 갔다.",
+                "ja": "昨晩、オペラを見に行きました。",
+                "zh": "昨晚我们去看了歌剧。",
+                "fr": "Nous sommes allés à l'opéra hier soir."
+            }
+        }
+    ]
+}

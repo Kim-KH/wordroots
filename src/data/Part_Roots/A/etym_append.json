@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "append (hang on, addition) append, appendage, appendix",
+        "origin": "Latin, pendere (to hang)",
+        "meaning": {
+            "ko": "매달다",
+            "en": "to hang",
+            "ja": "掛ける",
+            "zh": "悬挂",
+            "fr": "pendre"
+        }
+    },
+    "words": [
+        {
+            "word": "append",
+            "part_of_speech": "",
+            "origin": "Latin, appendere (to hang something on)",
+            "meaning": {
+                "ko": "매달다",
+                "en": "to hang on",
+                "ja": "付け加える",
+                "zh": "附加",
+                "fr": "ajouter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ap- (ad)",
+                    "meaning": {
+                        "ko": "'~에'",
+                        "en": "to",
+                        "ja": "に",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend (pendere)",
+                    "meaning": {
+                        "ko": "'매달다'",
+                        "en": "to hang",
+                        "ja": "掛ける",
+                        "zh": "悬挂",
+                        "fr": "accrocher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어딘가에 매달다'라는 의미에서 글이나 문서 끝에 내용을 '덧붙이다', '추가하다'라는 뜻으로 발전했습니다.",
+                "en": "Originally meant 'to hang on something', but evolved to mean 'add' or 'attach' content at the end of text or documents",
+                "ja": "元々は『何かに掛ける』という意味でしたが、文書やテキストの末尾に内容を『付け足す』『追加する』という意味に発展しました",
+                "zh": "原意为'挂在某处'，但演变为在文本或文档末尾'附加'或'添加'内容的意思",
+                "fr": "Signifiait à l'origine 'accrocher à quelque chose', mais a évolué pour signifier 'ajouter' ou 'joindre' du contenu à la fin d'un document ou d'un texte"
+            },
+            "example": "Please append your signature to the bottom of the form.",
+            "translation": {
+                "ko": "양식 하단에 서명을 덧붙여 주십시오.",
+                "ja": "フォームの下部にあなたの署名を付け加えてください",
+                "zh": "请在表格底部附加您的签名",
+                "fr": "Veuillez ajouter votre signature au bas du formulaire"
+            }
+        },
+        {
+            "word": "appendage",
+            "part_of_speech": "",
+            "origin": "Latin, appendicium (an addition)",
+            "meaning": {
+                "ko": "추가된 것",
+                "en": "an addition",
+                "ja": "追加されたもの",
+                "zh": "附加物",
+                "fr": "addition"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "append (appendere)",
+                    "meaning": {
+                        "ko": "'매달다'",
+                        "en": "to hang",
+                        "ja": "掛ける",
+                        "zh": "悬挂",
+                        "fr": "suspendre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-age",
+                    "meaning": {
+                        "ko": "'집합, 상태'",
+                        "en": "collection, state",
+                        "ja": "集合、状態",
+                        "zh": "集合、状态",
+                        "fr": "ensemble, état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "본체에 '매달려 있는 것'이라는 의미로, 동물의 다리, 더듬이와 같은 '부속지'나, 더 크고 중요한 것에 딸려 있는 '부속물'을 의미합니다.",
+                "en": "Literally 'something hanging from the main body', referring to appendages of animals such as legs and antennae, or accessories attached to something larger and more important.",
+                "ja": "本体に'掛かっている物'という意味で、動物の足、触覚のような'付属肢'や、より大きく重要な物に付随する'付属物'を意味します。",
+                "zh": "字面意思为'悬挂在主体上的东西'，指动物的腿、触角等'附肢'，或附属于更大更重要事物的'附件'。",
+                "fr": "Littéralement 'quelque chose pendu du corps principal', désignant les membres d'animaux tels que les pattes et antennes, ou les accessoires attachés à quelque chose de plus grand et important."
+            },
+            "example": "The lobster's claws are powerful appendages.",
+            "translation": {
+                "ko": "가재의 집게는 강력한 부속지이다.",
+                "ja": "ロブスターの爪は強力な付属肢です。",
+                "zh": "龙虾的爪子是强大的附肢。",
+                "fr": "Les pinces du homard sont des appendices puissants."
+            }
+        },
+        {
+            "word": "appendix",
+            "part_of_speech": "",
+            "origin": "Latin, appendix (an addition)",
+            "meaning": {
+                "ko": "붙어있는 것",
+                "en": "something attached",
+                "ja": "付属物",
+                "zh": "附属物",
+                "fr": "chose attachée"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ap- (ad)",
+                    "meaning": {
+                        "ko": "'~에'",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "向",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend (pendere)",
+                    "meaning": {
+                        "ko": "'매달다'",
+                        "en": "to hang",
+                        "ja": "掛ける",
+                        "zh": "悬挂",
+                        "fr": "suspendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어딘가에 매달려 있는(append) 것'이라는 의미에서 책의 끝에 추가 정보를 담는 '부록'이나, 해부학적으로 막창 끝에 매달려 있는 '충수(맹장)'를 뜻합니다.",
+                "en": "From the concept of something hanging onto a location (append): refers to 'appendix' containing supplementary information at the end of a book, or anatomically the 'appendix' hanging from the end of the cecum.",
+                "ja": "どこかに掛かっている(append)という概念から：本の最後に追加情報を含む『付録』や、解剖学的に盲腸の先端に掛かっている『虫垂』を意味します。",
+                "zh": "从某处悬挂(append)的概念而来：指书籍末尾包含补充信息的『附录』，或解剖学上悬挂在盲肠末端的『阑尾』。",
+                "fr": "Du concept de quelque chose suspendu à un endroit (append) : désigne l'«appendice» contenant des informations supplémentaires à la fin d'un livre, ou anatomiquement l'«appendice» suspendu à l'extrémité du caecum."
+            },
+            "example": "Detailed statistical data is available in the appendix.",
+            "translation": {
+                "ko": "상세한 통계 자료는 부록에서 볼 수 있습니다.",
+                "ja": "詳細な統計データは付録に記載されています。",
+                "zh": "详细的统计数据可在附录中找到。",
+                "fr": "Les données statistiques détaillées sont disponibles en annexe."
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "plasm(a) (fluid substance) cytoplasm, ectoplasm, endoplasm, protoplasm",
+        "origin": "Greek, plasma (something molded or formed)",
+        "meaning": {
+            "ko": "형성된 것, 유동 물질",
+            "en": "fluid substance",
+            "ja": "流動性物質",
+            "zh": "流动物质",
+            "fr": "substance fluide"
+        }
+    },
+    "words": [
+        {
+            "word": "cytoplasm",
+            "part_of_speech": "",
+            "origin": "Greek, kytos (hollow, cell) + plasma (something formed)",
+            "meaning": {
+                "ko": "세포 형성물",
+                "en": "cell substance",
+                "ja": "細胞質",
+                "zh": "细胞质",
+                "fr": "cytoplasme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyto-",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plasm",
+                    "meaning": {
+                        "ko": "'형성물, 질'",
+                        "en": "formative matter, substance",
+                        "ja": "形成物、物質",
+                        "zh": "形成物、物质",
+                        "fr": "substance, matière"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포를 채우고 있는 물질'이라는 의미에서 '세포질'을 뜻합니다.",
+                "en": "The material that fills and comprises the cell, excluding the nucleus",
+                "ja": "細胞核を除いた細胞を満たしている物質という意味で細胞質を指す",
+                "zh": "指填充细胞的物质，不包括细胞核的含义",
+                "fr": "La substance qui remplit la cellule, excluant le noyau cellulaire"
+            },
+            "example": "The cytoplasm is the material within a living cell, excluding the nucleus.",
+            "translation": {
+                "ko": "세포질은 살아있는 세포 내에서 핵을 제외한 물질이다.",
+                "ja": "細胞質は生きている細胞内の物質であり、核を除いたものです。",
+                "zh": "细胞质是活细胞内的物质，不包括细胞核。",
+                "fr": "Le cytoplasme est la matière à l'intérieur d'une cellule vivante, excluant le noyau."
+            }
+        },
+        {
+            "word": "ectoplasm",
+            "part_of_speech": "",
+            "origin": "Greek, ektos (outside) + plasma (something formed)",
+            "meaning": {
+                "ko": "바깥 형성물",
+                "en": "outer formation or substance",
+                "ja": "外側の形成物",
+                "zh": "外部形成物",
+                "fr": "formation externe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ecto-",
+                    "meaning": {
+                        "ko": "'바깥'",
+                        "en": "outside",
+                        "ja": "外側",
+                        "zh": "外部",
+                        "fr": "extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plasm",
+                    "meaning": {
+                        "ko": "'형성물, 질'",
+                        "en": "formation, substance",
+                        "ja": "形成物、物質",
+                        "zh": "形成物、物质",
+                        "fr": "formation, substance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포의 '바깥쪽 원형질'인 '외질'을 뜻합니다.",
+                "en": "Refers to the outer layer of cytoplasm in cells, known as ectosarc",
+                "ja": "細胞の外側の原形質である外質を意味します",
+                "zh": "指细胞外侧的原生质，即外质",
+                "fr": "Désigne le cytoplasme externe des cellules, appelé ectoderme"
+            },
+            "example": "Ectoplasm is the outer layer of the cytoplasm.",
+            "translation": {
+                "ko": "외질은 세포질의 바깥층이다.",
+                "ja": "外形質",
+                "zh": "外质",
+                "fr": "ectoplasme"
+            }
+        },
+        {
+            "word": "endoplasm",
+            "part_of_speech": "",
+            "origin": "Greek, endon (within) + plasma (something formed)",
+            "meaning": {
+                "ko": "안쪽 형성물",
+                "en": "inner formed substance",
+                "ja": "細胞内部の原形質",
+                "zh": "细胞内部原生质",
+                "fr": "cytoplasme interne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "endo-",
+                    "meaning": {
+                        "ko": "'안쪽'",
+                        "en": "within",
+                        "ja": "内部、内側",
+                        "zh": "内部、内侧",
+                        "fr": "intérieur, dedans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plasm",
+                    "meaning": {
+                        "ko": "'형성물, 질'",
+                        "en": "formed matter, substance",
+                        "ja": "形成物、物質",
+                        "zh": "形成物、物质",
+                        "fr": "formation, substance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포의 '안쪽 원형질'인 '내질'을 뜻합니다.",
+                "en": "The inner, more fluid portion of the cytoplasm within a cell",
+                "ja": "細胞の内側に位置するより流動的な原形質部分",
+                "zh": "位于细胞内侧且流动性较强的原生质部分",
+                "fr": "La portion la plus fluide du cytoplasme situé à l'intérieur de la cellule"
+            },
+            "example": "The endoplasm is the inner, more fluid part of the cytoplasm.",
+            "translation": {
+                "ko": "내질은 세포질의 더 안쪽, 더 유동적인 부분이다.",
+                "ja": "内質",
+                "zh": "内质",
+                "fr": "endoplasme"
+            }
+        },
+        {
+            "word": "protoplasm",
+            "part_of_speech": "",
+            "origin": "Greek, protos (first) + plasma (something formed)",
+            "meaning": {
+                "ko": "처음 형성된 것",
+                "en": "first formed substance",
+                "ja": "原形質",
+                "zh": "原生质",
+                "fr": "protoplasme"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "proto-",
+                    "meaning": {
+                        "ko": "'처음의'",
+                        "en": "first",
+                        "ja": "最初の",
+                        "zh": "最初的",
+                        "fr": "premier"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plasm",
+                    "meaning": {
+                        "ko": "'형성된 것'",
+                        "en": "formed matter",
+                        "ja": "形成されたもの",
+                        "zh": "形成的物质",
+                        "fr": "substance formée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포를 이루는 '최초의, 기본적인 물질'이라는 의미에서 '원형질'을 뜻합니다.",
+                "en": "Protoplasm refers to the 'first, basic substance' that forms a cell.",
+                "ja": "細胞を構成する'最初の、基本的な物質'という意味で'原形質'を意味します。",
+                "zh": "指构成细胞的'最初的、基本的物质'，即'原生质'的意思。",
+                "fr": "Désigne la 'première substance fondamentale' qui compose une cellule, c'est-à-dire le 'protoplasme'."
+            },
+            "example": "Protoplasm is the living substance of a cell.",
+            "translation": {
+                "ko": "원형질은 세포의 살아있는 물질이다.",
+                "ja": "原形質は細胞の生きた物質です。",
+                "zh": "原生质是细胞的生命物质。",
+                "fr": "Le protoplasme est la substance vivante d'une cellule."
+            }
+        }
+    ]
+}

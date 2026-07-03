@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "auto (self, same) autograph, automatic, automobile, autonomous",
+        "origin": "Greek, autos (self)",
+        "meaning": {
+            "ko": "자기 자신",
+            "en": "self",
+            "ja": "自己",
+            "zh": "自我",
+            "fr": "soi-même"
+        }
+    },
+    "words": [
+        {
+            "word": "autograph",
+            "part_of_speech": "",
+            "origin": "Greek, autographos (written with one's own hand)",
+            "meaning": {
+                "ko": "자신의 손으로 쓴",
+                "en": "written in one's own hand",
+                "ja": "自分の手で書いたもの",
+                "zh": "自己亲笔写的",
+                "fr": "écrit de sa propre main"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "'자신의'",
+                        "en": "self",
+                        "ja": "自分自身の",
+                        "zh": "自己的",
+                        "fr": "de soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "'쓰다'",
+                        "en": "to write",
+                        "ja": "書く",
+                        "zh": "写",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신이 직접 쓴 것'이라는 의미에서 유명인의 '사인'을 뜻합니다.",
+                "en": "Refers to the signature of a famous person, written in their own hand",
+                "ja": "有名人が自分で直接書いたサインを意味します",
+                "zh": "指名人亲笔签名",
+                "fr": "Désigne la signature d'une célébrité écrite de sa main"
+            },
+            "example": "I got the actor's autograph after the show.",
+            "translation": {
+                "ko": "나는 공연이 끝난 후 그 배우의 사인을 받았다.",
+                "ja": "ショーの後、その俳優のサインをもらいました。",
+                "zh": "演出后，我得到了那位演员的亲笔签名。",
+                "fr": "J'ai obtenu la signature de l'acteur après le spectacle."
+            }
+        },
+        {
+            "word": "automatic",
+            "part_of_speech": "",
+            "origin": "Greek, automatos (acting of itself)",
+            "meaning": {
+                "ko": "스스로 움직이는",
+                "en": "moving by itself",
+                "ja": "自動的",
+                "zh": "自动的",
+                "fr": "automatique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "'스스로'",
+                        "en": "self",
+                        "ja": "自分自身で",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "matos",
+                    "meaning": {
+                        "ko": "'움직이는'",
+                        "en": "moving",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "se mouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'스스로 움직이는' 이라는 의미에서 '자동의' 라는 뜻이 되었습니다.",
+                "en": "From the meaning 'moving by itself' came the sense of 'automatic'",
+                "ja": "自分で動く という意味から 自動的 という意味になった",
+                "zh": "从自己移动的意思演变为自动的含义",
+                "fr": "Du sens 'se mouvoir par soi-même' est venu le sens 'automatique'"
+            },
+            "example": "This factory has automatic doors.",
+            "translation": {
+                "ko": "이 공장에는 자동문이 있다.",
+                "ja": "この工場は自動ドアを持っている。",
+                "zh": "这家工厂有自动门。",
+                "fr": "Cette usine a des portes automatiques."
+            }
+        },
+        {
+            "word": "automobile",
+            "part_of_speech": "",
+            "origin": "French, automobile",
+            "meaning": {
+                "ko": "스스로 움직이는",
+                "en": "moving by itself",
+                "ja": "自動で動く乗り物",
+                "zh": "自动行驶的车辆",
+                "fr": "véhicule se mouvant seul"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "'스스로'",
+                        "en": "self",
+                        "ja": "自分で",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mobile (mobilis)",
+                    "meaning": {
+                        "ko": "'움직일 수 있는'",
+                        "en": "movable",
+                        "ja": "動かせる",
+                        "zh": "可移动的",
+                        "fr": "mobile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "프랑스어에서 유래한 단어로, '스스로 움직이는 것'이라는 의미에서 '자동차'를 뜻하게 되었습니다.",
+                "en": "Word derived from French meaning 'self-propelled,' which came to mean automobile.",
+                "ja": "フランス語に由来する言葉で、'自分で動く'という意味から'自動車'を意味するようになりました。",
+                "zh": "源自法语的词汇，从'自动运动'的含义演变为'汽车'的意思。",
+                "fr": "Mot dérivé du français signifiant 'se mouvant soi-même', devenu synonyme d'automobile."
+            },
+            "example": "The automobile industry is a major part of the economy.",
+            "translation": {
+                "ko": "자동차 산업은 경제의 주요 부분이다.",
+                "ja": "自動車業界は経済の重要な部分です。",
+                "zh": "汽车工业是经济的重要组成部分。",
+                "fr": "L'industrie automobile est une partie majeure de l'économie."
+            }
+        },
+        {
+            "word": "autonomous",
+            "part_of_speech": "",
+            "origin": "Greek, autonomia (independence)",
+            "meaning": {
+                "ko": "독립",
+                "en": "independence",
+                "ja": "独立した",
+                "zh": "独立的",
+                "fr": "autonome"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "'자신의'",
+                        "en": "self",
+                        "ja": "自身の",
+                        "zh": "自己的",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomos",
+                    "meaning": {
+                        "ko": "'법, 규칙'",
+                        "en": "law",
+                        "ja": "法律、規則",
+                        "zh": "法律、规则",
+                        "fr": "loi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신만의 법을 가진' 이라는 의미에서 '자치의', '자율적인' 이라는 뜻이 되었습니다.",
+                "en": "From the meaning of 'having one's own law', it came to mean 'self-governing' or 'autonomous'",
+                "ja": "自分自身の法を持つという意味から、自治の、自律的なという意味になりました",
+                "zh": "从拥有自己的法律的意思演变为自治的、自主的意思",
+                "fr": "Du sens d'avoir sa propre loi, il a pris le sens de 'autonome' ou 'self-governing'"
+            },
+            "example": "The university is an autonomous institution.",
+            "translation": {
+                "ko": "그 대학교는 자치 기관이다.",
+                "ja": "大学は自治的な機関である。",
+                "zh": "这所大学是一个独立自治的机构。",
+                "fr": "L'université est une institution autonome."
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "itis (inflammation) appendicitis, arthritis, bronchitis, hepatitis",
+        "origin": "Greek, -itis (pertaining to, inflammation)",
+        "meaning": {
+            "ko": "염증",
+            "en": "inflammation",
+            "ja": "炎症",
+            "zh": "炎症",
+            "fr": "inflammation"
+        }
+    },
+    "words": [
+        {
+            "word": "appendicitis",
+            "part_of_speech": "",
+            "origin": "Latin, appendix + Greek, -itis",
+            "meaning": {
+                "ko": "충수 염증",
+                "en": "inflammation of the appendix",
+                "ja": "虫垂炎",
+                "zh": "阑尾炎",
+                "fr": "appendicite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "appendic-",
+                    "meaning": {
+                        "ko": "'충수'",
+                        "en": "appendix",
+                        "ja": "虫垂",
+                        "zh": "阑尾",
+                        "fr": "appendice"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'충수에 염증이 생기는 병'인 '충수염', '맹장염'을 뜻합니다.",
+                "en": "Inflammation of the appendix, also known as appendicitis or cecitis",
+                "ja": "虫垂に炎症が生じる病気で、虫垂炎と呼ばれる",
+                "zh": "阑尾发炎的疾病，也称阑尾炎",
+                "fr": "Maladie caractérisée par l'inflammation de l'appendice"
+            },
+            "example": "He had to have surgery for appendicitis.",
+            "translation": {
+                "ko": "그는 맹장염으로 수술을 받아야 했다.",
+                "ja": "彼は虫垂炎の手術を受ける必要があった。",
+                "zh": "他不得不做阑尾炎手术。",
+                "fr": "Il a dû se faire opérer pour une appendicite."
+            }
+        },
+        {
+            "word": "arthritis",
+            "part_of_speech": "",
+            "origin": "Greek, arthron (joint) + -itis",
+            "meaning": {
+                "ko": "관절 염증",
+                "en": "joint inflammation",
+                "ja": "関節炎",
+                "zh": "关节炎",
+                "fr": "arthrite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arthr-",
+                    "meaning": {
+                        "ko": "'관절'",
+                        "en": "joint",
+                        "ja": "関節",
+                        "zh": "关节",
+                        "fr": "articulation"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'관절에 염증이 생기는 병'인 '관절염'을 뜻합니다.",
+                "en": "Arthritis refers to inflammation occurring in the joints, a condition affecting joint health.",
+                "ja": "関節に炎症が起こる病気である関節炎を意味します。",
+                "zh": "指关节处发生炎症的疾病，即关节炎。",
+                "fr": "Désigne l'arthrite, maladie caractérisée par une inflammation des articulations."
+            },
+            "example": "Arthritis can be a painful and debilitating condition.",
+            "translation": {
+                "ko": "관절염은 고통스럽고 쇠약하게 만드는 상태일 수 있다.",
+                "ja": "関節炎は痛みを伴い、機能を損なう可能性のある状態です。",
+                "zh": "关节炎是一种疼痛且可能导致功能障碍的疾病。",
+                "fr": "L'arthrite peut être une affection douloureuse et débilitante."
+            }
+        },
+        {
+            "word": "bronchitis",
+            "part_of_speech": "",
+            "origin": "Greek, bronkhos (windpipe) + -itis",
+            "meaning": {
+                "ko": "기관지 염증",
+                "en": "inflammation of the bronchial tubes",
+                "ja": "気管支の炎症",
+                "zh": "支气管炎症",
+                "fr": "inflammation des bronches"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bronch-",
+                    "meaning": {
+                        "ko": "'기관지'",
+                        "en": "windpipe",
+                        "ja": "気管支",
+                        "zh": "支气管",
+                        "fr": "bronche"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기관지에 염증이 생기는 병'인 '기관지염'을 뜻합니다.",
+                "en": "A disease in which inflammation occurs in the bronchial tubes",
+                "ja": "気管支に炎症が生じる病気",
+                "zh": "支气管发生炎症的疾病",
+                "fr": "une maladie caractérisée par une inflammation des bronches"
+            },
+            "example": "Chronic bronchitis is often caused by smoking.",
+            "translation": {
+                "ko": "만성 기관지염은 종종 흡연에 의해 발생한다.",
+                "ja": "喫煙は慢性気管支炎の一般的な原因です。",
+                "zh": "吸烟通常会引起慢性支气管炎。",
+                "fr": "La bronchite chronique est souvent causée par le tabagisme."
+            }
+        },
+        {
+            "word": "hepatitis",
+            "part_of_speech": "",
+            "origin": "Greek, hepar (liver) + -itis",
+            "meaning": {
+                "ko": "간 염증",
+                "en": "liver inflammation",
+                "ja": "肝臓の炎症",
+                "zh": "肝脏炎症",
+                "fr": "inflammation du foie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hepat-",
+                    "meaning": {
+                        "ko": "'간'",
+                        "en": "liver",
+                        "ja": "肝臓",
+                        "zh": "肝脏",
+                        "fr": "foie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'간에 염증이 생기는 병'인 '간염'을 뜻합니다.",
+                "en": "Hepatitis refers to inflammation of the liver.",
+                "ja": "肝炎は肝臓に炎症が生じる病気を意味します。",
+                "zh": "肝炎是指肝脏发炎的疾病。",
+                "fr": "L'hépatite désigne une maladie d'inflammation du foie."
+            },
+            "example": "Hepatitis B is a viral infection that affects the liver.",
+            "translation": {
+                "ko": "B형 간염은 간에 영향을 미치는 바이러스 감염이다.",
+                "ja": "B型肝炎はウイルス感染で肝臓に影響を与えます。",
+                "zh": "乙肝是一种病毒感染，影响肝脏。",
+                "fr": "L'hépatite B est une infection virale affectant le foie."
+            }
+        }
+    ]
+}

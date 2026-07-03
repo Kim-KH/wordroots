@@ -1,0 +1,176 @@
+{
+    "root_info": {
+        "roots": "ad (attached to, on, increase) adhere, adductor, adrenal",
+        "origin": "Latin, ad (to, toward)",
+        "meaning": {
+            "ko": "~으로, ~을 향하여",
+            "en": "to, toward",
+            "ja": "~へ, ~の方へ",
+            "zh": "向, 朝向",
+            "fr": "vers, "
+        }
+    },
+    "words": [
+        {
+            "word": "adhere",
+            "part_of_speech": "",
+            "origin": "Latin, adhaerere (to stick to)",
+            "meaning": {
+                "ko": "들러붙다",
+                "en": "to stick",
+                "ja": "付着する, 固執する",
+                "zh": "黏附, 坚持",
+                "fr": "adh梨rer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "'에, 쪽으로'",
+                        "en": "to, toward",
+                        "ja": "~へ",
+                        "zh": "向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "here (haerere)",
+                    "meaning": {
+                        "ko": "'붙다'",
+                        "en": "to stick",
+                        "ja": "付着する",
+                        "zh": "黏附",
+                        "fr": "adh梨rer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'~에 가서 붙어있다'는 의미에서 물리적으로 '들러붙다' 또는 규칙이나 신념 등을 '고수하다'라는 뜻이 되었습니다.",
+                "en": "Go and stick to → adhere, comply",
+                "ja": "〜に行って貼り付く→固執する",
+                "zh": "去附着在上面，即遵循",
+                "fr": "Aller et rester collé → adhérer, se conformer"
+            },
+            "example": "All employees must adhere to the company's dress code.",
+            "translation": {
+                "ko": "모든 직원은 회사의 복장 규정을 준수해야 합니다.",
+                "ja": "くっつく、固執する",
+                "zh": "粘附，坚持，遵守",
+                "fr": "adhérer, se conformer"
+            }
+        },
+        {
+            "word": "adductor",
+            "part_of_speech": "",
+            "origin": "Latin, adducere (to bring to)",
+            "meaning": {
+                "ko": "이끌어오다",
+                "en": "to lead to",
+                "ja": "〜へ導く",
+                "zh": "导致",
+                "fr": "mener à"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "'~쪽으로'",
+                        "en": "toward",
+                        "ja": "〜の方へ",
+                        "zh": "向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duct (ducere)",
+                    "meaning": {
+                        "ko": "'이끌다'",
+                        "en": "to lead",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "mener"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "'~하는 것'",
+                        "en": "thing that does",
+                        "ja": "~するもの",
+                        "zh": "...者",
+                        "fr": "celui qui fait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "해부학에서, 신체의 한 부분을 신체 중심선 쪽으로(ad-) 당기는(duct) 근육을 의미하여 '내전근'이라는 뜻으로 쓰입니다.",
+                "en": "Muscle pulling toward the body's midline → adductor",
+                "ja": "体の一部を中心線に向けて引く筋肉→内転筋",
+                "zh": "将身体某部位向中心线拉的肌肉，即内收肌",
+                "fr": "Muscle tirant une partie du corps vers la ligne médiane → adducteur"
+            },
+            "example": "The adductor muscles help you bring your legs together.",
+            "translation": {
+                "ko": "내전근은 다리를 모으는 데 도움을 줍니다.",
+                "ja": "内転筋",
+                "zh": "内收肌",
+                "fr": "muscle adducteur"
+            }
+        },
+        {
+            "word": "adrenal",
+            "part_of_speech": "",
+            "origin": "Latin, ad- (near) + renes (kidneys)",
+            "meaning": {
+                "ko": "신장 근처",
+                "en": "near the kidneys",
+                "ja": "腎臓の近く",
+                "zh": "靠近肾脏",
+                "fr": "près des reins"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "'~에 붙어있는'",
+                        "en": "near, next to",
+                        "ja": "~に付着している",
+                        "zh": "附着于~",
+                        "fr": "attaché à, près de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "renal (renes)",
+                    "meaning": {
+                        "ko": "'신장'",
+                        "en": "kidney",
+                        "ja": "腎臓",
+                        "zh": "肾脏",
+                        "fr": "rein"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신장(renal)에 붙어있는(ad)' 기관이라는 의미에서 '부신' 또는 '부신의'라는 뜻으로 사용됩니다.",
+                "en": "The term 'adrenal' comes from the morphemes 'ad-' (near, next to) and 'renal' (kidney), referring to glands attached near the kidneys.",
+                "ja": "腎臓(renal)に付着している(ad)器官という意味で副腎を指します。",
+                "zh": "由'ad-'(靠近)和'renal'(肾脏)组成，指靠近肾脏的器官。",
+                "fr": "Le terme 'adrénal' vient des morphèmes 'ad-' (près de) et 'renal' (rein), désignant les glandes situées près des reins."
+            },
+            "example": "The adrenal glands produce important hormones.",
+            "translation": {
+                "ko": "부신은 중요한 호르몬을 생산합니다.",
+                "ja": "副腎は重要なホルモンを分泌します。",
+                "zh": "肾上腺产生重要的激素。",
+                "fr": "Les glandes surrénales produisent des hormones importantes."
+            }
+        }
+    ]
+}

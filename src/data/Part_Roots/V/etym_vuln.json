@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "vuln (attack) invulnerable, vulnerable, vulnerability",
+        "origin": "Latin, vulnus (a wound)",
+        "meaning": {
+            "ko": "상처",
+            "en": "a wound",
+            "ja": "傷",
+            "zh": "伤口",
+            "fr": "une blessure"
+        }
+    },
+    "words": [
+        {
+            "word": "invulnerable",
+            "part_of_speech": "",
+            "origin": "Latin, invulnerabilis (that cannot be wounded)",
+            "meaning": {
+                "ko": "상처 입힐 수 없는",
+                "en": "unable to be wounded",
+                "ja": "傷つけられない",
+                "zh": "无法伤害",
+                "fr": "invulnérable"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "〜ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vulnerable",
+                    "meaning": {
+                        "ko": "'상처 입기 쉬운'",
+                        "en": "easy to wound",
+                        "ja": "傷つきやすい",
+                        "zh": "容易受伤",
+                        "fr": "vulnérable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상처를 입힐 수 없는'이라는 의미에서 '천하무적의', '안전한'이라는 뜻입니다.",
+                "en": "Meaning unable to be wounded or harmed; invincible and safe.",
+                "ja": "傷つけられないという意味で、無敵で安全という意味です。",
+                "zh": "意思是无法被伤害；无敌和安全的。",
+                "fr": "Signifie incapable d'être blessé; invincible et sûr."
+            },
+            "example": "The superhero seemed invulnerable.",
+            "translation": {
+                "ko": "그 슈퍼히어로는 천하무적처럼 보였다.",
+                "ja": "そのスーパーヒーローは傷つけられないように見えた。",
+                "zh": "这位超级英雄似乎无法被伤害。",
+                "fr": "Le super-héros semblait invulnérable."
+            }
+        },
+        {
+            "word": "vulnerable",
+            "part_of_speech": "",
+            "origin": "Latin, vulnerabilis (wounding)",
+            "meaning": {
+                "ko": "상처 입히는",
+                "en": "wounding or injuring",
+                "ja": "傷つきやすい",
+                "zh": "易受伤害的",
+                "fr": "vulnérable"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vulner- (vulnus)",
+                    "meaning": {
+                        "ko": "'상처'",
+                        "en": "wound",
+                        "ja": "傷",
+                        "zh": "伤口",
+                        "fr": "blessure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상처를 입기 쉬운'이라는 의미에서 '취약한', '연약한'이라는 뜻입니다.",
+                "en": "Means 'easy to be wounded' or 'susceptible to harm', conveying a sense of being weak or fragile.",
+                "ja": "傷つきやすいという意味から、弱い、脆弱であることを意味します",
+                "zh": "从容易受伤的意思来看，表示虚弱、脆弱",
+                "fr": "Signifie 'facile à blesser' ou 'susceptible d'être endommagé', exprimant la faiblesse ou la fragilité"
+            },
+            "example": "Young children are very vulnerable.",
+            "translation": {
+                "ko": "어린 아이들은 매우 취약하다.",
+                "ja": "幼い子どもたちは非常に傷つきやすい",
+                "zh": "幼小的孩子非常容易受伤害",
+                "fr": "Les jeunes enfants sont très vulnérables"
+            }
+        },
+        {
+            "word": "vulnerability",
+            "part_of_speech": "",
+            "origin": "Latin, vulnerabilis",
+            "meaning": {
+                "ko": "상처 입기 쉬운",
+                "en": "easily susceptible to injury",
+                "ja": "傷つきやすい状態",
+                "zh": "容易受伤的状态",
+                "fr": "état de fragilité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vulnerable",
+                    "meaning": {
+                        "ko": "'취약한'",
+                        "en": "susceptible to harm",
+                        "ja": "脆弱な",
+                        "zh": "脆弱的",
+                        "fr": "fragile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상처 입기 쉬운 상태'인 '취약성'을 뜻합니다.",
+                "en": "The state of being easily hurt or damaged",
+                "ja": "傷つきやすい状態を意味する脆弱性",
+                "zh": "意味着容易受伤或被破坏的状态",
+                "fr": "État de susceptibilité aux blessures ou dommages"
+            },
+            "example": "The system has a security vulnerability.",
+            "translation": {
+                "ko": "그 시스템은 보안 취약점을 가지고 있다.",
+                "ja": "システムはセキュリティの脆弱性があります。",
+                "zh": "该系统存在安全漏洞。",
+                "fr": "Le système présente une vulnérabilité de sécurité."
+            }
+        }
+    ]
+}

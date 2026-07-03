@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "omni",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "모든",
+            "en": "all",
+            "ja": "すべて",
+            "zh": "所有",
+            "fr": "tous"
+        }
+    },
+    "words": [
+        {
+            "word": "omnipotent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "omni",
+                    "meaning": {
+                        "ko": "모든",
+                        "en": "all",
+                        "ja": "すべての",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "potent",
+                    "meaning": {
+                        "ko": "힘 있는",
+                        "en": "powerful",
+                        "ja": "力のある",
+                        "zh": "有力的",
+                        "fr": "puissant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 힘을 가진' 즉, '전능한'이라는 뜻입니다.",
+                "en": "'having all power'; meaning all-powerful or almighty",
+                "ja": "「すべての力を持つ」つまり「全能な」という意味です",
+                "zh": "「拥有所有的力量」即「全能的」意思",
+                "fr": "« ayant tous les pouvoirs » ; signifiant tout-puissant ou omnipotent"
+            },
+            "example": "God is described as omnipotent.",
+            "translation": {
+                "ko": "신은 전능하다고 묘사된다.",
+                "ja": "神は全能だと説明されている",
+                "zh": "上帝被描述为全能的",
+                "fr": "Dieu est décrit comme omnipotent"
+            }
+        },
+        {
+            "word": "omnivorous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "omni",
+                    "meaning": {
+                        "ko": "모든",
+                        "en": "all",
+                        "ja": "すべての",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vorous",
+                    "meaning": {
+                        "ko": "먹는",
+                        "en": "eating",
+                        "ja": "食べる",
+                        "zh": "吃",
+                        "fr": "manger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 것을 먹는'이라는 의미에서 '잡식성의'라는 뜻입니다.",
+                "en": "From Latin omni- (all) and vorare (to eat); literally 'eating all things'",
+                "ja": "ラテン語の「omni-（すべて）」と「vorare（食べる）」から；文字通り「すべてのものを食べる」",
+                "zh": "源自拉丁语omni-（所有）和vorare（吃）；字面意思是\"吃所有东西\"",
+                "fr": "Du latin omni- (tous) et vorare (manger); littéralement 'manger toutes choses'"
+            },
+            "example": "Humans are omnivorous.",
+            "translation": {
+                "ko": "인간은 잡식성이다.",
+                "ja": "人間は雑食性である。",
+                "zh": "人类是杂食性的。",
+                "fr": "Les humains sont omnivores."
+            }
+        },
+        {
+            "word": "omniscient",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "omni",
+                    "meaning": {
+                        "ko": "모든",
+                        "en": "all",
+                        "ja": "すべての",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scient",
+                    "meaning": {
+                        "ko": "아는",
+                        "en": "knowing",
+                        "ja": "知っている",
+                        "zh": "知道",
+                        "fr": "connaître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 것을 아는'이라는 의미에서 '전지(全知)의'라는 뜻입니다.",
+                "en": "From Latin omnis 'all' + sciens 'knowing'; meaning 'knowing all things'",
+                "ja": "ラテン語の omnis（すべての）と sciens（知っている）から。すべてを知っているという意味です。",
+                "zh": "来自拉丁语 omnis（所有的）+ sciens（知道的）；意为「知道一切的」。",
+                "fr": "Du latin omnis « tous » + sciens « connaître »; signifie « qui sait tout »."
+            },
+            "example": "The narrator of the story is omniscient.",
+            "translation": {
+                "ko": "그 이야기의 서술자는 전지적이다.",
+                "ja": "その物語の語り手は全知的である。",
+                "zh": "这个故事的叙述者是全知的。",
+                "fr": "Le narrateur de l'histoire est omniscient."
+            }
+        }
+    ]
+}

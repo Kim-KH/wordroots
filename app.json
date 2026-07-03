@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Word Roots",
+    "slug": "etymology-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "platforms": [
+      "android"
+    ],
+    "android": {
+      "package": "com.etymologyapp",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0d1b35"
+      },
+      "permissions": []
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ce5ee984-f792-4cc6-8e81-f632539fffa4"
+      }
+    },
+    "owner": "forwinning"
+  }
+}

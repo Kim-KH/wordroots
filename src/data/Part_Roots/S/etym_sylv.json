@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "sylv (forest) sylph, sylvan, Pennsylvania",
+        "origin": "Latin, silva (a wood, a forest)",
+        "meaning": {
+            "ko": "숲",
+            "en": "a forest",
+            "ja": "森",
+            "zh": "森林",
+            "fr": "forêt"
+        }
+    },
+    "words": [
+        {
+            "word": "sylph",
+            "part_of_speech": "",
+            "origin": "Latin, silva (forest) + Greek nymphe (nymph)",
+            "meaning": {
+                "ko": "숲의 요정",
+                "en": "forest fairy",
+                "ja": "森の妖精",
+                "zh": "森林精灵",
+                "fr": "fée de la forêt"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "syl- (silva)",
+                    "meaning": {
+                        "ko": "'숲'",
+                        "en": "forest",
+                        "ja": "森",
+                        "zh": "森林",
+                        "fr": "forêt"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숲이나 공기에 산다고 알려진' 가냘픈 여자 요정을 뜻합니다.",
+                "en": "A delicate female fairy said to dwell in forests or air.",
+                "ja": "森や空気に住むとされる優雅な女性の妖精",
+                "zh": "据说住在森林或空气中的纤细女性精灵",
+                "fr": "Une fée délicate censée habiter les forêts ou l'air"
+            },
+            "example": "She moved with the grace of a sylph.",
+            "translation": {
+                "ko": "그녀는 요정처럼 우아하게 움직였다.",
+                "ja": "彼女はシルフのような優雅さで動いた",
+                "zh": "她以精灵般的优雅姿态移动",
+                "fr": "Elle se mouvait avec la grâce d'une sylphe"
+            }
+        },
+        {
+            "word": "sylvan",
+            "part_of_speech": "",
+            "origin": "Latin, silvanus (of the woods)",
+            "meaning": {
+                "ko": "숲의",
+                "en": "of the forest",
+                "ja": "森の",
+                "zh": "森林的",
+                "fr": "sylvestre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sylv- (silva)",
+                    "meaning": {
+                        "ko": "'숲'",
+                        "en": "forest",
+                        "ja": "森",
+                        "zh": "森林",
+                        "fr": "forêt"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숲의', '숲이 무성한'이라는 뜻입니다.",
+                "en": "Meaning 'of the forest' or 'wooded'",
+                "ja": "森の、森が茂った",
+                "zh": "森林的，林木茂密的",
+                "fr": "relatif à la forêt, boisé"
+            },
+            "example": "We had a picnic in a sylvan glade.",
+            "translation": {
+                "ko": "우리는 숲 속의 빈터에서 소풍을 했다.",
+                "ja": "私たちは森の中の草地でピクニックをしました。",
+                "zh": "我们在森林空地上野餐。",
+                "fr": "Nous avons pique-niqué dans une clairière sylvestre."
+            }
+        },
+        {
+            "word": "Pennsylvania",
+            "part_of_speech": "",
+            "origin": "Penn (William Penn's surname) + Latin, silvania (woodlands)",
+            "meaning": {
+                "ko": "펜의 숲",
+                "en": "forest of Penn",
+                "ja": "ペンの森",
+                "zh": "佩恩的森林",
+                "fr": "Forêt de Penn"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Penn",
+                    "meaning": {
+                        "ko": "'윌리엄 펜'",
+                        "en": "William Penn",
+                        "ja": "ウィリアム・ペン",
+                        "zh": "威廉·佩恩",
+                        "fr": "William Penn"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sylvania (silva)",
+                    "meaning": {
+                        "ko": "'숲 지대'",
+                        "en": "woodland",
+                        "ja": "森林地帯",
+                        "zh": "林地",
+                        "fr": "région boisée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'윌리엄 펜의 숲'이라는 의미의 미국 주 이름입니다.",
+                "en": "A US state name meaning 'William Penn's woodland'",
+                "ja": "ウィリアム・ペンの森という意味のアメリカ州の名前です",
+                "zh": "意思是威廉·佩恩的森林的美国州名",
+                "fr": "Nom d'un État américain signifiant 'forêt de William Penn'"
+            },
+            "example": "Pennsylvania is known as the \"Keystone State\".",
+            "translation": {
+                "ko": "펜실베이니아는 \"키스톤 주\"로 알려져 있다.",
+                "ja": "ペンシルベニア州は『キーストーン州』として知られています",
+                "zh": "宾夕法尼亚州以'宾州'而闻名",
+                "fr": "La Pennsylvanie est connue sous le nom d'État de la clé de voûte"
+            }
+        }
+    ]
+}

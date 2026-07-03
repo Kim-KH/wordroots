@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "exter (outside) external, exterior, extrinsic",
+        "origin": "Latin, exter (on the outside, outward)",
+        "meaning": {
+            "ko": "바깥의, 외부의",
+            "en": "on the outside, outward",
+            "ja": "外側に、外へ向かって",
+            "zh": "在外面，向外",
+            "fr": "à l'extérieur, vers l'extérieur"
+        }
+    },
+    "words": [
+        {
+            "word": "external",
+            "part_of_speech": "",
+            "origin": "Latin, externus (outward, external)",
+            "meaning": {
+                "ko": "외부의",
+                "en": "external or outer",
+                "ja": "外部の",
+                "zh": "外部的",
+                "fr": "externe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "exter",
+                    "meaning": {
+                        "ko": "'바깥의'",
+                        "en": "outside",
+                        "ja": "外側の",
+                        "zh": "外面的",
+                        "fr": "extérieur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-nal",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바깥쪽의'라는 의미에서 '외부의'라는 뜻으로 쓰입니다.",
+                "en": "Used to mean 'external' from the sense of 'outside'",
+                "ja": "外側という意味から外部のという意味で使われます",
+                "zh": "从外侧的意义上用来表示外部的",
+                "fr": "Utilisé pour signifier 'externe' à partir du sens d'extérieur"
+            },
+            "example": "The house has sustained some external damage.",
+            "translation": {
+                "ko": "그 집은 약간의 외부 손상을 입었다.",
+                "ja": "その家は外部の損傷を受けています",
+                "zh": "这栋房子遭受了一些外部损伤",
+                "fr": "La maison a subi quelques dommages externes"
+            }
+        },
+        {
+            "word": "exterior",
+            "part_of_speech": "",
+            "origin": "Latin, exterior (outer)",
+            "meaning": {
+                "ko": "더 바깥쪽의",
+                "en": "more outer or external",
+                "ja": "外部、外側",
+                "zh": "外部、外面",
+                "fr": "extérieur, façade"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "exter",
+                    "meaning": {
+                        "ko": "'바깥의'",
+                        "en": "outside",
+                        "ja": "外側の",
+                        "zh": "外面的",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ior",
+                    "meaning": {
+                        "ko": "'더 ~한'",
+                        "en": "comparative suffix",
+                        "ja": "比較級接尾辞",
+                        "zh": "比较级后缀",
+                        "fr": "suffixe comparatif"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더 바깥쪽에 있는 것'이라는 의미에서 건물 등의 '외부', '외면'을 뜻합니다.",
+                "en": "Refers to the outer part or facade of buildings and similar structures, meaning something located on the outside.",
+                "ja": "建物などの外部や外側にある部分を指し、外観や外面を意味します。",
+                "zh": "指建筑物等外部或外侧的部分，表示外观或表面。",
+                "fr": "Désigne la partie externe ou extérieure des bâtiments et structures similaires, signifiant l'apparence ou la surface."
+            },
+            "example": "The exterior of the building is made of stone.",
+            "translation": {
+                "ko": "그 건물의 외부는 돌로 만들어졌다.",
+                "ja": "建物の外部は石でできている。",
+                "zh": "建筑物的外部由石头制成。",
+                "fr": "L'extérieur du bâtiment est en pierre."
+            }
+        },
+        {
+            "word": "extrinsic",
+            "part_of_speech": "",
+            "origin": "Latin, extrinsecus (from without, on the outside)",
+            "meaning": {
+                "ko": "외부로부터",
+                "en": "from outside",
+                "ja": "外部からの",
+                "zh": "外部的",
+                "fr": "extrinsèque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "exter",
+                    "meaning": {
+                        "ko": "'바깥의'",
+                        "en": "outside",
+                        "ja": "外側の",
+                        "zh": "外部的",
+                        "fr": "extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "secus",
+                    "meaning": {
+                        "ko": "'나란히, ~를 따라'",
+                        "en": "alongside",
+                        "ja": "沿って",
+                        "zh": "沿着",
+                        "fr": "le long de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'외부적인 요인에서 비롯된'이라는 의미에서 '외적인', '비본질적인'이라는 뜻으로 쓰입니다.",
+                "en": "Used to mean external factors or non-essential aspects",
+                "ja": "外部的要因に由来する意味で外的な、本質的でないという意味で使われる",
+                "zh": "指来自外部因素的含义，表示外在的、非本质的意思",
+                "fr": "Utilisé pour signifier des facteurs externes ou des aspects non essentiels"
+            },
+            "example": "Extrinsic motivation comes from outside rewards.",
+            "translation": {
+                "ko": "외재적 동기는 외부의 보상으로부터 온다.",
+                "ja": "外在的動機は外部からの報酬に由来する",
+                "zh": "外在动机来自外部奖励",
+                "fr": "La motivation extrinsèque provient de récompenses externes"
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "maxi (most) maximum, maximal, maximize",
+        "origin": "Latin, maximus (greatest)",
+        "meaning": {
+            "ko": "가장 큰",
+            "en": "greatest",
+            "ja": "最も大きい",
+            "zh": "最大的",
+            "fr": "le plus grand"
+        }
+    },
+    "words": [
+        {
+            "word": "maximum",
+            "part_of_speech": "",
+            "origin": "Latin, maximus (greatest)",
+            "meaning": {
+                "ko": "가장 큰",
+                "en": "largest",
+                "ja": "最も大きい",
+                "zh": "最大的",
+                "fr": "le plus grand"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "maxi-",
+                    "meaning": {
+                        "ko": "'가장 큰'",
+                        "en": "greatest",
+                        "ja": "最も大きい",
+                        "zh": "最大的",
+                        "fr": "le plus grand"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가장 큰 수나 양'인 '최대'를 뜻합니다.",
+                "en": "Means the greatest number or amount",
+                "ja": "最も大きい数量を意味します",
+                "zh": "表示最大的数量或量",
+                "fr": "Signifie le plus grand nombre ou quantité"
+            },
+            "example": "The maximum speed limit on this road is 60 miles per hour.",
+            "translation": {
+                "ko": "이 도로의 최고 제한 속도는 시속 60마일이다.",
+                "ja": "この道路の最高速度制限は時速60マイルです。",
+                "zh": "这条道路的最高速度限制是每小时60英里。",
+                "fr": "La limite de vitesse maximale sur cette route est de 60 milles à l'heure."
+            }
+        },
+        {
+            "word": "maximal",
+            "part_of_speech": "",
+            "origin": "Latin, maximus (greatest)",
+            "meaning": {
+                "ko": "가장 큰",
+                "en": "largest or greatest",
+                "ja": "最大の",
+                "zh": "最大的",
+                "fr": "maximal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "maxim-",
+                    "meaning": {
+                        "ko": "'가장 큰'",
+                        "en": "greatest",
+                        "ja": "最も大きい",
+                        "zh": "最大的",
+                        "fr": "le plus grand"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'최대의', '최고의'라는 뜻입니다.",
+                "en": "Means 'maximum' or 'supreme'.",
+                "ja": "最大の、最高のという意味です。",
+                "zh": "表示最大的、最高的意思。",
+                "fr": "Signifie 'maximum' ou 'suprême'."
+            },
+            "example": "We need to make a maximal effort to succeed.",
+            "translation": {
+                "ko": "우리는 성공하기 위해 최대한의 노력을 해야 한다.",
+                "ja": "成功するために最大限の努力が必要です。",
+                "zh": "我们需要付出最大的努力才能成功。",
+                "fr": "Nous devons faire un effort maximal pour réussir."
+            }
+        },
+        {
+            "word": "maximize",
+            "part_of_speech": "",
+            "origin": "Latin, maximus (greatest)",
+            "meaning": {
+                "ko": "가장 큰",
+                "en": "largest, greatest",
+                "ja": "最大にする",
+                "zh": "最大化",
+                "fr": "maximiser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "maxi-",
+                    "meaning": {
+                        "ko": "'가장 큰'",
+                        "en": "greatest",
+                        "ja": "最も大きい",
+                        "zh": "最大的",
+                        "fr": "le plus grand"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가장 크게 만들다'는 의미에서 '극대화하다'라는 뜻입니다.",
+                "en": "It means to make something as large or great as possible; to optimize to the highest degree.",
+                "ja": "何かをできるだけ大きく、または大きくすることを意味します。最高度に最適化することです。",
+                "zh": "表示将某事物尽可能地扩大或增加，达到最高程度的优化。",
+                "fr": "Signifie rendre quelque chose aussi grand ou important que possible; optimiser au plus haut degré."
+            },
+            "example": "The company's goal is to maximize profits.",
+            "translation": {
+                "ko": "그 회사의 목표는 이익을 극대화하는 것이다.",
+                "ja": "会社の目標は利益を最大化することです。",
+                "zh": "公司的目标是最大化利润。",
+                "fr": "L'objectif de l'entreprise est de maximiser les profits."
+            }
+        }
+    ]
+}

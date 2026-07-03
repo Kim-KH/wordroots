@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "macro (large) macroscopic, macrophage, macronucleus",
+        "origin": "Greek, makros (long, large)",
+        "meaning": {
+            "ko": "큰",
+            "en": "large",
+            "ja": "大きい",
+            "zh": "大",
+            "fr": "grand"
+        }
+    },
+    "words": [
+        {
+            "word": "macroscopic",
+            "part_of_speech": "",
+            "origin": "Greek, makros (large) + skopein (to view)",
+            "meaning": {
+                "ko": "크게 보다",
+                "en": "to see on large scale",
+                "ja": "肉眼で見える大きさ",
+                "zh": "肉眼可见的大小",
+                "fr": "visible à l'oeil nu"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "macro-",
+                    "meaning": {
+                        "ko": "'큰'",
+                        "en": "large",
+                        "ja": "大きい",
+                        "zh": "大的",
+                        "fr": "grand"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scopic",
+                    "meaning": {
+                        "ko": "'보는'",
+                        "en": "seeing or viewing",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'맨눈으로 볼 수 있을 만큼 큰'이라는 뜻입니다.",
+                "en": "Visible to the naked eye; large enough to be seen without magnification",
+                "ja": "肉眼で見ることができるほど大きいという意味です",
+                "zh": "意思是用肉眼就能看到的足够大的东西",
+                "fr": "Signifie assez grand pour être visible à l'oeil nu sans grossissement"
+            },
+            "example": "The damage was macroscopic and easily visible.",
+            "translation": {
+                "ko": "그 손상은 육안으로 볼 수 있을 정도로 컸고 쉽게 눈에 띄었다.",
+                "ja": "損傷は肉眼で見える大きさで、容易に見えた。",
+                "zh": "损伤肉眼可见且容易看到。",
+                "fr": "Les dommages étaient macroscopiques et facilement visibles."
+            }
+        },
+        {
+            "word": "macrophage",
+            "part_of_speech": "",
+            "origin": "Greek, makros (large) + phagein (to eat)",
+            "meaning": {
+                "ko": "크게 먹는 것",
+                "en": "eating something large",
+                "ja": "大きく食べる細胞",
+                "zh": "大型吞噬细胞",
+                "fr": "grande cellule mangeuse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "macro-",
+                    "meaning": {
+                        "ko": "'큰'",
+                        "en": "large",
+                        "ja": "大きい",
+                        "zh": "大的",
+                        "fr": "grand"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phage",
+                    "meaning": {
+                        "ko": "'먹는 세포'",
+                        "en": "eater",
+                        "ja": "食べる細胞",
+                        "zh": "吞噬细胞",
+                        "fr": "cellule mangeuse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸 안에 침입한 세균 등을 크게 잡아먹는' 면역 세포인 '대식세포'를 뜻합니다.",
+                "en": "An immune cell that engulfs bacteria and other invaders in the body",
+                "ja": "体内に侵入した細菌などを大きく捕食する免疫細胞",
+                "zh": "一种吞噬入侵身体的细菌等病原体的免疫细胞",
+                "fr": "Cellule immunitaire qui engloutit les bactéries et les envahisseurs dans le corps"
+            },
+            "example": "Macrophages play an important role in the immune response.",
+            "translation": {
+                "ko": "대식세포는 면역 반응에서 중요한 역할을 한다.",
+                "ja": "大食細胞",
+                "zh": "巨噬细胞",
+                "fr": "macrophage"
+            }
+        },
+        {
+            "word": "macronucleus",
+            "part_of_speech": "",
+            "origin": "Greek, makros (large) + Latin, nucleus (kernel)",
+            "meaning": {
+                "ko": "큰 핵",
+                "en": "large nucleus",
+                "ja": "大核",
+                "zh": "大核",
+                "fr": "grand noyau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "macro-",
+                    "meaning": {
+                        "ko": "'큰'",
+                        "en": "large",
+                        "ja": "大きい",
+                        "zh": "大的",
+                        "fr": "grand"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nucleus",
+                    "meaning": {
+                        "ko": "'핵'",
+                        "en": "nucleus",
+                        "ja": "核",
+                        "zh": "核",
+                        "fr": "noyau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원생동물 등에서 발견되는 '큰 핵'인 '대핵'을 뜻합니다.",
+                "en": "Refers to the 'macronucleus', a large nucleus found in protozoans and other organisms",
+                "ja": "原生動物などで見られる大きな核を意味します",
+                "zh": "指在原生动物等中发现的大型核",
+                "fr": "Désigne le grand noyau trouvé chez les protozoaires et autres organismes"
+            },
+            "example": "The macronucleus controls the non-reproductive functions of the cell.",
+            "translation": {
+                "ko": "대핵은 세포의 비생식적 기능을 통제한다.",
+                "ja": "大核は細胞の非生殖機能を制御します",
+                "zh": "大核控制细胞的非生殖功能",
+                "fr": "Le macronoyau contrôle les fonctions non reproductrices de la cellule"
+            }
+        }
+    ]
+}

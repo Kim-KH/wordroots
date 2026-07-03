@@ -1,0 +1,351 @@
+{
+    "root_info": {
+        "roots": "dis, dys, dif",
+        "origin": "Latin/Greek",
+        "meaning": {
+            "ko": "떨어져, 아니다, 부정",
+            "en": "away, not, negative",
+            "ja": "離れて、否定、ではない",
+            "zh": "离开、否定、不",
+            "fr": "loin, négation, non"
+        }
+    },
+    "words": [
+        {
+            "word": "dismiss",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "miss",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to send",
+                        "ja": "送る",
+                        "zh": "送出",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 보내 버리다'는 의미에서 사람을 '해고하다', 모임을 '해산시키다', 의견 등을 '묵살하다'는 뜻입니다.",
+                "en": "From 'send away'; means to fire someone, dissolve a meeting, or reject an opinion",
+                "ja": "「遠くに送る」という意味から、人を「解雇する」、集まりを「解散させる」、意見などを「却下する」という意味になります。",
+                "zh": "从「送远」的意思衍生出来，表示「解雇某人」、「解散会议」、「驳回意见」等含义。",
+                "fr": "Du sens « envoyer au loin » ; signifie congédier quelqu'un, dissoudre une réunion ou rejeter une opinion"
+            },
+            "example": "The case was dismissed.",
+            "translation": {
+                "ko": "그 사건은 기각되었다.",
+                "ja": "その事件は却下された。",
+                "zh": "那个案件被驳回了。",
+                "fr": "L'affaire a été rejetée."
+            }
+        },
+        {
+            "word": "differ",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dif- (dis-)",
+                    "meaning": {
+                        "ko": "떨어져, 따로",
+                        "en": "apart",
+                        "ja": "離れて、別に",
+                        "zh": "分开、分别",
+                        "fr": "à part, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다",
+                        "en": "to carry",
+                        "ja": "運ぶ、運搬する",
+                        "zh": "运送、携带",
+                        "fr": "porter, transporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "각기 '다른 방향으로 가다'는 의미에서 '다르다', '의견이 일치하지 않다'는 뜻이 되었습니다.",
+                "en": "Originally meant 'to go in different directions,' later developed to mean 'to be different' and 'views do not align.'",
+                "ja": "元々は「異なる方向に行く」という意味で、後に「異なる」「意見が一致しない」という意味に発展しました。",
+                "zh": "原意为\"朝不同方向去\"，后来发展为\"不同\"和\"意见不一致\"的含义。",
+                "fr": "Signifiait à l'origine « aller dans des directions différentes », puis a évolué pour signifier « être différent » et « les opinions ne concordent pas »."
+            },
+            "example": "Our views differ on this matter.",
+            "translation": {
+                "ko": "이 문제에 대해 우리의 견해는 다르다.",
+                "ja": "この問題について、私たちの見方は異なります。",
+                "zh": "在这个问题上，我们的观点不同。",
+                "fr": "Nos points de vue diffèrent sur cette question."
+            }
+        },
+        {
+            "word": "disallow",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "allow",
+                    "meaning": {
+                        "ko": "허락하다",
+                        "en": "to permit",
+                        "ja": "許可する",
+                        "zh": "允许",
+                        "fr": "permettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'허락하지 않다'는 의미에서 공식적으로 '허용하지 않다', '기각하다'는 뜻입니다.",
+                "en": "Officially means 'not permit' or 'reject'; to refuse to allow something.",
+                "ja": "'許可しない'という意味で、公式には'認めない'、'却下する'という意味です。",
+                "zh": "'不允许'的意思，正式含义为'拒绝接受'、'驳回'。",
+                "fr": "Signifie 'ne pas permettre' ou 'rejeter'; refuser d'autoriser quelque chose."
+            },
+            "example": "The judge disallowed the evidence.",
+            "translation": {
+                "ko": "판사는 그 증거를 기각했다.",
+                "ja": "裁判官はその証拠を却下した。",
+                "zh": "法官驳回了那份证据。",
+                "fr": "Le juge a rejeté la preuve."
+            }
+        },
+        {
+            "word": "disperse",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "apart",
+                        "ja": "離れて",
+                        "zh": "分开",
+                        "fr": "à part"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "perse",
+                    "meaning": {
+                        "ko": "뿌리다",
+                        "en": "to scatter",
+                        "ja": "散らす",
+                        "zh": "散布",
+                        "fr": "disperser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사방으로 흩뿌리다'는 의미에서, 군중 등을 '해산시키다', 빛이나 씨앗 등을 '분산시키다'는 뜻입니다.",
+                "en": "From the sense of 'scattering in all directions': to disperse crowds, or to scatter light and seeds.",
+                "ja": "「四方八方に散らす」という意味から、群衆などを「解散させる」、光や種子などを「分散させる」という意味です。",
+                "zh": "从\"向四面八方散开\"的含义引申，表示\"解散人群\"或\"分散光线和种子\"等。",
+                "fr": "Du sens de « se disperser dans toutes les directions » : disperser une foule ou éparpiller la lumière et les graines."
+            },
+            "example": "The police dispersed the crowd.",
+            "translation": {
+                "ko": "경찰이 군중을 해산시켰다.",
+                "ja": "警察が群衆を解散させた。",
+                "zh": "警察驱散了人群。",
+                "fr": "La police a dispersé la foule."
+            }
+        },
+        {
+            "word": "disconnect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "connect",
+                    "meaning": {
+                        "ko": "연결하다",
+                        "en": "to connect",
+                        "ja": "接続する",
+                        "zh": "连接",
+                        "fr": "connecter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'연결을 끊다'는 뜻입니다.",
+                "en": "To break a connection",
+                "ja": "接続を切ることを意味します",
+                "zh": "表示断开连接",
+                "fr": "Signifie rompre une connexion"
+            },
+            "example": "Please disconnect the power first.",
+            "translation": {
+                "ko": "먼저 전원을 차단해 주세요.",
+                "ja": "まず電源を切ってください",
+                "zh": "请先断开电源",
+                "fr": "Veuillez d'abord déconnecter l'alimentation"
+            }
+        },
+        {
+            "word": "dysfunction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dys-",
+                    "meaning": {
+                        "ko": "나쁜, 어려운",
+                        "en": "bad, difficult",
+                        "ja": "悪い、困難な",
+                        "zh": "坏的、困难的",
+                        "fr": "mauvais, difficile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "function",
+                    "meaning": {
+                        "ko": "기능",
+                        "en": "function",
+                        "ja": "機能",
+                        "zh": "功能",
+                        "fr": "fonction"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기능이 제대로 되지 않음' 즉, '기능 장애'를 뜻합니다.",
+                "en": "Refers to a malfunction or impairment of function; when something does not work properly",
+                "ja": "機能が正常に機能しないこと、つまり機能障害を意味します",
+                "zh": "指功能不正常运作，即功能障碍",
+                "fr": "Désigne un dysfonctionnement ou une altération du fonctionnement; lorsque quelque chose ne fonctionne pas correctement"
+            },
+            "example": "He has a liver dysfunction.",
+            "translation": {
+                "ko": "그는 간 기능 장애가 있다.",
+                "ja": "機能不全",
+                "zh": "功能障碍",
+                "fr": "dysfonctionnement"
+            }
+        },
+        {
+            "word": "disproportion",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "proportion",
+                    "meaning": {
+                        "ko": "비율, 균형",
+                        "en": "ratio, balance",
+                        "ja": "比率、バランス",
+                        "zh": "比例、平衡",
+                        "fr": "proportion, équilibre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'균형이 맞지 않음', '불균형'을 뜻합니다.",
+                "en": "Lack of balance or equality; imbalance",
+                "ja": "バランスが取れていない状態、不均衡を意味します",
+                "zh": "表示缺乏平衡或相等；不均衡",
+                "fr": "Manque d'équilibre ou d'égalité; déséquilibre"
+            },
+            "example": "There is a disproportion between the two figures.",
+            "translation": {
+                "ko": "그 두 수치 사이에는 불균형이 있다.",
+                "ja": "その2つの数値の間には不均衡がある。",
+                "zh": "这两个数字之间存在不成比例。",
+                "fr": "Il y a une disproportion entre ces deux chiffres."
+            }
+        },
+        {
+            "word": "dyslexia",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dys-",
+                    "meaning": {
+                        "ko": "어려운",
+                        "en": "difficult",
+                        "ja": "困難な",
+                        "zh": "困难的",
+                        "fr": "difficile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lexia",
+                    "meaning": {
+                        "ko": "읽기",
+                        "en": "reading",
+                        "ja": "読むこと",
+                        "zh": "阅读",
+                        "fr": "lecture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'읽기에 어려움이 있는' 증상, 즉 '난독증'을 의미합니다.",
+                "en": "A condition characterized by difficulty with reading; also called 'reading disorder'.",
+                "ja": "読むことに困難がある症状、つまり『読字障害』を意味します。",
+                "zh": "指读书困难的症状，即『阅读障碍』的意思。",
+                "fr": "Un trouble caractérisé par une difficulté à lire, également appelé « trouble de la lecture »."
+            },
+            "example": "Dyslexia is a common learning disorder.",
+            "translation": {
+                "ko": "난독증은 흔한 학습 장애이다.",
+                "ja": "難読症は一般的な学習障害です。",
+                "zh": "阅读障碍是常见的学习障碍。",
+                "fr": "La dyslexie est un trouble d'apprentissage courant."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ate (compound) carbonate, hydrate, silicate",
+        "origin": "Latin, -atus (possessing, having the quality of)",
+        "meaning": {
+            "ko": "…을 가진",
+            "en": "having",
+            "ja": "を持つ",
+            "zh": "拥有",
+            "fr": "ayant"
+        }
+    },
+    "words": [
+        {
+            "word": "carbonate",
+            "part_of_speech": "",
+            "origin": "carbon + -ate",
+            "meaning": {
+                "ko": "탄산염",
+                "en": "salt of carbonic acid",
+                "ja": "炭酸塩",
+                "zh": "碳酸盐",
+                "fr": "carbonate"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carbon",
+                    "meaning": {
+                        "ko": "'탄소'",
+                        "en": "carbon",
+                        "ja": "炭素",
+                        "zh": "碳",
+                        "fr": "carbone"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "(화학) '~산의 염'",
+                        "en": "chemistry salt of acid",
+                        "ja": "化学 酸の塩",
+                        "zh": "化学 酸的盐",
+                        "fr": "chimie sel d'acide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'탄산의 염'이라는 의미에서 '탄산염'을 뜻합니다.",
+                "en": "Carbonate means a salt of carbonic acid",
+                "ja": "炭酸の塩という意味で炭酸塩を指します",
+                "zh": "碳酸盐是指碳酸的盐",
+                "fr": "Le carbonate signifie un sel d'acide carbonique"
+            },
+            "example": "Calcium carbonate is the main component of limestone.",
+            "translation": {
+                "ko": "탄산 칼슘은 석회암의 주성분이다.",
+                "ja": "炭酸カルシウムは石灰岩の主成分です",
+                "zh": "碳酸钙是石灰岩的主要成分",
+                "fr": "Le carbonate de calcium est le principal composant du calcaire"
+            }
+        },
+        {
+            "word": "hydrate",
+            "part_of_speech": "",
+            "origin": "Greek, hydor (water)",
+            "meaning": {
+                "ko": "물",
+                "en": "water",
+                "ja": "水を加える、水和物",
+                "zh": "水合物、补充水分",
+                "fr": "hydrater, composé hydraté"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hydr-",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "'~화합물'",
+                        "en": "compound",
+                        "ja": "化合物",
+                        "zh": "化合物",
+                        "fr": "composé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물과 결합한 화합물'이라는 의미에서 '수화물'을 뜻하며, 동사로는 '수분을 공급하다'는 뜻입니다.",
+                "en": "As a noun, refers to a compound formed by combining water with another substance. As a verb, means to supply moisture or water to the body.",
+                "ja": "名詞として水と結合した化合物を意味し、動詞として体に水分を供給することを意味します",
+                "zh": "名词表示与水结合的化合物，动词表示向身体补充水分",
+                "fr": "Nom : composé formé par combinaison avec l'eau. Verbe : fournir de l'humidité au corps."
+            },
+            "example": "Dehydration occurs when you lose more fluid than you take in, and your body doesn't have enough water and other fluids to carry out its normal functions.",
+            "translation": {
+                "ko": "탈수는 섭취하는 것보다 더 많은 체액을 잃고 신체가 정상적인 기능을 수행하기에 충분한 물과 기타 체액이 없을 때 발생합니다.",
+                "ja": "脱水症は、失う液体が摂取する液体より多い場合に発生し、体は正常な機能を実行するのに十分な水と他の液体がありません",
+                "zh": "脱水发生在失去的液体多于摄取的液体时，身体没有足够的水和其他液体来执行其正常功能",
+                "fr": "La déshydratation se produit lorsque vous perdez plus de liquides que vous n'en consommez, et votre corps n'a pas assez d'eau et d'autres liquides pour exercer ses fonctions normales"
+            }
+        },
+        {
+            "word": "silicate",
+            "part_of_speech": "",
+            "origin": "Latin, silex (flint)",
+            "meaning": {
+                "ko": "부싯돌",
+                "en": "flint stone",
+                "ja": "ケイ酸塩",
+                "zh": "硅酸盐",
+                "fr": "silicate"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "silic-",
+                    "meaning": {
+                        "ko": "'규소'",
+                        "en": "silicon",
+                        "ja": "ケイ素",
+                        "zh": "硅",
+                        "fr": "silicium"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "(화학) '~산의 염'",
+                        "en": "salt of acid",
+                        "ja": "酸の塩",
+                        "zh": "酸的盐",
+                        "fr": "sel d'acide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'규산의 염'이라는 의미에서 '규산염'을 뜻합니다.",
+                "en": "Silicate refers to salts of silicic acid",
+                "ja": "ケイ酸の塩という意味でケイ酸塩を指します",
+                "zh": "指硅酸的盐，意为硅酸盐",
+                "fr": "Le silicate signifie sel d'acide silicique"
+            },
+            "example": "Silicate minerals are the most common of Earth's minerals.",
+            "translation": {
+                "ko": "규산염 광물은 지구상에서 가장 흔한 광물이다.",
+                "ja": "ケイ酸塩鉱物は地球上で最も一般的な鉱物です。",
+                "zh": "硅酸盐矿物是地球上最常见的矿物。",
+                "fr": "Les minéraux silicatés sont les minéraux les plus courants de la Terre."
+            }
+        }
+    ]
+}

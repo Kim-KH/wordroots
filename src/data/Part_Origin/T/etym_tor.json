@@ -1,0 +1,287 @@
+{
+    "root_info": {
+        "roots": "tor, tort: twist",
+        "origin": "Latin, torquere",
+        "meaning": {
+            "ko": "비틀다",
+            "en": "to twist",
+            "ja": "ねじる",
+            "zh": "扭转",
+            "fr": "tordre"
+        }
+    },
+    "words": [
+        {
+            "word": "retort",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "en arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tort",
+                    "meaning": {
+                        "ko": "비틀다",
+                        "en": "to twist",
+                        "ja": "ねじる",
+                        "zh": "扭转",
+                        "fr": "tordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "상대방의 말을 '뒤로 비틀어 되돌려주다'는 의미에서, '쏘아붙이다', '말대꾸하다'는 뜻입니다.",
+                "en": "From the sense of 'twisting back' someone's words to return them sharply; means to answer back or speak sharply in reply.",
+                "ja": "相手の言葉を『後ろにねじって返す』という意味から、『言い返す』『鋭く反論する』という意味です。",
+                "zh": "源于'把对方的话向后扭转返回'的意思，引申为'尖锐地回嘴'、'反驳'的含义。",
+                "fr": "Du sens de 'tordre en arrière' les paroles de quelqu'un pour les renvoyer; signifie répondre vivement ou riposter."
+            },
+            "example": "\"You're late,\" she said. \"You're early,\" he retorted.",
+            "translation": {
+                "ko": "\"늦었네요.\" 그녀가 말했다. \"당신이 일찍 온 거죠.\" 그가 쏘아붙였다.",
+                "ja": "「遅刻したね」と彼女が言った。「君が早く来たんだろう」と彼が言い返した。",
+                "zh": "「你迟到了」她说。「是你来早了」他反驳道。",
+                "fr": "« Tu es en retard », dit-elle. « Tu es arrivé tôt », rétorqua-t-il."
+            }
+        },
+        {
+            "word": "tortuous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tort",
+                    "meaning": {
+                        "ko": "비틀다",
+                        "en": "to twist",
+                        "ja": "ねじる",
+                        "zh": "扭曲",
+                        "fr": "tordre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'많이 비틀려 있는'이라는 의미에서, 길이 '구불구불한' 또는 설명이 '복잡하고 에둘러 말하는'이라는 뜻입니다. torturous(고통스러운)와 혼동 주의.",
+                "en": "From 'twisted in many places': describes a winding road or complex, roundabout explanation. Don't confuse with 'torturous' (painful).",
+                "ja": "'何度も曲がっている'という意味から、道が'蛇行している'または説明が'複雑で回りくどい'という意味です。torturous(苦痛な)と混同しないでください。",
+                "zh": "从'多处扭曲'的意思延伸，形容道路'蜿蜒曲折'或解释'复杂绕圈'。注意不要与torturous(痛苦的)混淆。",
+                "fr": "Du sens 'tordu en plusieurs endroits': décrit une route sinueuse ou une explication complexe et détournée. À ne pas confondre avec 'torturous' (douloureux)."
+            },
+            "example": "The car moved slowly along the tortuous road.",
+            "translation": {
+                "ko": "차는 구불구불한 길을 따라 천천히 움직였다.",
+                "ja": "車は蛇行した道に沿ってゆっくり動いた。",
+                "zh": "汽车沿着蜿蜒的道路缓缓行驶。",
+                "fr": "La voiture se déplaçait lentement le long de la route sinueuse."
+            }
+        },
+        {
+            "word": "tort",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tort",
+                    "meaning": {
+                        "ko": "비틀린 것, 잘못",
+                        "en": "a wrong",
+                        "ja": "ねじれた行為、不正",
+                        "zh": "扭曲的行为、过错",
+                        "fr": "action tortueuse, acte répréhensible"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비틀린 행위'라는 의미에서, 민사상 손해 배상 책임이 따르는 '불법 행위'를 가리키는 법률 용어입니다.",
+                "en": "From the meaning 'twisted action,' it is a legal term referring to an 'unlawful act' that entails civil liability for damages.",
+                "ja": "「ねじれた行為」という意味から、民事上の損害賠償責任を伴う「不法行為」を指す法律用語です。",
+                "zh": "源于「扭曲的行为」之义，指需承担民事损害赔偿责任的「违法行为」，是法律术语。",
+                "fr": "Du sens « action tortueuse », c'est un terme juridique désignant un « acte illicite » entraînant la responsabilité civile en dommages-intérêts."
+            },
+            "example": "The case involves a tort claim.",
+            "translation": {
+                "ko": "그 사건은 불법 행위 소송을 포함한다.",
+                "ja": "その事件は不法行為請求に関わっている。",
+                "zh": "该案件涉及违法行为索赔。",
+                "fr": "L'affaire implique une réclamation en responsabilité délictuelle."
+            }
+        },
+        {
+            "word": "contort",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께, 완전히",
+                        "en": "with, completely",
+                        "ja": "一緒に、完全に",
+                        "zh": "一起、完全地",
+                        "fr": "avec, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tort",
+                    "meaning": {
+                        "ko": "비틀다",
+                        "en": "to twist",
+                        "ja": "ねじる",
+                        "zh": "扭曲",
+                        "fr": "tordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "몸이나 얼굴을 '심하게 비틀다', '일그러뜨리다'는 뜻입니다.",
+                "en": "Means to severely twist or distort the body or face.",
+                "ja": "体や顔を『ひどくねじる』『ゆがめる』という意味です。",
+                "zh": "指身体或脸部被'严重地扭曲'或'变形'。",
+                "fr": "Signifie tordre ou déformer sévèrement le corps ou le visage."
+            },
+            "example": "His face contorted in pain.",
+            "translation": {
+                "ko": "그의 얼굴이 고통으로 일그러졌다.",
+                "ja": "彼の顔が痛みで歪んだ。",
+                "zh": "他的脸因疼痛而扭曲了。",
+                "fr": "Son visage s'est tordu de douleur."
+            }
+        },
+        {
+            "word": "torsion",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tors",
+                    "meaning": {
+                        "ko": "비틀다",
+                        "en": "to twist",
+                        "ja": "ねじる",
+                        "zh": "扭转",
+                        "fr": "tordre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominal suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비트는 행위' 또는 '비틀림'을 의미하는 공학, 물리학 용어입니다.",
+                "en": "An engineering and physics term meaning 'the act of twisting' or 'twisting force'.",
+                "ja": "ねじる行為またはねじれを意味する工学・物理学用語です。",
+                "zh": "表示'扭转行为'或'扭转力'的工程学和物理学术语。",
+                "fr": "Terme d'ingénierie et de physique signifiant 'l'acte de tordre' ou 'force de torsion'."
+            },
+            "example": "The metal bar was subjected to torsion.",
+            "translation": {
+                "ko": "그 금속 막대는 비틀림을 받았다.",
+                "ja": "その金属棒はねじれを受けた。",
+                "zh": "那根金属棒受到了扭转。",
+                "fr": "La barre métallique a été soumise à une torsion."
+            }
+        },
+        {
+            "word": "torture",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tort",
+                    "meaning": {
+                        "ko": "비틀다",
+                        "en": "to twist",
+                        "ja": "ねじる",
+                        "zh": "扭转",
+                        "fr": "tordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "몸을 '비트는' 행위에서, '고문' 또는 극심한 '고통'을 의미하게 되었습니다.",
+                "en": "From the act of 'twisting' the body, it came to mean 'torment' or severe 'suffering'.",
+                "ja": "身体を『ねじる』行為から、『拷問』または極度の『苦痛』を意味するようになりました。",
+                "zh": "从'扭转'身体的行为引申而来，后来指'刑讯逼供'或极度的'痛苦'。",
+                "fr": "De l'acte de 'tordre' le corps, il en vint à signifier 'supplice' ou 'souffrance' extrême."
+            },
+            "example": "The prisoners were subjected to torture.",
+            "translation": {
+                "ko": "그 포로들은 고문을 당했다.",
+                "ja": "その捕虜たちは拷問を受けた。",
+                "zh": "那些战俘遭受了刑讯逼供。",
+                "fr": "Les prisonniers ont été soumis à la torture."
+            }
+        },
+        {
+            "word": "distort",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 잘못되게",
+                        "en": "apart, away",
+                        "ja": "離れて、誤って",
+                        "zh": "分开、错误地",
+                        "fr": "à part, mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tort",
+                    "meaning": {
+                        "ko": "비틀다",
+                        "en": "to twist",
+                        "ja": "ねじる",
+                        "zh": "扭转",
+                        "fr": "tordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래 모양에서 벗어나게 비틀다'는 의미에서, 형체, 소리, 사실 등을 '왜곡하다'는 뜻입니다.",
+                "en": "From the sense of twisting away from original form, meaning to distort or falsify shape, sound, or facts.",
+                "ja": "元の形から外れるようにねじることから、形体、音、事実などを『歪める』という意味になります。",
+                "zh": "从扭转原始形状的含义引申，表示歪曲、篡改形状、声音或事实的意思。",
+                "fr": "Du sens de tordre loin de la forme originale, signifiant déformer ou falsifier la forme, le son ou les faits."
+            },
+            "example": "The media distorted the facts.",
+            "translation": {
+                "ko": "언론은 사실을 왜곡했다.",
+                "ja": "メディアは事実を歪めた。",
+                "zh": "媒体歪曲了事实。",
+                "fr": "Les médias ont déformé les faits."
+            }
+        }
+    ]
+}

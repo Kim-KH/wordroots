@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "flect, flex",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "구부리다",
+            "en": "to bend",
+            "ja": "曲げる",
+            "zh": "弯曲",
+            "fr": "plier"
+        }
+    },
+    "words": [
+        {
+            "word": "flexible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flex",
+                    "meaning": {
+                        "ko": "구부리다",
+                        "en": "to bend",
+                        "ja": "曲げる",
+                        "zh": "弯曲",
+                        "fr": "plier"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "~할 수 있는",
+                        "en": "able to be done",
+                        "ja": "できる",
+                        "zh": "能够",
+                        "fr": "pouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'구부릴 수 있는'이라는 의미에서 '유연한', '융통성 있는'이라는 뜻입니다.",
+                "en": "From 'able to bend,' meaning adaptable or versatile.",
+                "ja": "「曲げることができる」という意味から、「柔軟な」「適応性のある」という意味になります。",
+                "zh": "从「能弯曲」的含义引申为「灵活的」、「有适应性的」。",
+                "fr": "Du sens « capable de plier », d'où « souple » et « adaptable »."
+            },
+            "example": "This material is very flexible.",
+            "translation": {
+                "ko": "이 재료는 매우 유연하다.",
+                "ja": "この素材は非常に柔軟です。",
+                "zh": "这种材料非常柔软。",
+                "fr": "Ce matériau est très flexible."
+            }
+        },
+        {
+            "word": "reflection",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flect",
+                    "meaning": {
+                        "ko": "구부리다",
+                        "en": "to bend",
+                        "ja": "曲げる",
+                        "zh": "弯曲",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "빛이 '뒤로 구부러져' 돌아오는 현상인 '반사' 또는 과거를 돌아보는 '성찰'을 뜻합니다.",
+                "en": "Light bent back to return (reflection), or looking back at the past (contemplation).",
+                "ja": "光が『後ろに曲げられて』戻ってくる現象の『反射』、または過去を振り返る『思考』を意味します。",
+                "zh": "指光线'向后弯曲'返回的现象'反射'，或回顾过去的'反思'。",
+                "fr": "La lumière 'pliée vers l'arrière' qui revient (réflexion), ou regarder en arrière le passé (contemplation)."
+            },
+            "example": "I saw my reflection in the mirror.",
+            "translation": {
+                "ko": "나는 거울에 비친 내 모습을 보았다.",
+                "ja": "私は鏡に映った自分の姿を見た。",
+                "zh": "我在镜子里看到了我的倒影。",
+                "fr": "J'ai vu mon reflet dans le miroir."
+            }
+        },
+        {
+            "word": "deflect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flect",
+                    "meaning": {
+                        "ko": "구부리다",
+                        "en": "to bend",
+                        "ja": "曲げる",
+                        "zh": "弯曲",
+                        "fr": "courber"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'방향을 구부려 빗나가게 하다'는 의미에서, 비판이나 질문 등을 '피하다', '빗나가게 하다'는 뜻입니다.",
+                "en": "From the sense of 'bending direction to avoid,' it means to 'evade' or 'turn aside' criticism, questions, etc.",
+                "ja": "方向を曲げて避けるという意味から、批判や質問などを『回避する』『かわす』という意味です。",
+                "zh": "从'弯曲方向以躲避'的含义出发，指'躲避'或'回避'批评、问题等。",
+                "fr": "Du sens de 'courber la direction pour éviter', il signifie 'esquiver' ou 'détourner' les critiques, les questions, etc."
+            },
+            "example": "He deflected the question with a joke.",
+            "translation": {
+                "ko": "그는 농담으로 그 질문을 피했다.",
+                "ja": "彼は冗談でその質問をかわした。",
+                "zh": "他用笑话回避了那个问题。",
+                "fr": "Il a esquivé la question avec une blague."
+            }
+        },
+        {
+            "word": "circumflex",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에, 구부러진",
+                        "en": "around",
+                        "ja": "周りに",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flex",
+                    "meaning": {
+                        "ko": "구부리다",
+                        "en": "to bend",
+                        "ja": "曲げる",
+                        "zh": "弯曲",
+                        "fr": "courber"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'구부러진' 모양이라는 의미에서, 발음 기호의 '곡절 부호(^)'를 뜻합니다.",
+                "en": "From the curved shape, referring to the curved diacritical mark (^) used in writing.",
+                "ja": "'曲がった'という形から、発音記号の'曲折符(^)'を意味します。",
+                "zh": "从'弯曲'的形状引申，指书写中使用的曲折符号(^)。",
+                "fr": "Du sens de 'courbé', désignant le signe diacritique courbe (^) utilisé à l'écrit."
+            },
+            "example": "The French word \"hôtel\" has a circumflex.",
+            "translation": {
+                "ko": "프랑스어 단어 \"hôtel\"에는 곡절 부호가 있다.",
+                "ja": "フランス語の単語「hôtel」には曲折符があります。",
+                "zh": "法语单词\"hôtel\"有一个曲折符号。",
+                "fr": "Le mot français \"hôtel\" comporte un accent circonflexe."
+            }
+        }
+    ]
+}

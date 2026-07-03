@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "syn",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "함께",
+            "en": "together",
+            "ja": "一緒に",
+            "zh": "一起",
+            "fr": "ensemble"
+        }
+    },
+    "words": [
+        {
+            "word": "synthesis",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "syn-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thesis",
+                    "meaning": {
+                        "ko": "두는 것",
+                        "en": "placing or putting",
+                        "ja": "置くこと",
+                        "zh": "放置",
+                        "fr": "placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 요소를 함께 두는 것' 즉, '종합', '통합', '합성'을 뜻합니다.",
+                "en": "Multiple elements placed together; means composition, integration, or synthesis",
+                "ja": "複数の要素を一緒に置くこと、つまり『総合』『統合』『合成』を意味します",
+                "zh": "将多个元素放在一起，即'综合'、'整合'、'合成'的意思",
+                "fr": "Placer plusieurs éléments ensemble; signifie composition, intégration ou synthèse"
+            },
+            "example": "The new design is a synthesis of old and new ideas.",
+            "translation": {
+                "ko": "그 새 디자인은 옛 아이디어와 새 아이디어의 종합이다.",
+                "ja": "その新しいデザインは、古い考えと新しい考えの総合である。",
+                "zh": "这个新设计是旧想法和新想法的综合。",
+                "fr": "Le nouveau design est une synthèse des idées anciennes et nouvelles."
+            }
+        },
+        {
+            "word": "synchronous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "syn-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chron",
+                    "meaning": {
+                        "ko": "시간",
+                        "en": "time",
+                        "ja": "時間",
+                        "zh": "时间",
+                        "fr": "temps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'같은 시간에 일어나는'이라는 의미에서 '동시의', '동시에 발생하는'이라는 뜻입니다.",
+                "en": "Meaning 'occurring at the same time'; simultaneous or happening together",
+                "ja": "「同じ時間に起こる」という意味から、「同時の」「同時に発生する」という意味です。",
+                "zh": "从「在同一时间发生」的意思引申为「同时的」「同时发生的」之意。",
+                "fr": "Du sens « se produire au même moment », d'où « simultané » ou « qui se produit ensemble »."
+            },
+            "example": "The film's sound and picture must be synchronous.",
+            "translation": {
+                "ko": "그 영화의 소리와 화면은 동기화되어야 한다.",
+                "ja": "その映画の音声と映像は同期していなければならない。",
+                "zh": "这部电影的声音和画面必须同步。",
+                "fr": "Le son et l'image du film doivent être synchrones."
+            }
+        },
+        {
+            "word": "syndicate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "syn-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dic",
+                    "meaning": {
+                        "ko": "정의",
+                        "en": "definition",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 정의를 구현하는' 집단이라는 의미에서, 사업 목적의 '기업 연합', '신디케이트'를 뜻합니다.",
+                "en": "From 'implementing justice together': a group or association formed for business purposes; a cartel or organized group.",
+                "ja": "「一緒に誓いを実行する」という意味から、事業目的の企業連合、シンジケートを意味します。",
+                "zh": "源自「一起实现誓言」的含义，指为了商业目的而组成的企业联盟或辛迪加。",
+                "fr": "Du sens de « mettre en œuvre ensemble un serment » : une association ou un groupe formé à des fins commerciales ; un cartel ou groupe organisé."
+            },
+            "example": "A powerful crime syndicate controlled the city.",
+            "translation": {
+                "ko": "강력한 범죄 조직이 그 도시를 장악했다.",
+                "ja": "強力な犯罪シンジケートがその都市を支配していた。",
+                "zh": "一个强大的犯罪辛迪加控制了这座城市。",
+                "fr": "Un puissant syndicat du crime contrôlait la ville."
+            }
+        }
+    ]
+}

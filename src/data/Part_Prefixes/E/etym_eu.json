@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "eu (good) euphony, eulogy, euphemism, euthanasia",
+        "origin": "Greek, eu (good, well)",
+        "meaning": {
+            "ko": "좋은, 잘",
+            "en": "good, well",
+            "ja": "良い、良く",
+            "zh": "好、好地",
+            "fr": "bon, bien"
+        }
+    },
+    "words": [
+        {
+            "word": "euphony",
+            "part_of_speech": "",
+            "origin": "Greek, euphonia (sweetness of voice)",
+            "meaning": {
+                "ko": "듣기 좋은 목소리",
+                "en": "pleasing to the ear",
+                "ja": "心地よい音",
+                "zh": "悦耳的声音",
+                "fr": "son agréable"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "eu-",
+                    "meaning": {
+                        "ko": "'좋은'",
+                        "en": "good",
+                        "ja": "良い",
+                        "zh": "好的",
+                        "fr": "bon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phony (phone)",
+                    "meaning": {
+                        "ko": "'소리, 목소리'",
+                        "en": "sound, voice",
+                        "ja": "音、声",
+                        "zh": "声音",
+                        "fr": "son, voix"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'듣기 좋은 소리'라는 의미에서 '음조의 조화', '듣기 좋은 음조'를 뜻합니다.",
+                "en": "Refers to the harmony of tones or pleasant-sounding tones, from the meaning of 'pleasant-sounding sound'",
+                "ja": "心地よい音という意味から、音調の調和、心地よい音調を意味します",
+                "zh": "从'悦耳的声音'这一含义指音调的和谐、悦耳的音调",
+                "fr": "Signifie l'harmonie des tons ou des tons agréables, du sens de 'son plaisant'"
+            },
+            "example": "The euphony of the poet's words was captivating.",
+            "translation": {
+                "ko": "그 시인의 말의 듣기 좋은 음조는 매혹적이었다.",
+                "ja": "詩人の言葉の心地よさは魅了的だった",
+                "zh": "诗人词语的悦耳感很迷人",
+                "fr": "L'euphonie des paroles du poète était captivante"
+            }
+        },
+        {
+            "word": "eulogy",
+            "part_of_speech": "",
+            "origin": "Greek, eulogia (praise)",
+            "meaning": {
+                "ko": "칭찬",
+                "en": "praise or commendation",
+                "ja": "称賛、追悼演説",
+                "zh": "赞词、悼词",
+                "fr": "éloge, oraison funèbre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "eu-",
+                    "meaning": {
+                        "ko": "'좋게'",
+                        "en": "well",
+                        "ja": "良く、好意的に",
+                        "zh": "好地、赞美地",
+                        "fr": "bien, favorablement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy (logos)",
+                    "meaning": {
+                        "ko": "'말, 연설'",
+                        "en": "speech, word",
+                        "ja": "言葉、演説",
+                        "zh": "言语、演讲",
+                        "fr": "parole, discours"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'좋게 말하는 것'이라는 의미에서 고인에 대한 '찬사', '추도 연설'을 뜻합니다.",
+                "en": "Speaking well of someone, meaning a tribute or funeral speech for the deceased",
+                "ja": "良く言うことから、故人に対する『賞賛』、『追悼演説』を意味します",
+                "zh": "从好地说话的意义出发，指对已故者的『赞颂』、『悼词演讲』",
+                "fr": "Parlant bien de quelqu'un, signifiant un hommage ou un discours funèbre pour le défunt"
+            },
+            "example": "He delivered a moving eulogy at his friend's funeral.",
+            "translation": {
+                "ko": "그는 친구의 장례식에서 감동적인 추도사를 했다.",
+                "ja": "彼は友人の葬式で感動的な追悼演説を行った。",
+                "zh": "他在朋友的葬礼上发表了感人的悼词。",
+                "fr": "Il a prononcé une oraison funèbre émouvante aux funérailles de son ami."
+            }
+        },
+        {
+            "word": "euphemism",
+            "part_of_speech": "",
+            "origin": "Greek, euphemismos (use of a favorable word)",
+            "meaning": {
+                "ko": "좋은 단어의 사용",
+                "en": "use of pleasant words",
+                "ja": "聞き心地よい言葉遣い",
+                "zh": "婉转的措辞",
+                "fr": "langage adouci"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "eu-",
+                    "meaning": {
+                        "ko": "'좋은'",
+                        "en": "good",
+                        "ja": "良い",
+                        "zh": "好的",
+                        "fr": "bon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phemism (pheme)",
+                    "meaning": {
+                        "ko": "'말'",
+                        "en": "speaking",
+                        "ja": "話す",
+                        "zh": "说话",
+                        "fr": "parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "불쾌하거나 직설적인 표현 대신 '좋은(듣기 좋은) 말'을 사용하는 것, 즉 '완곡어법'을 의미합니다.",
+                "en": "Using pleasant-sounding words instead of unpleasant or direct expressions; a mild or indirect way of speaking about something offensive or unpleasant.",
+                "ja": "不快または率直な表現の代わりに、聞き心地よい言葉を使うこと。すなわち、婉曲な言い方を意味します。",
+                "zh": "用委婉动听的词语代替令人不快或直率的表达，即用温和的说法来表达不愉快的事物。",
+                "fr": "Utiliser des paroles agréables à entendre à la place d'expressions désagréables ou directes; une manière atténuée de parler de quelque chose d'offensant."
+            },
+            "example": "\"Pass away\" is a euphemism for \"die\".",
+            "translation": {
+                "ko": "\"돌아가시다\"는 \"죽다\"의 완곡어법이다.",
+                "ja": "婉曲語法",
+                "zh": "委婉说法",
+                "fr": "euphémisme"
+            }
+        }
+    ]
+}

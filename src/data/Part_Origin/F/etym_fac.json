@@ -1,0 +1,3620 @@
+{
+    "root_info": {
+        "roots": "fac, fact, fec, fic, fas, fea: make, do",
+        "origin": "Latin, facere",
+        "meaning": {
+            "ko": "만들다, 행하다",
+            "en": "to make, to do",
+            "ja": "作る、行う",
+            "zh": "制作、做",
+            "fr": "faire, accomplir"
+        }
+    },
+    "words": [
+        {
+            "word": "quantify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quant (quantus)",
+                    "meaning": {
+                        "ko": "얼마나 많은",
+                        "en": "how much",
+                        "ja": "どのくらい多い",
+                        "zh": "多少",
+                        "fr": "combien"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "～にする",
+                        "zh": "使得",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양으로 측정할 수 있게 만들다'는 의미에서 '수량화하다', '양을 재다'는 뜻이 되었습니다.",
+                "en": "Originally meant 'to make measurable by quantity,' now means 'to quantify' or 'to measure amount.'",
+                "ja": "元々は「量で測定できるようにする」という意味から、「数量化する」「量を測る」という意味になりました。",
+                "zh": "原意为\"使其可按数量测量\"，现表示\"量化\"或\"计量\"。",
+                "fr": "Signifiait à l'origine « rendre mesurable par la quantité », désigne maintenant « quantifier » ou « mesurer la quantité »."
+            },
+            "example": "It's hard to quantify happiness.",
+            "translation": {
+                "ko": "행복을 수량화하기는 어렵다.",
+                "ja": "幸福を数量化することは難しい。",
+                "zh": "很难量化幸福。",
+                "fr": "Il est difficile de quantifier le bonheur."
+            }
+        },
+        {
+            "word": "faction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fact",
+                    "meaning": {
+                        "ko": "하다, 만들다",
+                        "en": "to do, to make",
+                        "ja": "する、作る",
+                        "zh": "做、制作",
+                        "fr": "faire, créer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 무언가를 하는 집단'이라는 의미에서, 주로 정치적인 '파벌', '당파'를 의미하게 되었습니다.",
+                "en": "From the sense of 'a group doing something together,' it came to primarily mean political 'faction' or 'party division.'",
+                "ja": "「一緒に何かをする集団」という意味から、主に政治的な「派閥」「党派」を意味するようになりました。",
+                "zh": "从「一起做某事的集团」的含义演变而来，主要用于表示政治上的「派系」或「党派分裂」。",
+                "fr": "Du sens de « groupe faisant quelque chose ensemble », il en est venu à signifier principalement une « faction » ou « division partisane » politique."
+            },
+            "example": "The party was split into several factions.",
+            "translation": {
+                "ko": "그 정당은 여러 파벌로 나뉘었다.",
+                "ja": "その政党は複数の派閥に分裂していた。",
+                "zh": "那个政党分裂成了几个派系。",
+                "fr": "Le parti s'était divisé en plusieurs factions."
+            }
+        },
+        {
+            "word": "-fication",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fic (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'~로 만드는 행위' 또는 '그 결과'를 나타내는 명사형 접미사입니다. (예: justification, purification)",
+                "en": "A nominal suffix indicating the act of making something or its result (e.g., justification, purification)",
+                "ja": "何かを作る行為、またはその結果を示す名詞化接尾辞です（例：justification、purification）",
+                "zh": "表示使某物成为或使其变成某种状态的行为或结果的名词化后缀（例如：justification、purification）",
+                "fr": "Suffixe nominal indiquant l'action de rendre quelque chose ou son résultat (ex. : justification, purification)"
+            },
+            "example": "The project involves the purification of water.",
+            "translation": {
+                "ko": "그 프로젝트는 물의 정화를 포함한다.",
+                "ja": "そのプロジェクトは水の浄化を含んでいます。",
+                "zh": "该项目包括水的净化。",
+                "fr": "Le projet implique la purification de l'eau."
+            }
+        },
+        {
+            "word": "ratify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rat (ratus)",
+                    "meaning": {
+                        "ko": "확정된, 계산된",
+                        "en": "fixed, calculated",
+                        "ja": "固定された、決定された",
+                        "zh": "固定的、既定的",
+                        "fr": "fixe, établi"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~するようにする",
+                        "zh": "使~",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법적으로 확정된 것으로 만들다'는 의미에서 조약이나 계약 등을 '비준하다', '재가하다'는 뜻으로 쓰입니다.",
+                "en": "Meaning 'to make something legally fixed or confirmed'; used for ratifying treaties or contracts",
+                "ja": "「法的に確定したものにする」という意味から、条約や契約などを「批准する」「承認する」という意味で使われます。",
+                "zh": "从\"使其在法律上被确定\"的含义出发，用来表示\"批准\"或\"核准\"条约或合同等。",
+                "fr": "Au sens de 'rendre officiellement confirmé par la loi'; utilisé pour approuver ou ratifier des traités ou des contrats."
+            },
+            "example": "The parliament will ratify the treaty.",
+            "translation": {
+                "ko": "의회는 그 조약을 비준할 것이다.",
+                "ja": "議会はその条約を批准するでしょう。",
+                "zh": "议会将批准该条约。",
+                "fr": "Le parlement ratifiera le traité."
+            }
+        },
+        {
+            "word": "factor",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fact",
+                    "meaning": {
+                        "ko": "만들다, 행하다",
+                        "en": "to make, to do",
+                        "ja": "作る、行う",
+                        "zh": "制造、实行",
+                        "fr": "faire, réaliser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "행위자, 원인",
+                        "en": "agent, thing that does",
+                        "ja": "行為者、原因",
+                        "zh": "施事者、原因",
+                        "fr": "agent, cause"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 결과를 만들어내는 행위자'라는 의미에서 '요인', '요소'를 뜻합니다.",
+                "en": "An agent or cause that produces a certain result; means a reason, element, or component",
+                "ja": "ある結果を生み出す行為者という意味から、「要因」「要素」を意味します",
+                "zh": "从\"产生某种结果的施事者\"的含义演变而来，表示\"原因\"、\"要素\"或\"因素\"",
+                "fr": "D'un agent qui produit un certain résultat, signifie une raison, un élément ou une composante"
+            },
+            "example": "Safety is an important factor.",
+            "translation": {
+                "ko": "안전은 중요한 요인이다.",
+                "ja": "安全は重要な要因である。",
+                "zh": "安全是一个重要因素。",
+                "fr": "La sécurité est un facteur important."
+            }
+        },
+        {
+            "word": "petrify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "petr (petra)",
+                    "meaning": {
+                        "ko": "돌",
+                        "en": "stone, rock",
+                        "ja": "石、岩",
+                        "zh": "石头、岩石",
+                        "fr": "pierre, roche"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~로 만들다",
+                        "en": "to make",
+                        "ja": "～にする",
+                        "zh": "使～",
+                        "fr": "rendre, faire devenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "생물 등을 '돌로 만들다' 즉, '석화시키다'는 뜻과, 공포 등으로 사람을 '돌처럼 굳게 만들다'는 비유적인 의미가 있습니다.",
+                "en": "Means both 'to turn into stone' (fossilize) and figuratively 'to make someone rigid like stone' (paralyze with fear)",
+                "ja": "生物などを『石にする』つまり『石化させる』という意味と、恐怖などで人を『石のように硬くする』という比喩的な意味があります。",
+                "zh": "既有'将生物变成石头'即'石化'的字面意思，也有通过恐惧等使人'像石头一样变硬'的比喻意思。",
+                "fr": "Signifie à la fois 'transformer en pierre' (fossiliser) et figurément 'rendre quelqu'un rigide comme la pierre' (paralyser de peur)."
+            },
+            "example": "The sight of the snake petrified him.",
+            "translation": {
+                "ko": "뱀을 보자 그는 (돌처럼) 굳어버렸다.",
+                "ja": "蛇を見ると、彼は(石のように)硬くなってしまった。",
+                "zh": "看到蛇后，他(像石头一样)僵硬了。",
+                "fr": "À la vue du serpent, il s'était figé (comme la pierre)."
+            }
+        },
+        {
+            "word": "surfeit",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sur- (super-)",
+                    "meaning": {
+                        "ko": "위에, 과도하게",
+                        "en": "over, above",
+                        "ja": "上に、過度に",
+                        "zh": "在...上面、过度地",
+                        "fr": "sur, au-dessus de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feit (facere)",
+                    "meaning": {
+                        "ko": "하다",
+                        "en": "to do",
+                        "ja": "する",
+                        "zh": "做",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'필요 이상으로 과도하게 하다'는 의미에서 '과다', '과식', '물림'을 뜻합니다.",
+                "en": "Means 'to do excessively or beyond necessity'; denotes excess, overeating, or surfeit.",
+                "ja": "「必要以上に過度にする」という意味で、「過剰」「過食」「飽和」を表します。",
+                "zh": "表示「过度地做或超过必要程度」的意思；指过量、暴食或过剩。",
+                "fr": "Signifie « faire excessivement ou au-delà du nécessaire » ; désigne l'excès, la suralimentation ou l'abondance."
+            },
+            "example": "A surfeit of food made him feel sick.",
+            "translation": {
+                "ko": "과도한 음식 때문에 그는 속이 메스꺼웠다.",
+                "ja": "食べ物の過剰摂取で彼は気分が悪くなった。",
+                "zh": "过量的食物使他感到恶心。",
+                "fr": "Un excès de nourriture l'a rendu malade."
+            }
+        },
+        {
+            "word": "counterfeit",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "counter-",
+                    "meaning": {
+                        "ko": "~에 반대하여, 모방하여",
+                        "en": "against, in imitation",
+                        "ja": "反対に、模倣して",
+                        "zh": "反对地，模仿地",
+                        "fr": "contre, en imitation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feit (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制作",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진짜와 비슷하게 모방해서 만들다'는 의미에서 화폐나 상품 등을 '위조하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'making something in imitation of the genuine article,' it came to mean 'forging' currency or goods.",
+                "ja": "本物と同じように模倣して作るという意味から、紙幣や商品などを『偽造する』という意味になりました。",
+                "zh": "从'模仿真品制作'的意思演变为对货币或商品等进行'伪造'的含义。",
+                "fr": "Du sens de 'fabriquer quelque chose en imitation de l'original', il en est venu à signifier 'contrefaire' la monnaie ou les marchandises."
+            },
+            "example": "It is illegal to counterfeit money.",
+            "translation": {
+                "ko": "돈을 위조하는 것은 불법이다.",
+                "ja": "紙幣を偽造することは違法です。",
+                "zh": "伪造货币是非法的。",
+                "fr": "Il est illégal de contrefaire la monnaie."
+            }
+        },
+        {
+            "word": "gratify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grat (gratus)",
+                    "meaning": {
+                        "ko": "기쁜, 감사하는",
+                        "en": "pleasing, thankful",
+                        "ja": "喜ばしい、感謝する",
+                        "zh": "令人愉快的、感恩的",
+                        "fr": "plaisant, reconnaissant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "～させる",
+                        "zh": "使～",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "누군가를 '기쁘게 만들다'는 의미에서 '만족시키다', '기쁘게 하다'는 뜻입니다.",
+                "en": "To make someone pleased; to satisfy or delight.",
+                "ja": "誰かを『喜ばせる』という意味から、『満足させる』『喜ばす』という意味です。",
+                "zh": "从'使某人高兴'的意思衍生出'满足'、'使高兴'的含义。",
+                "fr": "Du sens de 'rendre quelqu'un heureux', signifie 'satisfaire' ou 'réjouir'."
+            },
+            "example": "His success gratified his parents.",
+            "translation": {
+                "ko": "그의 성공은 그의 부모님을 기쁘게 했다.",
+                "ja": "彼の成功は彼の両親を喜ばせた。",
+                "zh": "他的成功使他的父母感到满意。",
+                "fr": "Son succès a réjoui ses parents."
+            }
+        },
+        {
+            "word": "testify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "test (testis)",
+                    "meaning": {
+                        "ko": "증인",
+                        "en": "witness",
+                        "ja": "証人",
+                        "zh": "证人",
+                        "fr": "témoin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "되게 하다",
+                        "en": "to make",
+                        "ja": "～させる",
+                        "zh": "使～",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'증인이 되게 하다' 즉, 스스로 '증인이 되어 말하다'는 의미에서 '증언하다'는 뜻이 되었습니다.",
+                "en": "'to make witness' — literally 'to become a witness and speak,' thus meaning 'to give testimony'",
+                "ja": "「証人にさせる」つまり、自ら「証人になって話す」という意味から「証言する」という意味になりました。",
+                "zh": "\"使成为证人\"，即从\"自己成为证人并说话\"的含义演变为\"作证\"的意思。",
+                "fr": "« faire devenir témoin » — littéralement « devenir témoin et parler », d'où le sens « témoigner »"
+            },
+            "example": "She agreed to testify in court.",
+            "translation": {
+                "ko": "그녀는 법정에서 증언하기로 동의했다.",
+                "ja": "彼女は法廷で証言することに同意した。",
+                "zh": "她同意在法庭上作证。",
+                "fr": "Elle a accepté de témoigner au tribunal."
+            }
+        },
+        {
+            "word": "fortify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fort (fortis)",
+                    "meaning": {
+                        "ko": "강한",
+                        "en": "strong",
+                        "ja": "強い",
+                        "zh": "强",
+                        "fr": "fort"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'강하게 만들다'는 의미로, 성벽 등을 '요새화하다' 또는 음식에 영양소를 '강화하다'는 뜻으로 쓰입니다.",
+                "en": "Means 'to make strong', used for strengthening fortifications like castle walls or fortifying food with nutrients",
+                "ja": "「強くする」という意味で、城壁などを「要塞化する」または食べ物に栄養素を「強化する」という意味で使われます",
+                "zh": "意思是'使变强'，用于加固城堡等防御工事或在食物中添加营养素",
+                "fr": "Signifie 'rendre fort', utilisé pour renforcer les fortifications comme les murs de château ou enrichir les aliments en nutriments"
+            },
+            "example": "They fortified the castle walls.",
+            "translation": {
+                "ko": "그들은 성벽을 강화했다.",
+                "ja": "城壁を要塞化した",
+                "zh": "他们加固了城堡的城墙",
+                "fr": "Ils ont fortifié les murs du château"
+            }
+        },
+        {
+            "word": "fiat",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fia (facere)",
+                    "meaning": {
+                        "ko": "만들어져라",
+                        "en": "let it be done",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 'facere'의 수동태 접속법 형태로, '그렇게 되게 하라'는 뜻입니다. 권위자가 내리는 '엄명', '허가'를 의미합니다.",
+                "en": "",
+                "ja": "",
+                "zh": "",
+                "fr": ""
+            },
+            "example": "The general ruled by fiat.",
+            "translation": {
+                "ko": "그 장군은 엄명으로 통치했다.",
+                "ja": "",
+                "zh": "",
+                "fr": ""
+            }
+        },
+        {
+            "word": "stratification",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strat (stratum)",
+                    "meaning": {
+                        "ko": "층",
+                        "en": "layer",
+                        "ja": "層",
+                        "zh": "层",
+                        "fr": "couche"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fic (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 층을 만드는 것'이라는 의미로, 지질학의 '성층'이나 사회학의 '계층화'를 의미합니다.",
+                "en": "Meaning 'the process of creating layers,' referring to geological strata or social class hierarchy.",
+                "ja": "「複数の層を作ること」という意味で、地質学の「地層」や社会学の「階層化」を指します。",
+                "zh": "意为「形成多个层级的过程」，指地质学中的「地层」或社会学中的「阶层分化」。",
+                "fr": "Signifiant « créer plusieurs couches », se référant aux strates géologiques ou à la hiérarchie sociale."
+            },
+            "example": "Social stratification is a major topic in sociology.",
+            "translation": {
+                "ko": "사회 계층은 사회학의 주요 주제이다.",
+                "ja": "社会的階層化は社会学の主要なテーマです。",
+                "zh": "社会分层是社会学的主要课题。",
+                "fr": "La stratification sociale est un sujet majeur en sociologie."
+            }
+        },
+        {
+            "word": "deify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dei (deus)",
+                    "meaning": {
+                        "ko": "신",
+                        "en": "god",
+                        "ja": "神",
+                        "zh": "神",
+                        "fr": "dieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~로 만들다",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "인간을 '신으로 만들다'는 의미에서 '신격화하다'는 뜻입니다.",
+                "en": "To make human into god; to treat as divine",
+                "ja": "人間を『神にする』という意味から、『神聖化する』という意味です。",
+                "zh": "从'把人类变成神'的意思，衍生出'神圣化'的含义。",
+                "fr": "Du sens 'rendre humain en dieu', signifie 'diviniser' ou 'sacraliser'."
+            },
+            "example": "Some cultures deify their emperors.",
+            "translation": {
+                "ko": "일부 문화권에서는 황제를 신격화한다.",
+                "ja": "いくつかの文化では皇帝を神聖化する。",
+                "zh": "一些文化将皇帝神圣化。",
+                "fr": "Certaines cultures divinisent leurs empereurs."
+            }
+        },
+        {
+            "word": "modify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mod (modus)",
+                    "meaning": {
+                        "ko": "측정, 방식, 한계",
+                        "en": "measure, manner",
+                        "ja": "測定、方法、限度",
+                        "zh": "测量、方式、限度",
+                        "fr": "mesure, manière, limite"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~するようにする",
+                        "zh": "使~、让~",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어느 정도의 한계를 두어 만들다' 즉, 약간의 변화를 가한다는 의미에서 '수정하다', '변경하다'는 뜻이 되었습니다.",
+                "en": "Originally meant 'to set certain limits and make,' evolved to mean 'to revise' or 'to change' in the sense of making slight alterations.",
+                "ja": "元々は「ある程度の限度を定めて作る」という意味で、わずかな変化を加えるという意味から、「修正する」「変更する」という意味になりました。",
+                "zh": "原意为「设置一定限度并制作」，从进行轻微改变的含义演变为「修改」或「改变」的意思。",
+                "fr": "Signifiait à l'origine « établir certaines limites et créer », évoluant pour signifier « réviser » ou « changer » au sens de faire de légères modifications."
+            },
+            "example": "I need to modify my travel plans.",
+            "translation": {
+                "ko": "나는 내 여행 계획을 수정해야 한다.",
+                "ja": "私は自分の旅行計画を修正する必要があります。",
+                "zh": "我需要修改我的旅行计划。",
+                "fr": "Je dois modifier mon plan de voyage."
+            }
+        },
+        {
+            "word": "qualify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "qual (qualis)",
+                    "meaning": {
+                        "ko": "어떠한 종류의",
+                        "en": "of what kind",
+                        "ja": "どのような種類の",
+                        "zh": "什么样的",
+                        "fr": "de quel genre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~로 만들다",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使成为",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'필요한 종류의 사람/것으로 만들다'는 의미에서 '자격을 주다', '자격을 얻다'는 뜻으로 발전했습니다.",
+                "en": "Developed from 'make into a person/thing of necessary kind' to mean 'give qualification' or 'obtain qualification'",
+                "ja": "「必要な種類の人/ものにする」という意味から「資格を与える」「資格を得る」という意味に発展しました",
+                "zh": "从「使成为所需类型的人/物」的意思发展为「授予资格」或「获得资格」的含义",
+                "fr": "Évolution du sens « faire devenir une personne/chose du type requis » vers « donner une qualification » ou « obtenir une qualification »"
+            },
+            "example": "Do you qualify for the job?",
+            "translation": {
+                "ko": "당신은 그 일자리에 대한 자격이 있나요?",
+                "ja": "あなたはその職に適していますか？",
+                "zh": "你符合这份工作的资格吗？",
+                "fr": "Êtes-vous qualifié pour ce poste ?"
+            }
+        },
+        {
+            "word": "confection",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fec (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制作",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "여러 재료를 '함께 섞어 만든 것'이라는 의미에서, 주로 '설탕 절임 과자', '당과'를 의미합니다.",
+                "en": "From the sense of 'something made by mixing ingredients together,' it primarily refers to sugar-preserved sweets or candies.",
+                "ja": "複数の材料を「一緒に混ぜて作ったもの」という意味から、主に「砂糖漬けのお菓子」や「砂糖菓子」を指します。",
+                "zh": "从'将多种材料混合制作的东西'的含义而来，主要指'糖渍甜点'或'糖果'。",
+                "fr": "Du sens de 'quelque chose fait en mélangeant ensemble plusieurs ingrédients', il désigne principalement les 'bonbons enrobés de sucre' ou les 'sucreries'."
+            },
+            "example": "The shop sells beautiful confections.",
+            "translation": {
+                "ko": "그 가게는 아름다운 당과를 판다.",
+                "ja": "その店は美しい菓子を売っている。",
+                "zh": "那家店卖漂亮的糖果。",
+                "fr": "Le magasin vend de belles confiseries."
+            }
+        },
+        {
+            "word": "liquefy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lique (liquere)",
+                    "meaning": {
+                        "ko": "액체이다",
+                        "en": "to be liquid",
+                        "ja": "液体である",
+                        "zh": "是液体",
+                        "fr": "être liquide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fy (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "〜にする",
+                        "zh": "使成为",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고체나 기체를 '액체로 만들다'는 의미에서 '액화시키다'는 뜻입니다.",
+                "en": "Means 'to turn a solid or gas into liquid'",
+                "ja": "固体または気体を液体にすることを意味します",
+                "zh": "指将固体或气体转变为液体",
+                "fr": "Signifie transformer un solide ou un gaz en liquide"
+            },
+            "example": "Heat will liquefy the ice.",
+            "translation": {
+                "ko": "열이 얼음을 액화시킬 것이다.",
+                "ja": "熱は氷を液化させるだろう。",
+                "zh": "热会使冰液化。",
+                "fr": "La chaleur liquéfiera la glace."
+            }
+        },
+        {
+            "word": "feature",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fea (facere의 변형)",
+                    "meaning": {
+                        "ko": "만들어진 것, 모양",
+                        "en": "make, shape",
+                        "ja": "作られたもの、形",
+                        "zh": "制作的东西、形状",
+                        "fr": "chose faite, forme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 'factura' (만들어진 것)에서 유래하여, 사물의 '모습', '특징' 또는 사람의 '얼굴 생김새(이목구비)'를 의미하게 되었습니다.",
+                "en": "From Latin 'factura' (made thing), evolved to mean the 'appearance' or 'distinctive quality' of something, or 'facial characteristics' of a person.",
+                "ja": "ラテン語の「factura」（作られたもの）に由来し、物の「外観」「特徴」または人の「顔の特徴」を意味するようになりました。",
+                "zh": "源自拉丁语\"factura\"（制作的东西），后来演变为表示事物的\"外观\"\"特征\"或人的\"面部特征\"。",
+                "fr": "Du latin « factura » (chose faite), devenu signifier l'« apparence » ou la « caractéristique distinctive » d'une chose, ou les « traits du visage » d'une personne."
+            },
+            "example": "The best feature of the phone is its camera.",
+            "translation": {
+                "ko": "그 휴대폰의 가장 좋은 특징은 카메라이다.",
+                "ja": "そのスマートフォンの最高の機能はカメラです。",
+                "zh": "这部手机最好的特点是它的摄像头。",
+                "fr": "La meilleure caractéristique de ce téléphone est son appareil photo."
+            }
+        },
+        {
+            "word": "feasible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feas (facere)",
+                    "meaning": {
+                        "ko": "할 수 있는",
+                        "en": "doable",
+                        "ja": "実行可能な",
+                        "zh": "可做的",
+                        "fr": "faisable"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "~할 수 있는",
+                        "en": "able to be",
+                        "ja": "〜できる",
+                        "zh": "能够被〜",
+                        "fr": "pouvoir être"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'행해질 수 있는'이라는 의미에서 '실행 가능한'이라는 뜻을 가집니다.",
+                "en": "From the sense of 'capable of being done' comes the meaning 'practicable, able to be carried out'",
+                "ja": "『実行可能である』という意味から『実行可能な』という意味を持つようになりました",
+                "zh": "从'能够被执行'的含义引申为'可行的、可实施的'之意",
+                "fr": "Du sens de 'capable d'être fait' vient le sens de 'réalisable, exécutable'"
+            },
+            "example": "Your plan sounds feasible.",
+            "translation": {
+                "ko": "당신의 계획은 실행 가능하게 들린다.",
+                "ja": "あなたの計画は実行可能に聞こえます。",
+                "zh": "你的计划听起来是可行的。",
+                "fr": "Votre plan semble réalisable."
+            }
+        },
+        {
+            "word": "deficient",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져, 부족한",
+                        "en": "away, lacking",
+                        "ja": "離れて、不足した",
+                        "zh": "离开、缺乏",
+                        "fr": "loin, manquant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fic (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造、做",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ient",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'제대로 만들어지지 않아 아래로 떨어진' 상태를 의미하며, '부족한', '결함이 있는'이라는 뜻입니다.",
+                "en": "From Latin deficere 'to fail, fall short'; literally 'made away' or 'fallen down', meaning lacking or flawed",
+                "ja": "ラテン語の deficere（失敗する、不足する）から派生。文字通り「作られずに落ちた」状態を意味し、「不足している」「欠陥がある」という意味です。",
+                "zh": "源自拉丁语 deficere（失败、不足）。字面意思是「制作不完全而下降」，表示缺乏或有缺陷。",
+                "fr": "Du latin deficere « faire défaut, manquer ». Littéralement « tombé incomplet », signifiant manquant ou défectueux."
+            },
+            "example": "The diet is deficient in vitamins.",
+            "translation": {
+                "ko": "그 식단은 비타민이 부족하다.",
+                "ja": "その食事はビタミンが不足している。",
+                "zh": "那个饮食缺乏维生素。",
+                "fr": "Ce régime est déficient en vitamines."
+            }
+        },
+        {
+            "word": "stultify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stult (stultus)",
+                    "meaning": {
+                        "ko": "어리석은",
+                        "en": "foolish",
+                        "ja": "愚かな",
+                        "zh": "愚蠢的",
+                        "fr": "stupide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어리석게 보이게 만들다'는 의미에서 '바보처럼 보이게 하다', '망쳐놓다', '무효화하다'는 뜻으로 쓰입니다.",
+                "en": "Originally meaning 'to make appear foolish,' it evolved to mean 'to render ineffective,' 'to nullify,' or 'to deprive of vitality.'",
+                "ja": "もともと「愚かに見えるようにする」という意味から、「効果を無くす」「無効にする」「活力を奪う」という意味に発展しました。",
+                "zh": "最初意为\"使显得愚蠢\"，后来演变为\"使无效\"、\"使失效\"或\"使失去生机\"的含义。",
+                "fr": "Originellement signifiant 'rendre stupide', le terme a évolué pour signifier 'rendre inefficace', 'annuler' ou 'priver de vitalité'."
+            },
+            "example": "The boring routine stultified him.",
+            "translation": {
+                "ko": "지루한 일상이 그를 무기력하게 만들었다.",
+                "ja": "退屈な日常が彼を無気力にした。",
+                "zh": "枯燥的日常使他变得无精打采。",
+                "fr": "La routine ennuyeuse l'a rendu inerte."
+            }
+        },
+        {
+            "word": "malfeasance",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mal",
+                    "meaning": {
+                        "ko": "나쁜",
+                        "en": "bad",
+                        "ja": "悪い",
+                        "zh": "坏的",
+                        "fr": "mauvais"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feas (facere)",
+                    "meaning": {
+                        "ko": "하다",
+                        "en": "to do",
+                        "ja": "する",
+                        "zh": "做",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ance",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나쁜 행위를 함'이라는 의미로, 특히 공무원의 '위법 행위', '부정'을 가리키는 법률 용어입니다.",
+                "en": "A legal term meaning 'wrongful conduct,' specifically referring to illegal or unethical acts by public officials.",
+                "ja": "悪い行為を指す法律用語で、特に公務員の違法行為や不正を表します。",
+                "zh": "法律术语，表示'不当行为'，特别指公职人员的违法或不正行为。",
+                "fr": "Terme juridique désignant une 'conduite répréhensible', notamment les actes illégaux ou contraires à l'éthique commis par les fonctionnaires."
+            },
+            "example": "He was accused of malfeasance.",
+            "translation": {
+                "ko": "그는 위법 행위로 고발당했다.",
+                "ja": "彼は不正行為で告発された。",
+                "zh": "他被控违法行为。",
+                "fr": "Il a été accusé de malversation."
+            }
+        },
+        {
+            "word": "affect",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "af- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to, toward",
+                        "ja": "~に、~へ",
+                        "zh": "向、到",
+                        "fr": "à, vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fect (facere)",
+                    "meaning": {
+                        "ko": "행하다, 만들다",
+                        "en": "to do, to make",
+                        "ja": "する、作る",
+                        "zh": "做、制造",
+                        "fr": "faire, créer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 대상에 작용을 하다'는 의미에서 '영향을 미치다'는 뜻이 되었습니다. 목록의 (n.) 표기는 심리학 용어 '정서(affect)'를 의미할 수 있으나, 일반적으로는 동사로 더 많이 쓰입니다.",
+                "en": "From 'to act upon an object' came to mean 'to influence'. The noun form (n.) can refer to the psychological term 'affect' (emotion), but the verb is more commonly used.",
+                "ja": "「ある対象に作用を及ぼす」という意味から「影響を与える」という意味になりました。名詞形(n.)は心理学用語の「情動(affect)」を意味することもありますが、一般的には動詞として多く使われます。",
+                "zh": "从「对某对象产生作用」的含义演变为「产生影响」的意思。名词形式(n.)可以指心理学术语「情感(affect)」，但通常更多地用作动词。",
+                "fr": "Du sens « agir sur un objet » au sens « influencer ». La forme nominale (n.) peut désigner le terme psychologique « affect » (émotion), mais le verbe est plus couramment utilisé."
+            },
+            "example": "The news will affect everyone.",
+            "translation": {
+                "ko": "그 소식은 모두에게 영향을 미칠 것이다.",
+                "ja": "そのニュースは誰もに影響を与えるでしょう。",
+                "zh": "那条新闻将会影响每个人。",
+                "fr": "Cette nouvelle affectera tout le monde."
+            }
+        },
+        {
+            "word": "proficiency",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fic (facere)",
+                    "meaning": {
+                        "ko": "만들다, 하다",
+                        "en": "to make, to do",
+                        "ja": "作る、する",
+                        "zh": "制作、做",
+                        "fr": "faire, créer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-iency",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 나아감을 만드는' 능력이라는 의미에서 '숙달', '능숙함'을 뜻합니다.",
+                "en": "From Latin proficere 'to make progress': pro- (forward) + facere (to make). The sense evolved from 'making progress' to 'skill or expertise gained through practice'.",
+                "ja": "「前へ進むことを作る」という意味から、「熟達」「巧みさ」を意味するようになりました。",
+                "zh": "从\"向前进步\"的含义演变而来，现指通过实践获得的\"熟练程度\"或\"专业技能\"。",
+                "fr": "Du latin proficere 'faire des progrès': pro- (en avant) + facere (faire). Le sens a évolué de 'progresser' à 'maîtrise ou expertise'."
+            },
+            "example": "He has a high proficiency in English.",
+            "translation": {
+                "ko": "그는 영어에 높은 숙달도를 가지고 있다.",
+                "ja": "彼は英語に高い熟達度を持っている。",
+                "zh": "他在英语方面有很高的熟练度。",
+                "fr": "Il a un haut niveau de compétence en anglais."
+            }
+        },
+        {
+            "word": "affair",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fair (facere)",
+                    "meaning": {
+                        "ko": "하다",
+                        "en": "to do",
+                        "ja": "する",
+                        "zh": "做",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'해야 할 일'을 의미하는 프랑스어 à faire (to do)에서 유래했습니다. '해야 할 일'이라는 의미에서 '사건', '일'을 뜻하게 되었고, 때로는 '불륜 관계'를 의미하기도 합니다.",
+                "en": "From French à faire (to do). Originally meant 'something to be done', then broadened to 'matter' or 'event', and sometimes refers to an illicit relationship.",
+                "ja": "フランス語の à faire（すること）に由来します。「やるべきこと」という意味から「事柄」「出来事」へと広がり、時には「不倫関係」を指すこともあります。",
+                "zh": "源自法语 à faire（要做的事）。原意为\"应做之事\"，后来扩展为\"事项\"、\"事件\"的含义，有时也指\"非法婚外情\"。",
+                "fr": "Du français à faire (à faire). Signifiait à l'origine « quelque chose à faire », puis s'est élargi à « affaire » ou « événement », et désigne parfois une relation illicite."
+            },
+            "example": "That is not your affair.",
+            "translation": {
+                "ko": "그것은 당신이 상관할 일이 아니다.",
+                "ja": "それはあなたの関わる事柄ではない。",
+                "zh": "那不是你的事。",
+                "fr": "Ce n'est pas votre affaire."
+            }
+        },
+        {
+            "word": "feat",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feat (factum)",
+                    "meaning": {
+                        "ko": "행해진 것",
+                        "en": "thing done",
+                        "ja": "成し遂げたこと",
+                        "zh": "做成的事",
+                        "fr": "chose faite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 factum (행위)에서 유래하여, 평범한 행위가 아닌 '뛰어난 업적', '위업'을 의미하게 되었습니다.",
+                "en": "From Latin factum (deed). Originally meant any action, but evolved to mean an outstanding or remarkable achievement.",
+                "ja": "ラテン語のfactum（行為）に由来し、単なる行為ではなく「優れた業績」「偉業」を意味するようになりました。",
+                "zh": "源自拉丁语factum（行为），最初指任何行为，后来演变为指卓越的或非凡的成就。",
+                "fr": "Du latin factum (action). Initialement signifiait n'importe quel acte, mais a évolué pour désigner une réussite remarquable."
+            },
+            "example": "It was an amazing feat of engineering.",
+            "translation": {
+                "ko": "그것은 놀라운 공학적 위업이었다.",
+                "ja": "それは驚くべき工学的な偉業でした。",
+                "zh": "那是令人惊叹的工程壮举。",
+                "fr": "C'était un exploit remarquable d'ingénierie."
+            }
+        },
+        {
+            "word": "vitrify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vitr (vitrum)",
+                    "meaning": {
+                        "ko": "유리",
+                        "en": "glass",
+                        "ja": "ガラス",
+                        "zh": "玻璃",
+                        "fr": "verre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~로 만들다",
+                        "en": "to make",
+                        "ja": "～にする",
+                        "zh": "使～",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유리처럼 만들다', 즉 '유리질로 변화시키다'는 의미입니다.",
+                "en": "To make glass-like; to transform into a glassy substance",
+                "ja": "「ガラスのようにする」、つまり「ガラス質に変化させる」という意味です。",
+                "zh": "「像玻璃一样制造」，即「使其转变为玻璃质」的意思。",
+                "fr": "« Rendre comme du verre », c'est-à-dire « transformer en substance vitrée »."
+            },
+            "example": "The extreme heat vitrified the sand.",
+            "translation": {
+                "ko": "극심한 열이 모래를 유리질로 만들었다.",
+                "ja": "極度の熱が砂をガラス質に変えた。",
+                "zh": "极端的高温使沙子玻璃化了。",
+                "fr": "La chaleur extrême a vitrifié le sable."
+            }
+        },
+        {
+            "word": "terrific",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terr (terrere)",
+                    "meaning": {
+                        "ko": "두렵게 하다",
+                        "en": "to frighten",
+                        "ja": "恐れさせる",
+                        "zh": "使害怕",
+                        "fr": "effrayer"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fic (facere)",
+                    "meaning": {
+                        "ko": "만드는",
+                        "en": "making",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래는 '공포를 만드는', '무서운'이라는 뜻이었으나, 현대 영어에서는 의미가 긍정적으로 바뀌어 '굉장한', '아주 멋진'이라는 뜻으로 쓰입니다.",
+                "en": "Originally meant 'causing fear' or 'frightening', but in modern English the meaning has shifted positively to mean 'wonderful' or 'excellent'.",
+                "ja": "元々は『恐怖を起こす』『怖い』という意味でしたが、現代英語では意味が肯定的に変わり『素晴らしい』『とても素敵な』という意味で使われます。",
+                "zh": "原本意为'引起恐惧'或'可怕的',但在现代英语中含义已积极转变为'极好的'或'非常出色的'。",
+                "fr": "Signifiait à l'origine 'causant la peur' ou 'effrayant', mais en anglais moderne, le sens a changé positivement pour signifier 'merveilleux' ou 'excellent'."
+            },
+            "example": "You did a terrific job!",
+            "translation": {
+                "ko": "정말 멋지게 해냈어!",
+                "ja": "あなたは素晴らしい仕事をしました!",
+                "zh": "你做得太棒了!",
+                "fr": "Vous avez fait un travail formidable!"
+            }
+        },
+        {
+            "word": "vilify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vili (vilis)",
+                    "meaning": {
+                        "ko": "가치 없는, 비열한",
+                        "en": "worthless, base",
+                        "ja": "価値のない、卑劣な",
+                        "zh": "无价值的、卑鄙的",
+                        "fr": "sans valeur, vil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "〜にする、〜させる",
+                        "zh": "使得、令",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "누군가를 '가치 없고 비열한 사람으로 만들다'는 의미에서 '비방하다', '헐뜯다'는 뜻입니다.",
+                "en": "To make someone appear worthless and base; to speak badly of or defame.",
+                "ja": "誰かを「価値のない卑劣な人間にする」という意味から、「非難する」「中傷する」という意味になりました。",
+                "zh": "从「把某人变成无价值、卑鄙的人」的意思引申出「诋毁」、「中伤」的含义。",
+                "fr": "Du sens de « rendre quelqu'un sans valeur et vil », il signifie « dénigrer » ou « calomnier »."
+            },
+            "example": "The press started to vilify the politician.",
+            "translation": {
+                "ko": "언론은 그 정치인을 비방하기 시작했다.",
+                "ja": "メディアはその政治家を非難し始めた。",
+                "zh": "媒体开始诋毁这位政治家。",
+                "fr": "La presse a commencé à dénigrer le politicien."
+            }
+        },
+        {
+            "word": "facile",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fac",
+                    "meaning": {
+                        "ko": "하다",
+                        "en": "to do",
+                        "ja": "する",
+                        "zh": "做",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ile",
+                    "meaning": {
+                        "ko": "~하기 쉬운",
+                        "en": "easy to",
+                        "ja": "~しやすい",
+                        "zh": "容易~",
+                        "fr": "facile à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하기 쉬운'이라는 긍정적인 의미와 함께, 너무 쉬워서 깊이가 없다는 '안이한', '피상적인'이라는 부정적인 뉘앙스로도 사용됩니다.",
+                "en": "While originally meaning 'easy to do,' it has developed a negative connotation suggesting superficiality or lack of depth due to being overly simple.",
+                "ja": "本来は「しやすい」という肯定的な意味ですが、簡単すぎて深さがないという「安易な」「表面的な」という否定的なニュアンスでも使われます。",
+                "zh": "除了具有「容易的」这一正面含义外，还常带有「过于简单而缺乏深度」「肤浅的」等负面含义。",
+                "fr": "Bien que signifiant initialement « facile à faire », le terme a développé une connotation négative suggérant une superficialité ou un manque de profondeur."
+            },
+            "example": "This is a facile solution to a complex problem.",
+            "translation": {
+                "ko": "이것은 복잡한 문제에 대한 안이한 해결책이다.",
+                "ja": "これは複雑な問題に対する安易な解決策だ。",
+                "zh": "这是对复杂问题的浅薄解决方案。",
+                "fr": "C'est une solution facile à un problème complexe."
+            }
+        },
+        {
+            "word": "horrific",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "horr (horrere)",
+                    "meaning": {
+                        "ko": "몸서리치다, 두려워하다",
+                        "en": "to shudder, to dread",
+                        "ja": "身震いする、怖れる",
+                        "zh": "颤抖、恐惧",
+                        "fr": "frissonner, redouter"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fic (facere)",
+                    "meaning": {
+                        "ko": "만드는",
+                        "en": "making",
+                        "ja": "～を作る",
+                        "zh": "制造、使得",
+                        "fr": "faire, créer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸서리치게 만드는', 즉 '끔찍한', '무시무시한'이라는 뜻입니다.",
+                "en": "'Making one shudder'; meaning terrible or gruesome",
+                "ja": "「身震いさせる」つまり「ひどい」「恐ろしい」という意味です",
+                "zh": "意为'令人颤抖'，即'可怕的'、'令人恐惧的'",
+                "fr": "Signifie 'faire frissonner', c'est-à-dire 'terrible' ou 'effrayant'"
+            },
+            "example": "It was a horrific accident.",
+            "translation": {
+                "ko": "그것은 끔찍한 사고였다.",
+                "ja": "それは恐ろしい事故だった。",
+                "zh": "那是一场可怕的事故。",
+                "fr": "C'était un accident horrifique."
+            }
+        },
+        {
+            "word": "defeat",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "반대, 취소",
+                        "en": "undo, reverse",
+                        "ja": "取り消す、逆にする",
+                        "zh": "撤销、反转",
+                        "fr": "annuler, inverser"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feat (facere)",
+                    "meaning": {
+                        "ko": "만들다, 하다",
+                        "en": "to make, to do",
+                        "ja": "作る、行う",
+                        "zh": "制造、做",
+                        "fr": "faire, créer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "상대방이 '이룬 것을 무효로 만들다'는 의미에서 '패배시키다'는 뜻이 되었습니다.",
+                "en": "Originally meant 'to make undone what one has accomplished,' then came to mean 'to cause to lose'",
+                "ja": "相手が『成し遂げたものを無効にする』という意味から『敗北させる』という意味になりました",
+                "zh": "从'使对方所成就的事无效'的意思演变为'使其战败'的含义",
+                "fr": "Signifiait à l'origine 'rendre nul ce que l'adversaire a réalisé', puis a pris le sens de 'vaincre'"
+            },
+            "example": "Our team suffered a major defeat.",
+            "translation": {
+                "ko": "우리 팀은 큰 패배를 겪었다.",
+                "ja": "私たちのチームは大きな敗北を喫した。",
+                "zh": "我们的队伍遭遇了一场重大的失败。",
+                "fr": "Notre équipe a subi une lourde défaite."
+            }
+        },
+        {
+            "word": "artifice",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arti (ars)",
+                    "meaning": {
+                        "ko": "기술, 기교",
+                        "en": "skill, art",
+                        "ja": "技術、技巧",
+                        "zh": "技术、技艺",
+                        "fr": "savoir-faire, art"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fice (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造、做",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기술을 부려 만든 것'이라는 의미로, 교묘한 '책략', '계략'을 뜻합니다.",
+                "en": "Something made with skill; a clever device or stratagem",
+                "ja": "技術を駆使して作られたもの。巧妙な手段や策略を意味します。",
+                "zh": "用技巧制造的东西，指精妙的手段或计谋。",
+                "fr": "Quelque chose créé avec habileté; désigne un stratagème ou une ruse ingénieuse."
+            },
+            "example": "The story was full of clever artifice.",
+            "translation": {
+                "ko": "그 이야기는 교묘한 책략으로 가득했다.",
+                "ja": "その物語は巧妙な策略に満ちていた。",
+                "zh": "这个故事充满了巧妙的计谋。",
+                "fr": "L'histoire était remplie de stratagèmes ingénieux."
+            }
+        },
+        {
+            "word": "nullify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "null (nullus)",
+                    "meaning": {
+                        "ko": "아무것도 아닌",
+                        "en": "none",
+                        "ja": "何もない",
+                        "zh": "无、没有",
+                        "fr": "aucun"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使、令",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아무것도 아닌 것으로 만들다'는 의미에서 법적으로 '무효화하다'는 뜻입니다.",
+                "en": "From the sense 'to make into nothing,' legally meaning 'to invalidate or annul.'",
+                "ja": "「何もないものにする」という意味から、法的には「無効にする」という意味です。",
+                "zh": "从「使成为无」的意思引申，在法律上表示「宣布无效」。",
+                "fr": "Du sens « rendre sans effet », signifie légalement « annuler ou invalider »."
+            },
+            "example": "The court can nullify the contract.",
+            "translation": {
+                "ko": "법원은 그 계약을 무효화할 수 있다.",
+                "ja": "裁判所はその契約を無効にすることができる。",
+                "zh": "法院可以宣布该合同无效。",
+                "fr": "Le tribunal peut annuler le contrat."
+            }
+        },
+        {
+            "word": "malefactor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "male",
+                    "meaning": {
+                        "ko": "나쁘게",
+                        "en": "badly, ill",
+                        "ja": "悪く",
+                        "zh": "坏地",
+                        "fr": "mal, mauvaisement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fact",
+                    "meaning": {
+                        "ko": "행하다",
+                        "en": "to do",
+                        "ja": "行う",
+                        "zh": "做",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "사람",
+                        "en": "person who",
+                        "ja": "人",
+                        "zh": "人",
+                        "fr": "personne qui"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나쁜 짓을 하는 사람' 즉, '악인', '범죄자'를 의미합니다.",
+                "en": "A person who does bad things; a wrongdoer or criminal.",
+                "ja": "悪いことをする人、つまり悪人、犯罪者を意味します。",
+                "zh": "做坏事的人，即恶棍、犯罪分子。",
+                "fr": "Une personne qui commet de mauvaises actions ; un malfaiteur ou criminel."
+            },
+            "example": "The police caught the malefactor.",
+            "translation": {
+                "ko": "경찰이 그 범죄자를 잡았다.",
+                "ja": "警察がその犯罪者を捕まえた。",
+                "zh": "警察抓住了那个犯罪分子。",
+                "fr": "La police a arrêté le malfaiteur."
+            }
+        },
+        {
+            "word": "artifact",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arte",
+                    "meaning": {
+                        "ko": "기술로",
+                        "en": "by skill",
+                        "ja": "技術で",
+                        "zh": "由技术",
+                        "fr": "par habileté"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fact",
+                    "meaning": {
+                        "ko": "만들어진 것",
+                        "en": "thing made",
+                        "ja": "作られたもの",
+                        "zh": "制造的东西",
+                        "fr": "chose faite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람의 기술로 만들어진 물건'이라는 의미로, 역사적 또는 고고학적 가치가 있는 '인공물', '유물'을 뜻합니다.",
+                "en": "An object made by human skill, referring to an 'artificial object' or 'relic' with historical or archaeological value.",
+                "ja": "人間の技術で作られた物で、歴史的または考古学的価値がある『人工物』『遺物』を意味します。",
+                "zh": "由人类技能制造的物品，指具有历史或考古学价值的『人工制品』『遗物』。",
+                "fr": "Un objet créé par l'habileté humaine, désignant un 'objet artificiel' ou 'vestige' ayant une valeur historique ou archéologique."
+            },
+            "example": "The museum has many ancient artifacts.",
+            "translation": {
+                "ko": "그 박물관에는 많은 고대 유물이 있다.",
+                "ja": "人工遺物",
+                "zh": "古物",
+                "fr": "artefact"
+            }
+        },
+        {
+            "word": "justify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "just (justus)",
+                    "meaning": {
+                        "ko": "올바른, 공정한",
+                        "en": "just, right",
+                        "ja": "正しい、公正な",
+                        "zh": "正义的、公平的",
+                        "fr": "juste, équitable"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~するようにする",
+                        "zh": "使~",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'올바른 것으로 만들다'는 의미에서 자신의 행동이나 결정을 '정당화하다'는 뜻으로 쓰입니다.",
+                "en": "Originally 'to make right/just'; now means to provide reasons or defend one's actions or decisions as justified.",
+                "ja": "元々は「正しくする」という意味で、今では自分の行動や決定を「正当化する」という意味で使われます。",
+                "zh": "原意为「使正义」，现在表示为自己的行动或决定提供理由或进行辩护。",
+                "fr": "Initialement « rendre juste », maintenant signifie fournir des raisons ou défendre ses actions ou décisions comme justifiées."
+            },
+            "example": "Can you justify your actions?",
+            "translation": {
+                "ko": "당신의 행동을 정당화할 수 있나요?",
+                "ja": "あなたの行動を正当化できますか？",
+                "zh": "你能为你的行为辩护吗？",
+                "fr": "Pouvez-vous justifier vos actions ?"
+            }
+        },
+        {
+            "word": "notify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "not (notus)",
+                    "meaning": {
+                        "ko": "알려진",
+                        "en": "known",
+                        "ja": "知られている",
+                        "zh": "已知的",
+                        "fr": "connu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "～させる",
+                        "zh": "使～",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알려지게 만들다'는 의미에서 공식적으로 '알리다', '통지하다'는 뜻입니다.",
+                "en": "From Latin notus (known) and facere (to make): to make known officially; to inform or give notice",
+                "ja": "ラテン語の notus（知られている）と facere（作る）から：公式に知らせる、通知する、告知する意味",
+                "zh": "源自拉丁语 notus（已知的）和 facere（做）：正式告知；通知或给予通知",
+                "fr": "Du latin notus (connu) et facere (faire) : faire connaître officiellement ; informer ou donner avis"
+            },
+            "example": "Please notify us of any changes.",
+            "translation": {
+                "ko": "변경 사항이 있으면 저희에게 알려주세요.",
+                "ja": "変更がある場合は、当社までお知らせください。",
+                "zh": "如有任何变更，请通知我们。",
+                "fr": "Veuillez nous notifier de tout changement."
+            }
+        },
+        {
+            "word": "misfeasance",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mis-",
+                    "meaning": {
+                        "ko": "잘못된",
+                        "en": "wrongly",
+                        "ja": "誤った",
+                        "zh": "错误地",
+                        "fr": "mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feas (facere)",
+                    "meaning": {
+                        "ko": "하다",
+                        "en": "to do",
+                        "ja": "する",
+                        "zh": "做",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ance",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못된 행위'를 의미하며, 특히 합법적인 행위를 부적절하게 수행하는 '부당 행위'를 가리키는 법률 용어입니다.",
+                "en": "'Wrongful conduct' — a legal term referring specifically to improper performance of a lawful act, distinct from nonfeasance (failure to act) and malfeasance (illegal act).",
+                "ja": "不当行為を意味し、特に合法的な行為を不適切に実行する『違法行為』を指す法律用語です。",
+                "zh": "意为'不当行为'，特别是指不适当地执行合法行为的'违法行为'，是法律术语。",
+                "fr": "Signifie 'conduite répréhensible', terme juridique désignant spécifiquement l'exécution incorrecte d'un acte légal."
+            },
+            "example": "Misfeasance in public office is a serious crime.",
+            "translation": {
+                "ko": "공직에서의 부당 행위는 심각한 범죄이다.",
+                "ja": "公職における不当行為は重大な犯罪である。",
+                "zh": "公职中的不当行为是严重犯罪。",
+                "fr": "Le détournement de pouvoir dans les fonctions publiques est un crime grave."
+            }
+        },
+        {
+            "word": "specification",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "speci (species)",
+                    "meaning": {
+                        "ko": "종류, 외양",
+                        "en": "kind, appearance",
+                        "ja": "種類、外観",
+                        "zh": "种类、外观",
+                        "fr": "sorte, apparence"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fic (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制作、制造",
+                        "fr": "faire, fabriquer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정한 종류나 형태로 만드는 것'에 대한 설명이라는 의미에서, 제품 등의 '설명서', '사양'을 뜻합니다.",
+                "en": "From the sense of 'making something of a specific kind or form,' it refers to a product's 'description' or 'specifications.'",
+                "ja": "「特定の種類や形態で作られるもの」という意味から、製品などの「説明書」「仕様」を意味します。",
+                "zh": "从「以特定的种类或形式制造」的意思，引申为产品等的「说明书」、「规格」之意。",
+                "fr": "Du sens de 'fabriquer quelque chose d'une sorte ou forme spécifique', il désigne les 'spécifications' ou 'caractéristiques techniques' d'un produit."
+            },
+            "example": "Check the product specifications.",
+            "translation": {
+                "ko": "제품 사양을 확인하세요.",
+                "ja": "製品の仕様を確認してください。",
+                "zh": "请确认产品规格。",
+                "fr": "Vérifiez les spécifications du produit."
+            }
+        },
+        {
+            "word": "clarify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clar (clarus)",
+                    "meaning": {
+                        "ko": "명확한",
+                        "en": "clear",
+                        "ja": "明確な",
+                        "zh": "清晰的",
+                        "fr": "clair"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "～にする",
+                        "zh": "使～",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'명확하게 만들다'는 의미에서 '명확히 설명하다' 또는 액체 등을 '맑게 하다'는 뜻입니다.",
+                "en": "From Latin clarus (clear): to make clear or explain; also to make liquid clear or transparent.",
+                "ja": "ラテン語のclarus（明確な）から：明確に説明する、または液体などを澄ませることを意味します。",
+                "zh": "源自拉丁语clarus（清晰的）：阐明或解释，也可指使液体澄清。",
+                "fr": "Du latin clarus (clair) : expliquer clairement ou rendre transparent un liquide."
+            },
+            "example": "Could you clarify your point?",
+            "translation": {
+                "ko": "당신의 요점을 명확히 해주시겠어요?",
+                "ja": "あなたの要点を明確にしていただけますか？",
+                "zh": "你能澄清你的观点吗？",
+                "fr": "Pourriez-vous clarifier votre point ?"
+            }
+        },
+        {
+            "word": "fructify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fruct (fructus)",
+                    "meaning": {
+                        "ko": "과일, 결실",
+                        "en": "fruit",
+                        "ja": "果実、成果",
+                        "zh": "果实、成果",
+                        "fr": "fruit, résultat"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る、なす",
+                        "zh": "制造、使成为",
+                        "fr": "faire, rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열매나 결실을 맺게 만들다'는 뜻입니다.",
+                "en": "To cause to bear fruit or produce results",
+                "ja": "果実や成果をもたらすようにさせることを意味します",
+                "zh": "使其结出果实或产生成果的意思",
+                "fr": "Signifie 'faire porter fruit ou produire des résultats'"
+            },
+            "example": "Their hard work will fructify soon.",
+            "translation": {
+                "ko": "그들의 노력이 곧 결실을 맺을 것이다.",
+                "ja": "彼らの努力はすぐに成果を生むでしょう。",
+                "zh": "他们的努力很快就会结出果实。",
+                "fr": "Leur travail acharné portera bientôt ses fruits."
+            }
+        },
+        {
+            "word": "olfactory",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ol (olere)",
+                    "meaning": {
+                        "ko": "냄새 맡다",
+                        "en": "to smell",
+                        "ja": "匂いを嗅ぐ",
+                        "zh": "闻到气味",
+                        "fr": "sentir l'odeur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fact (facere)",
+                    "meaning": {
+                        "ko": "만들다, 일으키다",
+                        "en": "to make, to cause",
+                        "ja": "作る、引き起こす",
+                        "zh": "制造、引起",
+                        "fr": "faire, causer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ory",
+                    "meaning": {
+                        "ko": "~에 관한",
+                        "en": "relating to",
+                        "ja": "~に関する",
+                        "zh": "与~有关",
+                        "fr": "relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'냄새를 일으키거나 감지하는 것에 관한'이라는 의미로 '후각의'라는 뜻을 가집니다.",
+                "en": "Relating to the sense of smell or the perception of odors",
+                "ja": "臭いを引き起こすまたは感知することに関する意味で、「嗅覚の」という意味を持ちます。",
+                "zh": "表示\"引起或感知气味的\"，意为\"与嗅觉相关的\"。",
+                "fr": "Signifiant \"relatif à la perception ou la détection des odeurs\", d'où le sens de \"olfactif\"."
+            },
+            "example": "The olfactory nerve is related to the sense of smell.",
+            "translation": {
+                "ko": "후각 신경은 냄새 감각과 관련이 있다.",
+                "ja": "嗅覚神経は嗅覚と関連している。",
+                "zh": "嗅觉神经与气味感觉有关。",
+                "fr": "Le nerf olfactif est lié au sens de l'odorat."
+            }
+        },
+        {
+            "word": "satisfy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "satis",
+                    "meaning": {
+                        "ko": "충분한",
+                        "en": "enough",
+                        "ja": "十分な",
+                        "zh": "足够的",
+                        "fr": "suffisant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fy (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'충분하게 만들다'는 의미에서 '만족시키다', '충족시키다'는 뜻이 되었습니다.",
+                "en": "From 'make enough': came to mean 'fulfill' or 'contentment'",
+                "ja": "「十分に作る」という意味から、「満たす」「充足させる」という意味になりました。",
+                "zh": "从「制造足够」的意思演变为「满足」或「充足」的意思。",
+                "fr": "Du sens « rendre suffisant » : devenu « satisfaire » ou « contenter »."
+            },
+            "example": "The meal did not satisfy my hunger.",
+            "translation": {
+                "ko": "그 식사는 나의 허기를 만족시키지 못했다.",
+                "ja": "その食事は私の空腹を満たしませんでした。",
+                "zh": "那顿饭没有满足我的饥饿感。",
+                "fr": "Ce repas n'a pas satisfait ma faim."
+            }
+        },
+        {
+            "word": "manufacture",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "manu (manus)",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fact (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 '손으로 만드는 것'을 의미했으나, 현대에는 기계를 이용한 대량 '제조'를 의미합니다.",
+                "en": "Originally meant 'made by hand,' but now refers to mass production using machinery.",
+                "ja": "元々は『手で作ること』を意味していましたが、現代では機械を使った大量『製造』を意味します。",
+                "zh": "原本意为'手工制造'，但现代指利用机器进行大规模'生产'。",
+                "fr": "Signifiait à l'origine « fait à la main », mais désigne maintenant la production de masse par machine."
+            },
+            "example": "The company is involved in automobile manufacture.",
+            "translation": {
+                "ko": "그 회사는 자동차 제조에 관여하고 있다.",
+                "ja": "その会社は自動車の製造に関わっている。",
+                "zh": "这家公司参与汽车制造。",
+                "fr": "L'entreprise est impliquée dans la fabrication automobile."
+            }
+        },
+        {
+            "word": "munificence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "muni (munus)",
+                    "meaning": {
+                        "ko": "선물, 직무",
+                        "en": "gift, duty",
+                        "ja": "贈り物、義務",
+                        "zh": "礼物、职责",
+                        "fr": "cadeau, devoir"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fic (facere)",
+                    "meaning": {
+                        "ko": "만드는",
+                        "en": "making",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ence",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'선물을 주는 행위' 즉, '아낌없이 줌', '대단히 후함'을 의미합니다.",
+                "en": "The act of giving gifts; meaning generosity or lavish giving.",
+                "ja": "贈り物をする行為、つまり『惜しまずに与える』『非常に寛大である』という意味です。",
+                "zh": "'赠送礼物的行为'，即'毫不吝啬地给予'、'极其慷慨'的意思。",
+                "fr": "L'acte de donner des cadeaux ; signifiant générosité ou libéralité."
+            },
+            "example": "He was known for his munificence.",
+            "translation": {
+                "ko": "그는 후함으로 알려져 있었다.",
+                "ja": "彼は寛大さで知られていた。",
+                "zh": "他以慷慨大方而闻名。",
+                "fr": "Il était connu pour sa munificence."
+            }
+        },
+        {
+            "word": "vivify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vivi (vivus)",
+                    "meaning": {
+                        "ko": "살아있는",
+                        "en": "alive",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fy (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'살아있게 만들다'는 의미에서 '생기를 주다', '활기차게 하다'는 뜻입니다.",
+                "en": "To make alive; to give life or vigor to something",
+                "ja": "生命を与える、活気づかせるという意味です",
+                "zh": "赋予生命或活力，使某物充满生气",
+                "fr": "Donner la vie ou la vigueur à quelque chose"
+            },
+            "example": "The bright colors vivify the painting.",
+            "translation": {
+                "ko": "밝은 색들이 그 그림에 생기를 불어넣는다.",
+                "ja": "明るい色がその絵に生気を吹き込む。",
+                "zh": "明亮的色彩为这幅画增添了活力。",
+                "fr": "Les couleurs vives animent le tableau."
+            }
+        },
+        {
+            "word": "magnificence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "magni (magnus)",
+                    "meaning": {
+                        "ko": "위대한, 큰",
+                        "en": "great",
+                        "ja": "偉大な、大きい",
+                        "zh": "伟大的、宏大的",
+                        "fr": "grand, magnifique"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fic (facere)",
+                    "meaning": {
+                        "ko": "만드는",
+                        "en": "making",
+                        "ja": "作る、造る",
+                        "zh": "制造、创造",
+                        "fr": "faire, créer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ence",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'위대하게 만드는' 성질, 즉 '장엄함', '웅장함', '화려함'을 의미합니다.",
+                "en": "Quality of making great; means splendor, grandeur, or magnificence.",
+                "ja": "「偉大に作る」性質、つまり「荘厳さ」「雄大さ」「華麗さ」を意味します。",
+                "zh": "「伟大地创造」的性质，即表示「庄严」「壮丽」「华丽」的含义。",
+                "fr": "Qualité de créer grandeur; signifie splendeur, majesté ou magnificence."
+            },
+            "example": "We admired the magnificence of the palace.",
+            "translation": {
+                "ko": "우리는 그 궁전의 웅장함에 감탄했다.",
+                "ja": "私たちはその宮殿の荘厳さに感嘆した。",
+                "zh": "我们钦佩宫殿的壮丽。",
+                "fr": "Nous avons admiré la magnificence du palais."
+            }
+        },
+        {
+            "word": "infect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in, into",
+                        "ja": "中に、内へ",
+                        "zh": "在...内、进入",
+                        "fr": "dans, en dedans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fect (facere)",
+                    "meaning": {
+                        "ko": "만들다, 넣다",
+                        "en": "to make, to put",
+                        "ja": "作る、入れる",
+                        "zh": "制造、放入",
+                        "fr": "faire, mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'병균을 몸 안에 넣어 병들게 만들다'는 의미에서 '감염시키다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'putting disease-causing organisms into the body to cause illness,' it came to mean 'to cause infection.'",
+                "ja": "「病原菌を体内に入れて病気にさせる」という意味から、「感染させる」という意味になりました。",
+                "zh": "从「将病原体放入体内导致生病」的意思演变而来，现在表示「使感染」。",
+                "fr": "Du sens de « introduire des germes pathogènes dans le corps pour causer une maladie », il a pris le sens de « causer une infection »."
+            },
+            "example": "The virus can infect anyone.",
+            "translation": {
+                "ko": "그 바이러스는 누구든 감염시킬 수 있다.",
+                "ja": "そのウイルスは誰でも感染させることができる。",
+                "zh": "那种病毒能感染任何人。",
+                "fr": "Le virus peut infecter n'importe qui."
+            }
+        },
+        {
+            "word": "mollify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "moll (mollis)",
+                    "meaning": {
+                        "ko": "부드러운",
+                        "en": "soft",
+                        "ja": "柔らかい",
+                        "zh": "柔软的",
+                        "fr": "doux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~させる",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'부드럽게 만들다'는 의미로, 화나거나 속상한 사람을 '달래다', '진정시키다'는 뜻입니다.",
+                "en": "To make soft or calm; to soothe or pacify an angry or upset person.",
+                "ja": "「柔らかくさせる」という意味で、怒ったり不機嫌な人を「なだめる」「落ち着かせる」という意味です。",
+                "zh": "\"使柔和\"的意思，指安抚、平复生气或不满的人。",
+                "fr": "\"Rendre doux\"; signifie apaiser ou calmer une personne en colère ou contrariée."
+            },
+            "example": "He tried to mollify her with a gift.",
+            "translation": {
+                "ko": "그는 선물로 그녀를 달래려 했다.",
+                "ja": "彼は贈り物で彼女をなだめようとした。",
+                "zh": "他试图用礼物来安抚她。",
+                "fr": "Il a essayé de l'apaiser avec un cadeau."
+            }
+        },
+        {
+            "word": "officinal",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "officin (officina)",
+                    "meaning": {
+                        "ko": "작업장, 약국",
+                        "en": "workshop, pharmacy",
+                        "ja": "工房、薬局",
+                        "zh": "工坊、药房",
+                        "fr": "atelier, pharmacie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 officina는 opus(일) + facere(만들다)에서 유래했으며, '약국의'라는 뜻으로, 약전(藥典)에 수록되어 있어 판매되는 약품을 지칭할 때 사용됩니다.",
+                "en": "From Latin officina (opus 'work' + facere 'make'), meaning 'of a pharmacy'; refers to medicinal substances listed in official pharmacopeias.",
+                "ja": "ラテン語のofficina(opus「仕事」+ facere「作る」)に由来し、「薬局の」という意味で、薬局方に掲載されている医薬品を指す際に使用されます。",
+                "zh": "源自拉丁文officina（opus\"工作\" + facere\"制造\"），意为\"药房的\"，用于指在药典中记载的出售的药品。",
+                "fr": "Du latin officina (opus « travail » + facere « faire »), signifiant « de la pharmacie »; désigne les substances médicinales inscrites dans les pharmacopées officielles."
+            },
+            "example": "This is an officinal herb.",
+            "translation": {
+                "ko": "이것은 약국용 약초이다.",
+                "ja": "これは薬局用の薬草である。",
+                "zh": "这是药房用的草药。",
+                "fr": "Ceci est une herbe officinale."
+            }
+        },
+        {
+            "word": "amplify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ampl (amplus)",
+                    "meaning": {
+                        "ko": "넓은, 큰",
+                        "en": "large, wide",
+                        "ja": "大きい、広い",
+                        "zh": "大的、宽的",
+                        "fr": "grand, large"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~するようにする",
+                        "zh": "使~",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더 크게 만들다'는 의미에서 소리나 신호 등을 '증폭시키다' 또는 이야기를 '확대하다', '부연 설명하다'는 뜻으로 쓰입니다.",
+                "en": "Used to mean 'amplify' sound or signals by making them stronger, or to 'expand' or 'elaborate on' a story or explanation.",
+                "ja": "音や信号などをより大きくする『増幅する』、あるいは話を『拡大する』『詳しく説明する』という意味で使われます。",
+                "zh": "用于表示使声音或信号更大的『放大』，或『扩大』或『详细说明』故事或解释。",
+                "fr": "Utilisé pour signifier 'amplifier' le son ou les signaux en les rendant plus forts, ou 'élargir' ou 'développer' une histoire ou une explication."
+            },
+            "example": "You need to amplify the sound.",
+            "translation": {
+                "ko": "소리를 증폭시켜야 한다.",
+                "ja": "音を増幅する必要があります。",
+                "zh": "你需要放大声音。",
+                "fr": "Vous devez amplifier le son."
+            }
+        },
+        {
+            "word": "certify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cert (certus)",
+                    "meaning": {
+                        "ko": "확실한",
+                        "en": "certain",
+                        "ja": "確実な",
+                        "zh": "确定的",
+                        "fr": "certain"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~させる",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'확실하게 만들다'는 의미에서 공식적으로 '증명하다', '보증하다'는 뜻입니다.",
+                "en": "From the sense 'to make certain,' it officially means 'to attest' or 'to guarantee.'",
+                "ja": "「確実にさせる」という意味から、公式に「証明する」「保証する」という意味になります。",
+                "zh": "从「使确定」的意思，正式地表示「证明」、「保证」的含义。",
+                "fr": "Du sens « rendre certain », il signifie officiellement « attester » ou « garantir »."
+            },
+            "example": "The document was certified as a true copy.",
+            "translation": {
+                "ko": "그 문서는 원본과 틀림없음을 증명받았다.",
+                "ja": "その文書は真正な写しとして証明された。",
+                "zh": "该文件被证明为真实副本。",
+                "fr": "Le document a été certifié comme étant une copie conforme."
+            }
+        },
+        {
+            "word": "prolific",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "prole (proles)",
+                    "meaning": {
+                        "ko": "자손",
+                        "en": "offspring",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fic (facere)",
+                    "meaning": {
+                        "ko": "만드는",
+                        "en": "making",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자손을 많이 만드는'이라는 의미에서 '다산의', '다작의'라는 뜻으로 확장되었습니다.",
+                "en": "From the sense of 'producing many offspring' extended to mean 'highly productive' or 'prolific'",
+                "ja": "「子孫を多く生む」という意味から、「多産の」「多作の」という意味に拡張されました",
+                "zh": "从「生育许多后代」的含义扩展为「多产的」或「高产的」的意思",
+                "fr": "Du sens de 'produire beaucoup de descendants' étendu à 'très productif' ou 'prolifique'"
+            },
+            "example": "He was a prolific writer.",
+            "translation": {
+                "ko": "그는 다작 작가였다.",
+                "ja": "彼は多作な作家だった。",
+                "zh": "他是一位多产的作家。",
+                "fr": "C'était un écrivain prolific."
+            }
+        },
+        {
+            "word": "perfect",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "완전히",
+                        "en": "thoroughly",
+                        "ja": "徹底的に",
+                        "zh": "彻底地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fect (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'철저하게 끝까지 만들어진' 상태를 의미하므로, '완벽한', '흠 없는'이라는 뜻이 되었습니다.",
+                "en": "Comes from Latin 'perficere' (per- 'thoroughly' + facere 'to make'). Originally meant 'completed thoroughly,' leading to the sense of 'flawless' or 'without defect.'",
+                "ja": "ラテン語の「perficere」（per-「徹底的に」+ facere「作る」）に由来します。もともと「徹底的に完成された」という意味で、「完璧な」「欠点のない」という意味になりました。",
+                "zh": "来自拉丁语「perficere」（per-「彻底地」+ facere「制造」）。原意为「彻底完成」，后来引申为「完美的」「无缺陷的」。",
+                "fr": "Vient du latin « perficere » (per- « complètement » + facere « faire »). Signifiait à l'origine « achevé complètement », d'où le sens de « sans défaut » ou « impeccable »."
+            },
+            "example": "Nobody is perfect.",
+            "translation": {
+                "ko": "아무도 완벽하지 않다.",
+                "ja": "誰も完璧ではない。",
+                "zh": "没有人是完美的。",
+                "fr": "Personne n'est parfait."
+            }
+        },
+        {
+            "word": "sanctify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sanct (sanctus)",
+                    "meaning": {
+                        "ko": "신성한",
+                        "en": "holy",
+                        "ja": "神聖な",
+                        "zh": "神圣的",
+                        "fr": "sacré"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "～にする",
+                        "zh": "使～",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신성하게 만들다'는 의미에서 '신성하게 하다', '정화하다'는 뜻입니다.",
+                "en": "To make holy; to purify or consecrate.",
+                "ja": "神聖にすること。清める、献堂する意味。",
+                "zh": "使神圣化；净化或奉献。",
+                "fr": "Rendre sacré ; purifier ou consacrer."
+            },
+            "example": "The priest will sanctify the water.",
+            "translation": {
+                "ko": "사제가 물을 성스럽게 할 것이다.",
+                "ja": "司祭は水を神聖にするでしょう。",
+                "zh": "祭司将使水神圣化。",
+                "fr": "Le prêtre sanctifiera l'eau."
+            }
+        },
+        {
+            "word": "office",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "of- (opus)",
+                    "meaning": {
+                        "ko": "일",
+                        "en": "work",
+                        "ja": "仕事",
+                        "zh": "工作",
+                        "fr": "travail"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fice (facere)",
+                    "meaning": {
+                        "ko": "하다",
+                        "en": "to do",
+                        "ja": "する",
+                        "zh": "做",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일을 하는 곳'이라는 의미에서 '사무실'을 뜻하게 되었고, '공적인 직무'나 '직위'를 의미하기도 합니다.",
+                "en": "From the meaning 'place where work is done,' it came to mean 'office' and also refers to 'public duty' or 'position.'",
+                "ja": "「仕事をする場所」という意味から「オフィス」を意味するようになり、「公務」や「職位」を意味することもあります。",
+                "zh": "从\"做工作的地方\"的意思演变为\"办公室\"，也可以指\"公务\"或\"职位\"。",
+                "fr": "Du sens de « lieu où l'on travaille », il en est venu à signifier « bureau » et désigne aussi « fonction publique » ou « poste »."
+            },
+            "example": "I work in an office.",
+            "translation": {
+                "ko": "나는 사무실에서 일한다.",
+                "ja": "私はオフィスで働いています。",
+                "zh": "我在办公室工作。",
+                "fr": "Je travaille dans un bureau."
+            }
+        },
+        {
+            "word": "stupefy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stupe (stupere)",
+                    "meaning": {
+                        "ko": "깜짝 놀라다, 멍해지다",
+                        "en": "to be stunned",
+                        "ja": "唖然とする",
+                        "zh": "惊呆",
+                        "fr": "être abasourdi"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fy (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "〜させる",
+                        "zh": "使得",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멍하게 만들다'는 의미에서 '깜짝 놀라게 하다', '망연자실하게 하다'는 뜻입니다.",
+                "en": "To make someone stunned or bewildered; to stun with surprise.",
+                "ja": "「呆然とさせる」という意味で、「びっくり仰天させる」、「呆然自失させる」という意味です。",
+                "zh": "\"使人呆滞\"的意思，表示\"令人大吃一惊\"、\"使人目瞪口呆\"的含义。",
+                "fr": "Signifie « rendre quelqu'un hébété ou abasourdi » ; stupéfier ou étonner profondément."
+            },
+            "example": "The magic trick stupefied the audience.",
+            "translation": {
+                "ko": "그 마술은 관객을 깜짝 놀라게 했다.",
+                "ja": "そのマジックショーは観客を唖然とさせた。",
+                "zh": "那个魔术表演使观众惊呆了。",
+                "fr": "Le tour de magie a stupéfié le public."
+            }
+        },
+        {
+            "word": "orifice",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ori (os)",
+                    "meaning": {
+                        "ko": "입, 구멍",
+                        "en": "mouth",
+                        "ja": "口、穴",
+                        "zh": "口、孔",
+                        "fr": "bouche, ouverture"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fice (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'구멍을 만드는 것' 또는 '만들어진 구멍'이라는 의미에서 인체나 사물의 '구멍'을 뜻하는 해부학적, 기술적 용어입니다.",
+                "en": "An anatomical or technical term referring to an opening or hole in the body or an object, derived from the meaning 'a hole made' or 'a created hole'.",
+                "ja": "体や物体の穴を意味する解剖学的、技術的用語で、「作られた穴」という意味に由来します。",
+                "zh": "解剖学或技术术语，指身体或物体上的开口或孔洞，源自'制造的孔'或'被制造的孔'的含义。",
+                "fr": "Terme anatomique ou technique désignant une ouverture ou un trou dans le corps ou un objet, dérivé du sens 'un trou créé' ou 'un trou fait'."
+            },
+            "example": "The needle passed through the small orifice.",
+            "translation": {
+                "ko": "바늘이 작은 구멍을 통과했다.",
+                "ja": "針は小さな穴を通った。",
+                "zh": "针穿过了小孔。",
+                "fr": "L'aiguille a traversé la petite ouverture."
+            }
+        },
+        {
+            "word": "purify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pur (purus)",
+                    "meaning": {
+                        "ko": "깨끗한",
+                        "en": "pure",
+                        "ja": "純粋な",
+                        "zh": "纯净的",
+                        "fr": "pur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "～にする",
+                        "zh": "使～",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨끗하게 만들다'는 의미에서 '정화하다', '정제하다'는 뜻입니다.",
+                "en": "To make pure; to cleanse or refine",
+                "ja": "純粋にすること。浄化する、精製するという意味です。",
+                "zh": "使纯净；净化、精炼的意思。",
+                "fr": "Rendre pur; signifie purifier, raffiner."
+            },
+            "example": "We need to purify the water.",
+            "translation": {
+                "ko": "우리는 물을 정화해야 한다.",
+                "ja": "私たちは水を浄化する必要があります。",
+                "zh": "我们需要净化水。",
+                "fr": "Nous devons purifier l'eau."
+            }
+        },
+        {
+            "word": "simplify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "simpl (simplex)",
+                    "meaning": {
+                        "ko": "단순한",
+                        "en": "simple",
+                        "ja": "シンプル",
+                        "zh": "简单",
+                        "fr": "simple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단순하게 만들다'는 의미에서 '간소화하다', '단순화하다'는 뜻입니다.",
+                "en": "From Latin simplex (simple) + -fy (to make). Means to make something simple or easier to understand.",
+                "ja": "「単純にする」という意味で、複雑なものを分かりやすくすることです。",
+                "zh": "意思是「使变简单」，把复杂的事物变得容易理解。",
+                "fr": "Signifie « rendre simple » ou « faciliter la compréhension »."
+            },
+            "example": "Let's simplify the problem.",
+            "translation": {
+                "ko": "문제를 단순화합시다.",
+                "ja": "問題を単純化しましょう。",
+                "zh": "让我们简化这个问题。",
+                "fr": "Simplifions le problème."
+            }
+        },
+        {
+            "word": "ramify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ram (ramus)",
+                    "meaning": {
+                        "ko": "가지",
+                        "en": "branch",
+                        "ja": "枝",
+                        "zh": "分枝",
+                        "fr": "branche"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~를 만들다",
+                        "en": "to make",
+                        "ja": "〜を作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가지를 만들다'는 의미에서 '가지처럼 갈라지다', '분기하다'는 뜻으로, 결과 등이 '파생하다'는 의미로도 쓰입니다.",
+                "en": "From 'make branches': to branch out or divide like branches; also means consequences or results spread out and develop",
+                "ja": "「枝を作る」という意味から、「枝のように分かれる」「分岐する」という意味へ。結果などが「派生する」という意味でも使われます",
+                "zh": "从「制造分枝」的意思演变为「像分枝一样分开」、「分支」；也用于表示结果等「派生」的含义",
+                "fr": "De « faire des branches » : se ramifier ou se diviser comme des branches ; signifie aussi que les conséquences se propagent et se développent"
+            },
+            "example": "The consequences of the decision began to ramify.",
+            "translation": {
+                "ko": "그 결정의 결과가 파생되기 시작했다.",
+                "ja": "その決定の結果が分岐し始めた。",
+                "zh": "这个决定的后果开始产生分支。",
+                "fr": "Les conséquences de la décision ont commencé à se ramifier."
+            }
+        },
+        {
+            "word": "suffice",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "suf- (sub-)",
+                    "meaning": {
+                        "ko": "아래에",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "在下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fice (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'필요한 만큼의 기반을 아래에 만들어주다'는 뉘앙스에서 '충분하다', '만족시키다'는 뜻이 되었습니다.",
+                "en": "From the nuance of 'to make a foundation below that is needed', it came to mean 'to be enough' or 'to satisfy'.",
+                "ja": "必要な分だけの基盤を下に作ってあげるというニュアンスから、充分である、満足させるという意味になりました。",
+                "zh": "从在下面建立所需基础的含义引申，演变为充分的、令人满足的含义。",
+                "fr": "Du sens de 'créer une base nécessaire en dessous', il a évolué pour signifier 'être suffisant' ou 'satisfaire'."
+            },
+            "example": "A simple \"yes\" will suffice.",
+            "translation": {
+                "ko": "간단한 \"네\" 한 마디면 충분합니다.",
+                "ja": "単純な「はい」で十分です。",
+                "zh": "简单的一声\"是\"就足够了。",
+                "fr": "Un simple \"oui\" suffira."
+            }
+        },
+        {
+            "word": "verify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ver (verus)",
+                    "meaning": {
+                        "ko": "진실한",
+                        "en": "true",
+                        "ja": "真実の",
+                        "zh": "真实的",
+                        "fr": "vrai"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진실이 되게 만들다'는 의미에서 정보 등이 '사실임을 확인하다', '입증하다'는 뜻입니다.",
+                "en": "From the sense of 'making something true,' it came to mean 'confirm that information is factual' or 'prove.'",
+                "ja": "「真実にする」という意味から、情報などが「事実であることを確認する」「証明する」という意味になりました。",
+                "zh": "从「使其成为真实」的含义引申，指「确认信息等是事实」或「证明」。",
+                "fr": "Du sens de « rendre vrai », il en vient à signifier « confirmer qu'une information est factuelle » ou « prouver »."
+            },
+            "example": "You must verify your account.",
+            "translation": {
+                "ko": "당신은 계정을 인증해야 합니다.",
+                "ja": "あなたのアカウントを認証する必要があります。",
+                "zh": "你必须验证你的账户。",
+                "fr": "Vous devez vérifier votre compte."
+            }
+        },
+        {
+            "word": "effect",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ef- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外に",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fect (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 만들어낸 것'이라는 의미에서 어떤 원인에 따른 '결과', '효과'를 의미합니다.",
+                "en": "From the sense of 'something made outward': means the result or consequence caused by something.",
+                "ja": "「外に作り出されたもの」という意味から、何らかの原因による「結果」「効果」を意味します。",
+                "zh": "从「向外制造出来的东西」的意义出发，表示由某种原因引起的「结果」「效果」。",
+                "fr": "Du sens de « quelque chose créé vers l'extérieur » : signifie le résultat ou la conséquence causée par quelque chose."
+            },
+            "example": "The medicine had a strong effect.",
+            "translation": {
+                "ko": "그 약은 강한 효과가 있었다.",
+                "ja": "その薬は強い効果がありました。",
+                "zh": "那种药有很强的效果。",
+                "fr": "Le médicament a eu un effet puissant."
+            }
+        },
+        {
+            "word": "facsimile",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fac (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "make",
+                        "ja": "作る",
+                        "zh": "制作",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "simile",
+                    "meaning": {
+                        "ko": "비슷한",
+                        "en": "like, similar",
+                        "ja": "似た、類似",
+                        "zh": "相似的",
+                        "fr": "semblable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 fac simile 즉, '비슷하게 만들어라'는 말에서 유래했으며, 원본과 똑같은 '복제', '사본'을 의미합니다. '팩스(fax)'라는 단어가 여기서 나왔습니다.",
+                "en": "From Latin 'fac simile' meaning 'make similar', referring to an exact copy or reproduction of an original. The word 'fax' is derived from this.",
+                "ja": "ラテン語の'fac simile'（似たようにつくれ）に由来し、原本と同じ複製や写しを意味します。'ファックス（fax）'という言葉はここから生まれました。",
+                "zh": "源自拉丁语'fac simile'，意为'制作相似的东西'，指原件的精确复制品或副本。词汇'传真（fax）'就来自于此。",
+                "fr": "Du latin 'fac simile' signifiant 'faire semblable', désignant une reproduction ou copie exacte de l'original. Le mot 'fax' en est dérivé."
+            },
+            "example": "This is a perfect facsimile of the original document.",
+            "translation": {
+                "ko": "이것은 원본 서류의 완벽한 복제본이다.",
+                "ja": "これは元の文書の完璧な複製です。",
+                "zh": "这是原始文件的完美复制品。",
+                "fr": "Ceci est un facsimilé parfait du document original."
+            }
+        },
+        {
+            "word": "versify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers (versus)",
+                    "meaning": {
+                        "ko": "시구(詩句)",
+                        "en": "verse",
+                        "ja": "詩句",
+                        "zh": "诗句",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制作",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시를 만들다'는 의미에서 '운문으로 쓰다', '시로 표현하다'는 뜻입니다.",
+                "en": "To compose in verse; to express as poetry",
+                "ja": "「詩を作る」という意味から、「韻文で書く」「詩として表現する」という意味です。",
+                "zh": "从「创作诗歌」的意义延伸，表示「用韵文写作」「以诗歌形式表达」。",
+                "fr": "Du sens « composer des vers », signifie « écrire en vers » ou « exprimer en poésie »."
+            },
+            "example": "He decided to versify the old story.",
+            "translation": {
+                "ko": "그는 그 옛날 이야기를 시로 쓰기로 결정했다.",
+                "ja": "彼はその昔の物語を詩で表現することにした。",
+                "zh": "他决定把那个古老的故事写成诗歌。",
+                "fr": "Il a décidé de verser cette vieille histoire en vers."
+            }
+        },
+        {
+            "word": "prefect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "in front",
+                        "ja": "前に",
+                        "zh": "在前面",
+                        "fr": "devant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fect (facere)",
+                    "meaning": {
+                        "ko": "만들다, 두다",
+                        "en": "to make, to put",
+                        "ja": "作る、置く",
+                        "zh": "制造、放置",
+                        "fr": "faire, placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞에 놓인 사람' 즉, '책임자로 임명된 사람'이라는 의미에서 고대 로마의 '장관', '총독'이나 현대 프랑스의 '도지사' 등을 의미합니다.",
+                "en": "'Person placed in front' — meaning someone appointed as responsible; refers to officials in ancient Rome (magistrate, governor) or modern France (prefect).",
+                "ja": "「前に置かれた人」つまり「責任者として任命された人」という意味から、古代ローマの「長官」「総督」や現代フランスの「県知事」などを意味します。",
+                "zh": "「被放在前面的人」，即「被任命为负责人的人」，指古罗马的「官员」「总督」或现代法国的「省长」等。",
+                "fr": "« Personne placée devant » — c'est-à-dire quelqu'un nommé responsable; désigne les magistrats de la Rome antique ou les préfets de la France moderne."
+            },
+            "example": "The prefect governed the province.",
+            "translation": {
+                "ko": "장관이 그 지방을 다스렸다.",
+                "ja": "県知事がその州を統治した。",
+                "zh": "总督统治了该省。",
+                "fr": "Le préfet gouvernait la province."
+            }
+        },
+        {
+            "word": "rectify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rect (rectus)",
+                    "meaning": {
+                        "ko": "올바른, 곧은",
+                        "en": "right, straight",
+                        "ja": "正しい、まっすぐ",
+                        "zh": "正确的、直的",
+                        "fr": "droit, correct"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~、让~",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'올바르게 만들다'는 의미에서 오류나 문제점을 '바로잡다', '수정하다'는 뜻입니다.",
+                "en": "From the meaning 'to make right,' it came to mean 'to correct' or 'to fix' errors or problems.",
+                "ja": "「正しくする」という意味から、誤りや問題を「正す」「修正する」という意味に発展しました。",
+                "zh": "从「使变正确」的含义发展出「纠正」或「修正」错误和问题的意思。",
+                "fr": "Du sens « rendre droit », il a évolué pour signifier « corriger » ou « réparer » les erreurs et problèmes."
+            },
+            "example": "You should rectify the mistake.",
+            "translation": {
+                "ko": "너는 실수를 바로잡아야 한다.",
+                "ja": "あなたはその間違いを正さなければならない。",
+                "zh": "你应该纠正这个错误。",
+                "fr": "Vous devriez rectifier cette erreur."
+            }
+        },
+        {
+            "word": "pacific",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pac (pax)",
+                    "meaning": {
+                        "ko": "평화",
+                        "en": "peace",
+                        "ja": "平和",
+                        "zh": "和平",
+                        "fr": "paix"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ific (facere)",
+                    "meaning": {
+                        "ko": "만드는",
+                        "en": "making",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "créer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'평화를 만드는'이라는 의미에서 '평화로운', '온화한'이라는 뜻을 가집니다. 태평양(Pacific Ocean)의 이름도 여기서 유래했습니다.",
+                "en": "From the meaning 'making peace,' it came to mean 'peaceful' or 'gentle.' The Pacific Ocean's name also derives from this.",
+                "ja": "「平和を作る」という意味から、「平和的な」「穏やかな」という意味を持つようになりました。太平洋（Pacific Ocean）の名前もここから由来しています。",
+                "zh": "从「制造和平」的含义演变为「和平的」或「温和的」之意。太平洋（Pacific Ocean）的名称也源于此。",
+                "fr": "Du sens de « créer la paix », il a acquis la signification de « pacifique » ou « doux ». Le nom de l'océan Pacifique en dérive également."
+            },
+            "example": "He has a pacific nature.",
+            "translation": {
+                "ko": "그는 온화한 성품을 지녔다.",
+                "ja": "彼は穏やかな性質を持っている。",
+                "zh": "他性格温和。",
+                "fr": "Il a une nature pacifique."
+            }
+        },
+        {
+            "word": "face",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fac (facies)",
+                    "meaning": {
+                        "ko": "만들어진 것, 모양, 외관",
+                        "en": "form, appearance",
+                        "ja": "形、外観、姿",
+                        "zh": "形状、外表、样貌",
+                        "fr": "forme, apparence"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 facies('모습, 형태')에서 유래했으며, 이는 facere('만들다')와 관련이 있습니다. 사람의 '얼굴'이나 사물의 '표면'을 의미하게 되었습니다.",
+                "en": "From Latin facies ('appearance, form'), related to facere ('to make'). Originally referred to a person's face or the surface of an object.",
+                "ja": "ラテン語のfacies（『外観、形態』）に由来し、facere（『作る』）と関連しています。人の『顔』や物の『表面』を意味するようになりました。",
+                "zh": "源自拉丁语facies（'外观、形态'），与facere（'制造'）相关。后来指人的'脸'或物体的'表面'。",
+                "fr": "Du latin facies ('apparence, forme'), lié à facere ('faire'). En vint à désigner le 'visage' d'une personne ou la 'surface' d'un objet."
+            },
+            "example": "She has a happy face.",
+            "translation": {
+                "ko": "그녀는 행복한 얼굴을 하고 있다.",
+                "ja": "彼女は幸せな顔をしている。",
+                "zh": "她脸上带着幸福的表情。",
+                "fr": "Elle a un visage heureux."
+            }
+        },
+        {
+            "word": "factotum",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fac (facere)",
+                    "meaning": {
+                        "ko": "하다",
+                        "en": "do",
+                        "ja": "する",
+                        "zh": "做",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "totum",
+                    "meaning": {
+                        "ko": "모든 것",
+                        "en": "everything",
+                        "ja": "すべてのもの",
+                        "zh": "一切",
+                        "fr": "tout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 fac totum 즉, '모든 것을 하라'는 말에서 유래했으며, 온갖 일을 다 하는 '잡역부', '막일꾼'을 의미합니다.",
+                "en": "From Latin fac totum, literally 'do everything.' Refers to a person who does all kinds of work; a jack-of-all-trades or general servant.",
+                "ja": "ラテン語の fac totum（文字通りには「すべてを行う」）に由来し、あらゆる仕事をこなす「雑役夫」や「便利屋」を意味します。",
+                "zh": "源自拉丁语 fac totum，字面意思为\"做一切\"。指做各种工作的人；杂役工或全能工人。",
+                "fr": "Du latin fac totum, littéralement « faire tout ». Désigne une personne qui fait toutes sortes de travaux ; un homme à tout faire ou un serviteur polyvalent."
+            },
+            "example": "He works as a factotum at the hotel.",
+            "translation": {
+                "ko": "그는 호텔에서 잡역부로 일한다.",
+                "ja": "彼はホテルで雑役夫として働いている。",
+                "zh": "他在酒店担任杂役工作。",
+                "fr": "Il travaille comme homme à tout faire à l'hôtel."
+            }
+        },
+        {
+            "word": "edifice",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aedi (aedes)",
+                    "meaning": {
+                        "ko": "건물, 집",
+                        "en": "building, dwelling",
+                        "ja": "建物、住居",
+                        "zh": "建筑物、住宅",
+                        "fr": "bâtiment, demeure"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fice (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る、建てる",
+                        "zh": "制造、建造",
+                        "fr": "construire, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'건물을 짓는 행위' 또는 '지어진 건물'을 의미하며, 특히 크고 웅장한 '건축물'을 가리킵니다.",
+                "en": "Refers to the act of building or a built structure, specifically a large and imposing edifice.",
+                "ja": "建物を建てる行為、または建てられた建物を意味し、特に大きく壮大な建築物を指します。",
+                "zh": "指建造建筑物的行为或已建成的建筑物，特别是指大型和宏伟的建筑物。",
+                "fr": "Désigne l'acte de construire ou une structure édifiée, en particulier un édifice grand et imposant."
+            },
+            "example": "The town hall is an impressive edifice.",
+            "translation": {
+                "ko": "시청은 인상적인 건축물이다.",
+                "ja": "市庁舎は印象的な建築物だ。",
+                "zh": "市政厅是一座令人印象深刻的建筑物。",
+                "fr": "L'hôtel de ville est un édifice impressionnant."
+            }
+        },
+        {
+            "word": "rarefy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rare (rarus)",
+                    "meaning": {
+                        "ko": "드문, 성긴",
+                        "en": "rare, thin",
+                        "ja": "薄い、疎らな",
+                        "zh": "稀薄的、疏散的",
+                        "fr": "rare, fin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fy (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "～にする",
+                        "zh": "使～",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밀도를 성기게 만들다'는 의미에서 기체 등을 '희박하게 하다'는 뜻입니다.",
+                "en": "To make the density sparse; to make gases thin or less dense",
+                "ja": "密度を疎らにすること。気体などを希薄にする意味。",
+                "zh": "使密度变得稀疏；使气体等变得稀薄。",
+                "fr": "Rendre la densité clairsemée ; rendre les gaz moins denses."
+            },
+            "example": "The air rarefies at high altitudes.",
+            "translation": {
+                "ko": "공기는 고도가 높은 곳에서 희박해진다.",
+                "ja": "空気は高い高度で希薄になる。",
+                "zh": "空气在高海拔处变得稀薄。",
+                "fr": "L'air se raréfie à haute altitude."
+            }
+        },
+        {
+            "word": "sacrifice",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sacr (sacer)",
+                    "meaning": {
+                        "ko": "신성한",
+                        "en": "sacred",
+                        "ja": "神聖な",
+                        "zh": "神圣的",
+                        "fr": "sacré"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fice (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신성하게 만드는 행위' 즉, 신에게 동물을 바치는 제사에서 유래하여 '희생', '희생물'이라는 뜻이 되었습니다.",
+                "en": "From the act of making sacred—originally referred to offering animals to gods in ritual ceremonies, later meaning 'sacrifice' or 'victim'.",
+                "ja": "神聖にする行為から派生し、元々は儀式で動物を神に捧げることを意味し、後に『犠牲』『供え物』の意味になりました。",
+                "zh": "源自使其神圣化的行为——最初指在仪式中向神献祭动物，后来意为'牺牲'或'祭品'。",
+                "fr": "De l'acte de rendre sacré — initialement désignait l'offrande d'animaux aux dieux dans les rites, signifiant plus tard 'sacrifice' ou 'victime'."
+            },
+            "example": "They made a great sacrifice for their children.",
+            "translation": {
+                "ko": "그들은 자녀들을 위해 큰 희생을 했다.",
+                "ja": "彼らは子どもたちのために大きな犠牲を払った。",
+                "zh": "他们为了孩子们做出了巨大的牺牲。",
+                "fr": "Ils ont fait un grand sacrifice pour leurs enfants."
+            }
+        },
+        {
+            "word": "unify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "uni (unus)",
+                    "meaning": {
+                        "ko": "하나",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~로 만들다",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하나로 만들다'는 의미에서 '통합하다', '통일하다'는 뜻입니다.",
+                "en": "'To make into one' means to integrate or unify.",
+                "ja": "「一つにする」という意味から「統合する」「統一する」という意味です。",
+                "zh": "从「合为一个」的意思引申出「整合」「统一」的含义。",
+                "fr": "De 'rendre un' signifie intégrer ou unifier."
+            },
+            "example": "We must unify the country.",
+            "translation": {
+                "ko": "우리는 나라를 통일해야 한다.",
+                "ja": "私たちは国を統一しなければならない。",
+                "zh": "我们必须统一国家。",
+                "fr": "Nous devons unifier le pays."
+            }
+        },
+        {
+            "word": "mortify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mort (mors)",
+                    "meaning": {
+                        "ko": "죽음",
+                        "en": "death",
+                        "ja": "死",
+                        "zh": "死亡",
+                        "fr": "mort"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "～させる",
+                        "zh": "使～",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죽고 싶을 정도로 만들다'는 의미에서 '굴욕감을 주다', '몹시 당황하게 하다'는 뜻입니다. 종교적으로는 '고행하다'는 의미도 있습니다.",
+                "en": "Originally meant 'to cause to want to die'; now means 'to embarrass greatly' or 'to humiliate'. In religious contexts, also means 'to practice self-denial'.",
+                "ja": "本来は『死にたくなるほど』という意味から『恥ずかしい思いをさせる』『非常に当惑させる』という意味になりました。宗教的には『苦行する』という意味もあります。",
+                "zh": "原意为'使人想死'，引申为'使羞辱'或'使极其尴尬'。在宗教语境中还有'自我克制'的含义。",
+                "fr": "Signifie originellement 'faire mourir d'envie' ; aujourd'hui 'humilier vivement' ou 'causer une grande honte'. Dans un contexte religieux, signifie aussi 'pratiquer l'abstinence'."
+            },
+            "example": "He was mortified by his mistake.",
+            "translation": {
+                "ko": "그는 자신의 실수에 굴욕감을 느꼈다.",
+                "ja": "彼は自分の失敗に深く恥じた。",
+                "zh": "他因自己的错误而感到羞辱。",
+                "fr": "Il a été humilié par son erreur."
+            }
+        },
+        {
+            "word": "signify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sign (signum)",
+                    "meaning": {
+                        "ko": "표시, 징표",
+                        "en": "sign",
+                        "ja": "記号、しるし",
+                        "zh": "符号、标记",
+                        "fr": "signe, marque"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る、する",
+                        "zh": "制造、使成为",
+                        "fr": "faire, créer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'표시가 되게 만들다'는 의미에서 '의미하다', '뜻하다' 또는 '중요하다'는 뜻으로 쓰입니다.",
+                "en": "'to make a sign' → meaning 'to mean', 'to signify' or 'to be important'",
+                "ja": "「表示を作る」という意味から、「意味する」「重要である」という意味で使われます。",
+                "zh": "从「制造标记」的意思引申为「表示」「意味」或「很重要」。",
+                "fr": "De « faire un signe » s'est développé le sens « signifier », « vouloir dire » ou « être important »."
+            },
+            "example": "What does this symbol signify?",
+            "translation": {
+                "ko": "이 기호는 무엇을 의미하나요?",
+                "ja": "この記号は何を意味していますか？",
+                "zh": "这个符号表示什么？",
+                "fr": "Que signifie ce symbole ?"
+            }
+        },
+        {
+            "word": "factitious",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fact",
+                    "meaning": {
+                        "ko": "만들어진",
+                        "en": "made",
+                        "ja": "作られた",
+                        "zh": "制造的",
+                        "fr": "fabriqué"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itious",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞語尾",
+                        "zh": "形容词词尾",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인위적으로 만들어진'이라는 의미로, '꾸며낸', '인공적인'이라는 뜻을 가집니다.",
+                "en": "Meaning artificially made; implies something contrived or artificial",
+                "ja": "人為的に作られたという意味で、作られた、人工的なという意味を持ちます",
+                "zh": "意思是人为制造的；暗示某物是虚假的或人工的",
+                "fr": "Signifiant créé artificiellement; implique quelque chose de contrefait ou d'artificiel"
+            },
+            "example": "She showed a factitious smile.",
+            "translation": {
+                "ko": "그녀는 꾸며낸 미소를 보였다.",
+                "ja": "彼女は作られた笑顔を見せた。",
+                "zh": "她展现了一个虚伪的笑容。",
+                "fr": "Elle a montré un sourire artificiel."
+            }
+        },
+        {
+            "word": "scientific",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scient (scientia)",
+                    "meaning": {
+                        "ko": "지식",
+                        "en": "knowledge",
+                        "ja": "知識",
+                        "zh": "知识",
+                        "fr": "connaissance"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fic (facere)",
+                    "meaning": {
+                        "ko": "만드는",
+                        "en": "making",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지식을 만드는' 또는 '지식에 기반한'이라는 의미에서 '과학의', '과학적인'이라는 뜻이 되었습니다.",
+                "en": "From the meanings of 'knowledge' and 'making', it came to mean 'of science' or 'scientific' based on knowledge.",
+                "ja": "『知識』と『作る』の意味から、知識に基づいた『科学の』『科学的な』という意味になりました。",
+                "zh": "从『知识』和『制造』的含义出发，它演变成了『科学的』『基于知识的』的含义。",
+                "fr": "À partir des sens de 'connaissance' et 'faire', il a pris le sens de 'scientifique' ou 'basé sur la connaissance'."
+            },
+            "example": "We need a scientific approach.",
+            "translation": {
+                "ko": "우리는 과학적인 접근 방식이 필요하다.",
+                "ja": "科学的な",
+                "zh": "科学的",
+                "fr": "scientifique"
+            }
+        },
+        {
+            "word": "putrefaction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "putre (putrere)",
+                    "meaning": {
+                        "ko": "썩다",
+                        "en": "to rot",
+                        "ja": "腐る",
+                        "zh": "腐烂",
+                        "fr": "pourrir"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fact",
+                    "meaning": {
+                        "ko": "만드는 것",
+                        "en": "a making",
+                        "ja": "作ること",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'썩게 만드는 과정'이라는 의미에서 '부패', '부패 작용'을 의미합니다.",
+                "en": "The process of becoming rotten; decomposition or decay",
+                "ja": "腐った状態になる過程から、腐敗や腐敗作用を意味します",
+                "zh": "从变腐烂的过程衍生出腐烂、腐烂作用的含义",
+                "fr": "Du processus de pourrissement, signifiant décomposition ou putréfaction"
+            },
+            "example": "Putrefaction of the meat had begun.",
+            "translation": {
+                "ko": "그 고기의 부패가 시작되었다.",
+                "ja": "その肉の腐敗が始まった。",
+                "zh": "那块肉的腐烂已经开始了。",
+                "fr": "La putréfaction de la viande avait commencé."
+            }
+        },
+        {
+            "word": "fact",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fact",
+                    "meaning": {
+                        "ko": "행해진 것",
+                        "en": "thing done",
+                        "ja": "行われたこと",
+                        "zh": "做过的事",
+                        "fr": "chose faite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 factum에서 유래하여, 실제로 '일어난 일' 즉 '사실'을 의미합니다.",
+                "en": "From Latin factum, meaning literally 'thing that happened,' hence 'fact.'",
+                "ja": "ラテン語のfactumに由来し、文字通り『起こったこと』つまり『事実』を意味します。",
+                "zh": "源自拉丁语factum，字面意思为'发生过的事'，即'事实'。",
+                "fr": "Du latin factum, signifiant littéralement 'chose qui s'est produite', d'où 'fait'."
+            },
+            "example": "Tell me the facts.",
+            "translation": {
+                "ko": "사실을 말해줘.",
+                "ja": "事実を教えてください。",
+                "zh": "告诉我事实。",
+                "fr": "Dis-moi les faits."
+            }
+        },
+        {
+            "word": "traffic",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tra-",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "穿过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fic (facere)",
+                    "meaning": {
+                        "ko": "하다, 만들다",
+                        "en": "to do, to make",
+                        "ja": "する、作る",
+                        "zh": "做、制造",
+                        "fr": "faire, produire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 이탈리아어 traffico에서 유래했으며, '물건을 이리저리 옮기며 행하는 것' 즉 '거래'나 '통상'을 의미했습니다. 이 의미가 확장되어 사람이나 차량이 오가는 '교통'을 뜻하게 되었습니다.",
+                "en": "Originally from Italian traffico, meaning 'to conduct business by moving goods back and forth,' referring to 'trade' or 'commerce.' The meaning expanded to describe the movement of people and vehicles on roads.",
+                "ja": "イタリア語の traffico に由来し、元々は「物を行き来させて行う」つまり「取引」や「商業」を意味していました。この意味が拡張され、人や車が往来する「交通」を意味するようになりました。",
+                "zh": "源自意大利语 traffico，原意为「通过来回运送货物进行的活动」，即「贸易」或「商业」。这个意思后来扩展，用来指人和车辆往来的「交通」。",
+                "fr": "Originaire de l'italien traffico, signifiant à l'origine « l'activité de déplacer des marchandises » ou « le commerce ». Le sens s'est étendu pour désigner le mouvement des piétons et véhicules sur les routes."
+            },
+            "example": "The traffic is heavy this morning.",
+            "translation": {
+                "ko": "오늘 아침은 교통량이 많다.",
+                "ja": "今朝は交通量が多い。",
+                "zh": "今天早上交通很繁忙。",
+                "fr": "Le trafic est intense ce matin."
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "zygo (united, paired) heterozygous, zygomorphic, zygote",
+        "origin": "Greek, zygon (a yoke)",
+        "meaning": {
+            "ko": "멍에",
+            "en": "a yoke",
+            "ja": "くびき",
+            "zh": "轭",
+            "fr": "joug"
+        }
+    },
+    "words": [
+        {
+            "word": "heterozygous",
+            "part_of_speech": "",
+            "origin": "Greek, heteros (other) + zygon (a yoke)",
+            "meaning": {
+                "ko": "다른 멍에",
+                "en": "different yokes",
+                "ja": "異なる接合",
+                "zh": "不同的接合",
+                "fr": "combinaison différente"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hetero-",
+                    "meaning": {
+                        "ko": "'다른'",
+                        "en": "other",
+                        "ja": "異なる",
+                        "zh": "不同的",
+                        "fr": "différent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "zygous",
+                    "meaning": {
+                        "ko": "'접합한'",
+                        "en": "joined together",
+                        "ja": "接合した",
+                        "zh": "接合的",
+                        "fr": "conjugué"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 다른 대립 유전자를 한 쌍으로 가진' 상태인 '이형 접합의'라는 뜻입니다.",
+                "en": "An individual is heterozygous for a gene if they have two different alleles.",
+                "ja": "1つの遺伝子について異なる対立遺伝子を1対持つ状態を示します",
+                "zh": "一个个体对于某个基因有两个不同等位基因的状态",
+                "fr": "État d'avoir deux allèles différents pour un gène"
+            },
+            "example": "An individual is heterozygous for a gene if they have two different alleles.",
+            "translation": {
+                "ko": "개체는 두 개의 다른 대립 유전자를 가지고 있다면 그 유전자에 대해 이형 접합이다.",
+                "ja": "異形接合の",
+                "zh": "杂合的",
+                "fr": "hétérozygote"
+            }
+        },
+        {
+            "word": "zygomorphic",
+            "part_of_speech": "",
+            "origin": "Greek, zygon (a yoke, a pair) + morphe (form)",
+            "meaning": {
+                "ko": "쌍을 이룬 형태",
+                "en": "bilaterally symmetrical form",
+                "ja": "左右対称の形態",
+                "zh": "左右对称的形态",
+                "fr": "forme bilatéralement symétrique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "zygo-",
+                    "meaning": {
+                        "ko": "'쌍'",
+                        "en": "pair",
+                        "ja": "対",
+                        "zh": "对",
+                        "fr": "paire"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "morphic",
+                    "meaning": {
+                        "ko": "'형태의'",
+                        "en": "of form or shape",
+                        "ja": "形態",
+                        "zh": "形态",
+                        "fr": "forme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'좌우 한 쌍이 대칭을 이루는' 형태라는 의미로, 꽃 모양 등을 설명할 때 쓰입니다.",
+                "en": "A form where a pair is symmetrical left and right, used to describe flower shapes.",
+                "ja": "左右一対が対称をなす形態という意味で、花の形などを説明する際に用いられます。",
+                "zh": "指左右一对呈对称的形态，用于描述花的形状等。",
+                "fr": "Une forme où une paire est symétrique de gauche à droite, utilisée pour décrire les formes de fleurs."
+            },
+            "example": "A pea flower is zygomorphic.",
+            "translation": {
+                "ko": "완두콩 꽃은 좌우 대칭이다.",
+                "ja": "エンドウの花は左右対称です。",
+                "zh": "豌豆花是左右对称的。",
+                "fr": "Une fleur de pois est bilatéralement symétrique."
+            }
+        },
+        {
+            "word": "zygote",
+            "part_of_speech": "",
+            "origin": "Greek, zygotos (yoked)",
+            "meaning": {
+                "ko": "멍에를 멘",
+                "en": "wearing a yoke",
+                "ja": "受精卵、接合子",
+                "zh": "受精卵、合子",
+                "fr": "zygote, cellule fécondée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "zyg- (zygon)",
+                    "meaning": {
+                        "ko": "'멍에, 결합'",
+                        "en": "yoke",
+                        "ja": "くびき、結合",
+                        "zh": "轭、结合",
+                        "fr": "joug, union"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개의 생식세포가 결합하여 만들어진' 세포인 '접합자', '수정란'을 뜻합니다.",
+                "en": "A zygote is the first cell of a new organism formed by the fusion of two gametes.",
+                "ja": "2つの生殖細胞が結合して作られた細胞である接合子、受精卵を意味します。",
+                "zh": "指由两个生殖细胞结合而形成的细胞，即合子或受精卵。",
+                "fr": "Cellule résultant de la fusion de deux gamètes, formant le premier stade de développement d'un nouvel organisme."
+            },
+            "example": "A zygote is the first cell of a new organism.",
+            "translation": {
+                "ko": "접합자는 새로운 유기체의 첫 번째 세포이다.",
+                "ja": "受精卵",
+                "zh": "受精卵",
+                "fr": "zygote"
+            }
+        }
+    ]
+}

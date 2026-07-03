@@ -1,0 +1,371 @@
+{
+    "root_info": {
+        "roots": "spec, spi, spic, spect: look",
+        "origin": "Latin, specere",
+        "meaning": {
+            "ko": "보다",
+            "en": "to look",
+            "ja": "見る",
+            "zh": "看",
+            "fr": "regarder"
+        }
+    },
+    "words": [
+        {
+            "word": "specimen",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "speci (specere)",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전체를 보기 위한 본보기'라는 의미에서, 연구용 '표본', '견본'을 뜻합니다.",
+                "en": "From the sense of 'an example to see the whole,' it means a sample or model for research purposes.",
+                "ja": "「全体を見るための見本」という意味から、研究用の「標本」や「見本」を意味します。",
+                "zh": "从\"用来看全体的样本\"的意思引申，指研究用的\"标本\"或\"样品\"。",
+                "fr": "Du sens d'« un exemple pour voir l'ensemble », il désigne un échantillon ou un modèle à des fins de recherche."
+            },
+            "example": "The doctor took a blood specimen.",
+            "translation": {
+                "ko": "의사가 혈액 표본을 채취했다.",
+                "ja": "医者が血液標本を採取した。",
+                "zh": "医生采集了血液标本。",
+                "fr": "Le médecin a prélevé un échantillon de sang."
+            }
+        },
+        {
+            "word": "expect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖을 내다보다'는 의미에서, 어떤 일이 일어나기를 '기대하다', '예상하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'looking outward,' it came to mean 'to anticipate' or 'to predict' what will happen.",
+                "ja": "「外を見つめる」という意味から、何かが起こることを「期待する」「予想する」という意味になりました。",
+                "zh": "从「向外看」的含义演变而来，表示「期待」或「预料」某事会发生。",
+                "fr": "Du sens de « regarder vers l'extérieur », il est devenu signifier « attendre » ou « prévoir » ce qui arrivera."
+            },
+            "example": "I expect you to be on time.",
+            "translation": {
+                "ko": "나는 네가 제시간에 오기를 기대한다.",
+                "ja": "私はあなたが時間通りに来ることを期待している。",
+                "zh": "我期望你准时到达。",
+                "fr": "Je m'attends à ce que tu sois à l'heure."
+            }
+        },
+        {
+            "word": "circumspect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周りに",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "행동하기 전에 '주위를 둘러보는'이라는 의미에서, '신중한', '조심스러운'이라는 뜻입니다.",
+                "en": "From the idea of 'looking around' before acting; means careful and wary.",
+                "ja": "行動する前に'周りを見渡す'という意味から、'慎重な'、'用心深い'という意味です。",
+                "zh": "源自行动前'环顾四周'的含义，表示'谨慎的'、'警惕的'。",
+                "fr": "De l'idée de 'regarder autour de soi' avant d'agir; signifie prudent et avisé."
+            },
+            "example": "Be circumspect when dealing with strangers.",
+            "translation": {
+                "ko": "낯선 사람을 대할 때는 신중해야 한다.",
+                "ja": "見知らぬ人と接するときは慎重であるべきだ。",
+                "zh": "与陌生人打交道时要谨慎。",
+                "fr": "Soyez prudent en traitant avec des étrangers."
+            }
+        },
+        {
+            "word": "introspection",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intro-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "within",
+                        "ja": "内へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신의 내면을 들여다보는 것'이라는 의미에서, '자기 성찰', '내성'을 뜻합니다.",
+                "en": "Looking inward at one's inner self; self-reflection or self-examination.",
+                "ja": "自分の内面を見つめることから、自己反省や内省を意味します。",
+                "zh": "从观察自己的内心引申，意为自我反省或内省。",
+                "fr": "Du sens de regarder en soi-même, signifie l'auto-réflexion ou l'examen de soi."
+            },
+            "example": "He spent some time in quiet introspection.",
+            "translation": {
+                "ko": "그는 조용한 자기 성찰의 시간을 보냈다.",
+                "ja": "彼は静かな内省の時間を過ごした。",
+                "zh": "他花了一些时间进行安静的自我反省。",
+                "fr": "Il a passé un moment en introspection tranquille."
+            }
+        },
+        {
+            "word": "retrospect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "retro-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "backward",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "en arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤를 돌아보는 것'이라는 의미에서, '회상', '회고'를 뜻합니다.",
+                "en": "From the idea of 'looking back,' meaning recollection or reflection on the past.",
+                "ja": "「後ろを振り返って見る」という意味から、「回想」「回顧」を意味します。",
+                "zh": "从「回头看」的意思，表示「回忆」、「回顾」。",
+                "fr": "Du sens de 'regarder en arrière', signifiant souvenir ou réflexion sur le passé."
+            },
+            "example": "In retrospect, I should have studied harder.",
+            "translation": {
+                "ko": "돌이켜보면, 나는 더 열심히 공부했어야 했다.",
+                "ja": "振り返ってみると、もっと一生懸命勉強するべきだった。",
+                "zh": "回想起来，我应该学得更努力一些。",
+                "fr": "En y réfléchissant, j'aurais dû étudier davantage."
+            }
+        },
+        {
+            "word": "spectrum",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다, 보이는 것",
+                        "en": "to look, appearance",
+                        "ja": "見る、見えるもの",
+                        "zh": "看、显现的东西",
+                        "fr": "regarder, apparence"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "빛이 분해되어 '보이는 색의 띠'라는 의미에서 '스펙트럼'을 뜻하며, 생각이나 의견의 '범위'를 의미하기도 합니다.",
+                "en": "Light is decomposed to show a 'band of visible colors', meaning 'spectrum', and also refers to the 'range' of thoughts or opinions.",
+                "ja": "光が分解されて『見える色の帯』という意味から『スペクトラム』を指し、考えや意見の『範囲』を意味することもあります。",
+                "zh": "光被分解成『可见色带』的意思，指『光谱』，也可以表示思想或观点的『范围』。",
+                "fr": "La lumière se décompose pour montrer une 'bande de couleurs visibles', signifiant 'spectre', et désigne aussi la 'gamme' de pensées ou d'opinions."
+            },
+            "example": "The rainbow is a natural spectrum.",
+            "translation": {
+                "ko": "무지개는 자연적인 스펙트럼이다.",
+                "ja": "虹は自然なスペクトラムです。",
+                "zh": "彩虹是一个自然光谱。",
+                "fr": "L'arc-en-ciel est un spectre naturel."
+            }
+        },
+        {
+            "word": "perspective",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "통하여",
+                        "en": "through",
+                        "ja": "通して",
+                        "zh": "通过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'꿰뚫어 보는 것'이라는 의미에서, 사물을 보는 '관점', '시각' 또는 미술의 '원근법'을 뜻합니다.",
+                "en": "From the idea of 'seeing through,' it means a viewpoint or perspective in observing things, or perspective in art.",
+                "ja": "「貫いて見ること」という意味から、物を見る「視点」「観点」、または美術の「遠近法」を意味します。",
+                "zh": "从「透视观看」的意思出发，指观察事物的「观点」「视角」，或美术中的「透视法」。",
+                "fr": "De l'idée de « voir à travers », cela signifie un point de vue ou une perspective pour observer les choses, ou la perspective en art."
+            },
+            "example": "Try to see things from a different perspective.",
+            "translation": {
+                "ko": "다른 관점에서 사물을 보려고 노력하세요.",
+                "ja": "別の視点から物事を見るようにしてください。",
+                "zh": "试着从不同的角度来看待事物。",
+                "fr": "Essayez de voir les choses sous un angle différent."
+            }
+        },
+        {
+            "word": "respect",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로, 다시",
+                        "en": "back, again",
+                        "ja": "後ろへ、再び",
+                        "zh": "向后、再次",
+                        "fr": "arrière, à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看、观察",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 돌아볼' 가치가 있는 사람이나 대상에 대한 마음이라는 의미에서 '존경', '존중'을 뜻합니다.",
+                "en": "Derived from the idea of looking back at someone or something worthy of consideration, meaning 'admiration' or 'esteem'.",
+                "ja": "何度も振り返って見る価値がある人や物への気持ちから、『敬意』『尊敬』を意味します。",
+                "zh": "源自值得反复观看和思考的人或事物，表示'敬意'或'尊重'。",
+                "fr": "Issu de l'idée de regarder à nouveau quelqu'un ou quelque chose digne de considération, signifiant 'admiration' ou 'estime'."
+            },
+            "example": "You must show respect for your elders.",
+            "translation": {
+                "ko": "당신은 어른들에게 존경을 표해야 한다.",
+                "ja": "あなたは年上の人に敬意を示さなければなりません。",
+                "zh": "你必须对长辈表示尊重。",
+                "fr": "Vous devez montrer du respect envers vos aînés."
+            }
+        },
+        {
+            "word": "spectator",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ator",
+                    "meaning": {
+                        "ko": "사람",
+                        "en": "person",
+                        "ja": "人",
+                        "zh": "人",
+                        "fr": "personne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보는 사람'이라는 의미에서, 스포츠 경기나 공연의 '관중'을 뜻합니다.",
+                "en": "From the meaning 'person who looks', referring to an audience member at sports events or performances",
+                "ja": "「見る人」という意味から、スポーツの試合や公演の「観客」を意味します",
+                "zh": "从「看的人」的含义而来，指体育比赛或演出的「观众」",
+                "fr": "Du sens 'personne qui regarde', désignant un membre du public lors d'événements sportifs ou de spectacles"
+            },
+            "example": "The spectators cheered loudly.",
+            "translation": {
+                "ko": "관중들이 큰 소리로 환호했다.",
+                "ja": "観客",
+                "zh": "观众",
+                "fr": "spectateur"
+            }
+        }
+    ]
+}

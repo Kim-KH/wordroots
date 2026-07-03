@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "sept (seven) septet, septuagenarian, septuple",
+        "origin": "Latin, septem (seven)",
+        "meaning": {
+            "ko": "일곱",
+            "en": "seven",
+            "ja": "7つ",
+            "zh": "七",
+            "fr": "sept"
+        }
+    },
+    "words": [
+        {
+            "word": "septet",
+            "part_of_speech": "",
+            "origin": "Latin, septem (seven)",
+            "meaning": {
+                "ko": "일곱",
+                "en": "seven",
+                "ja": "7人の演奏者グループ",
+                "zh": "七重奏",
+                "fr": "septuor"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sept-",
+                    "meaning": {
+                        "ko": "'일곱'",
+                        "en": "seven",
+                        "ja": "7",
+                        "zh": "七",
+                        "fr": "sept"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일곱 명으로 이루어진 그룹'이라는 의미에서 '7중주단' 또는 '7인조'를 뜻합니다.",
+                "en": "A group of seven performers or a musical composition for seven instruments/voices",
+                "ja": "7人の奏者またはそれに対応する楽曲を意味します",
+                "zh": "指七个演奏者组成的群体或相应的音乐作品",
+                "fr": "Un groupe de sept musiciens ou une composition musicale pour sept instruments/voix"
+            },
+            "example": "The composer wrote a septet for strings and wind instruments.",
+            "translation": {
+                "ko": "그 작곡가는 현악기와 관악기를 위한 7중주곡을 썼다.",
+                "ja": "作曲家は弦楽器と管楽器のための7重奏曲を書いた。",
+                "zh": "作曲家为弦乐器和木管乐器创作了一首七重奏。",
+                "fr": "Le compositeur a écrit un septuor pour instruments à cordes et à vent."
+            }
+        },
+        {
+            "word": "septuagenarian",
+            "part_of_speech": "",
+            "origin": "Latin, septuagenarius (containing seventy)",
+            "meaning": {
+                "ko": "일흔을 포함하는",
+                "en": "including seventy years old",
+                "ja": "七十歳代の人",
+                "zh": "七十多岁的人",
+                "fr": "personne dans les soixante-dix ans"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "septuagen-",
+                    "meaning": {
+                        "ko": "'일흔'",
+                        "en": "seventy",
+                        "ja": "七十",
+                        "zh": "七十",
+                        "fr": "soixante-dix"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나이가 70대인 사람'을 의미합니다.",
+                "en": "A person in their seventies",
+                "ja": "70代の年齢の人を意味します",
+                "zh": "指70多岁的人",
+                "fr": "Désigne une personne âgée de 70 à 79 ans"
+            },
+            "example": "My grandfather is a healthy septuagenarian.",
+            "translation": {
+                "ko": "우리 할아버지는 건강한 70대 노인이시다.",
+                "ja": "私の祖父は健康な七十歳代です",
+                "zh": "我的祖父是一个健康的七十多岁的人",
+                "fr": "Mon grand-père est un septuagénaire en bonne santé"
+            }
+        },
+        {
+            "word": "septuple",
+            "part_of_speech": "",
+            "origin": "Latin, septem (seven) + -plus (fold)",
+            "meaning": {
+                "ko": "일곱 겹",
+                "en": "sevenfold",
+                "ja": "七倍の",
+                "zh": "七倍的",
+                "fr": "septuple"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sept-",
+                    "meaning": {
+                        "ko": "'일곱'",
+                        "en": "seven",
+                        "ja": "七",
+                        "zh": "七",
+                        "fr": "sept"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ple",
+                    "meaning": {
+                        "ko": "'-겹, -배'",
+                        "en": "fold, times",
+                        "ja": "倍、層",
+                        "zh": "倍、层",
+                        "fr": "fois, couche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일곱 배' 또는 '일곱 부분으로 이루어진'이라는 뜻입니다.",
+                "en": "Means 'seven times' or 'made up of seven parts'",
+                "ja": "七倍または七つの部分からなるという意味",
+                "zh": "意为七倍或由七个部分组成",
+                "fr": "Signifie 'sept fois' ou 'composé de sept parties'"
+            },
+            "example": "The company's profits increased septuple.",
+            "translation": {
+                "ko": "그 회사의 수익은 일곱 배 증가했다.",
+                "ja": "その企業の利益は七倍に増加した。",
+                "zh": "该公司的利润增加了七倍。",
+                "fr": "Les bénéfices de l'entreprise ont augmenté de façon septuple."
+            }
+        }
+    ]
+}

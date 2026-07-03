@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "dia",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "통하여, 가로질러",
+            "en": "through, across, between",
+            "ja": "通じて、横切って、間を通って",
+            "zh": "通过、横穿、之间",
+            "fr": "à travers, par, entre"
+        }
+    },
+    "words": [
+        {
+            "word": "diameter",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dia-",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横穿过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "측정",
+                        "en": "measure",
+                        "ja": "測定",
+                        "zh": "测量",
+                        "fr": "mesurer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원의 중심을 '가로질러 잰 길이' 즉, '지름', '직경'을 의미합니다.",
+                "en": "The length measured across the center of a circle; literally 'across-measure'",
+                "ja": "円の中心を横切って測定した長さ、つまり『直径』を意味します。",
+                "zh": "圆心处横穿测量的长度，即'直径'的意思。",
+                "fr": "La longueur mesurée à travers le centre d'un cercle, c'est-à-dire le 'diamètre'."
+            },
+            "example": "The circle has a diameter of 10 cm.",
+            "translation": {
+                "ko": "그 원의 지름은 10cm이다.",
+                "ja": "その円の直径は10cmです。",
+                "zh": "那个圆的直径是10厘米。",
+                "fr": "Le cercle a un diamètre de 10 cm."
+            }
+        },
+        {
+            "word": "diagonal",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dia-",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gon",
+                    "meaning": {
+                        "ko": "각",
+                        "en": "angle",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "angle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 각에서 다른 각으로 가로질러 가는' 선이라는 의미에서 '대각선'을 뜻합니다.",
+                "en": "A line going across from one angle to another angle",
+                "ja": "ある角から別の角へ横切って行く線という意味から対角線を表します",
+                "zh": "从一个角横切到另一个角的线，表示对角线",
+                "fr": "Une ligne qui traverse d'un angle à un autre angle, signifiant une diagonale"
+            },
+            "example": "Draw a diagonal line.",
+            "translation": {
+                "ko": "대각선을 그리세요.",
+                "ja": "対角線を引いてください。",
+                "zh": "画一条对角线。",
+                "fr": "Tracez une ligne diagonale."
+            }
+        },
+        {
+            "word": "dialogue",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dia-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logue",
+                    "meaning": {
+                        "ko": "말",
+                        "en": "speech",
+                        "ja": "言葉",
+                        "zh": "言语",
+                        "fr": "parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 사람 사이에 오가는 말'이라는 의미에서 '대화'를 뜻합니다.",
+                "en": "From Greek 'dia' (between) and 'logos' (speech): conversation between two people.",
+                "ja": "ギリシャ語の「dia」（間に）と「logos」（言葉）から：二人の間で交わされる会話。",
+                "zh": "源自希腊语\"dia\"（之间）和\"logos\"（言语）：两人之间进行的对话。",
+                "fr": "Du grec 'dia' (entre) et 'logos' (parole) : conversation entre deux personnes."
+            },
+            "example": "We had a constructive dialogue.",
+            "translation": {
+                "ko": "우리는 건설적인 대화를 나누었다.",
+                "ja": "私たちは建設的な対話をした。",
+                "zh": "我们进行了建设性的对话。",
+                "fr": "Nous avons eu un dialogue constructif."
+            }
+        },
+        {
+            "word": "diagnosis",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dia-",
+                    "meaning": {
+                        "ko": "통하여",
+                        "en": "through",
+                        "ja": "通して",
+                        "zh": "通过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gnosis",
+                    "meaning": {
+                        "ko": "알다",
+                        "en": "knowledge",
+                        "ja": "知識",
+                        "zh": "知识",
+                        "fr": "connaissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "증상을 '통해 병을 알아내는 것'이라는 의미에서 '진단'을 뜻합니다.",
+                "en": "From Greek dia- (through) and -gnosis (knowledge): identifying disease by observing symptoms.",
+                "ja": "症状を『通じて』病気を『知る』という意味で、医学的診断を表します。",
+                "zh": "从希腊语词根派生，通过症状来识别疾病的医学过程。",
+                "fr": "Du grec dia- (à travers) et -gnosis (connaissance): identifier une maladie en observant les symptômes."
+            },
+            "example": "The doctor made a quick diagnosis.",
+            "translation": {
+                "ko": "의사는 빠른 진단을 내렸다.",
+                "ja": "医者は素早い診断を下した。",
+                "zh": "医生做出了快速的诊断。",
+                "fr": "Le médecin a posé un diagnostic rapide."
+            }
+        }
+    ]
+}

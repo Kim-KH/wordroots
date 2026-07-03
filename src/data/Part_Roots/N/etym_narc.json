@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "narc (sleep, torpor) narcoleptic, narcosis, narcotic,",
+        "origin": "Greek, narke (numbness, stupor)",
+        "meaning": {
+            "ko": "마비, 무감각",
+            "en": "numbness",
+            "ja": "麻痺、無感覚",
+            "zh": "麻木、无感觉",
+            "fr": "engourdissement, insensibilité"
+        }
+    },
+    "words": [
+        {
+            "word": "narcoleptic",
+            "part_of_speech": "",
+            "origin": "Greek, narke (numbness) + lepsis (a seizing)",
+            "meaning": {
+                "ko": "마비가 덮침",
+                "en": "paralysis overtakes",
+                "ja": "ナルコレプシーの",
+                "zh": "嗜睡症的",
+                "fr": "narcoleptique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "narco-",
+                    "meaning": {
+                        "ko": "'마비, 잠'",
+                        "en": "numbness, sleep",
+                        "ja": "麻痺、睡眠",
+                        "zh": "麻痹、睡眠",
+                        "fr": "engourdissement, sommeil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leptic",
+                    "meaning": {
+                        "ko": "'발작'",
+                        "en": "seizure",
+                        "ja": "発作",
+                        "zh": "发作",
+                        "fr": "attaque"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'갑작스러운 잠에 빠지는 발작'을 겪는다는 의미에서 '기면증의'라는 뜻입니다.",
+                "en": "Refers to a condition characterized by sudden sleep attacks during the day",
+                "ja": "昼間に突然眠りに陥る発作を経験することを意味します",
+                "zh": "指白天突然陷入睡眠发作的状态",
+                "fr": "Désigne une condition caractérisée par des accès de sommeil soudains pendant la journée"
+            },
+            "example": "Narcoleptic individuals may fall asleep suddenly during the day.",
+            "translation": {
+                "ko": "기면증이 있는 사람은 낮 동안 갑자기 잠들 수 있다.",
+                "ja": "ナルコレプシー患者は日中に突然眠りに落ちることがあります。",
+                "zh": "嗜睡症患者可能在白天突然入睡。",
+                "fr": "Les individus narcoleptiques peuvent s'endormir soudainement pendant la journée."
+            }
+        },
+        {
+            "word": "narcosis",
+            "part_of_speech": "",
+            "origin": "Greek, narkosis (a benumbing)",
+            "meaning": {
+                "ko": "마비시킴",
+                "en": "to paralyze or numb",
+                "ja": "麻酔状態",
+                "zh": "麻醉状态",
+                "fr": "état d'anesthésie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "narc-",
+                    "meaning": {
+                        "ko": "'마비'",
+                        "en": "numbness",
+                        "ja": "麻痺",
+                        "zh": "麻木",
+                        "fr": "engourdissement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'약물 등으로 감각이 마비된 상태'인 '마취 상태'를 뜻합니다.",
+                "en": "A state of anesthesia where sensation is numbed by drugs or similar agents",
+                "ja": "薬物などで感覚が麻痺した状態の麻酔状態を意味します",
+                "zh": "指由药物等引起感觉麻木的麻醉状态",
+                "fr": "État d'anesthésie où les sensations sont engourdies par des drogues ou agents similaires"
+            },
+            "example": "Nitrogen narcosis can affect deep-sea divers.",
+            "translation": {
+                "ko": "질소 마취는 심해 잠수부에게 영향을 미칠 수 있다.",
+                "ja": "窒素酔いはダイバーに影響を与えることができます",
+                "zh": "氮麻醉可能影响深海潜水员",
+                "fr": "La narcose à l'azote peut affecter les plongeurs en profondeur"
+            }
+        },
+        {
+            "word": "narcotic",
+            "part_of_speech": "",
+            "origin": "Greek, narkotikos (benumbing)",
+            "meaning": {
+                "ko": "마비시키는",
+                "en": "causing numbness or paralysis",
+                "ja": "麻痺させる薬物",
+                "zh": "麻痹性药物",
+                "fr": "drogue narcotique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "narc-",
+                    "meaning": {
+                        "ko": "'마비'",
+                        "en": "numbness",
+                        "ja": "麻痺",
+                        "zh": "麻痹",
+                        "fr": "engourdissement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감각을 마비시키고 잠이 오게 하는 약물'인 '마약'을 뜻합니다.",
+                "en": "Refers to drugs that numb sensation and cause sleep",
+                "ja": "感覚を麻痺させて眠気を引き起こす薬物を意味します",
+                "zh": "指使感觉麻痹并引起睡眠的药物",
+                "fr": "Se réfère aux drogues qui engourdissent les sensations et provoquent le sommeil"
+            },
+            "example": "Morphine is a powerful narcotic.",
+            "translation": {
+                "ko": "모르핀은 강력한 마약이다.",
+                "ja": "モルヒネは強力な麻痺性薬物です",
+                "zh": "吗啡是一种强效的麻痹性药物",
+                "fr": "La morphine est un narcotique puissant"
+            }
+        }
+    ]
+}

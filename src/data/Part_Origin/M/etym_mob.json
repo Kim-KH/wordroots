@@ -1,0 +1,382 @@
+{
+    "root_info": {
+        "roots": "mob, mov, mot: move",
+        "origin": "Latin, movere",
+        "meaning": {
+            "ko": "움직이다",
+            "en": "to move",
+            "ja": "動く",
+            "zh": "移动",
+            "fr": "bouger"
+        }
+    },
+    "words": [
+        {
+            "word": "remove",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로, 떨어져",
+                        "en": "back, away",
+                        "ja": "後ろへ、離れて",
+                        "zh": "向后、远离",
+                        "fr": "en arrière, loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "move",
+                    "meaning": {
+                        "ko": "움직이다",
+                        "en": "to move",
+                        "ja": "動かす",
+                        "zh": "移动",
+                        "fr": "bouger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 움직여 놓다'는 의미에서 '제거하다', '치우다'는 뜻입니다.",
+                "en": "Means 'to take away' or 'to put aside' from the sense of 'moving something far away'",
+                "ja": "'遠くに動かす'という意味から、'取り除く'、'片付ける'という意味です",
+                "zh": "从'移动到远处'的含义引申为'清除'、'移除'的意思",
+                "fr": "Signifie 'enlever' ou 'écarter' à partir du sens de 'bouger quelque chose loin'"
+            },
+            "example": "Please remove your shoes.",
+            "translation": {
+                "ko": "신발을 벗어 주세요.",
+                "ja": "靴を脱いでください",
+                "zh": "请脱掉你的鞋子",
+                "fr": "Veuillez enlever vos chaussures"
+            }
+        },
+        {
+            "word": "motion",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot",
+                    "meaning": {
+                        "ko": "움직이다",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "bouger"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominal suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직이는 행위' 자체를 의미하여 '움직임', '동작'을 뜻하며, 회의에서 '동의', '제의'를 의미하기도 합니다.",
+                "en": "The act of moving itself, meaning 'movement' or 'action'; also means 'proposal' or 'amendment' in meetings.",
+                "ja": "動く行為そのものを意味し、『動き』『動作』を表す。会議では『提案』『修正案』を意味することもある。",
+                "zh": "表示移动的行为本身，意为『运动』『动作』；在会议中也可表示『提议』『修正案』。",
+                "fr": "Signifie l'acte de bouger lui-même, ce qui veut dire 'mouvement' ou 'action' ; signifie aussi 'proposition' ou 'amendement' en réunion."
+            },
+            "example": "The motion of the boat made me sick.",
+            "translation": {
+                "ko": "배의 움직임 때문에 나는 멀미가 났다.",
+                "ja": "ボートの動きで、私は酔ってしまった。",
+                "zh": "船的运动使我感到晕船。",
+                "fr": "Le mouvement du bateau m'a rendu malade."
+            }
+        },
+        {
+            "word": "commotion",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께, 완전히",
+                        "en": "with, intensely",
+                        "ja": "一緒に、激しく",
+                        "zh": "一起、强烈地",
+                        "fr": "ensemble, intensément"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot",
+                    "meaning": {
+                        "ko": "움직이다",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "bouger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모두 함께 격렬하게 움직이는 상태'라는 의미에서 '소동', '소란'을 뜻합니다.",
+                "en": "From the sense of 'moving together intensely,' meaning commotion or turmoil",
+                "ja": "「皆で一緒に激しく動く状態」という意味から、「騒ぎ」「混乱」を意味します",
+                "zh": "从「所有人激烈地一起运动」的意思引申出「骚动」「混乱」的含义",
+                "fr": "Du sens de 'se mouvoir ensemble intensément', signifiant agitation ou tumulte"
+            },
+            "example": "The sudden noise caused a commotion.",
+            "translation": {
+                "ko": "갑작스러운 소음이 소동을 일으켰다.",
+                "ja": "突然の音が騒ぎを起こした。",
+                "zh": "突然的噪音引起了骚动。",
+                "fr": "Le bruit soudain a provoqué une agitation."
+            }
+        },
+        {
+            "word": "promote",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot",
+                    "meaning": {
+                        "ko": "움직이다",
+                        "en": "to move",
+                        "ja": "動かす",
+                        "zh": "移动",
+                        "fr": "bouger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 움직이게 하다'는 의미에서 사람을 '승진시키다' 또는 상품 판매를 '촉진하다', '홍보하다'는 뜻입니다.",
+                "en": "From the sense of 'to move forward': to advance someone's position, accelerate sales, or publicize.",
+                "ja": "「前へ動かす」という意味から、人を「昇進させる」または商品販売を「促進する」「宣伝する」という意味になります。",
+                "zh": "从「向前移动」的意思衍生出来，指使人「晋升」或促进商品销售、「宣传」的含义。",
+                "fr": "Du sens de « faire avancer » : faire progresser quelqu'un, accélérer les ventes ou faire la publicité."
+            },
+            "example": "She was promoted to manager.",
+            "translation": {
+                "ko": "그녀는 관리자로 승진했다.",
+                "ja": "彼女はマネージャーに昇進した。",
+                "zh": "她被晋升为经理。",
+                "fr": "Elle a été promue au poste de directrice."
+            }
+        },
+        {
+            "word": "emotion",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot",
+                    "meaning": {
+                        "ko": "움직이다",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "se mouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마음을 밖으로 움직이게 하는 것'이라는 의미에서, '감정', '정서'를 뜻합니다.",
+                "en": "From the idea of moving the heart outward, meaning feeling or sentiment",
+                "ja": "心を外へ動かすという意味から、感情や情動を表します",
+                "zh": "从心向外移动的概念来看，表示感情或情绪",
+                "fr": "Du concept de mouvoir le cœur vers l'extérieur, signifiant sentiment ou émotion"
+            },
+            "example": "He could not hide his emotion.",
+            "translation": {
+                "ko": "그는 자신의 감정을 숨길 수 없었다.",
+                "ja": "感情",
+                "zh": "情感",
+                "fr": "émotion"
+            }
+        },
+        {
+            "word": "motive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot",
+                    "meaning": {
+                        "ko": "움직이다",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "bouger"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ive",
+                    "meaning": {
+                        "ko": "~하는 것",
+                        "en": "that which does",
+                        "ja": "~すること",
+                        "zh": "~的事物",
+                        "fr": "~chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람을 움직이게 하는 것'이라는 의미에서 행동의 '동기', '이유'를 뜻합니다.",
+                "en": "Something that moves a person; the reason or drive behind an action",
+                "ja": "人を動かすもの。行動の理由や原因を意味します。",
+                "zh": "驱动人们行动的东西；行为的原因或动力。",
+                "fr": "Ce qui pousse une personne à agir; la raison ou la cause d'une action."
+            },
+            "example": "The police are looking for a motive for the crime.",
+            "translation": {
+                "ko": "경찰은 범행 동기를 찾고 있다.",
+                "ja": "警察は犯罪の動機を探している。",
+                "zh": "警察在寻找犯罪的动机。",
+                "fr": "La police cherche un mobile pour le crime."
+            }
+        },
+        {
+            "word": "mobile",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mob",
+                    "meaning": {
+                        "ko": "움직이다",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "bouger"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ile",
+                    "meaning": {
+                        "ko": "~할 수 있는",
+                        "en": "able to",
+                        "ja": "～できる",
+                        "zh": "能够～",
+                        "fr": "capable de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직일 수 있는'이라는 의미에서 '이동성의', '기동성 있는'이라는 뜻입니다.",
+                "en": "From the meaning 'able to move,' derived to mean 'movable' or 'capable of moving.'",
+                "ja": "「動くことができる」という意味から、「移動可能な」「機動性のある」という意味に派生しました。",
+                "zh": "从「能够移动」的含义衍生出「可移动的」、「具有流动性的」之意。",
+                "fr": "Du sens « capable de bouger », dérivé pour signifier « mobile » ou « capable de se déplacer »."
+            },
+            "example": "This is a mobile library.",
+            "translation": {
+                "ko": "이것은 이동 도서관이다.",
+                "ja": "これは移動図書館です。",
+                "zh": "这是一个流动图书馆。",
+                "fr": "C'est une bibliothèque mobile."
+            }
+        },
+        {
+            "word": "motor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot",
+                    "meaning": {
+                        "ko": "움직이다",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "bouger"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "~하는 것",
+                        "en": "one that does",
+                        "ja": "~すること",
+                        "zh": "~的东西",
+                        "fr": "~qui fait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직이게 하는 것'이라는 의미에서 '모터', '엔진', '발동기'를 뜻합니다.",
+                "en": "From Latin 'movēre' (to move), referring to an engine or device that produces motion.",
+                "ja": "ラテン語の「movēre」（動く）に由来し、動きを生み出すエンジンや装置を指します。",
+                "zh": "来自拉丁语「movēre」（移动），指产生运动的引擎或装置。",
+                "fr": "Du latin « movēre » (bouger), désignant un moteur ou un appareil produisant le mouvement."
+            },
+            "example": "The car needs a new motor.",
+            "translation": {
+                "ko": "그 차는 새 모터가 필요하다.",
+                "ja": "その車は新しいモーターが必要です。",
+                "zh": "那辆车需要一个新的发动机。",
+                "fr": "La voiture a besoin d'un nouveau moteur."
+            }
+        },
+        {
+            "word": "move",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mov",
+                    "meaning": {
+                        "ko": "움직이다",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "bouger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 movere에서 직접적으로 유래하여 '움직이다', '이사하다', '감동시키다' 등 다양한 뜻으로 쓰입니다.",
+                "en": "From Latin movere, meaning 'to move', 'to shift', or 'to touch emotionally'.",
+                "ja": "ラテン語のmovereに直接由来し、「動く」「移動する」「感動させる」など様々な意味で使われます。",
+                "zh": "直接源自拉丁语movere，具有\"移动\"、\"搬迁\"、\"感动\"等多种含义。",
+                "fr": "Issu directement du latin movere, signifiant « bouger », « déplacer » ou « émouvoir »."
+            },
+            "example": "Please move your car.",
+            "translation": {
+                "ko": "차를 옮겨 주세요.",
+                "ja": "車を動かしてください。",
+                "zh": "请移动你的车。",
+                "fr": "Veuillez déplacer votre voiture."
+            }
+        }
+    ]
+}

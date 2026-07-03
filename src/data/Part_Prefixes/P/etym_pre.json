@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "pre (before) prepare, predict, preposition, preview",
+        "origin": "Latin, prae (before, in front of)",
+        "meaning": {
+            "ko": "앞에, 미리",
+            "en": "before, in front of",
+            "ja": "前に、前方に",
+            "zh": "前、在前面",
+            "fr": "avant, devant"
+        }
+    },
+    "words": [
+        {
+            "word": "prepare",
+            "part_of_speech": "",
+            "origin": "Latin, praeparare (to make ready beforehand)",
+            "meaning": {
+                "ko": "미리 준비하다",
+                "en": "to prepare in advance",
+                "ja": "あらかじめ準備する",
+                "zh": "提前准备",
+                "fr": "préparer à l'avance"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "'미리'",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pare",
+                    "meaning": {
+                        "ko": "'준비하다, 마련하다'",
+                        "en": "to make ready",
+                        "ja": "用意する",
+                        "zh": "做好准备",
+                        "fr": "rendre prêt"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 일이 일어나기 전에 미리 준비하다'는 의미입니다.",
+                "en": "To prepare something in advance before an event occurs",
+                "ja": "何かが起こる前に事前に準備することの意味です",
+                "zh": "在事情发生前提前做好准备的意思",
+                "fr": "Signifie préparer quelque chose à l'avance avant qu'un événement ne se produise"
+            },
+            "example": "You should prepare for the interview.",
+            "translation": {
+                "ko": "당신은 면접을 준비해야 합니다.",
+                "ja": "インタビューのために準備すべきです",
+                "zh": "你应该为面试做好准备",
+                "fr": "Vous devriez vous préparer pour l'entretien"
+            }
+        },
+        {
+            "word": "predict",
+            "part_of_speech": "",
+            "origin": "Latin, praedicere (to foretell)",
+            "meaning": {
+                "ko": "미리 말하다",
+                "en": "to say beforehand",
+                "ja": "予測する",
+                "zh": "预测",
+                "fr": "prédire"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "'미리'",
+                        "en": "before",
+                        "ja": "前もって",
+                        "zh": "提前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "'말하다'",
+                        "en": "to say",
+                        "ja": "言う",
+                        "zh": "说",
+                        "fr": "dire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일이 일어나기 전에 미리 말하다'는 의미에서 '예측하다', '예언하다'라는 뜻이 되었습니다.",
+                "en": "From the meaning of saying something before an event occurs, it came to mean predict or prophesy",
+                "ja": "出来事が起きる前に事前に言うという意味から、予測する、予言するという意味になりました",
+                "zh": "从事情发生前预先说出的意思，演变为预测、预言的含义",
+                "fr": "Du sens de dire quelque chose avant qu'un événement ne se produise, cela signifiait prédire ou prophétiser"
+            },
+            "example": "It is difficult to predict the future.",
+            "translation": {
+                "ko": "미래를 예측하는 것은 어렵다.",
+                "ja": "未来を予測することは難しい",
+                "zh": "预测未来是困难的",
+                "fr": "Il est difficile de prédire l'avenir"
+            }
+        },
+        {
+            "word": "preposition",
+            "part_of_speech": "",
+            "origin": "Latin, praepositio (a putting before)",
+            "meaning": {
+                "ko": "앞에 놓는 것",
+                "en": "thing placed before",
+                "ja": "前に置く品詞",
+                "zh": "前面放置的词",
+                "fr": "mot placé avant"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "'앞에'",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "前面",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "position",
+                    "meaning": {
+                        "ko": "'위치, 놓음'",
+                        "en": "position",
+                        "ja": "位置、配置",
+                        "zh": "位置、放置",
+                        "fr": "position, placement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "명사나 대명사 '앞에 놓이는' 품사라는 의미에서 '전치사'를 뜻합니다.",
+                "en": "Refers to a part of speech that is placed before nouns or pronouns",
+                "ja": "名詞または代名詞の前に置かれる品詞という意味です",
+                "zh": "指放在名词或代词前面的词性",
+                "fr": "Désigne une partie du discours placée avant les noms ou pronoms"
+            },
+            "example": "\"In,\" \"on,\" and \"at\" are common prepositions.",
+            "translation": {
+                "ko": "\"In,\" \"on,\" \"at\"은 흔한 전치사이다.",
+                "ja": "前置詞",
+                "zh": "前置词",
+                "fr": "préposition"
+            }
+        },
+        {
+            "word": "preview",
+            "part_of_speech": "",
+            "origin": "English, pre- + view",
+            "meaning": {
+                "ko": "미리 보기",
+                "en": "advance look or showing",
+                "ja": "事前の試写",
+                "zh": "预览",
+                "fr": "avant-première"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "'미리'",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "view",
+                    "meaning": {
+                        "ko": "'보다'",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'본격적으로 보기 전에 미리 보는 것'이라는 의미에서 영화 등의 '시사회', '예고편'을 뜻합니다.",
+                "en": "Refers to a 'preview screening' or 'trailer' of a movie, etc., meaning to view something beforehand before the full official viewing.",
+                "ja": "映画などの本編前に事前に見ることを意味し、試写会や予告編を指します。",
+                "zh": "指在正式观看前提前查看电影等内容，意为'试映会'或'预告片'。",
+                "fr": "Fait référence à une séance de présentation ou une bande annonce d'un film, signifiant regarder quelque chose à l'avance avant la présentation officielle complète."
+            },
+            "example": "We saw a preview of the new movie.",
+            "translation": {
+                "ko": "우리는 새 영화의 예고편을 봤다.",
+                "ja": "新作映画の試写を見た。",
+                "zh": "我们看了新电影的预览。",
+                "fr": "Nous avons vu une avant-première du nouveau film."
+            }
+        }
+    ]
+}

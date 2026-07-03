@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "stoma(t) (mouth) stoma, stomata, stomach",
+        "origin": "Greek, stoma (a mouth)",
+        "meaning": {
+            "ko": "입",
+            "en": "a mouth",
+            "ja": "口",
+            "zh": "嘴",
+            "fr": "bouche"
+        }
+    },
+    "words": [
+        {
+            "word": "stoma",
+            "part_of_speech": "",
+            "origin": "Greek, stoma (mouth)",
+            "meaning": {
+                "ko": "입",
+                "en": "mouth",
+                "ja": "口、開口部",
+                "zh": "口、开口",
+                "fr": "bouche, ouverture"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stoma-",
+                    "meaning": {
+                        "ko": "'입, 구멍'",
+                        "en": "mouth, opening",
+                        "ja": "口、穴",
+                        "zh": "口、孔",
+                        "fr": "bouche, trou"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "식물 잎의 '기공' 또는 수술 후 몸에 만든 '인공 구멍'을 뜻합니다.",
+                "en": "Refers to a 'stoma' on plant leaves or an 'artificial opening' created on the body after surgery.",
+                "ja": "植物の葉の気孔または手術後に体に作られた人工的な穴を指します。",
+                "zh": "指植物叶片上的气孔或手术后在身体上创建的人工开口。",
+                "fr": "Désigne un 'stomate' sur les feuilles des plantes ou une 'ouverture artificielle' créée sur le corps après une opération."
+            },
+            "example": "A stoma is a small opening on the surface of a leaf.",
+            "translation": {
+                "ko": "기공은 잎 표면에 있는 작은 구멍이다.",
+                "ja": "葉の表面にある小さな開口部が気孔です。",
+                "zh": "气孔是叶片表面的一个小开口。",
+                "fr": "Un stomate est une petite ouverture à la surface d'une feuille."
+            }
+        },
+        {
+            "word": "stomata",
+            "part_of_speech": "",
+            "origin": "Greek, stoma (mouth)",
+            "meaning": {
+                "ko": "입",
+                "en": "mouth opening",
+                "ja": "気孔",
+                "zh": "气孔",
+                "fr": "stomate"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stoma-",
+                    "meaning": {
+                        "ko": "'입, 구멍'",
+                        "en": "mouth hole",
+                        "ja": "口、穴",
+                        "zh": "口、孔",
+                        "fr": "bouche, trou"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'stoma'의 복수형입니다.",
+                "en": "Plural form of 'stoma'",
+                "ja": "'stoma'の複数形です",
+                "zh": "'stoma'的复数形式",
+                "fr": "Forme plurielle de 'stoma'"
+            },
+            "example": "Plants breathe through their stomata.",
+            "translation": {
+                "ko": "식물은 기공을 통해 숨을 쉰다.",
+                "ja": "植物は気孔を通して呼吸します。",
+                "zh": "植物通过气孔呼吸。",
+                "fr": "Les plantes respirent par leurs stomates."
+            }
+        },
+        {
+            "word": "stomach",
+            "part_of_speech": "",
+            "origin": "Greek, stomakhos (throat, gullet)",
+            "meaning": {
+                "ko": "목구멍",
+                "en": "throat",
+                "ja": "胃",
+                "zh": "胃",
+                "fr": "estomac"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stoma-",
+                    "meaning": {
+                        "ko": "'입, 구멍'",
+                        "en": "mouth",
+                        "ja": "口、穴",
+                        "zh": "嘴、孔",
+                        "fr": "bouche, ouverture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음식이 들어가는 입구'라는 의미에서 '위', '복부'를 뜻하게 되었습니다.",
+                "en": "Originally meant 'mouth' or 'opening where food enters', later came to mean 'stomach' or 'abdomen'.",
+                "ja": "元々は『食べ物が入る口』という意味から『胃』『腹部』を意味するようになりました。",
+                "zh": "原本意为'食物进入的口'，后来引申为'胃''腹部'的含义。",
+                "fr": "Signifiait à l'origine 'ouverture par où la nourriture entre', puis a désigné l''estomac' ou l''abdomen'."
+            },
+            "example": "My stomach hurts.",
+            "translation": {
+                "ko": "배가 아파요.",
+                "ja": "私の胃が痛い。",
+                "zh": "我的胃疼。",
+                "fr": "Mon estomac me fait mal."
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "allo (other, different) alloy, allocate",
+        "origin": "Greek, allos (other, different)",
+        "meaning": {
+            "ko": "다른",
+            "en": "other",
+            "ja": "他の",
+            "zh": "其他",
+            "fr": "autre"
+        }
+    },
+    "words": [
+        {
+            "word": "alloy",
+            "part_of_speech": "",
+            "origin": "Old French, aloiier (to combine)",
+            "meaning": {
+                "ko": "결합하다",
+                "en": "to combine",
+                "ja": "組み合わせる",
+                "zh": "结合",
+                "fr": "combiner"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "al- (ad)",
+                    "meaning": {
+                        "ko": "'~에, 쪽으로'",
+                        "en": "to, toward",
+                        "ja": "へ、方向へ",
+                        "zh": "向、朝向",
+                        "fr": "vers, à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "loy (lier, from Latin ligare)",
+                    "meaning": {
+                        "ko": "'묶다'",
+                        "en": "to bind",
+                        "ja": "結ぶ",
+                        "zh": "绑定",
+                        "fr": "lier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 묶다'는 의미에서 두 가지 이상의 금속을 녹여 합친 '합금'을 뜻하게 되었습니다. 'allo' 어원과는 직접적 관련이 없으나, 다른(allo) 금속을 합친다는 개념으로 이해할 수 있습니다.",
+                "en": "From the concept of 'binding together', it came to mean an alloy made by melting and combining two or more metals. Although not directly related to the 'allo' origin, it can be understood as the concept of combining different metals.",
+                "ja": "異なる金属を一緒に結ぶという意味から、複数の金属を溶かして合わせた合金を意味するようになりました。",
+                "zh": "从将不同金属结合在一起的概念出发，演变为将两种或多种金属熔合在一起的合金。",
+                "fr": "Du concept de lier ensemble, il en est venu à désigner un alliage formé en fusionnant plusieurs métaux différents."
+            },
+            "example": "Brass is an alloy of copper and zinc.",
+            "translation": {
+                "ko": "놋쇠는 구리와 아연의 합금이다.",
+                "ja": "黄銅は銅と亜鉛の合金です。",
+                "zh": "黄铜是铜和锌的合金。",
+                "fr": "Le laiton est un alliage de cuivre et de zinc."
+            }
+        },
+        {
+            "word": "allocate",
+            "part_of_speech": "",
+            "origin": "Latin, allocare (to place)",
+            "meaning": {
+                "ko": "놓다, 두다",
+                "en": "to place",
+                "ja": "割り当てる、配分する",
+                "zh": "分配、配置",
+                "fr": "allouer, attribuer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "al- (ad)",
+                    "meaning": {
+                        "ko": "'~에, 쪽으로'",
+                        "en": "to, toward",
+                        "ja": "へ、方向へ",
+                        "zh": "向、朝向",
+                        "fr": "à, vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "locate (locare)",
+                    "meaning": {
+                        "ko": "'두다, 배치하다'",
+                        "en": "to place",
+                        "ja": "置く、配置する",
+                        "zh": "放置、安排",
+                        "fr": "placer, disposer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "특정 목적을 위해 자원이나 업무 등을 '다른(allo) 곳에 두다'는 의미에서 '할당하다', '배분하다'라는 뜻으로 사용됩니다.",
+                "en": "The word means to distribute resources or tasks to different places for specific purposes; thus allocate means 'assign' or 'distribute'.",
+                "ja": "特定の目的のために資源や業務などを'別の場所に置く'という意味から'割り当てる'、'配分する'という意味で使用されます。",
+                "zh": "为了特定目的将资源或任务'放在不同地方'，因此'分配'、'配置'之意。",
+                "fr": "Pour une fin spécifique, distribuer des ressources ou des tâches à différents endroits; signifie 'assigner' ou 'distribuer'."
+            },
+            "example": "The government has allocated funds for the new infrastructure project.",
+            "translation": {
+                "ko": "정부는 새로운 사회 기반 시설 프로젝트에 자금을 할당했다.",
+                "ja": "政府は新しいインフラプロジェクトのために資金を割り当てました。",
+                "zh": "政府为新基础设施项目分配了资金。",
+                "fr": "Le gouvernement a alloué des fonds pour le nouveau projet d'infrastructure."
+            }
+        }
+    ]
+}

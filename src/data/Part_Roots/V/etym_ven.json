@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "ven (vein) intravenous, vena cava, venous",
+        "origin": "Latin, vena (a vein)",
+        "meaning": {
+            "ko": "정맥",
+            "en": "a vein",
+            "ja": "静脈",
+            "zh": "静脉",
+            "fr": "une veine"
+        }
+    },
+    "words": [
+        {
+            "word": "intravenous",
+            "part_of_speech": "",
+            "origin": "Latin, intra- (within) + vena (vein)",
+            "meaning": {
+                "ko": "정맥 내의",
+                "en": "within the vein",
+                "ja": "静脈内の",
+                "zh": "静脉内的",
+                "fr": "intraveineux"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intra-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "within",
+                        "ja": "内側に",
+                        "zh": "在内部",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "venous",
+                    "meaning": {
+                        "ko": "'정맥의'",
+                        "en": "of the vein",
+                        "ja": "静脈の",
+                        "zh": "静脉的",
+                        "fr": "veineux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정맥 안으로' 약물 등을 주입하는 방식인 '정맥 주사의'라는 뜻입니다.",
+                "en": "Method of injecting drugs into the vein; intravenous injection",
+                "ja": "薬物などを静脈内に注入する方法; 静脈注射",
+                "zh": "将药物等注入静脉内的方法; 静脉注射",
+                "fr": "Méthode d'injection de médicaments dans la veine; injection intraveineuse"
+            },
+            "example": "He received an intravenous drip.",
+            "translation": {
+                "ko": "그는 정맥 주사를 맞았다.",
+                "ja": "彼は静脈点滴を受けた。",
+                "zh": "他接受了静脉点滴。",
+                "fr": "Il a reçu une perfusion intraveineuse."
+            }
+        },
+        {
+            "word": "vena cava",
+            "part_of_speech": "",
+            "origin": "Latin, vena cava (hollow vein)",
+            "meaning": {
+                "ko": "텅 빈 정맥",
+                "en": "empty vein",
+                "ja": "空洞な静脈",
+                "zh": "空心静脉",
+                "fr": "veine cave"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vena",
+                    "meaning": {
+                        "ko": "'정맥'",
+                        "en": "vein",
+                        "ja": "静脈",
+                        "zh": "静脉",
+                        "fr": "veine"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cava",
+                    "meaning": {
+                        "ko": "'텅 빈'",
+                        "en": "empty",
+                        "ja": "空洞な",
+                        "zh": "空心的",
+                        "fr": "creux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸의 혈액을 모아 심장으로 보내는 가장 큰 정맥'인 '대정맥'을 뜻합니다.",
+                "en": "The largest vein in the body that collects blood and returns it to the heart",
+                "ja": "身体の血液を集め心臓に送る最大の静脈",
+                "zh": "身体中最大的静脉，收集血液并将其送回心脏",
+                "fr": "Plus grande veine du corps collectant le sang au cœur"
+            },
+            "example": "The vena cava is the largest vein in the body.",
+            "translation": {
+                "ko": "대정맥은 신체에서 가장 큰 정맥이다.",
+                "ja": "大静脈",
+                "zh": "腔静脉",
+                "fr": "veine cave"
+            }
+        },
+        {
+            "word": "venous",
+            "part_of_speech": "",
+            "origin": "Latin, venosus (full of veins)",
+            "meaning": {
+                "ko": "정맥으로 가득 찬",
+                "en": "full of veins",
+                "ja": "静脈に関する",
+                "zh": "与静脉有关的",
+                "fr": "relatif aux veines"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ven-",
+                    "meaning": {
+                        "ko": "'정맥'",
+                        "en": "vein",
+                        "ja": "静脈",
+                        "zh": "静脉",
+                        "fr": "veine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정맥의'라는 뜻입니다.",
+                "en": "It means 'of or relating to veins'",
+                "ja": "静脈に関する、または静脈の意味です",
+                "zh": "表示与静脉有关或属于静脉的意思",
+                "fr": "Cela signifie 'relatif aux veines'"
+            },
+            "example": "The doctor took a sample of venous blood.",
+            "translation": {
+                "ko": "의사는 정맥혈 샘플을 채취했다.",
+                "ja": "医者は静脈血のサンプルを採取しました",
+                "zh": "医生采集了静脉血样本",
+                "fr": "Le médecin a prélevé un échantillon de sang veineux"
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "cosm (universe) cosmos, cosmopolitan, microcosm",
+        "origin": "Greek, kosmos (order, world, universe)",
+        "meaning": {
+            "ko": "질서, 우주",
+            "en": "order, universe",
+            "ja": "秩序、宇宙",
+            "zh": "秩序、宇宙",
+            "fr": "ordre, univers"
+        }
+    },
+    "words": [
+        {
+            "word": "cosmos",
+            "part_of_speech": "",
+            "origin": "Greek, kosmos (order, universe)",
+            "meaning": {
+                "ko": "질서, 우주",
+                "en": "order, universe",
+                "ja": "秩序、宇宙",
+                "zh": "秩序、宇宙",
+                "fr": "ordre, univers"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cosm (kosmos)",
+                    "meaning": {
+                        "ko": "'우주'",
+                        "en": "universe",
+                        "ja": "宇宙",
+                        "zh": "宇宙",
+                        "fr": "univers"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "혼돈(chaos)과 반대되는 '질서 있는 체계'로서의 '우주'를 의미합니다.",
+                "en": "The cosmos refers to the 'universe as an ordered system' in contrast to chaos.",
+                "ja": "宇宙は混沌(カオス)と対立する'秩序のある体系'としての意味を持ちます。",
+                "zh": "宇宙指与混沌相反的'有序体系'的含义。",
+                "fr": "Le cosmos désigne l'univers comme un 'système ordonné' en contraste avec le chaos."
+            },
+            "example": "The astronomer studied the origins of the cosmos.",
+            "translation": {
+                "ko": "그 천문학자는 우주의 기원을 연구했다.",
+                "ja": "その天文学者は宇宙の起源を研究した。",
+                "zh": "这位天文学家研究了宇宙的起源。",
+                "fr": "L'astronome a étudié les origines de l'univers."
+            }
+        },
+        {
+            "word": "cosmopolitan",
+            "part_of_speech": "",
+            "origin": "Greek, kosmopolitēs (citizen of the world)",
+            "meaning": {
+                "ko": "세계 시민",
+                "en": "citizen of the world",
+                "ja": "世界市民",
+                "zh": "世界公民",
+                "fr": "citoyen du monde"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cosmo (kosmos)",
+                    "meaning": {
+                        "ko": "'세계'",
+                        "en": "world",
+                        "ja": "世界",
+                        "zh": "世界",
+                        "fr": "monde"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "politan (politēs)",
+                    "meaning": {
+                        "ko": "'시민'",
+                        "en": "citizen",
+                        "ja": "市民",
+                        "zh": "公民",
+                        "fr": "citoyen"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세계(cosmo)를 자신의 고향으로 여기는 시민(politan)'이라는 의미에서, '세계적인', '국제적인' 또는 그런 사람을 뜻합니다.",
+                "en": "A citizen who regards the world as their homeland, meaning 'international' or 'cosmopolitan person'",
+                "ja": "世界を故郷とみなす市民という意味で、国際的、世界的、またはそのような人を指す",
+                "zh": "把世界视为故乡的市民,意为国际性的、世界性的或这样的人",
+                "fr": "Un citoyen qui considère le monde comme sa patrie, signifiant international ou une telle personne"
+            },
+            "example": "New York is a very cosmopolitan city.",
+            "translation": {
+                "ko": "뉴욕은 매우 국제적인 도시이다.",
+                "ja": "ニューヨークは非常に国際的な都市です",
+                "zh": "纽约是一个非常国际化的城市",
+                "fr": "New York est une ville très cosmopolite"
+            }
+        },
+        {
+            "word": "microcosm",
+            "part_of_speech": "",
+            "origin": "Greek, mikros kosmos (little world)",
+            "meaning": {
+                "ko": "작은 세계",
+                "en": "small world",
+                "ja": "小さな世界",
+                "zh": "小世界",
+                "fr": "petit monde"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "micro-",
+                    "meaning": {
+                        "ko": "'작은'",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cosm (kosmos)",
+                    "meaning": {
+                        "ko": "'세계, 우주'",
+                        "en": "world, universe",
+                        "ja": "世界、宇宙",
+                        "zh": "世界、宇宙",
+                        "fr": "monde, univers"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은(micro) 세계(cosm)'라는 의미로, 더 큰 전체의 특징을 축소하여 보여주는 '축소판'을 뜻합니다.",
+                "en": "A miniature representation that shows the characteristics of a larger whole in reduced form.",
+                "ja": "より大きな全体の特徴を縮小して示す『縮小版』を意味します。",
+                "zh": "指显示更大整体特征的缩小版本。",
+                "fr": "Une version réduite qui montre les caractéristiques d'un ensemble plus grand."
+            },
+            "example": "The village is a microcosm of the whole country.",
+            "translation": {
+                "ko": "그 마을은 나라 전체의 축소판이다.",
+                "ja": "その村は国全体の縮図である。",
+                "zh": "这个村庄是整个国家的缩影。",
+                "fr": "Le village est une miniature de tout le pays."
+            }
+        }
+    ]
+}

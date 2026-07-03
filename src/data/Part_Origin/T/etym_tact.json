@@ -1,0 +1,581 @@
+{
+    "root_info": {
+        "roots": "tact, tang, tig, ting: touch",
+        "origin": "Latin, tangere",
+        "meaning": {
+            "ko": "만지다",
+            "en": "to touch",
+            "ja": "触れる",
+            "zh": "触摸",
+            "fr": "toucher"
+        }
+    },
+    "words": [
+        {
+            "word": "integer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "non"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "teger (tangere)",
+                    "meaning": {
+                        "ko": "만지다",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "触碰",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'만져지지 않은', 즉 '손상되지 않고 온전한' 상태를 의미합니다. 여기서 수학의 '정수(整數)'라는 뜻이 나왔습니다.",
+                "en": "'Untouched', meaning a state of being undamaged and whole. This gives rise to the mathematical meaning 'whole number'.",
+                "ja": "'触れられていない'、つまり'傷つかず完全な'状態を意味します。ここから数学の'整数'という意味が生まれました。",
+                "zh": "'未被触碰的'，即'未受损且完整的'状态。由此产生了数学中'整数'的含义。",
+                "fr": "'Non touché', c'est-à-dire un état d'intégrité et de complétude. D'où le sens mathématique de 'nombre entier'."
+            },
+            "example": "-3, 0, and 5 are all integers.",
+            "translation": {
+                "ko": "-3, 0, 5는 모두 정수이다.",
+                "ja": "-3、0、5はすべて整数です。",
+                "zh": "-3、0和5都是整数。",
+                "fr": "-3, 0 et 5 sont tous des nombres entiers."
+            }
+        },
+        {
+            "word": "intact",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négatif"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tact",
+                    "meaning": {
+                        "ko": "만지다",
+                        "en": "to touch",
+                        "ja": "触る",
+                        "zh": "触摸",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'만져지지 않은' 즉, '아무도 손대지 않은' 상태라는 의미에서 '온전한', '손상되지 않은'이라는 뜻입니다.",
+                "en": "Meaning 'not touched', i.e., 'untouched by anyone', thus signifying 'whole', 'undamaged'.",
+                "ja": "「触られていない」つまり「誰も手を付けていない」状態を意味し、「完全な」「損傷されていない」という意味です。",
+                "zh": "意为'未被触碰'，即'没有人接触过'的状态，因此表示'完整的''未受损的'。",
+                "fr": "Signifiant 'non touché', c'est-à-dire 'intouché par personne', désignant ainsi 'entier', 'non endommagé'."
+            },
+            "example": "The vase remained intact after the earthquake.",
+            "translation": {
+                "ko": "그 꽃병은 지진 후에도 온전했다.",
+                "ja": "地震の後、花瓶は無傷のままでした。",
+                "zh": "地震后，花瓶保持完好无损。",
+                "fr": "Le vase est resté intact après le tremblement de terre."
+            }
+        },
+        {
+            "word": "attain",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "at- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "~へ",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tain (tangere)",
+                    "meaning": {
+                        "ko": "만지다",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "触碰",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "목표 등에 '손을 대다', '도달하다'는 의미에서, 노력하여 '얻다', '달성하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'laying hands on a target' or 'reaching,' it came to mean 'obtain' or 'achieve' through effort.",
+                "ja": "目標などに「手を当てる」「到達する」という意味から、努力して「得る」「達成する」という意味になりました。",
+                "zh": "从「伸手触碰目标」或「到达」的含义，演变为通过努力「获得」或「实现」的意思。",
+                "fr": "Du sens de 'poser la main sur une cible' ou 'atteindre', il a évolué pour signifier 'obtenir' ou 'accomplir' par l'effort."
+            },
+            "example": "She worked hard to attain her goals.",
+            "translation": {
+                "ko": "그녀는 목표를 달성하기 위해 열심히 일했다.",
+                "ja": "彼女は自分の目標を達成するために一生懸命働いた。",
+                "zh": "她努力工作以实现她的目标。",
+                "fr": "Elle a travaillé dur pour atteindre ses objectifs."
+            }
+        },
+        {
+            "word": "tangible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tang",
+                    "meaning": {
+                        "ko": "만지다",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "触摸",
+                        "fr": "toucher"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "~할 수 있는",
+                        "en": "able to be",
+                        "ja": "〜できる",
+                        "zh": "能够被",
+                        "fr": "pouvoir être"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'만질 수 있는'이라는 의미에서 '유형의', '실체가 있는'이라는 뜻입니다.",
+                "en": "From the sense of 'able to be touched' comes the meaning 'physical' or 'concrete'",
+                "ja": "'触れることができる'という意味から、'物質的な'、'具体的な'という意味になります。",
+                "zh": "从'能够被触摸'的意义引申出'有形的'、'具体的'的含义。",
+                "fr": "Du sens « pouvoir être touché » vient la signification « physique » ou « concret »."
+            },
+            "example": "We need tangible proof, not just theories.",
+            "translation": {
+                "ko": "우리는 이론뿐만 아니라 만질 수 있는 증거가 필요하다.",
+                "ja": "私たちは理論ではなく、触れられる証拠が必要です。",
+                "zh": "我们需要具体的证据，而不仅仅是理论。",
+                "fr": "Nous avons besoin de preuves tangibles, pas seulement de théories."
+            }
+        },
+        {
+            "word": "contaminate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "taminare",
+                    "meaning": {
+                        "ko": "더럽히다",
+                        "en": "to defile",
+                        "ja": "汚す",
+                        "zh": "污染",
+                        "fr": "souiller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 contaminare는 '함께 만져서 더럽히다'는 의미로, 어원적으로 tangere와 관련이 있습니다. '오염시키다', '더럽히다'는 뜻입니다.",
+                "en": "Latin contaminare means 'to defile by touching together,' related etymologically to tangere. Means 'to pollute' or 'to defile.'",
+                "ja": "ラテン語のcontaminareは「一緒に触れて汚す」という意味で、語源的にはtangereと関連しています。「汚染させる」「汚す」という意味です。",
+                "zh": "拉丁语contaminare意为\"一起接触而污染\"，在词源上与tangere相关。意思是\"使受污染\"或\"弄脏\"。",
+                "fr": "Le latin contaminare signifie « souiller en touchant ensemble », étymologiquement lié à tangere. Cela veut dire « polluer » ou « souiller »."
+            },
+            "example": "The river was contaminated with chemicals.",
+            "translation": {
+                "ko": "그 강은 화학 물질로 오염되었다.",
+                "ja": "その川は化学物質で汚染されていた。",
+                "zh": "那条河被化学物质污染了。",
+                "fr": "La rivière était contaminée par des produits chimiques."
+            }
+        },
+        {
+            "word": "tactile",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tact",
+                    "meaning": {
+                        "ko": "만지다",
+                        "en": "to touch",
+                        "ja": "触る",
+                        "zh": "触摸",
+                        "fr": "toucher"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ile",
+                    "meaning": {
+                        "ko": "~에 관련된",
+                        "en": "related to",
+                        "ja": "~に関連した",
+                        "zh": "与~相关的",
+                        "fr": "relatif à ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'만지는 것과 관련된'이라는 의미에서 '촉각의'라는 뜻입니다.",
+                "en": "From the idea of 'relating to touching,' meaning 'of the sense of touch.'",
+                "ja": "『触ることに関連する』という意味から、『触覚の』という意味になります。",
+                "zh": "从'与触摸相关'的概念引申出'触觉的'之意。",
+                "fr": "Du concept 'relatif au toucher', signifiant 'relatif au sens du toucher'."
+            },
+            "example": "Braille is a tactile writing system.",
+            "translation": {
+                "ko": "점자는 촉각을 이용한 문자 체계이다.",
+                "ja": "点字は触覚を使った文字体系です。",
+                "zh": "盲文是一种触觉书写系统。",
+                "fr": "Le braille est un système d'écriture tactile."
+            }
+        },
+        {
+            "word": "entire",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négatif"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tire (integer)",
+                    "meaning": {
+                        "ko": "손상된",
+                        "en": "damaged",
+                        "ja": "損傷された",
+                        "zh": "损伤的",
+                        "fr": "endommagé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손상되지 않은'을 의미하는 라틴어 integer에서 유래했습니다. '아무것도 빠지지 않은'이라는 의미에서 '전체의', '완전한'이라는 뜻입니다.",
+                "en": "From Latin 'integer' meaning 'unharmed.' Originally 'nothing missing,' evolving to mean 'whole' or 'complete.'",
+                "ja": "ラテン語の「integer」(損傷されていない)に由来します。「何も欠けていない」という意味から「全体の」「完全な」という意味に進化しました。",
+                "zh": "源自拉丁语\"integer\"（未损伤的）。从\"nothing missing\"（一无所缺）的原意演变为\"整体的\"\"完整的\"之意。",
+                "fr": "Du latin « integer » signifiant « indemne ». Du sens original « rien ne manque » à celui de « entier » ou « complet »."
+            },
+            "example": "I ate the entire pizza by myself.",
+            "translation": {
+                "ko": "나는 혼자서 피자 전체를 다 먹었다.",
+                "ja": "私は一人でピザ全体を食べた。",
+                "zh": "我独自吃完了整个披萨。",
+                "fr": "J'ai mangé la pizza entière toute seule."
+            }
+        },
+        {
+            "word": "intangible",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tang",
+                    "meaning": {
+                        "ko": "만지다",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "触摸",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'만질 수 없는'이라는 의미에서 '무형의'라는 뜻입니다.",
+                "en": "From the sense of 'unable to be touched' comes the meaning 'intangible' or 'immaterial'.",
+                "ja": "「触れることができない」という意味から「無形の」という意味が生まれました。",
+                "zh": "从「无法触摸」的意思演变为「无形的」或「非物质的」意思。",
+                "fr": "Du sens « impossible à toucher » vient le sens « immatériel » ou « incorporel »."
+            },
+            "example": "Goodwill is an intangible asset of a company.",
+            "translation": {
+                "ko": "신용은 회사의 무형 자산이다.",
+                "ja": "のれんは会社の無形資産である。",
+                "zh": "商誉是公司的无形资产。",
+                "fr": "Le goodwill est un actif immatériel d'une entreprise."
+            }
+        },
+        {
+            "word": "tax",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tax (taxare)",
+                    "meaning": {
+                        "ko": "평가하다, 부과하다",
+                        "en": "to assess",
+                        "ja": "評価する、課す",
+                        "zh": "评估、征税",
+                        "fr": "évaluer, imposer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 taxare는 '만져서 평가하다'는 의미의 tangere에서 유래했습니다. '세금을 부과하다' 또는 정신적, 육체적으로 '힘들게 하다'는 뜻입니다.",
+                "en": "Latin taxare derives from tangere meaning 'to touch and assess'. It means 'to impose a tax' or to strain mentally or physically.",
+                "ja": "ラテン語の taxare は『触って評価する』という意味の tangere に由来します。『税金を課す』または精神的、肉体的に『負担をかける』という意味です。",
+                "zh": "拉丁语 taxare 源自 tangere，意为'触摸并评估'。意思是'征税'或在精神上、身体上'使其疲劳'。",
+                "fr": "Le latin taxare dérive de tangere signifiant 'toucher et évaluer'. Il signifie 'imposer un impôt' ou 'fatiguer' mentalement ou physiquement."
+            },
+            "example": "The long hike taxed my strength.",
+            "translation": {
+                "ko": "그 긴 하이킹은 내 체력을 힘들게 했다.",
+                "ja": "長いハイキングは私の体力を消耗させた。",
+                "zh": "长途登山消耗了我的体力。",
+                "fr": "La longue randonnée a épuisé mes forces."
+            }
+        },
+        {
+            "word": "tact",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tact",
+                    "meaning": {
+                        "ko": "만지는 감각",
+                        "en": "sense of touch",
+                        "ja": "触覚",
+                        "zh": "触觉",
+                        "fr": "sens du toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'섬세하게 만지는 감각'이라는 의미에서, 사람을 대할 때의 '재치', '요령', '눈치'를 뜻하게 되었습니다.",
+                "en": "From the sense of delicate touch, came to mean diplomatic skill and sensitivity in dealing with people.",
+                "ja": "繊細に触れる感覚から、人付き合いの際の『気配り』『センス』『気遣い』という意味になりました。",
+                "zh": "从'细微的触觉'的意思演变为与人交往时的'机智''手腕''察言观色'的含义。",
+                "fr": "Du sens du toucher délicat, il en vint à signifier le doigté, la diplomatie et la sensibilité dans les relations humaines."
+            },
+            "example": "He showed great tact in handling the situation.",
+            "translation": {
+                "ko": "그는 그 상황을 처리하는 데 대단한 재치를 보였다.",
+                "ja": "彼はその状況への対処において大きな気配りを示した。",
+                "zh": "他在处理这种情况时表现出了极大的机智。",
+                "fr": "Il a fait preuve d'un grand doigté en gérant la situation."
+            }
+        },
+        {
+            "word": "contact",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tact",
+                    "meaning": {
+                        "ko": "만지다",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "触摸",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 만나는 것'이라는 의미에서 '접촉', '연락'을 뜻합니다.",
+                "en": "From the meaning of 'meeting together', it came to mean 'touch' or 'communication'.",
+                "ja": "「一緒に会う」という意味から、「接触」「連絡」を意味するようになりました。",
+                "zh": "从「一起见面」的意思演变为「接触」「联系」的含义。",
+                "fr": "Du sens de « se rencontrer ensemble », il en vient à signifier « toucher » ou « communication »."
+            },
+            "example": "Please keep in contact.",
+            "translation": {
+                "ko": "계속 연락하고 지내요.",
+                "ja": "連絡を取り続けてください。",
+                "zh": "请保持联系。",
+                "fr": "Veuillez rester en contact."
+            }
+        },
+        {
+            "word": "tangent",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tang",
+                    "meaning": {
+                        "ko": "만지다",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "接触",
+                        "fr": "toucher"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ent",
+                    "meaning": {
+                        "ko": "~하는",
+                        "en": "that does",
+                        "ja": "〜する",
+                        "zh": "〜的",
+                        "fr": "~ant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "곡선에 '한 점에서 만나는'이라는 의미에서 기하학의 '접선의'라는 뜻입니다. 'go off on a tangent'는 '주제에서 벗어나다'는 뜻입니다.",
+                "en": "From the geometric meaning 'touching a curve at one point.' 'Go off on a tangent' means 'to deviate from the topic.'",
+                "ja": "曲線に『一点で接する』という意味から、幾何学の『接線の』という意味です。'go off on a tangent'は『話題から外れる』という意味です。",
+                "zh": "从'在曲线上一点相切'的含义引申，表示几何学中'切线的'之意。'go off on a tangent'表示'偏离主题'。",
+                "fr": "Du sens géométrique 'touchant une courbe en un point.' 'Go off on a tangent' signifie 'dévier du sujet.'"
+            },
+            "example": "The road is tangent to the circle.",
+            "translation": {
+                "ko": "그 도로는 원에 접한다.",
+                "ja": "その道は円に接している。",
+                "zh": "那条路与圆相切。",
+                "fr": "La route est tangente au cercle."
+            }
+        },
+        {
+            "word": "contiguous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tig (tangere)",
+                    "meaning": {
+                        "ko": "만지다",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "接触",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 함께 맞닿아 있는'이라는 의미에서, 국경이나 땅이 '인접한', '접촉하는'이라는 뜻입니다.",
+                "en": "From the sense of 'touching together mutually', meaning 'adjacent' or 'touching' for borders or land.",
+                "ja": "相互に接して接触している意味から、国境や土地が隣接している、接触しているという意味です。",
+                "zh": "从相互接触在一起的意思，指国界或土地相邻、接触的含义。",
+                "fr": "Du sens de 'se toucher ensemble mutuellement', signifiant 'adjacent' ou 'en contact' pour les frontières ou les terres."
+            },
+            "example": "The 48 contiguous states are in North America.",
+            "translation": {
+                "ko": "미국 본토의 48개 주는 북아메리카에 있다.",
+                "ja": "48の隣接する州は北米にあります。",
+                "zh": "48个相邻的州在北美。",
+                "fr": "Les 48 États contigus sont en Amérique du Nord."
+            }
+        },
+        {
+            "word": "contingent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ting (tangere)",
+                    "meaning": {
+                        "ko": "만지다, 일어나다",
+                        "en": "to touch, happen",
+                        "ja": "触れる、起こる",
+                        "zh": "接触、发生",
+                        "fr": "toucher, survenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 일과 함께 일어나는'이라는 의미에서, '~을 조건으로 하는', '~에 달려 있는'이라는 뜻과 '파견단'이라는 뜻이 있습니다.",
+                "en": "From the sense of 'happening together with something,' it means 'conditional on' or 'dependent on,' and also 'a group sent on a mission.'",
+                "ja": "「何かと一緒に起こる」という意味から、「～を条件とする」「～に左右される」という意味と、「派遣団」という意味があります。",
+                "zh": "从\"与某事一起发生\"的含义出发，具有\"以~为条件\"\"取决于~\"的意思，以及\"派遣团\"的意思。",
+                "fr": "Du sens de 'se produire avec quelque chose', il signifie 'conditionnel à' ou 'dépendant de', et aussi 'groupe envoyé en mission'."
+            },
+            "example": "Our trip is contingent on the weather.",
+            "translation": {
+                "ko": "우리의 여행은 날씨에 달려 있다.",
+                "ja": "私たちの旅は天気に左右される。",
+                "zh": "我们的旅行取决于天气。",
+                "fr": "Notre voyage dépend de la météo."
+            }
+        }
+    ]
+}

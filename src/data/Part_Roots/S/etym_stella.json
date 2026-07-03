@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "stella (star) constellation, interstellar, stellar",
+        "origin": "Latin, stella (a star)",
+        "meaning": {
+            "ko": "별",
+            "en": "a star",
+            "ja": "星",
+            "zh": "星",
+            "fr": "étoile"
+        }
+    },
+    "words": [
+        {
+            "word": "constellation",
+            "part_of_speech": "",
+            "origin": "Latin, constellatio (a set of stars)",
+            "meaning": {
+                "ko": "별들의 집합",
+                "en": "collection of stars",
+                "ja": "星々の集合",
+                "zh": "星星的集合",
+                "fr": "ensemble d'étoiles"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stella-",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "星星",
+                        "fr": "étoile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밤하늘에 함께 모여 있는 별들의 무리'인 '별자리'를 뜻합니다.",
+                "en": "A group of stars that appear together in the night sky; a constellation",
+                "ja": "夜空に一緒に集まっている星々の群れ",
+                "zh": "聚集在夜空中的星星群",
+                "fr": "groupe d'étoiles regroupées dans le ciel nocturne"
+            },
+            "example": "Orion is a well-known constellation.",
+            "translation": {
+                "ko": "오리온은 잘 알려진 별자리이다.",
+                "ja": "オリオン座は有名な星座です。",
+                "zh": "猎户座是一个著名的星座。",
+                "fr": "Orion est une constellation bien connue."
+            }
+        },
+        {
+            "word": "interstellar",
+            "part_of_speech": "",
+            "origin": "Latin, inter- (between) + stella (star)",
+            "meaning": {
+                "ko": "별들 사이",
+                "en": "between the stars",
+                "ja": "星と星の間",
+                "zh": "星与星之间",
+                "fr": "entre les étoiles"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "'사이에'",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stellar",
+                    "meaning": {
+                        "ko": "'별의'",
+                        "en": "of stars",
+                        "ja": "星の",
+                        "zh": "星的",
+                        "fr": "de l'étoile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별과 별 사이에 있는'이라는 뜻입니다.",
+                "en": "Meaning existing between stars",
+                "ja": "星と星の間に存在するという意味です",
+                "zh": "表示存在于星与星之间的含义",
+                "fr": "Signifie existant entre les étoiles"
+            },
+            "example": "Interstellar dust fills the space between stars.",
+            "translation": {
+                "ko": "성간 먼지는 별들 사이의 공간을 채운다.",
+                "ja": "星間塵は星の間の空間を満たしている。",
+                "zh": "星际尘埃充满了星与星之间的空间。",
+                "fr": "La poussière interstellaire remplit l'espace entre les étoiles."
+            }
+        },
+        {
+            "word": "stellar",
+            "part_of_speech": "",
+            "origin": "Latin, stellaris (of a star)",
+            "meaning": {
+                "ko": "별의",
+                "en": "of stars",
+                "ja": "星の、優れた",
+                "zh": "星的、杰出的",
+                "fr": "stellaire, remarquable"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stella-",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "星",
+                        "fr": "étoile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별의' 또는 '별처럼 뛰어난'이라는 뜻입니다.",
+                "en": "Means 'of stars' or 'outstanding like a star'",
+                "ja": "星に関する、または星のように優れているという意味",
+                "zh": "表示与星相关或像星一样杰出",
+                "fr": "Signifie 'relatif aux étoiles' ou 'remarquable comme une étoile'"
+            },
+            "example": "She gave a stellar performance.",
+            "translation": {
+                "ko": "그녀는 별처럼 뛰어난 공연을 펼쳤다.",
+                "ja": "彼女は素晴らしいパフォーマンスを披露した",
+                "zh": "她表现出了杰出的表演",
+                "fr": "Elle a donné une performance remarquable"
+            }
+        }
+    ]
+}

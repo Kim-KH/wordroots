@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ster (person associated with) gangster, mobster, youngster",
+        "origin": "Old English, -estre",
+        "meaning": {
+            "ko": "…와 관련된 사람",
+            "en": "person associated with",
+            "ja": "…に関連した人",
+            "zh": "与…相关的人",
+            "fr": "personne associée à…"
+        }
+    },
+    "words": [
+        {
+            "word": "gangster",
+            "part_of_speech": "",
+            "origin": "English, gang + -ster",
+            "meaning": {
+                "ko": "갱단의 일원",
+                "en": "member of a gang",
+                "ja": "ギャングの一員",
+                "zh": "帮派成员",
+                "fr": "membre d'un gang"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gang",
+                    "meaning": {
+                        "ko": "'갱단'",
+                        "en": "gang",
+                        "ja": "ギャング",
+                        "zh": "帮派",
+                        "fr": "gang"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ster",
+                    "meaning": {
+                        "ko": "'~에 관련된 사람'",
+                        "en": "person related to",
+                        "ja": "~に関わる人",
+                        "zh": "与~有关的人",
+                        "fr": "personne liée à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'범죄 조직(gang)의 일원'을 뜻합니다.",
+                "en": "A member of a criminal organization (gang)",
+                "ja": "犯罪組織(gang)の一員を意味します",
+                "zh": "意为犯罪组织(gang)的成员",
+                "fr": "Désigne un membre d'une organisation criminelle (gang)"
+            },
+            "example": "Al Capone was a famous gangster.",
+            "translation": {
+                "ko": "알 카포네는 유명한 갱스터였다.",
+                "ja": "ギャングスター",
+                "zh": "黑帮分子",
+                "fr": "gangster"
+            }
+        },
+        {
+            "word": "mobster",
+            "part_of_speech": "",
+            "origin": "English, mob + -ster",
+            "meaning": {
+                "ko": "폭도 집단의 일원",
+                "en": "member of a criminal gang",
+                "ja": "暴力団員",
+                "zh": "黑帮分子",
+                "fr": "membre du crime organisé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mob",
+                    "meaning": {
+                        "ko": "'폭도, 범죄 조직'",
+                        "en": "mobster, criminal organization",
+                        "ja": "暴力団、犯罪組織",
+                        "zh": "黑帮、犯罪组织",
+                        "fr": "gang, organisation criminelle"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ster",
+                    "meaning": {
+                        "ko": "'~에 관련된 사람'",
+                        "en": "person related to",
+                        "ja": "~に関連した人",
+                        "zh": "与~相关的人",
+                        "fr": "personne liée à ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마피아와 같은 범죄 조직(mob)의 일원'을 뜻합니다.",
+                "en": "A member of a criminal organization like the mafia",
+                "ja": "マフィアのような犯罪組織(mob)の一員を意味します",
+                "zh": "指黑手党等犯罪组织(mob)的成员",
+                "fr": "Membre d'une organisation criminelle comme la mafia"
+            },
+            "example": "The movie is about a group of mobsters in New York.",
+            "translation": {
+                "ko": "그 영화는 뉴욕의 한 폭력단에 관한 것이다.",
+                "ja": "この映画はニューヨークの暴力団員グループについてです",
+                "zh": "这部电影讲述了纽约黑帮分子团伙的故事",
+                "fr": "Le film parle d'un groupe de gangsters à New York"
+            }
+        },
+        {
+            "word": "youngster",
+            "part_of_speech": "",
+            "origin": "English, young + -ster",
+            "meaning": {
+                "ko": "젊은 사람",
+                "en": "a young person",
+                "ja": "若い人",
+                "zh": "年轻人",
+                "fr": "jeune personne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "young",
+                    "meaning": {
+                        "ko": "'젊은'",
+                        "en": "young",
+                        "ja": "若い",
+                        "zh": "年轻的",
+                        "fr": "jeune"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ster",
+                    "meaning": {
+                        "ko": "'사람'",
+                        "en": "person",
+                        "ja": "人",
+                        "zh": "人",
+                        "fr": "personne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'젊은 사람', '어린이'를 뜻합니다.",
+                "en": "Means a young person or child",
+                "ja": "若い人、子どもを意味します",
+                "zh": "表示年轻人或儿童",
+                "fr": "Signifie une jeune personne ou un enfant"
+            },
+            "example": "The park was full of youngsters playing.",
+            "translation": {
+                "ko": "공원은 놀고 있는 아이들로 가득했다.",
+                "ja": "公園は遊んでいる若い人でいっぱいでした。",
+                "zh": "公园里到处都是玩耍的年轻人。",
+                "fr": "Le parc était rempli de jeunes personnes qui jouaient."
+            }
+        }
+    ]
+}

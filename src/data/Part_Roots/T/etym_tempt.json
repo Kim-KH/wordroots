@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "tempt (touch) attempt, contempt, temptation",
+        "origin": "Latin, temptare (to touch, to try)",
+        "meaning": {
+            "ko": "시도하다",
+            "en": "to try",
+            "ja": "試みる",
+            "zh": "尝试",
+            "fr": "essayer"
+        }
+    },
+    "words": [
+        {
+            "word": "attempt",
+            "part_of_speech": "",
+            "origin": "Latin, attemptare (to try, to assail)",
+            "meaning": {
+                "ko": "시도하다, 공격하다",
+                "en": "to try, to attack",
+                "ja": "試みる、攻撃する",
+                "zh": "尝试、攻击",
+                "fr": "tenter, attaquer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "at- (ad-)",
+                    "meaning": {
+                        "ko": "'~을 향하여'",
+                        "en": "to",
+                        "ja": "～に向かって",
+                        "zh": "朝向～",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tempt",
+                    "meaning": {
+                        "ko": "'시도하다'",
+                        "en": "to try",
+                        "ja": "試みる",
+                        "zh": "尝试",
+                        "fr": "essayer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것을 향해 시도하다'는 의미입니다.",
+                "en": "Means to try something directed toward a goal",
+                "ja": "ある目標に向かって試みるという意味です",
+                "zh": "表示朝着某个目标进行尝试的意思",
+                "fr": "Signifie essayer quelque chose dirigé vers un objectif"
+            },
+            "example": "He made an attempt to escape.",
+            "translation": {
+                "ko": "그는 탈출을 시도했다.",
+                "ja": "彼は逃げることを試みた。",
+                "zh": "他试图逃脱。",
+                "fr": "Il a tenté de s'échapper."
+            }
+        },
+        {
+            "word": "contempt",
+            "part_of_speech": "",
+            "origin": "Latin, contemnere (to despise)",
+            "meaning": {
+                "ko": "경멸하다",
+                "en": "to despise or scorn",
+                "ja": "軽蔑",
+                "zh": "轻蔑",
+                "fr": "mépris"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "강조",
+                        "en": "",
+                        "ja": "強調",
+                        "zh": "强调",
+                        "fr": "emphase"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tempt- (temnere)",
+                    "meaning": {
+                        "ko": "'경멸하다'",
+                        "en": "to scorn",
+                        "ja": "軽蔑する",
+                        "zh": "轻视",
+                        "fr": "mépriser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상대를 완전히 얕보고 무시하는' 감정인 '경멸'을 뜻합니다.",
+                "en": "Contempt refers to the emotion of completely looking down upon and disregarding another person.",
+                "ja": "相手を完全に見下し無視する感情の軽蔑を意味します。",
+                "zh": "指对他人完全看不起和忽视的情感蔑视。",
+                "fr": "Désigne le sentiment de mépriser complètement et d'ignorer une autre personne."
+            },
+            "example": "She looked at him with contempt.",
+            "translation": {
+                "ko": "그녀는 경멸의 눈초리로 그를 쳐다보았다.",
+                "ja": "彼女は軽蔑のまなざしで彼を見た。",
+                "zh": "她用轻蔑的眼神看着他。",
+                "fr": "Elle le regarda avec mépris."
+            }
+        },
+        {
+            "word": "temptation",
+            "part_of_speech": "",
+            "origin": "Latin, temptatio (a trial)",
+            "meaning": {
+                "ko": "시도, 시험",
+                "en": "attempt, trial",
+                "ja": "誘惑、試み",
+                "zh": "诱惑、试探",
+                "fr": "tentation, séduction"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tempt-",
+                    "meaning": {
+                        "ko": "'시험하다'",
+                        "en": "to test, try",
+                        "ja": "試す、試験する",
+                        "zh": "测试、尝试",
+                        "fr": "tester, essayer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'옳지 않은 일을 하도록 마음을 시험하는' '유혹'을 뜻합니다.",
+                "en": "Means 'temptation' that tests one's mind to do wrong things",
+                "ja": "悪いことをするように心を試す'誘惑'を意味します",
+                "zh": "指测试人心去做坏事的'诱惑'",
+                "fr": "Signifie la 'tentation' qui teste l'esprit à faire de mauvaises choses"
+            },
+            "example": "He could not resist the temptation to eat the cake.",
+            "translation": {
+                "ko": "그는 케이크를 먹고 싶은 유혹을 이기지 못했다.",
+                "ja": "彼はケーキを食べたいという誘惑に抵抗できなかった。",
+                "zh": "他无法抗拒吃蛋糕的诱惑。",
+                "fr": "Il ne pouvait pas résister à la tentation de manger le gâteau."
+            }
+        }
+    ]
+}

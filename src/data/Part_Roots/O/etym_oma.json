@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "oma (swelling, tumor) carcinoma, glaucoma, hematoma",
+        "origin": "Greek, -oma (tumor, swelling)",
+        "meaning": {
+            "ko": "종양",
+            "en": "tumor",
+            "ja": "腫瘍",
+            "zh": "肿瘤",
+            "fr": "tumeur"
+        }
+    },
+    "words": [
+        {
+            "word": "carcinoma",
+            "part_of_speech": "",
+            "origin": "Greek, karkinoma (a cancer)",
+            "meaning": {
+                "ko": "게, 암",
+                "en": "crab, cancer",
+                "ja": "がん、悪性腫瘍",
+                "zh": "癌、恶性肿瘤",
+                "fr": "cancer, tumeur maligne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carcin-",
+                    "meaning": {
+                        "ko": "'게, 암'",
+                        "en": "cancer",
+                        "ja": "がん",
+                        "zh": "癌",
+                        "fr": "cancer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-oma",
+                    "meaning": {
+                        "ko": "'종양'",
+                        "en": "tumor",
+                        "ja": "腫瘍",
+                        "zh": "肿瘤",
+                        "fr": "tumeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상피 세포에서 발생하는 악성 종양'인 '암종'을 뜻합니다.",
+                "en": "Malignant tumor arising from epithelial cells",
+                "ja": "上皮細胞に発生する悪性腫瘍",
+                "zh": "上皮细胞中发生的恶性肿瘤",
+                "fr": "tumeur maligne provenant de cellules épithéliales"
+            },
+            "example": "Lung carcinoma is a common type of cancer.",
+            "translation": {
+                "ko": "폐암종은 흔한 종류의 암이다.",
+                "ja": "肺がん種は一般的ながんの種類です。",
+                "zh": "肺癌是常见的癌症类型。",
+                "fr": "Le carcinome pulmonaire est un type de cancer courant."
+            }
+        },
+        {
+            "word": "glaucoma",
+            "part_of_speech": "",
+            "origin": "Greek, glaukoma (opacity of the lens)",
+            "meaning": {
+                "ko": "렌즈의 혼탁",
+                "en": "cloudiness of the lens",
+                "ja": "レンズの混濁",
+                "zh": "晶状体浑浊",
+                "fr": "opacité du cristallin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "glauc-",
+                    "meaning": {
+                        "ko": "'회청색의'",
+                        "en": "grayish green",
+                        "ja": "灰青色の",
+                        "zh": "灰青色的",
+                        "fr": "gris-vert"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-oma",
+                    "meaning": {
+                        "ko": "'종양, 상태'",
+                        "en": "tumor, condition",
+                        "ja": "腫瘍、状態",
+                        "zh": "肿瘤、状态",
+                        "fr": "tumeur, état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "눈이 '회청색으로 보이는' 질병이라는 의미에서, 안압 상승으로 시신경이 손상되는 '녹내장'을 뜻합니다.",
+                "en": "Disease where the eye appears grayish-blue, referring to glaucoma where optic nerve damage occurs due to elevated intraocular pressure.",
+                "ja": "目が『灰青色に見える』病気という意味で、眼圧上昇により視神経が損傷される『緑内障』を意味します。",
+                "zh": "眼睛『呈灰青色』的疾病之意，指由眼压升高引起视神经损伤的『青光眼』。",
+                "fr": "Maladie où l'œil apparaît gris-bleu, désignant le glaucome où le nerf optique est endommagé par une pression intraoculaire élevée."
+            },
+            "example": "Glaucoma can lead to blindness if left untreated.",
+            "translation": {
+                "ko": "녹내장은 치료하지 않고 방치하면 실명으로 이어질 수 있다.",
+                "ja": "緑内障",
+                "zh": "青光眼",
+                "fr": "glaucome"
+            }
+        },
+        {
+            "word": "hematoma",
+            "part_of_speech": "",
+            "origin": "Greek, haima (blood) + -oma (tumor)",
+            "meaning": {
+                "ko": "피의 종양",
+                "en": "blood tumor or swelling",
+                "ja": "血液の腫瘍",
+                "zh": "血液肿瘤",
+                "fr": "tumeur de sang"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hemat-",
+                    "meaning": {
+                        "ko": "'피'",
+                        "en": "blood",
+                        "ja": "血液",
+                        "zh": "血液",
+                        "fr": "sang"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-oma",
+                    "meaning": {
+                        "ko": "'종양, 덩어리'",
+                        "en": "tumor or mass",
+                        "ja": "腫瘍、塊",
+                        "zh": "肿瘤、块",
+                        "fr": "tumeur, masse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피가 조직 내에 고여서 생긴 덩어리'인 '혈종'을 뜻합니다.",
+                "en": "A hematoma is a localized collection of blood in tissues caused by bleeding.",
+                "ja": "血腫とは、出血により組織内に溜まった局所的な血液の集まりです。",
+                "zh": "血肿是指出血导致血液在组织内局部积聚的情况。",
+                "fr": "Un hématome est une accumulation localisée de sang dans les tissus causée par un saignement."
+            },
+            "example": "He developed a large hematoma on his forehead after the fall.",
+            "translation": {
+                "ko": "그는 넘어진 후 이마에 큰 혈종이 생겼다.",
+                "ja": "落下後、彼の額に大きな血腫ができた。",
+                "zh": "跌倒后，他的额头上形成了一个大血肿。",
+                "fr": "Il a développé un grand hématome sur son front après la chute."
+            }
+        }
+    ]
+}

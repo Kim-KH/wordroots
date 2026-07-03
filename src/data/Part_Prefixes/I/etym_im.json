@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "im (not) immaculate, immediate, immature, immobile, impractical",
+        "origin": "Latin, in- (not)",
+        "meaning": {
+            "ko": "부정",
+            "en": "not",
+            "ja": "否定",
+            "zh": "否定",
+            "fr": "négation"
+        }
+    },
+    "words": [
+        {
+            "word": "immaculate",
+            "part_of_speech": "",
+            "origin": "Latin, immaculatus (unstained)",
+            "meaning": {
+                "ko": "얼룩 없는",
+                "en": "without stains or spots",
+                "ja": "汚れのない",
+                "zh": "无污点的",
+                "fr": "sans tache"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "'없는'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "没有",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "maculate (macula)",
+                    "meaning": {
+                        "ko": "'얼룩, 점'",
+                        "en": "spot, stain",
+                        "ja": "しみ、斑点",
+                        "zh": "污点、斑点",
+                        "fr": "tache, souillure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'얼룩이 하나도 없는'이라는 의미에서 '티 없이 깨끗한', '오점 없는'이라는 뜻이 되었습니다.",
+                "en": "From the meaning 'not having any stains or spots' it came to mean 'spotlessly clean' or 'without blemish'",
+                "ja": "汚れが全くないという意味から、傷のない清潔さ、または欠点がないという意味になりました",
+                "zh": "从没有任何污点的意思演变为完全清洁或没有污点的含义",
+                "fr": "Du sens 'sans aucune tache' il est devenu 'propre et immaculé' ou 'sans défaut'"
+            },
+            "example": "She was wearing an immaculate white dress.",
+            "translation": {
+                "ko": "그녀는 티 없이 깨끗한 흰 드레스를 입고 있었다.",
+                "ja": "彼女は汚れのない白いドレスを着ていました",
+                "zh": "她穿着无污点的白色连衣裙",
+                "fr": "Elle portait une robe blanche immaculée"
+            }
+        },
+        {
+            "word": "immediate",
+            "part_of_speech": "",
+            "origin": "Late Latin, immediatus (without anything between)",
+            "meaning": {
+                "ko": "사이에 아무것도 없는",
+                "en": "nothing between",
+                "ja": "即座の、直接的な",
+                "zh": "立即的、直接的",
+                "fr": "immédiat, direct"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "'없는'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "没有",
+                        "fr": "pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mediate (medius)",
+                    "meaning": {
+                        "ko": "'중간의'",
+                        "en": "middle",
+                        "ja": "中間の",
+                        "zh": "中间的",
+                        "fr": "intermédiaire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'중간에 아무것도 끼어들지 않은'이라는 의미에서 '즉각적인', '직접적인'이라는 뜻이 되었습니다.",
+                "en": "From the meaning 'nothing intervening in the middle' came to mean 'instant' or 'direct'",
+                "ja": "中間に何も介在していないという意味から、即座的、直接的という意味になりました",
+                "zh": "从中间没有任何东西介入的含义演变为立即的、直接的含义",
+                "fr": "Du sens 'rien n'intervient au milieu' est devenu 'instantané' ou 'direct'"
+            },
+            "example": "The problem requires immediate attention.",
+            "translation": {
+                "ko": "그 문제는 즉각적인 주의를 요한다.",
+                "ja": "その問題は即座の対応が必要です。",
+                "zh": "这个问题需要立即的关注。",
+                "fr": "Le problème nécessite une attention immédiate."
+            }
+        },
+        {
+            "word": "immature",
+            "part_of_speech": "",
+            "origin": "Latin, immaturus (untimely)",
+            "meaning": {
+                "ko": "시기상조의",
+                "en": "premature or inopportune",
+                "ja": "未成熟な",
+                "zh": "不成熟的",
+                "fr": "immature"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "'아닌'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mature",
+                    "meaning": {
+                        "ko": "'성숙한'",
+                        "en": "ripe, mature",
+                        "ja": "成熟した",
+                        "zh": "成熟的",
+                        "fr": "mûr"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아직 성숙하지 않은'이라는 의미에서 '미숙한', '다 자라지 못한'이라는 뜻으로 쓰입니다.",
+                "en": "Used to mean 'not yet mature', 'underdeveloped', or 'not fully grown'",
+                "ja": "まだ成熟していない、未発達、まだ十分に成長していないという意味で使われます",
+                "zh": "表示'尚未成熟'、'发育不完全'或'未充分长大'的意思",
+                "fr": "Signifie 'pas encore mûr', 'sous-développé' ou 'pas assez grandi'"
+            },
+            "example": "He is emotionally immature for his age.",
+            "translation": {
+                "ko": "그는 나이에 비해 정서적으로 미숙하다.",
+                "ja": "彼は年齢の割に感情的に未成熟だ",
+                "zh": "他相对于他的年龄在情感上不成熟",
+                "fr": "Il est émotionnellement immature pour son âge"
+            }
+        },
+        {
+            "word": "immobile",
+            "part_of_speech": "",
+            "origin": "Latin, immobilis (immovable)",
+            "meaning": {
+                "ko": "움직일 수 없는",
+                "en": "unable to move",
+                "ja": "動かない",
+                "zh": "不动的",
+                "fr": "immobile"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "'않는'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "不",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mobile",
+                    "meaning": {
+                        "ko": "'움직이는'",
+                        "en": "movable",
+                        "ja": "動く",
+                        "zh": "移动的",
+                        "fr": "mobile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직일 수 없는'이라는 의미에서 '움직이지 않는', '고정된'이라는 뜻입니다.",
+                "en": "Meaning immovable, fixed, or not moving in the sense of unable to move.",
+                "ja": "動くことができない、固定されている、動かないという意味です。",
+                "zh": "表示无法移动、固定或静止不动的含义。",
+                "fr": "Signifie incapable de bouger, fixe ou sans mouvement."
+            },
+            "example": "The patient must remain immobile for several hours.",
+            "translation": {
+                "ko": "그 환자는 몇 시간 동안 움직이지 않고 있어야 한다.",
+                "ja": "患者は数時間動かないままでいる必要があります。",
+                "zh": "患者必须保持静止不动几个小时。",
+                "fr": "Le patient doit rester immobile pendant plusieurs heures."
+            }
+        },
+        {
+            "word": "impractical",
+            "part_of_speech": "",
+            "origin": "English, im- + practical",
+            "meaning": {
+                "ko": "실용적이지 않은",
+                "en": "not practical or useful",
+                "ja": "実用的でない",
+                "zh": "不实用的",
+                "fr": "peu pratique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "'않은'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "不",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "practical",
+                    "meaning": {
+                        "ko": "'실용적인'",
+                        "en": "practical",
+                        "ja": "実用的な",
+                        "zh": "实用的",
+                        "fr": "pratique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실용적이지 않은'이라는 의미에서 '비현실적인', '실용성이 없는'이라는 뜻입니다.",
+                "en": "Means impractical, lacking practicality",
+                "ja": "非現実的で、実用性がないという意味",
+                "zh": "意为不切实际，缺乏实用性",
+                "fr": "Signifie irréaliste, manquant de praticité"
+            },
+            "example": "His ideas were interesting but ultimately impractical.",
+            "translation": {
+                "ko": "그의 아이디어는 흥미로웠지만 결국 비현실적이었다.",
+                "ja": "彼のアイデアは興味深かったが、結局実用的ではなかった。",
+                "zh": "他的想法很有趣，但最终不实用。",
+                "fr": "Ses idées étaient intéressantes mais finalement peu pratiques."
+            }
+        }
+    ]
+}

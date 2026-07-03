@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "extra (additional) extracurricular, extraterrestrial, extraneous",
+        "origin": "Latin, extra (outside, beyond)",
+        "meaning": {
+            "ko": "밖의, ~을 넘어서",
+            "en": "outside, beyond",
+            "ja": "外側の、超えて",
+            "zh": "外面的、超越",
+            "fr": "extérieur, au-delà"
+        }
+    },
+    "words": [
+        {
+            "word": "extracurricular",
+            "part_of_speech": "",
+            "origin": "English, extra- + curricular",
+            "meaning": {
+                "ko": "교육과정 밖의",
+                "en": "outside the curriculum",
+                "ja": "教育課程外の",
+                "zh": "课程外的",
+                "fr": "extrascolaire"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "extra-",
+                    "meaning": {
+                        "ko": "'밖의'",
+                        "en": "outside of",
+                        "ja": "外側の",
+                        "zh": "外面的",
+                        "fr": "en dehors de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curricular (curriculum)",
+                    "meaning": {
+                        "ko": "'교육과정'",
+                        "en": "curriculum",
+                        "ja": "教育課程",
+                        "zh": "教育课程",
+                        "fr": "curriculum"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정규 교육과정 밖의'라는 의미에서 '과외의', '정규 과목 이외의'라는 뜻입니다.",
+                "en": "Meaning outside of the regular curriculum; refers to activities outside regular subjects",
+                "ja": "正規教育課程外という意味で、課外活動、正規科目以外という意味です",
+                "zh": "在正规教育课程之外的意思；指课外活动、正规科目以外",
+                "fr": "Signifie en dehors du curriculum régulier; fait référence aux activités en dehors des matières obligatoires"
+            },
+            "example": "She participates in many extracurricular activities.",
+            "translation": {
+                "ko": "그녀는 많은 과외 활동에 참여한다.",
+                "ja": "彼女は多くの課外活動に参加しています。",
+                "zh": "她参加了许多课外活动。",
+                "fr": "Elle participe à de nombreuses activités extrascolaires."
+            }
+        },
+        {
+            "word": "extraterrestrial",
+            "part_of_speech": "",
+            "origin": "English, extra- + terrestrial",
+            "meaning": {
+                "ko": "지구 밖의",
+                "en": "outside the Earth",
+                "ja": "地球外の",
+                "zh": "地球外的",
+                "fr": "extraterrestre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "extra-",
+                    "meaning": {
+                        "ko": "'밖의'",
+                        "en": "outside of",
+                        "ja": "外側の",
+                        "zh": "外面的",
+                        "fr": "en dehors de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terrestrial (terra)",
+                    "meaning": {
+                        "ko": "'지구의, 육지의'",
+                        "en": "of the earth",
+                        "ja": "地球の",
+                        "zh": "地球的",
+                        "fr": "de la terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지구 밖의'라는 의미에서 '외계의', '지구 밖 생명체'를 뜻합니다.",
+                "en": "Refers to something existing or originating outside Earth, often used to describe alien life forms",
+                "ja": "地球の外に存在する、または起源する何か。宇宙人や宇宙生命体を指す",
+                "zh": "指存在于地球外或来自地球外的事物，常用于描述外星生命",
+                "fr": "Désigne quelque chose qui existe ou provient de l'extérieur de la Terre, souvent utilisé pour décrire des formes de vie extraaliens"
+            },
+            "example": "The movie is about an extraterrestrial visitor.",
+            "translation": {
+                "ko": "그 영화는 외계 방문객에 관한 것이다.",
+                "ja": "映画は地球外からの訪問者についてのものです。",
+                "zh": "这部电影是关于地球外访客的。",
+                "fr": "Le film parle d'un visiteur extraterrestre."
+            }
+        },
+        {
+            "word": "extraneous",
+            "part_of_speech": "",
+            "origin": "Latin, extraneus (external, foreign)",
+            "meaning": {
+                "ko": "외부의, 외국의",
+                "en": "external, foreign",
+                "ja": "無関係な、余分な",
+                "zh": "无关的、多余的",
+                "fr": "sans rapport, superflu"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "extra",
+                    "meaning": {
+                        "ko": "'밖의'",
+                        "en": "outside",
+                        "ja": "外の、外部の",
+                        "zh": "外部的、外面的",
+                        "fr": "extérieur, dehors"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'외부에서 온'이라는 의미에서 주제나 상황과 '관련 없는', '이질적인'이라는 뜻으로 쓰입니다.",
+                "en": "From the meaning of 'coming from outside', it is used to mean 'unrelated to the topic or situation', 'foreign' or 'irrelevant'.",
+                "ja": "外部からの意味から、主題や状況と無関係、または異質という意味で使われます。",
+                "zh": "从外部来的意思引申，表示与主题或情况无关、异质的意思。",
+                "fr": "Du sens de 'venant de l'extérieur', il signifie sans rapport avec le sujet ou la situation, ou hétérogène."
+            },
+            "example": "Please omit any extraneous details from the report.",
+            "translation": {
+                "ko": "보고서에서 관련 없는 세부 사항은 모두 빼주세요.",
+                "ja": "レポートから無関係な詳細を削除してください。",
+                "zh": "请从报告中删除无关的细节。",
+                "fr": "Veuillez omettre tous les détails sans rapport du rapport."
+            }
+        }
+    ]
+}

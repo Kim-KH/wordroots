@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "typ (style, print) atypical, prototypical, typical, typography",
+        "origin": "Greek, typos (a blow, a mark, a type)",
+        "meaning": {
+            "ko": "유형",
+            "en": "a type",
+            "ja": "タイプ",
+            "zh": "类型",
+            "fr": "type"
+        }
+    },
+    "words": [
+        {
+            "word": "atypical",
+            "part_of_speech": "",
+            "origin": "Greek, a- (not) + typikos (of a type)",
+            "meaning": {
+                "ko": "유형이 아닌",
+                "en": "not conforming to type",
+                "ja": "型にはまらない",
+                "zh": "非典型的",
+                "fr": "atypique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "typical",
+                    "meaning": {
+                        "ko": "'전형적인'",
+                        "en": "characteristic or representative",
+                        "ja": "典型的な",
+                        "zh": "典型的",
+                        "fr": "typique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전형적이지 않은'이라는 의미에서 '이례적인'이라는 뜻입니다.",
+                "en": "Meaning unusual or not following the expected pattern",
+                "ja": "予想されるパターンに従わない珍しいという意味",
+                "zh": "表示不寻常或不遵循预期模式",
+                "fr": "Signifie inhabituel ou ne suivant pas le modèle attendu"
+            },
+            "example": "His behavior was atypical for him.",
+            "translation": {
+                "ko": "그의 행동은 그답지 않게 이례적이었다.",
+                "ja": "彼の振る舞いは彼にしては型にはまらなかった。",
+                "zh": "他的行为对他来说是非典型的。",
+                "fr": "Son comportement était atypique pour lui."
+            }
+        },
+        {
+            "word": "prototypical",
+            "part_of_speech": "",
+            "origin": "Greek, prototypon (a first or primitive form)",
+            "meaning": {
+                "ko": "최초의 형태",
+                "en": "original form or shape",
+                "ja": "最初の形態",
+                "zh": "最初的形态",
+                "fr": "forme première"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "proto-",
+                    "meaning": {
+                        "ko": "'처음의'",
+                        "en": "first",
+                        "ja": "最初の",
+                        "zh": "最初的",
+                        "fr": "premier"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "typical",
+                    "meaning": {
+                        "ko": "'전형적인'",
+                        "en": "typical or characteristic",
+                        "ja": "典型的な",
+                        "zh": "典型的",
+                        "fr": "typique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 범주의 가장 대표적인 전형이 되는'이라는 뜻입니다.",
+                "en": "Means being the most representative and typical example of a certain category.",
+                "ja": "ある範疇の最も代表的で典型的な例であることを意味します。",
+                "zh": "表示某个类别中最具代表性和典型的例子。",
+                "fr": "Signifie être l'exemple le plus représentatif et typique d'une certaine catégorie."
+            },
+            "example": "A robin is a prototypical bird for many people.",
+            "translation": {
+                "ko": "울새는 많은 사람들에게 전형적인 새이다.",
+                "ja": "ロビンは多くの人にとって典型的な鳥です。",
+                "zh": "对许多人来说，知更鸟是典型的鸟。",
+                "fr": "Un rouge-gorge est un oiseau typique pour beaucoup de gens."
+            }
+        },
+        {
+            "word": "typical",
+            "part_of_speech": "",
+            "origin": "Greek, typikos (of a type)",
+            "meaning": {
+                "ko": "유형의",
+                "en": "of a type or kind",
+                "ja": "典型的な",
+                "zh": "典型的",
+                "fr": "typique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "typ-",
+                    "meaning": {
+                        "ko": "'유형'",
+                        "en": "type",
+                        "ja": "型",
+                        "zh": "类型",
+                        "fr": "type"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 유형을 대표하는'이라는 의미에서 '전형적인'이라는 뜻입니다.",
+                "en": "Meaning 'representative of a certain type'",
+                "ja": "ある型を代表する意味で",
+                "zh": "代表某种类型的意思",
+                "fr": "Signifiant 'représentatif d'un certain type'"
+            },
+            "example": "It was a typical summer day.",
+            "translation": {
+                "ko": "전형적인 여름날이었다.",
+                "ja": "それは典型的な夏の日でした。",
+                "zh": "那是典型的夏日。",
+                "fr": "C'était un jour d'été typique."
+            }
+        },
+        {
+            "word": "typography",
+            "part_of_speech": "",
+            "origin": "Greek, typos (impression) + graphein (to write)",
+            "meaning": {
+                "ko": "인쇄로 쓰기",
+                "en": "writing with printing",
+                "ja": "活字印刷デザイン",
+                "zh": "印刷字体设计",
+                "fr": "conception typographique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "typo-",
+                    "meaning": {
+                        "ko": "'인쇄, 활자'",
+                        "en": "print",
+                        "ja": "印刷、活字",
+                        "zh": "印刷、活字",
+                        "fr": "impression, caractères"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graphy",
+                    "meaning": {
+                        "ko": "'기술'",
+                        "en": "technique or skill",
+                        "ja": "技術",
+                        "zh": "技术",
+                        "fr": "technique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'활자를 이용하여 인쇄물을 디자인하고 배열하는' 기술인 '타이포그래피'를 뜻합니다.",
+                "en": "Typography refers to the technique of designing and arranging printed materials using typefaces and letters.",
+                "ja": "活字を利用して印刷物をデザインし配置する技術を意味します。",
+                "zh": "指利用活字设计和排列印刷物的技术。",
+                "fr": "Technique de conception et d'arrangement de matériaux imprimés à l'aide de caractères typographiques."
+            },
+            "example": "Typography is an important element of graphic design.",
+            "translation": {
+                "ko": "타이포그래피는 그래픽 디자인의 중요한 요소이다.",
+                "ja": "タイポグラフィは、グラフィックデザインの重要な要素です。",
+                "zh": "排版是平面设计的重要元素。",
+                "fr": "La typographie est un élément important du design graphique."
+            }
+        }
+    ]
+}

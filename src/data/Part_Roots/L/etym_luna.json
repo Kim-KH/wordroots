@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "luna (moon) lunacy, lunar, lunation",
+        "origin": "Latin, luna (moon)",
+        "meaning": {
+            "ko": "달",
+            "en": "moon",
+            "ja": "月",
+            "zh": "月",
+            "fr": "lune"
+        }
+    },
+    "words": [
+        {
+            "word": "lunacy",
+            "part_of_speech": "",
+            "origin": "Latin, lunaticus (moon-struck)",
+            "meaning": {
+                "ko": "달에 홀린",
+                "en": "bewitched by the moon",
+                "ja": "月に魅せられた",
+                "zh": "被月亮迷住",
+                "fr": "ensorcelé par la lune"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "luna-",
+                    "meaning": {
+                        "ko": "'달'",
+                        "en": "moon",
+                        "ja": "月",
+                        "zh": "月亮",
+                        "fr": "lune"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'달의 변화가 정신에 영향을 미친다'는 옛 믿음에서 유래하여 '정신 이상', '광기'를 뜻하게 되었습니다.",
+                "en": "Originated from the ancient belief that 'changes in the moon affect the mind', eventually meaning 'insanity' or 'madness'",
+                "ja": "月の変化が精神に影響を与えるという古い信念に由来し、やがて'精神異常'や'狂気'を意味するようになりました。",
+                "zh": "源自月亮变化影响精神的古老信念，后来演变为'精神失常'或'疯狂'的含义。",
+                "fr": "Originaire de la croyance ancienne que 'les changements lunaires affectent l'esprit', devenant finalement 'folie' ou 'démence'."
+            },
+            "example": "It would be lunacy to try to climb the mountain in this weather.",
+            "translation": {
+                "ko": "이 날씨에 그 산을 오르려는 것은 미친 짓일 것이다.",
+                "ja": "この天気で山に登ろうとするのは狂気の沙汰だ。",
+                "zh": "在这种天气下尝试爬山是疯狂的。",
+                "fr": "Ce serait de la folie d'essayer de grimper la montagne par ce temps."
+            }
+        },
+        {
+            "word": "lunar",
+            "part_of_speech": "",
+            "origin": "Latin, lunaris (of the moon)",
+            "meaning": {
+                "ko": "달의",
+                "en": "of the moon",
+                "ja": "月の",
+                "zh": "月的",
+                "fr": "lunaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "luna-",
+                    "meaning": {
+                        "ko": "'달'",
+                        "en": "moon",
+                        "ja": "月",
+                        "zh": "月",
+                        "fr": "lune"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'달의'라는 뜻입니다.",
+                "en": "Means 'of the moon'",
+                "ja": "月に関する意味です",
+                "zh": "表示与月亮有关",
+                "fr": "Signifie 'de la lune'"
+            },
+            "example": "A lunar eclipse occurs when the Earth passes between the sun and the moon.",
+            "translation": {
+                "ko": "월식은 지구가 태양과 달 사이에 위치할 때 발생한다.",
+                "ja": "月食は地球が太陽と月の間を通るときに起こります",
+                "zh": "月食发生在地球通过太阳和月球之间时",
+                "fr": "Une éclipse lunaire se produit lorsque la Terre passe entre le Soleil et la Lune"
+            }
+        },
+        {
+            "word": "lunation",
+            "part_of_speech": "",
+            "origin": "Latin, lunatio (the course of the moon)",
+            "meaning": {
+                "ko": "달의 운행",
+                "en": "the moon's motion or orbit",
+                "ja": "月の満ち欠けの周期",
+                "zh": "月的盈亏周期",
+                "fr": "cycle lunaire complet"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "luna-",
+                    "meaning": {
+                        "ko": "'달'",
+                        "en": "moon",
+                        "ja": "月",
+                        "zh": "月",
+                        "fr": "lune"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'달이 차고 기우는 한 주기'인 '삭망월'을 뜻합니다.",
+                "en": "A lunation refers to the synodic month, the period of the moon's phases from new moon to new moon.",
+                "ja": "月が満ち欠けする一つの周期を意味し、新月から新月までの期間です。",
+                "zh": "指月球盈亏的一个完整周期，从新月到新月。",
+                "fr": "Désigne le mois synodique, la période complète des phases lunaires d'une nouvelle lune à l'autre."
+            },
+            "example": "A lunation is the period of time from one new moon to the next.",
+            "translation": {
+                "ko": "삭망월은 한 초승달에서 다음 초승달까지의 기간이다.",
+                "ja": "朔望月",
+                "zh": "朔望月",
+                "fr": "lunaison"
+            }
+        }
+    ]
+}

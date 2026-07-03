@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "thalam (inner chamber) hypothalamus, thalamus, thalamic",
+        "origin": "Greek, thalamos (an inner chamber)",
+        "meaning": {
+            "ko": "안쪽 방",
+            "en": "an inner chamber",
+            "ja": "内部の部屋",
+            "zh": "内室",
+            "fr": "chambre intérieure"
+        }
+    },
+    "words": [
+        {
+            "word": "hypothalamus",
+            "part_of_speech": "",
+            "origin": "Greek, hypo- (under) + thalamos (inner chamber)",
+            "meaning": {
+                "ko": "시상 아래",
+                "en": "below the thalamus",
+                "ja": "視床下部",
+                "zh": "下丘脑",
+                "fr": "hypothalamus"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hypo-",
+                    "meaning": {
+                        "ko": "'아래에'",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "下方",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thalamus",
+                    "meaning": {
+                        "ko": "'시상'",
+                        "en": "thalamus",
+                        "ja": "視床",
+                        "zh": "丘脑",
+                        "fr": "thalamus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시상(thalamus) 아래에 위치한' 뇌의 부분인 '시상하부'를 뜻합니다.",
+                "en": "Brain part located below the thalamus",
+                "ja": "視床の下に位置する脳の部分",
+                "zh": "位于丘脑下方的脑部分",
+                "fr": "Partie du cerveau située sous le thalamus"
+            },
+            "example": "The hypothalamus regulates body temperature and hunger.",
+            "translation": {
+                "ko": "시상하부는 체온과 배고픔을 조절한다.",
+                "ja": "視床下部は体温と空腹感を調節する。",
+                "zh": "下丘脑调节体温和饥饿感。",
+                "fr": "L'hypothalamus régule la température corporelle et la faim."
+            }
+        },
+        {
+            "word": "thalamus",
+            "part_of_speech": "",
+            "origin": "Greek, thalamos (inner chamber)",
+            "meaning": {
+                "ko": "안쪽 방",
+                "en": "inner chamber",
+                "ja": "視床",
+                "zh": "丘脑",
+                "fr": "thalamus"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thalam-",
+                    "meaning": {
+                        "ko": "'안쪽 방, 시상'",
+                        "en": "inner chamber or thalamus",
+                        "ja": "内側の部屋",
+                        "zh": "内侧房间",
+                        "fr": "chambre intérieure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뇌의 깊숙한 안쪽에 위치한' 부분인 '시상'을 뜻합니다.",
+                "en": "The thalamus is a part of the brain located deep inside, serving as a relay station for sensory information.",
+                "ja": "脳の深い内側に位置し、感覚情報の中継点となる部分です。",
+                "zh": "位于脑深处内侧的部分，充当感觉信息的中继站。",
+                "fr": "Partie du cerveau située profondément à l'intérieur, servant de relais pour les informations sensorielles."
+            },
+            "example": "The thalamus relays sensory information to the cerebral cortex.",
+            "translation": {
+                "ko": "시상은 감각 정보를 대뇌 피질로 전달한다.",
+                "ja": "視床は感覚情報を大脳皮質に中継する。",
+                "zh": "丘脑将感觉信息传递到大脑皮层。",
+                "fr": "Le thalamus transmet les informations sensorielles au cortex cérébral."
+            }
+        },
+        {
+            "word": "thalamic",
+            "part_of_speech": "",
+            "origin": "Greek, thalamos",
+            "meaning": {
+                "ko": "안쪽 방",
+                "en": "inner chamber",
+                "ja": "視床の",
+                "zh": "丘脑的",
+                "fr": "thalamique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thalam-",
+                    "meaning": {
+                        "ko": "'시상'",
+                        "en": "thalamus",
+                        "ja": "視床",
+                        "zh": "丘脑",
+                        "fr": "thalamus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시상의'라는 뜻입니다.",
+                "en": "Means relating to the thalamus",
+                "ja": "視床に関連する意味です",
+                "zh": "表示与丘脑有关",
+                "fr": "Signifie relatif au thalamus"
+            },
+            "example": "He suffered a thalamic stroke.",
+            "translation": {
+                "ko": "그는 시상 뇌졸중을 앓았다.",
+                "ja": "彼は視床梗塞を患った。",
+                "zh": "他患了丘脑中风。",
+                "fr": "Il a souffert d'un accident vasculaire cérébral thalamique."
+            }
+        }
+    ]
+}

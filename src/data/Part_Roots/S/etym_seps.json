@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "seps (infection) asepsis, sepsis, septicemia",
+        "origin": "Greek, sepsis (a putrefaction)",
+        "meaning": {
+            "ko": "부패",
+            "en": "putrefaction",
+            "ja": "腐敗",
+            "zh": "腐烂",
+            "fr": "putréfaction"
+        }
+    },
+    "words": [
+        {
+            "word": "asepsis",
+            "part_of_speech": "",
+            "origin": "Greek, a- (not) + sepsis (putrefaction)",
+            "meaning": {
+                "ko": "부패 없음",
+                "en": "absence of decay",
+                "ja": "無菌状態",
+                "zh": "无菌状态",
+                "fr": "absence d'infection"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "without",
+                        "ja": "~がない",
+                        "zh": "没有~",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sepsis",
+                    "meaning": {
+                        "ko": "'부패, 감염'",
+                        "en": "decay, infection",
+                        "ja": "腐敗、感染",
+                        "zh": "腐败、感染",
+                        "fr": "pourriture, infection"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'균이 없는 상태'인 '무균 상태'를 뜻합니다.",
+                "en": "Asepsis refers to a state without bacteria or germs",
+                "ja": "バクテリアや病原菌がない状態を意味します",
+                "zh": "指没有细菌或病原体的状态",
+                "fr": "État exempt de bactéries ou de microbes pathogènes"
+            },
+            "example": "Asepsis is crucial in surgical procedures.",
+            "translation": {
+                "ko": "무균 상태는 외과 수술에서 매우 중요하다.",
+                "ja": "無菌的処置は外科手術に重要です。",
+                "zh": "无菌技术对外科手术至关重要。",
+                "fr": "L'asepsie est cruciale dans les procédures chirurgicales."
+            }
+        },
+        {
+            "word": "sepsis",
+            "part_of_speech": "",
+            "origin": "Greek, sepsis (putrefaction)",
+            "meaning": {
+                "ko": "부패",
+                "en": "putrefaction or decay",
+                "ja": "腐敗、感染",
+                "zh": "腐烂、感染",
+                "fr": "pourriture, infection"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "seps-",
+                    "meaning": {
+                        "ko": "'부패, 감염'",
+                        "en": "rot, infection",
+                        "ja": "腐敗、感染",
+                        "zh": "腐烂、感染",
+                        "fr": "pourriture, infection"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감염에 대한 전신적인 염증 반응'인 '패혈증'을 뜻합니다.",
+                "en": "Refers to 'septicemia', a systemic inflammatory response to infection.",
+                "ja": "感染に対する全身的な炎症反応である'敗血症'を意味します。",
+                "zh": "指对感染的全身性炎症反应'脓毒血症'。",
+                "fr": "Désigne la 'septicémie', une réaction inflammatoire systémique à l'infection."
+            },
+            "example": "Sepsis is a life-threatening medical emergency.",
+            "translation": {
+                "ko": "패혈증은 생명을 위협하는 의학적 응급 상황이다.",
+                "ja": "敗血症は生命を脅かす医学的緊急事態です。",
+                "zh": "败血症是危及生命的医学紧急情况。",
+                "fr": "La septicémie est une urgence médicale potentiellement mortelle."
+            }
+        },
+        {
+            "word": "septicemia",
+            "part_of_speech": "",
+            "origin": "Greek, septikos (putrefying) + haima (blood)",
+            "meaning": {
+                "ko": "썩는 피",
+                "en": "decaying blood",
+                "ja": "腐敗した血液",
+                "zh": "腐烂的血液",
+                "fr": "sang pourri"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sept-",
+                    "meaning": {
+                        "ko": "'부패, 감염'",
+                        "en": "rot, infection",
+                        "ja": "腐敗、感染",
+                        "zh": "腐烂、感染",
+                        "fr": "pourriture, infection"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emia",
+                    "meaning": {
+                        "ko": "'혈액 상태'",
+                        "en": "blood condition",
+                        "ja": "血液の状態",
+                        "zh": "血液状态",
+                        "fr": "état du sang"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈액이 세균에 감염된 상태'인 '패혈증'을 뜻합니다.",
+                "en": "A medical condition where blood is infected with bacteria",
+                "ja": "血液が細菌に感染した状態",
+                "zh": "血液被细菌感染的状态",
+                "fr": "état où le sang est infecté par des bactéries"
+            },
+            "example": "Septicemia is also known as blood poisoning.",
+            "translation": {
+                "ko": "패혈증은 혈액 중독으로도 알려져 있다.",
+                "ja": "敗血症（はいけつしょう）",
+                "zh": "败血症",
+                "fr": "septicémie"
+            }
+        }
+    ]
+}

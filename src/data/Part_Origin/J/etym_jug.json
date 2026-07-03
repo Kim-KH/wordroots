@@ -1,0 +1,393 @@
+{
+    "root_info": {
+        "roots": "jug, junct, just: to join",
+        "origin": "Latin, jungere",
+        "meaning": {
+            "ko": "연결하다",
+            "en": "to join",
+            "ja": "つなぐ",
+            "zh": "连接",
+            "fr": "joindre"
+        }
+    },
+    "words": [
+        {
+            "word": "junction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "junct",
+                    "meaning": {
+                        "ko": "연결하다",
+                        "en": "to join",
+                        "ja": "結合する",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominal suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形式后缀",
+                        "fr": "suffixe nominal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'연결된 곳'이라는 의미에서, 도로, 철도, 강 등의 '교차점', '합류점'을 의미합니다.",
+                "en": "From the meaning of 'a place where things are joined,' referring to intersection points or confluence points of roads, railways, rivers, etc.",
+                "ja": "「繋がった場所」という意味から、道路、鉄道、川などの「交差点」「合流点」を意味します。",
+                "zh": "从\"连接的地方\"的含义衍生，指道路、铁路、河流等的\"交叉点\"、\"汇合点\"。",
+                "fr": "Du sens de 'lieu connecté', désignant les points d'intersection ou de confluence des routes, chemins de fer, rivières, etc."
+            },
+            "example": "There was a crash at the junction.",
+            "translation": {
+                "ko": "그 교차로에서 충돌 사고가 있었다.",
+                "ja": "その交差点で衝突事故があった。",
+                "zh": "在那个交叉口发生了碰撞事故。",
+                "fr": "Il y a eu un accident de collision au carrefour."
+            }
+        },
+        {
+            "word": "juncture",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "junct",
+                    "meaning": {
+                        "ko": "연결하다",
+                        "en": "to join",
+                        "ja": "つなぐ",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 사건이나 시간이 연결되는 지점'이라는 의미에서, '특정한 시점', '(중대한) 시기'를 뜻합니다.",
+                "en": "From the sense of 'point where events or times connect,' it came to mean 'a specific moment' or 'a critical period.'",
+                "ja": "複数の出来事や時間が結びつく地点という意味から、「特定の時点」、「重要な時期」を意味するようになった。",
+                "zh": "从'多个事件或时间相连的地点'这一含义，转变为表示'特定的时刻'或'关键时期'。",
+                "fr": "Du sens de 'point où plusieurs événements ou moments se rejoignent', il en vint à signifier 'un moment spécifique' ou 'une période critique'."
+            },
+            "example": "At this juncture, we must make a decision.",
+            "translation": {
+                "ko": "이 중대한 시점에서, 우리는 결정을 내려야 한다.",
+                "ja": "この重要な時点で、我々は決断を下さなければならない。",
+                "zh": "在这个关键时刻，我们必须做出决定。",
+                "fr": "À ce moment critique, nous devons prendre une décision."
+            }
+        },
+        {
+            "word": "enjoin",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in, on",
+                        "ja": "中に、上に",
+                        "zh": "在...里、在...上",
+                        "fr": "dans, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "join",
+                    "meaning": {
+                        "ko": "연결하다",
+                        "en": "to join",
+                        "ja": "つなぐ、結合する",
+                        "zh": "连接、结合",
+                        "fr": "joindre, unir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "의무를 다른 사람에게 '연결하여 지우다'는 의미에서 '(공식적으로) 명령하다', '요구하다'는 뜻과, 법적으로 '금지하다'는 상반된 뜻을 함께 가집니다.",
+                "en": "From the sense of 'joining/imposing obligation on another person': means both '(formally) command, require' and, in law, 'prohibit' — contradictory meanings coexist.",
+                "ja": "他の人に義務を『結合して負わせる』という意味から、『(公式に)命令する』『要求する』という意味と、法律上『禁止する』という相反する意味の両方を持ちます。",
+                "zh": "从'将义务连接到他人身上'的含义衍生，既表示'(正式地)命令、要求'，又在法律上表示'禁止'——两个相反的意思并存。",
+                "fr": "Du sens de 'lier/imposer une obligation à autrui' : signifie à la fois '(formellement) ordonner, exiger' et, en droit, 'interdire' — deux sens contradictoires coexistent."
+            },
+            "example": "The court can enjoin the company from selling the product.",
+            "translation": {
+                "ko": "법원은 그 회사가 제품을 판매하는 것을 금지할 수 있다.",
+                "ja": "裁判所はその企業に製品の販売を禁止することができる。",
+                "zh": "法院可以禁止该公司销售该产品。",
+                "fr": "Le tribunal peut interdire à l'entreprise de vendre le produit."
+            }
+        },
+        {
+            "word": "adjoin",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "〜へ",
+                        "zh": "向",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "join",
+                    "meaning": {
+                        "ko": "연결하다",
+                        "en": "to join",
+                        "ja": "結合する",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 연결되어 있다'는 의미에서, 건물이나 땅이 '인접하다', '붙어 있다'는 뜻입니다.",
+                "en": "From the sense of 'being mutually connected', meaning that a building or land 'is adjacent to' or 'is touching'.",
+                "ja": "「互いに繋がっている」という意味から、建物や土地が「隣接している」「接している」という意味です。",
+                "zh": "从「相互连接」的含义衍生，表示建筑物或土地「相邻」或「相接触」。",
+                "fr": "Du sens de 'être mutuellement connecté', signifiant qu'un bâtiment ou une terre 'est adjacent à' ou 'est attenant à'."
+            },
+            "example": "His property adjoins the park.",
+            "translation": {
+                "ko": "그의 부지는 공원에 인접해 있다.",
+                "ja": "彼の土地は公園に隣接している。",
+                "zh": "他的地产与公园相邻。",
+                "fr": "Sa propriété est contiguë au parc."
+            }
+        },
+        {
+            "word": "adjust",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "~へ",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "just (juxta)",
+                    "meaning": {
+                        "ko": "가까이",
+                        "en": "near",
+                        "ja": "近く",
+                        "zh": "接近",
+                        "fr": "près"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것에 맞게 가까이 두다'는 의미에서, '조정하다', '적응하다'는 뜻이 되었습니다. 라틴어 juxta('가까이')와 관련이 있습니다.",
+                "en": "From the meaning 'to place near something in a fitting way,' it came to mean 'to regulate' or 'to adapt.' Related to Latin juxta ('near').",
+                "ja": "「何かに合わせて近くに置く」という意味から、「調整する」「適応する」という意味になりました。ラテン語のjuxta（「近く」）に関連しています。",
+                "zh": "从「以适当方式将某物放在接近的位置」的含义演变而来，引申为「调整」「适应」的意思。与拉丁语juxta（「接近」）相关。",
+                "fr": "Du sens « placer près de quelque chose de manière appropriée », il en est venu à signifier « réguler » ou « adapter ». Lié au latin juxta (« près »)."
+            },
+            "example": "You need to adjust the mirror.",
+            "translation": {
+                "ko": "거울을 조정해야 합니다.",
+                "ja": "鏡を調整する必要があります。",
+                "zh": "你需要调整镜子。",
+                "fr": "Vous devez ajuster le miroir."
+            }
+        },
+        {
+            "word": "juxtaposition",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "juxta",
+                    "meaning": {
+                        "ko": "나란히, 가까이",
+                        "en": "next to",
+                        "ja": "隣に、近くに",
+                        "zh": "相邻、靠近",
+                        "fr": "à côté de, près de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "position",
+                    "meaning": {
+                        "ko": "위치",
+                        "en": "position",
+                        "ja": "位置",
+                        "zh": "位置",
+                        "fr": "position"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 juxta는 어원적으로 jungere와 관련이 있습니다. '나란히 두는 것'이라는 의미에서, 비교나 대조를 위해 사물을 '병렬', '병치'하는 것을 의미합니다.",
+                "en": "The Latin word juxta is etymologically related to jungere. From the meaning of 'placing side by side', it refers to 'juxtaposing' or 'placing in parallel' things for comparison or contrast.",
+                "ja": "ラテン語のjuxtaは語源的にjungereと関連しています。'並べて置く'という意味から、比較や対照のために物を'並置'する、'並行配置'することを意味します。",
+                "zh": "拉丁词juxta在词源上与jungere相关。从'并排放置'的意思出发，它指的是为了比较或对比而'并列'或'平行放置'事物。",
+                "fr": "Le mot latin juxta est étymologiquement lié à jungere. Du sens de 'placer côte à côte', il désigne l'action de 'juxtaposer' ou de 'placer en parallèle' des choses à des fins de comparaison ou de contraste."
+            },
+            "example": "The juxtaposition of old and new buildings is interesting.",
+            "translation": {
+                "ko": "낡은 건물과 새 건물의 병치가 흥미롭다.",
+                "ja": "古い建物と新しい建物の並置は興味深い。",
+                "zh": "古老建筑与现代建筑的并置很有趣。",
+                "fr": "La juxtaposition des anciens et nouveaux bâtiments est intéressante."
+            }
+        },
+        {
+            "word": "join",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "join (jungere)",
+                    "meaning": {
+                        "ko": "연결하다",
+                        "en": "to join",
+                        "ja": "つなぐ、結ぶ",
+                        "zh": "连接、结合",
+                        "fr": "joindre, unir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 jungere에서 직접 유래하여 '연결하다', '합치다', '가입하다' 등 다양한 의미로 쓰입니다.",
+                "en": "Directly from Latin jungere meaning 'to join', 'to connect', or 'to combine'; used with various meanings including 'to join', 'to unite', and 'to become a member'.",
+                "ja": "ラテン語のjungereから直接由来し、「つなぐ」「合わせる」「加入する」など様々な意味で使われます。",
+                "zh": "直接源自拉丁语jungere，表示'连接''结合''加入'等多种含义。",
+                "fr": "Directement issu du latin jungere signifiant 'joindre', 'relier' ou 'unir'; utilisé avec diverses significations incluant 'adhérer' et 'devenir membre'."
+            },
+            "example": "Would you like to join our club?",
+            "translation": {
+                "ko": "우리 클럽에 가입하시겠습니까?",
+                "ja": "私たちのクラブに参加しませんか？",
+                "zh": "你想加入我们的俱乐部吗？",
+                "fr": "Aimeriez-vous rejoindre notre club ?"
+            }
+        },
+        {
+            "word": "conjoin",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "join",
+                    "meaning": {
+                        "ko": "연결하다",
+                        "en": "to join",
+                        "ja": "つなぐ",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 연결하다'는 의미로, '결합하다', '연합하다'는 뜻의 격식 있는 표현입니다.",
+                "en": "A formal expression meaning 'to join together', 'to combine', or 'to unite'",
+                "ja": "「一緒につなぐ」という意味で、「結合する」「統合する」という格式高い表現です",
+                "zh": "意为'一起连接'，'结合'或'联合'的正式表达",
+                "fr": "Une expression formelle signifiant 'joindre ensemble', 'combiner' ou 'unir'"
+            },
+            "example": "The two properties were conjoined.",
+            "translation": {
+                "ko": "두 부동산은 결합되었다.",
+                "ja": "二つの資産が結合された",
+                "zh": "这两处房产被合并了",
+                "fr": "Les deux propriétés ont été unies"
+            }
+        },
+        {
+            "word": "subjunctive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "아래에",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "在...下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "junct",
+                    "meaning": {
+                        "ko": "연결하다",
+                        "en": "to join",
+                        "ja": "つなぐ",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ive",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形式后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주절 아래에 연결되는' 절에 쓰이는 동사의 형태라는 의미에서, 문법의 '가정법'을 의미합니다.",
+                "en": "From the sense of 'verb form used in clauses joined under the main clause,' referring to the grammatical mood of hypothesis.",
+                "ja": "主節の下に結びつく節に用いられる動詞の形という意味から、文法の『仮定法』を意味します。",
+                "zh": "从'用于连接在主句下方的从句中的动词形式'的含义引申，指语法中的'假设语气'。",
+                "fr": "Du sens de « forme verbale utilisée dans les propositions jointes sous la proposition principale », désignant le mode grammatical du conditionnel."
+            },
+            "example": "The subjunctive mood expresses wishes or possibilities.",
+            "translation": {
+                "ko": "가정법은 소망이나 가능성을 표현한다.",
+                "ja": "仮定法は願いや可能性を表現する。",
+                "zh": "假设语气表达愿望或可能性。",
+                "fr": "Le subjonctif exprime les souhaits ou les possibilités."
+            }
+        }
+    ]
+}

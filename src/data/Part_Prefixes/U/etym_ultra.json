@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ultra (beyond) ultraliberal, ultramarine, ultrasonic, ultraviolet",
+        "origin": "Latin, ultra (beyond)",
+        "meaning": {
+            "ko": "~를 넘어서",
+            "en": "beyond",
+            "ja": "越えて",
+            "zh": "超越",
+            "fr": "au-delà de"
+        }
+    },
+    "words": [
+        {
+            "word": "ultraliberal",
+            "part_of_speech": "",
+            "origin": "Latin, ultra (beyond) + liberalis (of freedom)",
+            "meaning": {
+                "ko": "자유를 넘어서",
+                "en": "beyond freedom",
+                "ja": "自由を超えた",
+                "zh": "超越自由的",
+                "fr": "au-delà de la liberté"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ultra-",
+                    "meaning": {
+                        "ko": "'극도의'",
+                        "en": "beyond",
+                        "ja": "極端を超えた",
+                        "zh": "极度的",
+                        "fr": "extrêmement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liberal",
+                    "meaning": {
+                        "ko": "'진보적인'",
+                        "en": "progressive",
+                        "ja": "進歩的な",
+                        "zh": "进步的",
+                        "fr": "progressiste"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보통의 진보주의를 넘어서는'이라는 의미에서 '극단적으로 진보적인'이라는 뜻입니다.",
+                "en": "Means extremely progressive, beyond ordinary progressivism.",
+                "ja": "通常の進歩主義を超える極端に進歩的な意味です。",
+                "zh": "超越普通进步主义的极端进步性意思。",
+                "fr": "Signifie extrêmement progressiste, au-delà du progressisme ordinaire."
+            },
+            "example": "His political views are considered ultraliberal.",
+            "translation": {
+                "ko": "그의 정치적 견해는 극단적으로 진보적인 것으로 여겨진다.",
+                "ja": "彼の政治的見方は極端に進歩的だと考えられています。",
+                "zh": "他的政治观点被认为是极端进步的。",
+                "fr": "Ses opinions politiques sont considérées comme extrêmement progressistes."
+            }
+        },
+        {
+            "word": "ultramarine",
+            "part_of_speech": "",
+            "origin": "Latin, ultra (beyond) + marinus (of the sea)",
+            "meaning": {
+                "ko": "바다 건너",
+                "en": "across the sea",
+                "ja": "海を越えて",
+                "zh": "超越大海",
+                "fr": "au-delà de la mer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ultra-",
+                    "meaning": {
+                        "ko": "'~를 넘어서'",
+                        "en": "beyond",
+                        "ja": "~を超えて",
+                        "zh": "超越",
+                        "fr": "au-delà"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "marine",
+                    "meaning": {
+                        "ko": "'바다의'",
+                        "en": "sea",
+                        "ja": "海の",
+                        "zh": "海的",
+                        "fr": "de la mer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바다 건너(아시아)에서 온' 귀한 안료라는 의미에서 '군청색'을 뜻하게 되었습니다.",
+                "en": "Came to mean a deep blue color because it refers to a precious pigment from beyond the sea (Asia).",
+                "ja": "海を越えた(アジア)からの貴重な顔料という意味から、濃い青色を意味するようになりました。",
+                "zh": "因为它指的是来自海外(亚洲)的珍贵颜料,后来演变为表示深蓝色。",
+                "fr": "Est devenu synonyme de bleu profond car il fait référence à un pigment précieux provenant de l'autre côté de la mer (Asie)."
+            },
+            "example": "The artist used ultramarine to paint the sky.",
+            "translation": {
+                "ko": "그 화가는 하늘을 칠하기 위해 군청색을 사용했다.",
+                "ja": "画家は空を描くのに紺青を使用しました。",
+                "zh": "艺术家用群青色来绘制天空。",
+                "fr": "L'artiste a utilisé l'outremer pour peindre le ciel."
+            }
+        },
+        {
+            "word": "ultrasonic",
+            "part_of_speech": "",
+            "origin": "Latin, ultra (beyond) + English, sonic",
+            "meaning": {
+                "ko": "소리를 넘어서",
+                "en": "beyond sound",
+                "ja": "音を超えた",
+                "zh": "超越声音",
+                "fr": "au-delà du son"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ultra-",
+                    "meaning": {
+                        "ko": "'~를 넘어서'",
+                        "en": "beyond",
+                        "ja": "を超えて",
+                        "zh": "超越",
+                        "fr": "au-delà de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sonic",
+                    "meaning": {
+                        "ko": "'소리의'",
+                        "en": "of sound",
+                        "ja": "音の",
+                        "zh": "声音的",
+                        "fr": "sonore"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람이 들을 수 있는 소리의 범위를 넘어서는'이라는 의미에서 '초음파의'라는 뜻입니다.",
+                "en": "Refers to sound frequencies beyond the range audible to humans",
+                "ja": "人間が聞こえる音の範囲を超えた周波数を指す",
+                "zh": "指超出人类听觉范围的声音频率",
+                "fr": "Fait référence aux fréquences sonores au-delà de la portée auditive humaine"
+            },
+            "example": "Dogs can hear ultrasonic sounds that humans cannot.",
+            "translation": {
+                "ko": "개는 인간이 들을 수 없는 초음파를 들을 수 있다.",
+                "ja": "犬は人間が聞こえない超音波音を聞くことができます。",
+                "zh": "狗可以听到人类听不到的超声波声音。",
+                "fr": "Les chiens peuvent entendre des sons ultrasoniques que les humains ne peuvent pas."
+            }
+        },
+        {
+            "word": "ultraviolet",
+            "part_of_speech": "",
+            "origin": "Latin, ultra (beyond) + English, violet",
+            "meaning": {
+                "ko": "보라색을 넘어서",
+                "en": "beyond violet color",
+                "ja": "紫外線",
+                "zh": "紫外线",
+                "fr": "ultraviolet"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ultra-",
+                    "meaning": {
+                        "ko": "'~를 넘어서'",
+                        "en": "beyond",
+                        "ja": "を超えて",
+                        "zh": "超越",
+                        "fr": "au-delà de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "violet",
+                    "meaning": {
+                        "ko": "'보라색'",
+                        "en": "violet color",
+                        "ja": "紫色",
+                        "zh": "紫色",
+                        "fr": "violet"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가시광선 스펙트럼의 보라색을 넘어서는 영역의 빛'이라는 의미에서 '자외선'을 뜻합니다.",
+                "en": "Light in the region beyond the violet color of the visible spectrum",
+                "ja": "可視光スペクトルの紫色を超えた領域の光",
+                "zh": "超越可见光谱紫色区域的光",
+                "fr": "Lumière au-delà du domaine violet du spectre visible"
+            },
+            "example": "You should wear sunscreen to protect your skin from ultraviolet radiation.",
+            "translation": {
+                "ko": "자외선으로부터 피부를 보호하기 위해 자외선 차단제를 발라야 한다.",
+                "ja": "紫外線から肌を保護するため日焼け止めを使用すべきです。",
+                "zh": "你应该使用防晒霜来保护皮肤免受紫外线辐射。",
+                "fr": "Vous devriez porter un écran solaire pour protéger votre peau du rayonnement ultraviolet."
+            }
+        }
+    ]
+}

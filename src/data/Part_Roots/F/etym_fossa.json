@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "fossa (dig) fossil, fossilize",
+        "origin": "Latin, fodere, fossus (to dig)",
+        "meaning": {
+            "ko": "파다",
+            "en": "to dig",
+            "ja": "掘る",
+            "zh": "挖掘",
+            "fr": "creuser"
+        }
+    },
+    "words": [
+        {
+            "word": "fossil",
+            "part_of_speech": "",
+            "origin": "Latin, fossilis (dug up)",
+            "meaning": {
+                "ko": "파내진 것",
+                "en": "something dug out",
+                "ja": "掘り出されたもの",
+                "zh": "挖掘出的东西",
+                "fr": "chose déterrée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "foss-",
+                    "meaning": {
+                        "ko": "'파다'",
+                        "en": "to dig",
+                        "ja": "掘る",
+                        "zh": "挖掘",
+                        "fr": "creuser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'땅에서 파낸 것'이라는 의미에서 '화석'을 뜻하게 되었습니다.",
+                "en": "From the meaning 'something dug from the earth', it came to mean fossil",
+                "ja": "土から掘り出されたものという意味から化石を意味するようになりました",
+                "zh": "从从地下挖掘出来的东西这一含义演变为化石的意思",
+                "fr": "Du sens de chose extraite de terre, cela en vint à signifier fossile"
+            },
+            "example": "They found a dinosaur fossil.",
+            "translation": {
+                "ko": "그들은 공룡 화석을 발견했다.",
+                "ja": "恐竜の化石を見つけた。",
+                "zh": "他们发现了一具恐龙化石。",
+                "fr": "Ils ont trouvé un fossile de dinosaure."
+            }
+        },
+        {
+            "word": "fossilize",
+            "part_of_speech": "",
+            "origin": "Latin, fossilis (dug up)",
+            "meaning": {
+                "ko": "파내진 것",
+                "en": "something dug out",
+                "ja": "化石になる",
+                "zh": "变成化石",
+                "fr": "devenir fossile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fossil-",
+                    "meaning": {
+                        "ko": "'화석'",
+                        "en": "fossil",
+                        "ja": "化石",
+                        "zh": "化石",
+                        "fr": "fossile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'화석으로 만들다' 또는 '화석이 되다'라는 뜻입니다.",
+                "en": "To turn into a fossil or become fossilized",
+                "ja": "化石になることまたは化石化する意味です",
+                "zh": "指变成化石或石化的意思",
+                "fr": "Signifie devenir un fossile ou se fossiliser"
+            },
+            "example": "The bones had fossilized over millions of years.",
+            "translation": {
+                "ko": "그 뼈들은 수백만 년에 걸쳐 화석화되었다.",
+                "ja": "骨は何百万年かけて化石になった",
+                "zh": "骨头在数百万年间变成了化石",
+                "fr": "Les os s'étaient fossilisés au fil de millions d'années"
+            }
+        }
+    ]
+}

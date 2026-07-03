@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "sicc (dry) desiccant, desiccate, exsiccate",
+        "origin": "Latin, siccus (dry)",
+        "meaning": {
+            "ko": "건조한",
+            "en": "dry",
+            "ja": "乾いた",
+            "zh": "干燥的",
+            "fr": "sec"
+        }
+    },
+    "words": [
+        {
+            "word": "desiccant",
+            "part_of_speech": "",
+            "origin": "Latin, desiccare (to dry up)",
+            "meaning": {
+                "ko": "말리다",
+                "en": "to dry",
+                "ja": "乾燥剤",
+                "zh": "干燥剂",
+                "fr": "desséchant"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'완전히'",
+                        "en": "thoroughly",
+                        "ja": "完全に",
+                        "zh": "彻底地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sicc-",
+                    "meaning": {
+                        "ko": "'마른'",
+                        "en": "dry",
+                        "ja": "乾いた",
+                        "zh": "干燥的",
+                        "fr": "sec"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'습기를 완전히 말리는 물질'인 '건조제'를 뜻합니다.",
+                "en": "A substance that thoroughly dries moisture, meaning 'desiccant'.",
+                "ja": "湿気を完全に乾かす物質である『乾燥剤』を意味します。",
+                "zh": "完全干燥湿气的物质，意为『干燥剂』。",
+                "fr": "Une substance qui sèche complètement l'humidité, signifiant 'agent desséchant'."
+            },
+            "example": "A small packet of desiccant is often included in product packaging.",
+            "translation": {
+                "ko": "제품 포장에는 종종 작은 건조제 봉지가 포함된다.",
+                "ja": "製品パッケージにはしばしば小さな乾燥剤の包が含まれています。",
+                "zh": "产品包装中通常包含一小包干燥剂。",
+                "fr": "Un petit sachet de desséchant est souvent inclus dans l'emballage du produit."
+            }
+        },
+        {
+            "word": "desiccate",
+            "part_of_speech": "",
+            "origin": "Latin, desiccare (to dry up)",
+            "meaning": {
+                "ko": "말리다",
+                "en": "to dry out",
+                "ja": "完全に乾かす",
+                "zh": "彻底干燥",
+                "fr": "dessécher complètement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'완전히'",
+                        "en": "thoroughly",
+                        "ja": "完全に",
+                        "zh": "彻底地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sicc-",
+                    "meaning": {
+                        "ko": "'마른'",
+                        "en": "dry",
+                        "ja": "乾いた",
+                        "zh": "干燥的",
+                        "fr": "sec"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 말리다', '건조시키다'는 뜻입니다.",
+                "en": "Means to dry thoroughly or to cause to become completely dry",
+                "ja": "完全に乾かすこと、または乾燥させることを意味します",
+                "zh": "表示彻底干燥或使其完全干燥",
+                "fr": "Signifie assécher complètement ou rendre totalement sec"
+            },
+            "example": "The hot sun can desiccate the land.",
+            "translation": {
+                "ko": "뜨거운 태양은 땅을 건조시킬 수 있다.",
+                "ja": "太陽の熱は土地を完全に乾かすことができる。",
+                "zh": "炎热的太阳能够使土地彻底干燥。",
+                "fr": "Le soleil brûlant peut dessécher complètement la terre."
+            }
+        },
+        {
+            "word": "exsiccate",
+            "part_of_speech": "",
+            "origin": "Latin, exsiccare (to make very dry)",
+            "meaning": {
+                "ko": "매우 건조하게 만들다",
+                "en": "to make very dry",
+                "ja": "完全に乾燥させる",
+                "zh": "彻底干燥",
+                "fr": "dessécher complètement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로, 완전히'",
+                        "en": "out, thoroughly",
+                        "ja": "外へ、徹底的に",
+                        "zh": "向外、彻底地",
+                        "fr": "dehors, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sicc-",
+                    "meaning": {
+                        "ko": "'마른'",
+                        "en": "dry",
+                        "ja": "乾いた",
+                        "zh": "干的",
+                        "fr": "sec"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'습기를 빼내어 완전히 건조시키다'는 뜻입니다.",
+                "en": "To remove moisture and dry something completely",
+                "ja": "湿気を除去して完全に乾燥させることを意味します",
+                "zh": "去除水分使其彻底干燥的意思",
+                "fr": "Signifie enlever l'humidité et dessécher complètement"
+            },
+            "example": "The botanist will exsiccate the plant specimens for preservation.",
+            "translation": {
+                "ko": "그 식물학자는 보존을 위해 식물 표본을 건조시킬 것이다.",
+                "ja": "植物学者は標本を保存するために植物を完全に乾燥させる。",
+                "zh": "植物学家将彻底干燥植物标本以保存。",
+                "fr": "Le botaniste desséchera complètement les spécimens de plantes pour la conservation."
+            }
+        }
+    ]
+}

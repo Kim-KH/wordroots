@@ -1,0 +1,88 @@
+{
+    "root_info": {
+        "roots": "super, supra",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "위에",
+            "en": "above",
+            "ja": "上に",
+            "zh": "上方",
+            "fr": "au-dessus"
+        }
+    },
+    "words": [
+        {
+            "word": "superior",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "super",
+                    "meaning": {
+                        "ko": "위",
+                        "en": "above",
+                        "ja": "上",
+                        "zh": "上",
+                        "fr": "haut"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더 위에 있는'이라는 의미에서 '우수한', '상급의'라는 뜻입니다.",
+                "en": "From the meaning of 'being higher up', it means 'excellent' or 'higher grade'.",
+                "ja": "「より上にある」という意味から、「優れた」「上級の」という意味です。",
+                "zh": "从\"位置更高\"的含义引申出\"优秀的\"、\"高级的\"的意思。",
+                "fr": "Du sens de 'être plus haut', il signifie 'excellent' ou 'de rang supérieur'."
+            },
+            "example": "This model is superior to the old one.",
+            "translation": {
+                "ko": "이 모델은 구형보다 우수하다.",
+                "ja": "このモデルは古いものより優れている。",
+                "zh": "这款模型比旧款更优秀。",
+                "fr": "Ce modèle est supérieur à l'ancien."
+            }
+        },
+        {
+            "word": "supernatural",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "super-",
+                    "meaning": {
+                        "ko": "넘어선",
+                        "en": "beyond",
+                        "ja": "超える",
+                        "zh": "超越",
+                        "fr": "au-delà de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "natural",
+                    "meaning": {
+                        "ko": "자연의",
+                        "en": "of nature",
+                        "ja": "自然の",
+                        "zh": "自然的",
+                        "fr": "naturel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자연을 넘어선' 즉, '초자연적인'이라는 뜻입니다.",
+                "en": "Beyond nature, meaning 'not explainable by natural laws'",
+                "ja": "自然を超えた、つまり『超自然的な』という意味です",
+                "zh": "超越自然，即'超自然的'的意思",
+                "fr": "Au-delà de la nature, c'est-à-dire 'surnaturel'"
+            },
+            "example": "They believe in supernatural beings.",
+            "translation": {
+                "ko": "그들은 초자연적인 존재를 믿는다.",
+                "ja": "超自然的な",
+                "zh": "超自然的",
+                "fr": "surnaturel"
+            }
+        }
+    ]
+}

@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "sist (stop, stand) assist, desist, insist, persist, resist",
+        "origin": "Latin, sistere (to cause to stand, to stop)",
+        "meaning": {
+            "ko": "서다, 멈추다",
+            "en": "to stand, to stop",
+            "ja": "立つ、止まる",
+            "zh": "站立、停止",
+            "fr": "se tenir debout, s'arrêter"
+        }
+    },
+    "words": [
+        {
+            "word": "assist",
+            "part_of_speech": "",
+            "origin": "Latin, assistere (to stand by)",
+            "meaning": {
+                "ko": "곁에 서다",
+                "en": "to stand beside",
+                "ja": "手伝う、援助する",
+                "zh": "帮助、协助",
+                "fr": "aider, assister"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "as- (ad-)",
+                    "meaning": {
+                        "ko": "'곁에'",
+                        "en": "by, to",
+                        "ja": "そばに、近くに",
+                        "zh": "在...旁边",
+                        "fr": "à côté de, près de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "'서다'",
+                        "en": "beside",
+                        "ja": "立つ、立ち上がる",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'도움이 필요한 사람 곁에 서다'는 의미에서 '돕다', '원조하다'라는 뜻입니다.",
+                "en": "Means 'to help' or 'to support' from the sense of 'standing by the side of someone in need'",
+                "ja": "必要とされている人のそばに立つという意味から、手伝う、援助するという意味です",
+                "zh": "从站在需要帮助的人身边的意思引申为帮助、支持的意思",
+                "fr": "Signifie 'aider' ou 'soutenir', dérivé du sens de 'se tenir à côté de quelqu'un dans le besoin'"
+            },
+            "example": "Can I assist you with anything?",
+            "translation": {
+                "ko": "제가 뭐 도와드릴 일이라도 있나요?",
+                "ja": "何かお手伝いできることはありますか？",
+                "zh": "我能帮你什么吗？",
+                "fr": "Puis-je vous aider avec quelque chose?"
+            }
+        },
+        {
+            "word": "desist",
+            "part_of_speech": "",
+            "origin": "Latin, desistere (to stand off from, to cease)",
+            "meaning": {
+                "ko": "떨어져 서다, 그만두다",
+                "en": "to stop or cease doing something",
+                "ja": "やめる、中止する",
+                "zh": "停止、放弃",
+                "fr": "cesser, arrêter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "away from",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "'서다'",
+                        "en": "to stand apart",
+                        "ja": "立つ、止まる",
+                        "zh": "站立、停止",
+                        "fr": "se tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하던 일에서 떨어져 서다'는 의미에서 '그만두다'라는 뜻입니다.",
+                "en": "Means to stop or cease doing something, literally 'to stand away from one's work'",
+                "ja": "何かをやめること、文字通りには'仕事から離れて立つ'という意味です",
+                "zh": "停止或放弃做某事，字面意思是'从工作中站开'",
+                "fr": "Signifie arrêter ou cesser de faire quelque chose, littéralement 'se tenir loin de son travail'"
+            },
+            "example": "The judge ordered him to desist from his activities.",
+            "translation": {
+                "ko": "판사는 그에게 그의 활동을 그만두라고 명령했다.",
+                "ja": "裁判官は彼にその活動をやめるよう命じた。",
+                "zh": "法官命令他停止其活动。",
+                "fr": "Le juge lui a ordonné de cesser ses activités."
+            }
+        },
+        {
+            "word": "insist",
+            "part_of_speech": "",
+            "origin": "Latin, insistere (to stand upon, to press)",
+            "meaning": {
+                "ko": "위에 서다, 압박하다",
+                "en": "to stand upon, to press",
+                "ja": "主張する、強く要求する",
+                "zh": "坚持、主张",
+                "fr": "insister, exiger"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'위에'",
+                        "en": "on, upon",
+                        "ja": "上に、その上に",
+                        "zh": "在...上面",
+                        "fr": "sur, dessus"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "'서다'",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자기주장 위에 굳건히 서다'는 의미에서 '주장하다', '고집하다'라는 뜻입니다.",
+                "en": "From the sense of standing firmly on one's own assertion; means to assert or insist stubbornly",
+                "ja": "自分の主張の上に堅くたつという意味から、主張する、強情を張るという意味",
+                "zh": "从在自己的主张上牢固地站立的意思派生，表示坚持主张或固执己见",
+                "fr": "Du sens de rester fermement sur ses propres affirmations; signifie affirmer ou insister avec obstination"
+            },
+            "example": "He insisted on paying for the meal.",
+            "translation": {
+                "ko": "그는 식사비를 내겠다고 고집했다.",
+                "ja": "彼は食事の代金を払うことに主張した。",
+                "zh": "他坚持要付餐费。",
+                "fr": "Il a insisté pour payer le repas."
+            }
+        },
+        {
+            "word": "persist",
+            "part_of_speech": "",
+            "origin": "Latin, persistere (to continue steadfastly)",
+            "meaning": {
+                "ko": "굳건히 계속하다",
+                "en": "to continue steadfastly",
+                "ja": "粘り強く続ける",
+                "zh": "坚持不懈地继续",
+                "fr": "persister avec ténacité"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "'통하여, 완전히'",
+                        "en": "through, thoroughly",
+                        "ja": "通して、完全に",
+                        "zh": "通过、彻底地",
+                        "fr": "à travers, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "'서다'",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어려움을 뚫고 끝까지 굳건히 서 있다'는 의미에서 '고집하다', '지속하다'라는 뜻입니다.",
+                "en": "Means to stand firmly and persistently despite difficulties; to insist or continue",
+                "ja": "困難を貫いて最後まで堅く立ち続けることから、主張する、継続するという意味",
+                "zh": "从突破困难并坚定地坚持到底的意思，表示坚持或继续",
+                "fr": "Signifie se tenir fermement malgré les difficultés; insister ou continuer"
+            },
+            "example": "If you persist, you will succeed.",
+            "translation": {
+                "ko": "당신이 계속 고집한다면, 성공할 것이다.",
+                "ja": "もし粘り強く続ければ、あなたは成功するでしょう。",
+                "zh": "如果你坚持不懈，你就会成功。",
+                "fr": "Si vous persévérez, vous réussirez."
+            }
+        },
+        {
+            "word": "resist",
+            "part_of_speech": "",
+            "origin": "Latin, resistere (to stand back, to withstand)",
+            "meaning": {
+                "ko": "뒤로 물러서다, 견디다",
+                "en": "to step back, to endure",
+                "ja": "抵抗する、耐える",
+                "zh": "抵抗、坚持",
+                "fr": "résister, tenir bon"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤로, 대항하여'",
+                        "en": "back, against",
+                        "ja": "逆らって、対抗して",
+                        "zh": "反抗、对抗",
+                        "fr": "contre, opposition"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "'서다'",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물러서지 않고 맞서 서다'는 의미에서 '저항하다'라는 뜻입니다.",
+                "en": "To stand against without retreating; to resist or oppose",
+                "ja": "引き下がらずに立ち向かう意味から、抵抗するという意味です",
+                "zh": "从不退缩而是对抗的意义，表示抵抗",
+                "fr": "Signifie se tenir face à sans reculer, donc résister ou s'opposer"
+            },
+            "example": "The soldiers resisted the enemy attack.",
+            "translation": {
+                "ko": "군인들은 적의 공격에 저항했다.",
+                "ja": "兵士たちは敵の攻撃に抵抗した。",
+                "zh": "士兵们抵抗了敌人的进攻。",
+                "fr": "Les soldats ont résisté à l'attaque ennemie."
+            }
+        }
+    ]
+}

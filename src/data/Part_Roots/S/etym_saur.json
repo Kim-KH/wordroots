@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "saur (reptile) dinosaur, Ichthyosaur, Tyrannosaurus",
+        "origin": "Greek, sauros (lizard)",
+        "meaning": {
+            "ko": "도마뱀",
+            "en": "lizard",
+            "ja": "トカゲ",
+            "zh": "蜥蜴",
+            "fr": "lézard"
+        }
+    },
+    "words": [
+        {
+            "word": "dinosaur",
+            "part_of_speech": "",
+            "origin": "Greek, deinos (terrible) + sauros (lizard)",
+            "meaning": {
+                "ko": "무서운 도마뱀",
+                "en": "fearsome lizard",
+                "ja": "恐ろしい爬虫類",
+                "zh": "可怕的爬虫动物",
+                "fr": "reptile terrifiant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dino-",
+                    "meaning": {
+                        "ko": "'무서운'",
+                        "en": "terrible",
+                        "ja": "恐ろしい",
+                        "zh": "可怕的",
+                        "fr": "terrifiant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "saur",
+                    "meaning": {
+                        "ko": "'도마뱀'",
+                        "en": "lizard",
+                        "ja": "爬虫類",
+                        "zh": "爬虫动物",
+                        "fr": "reptile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무섭게 생긴 거대한 도마뱀'이라는 의미에서 '공룡'을 뜻합니다.",
+                "en": "Meaning a terrifying giant lizard-like creature",
+                "ja": "恐ろしく見える巨大な爬虫類という意味から来ています",
+                "zh": "源于恐怖的巨大蜥蜴的意思",
+                "fr": "Signifie littéralement un lézard géant terrifiant"
+            },
+            "example": "Dinosaurs lived millions of years ago.",
+            "translation": {
+                "ko": "공룡은 수백만 년 전에 살았다.",
+                "ja": "恐竜は数百万年前に生きていました",
+                "zh": "恐龙生活在数百万年前",
+                "fr": "Les dinosaures vivaient il y a des millions d'années"
+            }
+        },
+        {
+            "word": "Ichthyosaur",
+            "part_of_speech": "",
+            "origin": "Greek, ikhthys (fish) + sauros (lizard)",
+            "meaning": {
+                "ko": "물고기 도마뱀",
+                "en": "fish lizard",
+                "ja": "魚のようなトカゲ",
+                "zh": "鱼形蜥蜴",
+                "fr": "lézard ressemblant à un poisson"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Ichthyo-",
+                    "meaning": {
+                        "ko": "'물고기'",
+                        "en": "fish",
+                        "ja": "魚",
+                        "zh": "鱼",
+                        "fr": "poisson"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "saur",
+                    "meaning": {
+                        "ko": "'도마뱀'",
+                        "en": "lizard",
+                        "ja": "トカゲ",
+                        "zh": "蜥蜴",
+                        "fr": "lézard"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물고기처럼 생긴 도마뱀'이라는 의미의 멸종한 해양 파충류 '어룡'을 뜻합니다.",
+                "en": "An extinct marine reptile meaning 'fish-like lizard', also known as Ichthyosaur",
+                "ja": "魚のように見えるトカゲという意味の絶滅した海洋爬虫類イクチオサウルスを指します",
+                "zh": "意为'像鱼一样的蜥蜴'的已灭绝海洋爬行动物鱼龙",
+                "fr": "Un reptile marin éteint signifiant 'lézard ressemblant à un poisson', également connu sous le nom d'Ichthyosaure"
+            },
+            "example": "The Ichthyosaur was a marine reptile that resembled a dolphin.",
+            "translation": {
+                "ko": "어룡은 돌고래를 닮은 해양 파충류였다.",
+                "ja": "イクチオサウルス",
+                "zh": "鱼龙",
+                "fr": "Ichthyosaure"
+            }
+        },
+        {
+            "word": "Tyrannosaurus",
+            "part_of_speech": "",
+            "origin": "Greek, tyrannos (tyrant) + sauros (lizard)",
+            "meaning": {
+                "ko": "폭군 도마뱀",
+                "en": "tyrant lizard",
+                "ja": "暴君トカゲ",
+                "zh": "暴君蜥蜴",
+                "fr": "lézard tyran"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Tyranno-",
+                    "meaning": {
+                        "ko": "'폭군'",
+                        "en": "tyrant",
+                        "ja": "暴君",
+                        "zh": "暴君",
+                        "fr": "tyran"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "saurus",
+                    "meaning": {
+                        "ko": "'도마뱀'",
+                        "en": "lizard",
+                        "ja": "トカゲ",
+                        "zh": "蜥蜴",
+                        "fr": "lézard"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'도마뱀들의 폭군'이라는 의미의 육식 공룡 '티라노사우루스'를 뜻합니다.",
+                "en": "Tyrannosaurus refers to a carnivorous dinosaur meaning 'tyrant of lizards'",
+                "ja": "トカゲたちの暴君という意味の肉食恐竜ティラノサウルス",
+                "zh": "指蜥蜴中的暴君之意的肉食恐龙霸王龙",
+                "fr": "Un dinosaure carnivore signifiant 'tyran des lézards'"
+            },
+            "example": "Tyrannosaurus rex was one of the largest meat-eating dinosaurs.",
+            "translation": {
+                "ko": "티라노사우루스 렉스는 가장 큰 육식 공룡 중 하나였다.",
+                "ja": "ティラノサウルス・レックスは最大級の肉食恐竜の一種でした",
+                "zh": "霸王龙是最大的肉食恐龙之一",
+                "fr": "Tyrannosaurus rex était l'un des plus grands dinosaures carnivores"
+            }
+        }
+    ]
+}

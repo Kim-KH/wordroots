@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ward (in the direction of) downward, inward, outward, upward",
+        "origin": "Old English, -weard (in the direction of)",
+        "meaning": {
+            "ko": "…의 방향으로",
+            "en": "in the direction of",
+            "ja": "…の方向へ",
+            "zh": "朝向…的方向",
+            "fr": "en direction de…"
+        }
+    },
+    "words": [
+        {
+            "word": "downward",
+            "part_of_speech": "",
+            "origin": "English, down + -ward",
+            "meaning": {
+                "ko": "아래 방향으로",
+                "en": "toward a lower direction",
+                "ja": "下方向へ",
+                "zh": "向下方向",
+                "fr": "vers le bas"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "down",
+                    "meaning": {
+                        "ko": "'아래'",
+                        "en": "below",
+                        "ja": "下",
+                        "zh": "下",
+                        "fr": "bas"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ward",
+                    "meaning": {
+                        "ko": "'~쪽으로'",
+                        "en": "toward direction",
+                        "ja": "方向へ",
+                        "zh": "方向",
+                        "fr": "direction vers"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아래쪽 방향으로'라는 뜻입니다.",
+                "en": "Means direction toward lower position",
+                "ja": "下の方向という意味です",
+                "zh": "表示朝向下方的方向",
+                "fr": "Signifie direction vers position inférieure"
+            },
+            "example": "The path slopes downward.",
+            "translation": {
+                "ko": "그 길은 아래쪽으로 경사져 있다.",
+                "ja": "その道は下方向に傾斜している。",
+                "zh": "这条路向下倾斜。",
+                "fr": "Le chemin s'incline vers le bas."
+            }
+        },
+        {
+            "word": "inward",
+            "part_of_speech": "",
+            "origin": "English, in + -ward",
+            "meaning": {
+                "ko": "안쪽 방향으로",
+                "en": "toward the inside direction",
+                "ja": "内側へ向かって",
+                "zh": "向内侧方向",
+                "fr": "vers l'intérieur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "in",
+                    "meaning": {
+                        "ko": "'안'",
+                        "en": "inside",
+                        "ja": "内部",
+                        "zh": "内部",
+                        "fr": "intérieur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ward",
+                    "meaning": {
+                        "ko": "'~쪽으로'",
+                        "en": "toward direction",
+                        "ja": "方向へ",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안쪽 방향으로'라는 뜻입니다.",
+                "en": "Means direction towards the inside",
+                "ja": "内側へ向かう方向という意味です",
+                "zh": "表示向内侧方向的含义",
+                "fr": "Signifie direction vers l'intérieur"
+            },
+            "example": "The door opens inward.",
+            "translation": {
+                "ko": "그 문은 안쪽으로 열린다.",
+                "ja": "ドアが内側に開く。",
+                "zh": "门向内侧打开。",
+                "fr": "La porte s'ouvre vers l'intérieur."
+            }
+        },
+        {
+            "word": "outward",
+            "part_of_speech": "",
+            "origin": "English, out + -ward",
+            "meaning": {
+                "ko": "바깥 방향으로",
+                "en": "toward the outside direction",
+                "ja": "外側の方向へ",
+                "zh": "向外的方向",
+                "fr": "vers l'extérieur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "out",
+                    "meaning": {
+                        "ko": "'밖'",
+                        "en": "outside",
+                        "ja": "外",
+                        "zh": "外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ward",
+                    "meaning": {
+                        "ko": "'~쪽으로'",
+                        "en": "toward direction",
+                        "ja": "~方向へ",
+                        "zh": "~方向",
+                        "fr": "~direction"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바깥쪽 방향으로'라는 뜻입니다.",
+                "en": "Means in the direction of the outside",
+                "ja": "外側の方向という意味です",
+                "zh": "指向外侧方向的意思",
+                "fr": "Signifie dans la direction de l'extérieur"
+            },
+            "example": "The outward journey was much easier than the return trip.",
+            "translation": {
+                "ko": "가는 여정이 돌아오는 길보다 훨씬 쉬웠다.",
+                "ja": "外向きの旅は帰りの旅よりずっと楽だった",
+                "zh": "往外的旅程比回程容易得多",
+                "fr": "Le voyage vers l'extérieur était beaucoup plus facile que le retour"
+            }
+        },
+        {
+            "word": "upward",
+            "part_of_speech": "",
+            "origin": "English, up + -ward",
+            "meaning": {
+                "ko": "위쪽 방향으로",
+                "en": "in an upward direction",
+                "ja": "上の方向へ",
+                "zh": "向上方向",
+                "fr": "vers le haut"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "up",
+                    "meaning": {
+                        "ko": "'위'",
+                        "en": "up",
+                        "ja": "上",
+                        "zh": "上",
+                        "fr": "haut"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ward",
+                    "meaning": {
+                        "ko": "'~쪽으로'",
+                        "en": "toward",
+                        "ja": "方向へ",
+                        "zh": "方向",
+                        "fr": "direction vers"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'위쪽 방향으로'라는 뜻입니다.",
+                "en": "It means upward direction",
+                "ja": "上の方向という意味です",
+                "zh": "意思是向上的方向",
+                "fr": "Cela signifie la direction vers le haut"
+            },
+            "example": "The smoke rose upward.",
+            "translation": {
+                "ko": "연기가 위쪽으로 피어올랐다.",
+                "ja": "煙は上の方へ上昇した",
+                "zh": "烟向上升起",
+                "fr": "La fumée s'est élevée vers le haut"
+            }
+        }
+    ]
+}

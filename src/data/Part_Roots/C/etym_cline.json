@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "cline (lean) incline, recline",
+        "origin": "Greek, klinein (to lean, slope)",
+        "meaning": {
+            "ko": "기대다, 기울다",
+            "en": "to lean",
+            "ja": "傾く",
+            "zh": "倾斜",
+            "fr": "pencher"
+        }
+    },
+    "words": [
+        {
+            "word": "incline",
+            "part_of_speech": "",
+            "origin": "Latin, inclinare (to bend, cause to lean)",
+            "meaning": {
+                "ko": "기울게 하다",
+                "en": "to tilt or lean",
+                "ja": "傾ける",
+                "zh": "倾斜",
+                "fr": "pencher"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~쪽으로'",
+                        "en": "toward",
+                        "ja": "~の方へ",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cline (clinare)",
+                    "meaning": {
+                        "ko": "'기울다'",
+                        "en": "to lean",
+                        "ja": "傾く",
+                        "zh": "倾斜",
+                        "fr": "pencher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 방향으로(in) 기울다(cline)'는 의미에서, 마음이 '내키다', '경향이 있다' 또는 물리적인 '경사'를 뜻합니다.",
+                "en": "From 'in' (toward) + 'cline' (to lean): means the mind 'is inclined to', 'has a tendency', or physical 'slope'",
+                "ja": "'in(方向へ) + cline(傾く)'の意味から、心が'したい気分である'、'傾向がある'または物理的な'傾斜'を意味する",
+                "zh": "来自'in(朝向) + cline(倾斜)':表示思想'倾向'、'倾向于'或物理上的'斜坡'",
+                "fr": "De 'in' (vers) + 'cline' (pencher): signifie que l'esprit 'a tendance à', 'est enclin à' ou une 'pente' physique"
+            },
+            "example": "I incline to agree with you.",
+            "translation": {
+                "ko": "저는 당신의 의견에 동의하는 쪽으로 마음이 기웁니다.",
+                "ja": "あなたに同意する傾向がある",
+                "zh": "我倾向于同意你",
+                "fr": "J'ai tendance à être d'accord avec vous"
+            }
+        },
+        {
+            "word": "recline",
+            "part_of_speech": "",
+            "origin": "Latin, reclinare (to bend back)",
+            "meaning": {
+                "ko": "뒤로 구부리다",
+                "en": "to bend backwards",
+                "ja": "身体を後ろに傾ける",
+                "zh": "向后倾斜身体",
+                "fr": "s'incliner vers l'arrière"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤로'",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cline (clinare)",
+                    "meaning": {
+                        "ko": "'기울다'",
+                        "en": "to lean",
+                        "ja": "傾く",
+                        "zh": "倾斜",
+                        "fr": "s'incliner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로(re) 기대다(cline)'는 의미로, 편안하게 '기대다' 또는 '눕다'라는 뜻입니다.",
+                "en": "re- means back, -cline means to lean. Together they mean to lean back comfortably, to recline or lie back.",
+                "ja": "re-は後ろ、-clineは傾くという意味で、快適に身体を傾ける、または横になることを意味します。",
+                "zh": "re-表示向后，-cline表示倾斜，合在一起表示舒服地向后倾斜或躺下。",
+                "fr": "re- signifie arrière, -cline signifie s'incliner. Ensemble ils signifient s'incliner confortablement vers l'arrière ou s'allonger."
+            },
+            "example": "He reclined his seat to take a nap.",
+            "translation": {
+                "ko": "그는 낮잠을 자기 위해 좌석을 뒤로 젖혔다.",
+                "ja": "彼は昼寝をするために座席を後ろに傾けた。",
+                "zh": "他向后倾斜座椅来打个小睡。",
+                "fr": "Il a incliné son siège vers l'arrière pour faire une sieste."
+            }
+        }
+    ]
+}

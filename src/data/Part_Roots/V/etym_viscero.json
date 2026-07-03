@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "viscero (guts) eviscerate, viscera, viscus",
+        "origin": "Latin, viscus (an internal organ, the bowels)",
+        "meaning": {
+            "ko": "내장",
+            "en": "an internal organ",
+            "ja": "内臓",
+            "zh": "内脏",
+            "fr": "organe interne"
+        }
+    },
+    "words": [
+        {
+            "word": "eviscerate",
+            "part_of_speech": "",
+            "origin": "Latin, eviscerare (to disembowel)",
+            "meaning": {
+                "ko": "내장을 꺼내다",
+                "en": "to remove entrails",
+                "ja": "内臓を取り出す",
+                "zh": "取出内脏",
+                "fr": "enlever les entrailles"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "viscer-",
+                    "meaning": {
+                        "ko": "'내장'",
+                        "en": "internal organs",
+                        "ja": "内臓",
+                        "zh": "内脏",
+                        "fr": "entrailles"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'내장을 밖으로 꺼내다'는 뜻입니다.",
+                "en": "To remove internal organs from outside",
+                "ja": "内臓を外に取り出すという意味です",
+                "zh": "从外部取出内脏的意思",
+                "fr": "Signifie retirer les entrailles vers l'extérieur"
+            },
+            "example": "The hunter eviscerated the deer.",
+            "translation": {
+                "ko": "그 사냥꾼은 사슴의 내장을 꺼냈다.",
+                "ja": "狩人は鹿の内臓を取り出した。",
+                "zh": "猎人取出了鹿的内脏。",
+                "fr": "Le chasseur a éviscéré le cerf."
+            }
+        },
+        {
+            "word": "viscera",
+            "part_of_speech": "",
+            "origin": "Latin, viscera (internal organs)",
+            "meaning": {
+                "ko": "내장",
+                "en": "internal organs",
+                "ja": "内臓",
+                "zh": "内脏",
+                "fr": "viscères"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "viscer-",
+                    "meaning": {
+                        "ko": "'내장'",
+                        "en": "internal organs",
+                        "ja": "内臓",
+                        "zh": "内脏",
+                        "fr": "viscères"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가슴이나 배 안의' '내장 기관들'을 뜻합니다.",
+                "en": "Refers to internal organs inside the chest or abdomen",
+                "ja": "胸や腹の中の内臓器官を指す",
+                "zh": "指胸部或腹部内的内脏器官",
+                "fr": "Désigne les organes internes de la poitrine ou de l'abdomen"
+            },
+            "example": "The viscera include the heart, lungs, liver, and intestines.",
+            "translation": {
+                "ko": "내장에는 심장, 폐, 간, 창자가 포함된다.",
+                "ja": "心臓、肺、肝臓、腸などの内臓が含まれます。",
+                "zh": "内脏包括心脏、肺、肝脏和肠。",
+                "fr": "Les viscères comprennent le cœur, les poumons, le foie et les intestins."
+            }
+        },
+        {
+            "word": "viscus",
+            "part_of_speech": "",
+            "origin": "Latin, viscus (an internal organ)",
+            "meaning": {
+                "ko": "내장",
+                "en": "internal organ",
+                "ja": "内臓",
+                "zh": "内脏",
+                "fr": "organe interne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "visc-",
+                    "meaning": {
+                        "ko": "'내장'",
+                        "en": "internal organ",
+                        "ja": "内臓",
+                        "zh": "内脏",
+                        "fr": "organe interne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'내장 기관' 하나를 뜻하는 'viscera'의 단수형입니다.",
+                "en": "Singular form of 'viscera', referring to a single internal organ.",
+                "ja": "'viscera'の単数形で、1つの内臓器官を意味します。",
+                "zh": "'viscera'的单数形式，指单一内脏器官。",
+                "fr": "Forme singulière de 'viscera', désignant un organe interne unique."
+            },
+            "example": "The liver is the largest viscus in the human body.",
+            "translation": {
+                "ko": "간은 인체에서 가장 큰 내장 기관이다.",
+                "ja": "肝臓は人体で最も大きい内臓です。",
+                "zh": "肝脏是人体中最大的内脏器官。",
+                "fr": "Le foie est le plus grand organe interne du corps humain."
+            }
+        }
+    ]
+}

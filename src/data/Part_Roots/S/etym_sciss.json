@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "sciss (cut) scission, scissor",
+        "origin": "Latin, scindere (to cut, to split)",
+        "meaning": {
+            "ko": "자르다",
+            "en": "to cut",
+            "ja": "切る",
+            "zh": "切割",
+            "fr": "couper"
+        }
+    },
+    "words": [
+        {
+            "word": "scission",
+            "part_of_speech": "",
+            "origin": "Latin, scissio (a cutting, a division)",
+            "meaning": {
+                "ko": "자르기, 분열",
+                "en": "cutting or division",
+                "ja": "切断、分裂",
+                "zh": "切割、分裂",
+                "fr": "coupure, scission"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sciss-",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자르거나 나누는 행위'인 '절단', '분리'를 뜻합니다.",
+                "en": "Refers to the act of cutting or dividing; separation or division",
+                "ja": "切ったり分けたりする行為、つまり切断や分離を意味します",
+                "zh": "指切割或分割的行为，即切断或分离",
+                "fr": "Désigne l'acte de couper ou de diviser; séparation ou division"
+            },
+            "example": "The scission of the company into two separate entities was announced.",
+            "translation": {
+                "ko": "그 회사를 두 개의 별도 법인으로 분할하는 것이 발표되었다.",
+                "ja": "その企業を2つの独立した事業体に分割することが発表されました。",
+                "zh": "该公司分裂成两个独立实体的消息被宣布。",
+                "fr": "La scission de l'entreprise en deux entités distinctes a été annoncée."
+            }
+        },
+        {
+            "word": "scissor",
+            "part_of_speech": "",
+            "origin": "Latin, cisorium (a cutting tool)",
+            "meaning": {
+                "ko": "자르는 도구",
+                "en": "cutting tool",
+                "ja": "切る道具",
+                "zh": "剪切工具",
+                "fr": "outil pour couper"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sciss- (caedere)",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자르는 도구'라는 의미에서 '가위'를 뜻합니다.",
+                "en": "Refers to 'scissors' in the sense of 'a tool for cutting'",
+                "ja": "'切る道具'という意味で'はさみ'を意味します",
+                "zh": "'剪切工具'的意思是指'剪刀'",
+                "fr": "Signifie 'ciseaux' au sens d'outil pour couper"
+            },
+            "example": "I need a pair of scissors to cut this paper.",
+            "translation": {
+                "ko": "이 종이를 자르려면 가위가 필요하다.",
+                "ja": "このペーパーを切るためにはさみが必要です",
+                "zh": "我需要一把剪刀来剪这张纸",
+                "fr": "J'ai besoin de ciseaux pour couper ce papier"
+            }
+        }
+    ]
+}

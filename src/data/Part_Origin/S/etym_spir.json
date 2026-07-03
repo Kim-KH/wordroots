@@ -1,0 +1,298 @@
+{
+    "root_info": {
+        "roots": "spir: breath, soul",
+        "origin": "Latin, spirare",
+        "meaning": {
+            "ko": "숨 쉬다",
+            "en": "to breathe",
+            "ja": "呼吸する",
+            "zh": "呼吸",
+            "fr": "respirer"
+        }
+    },
+    "words": [
+        {
+            "word": "spirant",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spir",
+                    "meaning": {
+                        "ko": "숨쉬다",
+                        "en": "to breathe",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숨을 내쉬면서 내는 소리'라는 의미에서, [f], [s]와 같은 '마찰음'을 가리키는 음성학 용어입니다.",
+                "en": "A phonetics term for fricative consonants like [f] and [s], derived from the meaning 'sound made while exhaling.'",
+                "ja": "息を吐き出しながら出す音という意味から、[f]、[s]などの摩擦音を指す音声学用語です。",
+                "zh": "从'呼气时发出的声音'的含义衍生而来，指代[f]、[s]等擦音的语音学术语。",
+                "fr": "Un terme de phonétique désignant les consonnes fricatives comme [f] et [s], dérivé du sens 'son produit en expirant.'"
+            },
+            "example": "The letter 's' represents a spirant.",
+            "translation": {
+                "ko": "글자 's'는 마찰음을 나타낸다.",
+                "ja": "文字の's'は摩擦音を表す。",
+                "zh": "字母's'代表擦音。",
+                "fr": "La lettre 's' représente une consonne fricative."
+            }
+        },
+        {
+            "word": "transpire",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "穿过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spire",
+                    "meaning": {
+                        "ko": "숨쉬다",
+                        "en": "to breathe",
+                        "ja": "呼吸する",
+                        "zh": "呼吸",
+                        "fr": "respirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "식물이 기공을 통해 수분을 '숨 쉬듯 내보내다'는 의미에서 '증산하다'는 뜻과, 비밀 등이 '드러나다', '누설되다', 사건이 '일어나다'는 뜻이 있습니다.",
+                "en": "Plants release moisture through stomata 'like breathing,' giving rise to the botanical sense of 'evaporate.' Also means secrets or information 'become revealed' or 'leak out,' and events 'occur' or 'happen.'",
+                "ja": "植物が気孔を通じて水分を『呼吸するように放出する』という意味から『蒸散する』という意味が生まれ、秘密などが『明らかになる』『漏らされる』、事件が『起こる』という意味もあります。",
+                "zh": "植物通过气孔'像呼吸一样散发'水分，由此产生'蒸腾'的意思，同时也表示秘密'被揭露''泄露'，事件'发生'。",
+                "fr": "Les plantes libèrent l'humidité par les stomates 'comme en respirant', d'où le sens botanique d'« évaporer ». Signifie aussi que les secrets 'sont révélés' ou 'fuient', et que les événements 'se produisent'."
+            },
+            "example": "It transpired that he had been lying.",
+            "translation": {
+                "ko": "그가 거짓말을 해왔다는 것이 드러났다.",
+                "ja": "彼が嘘をついていたことが明らかになった。",
+                "zh": "他一直在说谎这件事被揭露了。",
+                "fr": "Il s'est avéré qu'il avait menti."
+            }
+        },
+        {
+            "word": "expire",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spire",
+                    "meaning": {
+                        "ko": "숨쉬다",
+                        "en": "to breathe",
+                        "ja": "呼吸する",
+                        "zh": "呼吸",
+                        "fr": "respirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마지막 숨을 밖으로 내쉬다'는 의미에서 '죽다'는 뜻과, 계약이나 기간이 '만료되다'는 뜻이 있습니다.",
+                "en": "Originally meant 'to breathe out one's last breath,' giving it the sense of 'to die.' Now also means 'to come to an end' for contracts or time periods.",
+                "ja": "元々は「最後の息を外に吐く」という意味から「死ぬ」という意味があり、また契約や期間が「終了する」という意味もあります。",
+                "zh": "原义为\"呼出最后一口气\"，引申为\"死亡\"的意思；现也表示合同或期限\"到期\"。",
+                "fr": "Signifiait à l'origine « expirer son dernier souffle », d'où le sens de « mourir ». Désigne aussi l'expiration d'un contrat ou d'une période."
+            },
+            "example": "My driver's license will expire next month.",
+            "translation": {
+                "ko": "내 운전 면허증이 다음 달에 만료된다.",
+                "ja": "私の運転免許証は来月に有効期限が切れます。",
+                "zh": "我的驾驶执照将在下个月过期。",
+                "fr": "Mon permis de conduire expirera le mois prochain."
+            }
+        },
+        {
+            "word": "respire",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again and again",
+                        "ja": "繰り返し",
+                        "zh": "反复地",
+                        "fr": "encore et encore"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spire",
+                    "meaning": {
+                        "ko": "숨쉬다",
+                        "en": "to breathe",
+                        "ja": "呼吸する",
+                        "zh": "呼吸",
+                        "fr": "respirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'계속해서 숨 쉬다'는 의미로, '호흡하다'는 뜻의 생물학적 용어입니다.",
+                "en": "A biological term meaning 'to breathe continuously,' referring to the process of respiration.",
+                "ja": "「継続的に呼吸する」という意味で、呼吸作用を指す生物学用語です。",
+                "zh": "意为「持续呼吸」，是指呼吸作用的生物学术语。",
+                "fr": "Terme biologique signifiant « respirer continuellement », désignant le processus de respiration."
+            },
+            "example": "All living things need to respire.",
+            "translation": {
+                "ko": "모든 생물은 호흡해야 한다.",
+                "ja": "すべての生物は呼吸する必要があります。",
+                "zh": "所有生物都需要呼吸。",
+                "fr": "Tous les êtres vivants doivent respirer."
+            }
+        },
+        {
+            "word": "aspire",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a- (ad-)",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to, toward",
+                        "ja": "～へ、～に向かって",
+                        "zh": "朝向、向着",
+                        "fr": "vers, en direction de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spire",
+                    "meaning": {
+                        "ko": "숨쉬다",
+                        "en": "to breathe",
+                        "ja": "呼吸する",
+                        "zh": "呼吸",
+                        "fr": "respirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "목표를 '향해 숨 쉬다' 즉, 간절히 원한다는 의미에서 '열망하다', '바라다'는 뜻입니다.",
+                "en": "From the literal sense of 'breathing toward a goal,' meaning to desire or long for something earnestly.",
+                "ja": "目標に向かって『呼吸する』という字義から、強く望む、熱望するという意味になります。",
+                "zh": "从字面意思'朝着目标呼吸'引申而来，表示热切地渴望或追求某事。",
+                "fr": "Du sens littéral de 'respirer vers un objectif', signifiant désirer ou aspirer à quelque chose avec ardeur."
+            },
+            "example": "He aspires to be a great musician.",
+            "translation": {
+                "ko": "그는 위대한 음악가가 되기를 열망한다.",
+                "ja": "彼は偉大なミュージシャンになることを熱望している。",
+                "zh": "他渴望成为一位伟大的音乐家。",
+                "fr": "Il aspire à devenir un grand musicien."
+            }
+        },
+        {
+            "word": "conspire",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spire",
+                    "meaning": {
+                        "ko": "숨쉬다",
+                        "en": "to breathe",
+                        "ja": "呼吸する",
+                        "zh": "呼吸",
+                        "fr": "respirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 숨 쉬며 뜻을 같이하다'는 의미에서, 나쁜 일을 '공모하다', '음모를 꾸미다'는 뜻으로 발전했습니다.",
+                "en": "From the idea of breathing together in agreement, it evolved to mean plotting or scheming for harmful purposes.",
+                "ja": "「一緒に呼吸して意思を同じくする」という意味から、悪いことを「共謀する」「陰謀を企てる」という意味に発展しました。",
+                "zh": "从「一起呼吸、意思相同」的含义演变而来，后来发展为「共谋」、「策划阴谋」的含义。",
+                "fr": "De l'idée de respirer ensemble dans l'accord, le mot a évolué pour signifier comploter ou ourdir des plans malveillants."
+            },
+            "example": "They conspired to overthrow the government.",
+            "translation": {
+                "ko": "그들은 정부를 전복시키려고 공모했다.",
+                "ja": "彼らは政府を転覆させようと共謀した。",
+                "zh": "他们密谋推翻政府。",
+                "fr": "Ils ont conspiré pour renverser le gouvernement."
+            }
+        },
+        {
+            "word": "inspiration",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spir",
+                    "meaning": {
+                        "ko": "숨쉬다",
+                        "en": "to breathe",
+                        "ja": "呼吸する",
+                        "zh": "呼吸",
+                        "fr": "respirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "신의 숨결이 '안으로 불어넣어진다'는 의미에서, 창조적인 '영감'을 뜻하게 되었습니다.",
+                "en": "From the idea of divine breath being 'breathed into,' it came to mean creative 'inspiration.'",
+                "ja": "神の息吹が『中へ吹き込まれる』という意味から、創造的な『インスピレーション』を意味するようになりました。",
+                "zh": "从神圣的气息被『吹入』的意义出发，后来指代创意『灵感』。",
+                "fr": "Du sens où le souffle divin est 'insufflé dedans', il en est venu à signifier l'«inspiration» créative."
+            },
+            "example": "The artist found inspiration in nature.",
+            "translation": {
+                "ko": "그 화가는 자연에서 영감을 찾았다.",
+                "ja": "その芸術家は自然からインスピレーションを得た。",
+                "zh": "这位艺术家从自然中获得了灵感。",
+                "fr": "L'artiste a trouvé son inspiration dans la nature."
+            }
+        }
+    ]
+}

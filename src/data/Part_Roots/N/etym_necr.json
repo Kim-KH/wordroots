@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "necr(o) (death, corpse) necrotic, necromancy, necropolis",
+        "origin": "Greek, nekros (a dead body, a corpse)",
+        "meaning": {
+            "ko": "시체",
+            "en": "corpse",
+            "ja": "死体",
+            "zh": "尸体",
+            "fr": "cadavre"
+        }
+    },
+    "words": [
+        {
+            "word": "necrotic",
+            "part_of_speech": "",
+            "origin": "Greek, nekrosis (a becoming dead)",
+            "meaning": {
+                "ko": "죽게 됨",
+                "en": "to become dead",
+                "ja": "壊死した",
+                "zh": "坏死的",
+                "fr": "nécrotique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "necro-",
+                    "meaning": {
+                        "ko": "'죽음, 괴사'",
+                        "en": "death",
+                        "ja": "死亡、壊死",
+                        "zh": "死亡、坏死",
+                        "fr": "mort, nécrose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포나 조직이 죽는'이라는 의미에서 '괴사의'라는 뜻입니다.",
+                "en": "Means 'necrotic' in the sense that cells or tissues die.",
+                "ja": "細胞や組織が死ぬという意味で『壊死した』という意味です。",
+                "zh": "指细胞或组织死亡的意思，表示『坏死的』。",
+                "fr": "Signifie 'nécrotique' au sens où les cellules ou les tissus meurent."
+            },
+            "example": "The tissue had become necrotic due to lack of blood supply.",
+            "translation": {
+                "ko": "그 조직은 혈액 공급 부족으로 괴사했다.",
+                "ja": "その組織は血液供給の不足により壊死していた。",
+                "zh": "由于缺血，该组织已坏死。",
+                "fr": "Le tissu était devenu nécrotique en raison d'un manque d'apport sanguin."
+            }
+        },
+        {
+            "word": "necromancy",
+            "part_of_speech": "",
+            "origin": "Greek, nekromanteia (divination by means of the dead)",
+            "meaning": {
+                "ko": "죽은 자를 통한 점",
+                "en": "divination through the dead",
+                "ja": "死者との交霊術",
+                "zh": "死人占卜",
+                "fr": "nécromancie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "necro-",
+                    "meaning": {
+                        "ko": "'죽은 자'",
+                        "en": "the dead",
+                        "ja": "死者",
+                        "zh": "死人",
+                        "fr": "les morts"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mancy",
+                    "meaning": {
+                        "ko": "'점'",
+                        "en": "divination",
+                        "ja": "占い",
+                        "zh": "占卜",
+                        "fr": "divination"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죽은 자의 영혼을 불러내어 미래를 점치는' 마법인 '사령술', '흑마술'을 뜻합니다.",
+                "en": "Magic involving summoning the spirits of the dead to predict the future; also refers to sorcery or black magic.",
+                "ja": "死者の霊魂を召喚して未来を占う魔法。黒魔術を意味する。",
+                "zh": "召唤死者灵魂预知未来的魔法。指黑魔术。",
+                "fr": "Magie impliquant l'invocation des esprits des morts pour prédire l'avenir; aussi appelée sorcellerie ou magie noire."
+            },
+            "example": "Necromancy was considered a form of black magic.",
+            "translation": {
+                "ko": "사령술은 흑마법의 한 형태로 간주되었다.",
+                "ja": "死者との交霊術は黒魔術の一形態と考えられていました。",
+                "zh": "死人占卜被认为是黑魔术的一种形式。",
+                "fr": "La nécromancie était considérée comme une forme de magie noire."
+            }
+        },
+        {
+            "word": "necropolis",
+            "part_of_speech": "",
+            "origin": "Greek, nekropolis (cemetery, city of the dead)",
+            "meaning": {
+                "ko": "죽은 자의 도시",
+                "en": "city of the dead",
+                "ja": "死者の都市",
+                "zh": "死者之城",
+                "fr": "ville des morts"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "necro-",
+                    "meaning": {
+                        "ko": "'죽은 자'",
+                        "en": "the dead",
+                        "ja": "死者",
+                        "zh": "死者",
+                        "fr": "les morts"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polis",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죽은 자들을 위한 도시'라는 의미에서 고대의 '대규모 공동묘지'를 뜻합니다.",
+                "en": "A large ancient cemetery complex, literally 'a city for the dead'",
+                "ja": "死者のための都市という意味で、古代の大規模共同墓地を指します",
+                "zh": "意为'为死者建造的城市'，指古代大规模公共墓地",
+                "fr": "Littéralement 'une ville pour les morts', désigne un vaste cimetière commun antique"
+            },
+            "example": "The pyramids of Giza are part of a vast necropolis.",
+            "translation": {
+                "ko": "기자의 피라미드는 거대한 공동묘지의 일부이다.",
+                "ja": "ギザのピラミッドは広大な墓地遺跡の一部です",
+                "zh": "吉萨的金字塔是一个广阔的死者之城的一部分",
+                "fr": "Les pyramides de Giza font partie d'une vaste nécropole"
+            }
+        }
+    ]
+}

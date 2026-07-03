@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "tens (tight) intense, tense, tensile",
+        "origin": "Latin, tendere, tensus (to stretch)",
+        "meaning": {
+            "ko": "뻗다, 팽팽하게 하다",
+            "en": "to stretch",
+            "ja": "伸ばす、張る",
+            "zh": "伸展、绷紧",
+            "fr": "étendre, tendre"
+        }
+    },
+    "words": [
+        {
+            "word": "intense",
+            "part_of_speech": "",
+            "origin": "Latin, intendere (to stretch out, to intend)",
+            "meaning": {
+                "ko": "뻗다, 의도하다",
+                "en": "to stretch out, to intend",
+                "ja": "極度に強い",
+                "zh": "极其强烈",
+                "fr": "extrêmement intense"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로, 쪽으로'",
+                        "en": "in, toward",
+                        "ja": "内へ、方向へ",
+                        "zh": "向内、朝向",
+                        "fr": "vers l'intérieur, en direction de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tense",
+                    "meaning": {
+                        "ko": "'뻗다'",
+                        "en": "to stretch",
+                        "ja": "伸ばす",
+                        "zh": "伸展",
+                        "fr": "s'étendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한쪽으로 모든 힘을 뻗친' 상태라는 의미에서 '극심한', '강렬한'이라는 뜻입니다.",
+                "en": "State of stretching all force in one direction, meaning extreme or strong",
+                "ja": "一方向に全ての力を伸ばした状態から、極端な、強烈という意味",
+                "zh": "从一个方向伸展所有力量的状态，意为极端、强烈",
+                "fr": "État d'étirer toute la force dans une direction, signifiant extrême ou intense"
+            },
+            "example": "The heat was intense.",
+            "translation": {
+                "ko": "더위가 극심했다.",
+                "ja": "熱は極度に強かった。",
+                "zh": "热力极其强烈。",
+                "fr": "La chaleur était extrêmement intense."
+            }
+        },
+        {
+            "word": "tense",
+            "part_of_speech": "",
+            "origin": "Latin, tensus (stretched)",
+            "meaning": {
+                "ko": "팽팽한",
+                "en": "tight and stretched",
+                "ja": "緊張した、張り詰めた",
+                "zh": "紧张的、绷紧的",
+                "fr": "tendu, nerveux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tens-",
+                    "meaning": {
+                        "ko": "'팽팽하게 하다'",
+                        "en": "to stretch",
+                        "ja": "引き伸ばす",
+                        "zh": "拉紧、伸展",
+                        "fr": "étirer, tendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'팽팽하게 당겨진' 상태라는 의미에서 '긴장한', '팽팽한' 또는 동사의 '시제'를 뜻합니다.",
+                "en": "Derived from the state of being pulled tight, meaning either nervous/tense or the grammatical term for verb tense",
+                "ja": "引き伸ばされた状態から、'緊張した'または動詞の'時制'を意味します",
+                "zh": "源自被拉紧的状态，表示'紧张的'或动词的'时态'",
+                "fr": "Dérivé de l'état d'être tiré, signifiant soit nerveux soit le temps verbal"
+            },
+            "example": "He was tense before the interview.",
+            "translation": {
+                "ko": "그는 면접 전에 긴장했다.",
+                "ja": "彼は面接の前に緊張していた。",
+                "zh": "他在面试前很紧张。",
+                "fr": "Il était nerveux avant l'entretien."
+            }
+        },
+        {
+            "word": "tensile",
+            "part_of_speech": "",
+            "origin": "Latin, tendere (to stretch)",
+            "meaning": {
+                "ko": "뻗다",
+                "en": "to stretch or extend",
+                "ja": "引張強度のある",
+                "zh": "抗拉强度的",
+                "fr": "résistant à la traction"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tens-",
+                    "meaning": {
+                        "ko": "'뻗다'",
+                        "en": "to stretch",
+                        "ja": "引き伸ばす",
+                        "zh": "拉伸",
+                        "fr": "étirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잡아당기는 힘을 견딜 수 있는'이라는 의미에서 '인장 강도가 있는'이라는 뜻입니다.",
+                "en": "Meaning capable of withstanding pulling force, thus having tensile strength.",
+                "ja": "引き伸ばす力に耐えることができるという意味から、引張強度を持つという意味です。",
+                "zh": "从能够承受拉伸力的意义出发，表示具有抗拉强度。",
+                "fr": "Signifiant capable de supporter une force de traction, d'où la notion de résistance à la traction."
+            },
+            "example": "Steel has high tensile strength.",
+            "translation": {
+                "ko": "강철은 높은 인장 강도를 가지고 있다.",
+                "ja": "鋼は高い引張強度を持っています。",
+                "zh": "钢具有高的抗拉强度。",
+                "fr": "L'acier a une résistance à la traction élevée."
+            }
+        }
+    ]
+}

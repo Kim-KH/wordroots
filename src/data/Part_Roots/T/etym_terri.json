@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "terri (frighten) terrible, terrify, terror, terrorism",
+        "origin": "Latin, terrere (to frighten)",
+        "meaning": {
+            "ko": "두렵게 하다",
+            "en": "to frighten",
+            "ja": "怖がらせる",
+            "zh": "使害怕",
+            "fr": "effrayer"
+        }
+    },
+    "words": [
+        {
+            "word": "terrible",
+            "part_of_speech": "",
+            "origin": "Latin, terribilis (frightful)",
+            "meaning": {
+                "ko": "무서운",
+                "en": "frightening or scary",
+                "ja": "恐ろしい",
+                "zh": "可怕的",
+                "fr": "terrible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terr-",
+                    "meaning": {
+                        "ko": "'두렵게 하다'",
+                        "en": "to frighten",
+                        "ja": "恐れさせる",
+                        "zh": "使害怕",
+                        "fr": "effrayer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두려움을 일으킬 만큼 끔찍한'이라는 뜻입니다.",
+                "en": "Means something so dreadful as to cause fear",
+                "ja": "恐怖を起こすほど悪い意味です",
+                "zh": "表示令人害怕的糟糕程度",
+                "fr": "Signifie quelque chose d'affreux provoquant la peur"
+            },
+            "example": "There was a terrible accident on the highway.",
+            "translation": {
+                "ko": "고속도로에서 끔찍한 사고가 있었다.",
+                "ja": "高速道路で恐ろしい事故がありました",
+                "zh": "高速公路上发生了可怕的事故",
+                "fr": "Il y avait un terrible accident sur l'autoroute"
+            }
+        },
+        {
+            "word": "terrify",
+            "part_of_speech": "",
+            "origin": "Latin, terrificare (to frighten)",
+            "meaning": {
+                "ko": "두렵게 만들다",
+                "en": "to make afraid",
+                "ja": "恐怖させる",
+                "zh": "使害怕",
+                "fr": "terrifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terr-",
+                    "meaning": {
+                        "ko": "'두렵게 하다'",
+                        "en": "to frighten",
+                        "ja": "怖がらせる",
+                        "zh": "使恐惧",
+                        "fr": "effrayer"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "使成为",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'극심한 공포를 느끼게 만들다'는 뜻입니다.",
+                "en": "Means to cause extreme fear or dread",
+                "ja": "極度の恐怖を感じさせることを意味します",
+                "zh": "意思是引起极度的恐惧或害怕",
+                "fr": "Signifie causer une peur extrême ou de l'effroi"
+            },
+            "example": "The horror movie terrified the children.",
+            "translation": {
+                "ko": "그 공포 영화는 아이들을 겁에 질리게 했다.",
+                "ja": "ホラー映画は子どもたちを恐怖させた。",
+                "zh": "恐怖电影使孩子们害怕。",
+                "fr": "Le film d'horreur a terrifié les enfants."
+            }
+        },
+        {
+            "word": "terror",
+            "part_of_speech": "",
+            "origin": "Latin, terror (fright, dread)",
+            "meaning": {
+                "ko": "두려움",
+                "en": "fear or dread",
+                "ja": "恐怖",
+                "zh": "恐怖",
+                "fr": "terreur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terr-",
+                    "meaning": {
+                        "ko": "'두렵게 하다'",
+                        "en": "to frighten",
+                        "ja": "怖がらせる",
+                        "zh": "使害怕",
+                        "fr": "effrayer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'극심한 공포'를 뜻합니다.",
+                "en": "Means extreme fear",
+                "ja": "極度の恐怖を意味します",
+                "zh": "意味极度的恐惧",
+                "fr": "Signifie une peur extrême"
+            },
+            "example": "He lives in terror of being discovered.",
+            "translation": {
+                "ko": "그는 발각될까 봐 공포에 떨며 산다.",
+                "ja": "彼は発見されることの恐怖の中で生きている。",
+                "zh": "他生活在被发现的恐怖中。",
+                "fr": "Il vit dans la terreur d'être découvert."
+            }
+        },
+        {
+            "word": "terrorism",
+            "part_of_speech": "",
+            "origin": "French, terrorisme",
+            "meaning": {
+                "ko": "공포 정치",
+                "en": "politics of fear",
+                "ja": "恐怖政治",
+                "zh": "恐怖主义",
+                "fr": "terrorisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terror-",
+                    "meaning": {
+                        "ko": "'공포'",
+                        "en": "fear",
+                        "ja": "恐怖",
+                        "zh": "恐怖",
+                        "fr": "terreur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정치적 목적을 위해 공포와 폭력을 사용하는' '테러리즘'을 뜻합니다.",
+                "en": "The use of fear and violence for political purposes",
+                "ja": "政治的目的のために恐怖と暴力を使用する",
+                "zh": "为政治目的使用恐怖和暴力",
+                "fr": "Utilisation de la peur et de la violence à des fins politiques"
+            },
+            "example": "The government is taking measures to combat terrorism.",
+            "translation": {
+                "ko": "정부는 테러리즘과 싸우기 위한 조치를 취하고 있다.",
+                "ja": "政府はテロリズムに対抗するための措置を講じています",
+                "zh": "政府正在采取措施打击恐怖主义",
+                "fr": "Le gouvernement prend des mesures pour combattre le terrorisme"
+            }
+        }
+    ]
+}

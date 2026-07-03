@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "lex (speech, word, law) dyslexia, lexicology, lexicon",
+        "origin": "Greek, lexis (speech, word)",
+        "meaning": {
+            "ko": "말, 단어",
+            "en": "speech, word",
+            "ja": "言葉、言葉",
+            "zh": "言语、词语",
+            "fr": "parole, mot"
+        }
+    },
+    "words": [
+        {
+            "word": "dyslexia",
+            "part_of_speech": "",
+            "origin": "German, Dyslexie",
+            "meaning": {
+                "ko": "읽기 어려움",
+                "en": "difficulty reading",
+                "ja": "読みの困難さ",
+                "zh": "阅读困难",
+                "fr": "difficulté de lecture"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dys-",
+                    "meaning": {
+                        "ko": "'어려움'",
+                        "en": "difficult",
+                        "ja": "困難な",
+                        "zh": "困难的",
+                        "fr": "difficile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lex-",
+                    "meaning": {
+                        "ko": "'단어, 읽기'",
+                        "en": "word, reading",
+                        "ja": "単語、読むこと",
+                        "zh": "单词、阅读",
+                        "fr": "mot, lecture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단어를 읽는 데 어려움이 있는' 증상이라는 의미에서 '난독증'을 뜻합니다.",
+                "en": "Dyslexia refers to a condition where individuals have difficulty reading words.",
+                "ja": "難読症とは、単語を読むことが困難な症状を意味します。",
+                "zh": "난독症是指个人难以阅读单词的症状。",
+                "fr": "La dyslexie désigne une condition où les individus ont du mal à lire les mots."
+            },
+            "example": "Dyslexia is a learning disorder that affects reading ability.",
+            "translation": {
+                "ko": "난독증은 읽기 능력에 영향을 미치는 학습 장애이다.",
+                "ja": "難読症",
+                "zh": "阅读困难症",
+                "fr": "dyslexie"
+            }
+        },
+        {
+            "word": "lexicology",
+            "part_of_speech": "",
+            "origin": "Greek, lexikon (dictionary) + logos (study)",
+            "meaning": {
+                "ko": "사전 연구",
+                "en": "study of dictionaries",
+                "ja": "語彙研究",
+                "zh": "词汇学",
+                "fr": "lexicologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lexico-",
+                    "meaning": {
+                        "ko": "'단어'",
+                        "en": "word",
+                        "ja": "単語",
+                        "zh": "词",
+                        "fr": "mot"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'언어의 단어, 즉 어휘를 연구하는 학문'인 '어휘론'을 뜻합니다.",
+                "en": "The study of vocabulary and words in language, specifically lexicology",
+                "ja": "言語の単語、つまり語彙を研究する学問である語彙論を意味します",
+                "zh": "指研究语言中的词汇的学科，即词汇论",
+                "fr": "L'étude du vocabulaire et des mots d'une langue, spécifiquement la lexicologie"
+            },
+            "example": "Lexicology is the study of the form, meaning, and behavior of words.",
+            "translation": {
+                "ko": "어휘론은 단어의 형태, 의미, 행동을 연구하는 학문이다.",
+                "ja": "語彙論",
+                "zh": "词汇学",
+                "fr": "lexicologie"
+            }
+        },
+        {
+            "word": "lexicon",
+            "part_of_speech": "",
+            "origin": "Greek, lexikon (dictionary)",
+            "meaning": {
+                "ko": "사전",
+                "en": "dictionary",
+                "ja": "辞書、語彙",
+                "zh": "词典、词汇",
+                "fr": "lexique, dictionnaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lex-",
+                    "meaning": {
+                        "ko": "'단어'",
+                        "en": "word",
+                        "ja": "単語",
+                        "zh": "单词",
+                        "fr": "mot"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 언어나 특정 분야의 모든 어휘' 또는 '사전'을 뜻합니다.",
+                "en": "A lexicon refers to all vocabulary in a language or specific field, or a dictionary.",
+                "ja": "言語や特定分野のすべての語彙、または辞書を意味します。",
+                "zh": "指一种语言或特定领域的所有词汇，或词典。",
+                "fr": "Désigne tous les mots d'une langue ou domaine spécifique, ou un dictionnaire."
+            },
+            "example": "The lexicon of a language is constantly evolving.",
+            "translation": {
+                "ko": "한 언어의 어휘는 끊임없이 진화한다.",
+                "ja": "その言語の語彙は常に進化しています。",
+                "zh": "一种语言的词汇在不断演变。",
+                "fr": "Le lexique d'une langue est en constante évolution."
+            }
+        }
+    ]
+}

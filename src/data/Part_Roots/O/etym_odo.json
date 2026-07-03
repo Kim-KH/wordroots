@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "odo (way, path) anode, cathode, odometer",
+        "origin": "Greek, hodos (way, road)",
+        "meaning": {
+            "ko": "길",
+            "en": "way, road",
+            "ja": "道、路",
+            "zh": "方式、道路",
+            "fr": "chemin, route"
+        }
+    },
+    "words": [
+        {
+            "word": "anode",
+            "part_of_speech": "",
+            "origin": "Greek, anodos (way up)",
+            "meaning": {
+                "ko": "위로 가는 길",
+                "en": "path going upward",
+                "ja": "上へ向かう道",
+                "zh": "向上的路",
+                "fr": "chemin vers le haut"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "an- (ana-)",
+                    "meaning": {
+                        "ko": "'위로'",
+                        "en": "up",
+                        "ja": "上へ",
+                        "zh": "向上",
+                        "fr": "vers le haut"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ode",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "way",
+                        "ja": "道",
+                        "zh": "路",
+                        "fr": "chemin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전류가 위로(안으로) 들어가는 길'이라는 의미에서 전지의 '양극(+)'을 뜻합니다.",
+                "en": "In a battery, the anode is the positive terminal.",
+                "ja": "電流が上へ(内側へ)入る道という意味から、電池の正極(+)を示します。",
+                "zh": "从电流向上（向内）进入的路这一含义，表示电池的正极(+)。",
+                "fr": "Du sens de la route où le courant entre vers le haut (vers l'intérieur), il désigne la borne positive (+) d'une batterie."
+            },
+            "example": "In a battery, the anode is the positive terminal.",
+            "translation": {
+                "ko": "전지에서 양극은 양의 단자이다.",
+                "ja": "陽極",
+                "zh": "阳极",
+                "fr": "anode"
+            }
+        },
+        {
+            "word": "cathode",
+            "part_of_speech": "",
+            "origin": "Greek, kathodos (way down)",
+            "meaning": {
+                "ko": "아래로 가는 길",
+                "en": "path going downward",
+                "ja": "下へ行く道",
+                "zh": "向下的路",
+                "fr": "chemin vers le bas"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cath- (kata-)",
+                    "meaning": {
+                        "ko": "'아래로'",
+                        "en": "down",
+                        "ja": "下へ",
+                        "zh": "向下",
+                        "fr": "vers le bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ode",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "way",
+                        "ja": "道",
+                        "zh": "路",
+                        "fr": "chemin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전류가 아래로(밖으로) 나가는 길'이라는 의미에서 전지의 '음극(-)'을 뜻합니다.",
+                "en": "The negative electrode of a battery, where current flows outward",
+                "ja": "電流が外に出ていく道という意味から、電池の負極(-)を示します",
+                "zh": "从电流向外流出的路的含义来看，指电池的负极(-)",
+                "fr": "Signifie l'électrode négative d'une batterie, où le courant s'écoule vers l'extérieur"
+            },
+            "example": "Electrons flow from the cathode to the anode.",
+            "translation": {
+                "ko": "전자는 음극에서 양극으로 흐른다.",
+                "ja": "陰極",
+                "zh": "阴极",
+                "fr": "cathode"
+            }
+        },
+        {
+            "word": "odometer",
+            "part_of_speech": "",
+            "origin": "Greek, hodos (way, road) + metron (measure)",
+            "meaning": {
+                "ko": "길을 재는 것",
+                "en": "measuring distance traveled",
+                "ja": "走行距離計",
+                "zh": "里程表",
+                "fr": "odomètre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "odo-",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "way, distance",
+                        "ja": "道, 距離",
+                        "zh": "道路, 距离",
+                        "fr": "chemin, distance"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'측정기'",
+                        "en": "measuring device",
+                        "ja": "計測器",
+                        "zh": "测量仪",
+                        "fr": "instrument de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자동차가 지나간 길의 거리를 측정하는 기계'인 '주행 기록계'를 뜻합니다.",
+                "en": "A device that measures the distance traveled by a vehicle",
+                "ja": "自動車が走行した距離を測定する装置",
+                "zh": "测量车辆行驶距离的装置",
+                "fr": "Appareil qui mesure la distance parcourue par un véhicule"
+            },
+            "example": "The car's odometer showed that it had traveled over 100,000 miles.",
+            "translation": {
+                "ko": "그 차의 주행 기록계는 10만 마일 이상을 주행했음을 보여주었다.",
+                "ja": "車のオドメーターは100,000マイル以上走行したことを示していました。",
+                "zh": "汽车的里程表显示它已经行驶了超过100,000英里。",
+                "fr": "L'odomètre de la voiture indiquait qu'elle avait parcouru plus de 100 000 miles."
+            }
+        }
+    ]
+}

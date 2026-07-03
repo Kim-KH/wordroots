@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "fruc (fruit) fructify, fructose, frugivorous",
+        "origin": "Latin, fructus (fruit)",
+        "meaning": {
+            "ko": "과일, 열매",
+            "en": "fruit",
+            "ja": "果物",
+            "zh": "水果",
+            "fr": "fruit"
+        }
+    },
+    "words": [
+        {
+            "word": "fructify",
+            "part_of_speech": "",
+            "origin": "Latin, fructificare (to bear fruit)",
+            "meaning": {
+                "ko": "열매를 맺다",
+                "en": "to bear fruit",
+                "ja": "実をつける",
+                "zh": "结果",
+                "fr": "fructifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fruct-",
+                    "meaning": {
+                        "ko": "'열매'",
+                        "en": "fruit",
+                        "ja": "果実",
+                        "zh": "果实",
+                        "fr": "fruit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~させる",
+                        "zh": "使~",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열매를 맺게 하다', '결실을 맺다'라는 뜻입니다.",
+                "en": "To bear fruit or cause to bear fruit; to be fruitful",
+                "ja": "実をつけさせる、結実を生じさせるという意味",
+                "zh": "使其结果、使其成果的意思",
+                "fr": "Porter fruit ou causer à porter fruit; être fructueux"
+            },
+            "example": "The good soil helped the trees to fructify.",
+            "translation": {
+                "ko": "좋은 토양은 나무들이 열매를 맺는 데 도움이 되었다.",
+                "ja": "良い土壌は木々が実をつけるのを助けた。",
+                "zh": "好的土壤帮助树木结果。",
+                "fr": "Le bon sol a aidé les arbres à fructifier."
+            }
+        },
+        {
+            "word": "fructose",
+            "part_of_speech": "",
+            "origin": "Latin, fructus (fruit)",
+            "meaning": {
+                "ko": "과일",
+                "en": "fruit",
+                "ja": "果糖",
+                "zh": "果糖",
+                "fr": "fructose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fruct-",
+                    "meaning": {
+                        "ko": "'과일'",
+                        "en": "fruit",
+                        "ja": "果物",
+                        "zh": "水果",
+                        "fr": "fruit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "(화학) 당을 나타내는 접미사",
+                        "en": "suffix indicating sugar",
+                        "ja": "化学糖を示す接尾辞",
+                        "zh": "化学糖的后缀",
+                        "fr": "suffixe indiquant sucre chimique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과일에 많이 들어있는 당'이라는 의미에서 '과당'을 뜻합니다.",
+                "en": "A sugar commonly found in fruits, derived from the words meaning fruit and chemical sugar suffix",
+                "ja": "果物に多く含まれている糖という意味で果当を意味します",
+                "zh": "由表示水果和化学糖后缀的词派生而来的常见于水果中的糖",
+                "fr": "Un sucre couramment trouvé dans les fruits, dérivé des mots signifiant fruit et suffixe de sucre chimique"
+            },
+            "example": "Fructose is a sugar found in fruits and honey.",
+            "translation": {
+                "ko": "과당은 과일과 꿀에서 발견되는 당이다.",
+                "ja": "果糖は果物と蜂蜜に含まれている糖です。",
+                "zh": "果糖是存在于水果和蜂蜜中的一种糖。",
+                "fr": "Le fructose est un sucre trouvé dans les fruits et le miel."
+            }
+        },
+        {
+            "word": "frugivorous",
+            "part_of_speech": "",
+            "origin": "Latin, frux (fruit) + vorare (to devour)",
+            "meaning": {
+                "ko": "과일을 먹는",
+                "en": "eating fruit",
+                "ja": "果実を食べる",
+                "zh": "以水果为食",
+                "fr": "qui se nourrit de fruits"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frugi- (frux)",
+                    "meaning": {
+                        "ko": "'과일'",
+                        "en": "fruit",
+                        "ja": "果実",
+                        "zh": "水果",
+                        "fr": "fruit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vorous",
+                    "meaning": {
+                        "ko": "'~을 먹는'",
+                        "en": "eating",
+                        "ja": "食べる",
+                        "zh": "食用",
+                        "fr": "manger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과일을 주식으로 먹는'이라는 의미에서 '과실을 상식하는'이라는 뜻입니다.",
+                "en": "Means primarily eating fruit as a main diet or habitually consuming fruit",
+                "ja": "果実を主食とする、または常に果実を食べることを意味する",
+                "zh": "表示以水果为主食或经常以水果为食",
+                "fr": "Signifie se nourrir principalement de fruits ou consommer régulièrement des fruits"
+            },
+            "example": "Bats are frugivorous animals.",
+            "translation": {
+                "ko": "박쥐는 과일을 상식하는 동물이다.",
+                "ja": "コウモリは果実食動物である。",
+                "zh": "蝙蝠是以水果为食的动物。",
+                "fr": "Les chauves-souris sont des animaux frugivores."
+            }
+        }
+    ]
+}

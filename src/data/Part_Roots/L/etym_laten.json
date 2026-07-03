@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "laten (hidden) latency, latent",
+        "origin": "Latin, latere (to lie hidden)",
+        "meaning": {
+            "ko": "숨어 있다",
+            "en": "to lie hidden",
+            "ja": "隠れている",
+            "zh": "隐藏",
+            "fr": "rester caché"
+        }
+    },
+    "words": [
+        {
+            "word": "latency",
+            "part_of_speech": "",
+            "origin": "Latin, latens (hidden)",
+            "meaning": {
+                "ko": "숨겨진",
+                "en": "hidden or concealed",
+                "ja": "隠れた状態",
+                "zh": "隐藏的状态",
+                "fr": "état caché"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "laten-",
+                    "meaning": {
+                        "ko": "'숨어 있다'",
+                        "en": "to be hidden",
+                        "ja": "隠れている",
+                        "zh": "隐藏着",
+                        "fr": "être caché"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숨어 있는 상태'라는 의미에서 '잠복', '잠재' 또는 컴퓨터에서 '지연 시간'을 뜻합니다.",
+                "en": "Means 'dormant' or 'latent' state; in computing refers to 'delay time'",
+                "ja": "休止状態または潜在的な意味。コンピュータでは遅延時間を指します",
+                "zh": "表示潜伏或潜在状态；在计算机中表示延迟时间",
+                "fr": "Signifie état dormant ou latent; en informatique désigne délai"
+            },
+            "example": "There is a high latency on this network.",
+            "translation": {
+                "ko": "이 네트워크는 지연 시간이 길다.",
+                "ja": "このネットワークは高いレイテンシがあります",
+                "zh": "该网络的延迟很高",
+                "fr": "Il y a une latence élevée sur ce réseau"
+            }
+        },
+        {
+            "word": "latent",
+            "part_of_speech": "",
+            "origin": "Latin, latere (to lie hidden)",
+            "meaning": {
+                "ko": "숨어 있다",
+                "en": "to be hidden or concealed",
+                "ja": "潜んでいる",
+                "zh": "潜藏的",
+                "fr": "caché"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "laten-",
+                    "meaning": {
+                        "ko": "'숨어 있다'",
+                        "en": "to be hidden",
+                        "ja": "隠れている",
+                        "zh": "被隐藏的",
+                        "fr": "être caché"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'겉으로 드러나지 않고 숨어 있는'이라는 의미에서 '잠재적인'이라는 뜻입니다.",
+                "en": "Meaning 'potential' or 'latent' from the sense of being hidden and not outwardly apparent",
+                "ja": "表面に現れず隠れているという意味から'潜在的な'という意味です",
+                "zh": "从'隐藏且不明显'的意思引申为'潜在的'之意",
+                "fr": "Signifiant 'potentiel' ou 'caché' du sens d'être dissimulé et non apparent"
+            },
+            "example": "He has a latent talent for music.",
+            "translation": {
+                "ko": "그는 음악에 잠재적인 재능을 가지고 있다.",
+                "ja": "彼は音楽の潜在的な才能を持っている",
+                "zh": "他对音乐有潜在的天赋",
+                "fr": "Il a un talent latent pour la musique"
+            }
+        }
+    ]
+}

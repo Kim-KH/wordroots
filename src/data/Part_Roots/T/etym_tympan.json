@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "tympan(o) (drum) tympani, tympanic, tympanum",
+        "origin": "Greek, tympanon (a drum)",
+        "meaning": {
+            "ko": "북",
+            "en": "a drum",
+            "ja": "太鼓",
+            "zh": "鼓",
+            "fr": "tambour"
+        }
+    },
+    "words": [
+        {
+            "word": "tympani",
+            "part_of_speech": "",
+            "origin": "Italian, timpani (kettledrums)",
+            "meaning": {
+                "ko": "팀파니",
+                "en": "kettledrums or timpani drums",
+                "ja": "ティンパニ",
+                "zh": "定音鼓",
+                "fr": "timbales"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tympan-",
+                    "meaning": {
+                        "ko": "'북'",
+                        "en": "drum",
+                        "ja": "太鼓",
+                        "zh": "鼓",
+                        "fr": "tambour"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "오케스트라에서 사용하는 '큰 북'인 '팀파니'를 뜻합니다.",
+                "en": "The tympani are a type of percussion instrument used in orchestras.",
+                "ja": "オーケストラで使用される大きな太鼓のティンパニを意味します。",
+                "zh": "指在管弦乐队中使用的大鼓定音鼓。",
+                "fr": "Les timbales sont un grand tambour utilisé dans les orchestres."
+            },
+            "example": "The tympani are a type of percussion instrument.",
+            "translation": {
+                "ko": "팀파니는 타악기의 한 종류이다.",
+                "ja": "ティンパニは打楽器の一種である。",
+                "zh": "定音鼓是一种打击乐器。",
+                "fr": "Les timbales sont un type d'instrument à percussion."
+            }
+        },
+        {
+            "word": "tympanic",
+            "part_of_speech": "",
+            "origin": "Greek, tympanon (drum)",
+            "meaning": {
+                "ko": "북",
+                "en": "drum",
+                "ja": "鼓膜の",
+                "zh": "鼓膜的",
+                "fr": "tympanique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tympan-",
+                    "meaning": {
+                        "ko": "'북'",
+                        "en": "drum",
+                        "ja": "太鼓",
+                        "zh": "鼓",
+                        "fr": "tambour"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'북처럼 생긴 막'이라는 의미에서 '고막의'라는 뜻입니다.",
+                "en": "Means 'of the eardrum' from the sense of 'membrane shaped like a drum'",
+                "ja": "太鼓のような膜という意味から高膜のという意味です",
+                "zh": "从像鼓一样的膜的意思引申为鼓膜的意思",
+                "fr": "Signifie 'du tympan' du sens de 'membrane en forme de tambour'"
+            },
+            "example": "The tympanic membrane is also known as the eardrum.",
+            "translation": {
+                "ko": "고막은 고막으로도 알려져 있다.",
+                "ja": "鼓膜の",
+                "zh": "鼓膜的",
+                "fr": "tympanique"
+            }
+        },
+        {
+            "word": "tympanum",
+            "part_of_speech": "",
+            "origin": "Latin, tympanum (a drum)",
+            "meaning": {
+                "ko": "북",
+                "en": "drum",
+                "ja": "鼓膜、中耳",
+                "zh": "鼓膜、中耳",
+                "fr": "tympan, oreille moyenne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tympan-",
+                    "meaning": {
+                        "ko": "'북'",
+                        "en": "drum",
+                        "ja": "太鼓",
+                        "zh": "鼓",
+                        "fr": "tambour"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'귀의 북', 즉 '고막' 또는 '고실(가운데 귀)'을 뜻합니다.",
+                "en": "Refers to the eardrum or middle ear, literally 'drum of the ear'",
+                "ja": "耳の鼓、つまり『鼓膜』または『中耳』を意味します",
+                "zh": "耳朵的鼓，即『鼓膜』或『中耳』之意",
+                "fr": "Désigne le tympan ou l'oreille moyenne, littéralement 'tambour de l'oreille'"
+            },
+            "example": "The tympanum vibrates in response to sound waves.",
+            "translation": {
+                "ko": "고막은 음파에 반응하여 진동한다.",
+                "ja": "鼓膜は音波に反応して振動します",
+                "zh": "鼓膜对声波产生振动反应",
+                "fr": "Le tympan vibre en réponse aux ondes sonores"
+            }
+        }
+    ]
+}

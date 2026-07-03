@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "cis(e) (cut) excise, incise, incisor, scissors",
+        "origin": "Latin, caedere (to cut)",
+        "meaning": {
+            "ko": "자르다",
+            "en": "to cut",
+            "ja": "切る",
+            "zh": "切",
+            "fr": "couper"
+        }
+    },
+    "words": [
+        {
+            "word": "excise",
+            "part_of_speech": "",
+            "origin": "Latin, excidere (to cut out)",
+            "meaning": {
+                "ko": "잘라내다",
+                "en": "to cut out or remove",
+                "ja": "切り取る",
+                "zh": "切除",
+                "fr": "exciser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cise (caedere)",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로(ex) 잘라낸다(cise)'는 의미에서, 문장 등을 '삭제하다' 또는 종양 등을 '절제하다'라는 뜻으로 쓰입니다.",
+                "en": "The prefix 'ex-' (out) combined with 'cise' (to cut) means to cut out, used for removing text from sentences or surgically removing tumors.",
+                "ja": "'外へ(ex) 切る(cise)'という意味から、文章などを'削除する'または腫瘍などを'切除する'という意味で使用されます。",
+                "zh": "从'外(ex) 切(cise)'的含义出发，用于'删除'句子中的文本或'切除'肿瘤等。",
+                "fr": "Le préfixe 'ex-' (dehors) combiné à 'cise' (couper) signifie couper ou enlever, utilisé pour supprimer du texte ou retirer chirurgicalement des tumeurs."
+            },
+            "example": "The surgeon will excise the tumor.",
+            "translation": {
+                "ko": "외과의사가 종양을 절제할 것이다.",
+                "ja": "外科医は腫瘍を切除するでしょう。",
+                "zh": "外科医生将切除肿瘤。",
+                "fr": "Le chirurgien excisera la tumeur."
+            }
+        },
+        {
+            "word": "incise",
+            "part_of_speech": "",
+            "origin": "Latin, incidere (to cut into)",
+            "meaning": {
+                "ko": "안으로 자르다",
+                "en": "to cut inward",
+                "ja": "切り込む",
+                "zh": "切割",
+                "fr": "inciser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "into",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cise (caedere)",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "표면 '안으로(in) 자르다(cise)'는 의미로, '새기다', '(수술을 위해) 절개하다'라는 뜻입니다.",
+                "en": "To cut into a surface means to carve, engrave, or make an incision for surgical purposes",
+                "ja": "表面に切り込むことは、彫刻する、彫る、または手術のために切開することを意味します",
+                "zh": "在表面上切割意味着雕刻、刻画或进行手术切口",
+                "fr": "Couper dans une surface signifie graver, ciseler ou faire une incision chirurgicale"
+            },
+            "example": "The artist incised a pattern into the metal.",
+            "translation": {
+                "ko": "그 예술가는 금속에 문양을 새겼다.",
+                "ja": "芸術家は金属に模様を切り込んだ。",
+                "zh": "艺术家在金属上刻了一个图案。",
+                "fr": "L'artiste a incisé un motif dans le métal."
+            }
+        },
+        {
+            "word": "incisor",
+            "part_of_speech": "",
+            "origin": "Latin, incidere (to cut into)",
+            "meaning": {
+                "ko": "자르는 것",
+                "en": "thing that cuts",
+                "ja": "切る歯",
+                "zh": "切割牙",
+                "fr": "dent incisive"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "incise (incidere)",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut into",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "'~하는 것'",
+                        "en": "one who does",
+                        "ja": "もの",
+                        "zh": "东西",
+                        "fr": "chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "음식을 '자르는(incise) 이'라는 의미에서 '앞니'를 뜻합니다.",
+                "en": "The incisors are flat teeth at the front of the mouth used for cutting food into smaller pieces. The word comes from the Latin 'incidere' meaning 'to cut into'.",
+                "ja": "食べ物を切る(incise)歯という意味で、前歯を指します。",
+                "zh": "从'切割(incise)牙'的意思来指前牙。",
+                "fr": "Les incisives sont les dents plates à l'avant de la bouche utilisées pour couper les aliments. Le mot vient du latin 'incidere' signifiant 'couper dans'."
+            },
+            "example": "The incisors are the flat teeth at the front of the mouth.",
+            "translation": {
+                "ko": "앞니는 입 앞쪽에 있는 납작한 이다.",
+                "ja": "門歯は口の前にある平らな歯です。",
+                "zh": "门牙是嘴前面的平牙。",
+                "fr": "Les incisives sont les dents plates à l'avant de la bouche."
+            }
+        },
+        {
+            "word": "scissors",
+            "part_of_speech": "",
+            "origin": "Vulgar Latin, *cisoria (cutting tool)",
+            "meaning": {
+                "ko": "자르는 도구",
+                "en": "tool for cutting",
+                "ja": "切る道具",
+                "zh": "切割工具",
+                "fr": "outil de coupe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scis (caedere)",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자르는(cis) 도구'라는 라틴어에서 유래하여 '가위'를 뜻하게 되었습니다. 항상 두 개의 날이 짝을 이루므로 복수형으로 씁니다.",
+                "en": "Derived from Latin 'caedere' (to cut), the word came to mean 'scissors'. Always written in plural form because it consists of two blades paired together.",
+                "ja": "ラテン語の'caedere'（切る）に由来し、『はさみ』という意味になりました。常に2つの刃が対になっているため、複数形で使われます。",
+                "zh": "源自拉丁语'caedere'（切割），演变为'剪刀'的含义。由于总是由两个刀片成对组成，通常用复数形式。",
+                "fr": "Dérivé du latin 'caedere' (couper), le mot signifie 'ciseaux'. Toujours utilisé au pluriel car il est constitué de deux lames appariées."
+            },
+            "example": "I need a pair of scissors to cut this paper.",
+            "translation": {
+                "ko": "이 종이를 자르려면 가위가 필요해요.",
+                "ja": "この紙を切るためにはさみが必要です。",
+                "zh": "我需要一把剪刀来切这张纸。",
+                "fr": "J'ai besoin d'une paire de ciseaux pour couper ce papier."
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "sis (state, process) hypnosis, mitosis, psychosis, trichinosis",
+        "origin": "Greek, -sis (state, action)",
+        "meaning": {
+            "ko": "상태, 과정",
+            "en": "state, process",
+            "ja": "状態、過程",
+            "zh": "状态、过程",
+            "fr": "état, processus"
+        }
+    },
+    "words": [
+        {
+            "word": "hypnosis",
+            "part_of_speech": "",
+            "origin": "Greek, hypnos (sleep)",
+            "meaning": {
+                "ko": "잠",
+                "en": "sleep",
+                "ja": "催眠",
+                "zh": "催眠",
+                "fr": "hypnose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hypno-",
+                    "meaning": {
+                        "ko": "'잠'",
+                        "en": "sleep",
+                        "ja": "睡眠",
+                        "zh": "睡眠",
+                        "fr": "sommeil"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-sis",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "condition or state",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인위적으로 잠과 같은 상태로 만드는 것'인 '최면'을 뜻합니다.",
+                "en": "It means 'hypnosis', artificially inducing a sleep-like state",
+                "ja": "人為的に睡眠と同じような状態にすることを意味する催眠",
+                "zh": "指人为诱导睡眠状态的催眠",
+                "fr": "Signifie l'hypnose, induire artificiellement un état semblable au sommeil"
+            },
+            "example": "He was put under hypnosis.",
+            "translation": {
+                "ko": "그는 최면에 걸렸다.",
+                "ja": "彼は催眠状態に置かれた。",
+                "zh": "他被催眠了。",
+                "fr": "Il a été mis sous hypnose."
+            }
+        },
+        {
+            "word": "mitosis",
+            "part_of_speech": "",
+            "origin": "Greek, mitos (thread)",
+            "meaning": {
+                "ko": "실",
+                "en": "thread",
+                "ja": "糸状の過程",
+                "zh": "线状过程",
+                "fr": "processus filamenteux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mito-",
+                    "meaning": {
+                        "ko": "'실'",
+                        "en": "thread",
+                        "ja": "糸",
+                        "zh": "线",
+                        "fr": "fil"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-sis",
+                    "meaning": {
+                        "ko": "'과정'",
+                        "en": "process",
+                        "ja": "過程",
+                        "zh": "过程",
+                        "fr": "processus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 분열 시 염색체가 '실 모양'으로 나타나는 데서 유래하여, '체세포 분열' 과정을 뜻합니다.",
+                "en": "Mitosis derives from the thread-like appearance of chromosomes during cell division, referring to the process of somatic cell division.",
+                "ja": "細胞分裂時に染色体が'糸状'に見えることから由来し、'体細胞分裂'過程を意味します。",
+                "zh": "源自细胞分裂时染色体呈现'线状'外观，指'体细胞分裂'过程。",
+                "fr": "Dérivé de l'apparence filamenteuse des chromosomes lors de la division cellulaire, désignant le processus de division cellulaire somatique."
+            },
+            "example": "Mitosis is a process of cell division.",
+            "translation": {
+                "ko": "유사 분열은 세포 분열의 한 과정이다.",
+                "ja": "有糸分裂は細胞分裂の過程です。",
+                "zh": "有丝分裂是细胞分裂的过程。",
+                "fr": "La mitose est un processus de division cellulaire."
+            }
+        },
+        {
+            "word": "psychosis",
+            "part_of_speech": "",
+            "origin": "Greek, psykhe (mind) + -osis",
+            "meaning": {
+                "ko": "정신 상태",
+                "en": "mental state",
+                "ja": "精神病",
+                "zh": "精神病",
+                "fr": "psychose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psych-",
+                    "meaning": {
+                        "ko": "'정신'",
+                        "en": "mind",
+                        "ja": "精神",
+                        "zh": "精神",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-osis",
+                    "meaning": {
+                        "ko": "'병적 상태'",
+                        "en": "pathological condition",
+                        "ja": "病的状態",
+                        "zh": "病态状态",
+                        "fr": "état pathologique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'현실 판단 능력을 상실하는 심각한 정신 질환'인 '정신병'을 뜻합니다.",
+                "en": "A severe mental illness characterized by loss of contact with reality",
+                "ja": "現実判断能力を失う重篤な精神疾患",
+                "zh": "丧失与现实接触能力的严重精神疾病",
+                "fr": "Maladie mentale grave caractérisée par perte de contact avec la réalité"
+            },
+            "example": "Hallucinations are a symptom of psychosis.",
+            "translation": {
+                "ko": "환각은 정신병의 한 증상이다.",
+                "ja": "幻覚は精神病の症状です。",
+                "zh": "幻觉是精神病的症状。",
+                "fr": "Les hallucinations sont un symptôme de la psychose."
+            }
+        },
+        {
+            "word": "trichinosis",
+            "part_of_speech": "",
+            "origin": "Greek, thrix (hair)",
+            "meaning": {
+                "ko": "머리카락",
+                "en": "머리카락",
+                "ja": "旋毛虫症",
+                "zh": "旋毛虫病",
+                "fr": "trichinose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trichin-",
+                    "meaning": {
+                        "ko": "'선모충'",
+                        "en": "trichina worm",
+                        "ja": "旋毛虫",
+                        "zh": "旋毛虫",
+                        "fr": "trichine"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-osis",
+                    "meaning": {
+                        "ko": "'병적 상태'",
+                        "en": "diseased condition",
+                        "ja": "病的状態",
+                        "zh": "病态状况",
+                        "fr": "condition pathologique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리카락처럼 가는' 기생충인 선모충에 의해 발생하는 '선모충증'이라는 질병을 뜻합니다.",
+                "en": "A disease caused by Trichinella, a parasitic worm as thin as hair",
+                "ja": "髪のように細い寄生虫である旋毛虫によって引き起こされる病気",
+                "zh": "由像头发一样细的寄生虫旋毛虫引起的疾病",
+                "fr": "Maladie causée par la trichine, un parasite aussi fin qu'un cheveu"
+            },
+            "example": "Trichinosis is caused by eating raw or undercooked meat.",
+            "translation": {
+                "ko": "선모충증은 날고기나 덜 익힌 고기를 먹어서 발생한다.",
+                "ja": "旋毛虫症は生または加熱不十分な肉を食べることで引き起こされます。",
+                "zh": "旋毛虫病是由食用生的或未煮熟的肉类引起的。",
+                "fr": "La trichinose est causée par la consommation de viande crue ou insuffisamment cuite."
+            }
+        }
+    ]
+}

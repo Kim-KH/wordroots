@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ology (study of) anthropology, biology, entomology, psychology",
+        "origin": "Greek, -logia (study of)",
+        "meaning": {
+            "ko": "…의 학문",
+            "en": "study of",
+            "ja": "…の学問",
+            "zh": "…的学问",
+            "fr": "étude de…"
+        }
+    },
+    "words": [
+        {
+            "word": "anthropology",
+            "part_of_speech": "",
+            "origin": "Greek, anthropos (man) + logos (study)",
+            "meaning": {
+                "ko": "인간 연구",
+                "en": "study of humans",
+                "ja": "人間の研究",
+                "zh": "人类研究",
+                "fr": "étude de l'humain"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anthropo-",
+                    "meaning": {
+                        "ko": "'인간'",
+                        "en": "human",
+                        "ja": "人間",
+                        "zh": "人类",
+                        "fr": "humain"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인간에 대해 연구하는 학문'인 '인류학'을 뜻합니다.",
+                "en": "Anthropology is the study of human societies, cultures, and behavior.",
+                "ja": "人間について研究する学問である人類学を意味します。",
+                "zh": "指研究人类社会、文化和行为的学科。",
+                "fr": "Signifie l'étude des sociétés humaines, cultures et comportements."
+            },
+            "example": "Anthropology is the study of human societies and cultures.",
+            "translation": {
+                "ko": "인류학은 인간 사회와 문화를 연구하는 학문이다.",
+                "ja": "人類学は人間社会と文化の研究です。",
+                "zh": "人类学是研究人类社会和文化的学科。",
+                "fr": "L'anthropologie est l'étude des sociétés et cultures humaines."
+            }
+        },
+        {
+            "word": "biology",
+            "part_of_speech": "",
+            "origin": "Greek, bios (life) + logos (study)",
+            "meaning": {
+                "ko": "생명 연구",
+                "en": "study of life",
+                "ja": "生命の研究",
+                "zh": "生命研究",
+                "fr": "étude de la vie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio-",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생명체를 연구하는 학문'인 '생물학'을 뜻합니다.",
+                "en": "Refers to biology, the science that studies living organisms.",
+                "ja": "生物を研究する科学である生物学を意味します。",
+                "zh": "指研究生物的科学生物学。",
+                "fr": "Désigne la biologie, la science qui étudie les organismes vivants."
+            },
+            "example": "Biology is a natural science.",
+            "translation": {
+                "ko": "생물학은 자연 과학이다.",
+                "ja": "生物学は自然科学です。",
+                "zh": "生物学是自然科学。",
+                "fr": "La biologie est une science naturelle."
+            }
+        },
+        {
+            "word": "entomology",
+            "part_of_speech": "",
+            "origin": "Greek, entomon (insect) + logos (study)",
+            "meaning": {
+                "ko": "곤충 연구",
+                "en": "study of insects",
+                "ja": "昆虫の研究",
+                "zh": "昆虫研究",
+                "fr": "étude des insectes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "entomo-",
+                    "meaning": {
+                        "ko": "'곤충'",
+                        "en": "insect",
+                        "ja": "昆虫",
+                        "zh": "昆虫",
+                        "fr": "insecte"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'곤충을 연구하는 학문'인 '곤충학'을 뜻합니다.",
+                "en": "The science that studies insects, called entomology",
+                "ja": "昆虫を研究する学問である昆虫学を意味します",
+                "zh": "指研究昆虫的学科昆虫学",
+                "fr": "La science qui étudie les insectes, appelée entomologie"
+            },
+            "example": "Entomology is a branch of zoology.",
+            "translation": {
+                "ko": "곤충학은 동물학의 한 분야이다.",
+                "ja": "昆虫学は動物学の一分野です",
+                "zh": "昆虫学是动物学的一个分支",
+                "fr": "L'entomologie est une branche de la zoologie"
+            }
+        },
+        {
+            "word": "psychology",
+            "part_of_speech": "",
+            "origin": "Greek, psykhe (mind) + logos (study)",
+            "meaning": {
+                "ko": "정신 연구",
+                "en": "study of the mind",
+                "ja": "心の研究",
+                "zh": "心理研究",
+                "fr": "étude de l'esprit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psycho-",
+                    "meaning": {
+                        "ko": "'정신'",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心灵",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인간의 정신과 행동을 연구하는 학문'인 '심리학'을 뜻합니다.",
+                "en": "Refers to 'psychology', the study of human mind and behavior",
+                "ja": "人間の心と行動を研究する学問である心理学を意味します",
+                "zh": "指研究人类心理和行为的学科心理学",
+                "fr": "Désigne la psychologie, l'étude de l'esprit et du comportement humain"
+            },
+            "example": "He has a degree in psychology.",
+            "translation": {
+                "ko": "그는 심리학 학위를 가지고 있다.",
+                "ja": "心理学の学位を持っています",
+                "zh": "他拥有心理学学位",
+                "fr": "Il a un diplôme en psychologie"
+            }
+        }
+    ]
+}

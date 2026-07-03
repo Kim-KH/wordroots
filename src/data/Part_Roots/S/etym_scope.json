@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "scope, scopy (see) colonoscopy, microscope, oscilloscope, periscope, telescope",
+        "origin": "Greek, skopein (to look at, to view)",
+        "meaning": {
+            "ko": "보다",
+            "en": "to see",
+            "ja": "見る",
+            "zh": "看",
+            "fr": "voir"
+        }
+    },
+    "words": [
+        {
+            "word": "colonoscopy",
+            "part_of_speech": "",
+            "origin": "Greek, kolon (colon) + skopein (to look at)",
+            "meaning": {
+                "ko": "대장을 보다",
+                "en": "to examine the colon",
+                "ja": "大腸を検査する",
+                "zh": "检查大肠",
+                "fr": "examen du côlon"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "colono-",
+                    "meaning": {
+                        "ko": "'대장'",
+                        "en": "colon",
+                        "ja": "大腸",
+                        "zh": "大肠",
+                        "fr": "côlon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scopy",
+                    "meaning": {
+                        "ko": "'검사'",
+                        "en": "viewing",
+                        "ja": "検査",
+                        "zh": "检查",
+                        "fr": "examen"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'내시경으로 대장 내부를 보는 검사'인 '대장 내시경 검사'를 뜻합니다.",
+                "en": "A colonoscopy is an examination of the large intestine using an endoscope",
+                "ja": "内視鏡で大腸内部を観察する検査",
+                "zh": "用内窥镜检查大肠内部的检查",
+                "fr": "examen du côlon par endoscopie"
+            },
+            "example": "A colonoscopy is recommended for people over 50.",
+            "translation": {
+                "ko": "50세 이상의 사람들에게는 대장 내시경 검사가 권장된다.",
+                "ja": "50歳以上の人に大腸内視鏡検査が推奨されます",
+                "zh": "建议50岁以上的人进行结肠镜检查",
+                "fr": "Une colonoscopie est recommandée pour les personnes de plus de 50 ans"
+            }
+        },
+        {
+            "word": "microscope",
+            "part_of_speech": "",
+            "origin": "Greek, mikros (small) + skopein (to look at)",
+            "meaning": {
+                "ko": "작은 것을 보다",
+                "en": "to observe small things",
+                "ja": "小さいものを見る",
+                "zh": "看小的东西",
+                "fr": "observer les petites choses"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "micro-",
+                    "meaning": {
+                        "ko": "'작은'",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "'보는 기구'",
+                        "en": "instrument for viewing",
+                        "ja": "見る道具",
+                        "zh": "看的工具",
+                        "fr": "instrument pour regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 물체를 확대해서 보는 기구'인 '현미경'을 뜻합니다.",
+                "en": "An instrument used to magnify and view small objects",
+                "ja": "小さい物体を拡大して見る道具",
+                "zh": "放大并观察小物体的仪器",
+                "fr": "Instrument pour agrandir et observer les petits objets"
+            },
+            "example": "We looked at the cells under a microscope.",
+            "translation": {
+                "ko": "우리는 현미경으로 세포를 보았다.",
+                "ja": "顕微鏡を使って細胞を観察しました。",
+                "zh": "我们用显微镜观察了细胞。",
+                "fr": "Nous avons observé les cellules sous un microscope."
+            }
+        },
+        {
+            "word": "oscilloscope",
+            "part_of_speech": "",
+            "origin": "Latin, oscillare (to swing) + Greek, skopein (to view)",
+            "meaning": {
+                "ko": "진동을 보다",
+                "en": "to observe vibrations",
+                "ja": "振動を見る装置",
+                "zh": "振动显示装置",
+                "fr": "appareil d'observation vibration"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oscillo-",
+                    "meaning": {
+                        "ko": "'진동'",
+                        "en": "swing",
+                        "ja": "振動",
+                        "zh": "振动",
+                        "fr": "oscillation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "'보는 기구'",
+                        "en": "instrument for viewing",
+                        "ja": "見る機器",
+                        "zh": "观看工具",
+                        "fr": "appareil observation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전기적 진동을 눈으로 볼 수 있도록 화면에 보여주는 장치'인 '오실로스코프'를 뜻합니다.",
+                "en": "An oscilloscope is a device that displays electrical vibrations visually on a screen.",
+                "ja": "オシロスコープは電気的な振動を画面に表示させ目で見えるようにする装置です。",
+                "zh": "示波器是一种能将电气振动显示在屏幕上供肉眼观察的装置。",
+                "fr": "Un oscilloscope est un appareil qui affiche les vibrations électriques visuellement sur un écran."
+            },
+            "example": "An oscilloscope is used to observe the change of an electrical signal over time.",
+            "translation": {
+                "ko": "오실로스코프는 시간에 따른 전기 신호의 변화를 관찰하는 데 사용된다.",
+                "ja": "オシロスコープ",
+                "zh": "示波器",
+                "fr": "oscilloscope"
+            }
+        },
+        {
+            "word": "periscope",
+            "part_of_speech": "",
+            "origin": "Greek, peri- (around) + skopein (to look at)",
+            "meaning": {
+                "ko": "주위를 보다",
+                "en": "to see around",
+                "ja": "周囲を見る装置",
+                "zh": "观察周围的装置",
+                "fr": "appareil pour voir autour"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "peri-",
+                    "meaning": {
+                        "ko": "'주위에'",
+                        "en": "around",
+                        "ja": "周囲に",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "'보는 기구'",
+                        "en": "viewing instrument",
+                        "ja": "見る装置",
+                        "zh": "观察装置",
+                        "fr": "appareil de vision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'장애물 너머 주위를 볼 수 있게 해주는' 잠수함 등의 '잠망경'을 뜻합니다.",
+                "en": "A device that allows viewing around obstacles, such as the periscope used in submarines",
+                "ja": "障害物の向こう側の周囲を見ることができるようにする潜水艦などの潜望鏡を意味します",
+                "zh": "指能够让人在障碍物后面观察周围的潜水艇等的潜望镜",
+                "fr": "Désigne un périscope de sous-marin permettant de voir autour d'obstacles"
+            },
+            "example": "The submarine raised its periscope to scan the surface.",
+            "translation": {
+                "ko": "그 잠수함은 수면을 살피기 위해 잠망경을 올렸다.",
+                "ja": "潜望鏡は周囲を見る装置です",
+                "zh": "潜望镜是一种观察周围的装置",
+                "fr": "Un périscope est un appareil pour observer autour"
+            }
+        },
+        {
+            "word": "telescope",
+            "part_of_speech": "",
+            "origin": "Greek, tele- (far off) + skopein (to look at)",
+            "meaning": {
+                "ko": "멀리 보다",
+                "en": "to see far away",
+                "ja": "遠くを見る道具",
+                "zh": "远距离观看工具",
+                "fr": "instrument pour voir loin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tele-",
+                    "meaning": {
+                        "ko": "'멀리'",
+                        "en": "far",
+                        "ja": "遠く",
+                        "zh": "远距离",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "'보는 기구'",
+                        "en": "viewing instrument",
+                        "ja": "見る道具",
+                        "zh": "观看工具",
+                        "fr": "outil de vision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 있는 물체를 확대해서 보는 기구'인 '망원경'을 뜻합니다.",
+                "en": "An instrument for magnifying and viewing distant objects",
+                "ja": "遠くにある物体を拡大して見る道具",
+                "zh": "放大并观察远处物体的仪器",
+                "fr": "Instrument qui grossit et permet de voir les objets lointains"
+            },
+            "example": "He looked at the stars through a telescope.",
+            "translation": {
+                "ko": "그는 망원경으로 별을 보았다.",
+                "ja": "彼は望遠鏡を通して星を見た。",
+                "zh": "他通过望远镜看星星。",
+                "fr": "Il a regardé les étoiles à travers un télescope."
+            }
+        }
+    ]
+}

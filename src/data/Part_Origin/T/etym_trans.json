@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "trans",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "가로질러",
+            "en": "across",
+            "ja": "横切って",
+            "zh": "横跨",
+            "fr": "à travers"
+        }
+    },
+    "words": [
+        {
+            "word": "transoceanic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横跨",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oceanic",
+                    "meaning": {
+                        "ko": "대양의",
+                        "en": "of the ocean",
+                        "ja": "大洋の",
+                        "zh": "大洋的",
+                        "fr": "océanique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대양을 가로지르는' 즉, '대서양 횡단의'라는 뜻입니다.",
+                "en": "Crossing or spanning an ocean; relating to transoceanic voyages",
+                "ja": "大洋を横切る、つまり大洋横断の意味です",
+                "zh": "跨越大洋，即大洋横断的意思",
+                "fr": "Traversant l'océan, c'est-à-dire ayant trait à la traversée océanique"
+            },
+            "example": "They made a transoceanic flight.",
+            "translation": {
+                "ko": "그들은 대양 횡단 비행을 했다.",
+                "ja": "彼らは大洋横断飛行を行った",
+                "zh": "他们进行了大洋横断飞行",
+                "fr": "Ils ont effectué un vol transocéanique"
+            }
+        },
+        {
+            "word": "transmit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "穿过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mit",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to send",
+                        "ja": "送る",
+                        "zh": "发送",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 곳에서 다른 곳으로 가로질러 보내다'는 의미에서 정보, 신호, 질병 등을 '전송하다', '전염시키다'는 뜻입니다.",
+                "en": "From the meaning 'to send across from one place to another', it means to 'transmit' information, signals, diseases, etc.",
+                "ja": "ある場所から別の場所へ横切って送るという意味から、情報、信号、病気などを'送信する'、'感染させる'という意味です。",
+                "zh": "从'从一个地方穿过送到另一个地方'的意思衍生而来，表示'传输'信息、信号、疾病等的意思。",
+                "fr": "Du sens de 'envoyer à travers d'un endroit à un autre', cela signifie 'transmettre' des informations, des signaux, des maladies, etc."
+            },
+            "example": "The data was transmitted wirelessly.",
+            "translation": {
+                "ko": "그 데이터는 무선으로 전송되었다.",
+                "ja": "データは無線で送信された",
+                "zh": "数据通过无线方式传输了",
+                "fr": "Les données ont été transmises sans fil"
+            }
+        },
+        {
+            "word": "transport",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横跨",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "port",
+                    "meaning": {
+                        "ko": "나르다",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "运送",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 곳에서 다른 곳으로 가로질러 나르다'는 의미에서 '수송하다', '운송하다'는 뜻입니다.",
+                "en": "From the meaning of carrying across from one place to another; means to ship, to transport",
+                "ja": "ある場所から別の場所へ横切って運ぶという意味から、輸送する、運送するという意味です",
+                "zh": "从一个地方横跨运送到另一个地方的意思；意为运输、运送",
+                "fr": "Du sens de transporter d'un endroit à un autre en traversant; signifie expédier, transporter"
+            },
+            "example": "How will you transport the furniture?",
+            "translation": {
+                "ko": "그 가구를 어떻게 운송할 건가요?",
+                "ja": "家具をどのように運送しますか？",
+                "zh": "你将如何运输这些家具？",
+                "fr": "Comment allez-vous transporter les meubles?"
+            }
+        },
+        {
+            "word": "transducer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "가로질러, 다른 쪽으로",
+                        "en": "across",
+                        "ja": "横切って、向こう側へ",
+                        "zh": "穿过、横越",
+                        "fr": "à travers, de l'autre côté"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duc",
+                    "meaning": {
+                        "ko": "이끌다",
+                        "en": "to lead",
+                        "ja": "導く、引く",
+                        "zh": "引导、传导",
+                        "fr": "conduire, mener"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "한 형태의 에너지를 다른 형태로 '이끌어 전환하는' 장치를 의미합니다.",
+                "en": "A device that converts one form of energy into another by 'leading across' or transforming it.",
+                "ja": "一つのエネルギー形態を別の形態に『変換する』装置を意味します。",
+                "zh": "指将一种形式的能量'转换传导'成另一种形式的装置。",
+                "fr": "Un appareil qui 'convertit et conduit' une forme d'énergie vers une autre."
+            },
+            "example": "A microphone is a type of transducer.",
+            "translation": {
+                "ko": "마이크는 변환 장치의 일종이다.",
+                "ja": "マイクは変換器の一種です。",
+                "zh": "麦克风是一种换能器。",
+                "fr": "Un microphone est un type de transducteur."
+            }
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "root_info": {
+        "roots": "ant (having, showing, or doing) combatant, merchant, penchant, peasant",
+        "origin": "Latin, -ans, -antis (present participle suffix)",
+        "meaning": {
+            "ko": "…하는",
+            "en": "doing",
+            "ja": "…している",
+            "zh": "…在做",
+            "fr": "…en train de faire"
+        }
+    },
+    "words": [
+        {
+            "word": "combatant",
+            "part_of_speech": "",
+            "origin": "Latin, combattere (to fight)",
+            "meaning": {
+                "ko": "싸우다",
+                "en": "to fight",
+                "ja": "戦闘員",
+                "zh": "战斗人员",
+                "fr": "combattant"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bat-",
+                    "meaning": {
+                        "ko": "'싸우다'",
+                        "en": "to fight",
+                        "ja": "戦う",
+                        "zh": "战斗",
+                        "fr": "combattre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ant",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전투에서 싸우는 사람'인 '전투원'을 뜻합니다.",
+                "en": "A person who fights in battle; a fighter or soldier engaged in combat",
+                "ja": "戦闘で戦う人を意味します",
+                "zh": "指在战斗中作战的人",
+                "fr": "Personne qui participe à un combat ou à une bataille"
+            },
+            "example": "All combatants were ordered to cease fire.",
+            "translation": {
+                "ko": "모든 전투원들은 사격을 중지하라는 명령을 받았다.",
+                "ja": "すべての戦闘員は停戦を命じられました。",
+                "zh": "所有战斗人员被命令停火。",
+                "fr": "Tous les combattants ont reçu l'ordre de cesser le feu."
+            }
+        },
+        {
+            "word": "merchant",
+            "part_of_speech": "",
+            "origin": "Latin, mercans (trading)",
+            "meaning": {
+                "ko": "거래하는",
+                "en": "to trade or deal in",
+                "ja": "商品を売買する人",
+                "zh": "买卖商品的人",
+                "fr": "personne qui vend des marchandises"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "merc- (merx)",
+                    "meaning": {
+                        "ko": "'상품'",
+                        "en": "merchandise",
+                        "ja": "商品",
+                        "zh": "商品",
+                        "fr": "marchandise"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ant",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상품을 거래하는 사람'인 '상인'을 뜻합니다.",
+                "en": "A person who trades merchandise, meaning a merchant or trader",
+                "ja": "商品を売買する人を意味する商人",
+                "zh": "买卖商品的人，即商人的意思",
+                "fr": "Une personne qui fait du commerce de marchandises, signifiant un commerçant"
+            },
+            "example": "The merchant sold silk and spices.",
+            "translation": {
+                "ko": "그 상인은 비단과 향신료를 팔았다.",
+                "ja": "商人は絹と香辛料を売った。",
+                "zh": "商人出售了丝绸和香料。",
+                "fr": "Le marchand a vendu de la soie et des épices."
+            }
+        },
+        {
+            "word": "penchant",
+            "part_of_speech": "",
+            "origin": "French, penchant (inclining)",
+            "meaning": {
+                "ko": "기우는",
+                "en": "inclining tendency",
+                "ja": "好み、傾向",
+                "zh": "偏好、倾向",
+                "fr": "penchant, inclination"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pench- (pendere)",
+                    "meaning": {
+                        "ko": "'매달리다, 기울다'",
+                        "en": "to hang, incline",
+                        "ja": "掛かる、傾く",
+                        "zh": "悬挂、倾斜",
+                        "fr": "pendre, incliner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ant",
+                    "meaning": {
+                        "ko": "'~하는 경향'",
+                        "en": "tendency to do",
+                        "ja": "~する傾向",
+                        "zh": "~的倾向",
+                        "fr": "tendance à~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 쪽으로 마음이 기우는 경향'인 '애호'를 뜻합니다.",
+                "en": "Means a preference or liking for something in a particular direction",
+                "ja": "ある方向への心の傾き、好み",
+                "zh": "向某个方向倾斜的心意偏好",
+                "fr": "Signifie une préférence ou un goût pour quelque chose"
+            },
+            "example": "She has a penchant for expensive shoes.",
+            "translation": {
+                "ko": "그녀는 비싼 신발을 매우 좋아한다.",
+                "ja": "彼女は高級な靴が好きだ。",
+                "zh": "她喜欢昂贵的鞋子。",
+                "fr": "Elle a un penchant pour les chaussures chères."
+            }
+        },
+        {
+            "word": "peasant",
+            "part_of_speech": "",
+            "origin": "Old French, paisent (countryman)",
+            "meaning": {
+                "ko": "시골 사람",
+                "en": "rural person",
+                "ja": "田舎の人",
+                "zh": "乡村人",
+                "fr": "paysan"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pais (pagus 'country')",
+                    "meaning": {
+                        "ko": "'시골'",
+                        "en": "country",
+                        "ja": "田舎",
+                        "zh": "乡村",
+                        "fr": "campagne"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ant",
+                    "meaning": {
+                        "ko": "'~에 사는 사람'",
+                        "en": "person living in",
+                        "ja": "に住む人",
+                        "zh": "住在~的人",
+                        "fr": "habitant de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시골에 사는' 가난한 농부인 '소작농'을 뜻합니다.",
+                "en": "Refers to a poor tenant farmer living in the countryside",
+                "ja": "田舎に住む貧しい小作農を意味します",
+                "zh": "指住在乡村的贫穷佃农",
+                "fr": "Désigne un pauvre fermier locataire vivant à la campagne"
+            },
+            "example": "The peasants worked in the fields from dawn till dusk.",
+            "translation": {
+                "ko": "농부들은 새벽부터 해질녘까지 들판에서 일했다.",
+                "ja": "農民たちは夜明けから夜中まで畑で働いた。",
+                "zh": "农民们从黎明到黄昏在田里劳作。",
+                "fr": "Les paysans travaillaient aux champs de l'aube au crépuscule."
+            }
+        }
+    ]
+}

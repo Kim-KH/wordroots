@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "atory (characterized by, related to) ambulatory, circulatory, laboratory, observatory",
+        "origin": "Latin, -atorius (relating to)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "relating to",
+            "ja": "…に関する",
+            "zh": "…に関する",
+            "fr": "concernant…"
+        }
+    },
+    "words": [
+        {
+            "word": "ambulatory",
+            "part_of_speech": "",
+            "origin": "Latin, ambulatorius (of walking)",
+            "meaning": {
+                "ko": "걷기의",
+                "en": "relating to walking",
+                "ja": "歩行の",
+                "zh": "行走的",
+                "fr": "relatif à la marche"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ambul-",
+                    "meaning": {
+                        "ko": "'걷다'",
+                        "en": "to walk",
+                        "ja": "歩く",
+                        "zh": "行走",
+                        "fr": "marcher"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-atory",
+                    "meaning": {
+                        "ko": "'~에 관한'",
+                        "en": "relating to",
+                        "ja": "~に関する",
+                        "zh": "关于~的",
+                        "fr": "relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'걸을 수 있는' 또는 '보행의'라는 뜻입니다.",
+                "en": "Means able to walk or relating to walking",
+                "ja": "歩くことができる、または歩行に関する",
+                "zh": "能够行走或与行走有关",
+                "fr": "Capable de marcher ou relatif à la marche"
+            },
+            "example": "The patient is ambulatory and does not need a wheelchair.",
+            "translation": {
+                "ko": "그 환자는 보행이 가능하여 휠체어가 필요하지 않다.",
+                "ja": "患者は歩行可能で、車椅子は必要ない。",
+                "zh": "患者能够行走，不需要轮椅。",
+                "fr": "Le patient peut marcher et n'a pas besoin de fauteuil roulant."
+            }
+        },
+        {
+            "word": "circulatory",
+            "part_of_speech": "",
+            "origin": "Latin, circulari (to form a circle)",
+            "meaning": {
+                "ko": "원을 형성하다",
+                "en": "to form a circle",
+                "ja": "循環の",
+                "zh": "循环的",
+                "fr": "circulatoire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "circul-",
+                    "meaning": {
+                        "ko": "'원'",
+                        "en": "circle",
+                        "ja": "円",
+                        "zh": "圆",
+                        "fr": "cercle"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-atory",
+                    "meaning": {
+                        "ko": "'~에 관한'",
+                        "en": "relating to",
+                        "ja": "~に関する",
+                        "zh": "~相关的",
+                        "fr": "~relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸속을 원처럼 도는' '순환의'라는 뜻입니다.",
+                "en": "Means 'circulating like a circle in the body' or 'relating to circulation'",
+                "ja": "体内を円のように巡る、循環に関する意味です",
+                "zh": "指像圆形一样在体内循环、与循环有关的意思",
+                "fr": "Signifie 'circulant comme un cercle dans le corps' ou 'relatif à la circulation'"
+            },
+            "example": "The circulatory system includes the heart, blood, and blood vessels.",
+            "translation": {
+                "ko": "순환계는 심장, 혈액, 혈관을 포함한다.",
+                "ja": "心臓、血液、血管を含む循環系",
+                "zh": "循环系统包括心脏、血液和血管",
+                "fr": "Le système circulatoire comprend le cœur, le sang et les vaisseaux sanguins"
+            }
+        },
+        {
+            "word": "laboratory",
+            "part_of_speech": "",
+            "origin": "Latin, laborare (to work)",
+            "meaning": {
+                "ko": "일하다",
+                "en": "to work",
+                "ja": "仕事をする場所",
+                "zh": "工作的地方",
+                "fr": "lieu de travail"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "labor-",
+                    "meaning": {
+                        "ko": "'일'",
+                        "en": "work",
+                        "ja": "仕事",
+                        "zh": "工作",
+                        "fr": "travail"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-atory",
+                    "meaning": {
+                        "ko": "'~하는 장소'",
+                        "en": "place where something is done",
+                        "ja": "~する場所",
+                        "zh": "~的地方",
+                        "fr": "lieu de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과학적인 작업을 하는 장소'인 '실험실'을 뜻합니다.",
+                "en": "Means laboratory, a place where scientific work is conducted",
+                "ja": "科学的な作業をする場所である実験室を意味します",
+                "zh": "指进行科学工作的地方实验室",
+                "fr": "Désigne le laboratoire, un lieu où travail scientifique"
+            },
+            "example": "The scientists are conducting experiments in the laboratory.",
+            "translation": {
+                "ko": "과학자들은 실험실에서 실험을 수행하고 있다.",
+                "ja": "科学者たちは実験室で実験を行っています",
+                "zh": "科学家们在实验室进行实验",
+                "fr": "Les scientifiques mènent expériences laboratoire"
+            }
+        },
+        {
+            "word": "observatory",
+            "part_of_speech": "",
+            "origin": "Latin, observare (to watch)",
+            "meaning": {
+                "ko": "관찰하다",
+                "en": "to observe",
+                "ja": "観測所",
+                "zh": "天文台",
+                "fr": "observatoire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "observ-",
+                    "meaning": {
+                        "ko": "'관찰하다'",
+                        "en": "to observe",
+                        "ja": "観察する",
+                        "zh": "观察",
+                        "fr": "observer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-atory",
+                    "meaning": {
+                        "ko": "'~하는 장소'",
+                        "en": "place for doing something",
+                        "ja": "する場所",
+                        "zh": "做的地方",
+                        "fr": "lieu où on fait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별이나 기상을 관찰하는 장소'인 '관측소', '기상대'를 뜻합니다.",
+                "en": "A place for observing stars or weather, such as an observatory or meteorological station",
+                "ja": "星や気象を観察する場所である観測所や気象台を意味します",
+                "zh": "指观察星星或天气的地方，如天文台或气象站",
+                "fr": "Un lieu pour observer les étoiles ou la météo, comme un observatoire ou une station météorologique"
+            },
+            "example": "The observatory is located on top of a mountain.",
+            "translation": {
+                "ko": "그 천문대는 산꼭대기에 위치해 있다.",
+                "ja": "その天文台は山の頂上に位置しています",
+                "zh": "这个天文台位于山顶",
+                "fr": "L'observatoire est situé au sommet d'une montagne"
+            }
+        }
+    ]
+}

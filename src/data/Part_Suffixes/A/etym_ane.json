@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "ane (attribute) arcane, humane, mundane, urbane",
+        "origin": "Latin, -anus (belonging to)",
+        "meaning": {
+            "ko": "…에 속하는",
+            "en": "belonging to",
+            "ja": "...に属する",
+            "zh": "...に属する",
+            "fr": "appartenant à"
+        }
+    },
+    "words": [
+        {
+            "word": "arcane",
+            "part_of_speech": "",
+            "origin": "Latin, arcanus (secret, hidden)",
+            "meaning": {
+                "ko": "비밀의",
+                "en": "secret or mysterious",
+                "ja": "秘密の、神秘的な",
+                "zh": "神秘的、秘密的",
+                "fr": "secret, mystérieux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arc- (arca 'a chest')",
+                    "meaning": {
+                        "ko": "'궤'",
+                        "en": "box",
+                        "ja": "箱",
+                        "zh": "箱子",
+                        "fr": "boîte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'궤 속에 숨겨져 있는'이라는 의미에서 '비밀의', '신비로운'이라는 뜻입니다.",
+                "en": "Meaning 'secret' or 'mysterious' from the idea of something hidden inside a box.",
+                "ja": "箱の中に隠されているというイメージから、秘密の、神秘的という意味になります",
+                "zh": "从藏在盒子里的意思引申为秘密的、神秘的含义",
+                "fr": "Signifie 'secret' ou 'mystérieux' de l'idée de quelque chose caché dans une boîte"
+            },
+            "example": "He is a master of the arcane arts.",
+            "translation": {
+                "ko": "그는 신비로운 기술의 대가이다.",
+                "ja": "彼は秘密の芸術の達人です",
+                "zh": "他是神秘艺术的大师",
+                "fr": "Il est un maître des arts mystérieux"
+            }
+        },
+        {
+            "word": "humane",
+            "part_of_speech": "",
+            "origin": "Latin, humanus (human, kind)",
+            "meaning": {
+                "ko": "인간의, 친절한",
+                "en": "human, kind",
+                "ja": "人間らしい、思いやりのある",
+                "zh": "人性的、仁慈的",
+                "fr": "humain, bienveillant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hum- (homo)",
+                    "meaning": {
+                        "ko": "'사람'",
+                        "en": "man",
+                        "ja": "人間",
+                        "zh": "人",
+                        "fr": "homme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인간으로서 가져야 할' 동정심이 있다는 의미에서 '인도적인', '자비로운'이라는 뜻입니다.",
+                "en": "Means 'showing compassion and kindness as befits a human being'; conveying the sense of being 'humanitarian' or 'merciful'",
+                "ja": "人間として持つべき同情心があるという意味で、『人道的な』『思いやりのある』という意味です",
+                "zh": "表示作为人类应有的同情心，意为『人道的』『仁慈的』",
+                "fr": "Signifie 'montrer la compassion et la bienveillance dignes d'un être humain'; transmet le sens d'être 'humanitaire' ou 'miséricordieux'"
+            },
+            "example": "The humane treatment of animals is important.",
+            "translation": {
+                "ko": "동물의 인도적인 대우는 중요하다.",
+                "ja": "動物への人道的な扱いは重要です",
+                "zh": "对待动物的人道方式很重要",
+                "fr": "Le traitement humain des animaux est important"
+            }
+        },
+        {
+            "word": "mundane",
+            "part_of_speech": "",
+            "origin": "Latin, mundanus (of the world)",
+            "meaning": {
+                "ko": "세상의",
+                "en": "of the world",
+                "ja": "日常的な、つまらない",
+                "zh": "平凡的、单调的",
+                "fr": "ordinaire, banal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mund- (mundus)",
+                    "meaning": {
+                        "ko": "'세상'",
+                        "en": "world",
+                        "ja": "世界、この世",
+                        "zh": "世界、这个世界",
+                        "fr": "monde, ce monde"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'천상의 것이 아닌 이 세상의'이라는 의미에서 '재미없는', '일상적인'이라는 뜻이 되었습니다.",
+                "en": "Originally meaning worldly or of this world, it came to mean uninteresting or ordinary because it refers to everyday, non-spiritual matters.",
+                "ja": "元々は世俗的なこの世のものという意味で、日常的で精神的でない事柄を指すため、つまらない、日常的という意味になりました。",
+                "zh": "源自世俗的、属于这个世界的含义，因为指的是日常的、非精神性的事物，后来演变为平凡、单调的意思。",
+                "fr": "Originalement signifiant séculier ou de ce monde, cela a pris le sens d'ennuyeux ou ordinaire car il fait référence aux affaires quotidiennes et non spirituelles."
+            },
+            "example": "He was tired of his mundane life.",
+            "translation": {
+                "ko": "그는 그의 평범한 삶에 싫증이 났다.",
+                "ja": "彼は自分の日常的な生活に疲れていた。",
+                "zh": "他厌倦了自己平凡的生活。",
+                "fr": "Il était fatigué de sa vie ordinaire."
+            }
+        },
+        {
+            "word": "urbane",
+            "part_of_speech": "",
+            "origin": "Latin, urbanus (of the city, refined)",
+            "meaning": {
+                "ko": "도시의, 세련된",
+                "en": "urban and sophisticated",
+                "ja": "都市的で洗練された",
+                "zh": "城市的、精致的",
+                "fr": "urbain, raffiné"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "urb-",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'도시 사람처럼 세련되고 예의 바른'이라는 뜻입니다.",
+                "en": "Means refined and courteous like a city person.",
+                "ja": "都市の人のように洗練され礼儀正しいという意味です。",
+                "zh": "意思是像城市人一样精致而有礼貌。",
+                "fr": "Signifie raffiné et courtois comme une personne urbaine."
+            },
+            "example": "He is an urbane and witty conversationalist.",
+            "translation": {
+                "ko": "그는 세련되고 재치 있는 대화가이다.",
+                "ja": "彼は洗練された機知に富んだ会話者です。",
+                "zh": "他是一位精致而聪慧的谈话者。",
+                "fr": "C'est un conversateur urbain et spirituel."
+            }
+        }
+    ]
+}

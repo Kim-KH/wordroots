@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "semble (similar) assemble, dissemble, ensemble, resemble",
+        "origin": "Latin, similis (like, similar)",
+        "meaning": {
+            "ko": "비슷한",
+            "en": "similar",
+            "ja": "似ている",
+            "zh": "相似的",
+            "fr": "similaire"
+        }
+    },
+    "words": [
+        {
+            "word": "assemble",
+            "part_of_speech": "",
+            "origin": "Latin, assimulare (to make like)",
+            "meaning": {
+                "ko": "비슷하게 만들다",
+                "en": "to make similarly",
+                "ja": "組み立てる、集める",
+                "zh": "组装、集合",
+                "fr": "assembler, rassembler"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "as- (ad-)",
+                    "meaning": {
+                        "ko": "'~으로'",
+                        "en": "to",
+                        "ja": "へ、まで",
+                        "zh": "向、到",
+                        "fr": "à, vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "semble (similis)",
+                    "meaning": {
+                        "ko": "'비슷한, 함께'",
+                        "en": "similar, together",
+                        "ja": "似た、一緒",
+                        "zh": "相似、一起",
+                        "fr": "similaire, ensemble"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비슷한 것들을 함께 모으다'는 의미에서 '모으다', '조립하다'라는 뜻입니다.",
+                "en": "Gather similar things together to assemble or organize",
+                "ja": "似たものを一緒に集めて組み立てたり整理したりする",
+                "zh": "将相似的东西聚集在一起以组装或整理",
+                "fr": "Rassembler les choses similaires ensemble pour assembler ou organiser"
+            },
+            "example": "We need to assemble a team for the project.",
+            "translation": {
+                "ko": "우리는 그 프로젝트를 위한 팀을 구성해야 한다.",
+                "ja": "プロジェクトのためにチームを組成する必要があります",
+                "zh": "我们需要为这个项目组建一个团队",
+                "fr": "Nous devons assembler une équipe pour le projet"
+            }
+        },
+        {
+            "word": "dissemble",
+            "part_of_speech": "",
+            "origin": "Old French, dissembler (to be different)",
+            "meaning": {
+                "ko": "다르다",
+                "en": "to be different",
+                "ja": "偽る、隠す",
+                "zh": "隐瞒、掩饰",
+                "fr": "dissimuler, feindre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "'반대'",
+                        "en": "opposite",
+                        "ja": "反対の",
+                        "zh": "相反的",
+                        "fr": "opposé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "semble (simulare)",
+                    "meaning": {
+                        "ko": "'~인 체하다'",
+                        "en": "to feign",
+                        "ja": "~のふりをする",
+                        "zh": "假装~",
+                        "fr": "feindre de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실제와 다르게 보이게 하다'는 의미에서 '(감정, 의도 등을) 숨기다', '~인 체하다'라는 뜻입니다.",
+                "en": "To hide or conceal one's true emotions, intentions, or feelings by appearing different from reality",
+                "ja": "実際と異なるように見せることで、感情や意図などを隠すこと",
+                "zh": "通过表现得与事实不同来隐藏真实的情感、意图等",
+                "fr": "Cacher ses véritables émotions ou intentions en paraissant différent de la réalité"
+            },
+            "example": "He tried to dissemble his true intentions.",
+            "translation": {
+                "ko": "그는 자신의 진짜 의도를 숨기려고 했다.",
+                "ja": "彼は本当の意図を隠そうとした。",
+                "zh": "他试图隐瞒自己的真实意图。",
+                "fr": "Il a essayé de dissimuler ses véritables intentions."
+            }
+        },
+        {
+            "word": "ensemble",
+            "part_of_speech": "",
+            "origin": "French, ensemble (together)",
+            "meaning": {
+                "ko": "함께",
+                "en": "together",
+                "ja": "一緒に、全体",
+                "zh": "一起、整体",
+                "fr": "ensemble, harmonie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在里面",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "semble (simul)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 부분이 함께 조화를 이루는' 전체라는 의미에서 '앙상블', '합주단' 또는 '전체적인 조화'를 뜻합니다.",
+                "en": "All parts harmonize together to form a whole, meaning 'ensemble', 'group performance' or 'overall harmony'",
+                "ja": "すべての部分が一緒に調和して全体を形成する意味で、アンサンブル、合奏団、または全体的な調和を意味します",
+                "zh": "所有部分一起协调形成一个整体，意思是合奏、乐团或整体和谐",
+                "fr": "Toutes les parties s'harmonisent ensemble pour former un tout, signifiant ensemble, groupe musical ou harmonie globale"
+            },
+            "example": "The jazz ensemble played a lively tune.",
+            "translation": {
+                "ko": "그 재즈 앙상블은 경쾌한 곡을 연주했다.",
+                "ja": "ジャズ合奏団は活気のあるメロディーを演奏しました。",
+                "zh": "爵士乐合奏团演奏了一首活泼的曲调。",
+                "fr": "L'ensemble de jazz a joué un air entraînant."
+            }
+        },
+        {
+            "word": "resemble",
+            "part_of_speech": "",
+            "origin": "Old French, resembler (to be like)",
+            "meaning": {
+                "ko": "~와 같다",
+                "en": "to be the same as",
+                "ja": "似ている",
+                "zh": "相似",
+                "fr": "ressembler"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "강조",
+                        "en": "",
+                        "ja": "強調",
+                        "zh": "强调",
+                        "fr": "emphase"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "semble (similis)",
+                    "meaning": {
+                        "ko": "'비슷한'",
+                        "en": "similar",
+                        "ja": "似た",
+                        "zh": "相似的",
+                        "fr": "similaire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람이나 사물과 비슷하다', '닮다'는 뜻입니다.",
+                "en": "Means to be similar to another person or thing; to look like",
+                "ja": "別の人や物と似ている、そっくりであるという意味です",
+                "zh": "表示与另一个人或事物相似，长得像的意思",
+                "fr": "Signifie être similaire à une autre personne ou chose; avoir l'air de"
+            },
+            "example": "She resembles her mother.",
+            "translation": {
+                "ko": "그녀는 그녀의 어머니를 닮았다.",
+                "ja": "彼女は母親に似ている。",
+                "zh": "她像她的母亲。",
+                "fr": "Elle ressemble à sa mère."
+            }
+        }
+    ]
+}

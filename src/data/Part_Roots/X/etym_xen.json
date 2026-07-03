@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "xen(o) (stranger) xenobiotic, xenophobe, xenophile",
+        "origin": "Greek, xenos (a stranger, a foreigner, a guest)",
+        "meaning": {
+            "ko": "이방인",
+            "en": "a stranger",
+            "ja": "見知らぬ人",
+            "zh": "陌生人",
+            "fr": "un étranger"
+        }
+    },
+    "words": [
+        {
+            "word": "xenobiotic",
+            "part_of_speech": "",
+            "origin": "Greek, xenos (foreign) + bios (life)",
+            "meaning": {
+                "ko": "외래 생명",
+                "en": "foreign life substance",
+                "ja": "生物に異質な外部化学物質",
+                "zh": "对生物体异质的外部化学物质",
+                "fr": "substance chimique externe étrangère à l'organisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "xeno-",
+                    "meaning": {
+                        "ko": "'외래의'",
+                        "en": "foreign",
+                        "ja": "外来の",
+                        "zh": "外来的",
+                        "fr": "étranger"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "biotic",
+                    "meaning": {
+                        "ko": "'생물의'",
+                        "en": "of living organisms",
+                        "ja": "生物の",
+                        "zh": "生物的",
+                        "fr": "biologique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생물체에게 이질적인 외부 화학 물질'을 뜻합니다.",
+                "en": "A foreign chemical substance that is alien to a living organism",
+                "ja": "生物体に異質な外部化学物質を意味します",
+                "zh": "指对生物体异质的外部化学物质",
+                "fr": "Une substance chimique externe étrangère à un organisme vivant"
+            },
+            "example": "Pesticides are a type of xenobiotic.",
+            "translation": {
+                "ko": "살충제는 생체 이물질의 한 종류이다.",
+                "ja": "農薬はキセノバイオティックの一種です",
+                "zh": "杀虫剂是一种异生物",
+                "fr": "Les pesticides sont un type de xénobiotique"
+            }
+        },
+        {
+            "word": "xenophobe",
+            "part_of_speech": "",
+            "origin": "Greek, xenos (stranger) + phobos (fear)",
+            "meaning": {
+                "ko": "이방인 공포",
+                "en": "fear of foreigners",
+                "ja": "外国人恐怖症",
+                "zh": "仇外者",
+                "fr": "xénophobe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "xeno-",
+                    "meaning": {
+                        "ko": "'외국인'",
+                        "en": "stranger",
+                        "ja": "外国人",
+                        "zh": "陌生人",
+                        "fr": "étranger"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phobe",
+                    "meaning": {
+                        "ko": "'혐오하는 사람'",
+                        "en": "person who hates",
+                        "ja": "嫌悪する人",
+                        "zh": "厌恶的人",
+                        "fr": "personne qui déteste"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'외국인이나 이질적인 것을 두려워하고 혐오하는 사람'인 '외국인 혐오자'를 뜻합니다.",
+                "en": "A person who fears and despises foreigners or things that are foreign",
+                "ja": "外国人や異質なものを恐れ、嫌悪する人",
+                "zh": "害怕并仇恨外国人或陌生事物的人",
+                "fr": "Personne qui craint et déteste les étrangers ou choses étrangères"
+            },
+            "example": "A xenophobe is someone who has a deep-rooted fear of foreigners.",
+            "translation": {
+                "ko": "외국인 혐오자는 외국인에 대한 뿌리 깊은 두려움을 가진 사람이다.",
+                "ja": "外国人嫌悪者",
+                "zh": "仇外者",
+                "fr": "xénophobe"
+            }
+        },
+        {
+            "word": "xenophile",
+            "part_of_speech": "",
+            "origin": "Greek, xenos (stranger) + philos (loving)",
+            "meaning": {
+                "ko": "이방인 사랑",
+                "en": "lover of foreigners",
+                "ja": "異文化愛好家",
+                "zh": "外国文化爱好者",
+                "fr": "amoureux des cultures étrangères"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "xeno-",
+                    "meaning": {
+                        "ko": "'외국인'",
+                        "en": "stranger",
+                        "ja": "外国人",
+                        "zh": "陌生人",
+                        "fr": "étranger"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phile",
+                    "meaning": {
+                        "ko": "'사랑하는 사람'",
+                        "en": "person who loves",
+                        "ja": "愛する人",
+                        "zh": "爱的人",
+                        "fr": "personne qui aime"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'외국인이나 외국의 문화를 매우 좋아하는 사람'을 뜻합니다.",
+                "en": "A person who is very fond of foreigners or foreign cultures",
+                "ja": "外国人や外国の文化を非常に好む人を意味します",
+                "zh": "指非常喜欢外国人或外国文化的人",
+                "fr": "Personne qui aime beaucoup les étrangers ou les cultures étrangères"
+            },
+            "example": "As a xenophile, he loved traveling and learning about different cultures.",
+            "translation": {
+                "ko": "외국 문화를 애호하는 사람으로서, 그는 여행하고 다른 문화에 대해 배우는 것을 좋아했다.",
+                "ja": "異文化愛好家として、彼は旅行や異なる文化を学ぶことが大好きでした。",
+                "zh": "作为一个外国文化爱好者，他喜欢旅游和学习不同的文化。",
+                "fr": "En tant qu'amoureux des cultures étrangères, il aimait voyager et découvrir différentes cultures."
+            }
+        }
+    ]
+}

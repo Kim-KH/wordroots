@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "salu (health) salute, salubrious, salutary",
+        "origin": "Latin, salus (health)",
+        "meaning": {
+            "ko": "건강",
+            "en": "health",
+            "ja": "健康",
+            "zh": "健康",
+            "fr": "santé"
+        }
+    },
+    "words": [
+        {
+            "word": "salute",
+            "part_of_speech": "",
+            "origin": "Latin, salutare (to greet, to wish health to)",
+            "meaning": {
+                "ko": "건강을 빌다",
+                "en": "to wish for good health",
+                "ja": "敬礼する、挨拶する",
+                "zh": "敬礼、问候",
+                "fr": "saluer, rendre hommage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "salut-",
+                    "meaning": {
+                        "ko": "'건강'",
+                        "en": "health",
+                        "ja": "健康",
+                        "zh": "健康",
+                        "fr": "santé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상대방의 건강과 안녕을 빌며 경의를 표하다'는 의미에서 '경례하다', '인사하다'라는 뜻입니다.",
+                "en": "To show respect and wish someone health and well-being, meaning to salute or greet",
+                "ja": "相手の健康と安寧を祈り、敬意を表すること、つまり敬礼や挨拶を意味する",
+                "zh": "祝愿他人健康安康并表示敬意，意为敬礼或问候",
+                "fr": "Montrer du respect et souhaiter la santé et le bien-être de quelqu'un, signifiant saluer ou accueillir"
+            },
+            "example": "The soldiers saluted the flag.",
+            "translation": {
+                "ko": "군인들이 국기에 경례했다.",
+                "ja": "兵士たちは旗に敬礼した。",
+                "zh": "士兵们向旗敬礼。",
+                "fr": "Les soldats ont salué le drapeau."
+            }
+        },
+        {
+            "word": "salubrious",
+            "part_of_speech": "",
+            "origin": "Latin, salubris (healthful)",
+            "meaning": {
+                "ko": "건강에 좋은",
+                "en": "good for health",
+                "ja": "健康に良い",
+                "zh": "有益于健康的",
+                "fr": "bénéfique pour la santé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "salu-",
+                    "meaning": {
+                        "ko": "'건강'",
+                        "en": "health",
+                        "ja": "健康",
+                        "zh": "健康",
+                        "fr": "santé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'건강에 좋은', '살기 좋은'이라는 뜻입니다.",
+                "en": "Means 'good for health' or 'pleasant to live in'",
+                "ja": "健康に良い、住み心地が良いという意味です",
+                "zh": "有益于健康的或舒适宜居的意思",
+                "fr": "Signifie 'bon pour la santé' ou 'agréable à vivre'"
+            },
+            "example": "The mountain air is fresh and salubrious.",
+            "translation": {
+                "ko": "산 공기는 신선하고 건강에 좋다.",
+                "ja": "山の空気は新鮮で健康的です",
+                "zh": "山区的空气清新有益健康",
+                "fr": "L'air de la montagne est frais et salubre"
+            }
+        },
+        {
+            "word": "salutary",
+            "part_of_speech": "",
+            "origin": "Latin, salutaris (healthful)",
+            "meaning": {
+                "ko": "건강에 좋은",
+                "en": "beneficial to health",
+                "ja": "健康に良い",
+                "zh": "有益的",
+                "fr": "salutaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "salut-",
+                    "meaning": {
+                        "ko": "'건강'",
+                        "en": "health",
+                        "ja": "健康",
+                        "zh": "健康",
+                        "fr": "santé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'건강에 이로운'이라는 의미에서 '유익한', '건전한'이라는 뜻입니다.",
+                "en": "Means beneficial or wholesome in the sense of being good for health",
+                "ja": "健康に有益である、または有益で健全という意味です",
+                "zh": "指对健康有益或有益、健全的含义",
+                "fr": "Signifie bénéfique ou sain au sens d'être bon pour la santé"
+            },
+            "example": "The experience was a salutary lesson for him.",
+            "translation": {
+                "ko": "그 경험은 그에게 유익한 교훈이었다.",
+                "ja": "その経験は彼にとって有益な教訓だった。",
+                "zh": "这次经历对他是一个有益的教训。",
+                "fr": "Cette expérience a été une leçon salutaire pour lui."
+            }
+        }
+    ]
+}

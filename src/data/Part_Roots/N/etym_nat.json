@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "nat (birth) nationality, nativity, neonatal",
+        "origin": "Latin, nasci, natus (to be born)",
+        "meaning": {
+            "ko": "태어나다",
+            "en": "to be born",
+            "ja": "生まれる",
+            "zh": "出生",
+            "fr": "naître"
+        }
+    },
+    "words": [
+        {
+            "word": "nationality",
+            "part_of_speech": "",
+            "origin": "Latin, natio (birth, race)",
+            "meaning": {
+                "ko": "태생, 민족",
+                "en": "origin, ethnicity",
+                "ja": "国籍、民族",
+                "zh": "国籍、民族",
+                "fr": "nationalité, origine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nat-",
+                    "meaning": {
+                        "ko": "'태생'",
+                        "en": "birth",
+                        "ja": "誕生",
+                        "zh": "出生",
+                        "fr": "naissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'태어난 나라'를 의미하는 '국적'을 뜻합니다.",
+                "en": "Refers to 'nationality' meaning the country where one was born",
+                "ja": "生まれた国を意味する国籍のことです",
+                "zh": "指出生国家的国籍",
+                "fr": "Désigne la nationalité, c'est-à-dire le pays de naissance"
+            },
+            "example": "What is your nationality?",
+            "translation": {
+                "ko": "당신의 국적은 무엇입니까?",
+                "ja": "あなたの国籍は何ですか?",
+                "zh": "你的国籍是什么?",
+                "fr": "Quelle est votre nationalité?"
+            }
+        },
+        {
+            "word": "nativity",
+            "part_of_speech": "",
+            "origin": "Latin, nativitas (birth)",
+            "meaning": {
+                "ko": "탄생",
+                "en": "birth",
+                "ja": "誕生",
+                "zh": "诞生",
+                "fr": "nativité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nat-",
+                    "meaning": {
+                        "ko": "'태생'",
+                        "en": "birth",
+                        "ja": "誕生",
+                        "zh": "出生",
+                        "fr": "naissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'탄생', 특히 예수의 탄생을 의미합니다.",
+                "en": "Nativity, especially the birth of Jesus",
+                "ja": "誕生、特にイエスの誕生を意味します",
+                "zh": "诞生，特别是指耶稣的诞生",
+                "fr": "Nativité, en particulier la naissance de Jésus"
+            },
+            "example": "The church has a beautiful nativity scene.",
+            "translation": {
+                "ko": "그 교회에는 아름다운 예수 탄생 장면 모형이 있다.",
+                "ja": "教会には美しい降誕場面があります。",
+                "zh": "教堂里有一个美丽的耶稣诞生场景。",
+                "fr": "L'église a une belle scène de la Nativité."
+            }
+        },
+        {
+            "word": "neonatal",
+            "part_of_speech": "",
+            "origin": "Greek, neos (new) + Latin, natus (born)",
+            "meaning": {
+                "ko": "새로 태어난",
+                "en": "newly born",
+                "ja": "新生児の",
+                "zh": "新生的",
+                "fr": "néonatal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neo-",
+                    "meaning": {
+                        "ko": "'새로운'",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nat-",
+                    "meaning": {
+                        "ko": "'태어난'",
+                        "en": "born",
+                        "ja": "生まれた",
+                        "zh": "出生的",
+                        "fr": "né"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'갓 태어난 아기'의 시기, 즉 '신생아의'라는 뜻입니다.",
+                "en": "The period of a newborn baby, meaning 'of a newborn'",
+                "ja": "生まれたばかりの赤ちゃんの時期、つまり新生児についての意味です",
+                "zh": "刚出生婴儿的时期，即新生儿的意思",
+                "fr": "La période d'un bébé nouveau-né, signifiant 'du nouveau-né'"
+            },
+            "example": "The baby is in the neonatal intensive care unit.",
+            "translation": {
+                "ko": "그 아기는 신생아 집중 치료실에 있다.",
+                "ja": "その赤ちゃんは新生児集中治療室にいます",
+                "zh": "这个婴儿在新生儿重症监护病房里",
+                "fr": "Le bébé est à l'unité de soins intensifs néonatals"
+            }
+        }
+    ]
+}

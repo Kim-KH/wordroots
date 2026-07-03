@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "ego (self) ego, egotistical, superego",
+        "origin": "Latin, ego (I)",
+        "meaning": {
+            "ko": "나, 자아",
+            "en": "I, self",
+            "ja": "私、自己",
+            "zh": "我，自我",
+            "fr": "moi, soi"
+        }
+    },
+    "words": [
+        {
+            "word": "ego",
+            "part_of_speech": "",
+            "origin": "Latin, ego (I)",
+            "meaning": {
+                "ko": "나",
+                "en": "I, me",
+                "ja": "自我、自尊心",
+                "zh": "自我、自尊心",
+                "fr": "moi, amour-propre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ego-",
+                    "meaning": {
+                        "ko": "'자아'",
+                        "en": "self",
+                        "ja": "自己",
+                        "zh": "自己",
+                        "fr": "soi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나' 자신을 가리키는 라틴어에서 유래하여, 심리학에서 '자아' 또는 '자존심'을 뜻합니다.",
+                "en": "Derived from Latin meaning 'I' or 'self', used in psychology to refer to the self or self-esteem.",
+                "ja": "ラテン語の'自己'に由来し、心理学で'自我'または'自尊心'を意味します。",
+                "zh": "源自拉丁语'自我'或'自己'，在心理学中指'自我'或'自尊心'。",
+                "fr": "Dérivé du latin signifiant 'je' ou 'soi', utilisé en psychologie pour désigner le moi ou l'amour-propre."
+            },
+            "example": "He has a huge ego.",
+            "translation": {
+                "ko": "그는 자존심이 매우 강하다.",
+                "ja": "彼は非常に大きな自我を持っている。",
+                "zh": "他有巨大的自我。",
+                "fr": "Il a un énorme ego."
+            }
+        },
+        {
+            "word": "egotistical",
+            "part_of_speech": "",
+            "origin": "Latin, ego (I)",
+            "meaning": {
+                "ko": "나",
+                "en": "I or me",
+                "ja": "自分勝手な",
+                "zh": "自我中心的",
+                "fr": "égocentrique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ego-",
+                    "meaning": {
+                        "ko": "'자아'",
+                        "en": "self",
+                        "ja": "自己",
+                        "zh": "自我",
+                        "fr": "soi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "자신에 대해서만 생각하고 말하는 경향이 있다는 의미에서 '자기중심적인', '거만한'이라는 뜻입니다.",
+                "en": "Means self-centered or arrogant, describing a tendency to think and speak only about oneself",
+                "ja": "自分のことだけを考え、話す傾向があることを意味する『自己中心的な』『傲慢な』という意味です。",
+                "zh": "表示只思考和谈论自己的倾向，意为『自我中心的』『傲慢的』。",
+                "fr": "Signifie égocentriste ou arrogant, décrivant la tendance à penser et parler seulement de soi."
+            },
+            "example": "He is an egotistical and selfish person.",
+            "translation": {
+                "ko": "그는 자기중심적이고 이기적인 사람이다.",
+                "ja": "彼は自分勝手で利己的な人です。",
+                "zh": "他是个自我中心且自私的人。",
+                "fr": "Il est une personne égocentrique et égoïste."
+            }
+        },
+        {
+            "word": "superego",
+            "part_of_speech": "",
+            "origin": "Latin, super (above) + ego (I)",
+            "meaning": {
+                "ko": "자아 위에",
+                "en": "above the self",
+                "ja": "自我を超えた部分",
+                "zh": "超越自我的部分",
+                "fr": "au-delà du moi"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "super-",
+                    "meaning": {
+                        "ko": "'위에'",
+                        "en": "above",
+                        "ja": "上に",
+                        "zh": "上方",
+                        "fr": "au-dessus"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ego",
+                    "meaning": {
+                        "ko": "'자아'",
+                        "en": "the self",
+                        "ja": "自我",
+                        "zh": "自我",
+                        "fr": "moi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "정신분석학에서 '자아 위에서' 도덕적 기준에 따라 자아를 통제하는 '초자아'를 뜻합니다.",
+                "en": "In psychoanalysis, the superego refers to the part of the mind that controls the ego according to moral standards 'from above the ego'.",
+                "ja": "精神分析学において、自我の上から道徳的基準に従って自我を統制する心の部分を意味する。",
+                "zh": "在精神分析学中，超自我是指按照道德标准从自我之上控制自我的心理部分。",
+                "fr": "En psychanalyse, le surmoi désigne la partie de l'esprit qui contrôle le moi selon des normes morales 'au-dessus du moi'."
+            },
+            "example": "The superego is the part of the mind that acts as a self-critical conscience.",
+            "translation": {
+                "ko": "초자아는 자기 비판적인 양심으로 작용하는 마음의 부분이다.",
+                "ja": "超自我",
+                "zh": "超自我",
+                "fr": "surmoi"
+            }
+        }
+    ]
+}

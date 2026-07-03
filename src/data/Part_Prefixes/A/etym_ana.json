@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ana (again, backward) analogy, anaphase, anabolic",
+        "origin": "Greek, ana (up, on, upon, back, again)[3]",
+        "meaning": {
+            "ko": "위로, 뒤로, 다시 (up, back, again)[3]",
+            "en": "위로, 뒤로, 다시 (up, back, again)[3]",
+            "ja": "上に、後ろに、もう一度 (up, back, again)[3]",
+            "zh": "向上、向后、再次 (up, back, again)[3]",
+            "fr": "vers le haut, en arrière, à nouveau (up, back, again)[3]"
+        }
+    },
+    "words": [
+        {
+            "word": "analogy",
+            "part_of_speech": "",
+            "origin": "Greek, analogia (proportion)",
+            "meaning": {
+                "ko": "비례, 균형",
+                "en": "proportion",
+                "ja": "比例、均衡",
+                "zh": "比例、平衡",
+                "fr": "proportion, équilibre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ana-",
+                    "meaning": {
+                        "ko": "'~에 따라서'",
+                        "en": "according to",
+                        "ja": "〜に従って",
+                        "zh": "根据、按照",
+                        "fr": "selon, conformément à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logos",
+                    "meaning": {
+                        "ko": "'비율, 이성'",
+                        "en": "ratio, reason",
+                        "ja": "比率、理性",
+                        "zh": "比率、理由",
+                        "fr": "rapport, raison"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비율에 따르는 것'이라는 의미에서 두 사물 간의 '유사점' 또는 그것에 기반한 '비유', '유추'를 뜻하게 되었습니다.",
+                "en": "Based on the meaning 'in accordance with proportion', it came to mean 'similarities between two things' or 'metaphor' and 'analogy' based on it.",
+                "ja": "比率に従うという意味から、二つのもの間の類似性、またはそれに基づく比喩や類推を意味するようになりました。",
+                "zh": "根据比例这一含义，后来指代两个事物之间的相似性，或基于此的比喻和类比。",
+                "fr": "Du sens 'selon la proportion', il a fini par signifier 'similitudes entre deux choses' ou 'métaphore' et 'analogie' basées sur celui-ci."
+            },
+            "example": "The teacher drew an analogy between the human heart and a pump.",
+            "translation": {
+                "ko": "선생님은 인간의 심장과 펌프 사이의 유사점을 들어 비유했다.",
+                "ja": "先生は人間の心とポンプの類似性を説明しました。",
+                "zh": "教师在人心和泵之间进行了类比。",
+                "fr": "L'enseignant a établi une analogie entre le cœur humain et une pompe."
+            }
+        },
+        {
+            "word": "anaphase",
+            "part_of_speech": "",
+            "origin": "German, anaphase (backward appearance)",
+            "meaning": {
+                "ko": "뒤로 가는 모습[3][4]",
+                "en": "appearance of moving backward",
+                "ja": "後ろに向かう様子",
+                "zh": "向后移动的样子",
+                "fr": "mouvement vers l'arrière"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ana-",
+                    "meaning": {
+                        "ko": "'뒤로' (backward)[5]",
+                        "en": "backward",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phase (phasis)",
+                    "meaning": {
+                        "ko": "'모습, 단계' (appearance, stage)[3][4]",
+                        "en": "appearance, stage",
+                        "ja": "様子、段階",
+                        "zh": "样子、阶段",
+                        "fr": "apparence, phase"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 분열 시 염색체가 양극'뒤로' 끌려가는 '단계'를 의미합니다.[6]",
+                "en": "During anaphase, the chromosomes separate and move to opposite ends of the cell.",
+                "ja": "細胞分裂時に染色体が両極に引き離される段階を意味します。",
+                "zh": "细胞分裂时染色体被拉向两极的阶段。",
+                "fr": "Phase durant laquelle les chromosomes se séparent et se déplacent aux pôles opposés de la cellule."
+            },
+            "example": "During anaphase, the chromosomes separate and move to opposite ends of the cell.[5]",
+            "translation": {
+                "ko": "후기 단계에서 염색체는 분리되어 세포의 양쪽 끝으로 이동합니다.",
+                "ja": "後期",
+                "zh": "后期",
+                "fr": "anaphase"
+            }
+        },
+        {
+            "word": "anabolic",
+            "part_of_speech": "",
+            "origin": "Greek, anabole (a heaping up)",
+            "meaning": {
+                "ko": "쌓아 올림",
+                "en": "building up",
+                "ja": "積み上げること",
+                "zh": "积累",
+                "fr": "accumulation"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ana-",
+                    "meaning": {
+                        "ko": "'위로'",
+                        "en": "up",
+                        "ja": "上へ",
+                        "zh": "向上",
+                        "fr": "vers le haut"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bole (ballein)",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "投掷",
+                        "fr": "lancer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "작은 분자들을 '위로' 던져서 더 큰 분자를 합성하는 작용, 즉 '동화 작용의'라는 뜻으로 쓰입니다.",
+                "en": "The process of synthesizing larger molecules by throwing small molecules upward, meaning 'anabolic action'.",
+                "ja": "小さな分子を上に投げて大きな分子を合成する作用、つまり同化作用という意味で使われます。",
+                "zh": "通过向上投掷小分子来合成大分子的作用，即同化作用的意思。",
+                "fr": "L'action de synthétiser des molécules plus grandes en projetant de petites molécules vers le haut, c'est-à-dire l'action anabolique."
+            },
+            "example": "Anabolic steroids are sometimes used by athletes to build muscle.",
+            "translation": {
+                "ko": "동화 스테로이드는 때때로 운동선수들이 근육을 키우기 위해 사용합니다.",
+                "ja": "アスリートが筋肉を構築するために同化ステロイドを使用することがあります。",
+                "zh": "运动员有时使用合成代谢类固醇来增强肌肉。",
+                "fr": "Les stéroïdes anabolisants sont parfois utilisés par les athlètes pour développer les muscles."
+            }
+        }
+    ]
+}

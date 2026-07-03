@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "dom (state, realm) boredom, freedom, princedom, wisdom",
+        "origin": "Old English, -dom (state, condition)",
+        "meaning": {
+            "ko": "상태, 영역",
+            "en": "state, realm",
+            "ja": "状態、領域",
+            "zh": "状态、领域",
+            "fr": "état, domaine"
+        }
+    },
+    "words": [
+        {
+            "word": "boredom",
+            "part_of_speech": "",
+            "origin": "English, bore + -dom",
+            "meaning": {
+                "ko": "지루한 상태",
+                "en": "state of being bored",
+                "ja": "退屈な状態",
+                "zh": "无聊的状态",
+                "fr": "état d'ennui"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bore",
+                    "meaning": {
+                        "ko": "'지루하게 하다'",
+                        "en": "to make bored",
+                        "ja": "退屈にさせる",
+                        "zh": "使人厌烦",
+                        "fr": "rendre ennuyeux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-dom",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지루한 상태'인 '지루함', '권태'를 뜻합니다.",
+                "en": "Means a state of being bored, tedium, or weariness",
+                "ja": "退屈している状態、つまり倦怠感や退屈さを意味します",
+                "zh": "意思是无聊的状态,即厌倦感或无聊",
+                "fr": "Signifie un état d'ennui, c'est-à-dire la lassitude ou l'ennui"
+            },
+            "example": "He was suffering from extreme boredom.",
+            "translation": {
+                "ko": "그는 극심한 지루함에 시달리고 있었다.",
+                "ja": "彼は極度の退屈に苦しんでいた。",
+                "zh": "他极度感到无聊。",
+                "fr": "Il souffrait d'un ennui extrême."
+            }
+        },
+        {
+            "word": "freedom",
+            "part_of_speech": "",
+            "origin": "Old English, freodom",
+            "meaning": {
+                "ko": "자유로운 상태",
+                "en": "state of being free",
+                "ja": "自由な状態",
+                "zh": "自由的状态",
+                "fr": "état de liberté"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "free",
+                    "meaning": {
+                        "ko": "'자유로운'",
+                        "en": "free or liberated",
+                        "ja": "自由な",
+                        "zh": "自由的",
+                        "fr": "libre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-dom",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'억압받지 않는 자유로운 상태'인 '자유'를 뜻합니다.",
+                "en": "Means 'freedom' - a state of not being oppressed",
+                "ja": "抑圧されない自由な状態の自由を意味します",
+                "zh": "指不受压迫的自由状态",
+                "fr": "Signifie la liberté - un état sans oppression"
+            },
+            "example": "We all long for freedom.",
+            "translation": {
+                "ko": "우리 모두는 자유를 갈망한다.",
+                "ja": "私たちは皆自由を求めています。",
+                "zh": "我们都渴望自由。",
+                "fr": "Nous aspirons tous à la liberté."
+            }
+        },
+        {
+            "word": "princedom",
+            "part_of_speech": "",
+            "origin": "English, prince + -dom",
+            "meaning": {
+                "ko": "왕자의 영역",
+                "en": "domain or territory of a prince",
+                "ja": "王子の領域",
+                "zh": "王子的领地",
+                "fr": "domaine du prince"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "prince",
+                    "meaning": {
+                        "ko": "'왕자, 공'",
+                        "en": "prince, nobleman",
+                        "ja": "王子、公爵",
+                        "zh": "王子、公爵",
+                        "fr": "prince, duc"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-dom",
+                    "meaning": {
+                        "ko": "'영역'",
+                        "en": "domain, territory",
+                        "ja": "領域、地域",
+                        "zh": "领地、地区",
+                        "fr": "domaine, territoire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공작이 다스리는 영역'인 '공국'을 뜻합니다.",
+                "en": "Refers to a principality, the territory ruled by a prince or duke",
+                "ja": "公爵が統治する領域を意味する公国のこと",
+                "zh": "指由公爵统治的领地，即公国",
+                "fr": "Désigne une principauté, le territoire gouverné par un prince ou duc"
+            },
+            "example": "Monaco is a small princedom in Europe.",
+            "translation": {
+                "ko": "모나코는 유럽의 작은 공국이다.",
+                "ja": "モナコはヨーロッパの小さな公国です。",
+                "zh": "摩纳哥是欧洲的一个小公国。",
+                "fr": "Monaco est une petite principauté en Europe."
+            }
+        },
+        {
+            "word": "wisdom",
+            "part_of_speech": "",
+            "origin": "Old English, wisdom",
+            "meaning": {
+                "ko": "현명한 상태",
+                "en": "state of being wise",
+                "ja": "知恵、賢明さ",
+                "zh": "智慧、聪慧",
+                "fr": "sagesse, discernement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "wise",
+                    "meaning": {
+                        "ko": "'현명한'",
+                        "en": "wise",
+                        "ja": "賢い、知的な",
+                        "zh": "聪慧的、明智的",
+                        "fr": "sage, avisé"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-dom",
+                    "meaning": {
+                        "ko": "'상태, 성질'",
+                        "en": "state or quality",
+                        "ja": "状態、性質",
+                        "zh": "状态、性质",
+                        "fr": "état, qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'현명한 성질'인 '지혜'를 뜻합니다.",
+                "en": "Wisdom refers to the quality or state of being wise and judicious.",
+                "ja": "賢い性質である知恵を意味します",
+                "zh": "指聪慧而明智的性质和品质",
+                "fr": "Désigne la qualité d'être sage et judicieux"
+            },
+            "example": "He is a man of great wisdom.",
+            "translation": {
+                "ko": "그는 큰 지혜를 가진 사람이다.",
+                "ja": "彼は大きな知恵を持つ人です",
+                "zh": "他是一个很有智慧的人",
+                "fr": "C'est un homme d'une grande sagesse"
+            }
+        }
+    ]
+}

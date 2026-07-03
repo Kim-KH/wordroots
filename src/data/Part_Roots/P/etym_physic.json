@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "physic (nature) physical, physician, physics",
+        "origin": "Greek, physikos (natural)",
+        "meaning": {
+            "ko": "자연의",
+            "en": "natural",
+            "ja": "自然な",
+            "zh": "自然的",
+            "fr": "naturel"
+        }
+    },
+    "words": [
+        {
+            "word": "physical",
+            "part_of_speech": "",
+            "origin": "Greek, physikos (natural)",
+            "meaning": {
+                "ko": "자연의",
+                "en": "of nature",
+                "ja": "身体的な",
+                "zh": "身体的的",
+                "fr": "physique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "physi-",
+                    "meaning": {
+                        "ko": "'자연, 몸'",
+                        "en": "nature, body",
+                        "ja": "自然、身体",
+                        "zh": "自然、身体",
+                        "fr": "nature, corps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신적인 것이 아닌 자연 그대로의 몸'이라는 의미에서 '육체의', '물질의'라는 뜻입니다.",
+                "en": "Meaning bodily or material, as opposed to mental or spiritual things",
+                "ja": "精神的なものではなく、自然そのままの身体という意味から、身体的、物質的という意味です",
+                "zh": "从精神的东西相反的自然身体的意义上，表示身体的、物质的意思",
+                "fr": "Signifiant corporel ou matériel, par opposition aux choses mentales ou spirituelles"
+            },
+            "example": "The job requires a lot of physical labor.",
+            "translation": {
+                "ko": "그 일은 많은 육체노동을 필요로 한다.",
+                "ja": "このしごとは多くの身体的労働が必要です。",
+                "zh": "这项工作需要大量的身体劳动。",
+                "fr": "Ce travail nécessite beaucoup de travail physique."
+            }
+        },
+        {
+            "word": "physician",
+            "part_of_speech": "",
+            "origin": "Greek, physikos (natural)",
+            "meaning": {
+                "ko": "자연의",
+                "en": "of nature",
+                "ja": "医者、内科医",
+                "zh": "医生、医师",
+                "fr": "médecin, docteur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "physic-",
+                    "meaning": {
+                        "ko": "'자연, 의술'",
+                        "en": "nature, medicine",
+                        "ja": "自然、医術",
+                        "zh": "自然、医术",
+                        "fr": "nature, médecine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자연의 이치를 연구하여 병을 고치는 사람'이라는 의미에서 '의사', 특히 '내과 의사'를 뜻합니다.",
+                "en": "Originally meant a person who studies the principles of nature to cure illness, referring to 'physician' or especially 'internal medicine doctor'.",
+                "ja": "自然の理を研究して病気を治す人という意味から、医者、特に内科医を指します。",
+                "zh": "从研究自然原理来治疗疾病的人的意思引申，指医生，特别是内科医生。",
+                "fr": "Originellement, une personne qui étudie les principes de la nature pour guérir les maladies, désignant un médecin, en particulier un médecin généraliste."
+            },
+            "example": "You should consult a physician about your health concerns.",
+            "translation": {
+                "ko": "당신은 건강 문제에 대해 의사와 상담해야 한다.",
+                "ja": "健康上の懸念について医者に相談すべきです。",
+                "zh": "你应该就健康问题咨询医生。",
+                "fr": "Vous devriez consulter un médecin au sujet de vos préoccupations sanitaires."
+            }
+        },
+        {
+            "word": "physics",
+            "part_of_speech": "",
+            "origin": "Greek, ta physika (the natural things)",
+            "meaning": {
+                "ko": "자연적인 것들",
+                "en": "natural things",
+                "ja": "自然現象の研究",
+                "zh": "自然现象研究",
+                "fr": "étude des phénomènes naturels"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "physi-",
+                    "meaning": {
+                        "ko": "'자연'",
+                        "en": "nature",
+                        "ja": "自然",
+                        "zh": "自然",
+                        "fr": "nature"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자연의 근본 원리를 연구하는 학문'인 '물리학'을 뜻합니다.",
+                "en": "Physics is the study of fundamental principles of nature",
+                "ja": "自然の基本原理を研究する学問である物理学を意味します",
+                "zh": "指研究自然基本原理的学科物理学",
+                "fr": "Désigne la physique, la science qui étudie les principes fondamentaux de la nature"
+            },
+            "example": "Physics is the study of matter and energy.",
+            "translation": {
+                "ko": "물리학은 물질과 에너지를 연구하는 학문이다.",
+                "ja": "物理学は物質とエネルギーの研究です",
+                "zh": "物理学是对物质和能量的研究",
+                "fr": "La physique est l'étude de la matière et de l'énergie"
+            }
+        }
+    ]
+}

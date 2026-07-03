@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "nucle (kernel) nuclear, nucleolus, nucleus",
+        "origin": "Latin, nucleus (a little nut, a kernel)",
+        "meaning": {
+            "ko": "핵심, 알맹이",
+            "en": "kernel",
+            "ja": "核心、本質",
+            "zh": "核心、精髓",
+            "fr": "noyau, essence"
+        }
+    },
+    "words": [
+        {
+            "word": "nuclear",
+            "part_of_speech": "",
+            "origin": "Latin, nucleus (kernel)",
+            "meaning": {
+                "ko": "알맹이",
+                "en": "kernel or core",
+                "ja": "核の、原子核の",
+                "zh": "核心的、原子核的",
+                "fr": "nucléaire, du noyau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nucle-",
+                    "meaning": {
+                        "ko": "'핵'",
+                        "en": "nucleus",
+                        "ja": "核、中心",
+                        "zh": "核、中心",
+                        "fr": "noyau, centre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원자핵의', '핵무기의'라는 뜻입니다.",
+                "en": "Means 'of atomic nucleus' or 'of nuclear weapons'",
+                "ja": "原子核の、核兵器のという意味です",
+                "zh": "意思是原子核的、核武器的",
+                "fr": "Signifie du noyau atomique ou des armes nucléaires"
+            },
+            "example": "Nuclear energy can be a clean source of power.",
+            "translation": {
+                "ko": "원자력 에너지는 깨끗한 동력원이 될 수 있다.",
+                "ja": "核エネルギーはクリーンな電力源になることができます。",
+                "zh": "核能可以是清洁的电力来源。",
+                "fr": "L'énergie nucléaire peut être une source d'énergie propre."
+            }
+        },
+        {
+            "word": "nucleolus",
+            "part_of_speech": "",
+            "origin": "Latin, nucleolus (a small kernel)",
+            "meaning": {
+                "ko": "작은 알맹이",
+                "en": "small granule",
+                "ja": "小さな核粒体",
+                "zh": "小核体",
+                "fr": "petit noyau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nucle-",
+                    "meaning": {
+                        "ko": "'핵'",
+                        "en": "nucleus",
+                        "ja": "核",
+                        "zh": "核",
+                        "fr": "noyau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포핵 안에 있는 작은 핵'이라는 의미에서 '인', '핵소체'를 뜻합니다.",
+                "en": "Refers to 'nucleolus' or 'nuclear body', meaning a small nucleus within the cell nucleus",
+                "ja": "細胞核の中にある小さな核という意味から、核小体を指します",
+                "zh": "源自细胞核内的小核，指核仁",
+                "fr": "Signifie un petit noyau dans le noyau cellulaire, d'où le terme nucléole"
+            },
+            "example": "The nucleolus is the largest structure in the nucleus of a eukaryotic cell.",
+            "translation": {
+                "ko": "인은 진핵 세포의 핵에서 가장 큰 구조물이다.",
+                "ja": "核小体は真核細胞の核内で最大の構造です",
+                "zh": "核仁是真核细胞核内最大的结构",
+                "fr": "Le nucléole est la plus grande structure du noyau d'une cellule eucaryote"
+            }
+        },
+        {
+            "word": "nucleus",
+            "part_of_speech": "",
+            "origin": "Latin, nucleus (kernel)",
+            "meaning": {
+                "ko": "알맹이",
+                "en": "core or essential part",
+                "ja": "中核、核",
+                "zh": "核心、内核",
+                "fr": "noyau, centre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nucle-",
+                    "meaning": {
+                        "ko": "'알맹이, 핵'",
+                        "en": "kernel",
+                        "ja": "核、中心部分",
+                        "zh": "核、中心部分",
+                        "fr": "noyau, partie centrale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'호두의 알맹이'처럼 '어떤 것의 중심 부분'이라는 의미에서 '원자핵', '세포핵' 또는 '핵심'을 뜻합니다.",
+                "en": "Like 'the kernel of a walnut', it means the central part of something, referring to 'atomic nucleus', 'cell nucleus', or 'core essence'.",
+                "ja": "くるみの中身のように、何かの中心部分を意味し、原子核、細胞核、または核心を指します。",
+                "zh": "像核桃的核一样，表示某物的中心部分，指原子核、细胞核或核心。",
+                "fr": "Comme 'l'amande de la noix', cela signifie la partie centrale de quelque chose, se référant au 'noyau atomique', 'noyau cellulaire' ou 'essence fondamentale'."
+            },
+            "example": "The nucleus is the control center of the cell.",
+            "translation": {
+                "ko": "핵은 세포의 통제 센터이다.",
+                "ja": "細胞核は細胞の制御中心です。",
+                "zh": "细胞核是细胞的控制中心。",
+                "fr": "Le noyau est le centre de contrôle de la cellule."
+            }
+        }
+    ]
+}

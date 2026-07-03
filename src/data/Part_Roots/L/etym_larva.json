@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "larva (specter, mask) larvae, larval, larvicide",
+        "origin": "Latin, larva (ghost, mask)",
+        "meaning": {
+            "ko": "유령, 가면",
+            "en": "ghost, mask",
+            "ja": "幽霊、仮面",
+            "zh": "幽灵、面具",
+            "fr": "fantôme, masque"
+        }
+    },
+    "words": [
+        {
+            "word": "larvae",
+            "part_of_speech": "",
+            "origin": "Latin, larva",
+            "meaning": {
+                "ko": "가면",
+                "en": "mask",
+                "ja": "幼虫",
+                "zh": "幼虫",
+                "fr": "larves"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "larva-",
+                    "meaning": {
+                        "ko": "'유충'",
+                        "en": "larva",
+                        "ja": "幼虫",
+                        "zh": "幼虫",
+                        "fr": "larve"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'larva'의 복수형입니다. 성충의 모습과 달라 마치 가면을 쓴 것 같다는 의미에서 유래했습니다.",
+                "en": "Plural of 'larva'. The name derives from the fact that larvae look like they are wearing a mask, as their appearance differs greatly from that of adult insects.",
+                "ja": "'larva'の複数形です。成虫の姿と異なり、まるで仮面をかぶったような見た目であることから由来しました。",
+                "zh": "'larva'的复数形式。因为幼虫的外形与成虫大不相同，看起来像戴着面具，因此得名。",
+                "fr": "Pluriel de 'larva'. Le nom dérive du fait que les larves ressemblent à des créatures portant un masque, car leur apparence diffère considérablement de celle des insectes adultes."
+            },
+            "example": "The larvae of mosquitoes live in water.",
+            "translation": {
+                "ko": "모기의 유충은 물속에 산다.",
+                "ja": "蚊の幼虫は水中に生活しています。",
+                "zh": "蚊子的幼虫生活在水中。",
+                "fr": "Les larves de moustiques vivent dans l'eau."
+            }
+        },
+        {
+            "word": "larval",
+            "part_of_speech": "",
+            "origin": "Latin, larva",
+            "meaning": {
+                "ko": "가면",
+                "en": "mask",
+                "ja": "幼虫の",
+                "zh": "幼虫的",
+                "fr": "larvaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "larva-",
+                    "meaning": {
+                        "ko": "'유충'",
+                        "en": "larva",
+                        "ja": "幼虫",
+                        "zh": "幼虫",
+                        "fr": "larve"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유충의' 또는 '유충 단계의'라는 뜻입니다.",
+                "en": "Means 'of larvae' or 'in the larval stage'",
+                "ja": "幼虫の段階または幼虫期を意味します",
+                "zh": "表示幼虫的或幼虫阶段的",
+                "fr": "Signifie 'des larves' ou 'au stade larvaire'"
+            },
+            "example": "The larval stage of a butterfly is a caterpillar.",
+            "translation": {
+                "ko": "나비의 유충 단계는 애벌레이다.",
+                "ja": "チョウの幼虫段階はイモムシです。",
+                "zh": "蝴蝶的幼虫阶段是毛毛虫。",
+                "fr": "Le stade larvaire d'un papillon est une chenille."
+            }
+        },
+        {
+            "word": "larvicide",
+            "part_of_speech": "",
+            "origin": "Latin, larva + -cida (a killer)",
+            "meaning": {
+                "ko": "유충 살해",
+                "en": "killing of larvae",
+                "ja": "幼虫殺虫剤",
+                "zh": "杀幼虫剂",
+                "fr": "larvicide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "larvi-",
+                    "meaning": {
+                        "ko": "'유충'",
+                        "en": "larva",
+                        "ja": "幼虫",
+                        "zh": "幼虫",
+                        "fr": "larve"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cide",
+                    "meaning": {
+                        "ko": "'죽이기'",
+                        "en": "killer",
+                        "ja": "殺す",
+                        "zh": "杀死",
+                        "fr": "tueur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유충을 죽이는 약'인 '유충 구제제'를 뜻합니다.",
+                "en": "A substance used to kill mosquito larvae",
+                "ja": "蚊の幼虫を殺すための薬剤",
+                "zh": "用于杀死蚊子幼虫的药物",
+                "fr": "Substance utilisée pour tuer les larves de moustiques"
+            },
+            "example": "Larvicide is used to control mosquito populations.",
+            "translation": {
+                "ko": "유충 구제제는 모기 개체 수를 통제하는 데 사용된다.",
+                "ja": "蚊の個体群を制御するために幼虫殺虫剤が使用されます。",
+                "zh": "使用杀幼虫剂来控制蚊子种群。",
+                "fr": "Le larvicide est utilisé pour contrôler les populations de moustiques."
+            }
+        }
+    ]
+}

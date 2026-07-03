@@ -1,0 +1,15 @@
+다음에 대해 유효 기간이 10,000일인 2,048비트 RSA 키 쌍 및 
+자체 서명된 인증서(SHA384withRSA)를 생성하는 중
+        : CN=Etymology App, OU=Unknown, O=Unknown, L=seoul, ST=seoul, C=KR
+[android/app/release.keystore을(를) 저장하는 중]
+
+비밀번호 입력 후 생성된 값 '서명된 인증서(SHA384withRSA)'을 
+E:\MyApp\etymology-expo\android\gradle.properties의 
+
+RELEASE_KEYSTORE_PASSWORD / RELEASE_KEY_PASSWORD에 입력합니다.
+
+
+eas build -p android --profile production
+
+빌드 완료 후 .aab 파일을 Google Play Console에 업로드하면 출시 준비 완료입니다. 
+진행하다가 막히는 부분 있으면 언제든지 말씀해 주세요.

@@ -1,0 +1,225 @@
+{
+    "root_info": {
+        "roots": "cide, cis",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "죽이다, 자르다",
+            "en": "to kill, to cut",
+            "ja": "殺す、切る",
+            "zh": "杀死、切割",
+            "fr": "tuer, couper"
+        }
+    },
+    "words": [
+        {
+            "word": "fratricide",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fratri",
+                    "meaning": {
+                        "ko": "형제",
+                        "en": "brother",
+                        "ja": "兄弟",
+                        "zh": "兄弟",
+                        "fr": "frère"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-cide",
+                    "meaning": {
+                        "ko": "죽이다",
+                        "en": "to kill",
+                        "ja": "殺す",
+                        "zh": "杀死",
+                        "fr": "tuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'형제를 죽이는 행위'를 뜻합니다.",
+                "en": "The killing of one's brother",
+                "ja": "兄弟を殺す行為を意味します",
+                "zh": "指杀害兄弟的行为",
+                "fr": "L'acte de tuer son frère"
+            },
+            "example": "Fratricide is a terrible crime.",
+            "translation": {
+                "ko": "형제 살해는 끔찍한 범죄이다.",
+                "ja": "兄弟殺人は恐ろしい犯罪である",
+                "zh": "兄弟杀害是可怕的犯罪",
+                "fr": "Le fratricide est un crime terrible"
+            }
+        },
+        {
+            "word": "suicide",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sui",
+                    "meaning": {
+                        "ko": "자신",
+                        "en": "self",
+                        "ja": "自分自身",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-cide",
+                    "meaning": {
+                        "ko": "죽이다",
+                        "en": "to kill",
+                        "ja": "殺す",
+                        "zh": "杀死",
+                        "fr": "tuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자기 자신을 죽이는 행위' 즉, '자살'을 뜻합니다.",
+                "en": "The act of killing oneself; self-inflicted death.",
+                "ja": "自分自身を殺す行為、つまり自殺を意味します。",
+                "zh": "自己杀死自己的行为，即自杀。",
+                "fr": "L'acte de se tuer soi-même ; le suicide."
+            },
+            "example": "He attempted suicide.",
+            "translation": {
+                "ko": "그는 자살을 시도했다.",
+                "ja": "彼は自殺を試みた。",
+                "zh": "他试图自杀。",
+                "fr": "Il a tenté de se suicider."
+            }
+        },
+        {
+            "word": "incision",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cis",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 잘라 들어가는 것'이라는 의미에서, 수술 시의 '절개'를 뜻합니다.",
+                "en": "From the meaning of 'cutting into', it refers to a surgical incision.",
+                "ja": "切り込んで入っていくという意味から、手術時の切開を意味します。",
+                "zh": "从'切入'的含义来看，指外科手术时的切口。",
+                "fr": "Du sens de 'couper vers l'intérieur', il signifie une incision chirurgicale."
+            },
+            "example": "The surgeon made a small incision.",
+            "translation": {
+                "ko": "외과의사가 작게 절개했다.",
+                "ja": "外科医は小さな切開を行った。",
+                "zh": "外科医生做了一个小切口。",
+                "fr": "Le chirurgien a fait une petite incision."
+            }
+        },
+        {
+            "word": "excision",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cis",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘라서 밖으로 들어내는 것'이라는 의미에서, 종양 등의 '절제', '적출'을 뜻합니다.",
+                "en": "The act of cutting out and removing, referring to surgical removal of tumors or diseased tissue.",
+                "ja": "切り出して取り除くことを意味し、腫瘍などの外科的除去を指します。",
+                "zh": "指切割并去除的行为，指对肿瘤等病变组织的外科切除。",
+                "fr": "L'acte de retirer par incision, désignant l'ablation chirurgicale de tumeurs ou de tissus malades."
+            },
+            "example": "The doctor recommended an excision of the tumor.",
+            "translation": {
+                "ko": "의사는 그 종양의 절제를 권했다.",
+                "ja": "医者はその腫瘍の切除を勧めた。",
+                "zh": "医生建议对肿瘤进行切除。",
+                "fr": "Le médecin a recommandé l'excision de la tumeur."
+            }
+        },
+        {
+            "word": "circumcision",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周囲に",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cis",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'(음경의 포피를) 둘러서 잘라내는 것'이라는 의미에서 '포경 수술', '할례'를 뜻합니다.",
+                "en": "Literally 'cutting around (the foreskin)'; refers to the surgical removal of the foreskin.",
+                "ja": "文字通り「(包皮を)切り取る」という意味で、包皮の手術的除去を指します。",
+                "zh": "字面意思是「环切（包皮）」，指包皮的手术切除。",
+                "fr": "Littéralement « couper autour (du prépuce) »; désigne l'ablation chirurgicale du prépuce."
+            },
+            "example": "Circumcision is a common procedure.",
+            "translation": {
+                "ko": "포경 수술은 흔한 시술이다.",
+                "ja": "割礼は一般的な手術です。",
+                "zh": "割礼是一种常见的手术。",
+                "fr": "La circoncision est une intervention courante."
+            }
+        }
+    ]
+}

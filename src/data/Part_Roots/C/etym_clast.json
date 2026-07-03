@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "clast (broken) clastic, iconoclastic, pyroclastic",
+        "origin": "Greek, klastos (broken in pieces)",
+        "meaning": {
+            "ko": "부서진",
+            "en": "broken",
+            "ja": "壊れた",
+            "zh": "破碎的",
+            "fr": "cassé"
+        }
+    },
+    "words": [
+        {
+            "word": "clastic",
+            "part_of_speech": "",
+            "origin": "Greek, klastos (broken)",
+            "meaning": {
+                "ko": "부서진",
+                "en": "broken or fragmented",
+                "ja": "砕屑性の",
+                "zh": "碎屑的",
+                "fr": "clastique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clast (klastos)",
+                    "meaning": {
+                        "ko": "'부서진'",
+                        "en": "broken",
+                        "ja": "破砕された",
+                        "zh": "破碎的",
+                        "fr": "brisé"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "지질학에서, 다른 암석의 '부서진(clast) 조각'으로 이루어진 암석을 가리켜 '쇄설성의'라고 합니다.",
+                "en": "In geology, rocks composed of broken fragments (clasts) from other rocks are called clastic rocks.",
+                "ja": "地質学では、他の岩石の破砕された破片(clast)で構成される岩石を砕屑性岩と呼びます。",
+                "zh": "在地质学中，由其他岩石的碎屑(clast)碎片组成的岩石称为碎屑岩。",
+                "fr": "En géologie, les roches composées de fragments cassés (clastes) d'autres roches sont appelées roches clastiques."
+            },
+            "example": "Sandstone is a type of clastic sedimentary rock.",
+            "translation": {
+                "ko": "사암은 쇄설성 퇴적암의 한 종류이다.",
+                "ja": "砂岩は砕屑性堆積岩の一種です。",
+                "zh": "砂岩是一种碎屑沉积岩。",
+                "fr": "Le grès est un type de roche sédimentaire clastique."
+            }
+        },
+        {
+            "word": "iconoclastic",
+            "part_of_speech": "",
+            "origin": "Greek, eikōn (image) + klastēs (breaker)",
+            "meaning": {
+                "ko": "우상 파괴자",
+                "en": "icon destroyer",
+                "ja": "偶像破壊的な",
+                "zh": "破坏传统的",
+                "fr": "iconoclaste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "icono (eikōn)",
+                    "meaning": {
+                        "ko": "'상, 우상'",
+                        "en": "image",
+                        "ja": "像、偶像",
+                        "zh": "图像、偶像",
+                        "fr": "image"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clast (klastēs)",
+                    "meaning": {
+                        "ko": "'파괴하는 사람'",
+                        "en": "breaker",
+                        "ja": "壊す人",
+                        "zh": "破坏的人",
+                        "fr": "celui qui brise"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "종교적인 '우상(icono)을 파괴하는(clast)' 행위에서 유래하여, 사회의 전통이나 인습을 타파하려는 '우상 파괴적인', '인습 타파의'라는 뜻으로 확장되었습니다.",
+                "en": "Derived from the religious act of destroying idols (icono + clast), it expanded to mean 'challenging traditions and conventions of society', 'nonconformist'.",
+                "ja": "宗教的な'偶像(icono)を壊す(clast)'行為に由来し、社会の伝統や慣習を打破しようとする'偶像破壊的な'、'因習打破の'という意味に拡張されました。",
+                "zh": "源自宗教中'破坏偶像(icono)的(clast)'行为，后来扩展为指挑战社会传统和习俗、'反传统的'、'打破陈规的'之意。",
+                "fr": "Dérivé de l'acte religieux de détruire les idoles (icono + clast), il s'est étendu pour signifier 'remettre en question les traditions et conventions sociales', 'non-conformiste'."
+            },
+            "example": "He was known for his iconoclastic views on art.",
+            "translation": {
+                "ko": "그는 예술에 대한 그의 인습 타파적인 견해로 알려져 있었다.",
+                "ja": "彼は芸術に関する偶像破壊的な見方で知られていた。",
+                "zh": "他因对艺术持有破坏传统的看法而闻名。",
+                "fr": "Il était connu pour ses opinions iconoclastes sur l'art."
+            }
+        },
+        {
+            "word": "pyroclastic",
+            "part_of_speech": "",
+            "origin": "Greek, pyr (fire) + klastos (broken)",
+            "meaning": {
+                "ko": "불의 파편",
+                "en": "fragments of fire",
+                "ja": "火の破片",
+                "zh": "火的碎片",
+                "fr": "fragments de feu"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pyro (pyr)",
+                    "meaning": {
+                        "ko": "'불'",
+                        "en": "fire",
+                        "ja": "火",
+                        "zh": "火",
+                        "fr": "feu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clast (klastos)",
+                    "meaning": {
+                        "ko": "'부서진'",
+                        "en": "broken",
+                        "ja": "割れた",
+                        "zh": "破碎的",
+                        "fr": "brisé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "화산 폭발 시 분출되는 '불(pyro)과 같이 뜨거운 암석 파편(clast)'과 관련된 것을 의미하며 '화산 쇄설물의'라고 합니다.",
+                "en": "Related to 'fire (pyro) and hot rock fragments (clast)' ejected during volcanic eruptions, meaning 'of volcanic pyroclastic materials'",
+                "ja": "火山爆発時に噴出される'火(pyro)と同じくらい熱い岩石破片(clast)'に関連し、'火山砕屑物の'という意味です",
+                "zh": "与火山爆发时喷出的'火(pyro)一样热的岩石碎片(clast)'有关，意为'火山碎屑物的'",
+                "fr": "Lié aux 'fragments de roche chauds comme le feu (pyro) et (clast)' éjectés lors d'éruptions volcaniques, signifiant 'de matériaux pyroclastiques volcaniques'"
+            },
+            "example": "A pyroclastic flow is a fast-moving current of hot gas and rock.",
+            "translation": {
+                "ko": "화쇄류는 뜨거운 가스와 암석이 빠르게 흐르는 것이다.",
+                "ja": "火砕流は熱いガスと岩の速く移動する流れです",
+                "zh": "火砌流是热气和岩石快速流动的急流",
+                "fr": "Un flux pyroclastique est un courant rapide de gaz chaud et de roche"
+            }
+        }
+    ]
+}

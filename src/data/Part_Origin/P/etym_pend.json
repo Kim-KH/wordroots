@@ -1,0 +1,539 @@
+{
+    "root_info": {
+        "roots": "pend, pond: to hang, weigh",
+        "origin": "Latin, pendere (to hang), pondus (weight)",
+        "meaning": {
+            "ko": "매달다, 무게를 재다",
+            "en": "to hang, to weigh",
+            "ja": "掛かる、計る",
+            "zh": "悬挂、称重",
+            "fr": "pendre, peser"
+        }
+    },
+    "words": [
+        {
+            "word": "expend",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend",
+                    "meaning": {
+                        "ko": "무게를 재다, 지불하다",
+                        "en": "to weigh, pay",
+                        "ja": "量る、支払う",
+                        "zh": "称重、支付",
+                        "fr": "peser, payer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대에 돈을 '저울에 달아 밖으로 내주다'는 의미에서, 시간, 돈, 노력 등을 '쓰다', '소비하다'는 뜻이 되었습니다.",
+                "en": "In ancient times, the meaning evolved from 'weighing money on a scale and giving it out' to 'spend, consume' time, money, effort, etc.",
+                "ja": "古代には、お金を『天秤で量って外に与える』という意味から、時間、お金、努力などを『使う』『消費する』という意味に進化しました。",
+                "zh": "古代的含义从'用天平称重金钱并支付出去'演变为'花费'时间、金钱、努力等。",
+                "fr": "À l'époque ancienne, le sens a évolué de 'peser de l'argent sur une balance et le donner' à 'dépenser, consommer' du temps, de l'argent, des efforts, etc."
+            },
+            "example": "We expend a lot of energy on this project.",
+            "translation": {
+                "ko": "우리는 이 프로젝트에 많은 에너지를 쓴다.",
+                "ja": "私たちはこのプロジェクトに多くのエネルギーを費やしています。",
+                "zh": "我们在这个项目上花费了大量精力。",
+                "fr": "Nous dépensons beaucoup d'énergie sur ce projet."
+            }
+        },
+        {
+            "word": "penchant",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pench (pendere)",
+                    "meaning": {
+                        "ko": "기울다, 매달리다",
+                        "en": "to incline, hang",
+                        "ja": "傾く、吊り下がる",
+                        "zh": "倾斜、悬挂",
+                        "fr": "incliner, pendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "마음이 어느 한쪽으로 '기우는 것'이라는 의미에서, 특별한 '애호', '경향'을 뜻하는 프랑스어 유래 단어입니다.",
+                "en": "A French-origin word meaning a special 'affinity' or 'tendency', derived from the sense of the mind 'inclining' toward one side.",
+                "ja": "心がある一方に'傾く'という意味から、特別な'愛好'、'傾向'を意味するフランス語由来の単語です。",
+                "zh": "源自心思向某一方'倾斜'的含义，表示特别的'爱好'、'倾向'的法语源单词。",
+                "fr": "Un mot d'origine française signifiant une 'affinité' ou 'tendance' particulière, dérivé du sens de l'esprit 'inclinant' vers un côté."
+            },
+            "example": "He has a penchant for adventure.",
+            "translation": {
+                "ko": "그는 모험을 강하게 선호한다.",
+                "ja": "彼は冒険に対する愛好がある。",
+                "zh": "他对冒险有特殊的爱好。",
+                "fr": "Il a un penchant pour l'aventure."
+            }
+        },
+        {
+            "word": "propensity",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "vers l'avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pens (pendere)",
+                    "meaning": {
+                        "ko": "기울다, 매달리다",
+                        "en": "to hang",
+                        "ja": "掛かる、傾く",
+                        "zh": "倾斜、悬挂",
+                        "fr": "pencher, être suspendu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 기울어지는' 경향이라는 의미에서, 특정한 행동을 하는 '경향', '성향'을 뜻합니다.",
+                "en": "From the sense of 'leaning forward': a tendency or inclination to do something",
+                "ja": "「前に傾く」という意味から、特定の行動をする「傾向」「性癖」を意味します",
+                "zh": "从「向前倾斜」的意思引申，表示做某事的「倾向」「性向」",
+                "fr": "Du sens de « pencher en avant » : une tendance, une inclination naturelle à faire quelque chose"
+            },
+            "example": "He has a propensity to exaggerate.",
+            "translation": {
+                "ko": "그는 과장하는 경향이 있다.",
+                "ja": "彼は誇張する傾向がある。",
+                "zh": "他有夸大其词的倾向。",
+                "fr": "Il a une propension à exagérer."
+            }
+        },
+        {
+            "word": "compensate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pens (pendere)",
+                    "meaning": {
+                        "ko": "무게를 재다",
+                        "en": "to weigh",
+                        "ja": "重さを量る",
+                        "zh": "称重量",
+                        "fr": "peser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "저울의 양쪽에 '함께 무게를 재어 균형을 맞추다'는 의미에서, 손실 등을 '보상하다', '보전하다'는 뜻이 되었습니다.",
+                "en": "From the idea of balancing weights on both sides of a scale together, it came to mean 'to make amends for' or 'to make up for' losses.",
+                "ja": "天秤の両側を『一緒に重さを量って釣り合わせる』という意味から、損失などを『補償する』『埋め合わせる』という意味になりました。",
+                "zh": "从天平两端'一起称重以达到平衡'的含义，演变为'赔偿'或'弥补'损失等的意思。",
+                "fr": "Du concept d'équilibrer les poids des deux côtés d'une balance ensemble, il en vient à signifier 'dédommager' ou 'compenser' une perte."
+            },
+            "example": "The company will compensate you for your loss.",
+            "translation": {
+                "ko": "회사가 당신의 손실을 보상할 것입니다.",
+                "ja": "会社はあなたの損失を補償するでしょう。",
+                "zh": "公司将赔偿你的损失。",
+                "fr": "L'entreprise vous compensera pour votre perte."
+            }
+        },
+        {
+            "word": "impend",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "위에",
+                        "en": "upon, over",
+                        "ja": "上に、上方に",
+                        "zh": "在...之上",
+                        "fr": "sur, au-dessus de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend",
+                    "meaning": {
+                        "ko": "매달려 있다",
+                        "en": "to hang",
+                        "ja": "ぶら下がる",
+                        "zh": "悬挂",
+                        "fr": "pendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "위협적인 것이 '머리 위에 매달려 있다'는 의미에서, 좋지 않은 일이 '임박하다', '곧 닥치다'는 뜻입니다.",
+                "en": "From the image of something threatening 'hanging over one's head,' meaning bad events are 'about to happen' or 'imminent.'",
+                "ja": "脅威的なものが『頭上にぶら下がっている』というイメージから、悪いことが『差し迫っている』『もうすぐ起こる』という意味になります。",
+                "zh": "从威胁性的东西'悬在头顶'的意象衍生，表示坏事'即将发生'或'迫在眉睫'。",
+                "fr": "De l'image d'une menace 'suspendue au-dessus de la tête', signifiant que des événements négatifs sont 'imminents' ou 'sur le point de survenir'."
+            },
+            "example": "A crisis seems to impend.",
+            "translation": {
+                "ko": "위기가 임박한 것 같다.",
+                "ja": "危機が差し迫っているようだ。",
+                "zh": "危机似乎即将到来。",
+                "fr": "Une crise semble imminente."
+            }
+        },
+        {
+            "word": "suspend",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sus- (sub-)",
+                    "meaning": {
+                        "ko": "아래에",
+                        "en": "from below",
+                        "ja": "下から",
+                        "zh": "从下方",
+                        "fr": "d'en bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend",
+                    "meaning": {
+                        "ko": "매달다",
+                        "en": "to hang",
+                        "ja": "吊るす",
+                        "zh": "悬挂",
+                        "fr": "suspendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아래쪽으로 매달다'는 의미에서, 일시적으로 '중단하다', '정직/정학시키다', '매달다'는 뜻입니다.",
+                "en": "From the meaning of 'hanging downward', it came to mean temporarily 'stop', 'dismiss/expel', or 'hang'.",
+                "ja": "下に吊るすという意味から、一時的に中断する、停職/停学させる、吊るすという意味になりました。",
+                "zh": "从向下悬挂的含义引申出，暂时停止、停职/停学、悬挂等含义。",
+                "fr": "Du sens de 'pendre vers le bas', il en est venu à signifier temporairement 'arrêter', 'suspendre/expulser', ou 'suspendre'."
+            },
+            "example": "The game was suspended due to rain.",
+            "translation": {
+                "ko": "비 때문에 경기가 중단되었다.",
+                "ja": "雨のためにゲームが中断されました。",
+                "zh": "由于下雨，比赛被暂停了。",
+                "fr": "Le match a été suspendu en raison de la pluie."
+            }
+        },
+        {
+            "word": "depend",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "~로부터",
+                        "en": "from",
+                        "ja": "から",
+                        "zh": "从",
+                        "fr": "de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend",
+                    "meaning": {
+                        "ko": "매달리다",
+                        "en": "to hang",
+                        "ja": "掛かる",
+                        "zh": "悬挂",
+                        "fr": "pendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'~에 매달려 있다'는 의미에서, '~에 의존하다', '의지하다', '~에 달려 있다'는 뜻입니다.",
+                "en": "'Hanging from something' metaphorically means 'to rely on', 'to depend on', or 'to be contingent on'",
+                "ja": "『~に掛かっている』という意味から、『~に頼る』『~に依存する』『~次第である』という意味になります",
+                "zh": "从'悬挂在~上'的含义引申为'依赖~''依靠~''取决于~'的意思",
+                "fr": "'Être suspendu à quelque chose' signifie métaphoriquement 'dépendre de', 'compter sur' ou 'être contingent à'"
+            },
+            "example": "Our success will depend on teamwork.",
+            "translation": {
+                "ko": "우리의 성공은 팀워크에 달려 있을 것이다.",
+                "ja": "私たちの成功はチームワークにかかっています",
+                "zh": "我们的成功取决于团队合作",
+                "fr": "Notre succès dépendra du travail d'équipe"
+            }
+        },
+        {
+            "word": "perpendicular",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "완전히",
+                        "en": "throughout",
+                        "ja": "完全に",
+                        "zh": "完全地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend",
+                    "meaning": {
+                        "ko": "매달리다",
+                        "en": "to hang",
+                        "ja": "吊り下がる",
+                        "zh": "悬挂",
+                        "fr": "pendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "다림줄(추를 매단 줄)이 '완전히 똑바로 매달려 있는' 모습에서, '수직의'라는 뜻이 되었습니다.",
+                "en": "From the image of a plumb line (a cord with a weight) hanging 'completely straight,' giving the meaning 'perpendicular' or 'vertical.'",
+                "ja": "おもりをつけた糸（下げ振り）が「完全にまっすぐ吊り下がっている」様子から、「垂直の」という意味になりました。",
+                "zh": "从系着重物的绳子（垂线）「完全垂直悬挂」的形象，引申出「垂直的」之意。",
+                "fr": "De l'image d'un fil à plomb (une corde avec un poids) pendant 'complètement droit', donnant le sens de 'perpendiculaire' ou 'vertical'."
+            },
+            "example": "The wall is perpendicular to the floor.",
+            "translation": {
+                "ko": "그 벽은 바닥과 수직이다.",
+                "ja": "その壁は床に垂直である。",
+                "zh": "那面墙与地板垂直。",
+                "fr": "Le mur est perpendiculaire au sol."
+            }
+        },
+        {
+            "word": "compendium",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend",
+                    "meaning": {
+                        "ko": "무게를 재다",
+                        "en": "to weigh",
+                        "ja": "重さを量る",
+                        "zh": "称重",
+                        "fr": "peser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "지식이나 정보를 '함께 모아 저울질한 것'이라는 의미에서, 특정 주제에 대한 '개요', '요약'을 뜻합니다.",
+                "en": "From the idea of 'weighing knowledge together,' meaning a summary or overview of a specific subject.",
+                "ja": "知識を『一緒に集めて秤にかけたもの』という意味から、特定のテーマについての『概要』や『要約』を意味します。",
+                "zh": "从'将知识汇聚并权衡'的概念引申，表示特定主题的'概览'或'摘要'。",
+                "fr": "De l'idée de 'peser ensemble les connaissances', signifie un résumé ou un aperçu d'un sujet spécifique."
+            },
+            "example": "This book is a compendium of knowledge.",
+            "translation": {
+                "ko": "이 책은 지식의 개요서이다.",
+                "ja": "この本は知識の概要書である。",
+                "zh": "这本书是知识的汇编。",
+                "fr": "Ce livre est un compendium de connaissances."
+            }
+        },
+        {
+            "word": "append",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ap- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "~に",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend",
+                    "meaning": {
+                        "ko": "매달다",
+                        "en": "to hang",
+                        "ja": "掛ける",
+                        "zh": "悬挂",
+                        "fr": "accrocher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것에 매달다'는 의미에서, 글이나 문서 끝에 내용을 '덧붙이다', '첨부하다'는 뜻입니다.",
+                "en": "From the sense of 'to hang on something': to add or attach content to the end of a document or text.",
+                "ja": "「何かに掛ける」という意味から、文章や文書の最後に内容を「付け加える」「添付する」という意味になります。",
+                "zh": "从\"挂在某物上\"的含义引申，表示在文章或文档的末尾\"添加\"或\"附加\"内容。",
+                "fr": "Du sens de « accrocher à quelque chose » : ajouter ou joindre du contenu à la fin d'un document ou d'un texte."
+            },
+            "example": "Please append your signature to the document.",
+            "translation": {
+                "ko": "문서에 서명을 덧붙여 주세요.",
+                "ja": "文書に署名を付け加えてください。",
+                "zh": "请在文件上附加您的签名。",
+                "fr": "Veuillez ajouter votre signature au document."
+            }
+        },
+        {
+            "word": "dispense",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 따로",
+                        "en": "away, apart",
+                        "ja": "離れて、別に",
+                        "zh": "离开、分开",
+                        "fr": "loin, à part"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pense (pendere)",
+                    "meaning": {
+                        "ko": "무게를 재다, 나누다",
+                        "en": "to weigh out",
+                        "ja": "量を計る、分配する",
+                        "zh": "称量、分配",
+                        "fr": "peser, distribuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무게를 재어 나누어주다'는 의미에서, 약 등을 '조제하다', '나누어주다'는 뜻입니다. 'dispense with'는 '없이 지내다'는 뜻입니다.",
+                "en": "From the sense of 'weighing out and distributing': to prepare or distribute (medicines, etc.). 'Dispense with' means to do without.",
+                "ja": "「量を計って分配する」という意味から、薬などを「調剤する」「配給する」という意味になります。「dispense with」は「なしで済ます」という意味です。",
+                "zh": "从「称量并分配」的意义引申而来，表示「配制」或「分配」（如药物等）。'dispense with'表示「不需要、省去」。",
+                "fr": "Du sens de « peser et distribuer »: préparer ou distribuer (médicaments, etc.). « Dispense with » signifie « se passer de »."
+            },
+            "example": "The machine dispenses coffee.",
+            "translation": {
+                "ko": "그 기계는 커피를 제공한다.",
+                "ja": "その機械はコーヒーを提供する。",
+                "zh": "那台机器提供咖啡。",
+                "fr": "La machine distribue du café."
+            }
+        },
+        {
+            "word": "ponderous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ponder (pondus)",
+                    "meaning": {
+                        "ko": "무게",
+                        "en": "weight",
+                        "ja": "重さ",
+                        "zh": "重量",
+                        "fr": "poids"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무게가 많이 나가는'이라는 의미에서, '대단히 무거운', '육중한' 또는 글이나 말이 '지루하고 답답한'이라는 뜻으로 쓰입니다.",
+                "en": "From Latin 'pondus' (weight). Means very heavy or weighty, and can describe speech or writing as tedious or dull.",
+                "ja": "ラテン語の「pondus」（重さ）から。非常に重い、または退屈で冗長な話や文章を表します。",
+                "zh": "源自拉丁语「pondus」（重量）。表示极其沉重的，或形容言论和文字乏味冗长。",
+                "fr": "Du latin « pondus » (poids). Signifie très lourd ou pesant, et peut décrire un discours ou un texte comme ennuyeux ou fastidieux."
+            },
+            "example": "He walked with ponderous steps.",
+            "translation": {
+                "ko": "그는 육중한 걸음으로 걸었다.",
+                "ja": "彼は重々しい足取りで歩いていた。",
+                "zh": "他迈着沉重的步伐行走。",
+                "fr": "Il marchait d'un pas pesant."
+            }
+        },
+        {
+            "word": "ponder",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ponder (pondus)",
+                    "meaning": {
+                        "ko": "무게",
+                        "en": "weight",
+                        "ja": "重さ",
+                        "zh": "重量",
+                        "fr": "poids"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마음속으로 무게를 재다'는 의미에서, 어떤 문제에 대해 '숙고하다', '곰곰이 생각하다'는 뜻입니다.",
+                "en": "From the sense of 'weighing mentally': to think deeply or carefully about something",
+                "ja": "「心の中で重さを量る」という意味から、ある問題について「熟考する」「よく考える」という意味になりました。",
+                "zh": "从「心中衡量轻重」的意思引申，表示对某个问题「深思熟虑」、「仔细思考」。",
+                "fr": "Du sens de 'peser mentalement': réfléchir profondément ou soigneusement à quelque chose."
+            },
+            "example": "He pondered his decision.",
+            "translation": {
+                "ko": "그는 자신의 결정을 숙고했다.",
+                "ja": "彼は自分の決定について熟考した。",
+                "zh": "他深思了自己的决定。",
+                "fr": "Il a réfléchi à sa décision."
+            }
+        }
+    ]
+}

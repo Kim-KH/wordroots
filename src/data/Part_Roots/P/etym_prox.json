@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "prox (near) approximate, proximal, proximity, proxy",
+        "origin": "Latin, proximus (nearest)",
+        "meaning": {
+            "ko": "가장 가까운",
+            "en": "nearest",
+            "ja": "最も近い",
+            "zh": "最近的",
+            "fr": "le plus proche"
+        }
+    },
+    "words": [
+        {
+            "word": "approximate",
+            "part_of_speech": "",
+            "origin": "Latin, approximare (to come near to)",
+            "meaning": {
+                "ko": "가까이 가다",
+                "en": "to come close to",
+                "ja": "近づく、大体的な",
+                "zh": "接近、大约的",
+                "fr": "s'approcher, approximatif"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ap- (ad-)",
+                    "meaning": {
+                        "ko": "'~으로'",
+                        "en": "to",
+                        "ja": "へ、まで",
+                        "zh": "向、到",
+                        "fr": "vers, à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "proxim-",
+                    "meaning": {
+                        "ko": "'가까운'",
+                        "en": "near",
+                        "ja": "近い",
+                        "zh": "接近的",
+                        "fr": "proche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실제 값에 가까이 가다'는 의미에서 '근사치의', '대략적인'이라는 뜻입니다.",
+                "en": "Means roughly or approximately, as in getting close to an actual value",
+                "ja": "実際の値に近づくという意味で、『近似値の』『大体的な』という意味です",
+                "zh": "指接近实际值的意思，表示『近似值的』『大约的』的含义",
+                "fr": "Signifie approximativement ou se rapprocher d'une valeur réelle"
+            },
+            "example": "The approximate cost will be about $100.",
+            "translation": {
+                "ko": "대략적인 비용은 약 100달러가 될 것이다.",
+                "ja": "概算費用は約100ドルになるでしょう",
+                "zh": "大约的费用将是100美元左右",
+                "fr": "Le coût approximatif sera d'environ 100 dollars"
+            }
+        },
+        {
+            "word": "proximal",
+            "part_of_speech": "",
+            "origin": "Latin, proximus (nearest)",
+            "meaning": {
+                "ko": "가장 가까운",
+                "en": "closest or nearest",
+                "ja": "最も近い",
+                "zh": "最近的",
+                "fr": "le plus proche"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "proxim-",
+                    "meaning": {
+                        "ko": "'가까운'",
+                        "en": "near",
+                        "ja": "近い",
+                        "zh": "近的",
+                        "fr": "proche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸의 중심에 더 가까운'이라는 해부학 용어입니다.",
+                "en": "An anatomical term meaning closer to the center of the body.",
+                "ja": "身体の中心に近いという解剖学用語です。",
+                "zh": "解剖学术语，指离身体中心更近。",
+                "fr": "Terme anatomique signifiant plus près du centre du corps."
+            },
+            "example": "The shoulder is proximal to the elbow.",
+            "translation": {
+                "ko": "어깨는 팔꿈치보다 몸 중심에 더 가깝다.",
+                "ja": "肩は肘に対して近位である。",
+                "zh": "肩部相对于肘部是近端的。",
+                "fr": "L'épaule est proximale au coude."
+            }
+        },
+        {
+            "word": "proximity",
+            "part_of_speech": "",
+            "origin": "Latin, proximitas (nearness)",
+            "meaning": {
+                "ko": "가까움",
+                "en": "closeness or nearness",
+                "ja": "近さ",
+                "zh": "接近",
+                "fr": "proximité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "proxim-",
+                    "meaning": {
+                        "ko": "'가까운'",
+                        "en": "near",
+                        "ja": "近い",
+                        "zh": "近的",
+                        "fr": "près"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시간이나 공간적으로 가까움'을 뜻합니다.",
+                "en": "Means nearness in time or space",
+                "ja": "時間や空間的な近さを意味します",
+                "zh": "指时间或空间上的接近",
+                "fr": "Signifie la proximité dans le temps ou l'espace"
+            },
+            "example": "The hotel's proximity to the beach is a big advantage.",
+            "translation": {
+                "ko": "그 호텔이 해변과 가깝다는 것은 큰 장점이다.",
+                "ja": "ホテルのビーチへの近さは大きな利点です。",
+                "zh": "酒店靠近海滩是一个很大的优势。",
+                "fr": "La proximité de l'hôtel à la plage est un grand avantage."
+            }
+        },
+        {
+            "word": "proxy",
+            "part_of_speech": "",
+            "origin": "Middle English, procuracie (procuracy)",
+            "meaning": {
+                "ko": "대리 행위",
+                "en": "acting on behalf of another",
+                "ja": "代理行為",
+                "zh": "代理行为",
+                "fr": "acte de procuration"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "prox- (procurator)",
+                    "meaning": {
+                        "ko": "'대리인'",
+                        "en": "agent",
+                        "ja": "代理人",
+                        "zh": "代理人",
+                        "fr": "mandataire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람 가까이에서 대신하는 사람'이라는 의미에서 '대리인', '대리권'을 뜻합니다.",
+                "en": "A person who acts on behalf of another person in their absence",
+                "ja": "他の人の代わりに行動する人という意味で、代理人、代理権を意味します",
+                "zh": "代表他人行动的人，意指代理人、代理权",
+                "fr": "Une personne qui agit au nom d'une autre en son absence, signifiant mandataire ou pouvoir de procuration"
+            },
+            "example": "You can vote by proxy.",
+            "translation": {
+                "ko": "당신은 대리로 투표할 수 있다.",
+                "ja": "あなたは代理投票ができます。",
+                "zh": "你可以通过代理投票。",
+                "fr": "Vous pouvez voter par procuration."
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "root_info": {
+        "roots": "dog, dox: thought, idea",
+        "origin": "Greek, dokein",
+        "meaning": {
+            "ko": "보이다, 생각하다",
+            "en": "to seem, to think",
+            "ja": "見える、思う",
+            "zh": "似乎、认为",
+            "fr": "sembler, penser"
+        }
+    },
+    "words": [
+        {
+            "word": "Docetism",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "doce (dokein)",
+                    "meaning": {
+                        "ko": "~처럼 보이다",
+                        "en": "to seem",
+                        "ja": "~のように見える",
+                        "zh": "显得，似乎",
+                        "fr": "sembler, paraître"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ism",
+                    "meaning": {
+                        "ko": "사상, 주의",
+                        "en": "doctrine, belief",
+                        "ja": "学説、主義",
+                        "zh": "学说、主义",
+                        "fr": "doctrine, croyance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "초기 기독교의 교리로, 예수는 육신을 가진 인간이 아니라 '인간처럼 보였을 뿐'이라는 사상(가현설)을 의미합니다.",
+                "en": "Early Christian doctrine holding that Jesus only appeared human but lacked a physical body.",
+                "ja": "初期キリスト教の教義で、イエスは肉体を持たず人間のように見えただけという思想(仮現説)。",
+                "zh": "早期基督教教义，认为耶稣并非真正的人，只是显得像人(幻影说)。",
+                "fr": "Doctrine du christianisme primitif selon laquelle Jésus n'était qu'une apparence humaine sans corps physique."
+            },
+            "example": "Docetism was an early Christian heresy.",
+            "translation": {
+                "ko": "가현설은 초기 기독교의 이단이었다.",
+                "ja": "仮現説は初期キリスト教の異端であった。",
+                "zh": "幻影说是早期基督教的异端邪说。",
+                "fr": "Le docétisme était une hérésie du christianisme primitif."
+            }
+        },
+        {
+            "word": "doxology",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dox (doxa)",
+                    "meaning": {
+                        "ko": "영광, 의견",
+                        "en": "glory, opinion",
+                        "ja": "栄光、意見",
+                        "zh": "荣耀、观点",
+                        "fr": "gloire, opinion"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy (logos)",
+                    "meaning": {
+                        "ko": "말, 학문",
+                        "en": "word, study",
+                        "ja": "言葉、学問",
+                        "zh": "言语、学问",
+                        "fr": "parole, étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "신의 '영광'을 찬양하는 '말'이나 노래, 즉 '송영(頌榮)'을 의미합니다.",
+                "en": "A song or saying praising God's glory; literally 'hymn of praise'",
+                "ja": "神の『栄光』を賛美する『言葉』や歌、つまり『賛美歌』を意味します。",
+                "zh": "表示赞美上帝'荣耀'的'言语'或歌曲，即'颂歌'。",
+                "fr": "Une parole ou un chant louant la 'gloire' de Dieu ; littéralement 'hymne de louange'."
+            },
+            "example": "The service ended with a doxology.",
+            "translation": {
+                "ko": "예배는 송영으로 끝났다.",
+                "ja": "礼拝は賛美歌で終わった。",
+                "zh": "礼拜以颂歌结束。",
+                "fr": "Le service s'est terminé par une doxologie."
+            }
+        }
+    ]
+}

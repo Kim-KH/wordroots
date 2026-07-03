@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "fic (making) beatific, horrific, malefic, scientific",
+        "origin": "Latin, facere (to make, to do)",
+        "meaning": {
+            "ko": "만드는",
+            "en": "making",
+            "ja": "作ること",
+            "zh": "制作",
+            "fr": "fabrication"
+        }
+    },
+    "words": [
+        {
+            "word": "beatific",
+            "part_of_speech": "",
+            "origin": "Latin, beatificus (making happy)",
+            "meaning": {
+                "ko": "행복하게 만드는",
+                "en": "making blissful or happy",
+                "ja": "至福の、幸せな",
+                "zh": "至福的、幸福的",
+                "fr": "bienheureux, qui rend heureux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "beat- (beatus 'blessed')",
+                    "meaning": {
+                        "ko": "'축복받은, 행복한'",
+                        "en": "blessed, happy",
+                        "ja": "祝福された、幸せな",
+                        "zh": "蒙福的、幸福的",
+                        "fr": "béni, heureux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ific",
+                    "meaning": {
+                        "ko": "'만드는'",
+                        "en": "making",
+                        "ja": "作る、もたらす",
+                        "zh": "制造、带来",
+                        "fr": "faire, rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더 없는 행복을 보여주는'이라는 의미에서 '기쁨이 넘치는'이라는 뜻입니다.",
+                "en": "Conveys supreme happiness and joy overflowing from ultimate bliss",
+                "ja": "この上ない幸福を示す意味で、喜びに満ちている",
+                "zh": "表达至高的幸福感，充满喜悦的意思",
+                "fr": "Exprime un bonheur suprême, débordant de joie ultime"
+            },
+            "example": "She had a beatific smile on her face.",
+            "translation": {
+                "ko": "그녀는 얼굴에 기쁨이 넘치는 미소를 띠고 있었다.",
+                "ja": "彼女の顔には至福の笑顔が浮かんでいた。",
+                "zh": "她脸上带着至福的微笑。",
+                "fr": "Elle avait un sourire bienheureux sur le visage."
+            }
+        },
+        {
+            "word": "horrific",
+            "part_of_speech": "",
+            "origin": "Latin, horrificus (dreadful)",
+            "meaning": {
+                "ko": "무서운",
+                "en": "frightening or terrifying",
+                "ja": "恐ろしい",
+                "zh": "可怕的",
+                "fr": "horrifique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "horr- (horror)",
+                    "meaning": {
+                        "ko": "'공포'",
+                        "en": "terror or fear",
+                        "ja": "恐怖",
+                        "zh": "恐怖",
+                        "fr": "terreur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ific",
+                    "meaning": {
+                        "ko": "'만드는'",
+                        "en": "making",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공포를 만들어내는'이라는 의미에서 '끔찍한'이라는 뜻입니다.",
+                "en": "Meaning 'creating terror' or 'causing horror'",
+                "ja": "恐怖を作り出すという意味から、恐ろしいという意味です",
+                "zh": "从'制造恐怖'的意思来看，表示可怕的",
+                "fr": "Du sens de 'créer la terreur', signifiant horrible"
+            },
+            "example": "It was a horrific accident.",
+            "translation": {
+                "ko": "그것은 끔찍한 사고였다.",
+                "ja": "それはひどい事故でした",
+                "zh": "那是一场可怕的事故",
+                "fr": "C'était un accident horrible"
+            }
+        },
+        {
+            "word": "malefic",
+            "part_of_speech": "",
+            "origin": "Latin, maleficus (evil-doing)",
+            "meaning": {
+                "ko": "악을 행하는",
+                "en": "doing evil",
+                "ja": "悪を行う",
+                "zh": "行恶",
+                "fr": "faire le mal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "male-",
+                    "meaning": {
+                        "ko": "'나쁜'",
+                        "en": "badly",
+                        "ja": "悪い",
+                        "zh": "坏的",
+                        "fr": "mauvais"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-fic",
+                    "meaning": {
+                        "ko": "'만드는, 행하는'",
+                        "en": "making, doing",
+                        "ja": "作る、行う",
+                        "zh": "制造、行为",
+                        "fr": "faire, produire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'해를 끼치는', '악의 있는'이라는 뜻입니다.",
+                "en": "Means harmful or malicious in nature",
+                "ja": "害をもたらす、悪意のある意味",
+                "zh": "表示有害或恶意的",
+                "fr": "Signifie nuisible ou malveillant"
+            },
+            "example": "In astrology, Saturn is considered a malefic planet.",
+            "translation": {
+                "ko": "점성술에서 토성은 해로운 행성으로 간주된다.",
+                "ja": "占星術では、土星は悪い惑星と考えられています。",
+                "zh": "在占星术中，土星被认为是凶星。",
+                "fr": "En astrologie, Saturne est considéré comme une planète maléfique."
+            }
+        },
+        {
+            "word": "scientific",
+            "part_of_speech": "",
+            "origin": "Latin, scientia (knowledge) + facere (to make)",
+            "meaning": {
+                "ko": "지식을 만드는",
+                "en": "creating knowledge",
+                "ja": "科学的な",
+                "zh": "科学的",
+                "fr": "scientifique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scienti-",
+                    "meaning": {
+                        "ko": "'지식'",
+                        "en": "knowledge",
+                        "ja": "知識",
+                        "zh": "知识",
+                        "fr": "connaissance"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-fic",
+                    "meaning": {
+                        "ko": "'만드는'",
+                        "en": "making",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과학 지식에 기반한'이라는 의미에서 '과학적인'이라는 뜻입니다.",
+                "en": "Meaning based on scientific knowledge",
+                "ja": "科学的知識に基づいた意味",
+                "zh": "基于科学知识的意思",
+                "fr": "Sens basé sur la connaissance scientifique"
+            },
+            "example": "We need a scientific approach to solve this problem.",
+            "translation": {
+                "ko": "우리는 이 문제를 해결하기 위해 과학적인 접근법이 필요하다.",
+                "ja": "この問題を解くには科学的なアプローチが必要です。",
+                "zh": "我们需要用科学的方法来解决这个问题。",
+                "fr": "Nous avons besoin d'une approche scientifique pour résoudre ce problème."
+            }
+        }
+    ]
+}

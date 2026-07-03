@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "quant (amount) quantify, quantity, quantum",
+        "origin": "Latin, quantus (how much, how great)",
+        "meaning": {
+            "ko": "얼마나 많이",
+            "en": "how much",
+            "ja": "どのくらい多く",
+            "zh": "多少",
+            "fr": "combien"
+        }
+    },
+    "words": [
+        {
+            "word": "quantify",
+            "part_of_speech": "",
+            "origin": "Latin, quantus (how much)",
+            "meaning": {
+                "ko": "얼마나 많이",
+                "en": "how much",
+                "ja": "数値化する",
+                "zh": "量化",
+                "fr": "quantifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quant-",
+                    "meaning": {
+                        "ko": "'양'",
+                        "en": "amount",
+                        "ja": "量",
+                        "zh": "数量",
+                        "fr": "quantité"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양을 측정하여 수치로 나타내다'는 의미에서 '수량화하다'라는 뜻입니다.",
+                "en": "To express the amount by measuring and representing it numerically",
+                "ja": "量を測定して数値で表現することを意味します",
+                "zh": "通过测量并用数字表示数量的含义",
+                "fr": "Exprimer la quantité en la mesurant et en la représentant numériquement"
+            },
+            "example": "It is difficult to quantify the effects of the new policy.",
+            "translation": {
+                "ko": "새 정책의 효과를 수량화하기는 어렵다.",
+                "ja": "新しい政策の効果を数値化することは難しい",
+                "zh": "很难量化新政策的效果",
+                "fr": "Il est difficile de quantifier les effets de la nouvelle politique."
+            }
+        },
+        {
+            "word": "quantity",
+            "part_of_speech": "",
+            "origin": "Latin, quantitas (amount)",
+            "meaning": {
+                "ko": "양",
+                "en": "quantity or amount",
+                "ja": "量",
+                "zh": "数量",
+                "fr": "quantité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quant-",
+                    "meaning": {
+                        "ko": "'양'",
+                        "en": "amount",
+                        "ja": "量",
+                        "zh": "数量",
+                        "fr": "quantité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'셀 수 있거나 측정할 수 있는 양'을 뜻합니다.",
+                "en": "Means an amount that can be counted or measured.",
+                "ja": "数えたり測定したりできる量を意味します。",
+                "zh": "指可以计数或测量的数量。",
+                "fr": "Signifie une quantité qui peut être comptée ou mesurée."
+            },
+            "example": "We need a large quantity of a material.",
+            "translation": {
+                "ko": "우리는 많은 양의 재료가 필요하다.",
+                "ja": "私たちは大量の材料が必要です。",
+                "zh": "我们需要大量的材料。",
+                "fr": "Nous avons besoin d'une grande quantité de matériau."
+            }
+        },
+        {
+            "word": "quantum",
+            "part_of_speech": "",
+            "origin": "Latin, quantum (how much)",
+            "meaning": {
+                "ko": "얼마나 많이",
+                "en": "how much",
+                "ja": "どのくらい多いか",
+                "zh": "多少",
+                "fr": "combien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quant-",
+                    "meaning": {
+                        "ko": "'양'",
+                        "en": "amount",
+                        "ja": "量",
+                        "zh": "量",
+                        "fr": "quantité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'에너지 등 불연속적인 양의 최소 단위'인 '양자'를 뜻합니다.",
+                "en": "Refers to 'quantum', the minimum unit of discontinuous quantities such as energy.",
+                "ja": "エネルギーなど不連続的な量の最小単位である'量子'を意味します",
+                "zh": "指能量等不连续量的最小单位'量子'",
+                "fr": "Désigne le 'quantum', l'unité minimale de quantités discontinues comme l'énergie"
+            },
+            "example": "Quantum physics studies the behavior of matter and energy at the smallest scales.",
+            "translation": {
+                "ko": "양자 물리학은 가장 작은 규모에서 물질과 에너지의 행동을 연구한다.",
+                "ja": "量子",
+                "zh": "量子",
+                "fr": "quantum"
+            }
+        }
+    ]
+}

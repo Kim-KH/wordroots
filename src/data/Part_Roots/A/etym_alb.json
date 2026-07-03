@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "alb(u) (white) albino, albumin, albatross",
+        "origin": "Latin, albus (white)",
+        "meaning": {
+            "ko": "흰색",
+            "en": "white",
+            "ja": "白色",
+            "zh": "白色",
+            "fr": "blanc"
+        }
+    },
+    "words": [
+        {
+            "word": "albino",
+            "part_of_speech": "",
+            "origin": "Portuguese/Spanish, albino (whitish)",
+            "meaning": {
+                "ko": "희끄무레한",
+                "en": "whitish",
+                "ja": "白っぽい",
+                "zh": "白化的",
+                "fr": "blanchâtre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "alb (albus)",
+                    "meaning": {
+                        "ko": "'흰색'",
+                        "en": "white",
+                        "ja": "白い",
+                        "zh": "白色",
+                        "fr": "blanc"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ino",
+                    "meaning": {
+                        "ko": "'작은 것을 나타냄'",
+                        "en": "indicating something small",
+                        "ja": "小さいことを示す",
+                        "zh": "表示小的东西",
+                        "fr": "indiquant petitesse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "포르투갈 탐험가들이 아프리카에서 멜라닌 색소가 부족하여 피부나 털이 하얀 사람들을 보고 '희끄무레한 사람'이라고 부른 데서 유래하여 '백색증 환자', '알비노'를 뜻하게 되었습니다.",
+                "en": "Portuguese explorers in Africa observed people with lack of melanin pigment and called them 'whitish people', which led to the meaning of 'albinism patient' or 'albino'.",
+                "ja": "ポルトガルの探検家がアフリカで、メラニン色素が不足している人々を見かけ、「白っぽい人」と呼んだことに由来し、「白皮症患者」または「アルビノ」を意味するようになりました。",
+                "zh": "葡萄牙探险家在非洲看到缺乏黑色素的人，称他们为'白化的人'，由此衍生出'白化病患者'或'白化人'的含义。",
+                "fr": "Les explorateurs portugais en Afrique ont observé des personnes manquant de pigments de mélanine et les ont appelées 'gens blanchâtres', d'où le sens de 'patient albinisme' ou 'albinos'."
+            },
+            "example": "The zoo has a rare albino tiger.",
+            "translation": {
+                "ko": "그 동물원에는 희귀한 백호가 있다.",
+                "ja": "動物園は珍しい白いトラを飼っています。",
+                "zh": "动物园有一只罕见的白化虎。",
+                "fr": "Le zoo a un rare tigre albinos."
+            }
+        },
+        {
+            "word": "albumin",
+            "part_of_speech": "",
+            "origin": "French, albumine (from Latin albumen \"egg white\")",
+            "meaning": {
+                "ko": "계란 흰자",
+                "en": "egg white",
+                "ja": "卵白",
+                "zh": "蛋白",
+                "fr": "blanc d'œuf"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "album (albumen)",
+                    "meaning": {
+                        "ko": "'흰색'",
+                        "en": "white",
+                        "ja": "白色",
+                        "zh": "白色",
+                        "fr": "blanc"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-in",
+                    "meaning": {
+                        "ko": "'물질'",
+                        "en": "substance",
+                        "ja": "物質",
+                        "zh": "物质",
+                        "fr": "substance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "계란 흰자(albumen)에서 처음 발견된 단백질이라는 의미에서 '알부민'이라고 불리며, 혈액이나 우유 등에도 존재하는 중요한 단백질입니다.",
+                "en": "Albumin is a protein first discovered in egg white (albumen), hence the name 'albumin'. It is an important protein found in blood, milk, and other fluids.",
+                "ja": "アルブミンは卵白(albumen)で最初に発見されたタンパク質という意味で'アルブミン'と呼ばれ、血液や牛乳などにも存在する重要なタンパク質です。",
+                "zh": "白蛋白最初在蛋白(albumen)中被发现的蛋白质而得名,是存在于血液、牛乳等中的重要蛋白质。",
+                "fr": "L'albumine est une protéine découverte pour la première fois dans le blanc d'œuf (albumen), d'où son nom 'albumine'. C'est une protéine importante présente dans le sang, le lait et autres liquides."
+            },
+            "example": "Albumin helps to keep fluid in your bloodstream so it doesn't leak into other tissues.",
+            "translation": {
+                "ko": "알부민은 체액이 다른 조직으로 새어 나가지 않도록 혈류에 머물게 하는 데 도움을 줍니다.",
+                "ja": "アルブミンは血流中の液体を保つのに役立ち、他の組織に漏れないようにします。",
+                "zh": "白蛋白有助于保持血液中的液体，防止其泄漏到其他组织中。",
+                "fr": "L'albumine aide à maintenir le fluide dans votre circulation sanguine afin qu'il ne s'échappe pas dans d'autres tissus."
+            }
+        },
+        {
+            "word": "albatross",
+            "part_of_speech": "",
+            "origin": "Arabic, al-qādūs (the water-carrier), via Portuguese",
+            "meaning": {
+                "ko": "물 운반선",
+                "en": "the water-carrier",
+                "ja": "水を運ぶ鳥",
+                "zh": "运水的鸟",
+                "fr": "oiseau porteur d'eau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "alba (albus - white)",
+                    "meaning": {
+                        "ko": "'흰색'",
+                        "en": "white",
+                        "ja": "白色",
+                        "zh": "白色",
+                        "fr": "blanc"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 아랍어에서 펠리컨을 가리키던 단어가 포르투갈어로 전해지면서, 더 크고 흰 바닷새인 '알바트로스'를 지칭하게 되었습니다. 이 과정에서 라틴어 'albus(흰색)'의 영향을 받아 철자가 변형된 것으로 추정됩니다. 비유적으로는 '벗어나기 힘든 장애물'이나 '죄책감'을 의미하기도 합니다.",
+                "en": "Originally an Arabic word for pelican that was transmitted to Portuguese, eventually referring to the larger white seabird 'albatross'. The spelling is believed to have been transformed under the influence of Latin 'albus' (white). Metaphorically, it can also mean 'an obstacle difficult to escape from' or 'guilt'.",
+                "ja": "元々ペリカンを指すアラビア語がポルトガル語に伝わる過程で、より大きく白い海鳥のアルバトロスを指すようになりました。この過程でラテン語の'albus(白色)'の影響を受けて綴字が変形されたと推定されます。比喩的には'逃れがたい障害'や'罪悪感'を意味することもあります。",
+                "zh": "原本是阿拉伯语中指鹈鹕的词汇，传入葡萄牙语后开始指代更大更白的海鸟'信天翁'。这个过程中受到拉丁语'albus(白色)'的影响，拼写方式发生了变化。比喻上也可指'难以摆脱的障碍'或'内疚感'。",
+                "fr": "À l'origine un mot arabe désignant le pélican, qui s'est transmis au portugais en désignant le plus grand oiseau marin blanc 'albatros'. L'orthographe aurait été transformée sous l'influence du latin 'albus' (blanc). Au figuré, il peut aussi signifier 'un obstacle difficile à éviter' ou 'culpabilité'."
+            },
+            "example": "The albatross is known for its impressive wingspan.",
+            "translation": {
+                "ko": "알바트로스는 인상적인 날개 길이로 유명하다.",
+                "ja": "このアルバトロスは印象的な翼幅で知られています。",
+                "zh": "这种信天翁以其令人印象深刻的翼展而闻名。",
+                "fr": "L'albatros est connu pour son envergure impressionnante."
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "bi (two) bipedal, binary, binocular",
+        "origin": "Latin, bi- (twice, double)",
+        "meaning": {
+            "ko": "둘, 두 번",
+            "en": "two, twice",
+            "ja": "二つ、二度",
+            "zh": "二、两次",
+            "fr": "deux, deux fois"
+        }
+    },
+    "words": [
+        {
+            "word": "bipedal",
+            "part_of_speech": "",
+            "origin": "Latin, bipedalis (two feet long or thick)[10]",
+            "meaning": {
+                "ko": "두 발의[11]",
+                "en": "having two feet",
+                "ja": "二足歩行の",
+                "zh": "两足行走的",
+                "fr": "bipède"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "'둘의' (two)[12]",
+                        "en": "two",
+                        "ja": "二つの",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped",
+                    "meaning": {
+                        "ko": "'발' (foot)[12]",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개의 발을 가진'이라는 의미에서 '두 발로 걷는', '이족 보행의'라는 뜻으로 쓰입니다.[13]",
+                "en": "Describes organisms that walk on two feet, or relating to two-legged locomotion.",
+                "ja": "二本の足で歩く生物、または二足歩行に関すること。",
+                "zh": "描述用两条腿行走的生物，或与两足运动有关的事物。",
+                "fr": "Décrit les organismes qui marchent sur deux pieds, ou la locomotion bipède."
+            },
+            "example": "Humans are bipedal creatures.[14]",
+            "translation": {
+                "ko": "인간은 두 발로 걷는 동물이다.",
+                "ja": "人間は二足歩行の生き物です。",
+                "zh": "人类是两足行走的生物。",
+                "fr": "Les humains sont des créatures bipèdes."
+            }
+        },
+        {
+            "word": "binary",
+            "part_of_speech": "",
+            "origin": "Latin, binarius (consisting of two)",
+            "meaning": {
+                "ko": "두 개로 이루어진",
+                "en": "composed of two parts",
+                "ja": "二つで構成された",
+                "zh": "由两个组成",
+                "fr": "composé de deux"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "'둘의'",
+                        "en": "two",
+                        "ja": "二つの",
+                        "zh": "两个的",
+                        "fr": "deux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개의 요소로 이루어진'이라는 의미에서 컴퓨터 용어인 '2진법의' 또는 '두 부분으로 이루어진'이라는 뜻으로 쓰입니다.",
+                "en": "Used as a computer term meaning 'binary' or 'composed of two parts'",
+                "ja": "二つの要素で構成される意味でコンピュータ用語の2進法またはニ部分で構成されることを意味します",
+                "zh": "用作计算机术语，意为'二进制'或'由两部分组成'",
+                "fr": "Utilisé comme terme informatique signifiant 'binaire' ou 'composé de deux parties'"
+            },
+            "example": "Computers use a binary system of ones and zeros.",
+            "translation": {
+                "ko": "컴퓨터는 1과 0의 이진법 체계를 사용한다.",
+                "ja": "コンピューターは1と0の二進法システムを使用します",
+                "zh": "计算机使用由1和0组成的二进制系统",
+                "fr": "Les ordinateurs utilisent un système binaire de uns et de zéros"
+            }
+        },
+        {
+            "word": "binocular",
+            "part_of_speech": "",
+            "origin": "Latin, bini (two together) + oculus (eye)",
+            "meaning": {
+                "ko": "두 눈을 함께",
+                "en": "both eyes together",
+                "ja": "両眼を使う",
+                "zh": "用两只眼睛",
+                "fr": "utilisant deux yeux"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bin- (bi-)",
+                    "meaning": {
+                        "ko": "'두 개의'",
+                        "en": "two",
+                        "ja": "二つの",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ocular",
+                    "meaning": {
+                        "ko": "'눈의'",
+                        "en": "eye",
+                        "ja": "眼の",
+                        "zh": "眼睛的",
+                        "fr": "oeil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 눈으로 보는'이라는 의미에서 '쌍안경' 또는 '두 눈을 사용하는'이라는 뜻을 가집니다.",
+                "en": "Describes optical instruments designed for viewing with both eyes simultaneously, commonly used for magnifying distant objects",
+                "ja": "両眼で同時に見るように設計された光学機器で、遠い物体を拡大するために一般的に使用されます",
+                "zh": "描述为同时用两只眼睛观看而设计的光学仪器，通常用于放大远处的物体",
+                "fr": "Décrit les instruments optiques conçus pour l'observation avec les deux yeux simultanément, couramment utilisés pour agrandir les objets éloignés"
+            },
+            "example": "He watched the birds through his binoculars.",
+            "translation": {
+                "ko": "그는 쌍안경으로 새들을 관찰했다.",
+                "ja": "彼は双眼鏡を通して鳥を観察した。",
+                "zh": "他通过双筒望远镜观察鸟类。",
+                "fr": "Il observait les oiseaux à travers ses jumelles."
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "gregate (gather) aggregate, congregate, gregarious",
+        "origin": "Latin, grex, gregis (flock)",
+        "meaning": {
+            "ko": "무리",
+            "en": "flock",
+            "ja": "群れ",
+            "zh": "群",
+            "fr": "troupeau"
+        }
+    },
+    "words": [
+        {
+            "word": "aggregate",
+            "part_of_speech": "",
+            "origin": "Latin, aggregare (to add to a flock)",
+            "meaning": {
+                "ko": "무리에 더하다",
+                "en": "to add to a group",
+                "ja": "集める、合計する",
+                "zh": "聚集、总计",
+                "fr": "regrouper, totaliser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ag- (ad-)",
+                    "meaning": {
+                        "ko": "'~에'",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "向、到",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "greg-",
+                    "meaning": {
+                        "ko": "'무리'",
+                        "en": "flock",
+                        "ja": "群れ",
+                        "zh": "群体、群集",
+                        "fr": "troupeau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무리 쪽으로 보내다'는 의미에서 '모으다', '합계가 ~이 되다'라는 뜻이 되었고, 명사로는 '합계', '총액'을 의미합니다.",
+                "en": "From the meaning 'send toward a flock' it evolved to mean 'gather together' and 'make a total of', and as a noun means 'total' or 'sum'",
+                "ja": "群れへ送るという意味から、ものを集める、合計するという意味に発展し、名詞としては合計、総額を意味するようになりました",
+                "zh": "从'送向群体'的含义演变为'聚集'、'合计'的意思，作为名词表示'总数'或'总额'",
+                "fr": "Du sens 'envoyer vers un troupeau' a évolué vers 'rassembler', 'faire un total de', et en tant que nom signifie 'total' ou 'somme'"
+            },
+            "example": "The aggregate score of the two games was 5-3.",
+            "translation": {
+                "ko": "두 경기의 합계 점수는 5대 3이었다.",
+                "ja": "2試合の合計得点は5対3でした",
+                "zh": "两场比赛的总分是5比3",
+                "fr": "Le score cumulé des deux matches était 5-3"
+            }
+        },
+        {
+            "word": "congregate",
+            "part_of_speech": "",
+            "origin": "Latin, congregare (to flock together)",
+            "meaning": {
+                "ko": "함께 무리 짓다",
+                "en": "gather together in a group",
+                "ja": "集まる",
+                "zh": "聚集",
+                "fr": "se rassembler"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "greg-",
+                    "meaning": {
+                        "ko": "'무리'",
+                        "en": "flock",
+                        "ja": "群れ",
+                        "zh": "群体",
+                        "fr": "troupeau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 무리를 짓다'는 의미에서 '모이다'라는 뜻입니다.",
+                "en": "The meaning 'to congregate' comes from 'to gather together in a group' or 'to assemble'.",
+                "ja": "「集まる」という意味は「一緒に群れをなす」という意味から来ています。",
+                "zh": "「聚集」的含义来自「一起形成群体」或「集合」的意思。",
+                "fr": "Le sens de 'se rassembler' vient de 'se réunir ensemble en groupe' ou 'assembler'."
+            },
+            "example": "A crowd began to congregate around the speaker.",
+            "translation": {
+                "ko": "연사 주위로 군중이 모여들기 시작했다.",
+                "ja": "群衆がスピーカーの周りに集まり始めた。",
+                "zh": "一群人开始在演讲者周围聚集。",
+                "fr": "Une foule a commencé à se rassembler autour du conférencier."
+            }
+        },
+        {
+            "word": "gregarious",
+            "part_of_speech": "",
+            "origin": "Latin, gregarius (of a flock)",
+            "meaning": {
+                "ko": "무리의",
+                "en": "of or relating to a group",
+                "ja": "群れをなす、社交的な",
+                "zh": "群居的、社交的",
+                "fr": "grégaire, sociable"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "greg-",
+                    "meaning": {
+                        "ko": "'무리'",
+                        "en": "flock",
+                        "ja": "群れ、フロック",
+                        "zh": "群体、羊群",
+                        "fr": "troupeau, groupe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무리를 지어 사는' 습성이 있다는 의미에서 '사교적인'이라는 뜻입니다.",
+                "en": "From the habit of living in groups, it means sociable",
+                "ja": "群れをなして生活する習性から、社交的という意味です",
+                "zh": "从群居生活的习性衍生，表示社交的意思",
+                "fr": "De l'habitude de vivre en groupes, cela signifie sociable"
+            },
+            "example": "Humans are gregarious animals.",
+            "translation": {
+                "ko": "인간은 군집 생활을 하는 동물이다.",
+                "ja": "人間は群居動物である。",
+                "zh": "人类是群居动物。",
+                "fr": "Les humains sont des animaux grégaires."
+            }
+        }
+    ]
+}

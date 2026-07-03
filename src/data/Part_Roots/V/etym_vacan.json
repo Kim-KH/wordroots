@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "vacan (empty) evacuate, vacant, vacate, vacation",
+        "origin": "Latin, vacare (to be empty)",
+        "meaning": {
+            "ko": "비어 있다",
+            "en": "to be empty",
+            "ja": "空である",
+            "zh": "是空的",
+            "fr": "être vide"
+        }
+    },
+    "words": [
+        {
+            "word": "evacuate",
+            "part_of_speech": "",
+            "origin": "Latin, evacuare (to empty out)",
+            "meaning": {
+                "ko": "비우다",
+                "en": "to empty out",
+                "ja": "空にする",
+                "zh": "清空",
+                "fr": "vider"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vac- (vacare)",
+                    "meaning": {
+                        "ko": "'비어 있다'",
+                        "en": "to be empty",
+                        "ja": "空である",
+                        "zh": "是空的",
+                        "fr": "être vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안을 비워 밖으로 내보내다'는 의미에서 '대피시키다', '비우다'라는 뜻이 되었습니다.",
+                "en": "From the meaning 'to empty the inside and send out' it came to mean 'to evacuate' or 'to empty'.",
+                "ja": "内部を空にして外に出すという意味から、避難させる、空にするという意味になりました。",
+                "zh": "从'把内部清空并送出去'的含义衍生出'撤离'或'清空'的意思。",
+                "fr": "Du sens 'vider l'intérieur et envoyer dehors' il a acquis le sens 'évacuer' ou 'vider'."
+            },
+            "example": "People were evacuated from the burning building.",
+            "translation": {
+                "ko": "사람들이 불타는 건물에서 대피했다.",
+                "ja": "人々は燃えている建物から避難させられました。",
+                "zh": "人们从燃烧的建筑物中被撤离。",
+                "fr": "Les gens ont été évacués du bâtiment en feu."
+            }
+        },
+        {
+            "word": "vacant",
+            "part_of_speech": "",
+            "origin": "Latin, vacans (being empty)",
+            "meaning": {
+                "ko": "비어 있는",
+                "en": "being empty",
+                "ja": "空いている",
+                "zh": "空着的",
+                "fr": "vide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vac- (vacare)",
+                    "meaning": {
+                        "ko": "'비어 있다'",
+                        "en": "to be empty",
+                        "ja": "空である",
+                        "zh": "是空的",
+                        "fr": "être vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비어 있는' 상태를 의미합니다.",
+                "en": "Describes a state of being empty",
+                "ja": "空いている状態を意味します",
+                "zh": "表示空着的状态",
+                "fr": "Décrit un état de vide"
+            },
+            "example": "The house has been vacant for a year.",
+            "translation": {
+                "ko": "그 집은 1년 동안 비어 있었다.",
+                "ja": "その家は1年間空いたままです",
+                "zh": "这栋房子已经空着一年了",
+                "fr": "La maison est restée vide pendant un an"
+            }
+        },
+        {
+            "word": "vacate",
+            "part_of_speech": "",
+            "origin": "Latin, vacare (to be empty)",
+            "meaning": {
+                "ko": "비어 있다",
+                "en": "to be empty",
+                "ja": "空にする",
+                "zh": "清空",
+                "fr": "vider"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vac-",
+                    "meaning": {
+                        "ko": "'비어 있다'",
+                        "en": "to be empty",
+                        "ja": "空である",
+                        "zh": "空的",
+                        "fr": "être vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'장소를 비우다'는 뜻입니다.",
+                "en": "It means to empty a place",
+                "ja": "場所を空にするという意味です",
+                "zh": "意思是清空一个地方",
+                "fr": "Cela signifie vider un lieu"
+            },
+            "example": "You must vacate the room by noon.",
+            "translation": {
+                "ko": "당신은 정오까지 방을 비워야 합니다.",
+                "ja": "正午までに部屋を空けなければなりません",
+                "zh": "你必须在中午前清空房间",
+                "fr": "Vous devez vider la chambre avant midi"
+            }
+        },
+        {
+            "word": "vacation",
+            "part_of_speech": "",
+            "origin": "Latin, vacatio (freedom, exemption)",
+            "meaning": {
+                "ko": "자유",
+                "en": "freedom",
+                "ja": "自由",
+                "zh": "自由",
+                "fr": "liberté"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vac- (vacare)",
+                    "meaning": {
+                        "ko": "'비어 있다'",
+                        "en": "to be empty",
+                        "ja": "空いている",
+                        "zh": "空着的",
+                        "fr": "être vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일이나 의무에서 비워져 자유로운 시간'이라는 의미에서 '휴가'를 뜻합니다.",
+                "en": "Means vacation from the sense of having free time emptied from work or duties",
+                "ja": "仕事や義務から解放され、自由な時間という意味から休暇を意味します",
+                "zh": "从工作或义务中空出来、获得自由时间的意思表示休假",
+                "fr": "Signifie congés au sens d'un temps libéré du travail ou des obligations"
+            },
+            "example": "I'm going on vacation next week.",
+            "translation": {
+                "ko": "나는 다음 주에 휴가를 갈 것이다.",
+                "ja": "来週、休暇に行きます",
+                "zh": "我下周要去度假",
+                "fr": "Je pars en vacances la semaine prochaine"
+            }
+        }
+    ]
+}

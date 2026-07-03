@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "hypn (sleep) hypnotic, hypnotism, hypnotherapy",
+        "origin": "Greek, hypnos (sleep)",
+        "meaning": {
+            "ko": "잠",
+            "en": "sleep",
+            "ja": "眠り",
+            "zh": "睡眠",
+            "fr": "sommeil"
+        }
+    },
+    "words": [
+        {
+            "word": "hypnotic",
+            "part_of_speech": "",
+            "origin": "Greek, hypnotikos (inclined to sleep)",
+            "meaning": {
+                "ko": "잠이 오는 경향이 있는",
+                "en": "tending to cause sleep",
+                "ja": "眠気を誘う",
+                "zh": "催眠的",
+                "fr": "hypnotique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hypn-",
+                    "meaning": {
+                        "ko": "'잠'",
+                        "en": "sleep",
+                        "ja": "眠り",
+                        "zh": "睡眠",
+                        "fr": "sommeil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잠이 오게 하는'이라는 의미에서 '최면의', '최면을 거는 듯한'이라는 뜻입니다.",
+                "en": "Describes something that induces sleep or a trance-like state",
+                "ja": "睡眠や催眠状態を引き起こすことを表す",
+                "zh": "表示引起睡眠或催眠状态的东西",
+                "fr": "Décrit quelque chose qui induit le sommeil ou un état de transe"
+            },
+            "example": "The speaker's voice had a hypnotic effect.",
+            "translation": {
+                "ko": "연사의 목소리는 최면을 거는 듯한 효과가 있었다.",
+                "ja": "話者の声は催眠的な効果を持っていた。",
+                "zh": "演讲者的声音有催眠的效果。",
+                "fr": "La voix du conférencier avait un effet hypnotique."
+            }
+        },
+        {
+            "word": "hypnotism",
+            "part_of_speech": "",
+            "origin": "Greek, hypnos (sleep)",
+            "meaning": {
+                "ko": "잠",
+                "en": "sleep",
+                "ja": "催眠術",
+                "zh": "催眠术",
+                "fr": "hypnotisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hypnot-",
+                    "meaning": {
+                        "ko": "'최면을 걸다'",
+                        "en": "to cast hypnosis",
+                        "ja": "催眠をかける",
+                        "zh": "施加催眠",
+                        "fr": "induire l'hypnose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인위적으로 잠과 같은 상태를 만드는 기술'인 '최면술'을 뜻합니다.",
+                "en": "Technique of artificially inducing sleep-like state",
+                "ja": "人為的に睡眠のような状態を作る技術",
+                "zh": "人为地诱导睡眠状态的技术",
+                "fr": "Technique induisant artificiellement un état semblable au sommeil"
+            },
+            "example": "He became interested in hypnotism.",
+            "translation": {
+                "ko": "그는 최면술에 관심을 갖게 되었다.",
+                "ja": "彼は催眠術に興味を持つようになった。",
+                "zh": "他对催眠术产生了兴趣。",
+                "fr": "Il est devenu intéressé par l'hypnotisme."
+            }
+        },
+        {
+            "word": "hypnotherapy",
+            "part_of_speech": "",
+            "origin": "Greek, hypnos (sleep) + therapeia (healing)",
+            "meaning": {
+                "ko": "잠 치료",
+                "en": "sleep treatment",
+                "ja": "催眠療法",
+                "zh": "催眠疗法",
+                "fr": "hypnothérapie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hypno-",
+                    "meaning": {
+                        "ko": "'최면'",
+                        "en": "hypnosis",
+                        "ja": "催眠",
+                        "zh": "催眠",
+                        "fr": "hypnose"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "therapy",
+                    "meaning": {
+                        "ko": "'치료'",
+                        "en": "treatment",
+                        "ja": "療法",
+                        "zh": "疗法",
+                        "fr": "thérapie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'최면을 이용한 심리 치료'인 '최면 요법'을 뜻합니다.",
+                "en": "A form of psychotherapy that uses hypnosis to treat various conditions",
+                "ja": "催眠を用いた心理療法である催眠療法を意味します",
+                "zh": "指利用催眠进行心理治疗的催眠疗法",
+                "fr": "Désigne l'hypnothérapie, une thérapie psychologique utilisant l'hypnose"
+            },
+            "example": "Hypnotherapy can be used to treat phobias and anxiety.",
+            "translation": {
+                "ko": "최면 요법은 공포증과 불안을 치료하는 데 사용될 수 있다.",
+                "ja": "催眠療法は恐怖症と不安の治療に使用できます",
+                "zh": "催眠疗法可用于治疗恐惧症和焦虑症",
+                "fr": "L'hypnothérapie peut être utilisée pour traiter les phobies et l'anxiété"
+            }
+        }
+    ]
+}

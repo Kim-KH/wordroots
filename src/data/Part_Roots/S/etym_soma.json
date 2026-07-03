@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "soma(t), some (body) chromosome, lysosome, psychosomatic, somatic",
+        "origin": "Greek, soma (the body)",
+        "meaning": {
+            "ko": "몸",
+            "en": "body",
+            "ja": "体",
+            "zh": "身体",
+            "fr": "corps"
+        }
+    },
+    "words": [
+        {
+            "word": "chromosome",
+            "part_of_speech": "",
+            "origin": "Greek, khroma (color) + soma (body)",
+            "meaning": {
+                "ko": "색깔 있는 몸체",
+                "en": "colored body",
+                "ja": "色のある小体",
+                "zh": "有色小体",
+                "fr": "petit corps coloré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chromo-",
+                    "meaning": {
+                        "ko": "'색'",
+                        "en": "color",
+                        "ja": "色",
+                        "zh": "颜色",
+                        "fr": "couleur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "some",
+                    "meaning": {
+                        "ko": "'몸체'",
+                        "en": "body",
+                        "ja": "体",
+                        "zh": "身体",
+                        "fr": "corps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 분열 시 '염색약에 의해 색깔을 띠는 작은 몸체'라는 의미에서 '염색체'를 뜻하게 되었습니다.",
+                "en": "During cell division, the term 'chromosome' originated from the meaning 'small colored body stained by dyes'",
+                "ja": "細胞分裂時に、色素によって色づく小さな体という意味から『染色体』を意味するようになりました",
+                "zh": "在细胞分裂时，由于被染料着色的小体这一含义，产生了'染色体'的意思",
+                "fr": "Lors de la division cellulaire, le terme 'chromosome' provient du sens 'petit corps coloré par des colorants'"
+            },
+            "example": "Each human cell contains 46 chromosomes.",
+            "translation": {
+                "ko": "각각의 인간 세포는 46개의 염색체를 포함한다.",
+                "ja": "各ヒト細胞には46個の染色体が含まれています",
+                "zh": "每个人类细胞包含46条染色体",
+                "fr": "Chaque cellule humaine contient 46 chromosomes"
+            }
+        },
+        {
+            "word": "lysosome",
+            "part_of_speech": "",
+            "origin": "Greek, lysis (a loosening) + soma (body)",
+            "meaning": {
+                "ko": "분해하는 소체",
+                "en": "degradative organelle",
+                "ja": "分解する小体",
+                "zh": "分解小体",
+                "fr": "corps de dissolution"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lyso-",
+                    "meaning": {
+                        "ko": "'분해'",
+                        "en": "dissolving",
+                        "ja": "分解",
+                        "zh": "分解",
+                        "fr": "dissolution"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "some",
+                    "meaning": {
+                        "ko": "'소체'",
+                        "en": "body",
+                        "ja": "小体",
+                        "zh": "小体",
+                        "fr": "corps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포 내에서 물질을 분해하는 작은 기관'인 '리소좀'을 뜻합니다.",
+                "en": "Lysosomes are small organelles within cells that break down substances.",
+                "ja": "細胞内で物質を分解する小さな小器官であるリソソームを意味します。",
+                "zh": "指细胞内分解物质的小器官，称为溶酶体。",
+                "fr": "Signifie lysosome, petit organite cellulaire qui décompose les substances."
+            },
+            "example": "Lysosomes are like the recycling centers of the cell.",
+            "translation": {
+                "ko": "리소좀은 세포의 재활용 센터와 같다.",
+                "ja": "リソソーム",
+                "zh": "溶酶体",
+                "fr": "lysosome"
+            }
+        },
+        {
+            "word": "psychosomatic",
+            "part_of_speech": "",
+            "origin": "Greek, psykhe (mind) + somatikos (of the body)",
+            "meaning": {
+                "ko": "마음과 몸의",
+                "en": "of mind and body",
+                "ja": "心と体の",
+                "zh": "心身的",
+                "fr": "psychosomatique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psycho-",
+                    "meaning": {
+                        "ko": "'정신'",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心理",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "somatic",
+                    "meaning": {
+                        "ko": "'신체의'",
+                        "en": "of the body",
+                        "ja": "体の",
+                        "zh": "身体的",
+                        "fr": "corporel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신적인 문제가 신체적인 증상으로 나타나는'이라는 의미에서 '정신 신체의'라는 뜻입니다.",
+                "en": "Mental issues manifesting as physical symptoms",
+                "ja": "心理的な問題が身体的な症状として現れる意味で、心と体の関連を示す",
+                "zh": "精神问题表现为身体症状的意思，表示心理与身体的关联",
+                "fr": "Les problèmes mentaux se manifestant comme des symptômes physiques"
+            },
+            "example": "Stress can cause psychosomatic illnesses.",
+            "translation": {
+                "ko": "스트레스는 정신 신체 질환을 유발할 수 있다.",
+                "ja": "ストレスは心身症を引き起こすことがある。",
+                "zh": "压力可能导致心身疾病。",
+                "fr": "Le stress peut causer des maladies psychosomatiques."
+            }
+        },
+        {
+            "word": "somatic",
+            "part_of_speech": "",
+            "origin": "Greek, somatikos (of the body)",
+            "meaning": {
+                "ko": "몸의",
+                "en": "of the body",
+                "ja": "身体の",
+                "zh": "身体的",
+                "fr": "du corps"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "soma-",
+                    "meaning": {
+                        "ko": "'몸'",
+                        "en": "body",
+                        "ja": "身体",
+                        "zh": "身体",
+                        "fr": "corps"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신이 아닌 신체의'라는 뜻입니다.",
+                "en": "Refers to the physical body, not the mind or spirit.",
+                "ja": "精神ではなく身体に関するという意味です。",
+                "zh": "指身体而非精神或心灵。",
+                "fr": "Désigne le corps physique, non l'esprit ou l'âme."
+            },
+            "example": "Somatic cells are all the cells in the body except for the reproductive cells.",
+            "translation": {
+                "ko": "체세포는 생식 세포를 제외한 몸의 모든 세포이다.",
+                "ja": "体細胞は、生殖細胞を除く体内のすべての細胞です。",
+                "zh": "躯体细胞是身体中除生殖细胞外的所有细胞。",
+                "fr": "Les cellules somatiques sont toutes les cellules du corps sauf les cellules reproductrices."
+            }
+        }
+    ]
+}

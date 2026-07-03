@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ben (well, good) benefit, benediction, benefactor",
+        "origin": "Latin, bene (well)",
+        "meaning": {
+            "ko": "잘, 좋게",
+            "en": "well",
+            "ja": "よく",
+            "zh": "好",
+            "fr": "bien"
+        }
+    },
+    "words": [
+        {
+            "word": "benefit",
+            "part_of_speech": "",
+            "origin": "Latin, bene facere (to do good)",
+            "meaning": {
+                "ko": "좋은 일을 하다",
+                "en": "to do good things",
+                "ja": "利益、恩恵を与える",
+                "zh": "利益、好处",
+                "fr": "avantage, bénéfice"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bene",
+                    "meaning": {
+                        "ko": "'좋은'",
+                        "en": "good",
+                        "ja": "良い",
+                        "zh": "好的",
+                        "fr": "bon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fit (facere)",
+                    "meaning": {
+                        "ko": "'만들다, 행하다'",
+                        "en": "to make, to do",
+                        "ja": "作る、行う",
+                        "zh": "制造、做",
+                        "fr": "faire, créer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'좋게 만드는 것'이라는 의미에서 '이익', '혜택' 또는 '이익을 주다'라는 뜻이 되었습니다.",
+                "en": "Originally meant making something good, which evolved to mean profit, advantage, or to provide profit.",
+                "ja": "元々は良く作ることを意味し、利益、利点、または利益を与えることを意味するようになりました。",
+                "zh": "最初意为制造好的东西，后来演变为利益、优势或提供利益的意思。",
+                "fr": "Signifiait à l'origine créer quelque chose de bon, d'où l'évolution vers profit, avantage ou fournir un profit."
+            },
+            "example": "There are many benefits to regular exercise.",
+            "translation": {
+                "ko": "규칙적인 운동에는 많은 이점이 있습니다.",
+                "ja": "定期的な運動には多くの利益があります。",
+                "zh": "定期运动有许多好处。",
+                "fr": "Il y a de nombreux avantages à l'exercice régulier."
+            }
+        },
+        {
+            "word": "benediction",
+            "part_of_speech": "",
+            "origin": "Latin, benedictio (a blessing)",
+            "meaning": {
+                "ko": "축복",
+                "en": "blessing or expression of good wishes",
+                "ja": "祝福、祈り",
+                "zh": "祝福、祈祷",
+                "fr": "bénédiction, prière"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bene",
+                    "meaning": {
+                        "ko": "'좋게'",
+                        "en": "well",
+                        "ja": "よく、善く",
+                        "zh": "好地、良好地",
+                        "fr": "bien, favorablement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "'말하다'",
+                        "en": "to speak",
+                        "ja": "話す、言う",
+                        "zh": "说、讲",
+                        "fr": "parler, dire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'좋게 말해주는 것'이라는 의미에서 '축복', '감사의 기도'를 뜻합니다.",
+                "en": "Meaning blessing or prayer of gratitude from the sense of speaking kindly or favorably",
+                "ja": "良く言ってくれることという意味から、祝福や感謝の祈りを表します",
+                "zh": "从好地说话的意思来表示祝福或感谢的祈祷",
+                "fr": "Du sens de parler favorablement, signifie bénédiction ou prière de gratitude"
+            },
+            "example": "The priest gave a benediction at the end of the service.",
+            "translation": {
+                "ko": "신부님은 예배가 끝날 때 축복 기도를 해주셨다.",
+                "ja": "司祭は礼拝の終わりに祝福を与えた。",
+                "zh": "牧师在礼拜结束时给了祝福祈祷。",
+                "fr": "Le prêtre a donné une bénédiction à la fin du service."
+            }
+        },
+        {
+            "word": "benefactor",
+            "part_of_speech": "",
+            "origin": "Latin, benefactor (one who does a kindness)",
+            "meaning": {
+                "ko": "친절을 베푸는 사람",
+                "en": "person who shows kindness",
+                "ja": "恩恵を与える人",
+                "zh": "施恩者",
+                "fr": "bienfaiteur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bene",
+                    "meaning": {
+                        "ko": "'좋은'",
+                        "en": "good",
+                        "ja": "良い",
+                        "zh": "好的",
+                        "fr": "bon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "factor (facere)",
+                    "meaning": {
+                        "ko": "'만드는 사람'",
+                        "en": "one who does",
+                        "ja": "行う人",
+                        "zh": "做的人",
+                        "fr": "celui qui fait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'좋은 일을 하는 사람'이라는 의미에서 '후원자', '은인'을 뜻합니다.",
+                "en": "Means a patron or benefactor who does good deeds",
+                "ja": "良い行いをする人という意味で、後援者や恩人を意味します",
+                "zh": "意思是做好事的人，指赞助者或恩人",
+                "fr": "Signifie un mécène ou bienfaiteur qui fait du bien"
+            },
+            "example": "An anonymous benefactor donated a large sum of money to the charity.",
+            "translation": {
+                "ko": "익명의 후원자가 자선 단체에 거액을 기부했다.",
+                "ja": "匿名の恩恵者が慈善団体に大金を寄付した。",
+                "zh": "一位匿名的施恩者向慈善机构捐了一大笔钱。",
+                "fr": "Un bienfaiteur anonyme a fait un don important à l'organisme de bienfaisance."
+            }
+        }
+    ]
+}

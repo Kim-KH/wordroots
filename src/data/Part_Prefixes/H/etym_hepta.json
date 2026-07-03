@@ -1,0 +1,126 @@
+{
+    "root_info": {
+        "roots": "hepta (seven) heptagonal, heptathlon",
+        "origin": "Greek, hepta (seven)",
+        "meaning": {
+            "ko": "일곱",
+            "en": "seven",
+            "ja": "7つ",
+            "zh": "七",
+            "fr": "sept"
+        }
+    },
+    "words": [
+        {
+            "word": "heptagonal",
+            "part_of_speech": "",
+            "origin": "Greek, hepta (seven) + gonia (angle)",
+            "meaning": {
+                "ko": "일곱 개의 각",
+                "en": "having seven angles",
+                "ja": "7つの角を持つ",
+                "zh": "七个角的",
+                "fr": "sept angles"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hepta-",
+                    "meaning": {
+                        "ko": "'일곱'",
+                        "en": "seven",
+                        "ja": "7",
+                        "zh": "七",
+                        "fr": "sept"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gon",
+                    "meaning": {
+                        "ko": "'각'",
+                        "en": "angle",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "angle"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일곱 개의 각을 가진'이라는 의미에서 '7각형의'라는 뜻이 되었습니다.",
+                "en": "From the meaning of 'having seven angles', it became '7-sided'",
+                "ja": "7つの角を持つという意味から、7角形という意味になりました",
+                "zh": "从有七个角的含义演变为七边形的意思",
+                "fr": "De la signification 'ayant sept angles', cela est devenu 'septangle'"
+            },
+            "example": "A stop sign is not heptagonal, it's octagonal.",
+            "translation": {
+                "ko": "정지 표지판은 7각형이 아니라 8각형이다.",
+                "ja": "停止標識は7角形ではなく、8角形です",
+                "zh": "停止标志不是七边形，而是八边形",
+                "fr": "Un panneau d'arrêt n'est pas heptagonal, il est octogonal"
+            }
+        },
+        {
+            "word": "heptathlon",
+            "part_of_speech": "",
+            "origin": "Greek, hepta (seven) + athlon (contest)",
+            "meaning": {
+                "ko": "일곱 개의 경기",
+                "en": "seven athletic events",
+                "ja": "7種類の競技",
+                "zh": "七项全能",
+                "fr": "épreuve à sept disciplines"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hepta-",
+                    "meaning": {
+                        "ko": "'일곱'",
+                        "en": "seven",
+                        "ja": "7つの",
+                        "zh": "七个",
+                        "fr": "sept"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "athlon",
+                    "meaning": {
+                        "ko": "'경기, 시합'",
+                        "en": "contest",
+                        "ja": "競技、試合",
+                        "zh": "竞赛、比赛",
+                        "fr": "compétition, épreuve"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일곱 가지 종목으로 겨루는 경기'라는 의미에서 육상의 '7종 경기'를 뜻합니다.",
+                "en": "Athletic competition consisting of seven events",
+                "ja": "7つの陸上種目で競う競技のこと",
+                "zh": "由七个田径项目组成的运动竞赛",
+                "fr": "Compétition athlétique composée de sept épreuves différentes"
+            },
+            "example": "She won the gold medal in the heptathlon.",
+            "translation": {
+                "ko": "그녀는 7종 경기에서 금메달을 땄다.",
+                "ja": "彼女は7種競技で金メダルを獲得した",
+                "zh": "她赢得了七项全能的金牌",
+                "fr": "Elle a remporté la médaille d'or en heptathlon"
+            }
+        }
+    ]
+}

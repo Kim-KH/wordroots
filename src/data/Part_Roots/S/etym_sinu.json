@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "sinu (wind, bend) insinuate, sinuate, sinuous",
+        "origin": "Latin, sinus (a curve, a fold, a bay)",
+        "meaning": {
+            "ko": "굴곡",
+            "en": "a curve",
+            "ja": "曲線",
+            "zh": "曲线",
+            "fr": "courbe"
+        }
+    },
+    "words": [
+        {
+            "word": "insinuate",
+            "part_of_speech": "",
+            "origin": "Latin, insinuare (to push in by a winding motion)",
+            "meaning": {
+                "ko": "구불구불하게 밀어 넣다",
+                "en": "to push in a winding manner",
+                "ja": "ほのめかす",
+                "zh": "暗示",
+                "fr": "insinuer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sinu-",
+                    "meaning": {
+                        "ko": "'구불구불한'",
+                        "en": "winding",
+                        "ja": "曲がった",
+                        "zh": "蜿蜒的",
+                        "fr": "sinueux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뱀처럼 구불구불하게 파고들다'는 의미에서 불쾌한 일을 '넌지시 비치다', '암시하다'는 뜻이 되었습니다.",
+                "en": "From the snake-like winding meaning, it evolved to suggest something unpleasant indirectly or imply",
+                "ja": "蛇のような曲がった意味から、不快なことをそれとなく示唆することを意味するようになった",
+                "zh": "从蛇一样蜿蜒的含义演变为间接暗示不愉快的事情",
+                "fr": "Du sens de sinueux comme un serpent, il a évolué pour signifier suggérer indirectement quelque chose de désagréable"
+            },
+            "example": "He insinuated that I was lying.",
+            "translation": {
+                "ko": "그는 내가 거짓말을 하고 있다고 넌지시 비쳤다.",
+                "ja": "彼は私が嘘をついていることをほのめかした",
+                "zh": "他暗示我在撒谎",
+                "fr": "Il a insinué que je mentais"
+            }
+        },
+        {
+            "word": "sinuate",
+            "part_of_speech": "",
+            "origin": "Latin, sinuatus (bent, curved)",
+            "meaning": {
+                "ko": "구부러진",
+                "en": "bent or curved",
+                "ja": "波状に曲がった",
+                "zh": "波浪形弯曲",
+                "fr": "onduleux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sinu-",
+                    "meaning": {
+                        "ko": "'굴곡'",
+                        "en": "curve",
+                        "ja": "曲線",
+                        "zh": "曲线",
+                        "fr": "courbe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가장자리가 물결 모양으로 구불구불한'이라는 뜻입니다.",
+                "en": "The leaf has a sinuate margin.",
+                "ja": "葉の縁が波状にうねっているという意味です。",
+                "zh": "叶片的边缘呈波浪形弯曲。",
+                "fr": "La marge de la feuille a une forme onduleuse."
+            },
+            "example": "The leaf has a sinuate margin.",
+            "translation": {
+                "ko": "그 잎은 물결 모양의 가장자리를 가지고 있다.",
+                "ja": "この葉は波状の縁を持っています。",
+                "zh": "这片叶子有波浪形的边缘。",
+                "fr": "La feuille a une marge sinueuse."
+            }
+        },
+        {
+            "word": "sinuous",
+            "part_of_speech": "",
+            "origin": "Latin, sinuosus (full of curves)",
+            "meaning": {
+                "ko": "굴곡으로 가득 찬",
+                "en": "full of curves and bends",
+                "ja": "曲がりくねった",
+                "zh": "蜿蜒的",
+                "fr": "sinueux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sinu-",
+                    "meaning": {
+                        "ko": "'굴곡'",
+                        "en": "curve",
+                        "ja": "曲線",
+                        "zh": "曲线",
+                        "fr": "courbe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뱀처럼 구불구불한'이라는 뜻입니다.",
+                "en": "Means winding or twisting like a snake",
+                "ja": "蛇のようにくねくねしている",
+                "zh": "像蛇一样蜿蜒曲折",
+                "fr": "Signifie ondulant ou sinueux comme un serpent"
+            },
+            "example": "The river followed a sinuous path through the valley.",
+            "translation": {
+                "ko": "그 강은 계곡을 따라 구불구불한 길을 따라 흘렀다.",
+                "ja": "川は谷を通って曲がりくねった道をたどった。",
+                "zh": "河流穿过山谷蜿蜒流动。",
+                "fr": "Le fleuve suivait un chemin sinueux à travers la vallée."
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "sopor (lethargy) soporific, soporiferous",
+        "origin": "Latin, sopor (a deep sleep)",
+        "meaning": {
+            "ko": "깊은 잠",
+            "en": "a deep sleep",
+            "ja": "深い眠り",
+            "zh": "深度睡眠",
+            "fr": "un sommeil profond"
+        }
+    },
+    "words": [
+        {
+            "word": "soporific",
+            "part_of_speech": "",
+            "origin": "Latin, sopor (deep sleep)",
+            "meaning": {
+                "ko": "깊은 잠",
+                "en": "deep sleep",
+                "ja": "眠気を誘う",
+                "zh": "催眠的",
+                "fr": "qui provoque le sommeil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sopor-",
+                    "meaning": {
+                        "ko": "'잠'",
+                        "en": "sleep",
+                        "ja": "睡眠",
+                        "zh": "睡眠",
+                        "fr": "sommeil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잠이 오게 만드는'이라는 뜻으로 '최면성의'라고 하며, '수면제'를 뜻하기도 합니다.",
+                "en": "Means 'causing sleep' or 'hypnotic in nature', and can also refer to a 'sedative'.",
+                "ja": "睡眠を引き起こすという意味で'催眠性の'と言い、'睡眠薬'を意味することもあります。",
+                "zh": "表示'引起睡眠'或'催眠性的'，也可指'安眠药'。",
+                "fr": "Signifie 'provoquant le sommeil' ou 'de nature hypnotique', et peut aussi désigner un 'sédatif'."
+            },
+            "example": "The lecture was so boring it had a soporific effect on the audience.",
+            "translation": {
+                "ko": "그 강의는 너무 지루해서 청중에게 최면 효과를 주었다.",
+                "ja": "退屈な講演は聴衆に催眠的な効果をもたらしました。",
+                "zh": "这场讲座非常乏味，对听众产生了催眠效果。",
+                "fr": "La conférence était si ennuyeuse qu'elle avait un effet soporifique sur le public."
+            }
+        },
+        {
+            "word": "soporiferous",
+            "part_of_speech": "",
+            "origin": "Latin, sopor (deep sleep) + ferre (to bring)",
+            "meaning": {
+                "ko": "잠을 가져오는",
+                "en": "bringing sleep",
+                "ja": "睡眠をもたらす",
+                "zh": "引起睡眠的",
+                "fr": "qui provoque le sommeil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sopor-",
+                    "meaning": {
+                        "ko": "'잠'",
+                        "en": "sleep",
+                        "ja": "睡眠",
+                        "zh": "睡眠",
+                        "fr": "sommeil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ferous",
+                    "meaning": {
+                        "ko": "'가져오는'",
+                        "en": "bringing or carrying",
+                        "ja": "もたらす",
+                        "zh": "带来",
+                        "fr": "apporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잠을 가져오는', 즉 '최면성의'라는 뜻입니다.",
+                "en": "Means 'bringing sleep', i.e., 'hypnotic in nature'",
+                "ja": "睡眠をもたらす、つまり催眠性の意味です",
+                "zh": "意为'引起睡眠'，即'催眠性的'",
+                "fr": "Signifie 'qui provoque le sommeil', c'est-à-dire 'hypnotique'"
+            },
+            "example": "The soporiferous heat of the afternoon made everyone drowsy.",
+            "translation": {
+                "ko": "오후의 나른한 더위는 모두를 졸리게 만들었다.",
+                "ja": "午後の睡気を誘う熱は皆を眠くさせた。",
+                "zh": "下午令人昏昏欲睡的炎热使每个人都感到困倦。",
+                "fr": "La chaleur soporifère de l'après-midi rendait tout le monde somnolent."
+            }
+        }
+    ]
+}

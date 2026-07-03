@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "culp (fault) culpable, culprit",
+        "origin": "Latin, culpa (blame, fault)",
+        "meaning": {
+            "ko": "잘못, 과실",
+            "en": "fault",
+            "ja": "過失",
+            "zh": "错误",
+            "fr": "faute"
+        }
+    },
+    "words": [
+        {
+            "word": "culpable",
+            "part_of_speech": "",
+            "origin": "Latin, culpabilis (blameworthy)",
+            "meaning": {
+                "ko": "비난받을 만한",
+                "en": "deserving of blame",
+                "ja": "責任がある",
+                "zh": "应受谴责的",
+                "fr": "blâmable"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "culp-",
+                    "meaning": {
+                        "ko": "'과실, 죄'",
+                        "en": "fault, guilt",
+                        "ja": "過失、罪",
+                        "zh": "过失、罪过",
+                        "fr": "faute, culpabilité"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-able",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "able to be",
+                        "ja": "できる",
+                        "zh": "能够",
+                        "fr": "capable de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비난받을 만한'이라는 의미에서 '과실이 있는', '비난받을 만한'이라는 뜻입니다.",
+                "en": "From Latin culpa meaning fault or blame, with the suffix -able meaning capable of being blamed or at fault",
+                "ja": "ラテン語の過失を意味するculpaと、~できるという意味の接尾辞-ableから成る",
+                "zh": "源自拉丁语culpa（过失），加上-able后缀（能够被...的）",
+                "fr": "Du latin culpa signifiant faute, avec le suffixe -able signifiant capable d'être blâmé"
+            },
+            "example": "The court found him culpable for the accident.",
+            "translation": {
+                "ko": "법원은 그 사고에 대해 그에게 과실이 있다고 판결했다.",
+                "ja": "裁判所は彼がその事故の責任があると判断した。",
+                "zh": "法院认定他对这次事故负有责任。",
+                "fr": "Le tribunal l'a jugé responsable de l'accident."
+            }
+        },
+        {
+            "word": "culprit",
+            "part_of_speech": "",
+            "origin": "Anglo-French, cul. prit (guilty, ready)",
+            "meaning": {
+                "ko": "유죄, 준비됨",
+                "en": "guilty, prepared",
+                "ja": "犯人、有罪者",
+                "zh": "犯人、有罪者",
+                "fr": "coupable, criminel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "culp-",
+                    "meaning": {
+                        "ko": "'과실, 죄'",
+                        "en": "fault, guilt",
+                        "ja": "過失、罪",
+                        "zh": "过失、罪",
+                        "fr": "faute, culpabilité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "옛 법정 용어 'culpable, prest'(유죄이며, (심리를) 받을 준비가 되었음)에서 유래하여, '죄인', '범인' 또는 문제의 '원인'을 뜻하게 되었습니다.",
+                "en": "Derived from archaic legal term 'culpable, prest' (guilty and ready for trial), eventually meaning 'offender' or 'cause' of a problem.",
+                "ja": "古い法廷用語'culpable, prest'(有罪で裁判の準備ができている)に由来し、'犯人'や問題の'原因'を意味するようになった。",
+                "zh": "源于古老法律术语'culpable, prest'(有罪且准备受审)，后来表示'犯人'或问题的'原因'。",
+                "fr": "Dérivé du terme juridique archaïque 'culpable, prest' (coupable et prêt pour le procès), signifiant finalement 'auteur' ou 'cause' d'un problème."
+            },
+            "example": "The police are still searching for the culprit.",
+            "translation": {
+                "ko": "경찰은 아직 범인을 찾고 있다.",
+                "ja": "警察はまだ犯人を探している。",
+                "zh": "警察仍在寻找犯人。",
+                "fr": "La police est toujours à la recherche du coupable."
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "epheme (passing away) ephemera, ephemeral",
+        "origin": "Greek, ephemeros (lasting for a day)",
+        "meaning": {
+            "ko": "하루 동안 지속되는",
+            "en": "하루 동안 지속되는",
+            "ja": "1日間続く",
+            "zh": "持续一整天",
+            "fr": "durant une journée"
+        }
+    },
+    "words": [
+        {
+            "word": "ephemera",
+            "part_of_speech": "",
+            "origin": "Greek, ephemeros (lasting for a day)",
+            "meaning": {
+                "ko": "하루 동안 지속되는",
+                "en": "lasting for one day",
+                "ja": "短命なもの、短期印刷物",
+                "zh": "短暂的东西、短期印刷品",
+                "fr": "choses éphémères, imprimés temporaires"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "epi-",
+                    "meaning": {
+                        "ko": "'위에'",
+                        "en": "on",
+                        "ja": "上に",
+                        "zh": "在...上面",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hemera",
+                    "meaning": {
+                        "ko": "'날'",
+                        "en": "day",
+                        "ja": "日",
+                        "zh": "日子",
+                        "fr": "jour"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하루살이'처럼 수명이 짧은 것에서 유래하여, '단명하는 것', 특히 수집 대상이 되는 '단기 인쇄물(포스터, 티켓 등)'을 의미합니다.",
+                "en": "Derived from things with short lifespans like mayflies, it refers to 'short-lived things' and specifically 'short-term printed materials (posters, tickets, etc.)' that become collectibles.",
+                "ja": "ユスリカのように寿命が短いものに由来し、『短命するもの』、特に収集対象となる『短期印刷物（ポスター、チケットなど）』を意味します。",
+                "zh": "源于蜉蝣等寿命短的生物，指『短命的东西』，特别是指『短期印刷品（海报、票据等）』等收藏品。",
+                "fr": "Dérivé des éphémères avec une courte durée de vie, il désigne les 'choses éphémères' et particulièrement les 'imprimés temporaires (affiches, billets, etc.)' qui deviennent des objets de collection."
+            },
+            "example": "He collects ephemera from the Victorian era.",
+            "translation": {
+                "ko": "그는 빅토리아 시대의 단기 인쇄물을 수집한다.",
+                "ja": "彼はビクトリア朝時代の短期印刷物を収集している。",
+                "zh": "他收集维多利亚时代的短期印刷品。",
+                "fr": "Il collectionne les imprimés éphémères de l'époque victorienne."
+            }
+        },
+        {
+            "word": "ephemeral",
+            "part_of_speech": "",
+            "origin": "Greek, ephemeros (lasting for a day)",
+            "meaning": {
+                "ko": "하루 동안 지속되는",
+                "en": "lasting for one day",
+                "ja": "はかない、つかのまの",
+                "zh": "短暂的、易逝的",
+                "fr": "éphémère, fugace"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "epi-",
+                    "meaning": {
+                        "ko": "'위에'",
+                        "en": "on",
+                        "ja": "上に",
+                        "zh": "在...上",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hemer-",
+                    "meaning": {
+                        "ko": "'날'",
+                        "en": "day",
+                        "ja": "日、昼",
+                        "zh": "日、天",
+                        "fr": "jour"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단 하루만 지속되는'이라는 의미에서 '수명이 짧은', '덧없는'이라는 뜻으로 쓰입니다.",
+                "en": "Originally meant lasting only one day, now used to mean short-lived or fleeting",
+                "ja": "本来は一日だけ続くという意味から、寿命が短い、はかないという意味で使われます",
+                "zh": "原意为仅持续一天，现用于表示短暂或易逝的意思",
+                "fr": "Originellement signifie durer un seul jour, désormais utilisé pour exprimer ce qui est bref ou fugace"
+            },
+            "example": "Fame is ephemeral.",
+            "translation": {
+                "ko": "명성은 덧없다.",
+                "ja": "名声は束の間だ",
+                "zh": "名声是短暂的",
+                "fr": "La célébrité est éphémère"
+            }
+        }
+    ]
+}

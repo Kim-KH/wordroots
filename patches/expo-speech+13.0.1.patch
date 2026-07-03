@@ -1,0 +1,111 @@
+diff --git a/node_modules/expo-speech/android/src/main/java/expo/modules/speech/SpeechModule.kt b/node_modules/expo-speech/android/src/main/java/expo/modules/speech/SpeechModule.kt
+index 8061c68..e023024 100644
+--- a/node_modules/expo-speech/android/src/main/java/expo/modules/speech/SpeechModule.kt
++++ b/node_modules/expo-speech/android/src/main/java/expo/modules/speech/SpeechModule.kt
+@@ -33,7 +33,9 @@ class SpeechModule : Module() {
+     Constants("maxSpeechInputLength" to TextToSpeech.getMaxSpeechInputLength())
+ 
+     OnActivityDestroys {
+-      textToSpeech.shutdown()
++      _textToSpeech?.shutdown()
++      _ttsReady = false
++      _textToSpeech = null
+     }
+ 
+     AsyncFunction<Boolean>("isSpeaking") {
+@@ -121,48 +123,51 @@ class SpeechModule : Module() {
+   private val isTextToSpeechReady
+     get() = _ttsReady
+ 
+-  private val textToSpeech: TextToSpeech by lazy {
+-    val newTtsInstance = TextToSpeech(appContext.reactContext) { status: Int ->
+-      if (status == TextToSpeech.SUCCESS) {
+-        // synchronize because in some cases this runs on another thread and _textToSpeech is null
+-        synchronized(this@SpeechModule) {
+-          _ttsReady = true
+-          _textToSpeech!!.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
+-
+-            override fun onStart(utteranceId: String) {
+-              sendEvent(speakingStartedEvent, idToMap(utteranceId))
+-            }
+-
+-            override fun onRangeStart(utteranceId: String, start: Int, end: Int, frame: Int) {
+-              val map = Bundle().apply {
+-                putString("id", utteranceId)
+-                putInt("charIndex", start)
+-                putInt("charLength", end - start)
++  private val textToSpeech: TextToSpeech
++    get() {
++      if (_textToSpeech == null) {
++        val newTtsInstance = TextToSpeech(appContext.reactContext) { status: Int ->
++          if (status == TextToSpeech.SUCCESS) {
++            // synchronize because in some cases this runs on another thread and _textToSpeech is null
++            synchronized(this@SpeechModule) {
++              _ttsReady = true
++              _textToSpeech!!.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
++
++                override fun onStart(utteranceId: String) {
++                  sendEvent(speakingStartedEvent, idToMap(utteranceId))
++                }
++
++                override fun onRangeStart(utteranceId: String, start: Int, end: Int, frame: Int) {
++                  val map = Bundle().apply {
++                    putString("id", utteranceId)
++                    putInt("charIndex", start)
++                    putInt("charLength", end - start)
++                  }
++                  sendEvent(speakingWillSayNextStringEvent, map)
++                }
++
++                override fun onDone(utteranceId: String) {
++                  sendEvent(speakingDoneEvent, idToMap(utteranceId))
++                }
++
++                override fun onStop(utteranceId: String, interrupted: Boolean) {
++                  sendEvent(speakingStoppedEvent, idToMap(utteranceId))
++                }
++
++                override fun onError(utteranceId: String) {
++                  sendEvent(speakingErrorEvent, idToMap(utteranceId))
++                }
++              })
++              for ((id, text, options) in delayedUtterances) {
++                speakOut(id, text, options)
+               }
+-              sendEvent(speakingWillSayNextStringEvent, map)
+-            }
+-
+-            override fun onDone(utteranceId: String) {
+-              sendEvent(speakingDoneEvent, idToMap(utteranceId))
+             }
+-
+-            override fun onStop(utteranceId: String, interrupted: Boolean) {
+-              sendEvent(speakingStoppedEvent, idToMap(utteranceId))
+-            }
+-
+-            override fun onError(utteranceId: String) {
+-              sendEvent(speakingErrorEvent, idToMap(utteranceId))
+-            }
+-          })
+-          for ((id, text, options) in delayedUtterances) {
+-            speakOut(id, text, options)
+           }
+         }
++        _textToSpeech = newTtsInstance
+       }
++      return _textToSpeech!!
+     }
+-    _textToSpeech = newTtsInstance
+-    newTtsInstance
+-  }
+ 
+   // Helpers
+   private fun idToMap(id: String) = Bundle().apply {
+@@ -175,7 +180,6 @@ class SpeechModule : Module() {
+     val options: SpeechOptions
+   )
+ 
+-  // do not refer to these - they're only needed when initializing `textToSpeech`
+   private var _textToSpeech: TextToSpeech? = null
+   private var _ttsReady = false
+ }

@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "potent (power) impotent, omnipotent, potentate, potential",
+        "origin": "Latin, potens (powerful)",
+        "meaning": {
+            "ko": "강력한",
+            "en": "powerful",
+            "ja": "強力な",
+            "zh": "强大的",
+            "fr": "puissant"
+        }
+    },
+    "words": [
+        {
+            "word": "impotent",
+            "part_of_speech": "",
+            "origin": "Latin, impotens (powerless)",
+            "meaning": {
+                "ko": "힘이 없는",
+                "en": "powerless, lacking strength",
+                "ja": "無力な",
+                "zh": "无力的",
+                "fr": "impuissant"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "~ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "potent",
+                    "meaning": {
+                        "ko": "'힘 있는'",
+                        "en": "powerful",
+                        "ja": "力強い",
+                        "zh": "强大的",
+                        "fr": "puissant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'힘이 없는'이라는 의미에서 '무력한'이라는 뜻입니다.",
+                "en": "Meaning powerless or lacking strength to act",
+                "ja": "力がなく行動する能力がない意味",
+                "zh": "表示没有力量或缺乏行动能力",
+                "fr": "Signifiant sans puissance ou manquant de capacité à agir"
+            },
+            "example": "He felt impotent to change the situation.",
+            "translation": {
+                "ko": "그는 상황을 바꾸기에 무력하다고 느꼈다.",
+                "ja": "彼は状況を変える力がないと感じた。",
+                "zh": "他感到无力改变局势。",
+                "fr": "Il se sentait impuissant à changer la situation."
+            }
+        },
+        {
+            "word": "omnipotent",
+            "part_of_speech": "",
+            "origin": "Latin, omnipotens (all-powerful)",
+            "meaning": {
+                "ko": "모든 힘을 가진",
+                "en": "having all power",
+                "ja": "すべての力を持つ",
+                "zh": "拥有所有力量",
+                "fr": "ayant tous les pouvoirs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "omni-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべての",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "potent",
+                    "meaning": {
+                        "ko": "'힘 있는'",
+                        "en": "powerful",
+                        "ja": "力強い",
+                        "zh": "强大的",
+                        "fr": "puissant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 것을 할 수 있는 힘을 가진'이라는 의미에서 '전능한'이라는 뜻입니다.",
+                "en": "Meaning having the power to do anything; all-powerful",
+                "ja": "すべてのことができる力を持つことから、全能という意味です",
+                "zh": "从拥有做所有事情的力量的意思来说，就是全能的意思",
+                "fr": "Du sens d'avoir le pouvoir de faire n'importe quoi, cela signifie tout-puissant"
+            },
+            "example": "The belief in an omnipotent God is central to many religions.",
+            "translation": {
+                "ko": "전능한 신에 대한 믿음은 많은 종교의 중심이다.",
+                "ja": "多くの宗教では、全能な神への信仰が中心的な役割を果たしています。",
+                "zh": "对全能上帝的信仰是许多宗教的中心。",
+                "fr": "La croyance en un Dieu tout-puissant est centrale à de nombreuses religions."
+            }
+        },
+        {
+            "word": "potentate",
+            "part_of_speech": "",
+            "origin": "Latin, potentatus (dominion, power)",
+            "meaning": {
+                "ko": "지배, 권력",
+                "en": "rule and power",
+                "ja": "支配者、君主",
+                "zh": "统治者、君主",
+                "fr": "souverain, monarque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "potent-",
+                    "meaning": {
+                        "ko": "'힘 있는'",
+                        "en": "powerful",
+                        "ja": "強力な、力のある",
+                        "zh": "强大的、有力的",
+                        "fr": "puissant, puissante"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'강력한 힘을 가진 통치자'인 '군주', '강력한 지배자'를 뜻합니다.",
+                "en": "A ruler with great power; a sovereign or powerful monarch.",
+                "ja": "強大な力を持つ統治者、すなわち君主や強力な支配者を意味します。",
+                "zh": "拥有强大力量的统治者，即君主或强大的统治者。",
+                "fr": "Un souverain ayant un grand pouvoir; un monarque ou un dirigeant puissant."
+            },
+            "example": "The potentate ruled his country with an iron fist.",
+            "translation": {
+                "ko": "그 군주는 철권으로 나라를 다스렸다.",
+                "ja": "その君主は鉄拳でその国を統治していました。",
+                "zh": "那位统治者用铁拳统治他的国家。",
+                "fr": "Le potentate gouvernait son pays d'une main de fer."
+            }
+        },
+        {
+            "word": "potential",
+            "part_of_speech": "",
+            "origin": "Latin, potentialis (powerful)",
+            "meaning": {
+                "ko": "힘 있는",
+                "en": "having power or strength",
+                "ja": "潜在的な力",
+                "zh": "潜在的力量",
+                "fr": "pouvoir latent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "potent-",
+                    "meaning": {
+                        "ko": "'힘 있는'",
+                        "en": "powerful",
+                        "ja": "強力な",
+                        "zh": "强大的",
+                        "fr": "puissant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 힘을 발휘할 수 있는'이라는 의미에서 '잠재적인' 또는 '잠재력'을 뜻합니다.",
+                "en": "Meaning latent or latent ability, from the sense of being able to exert power in the future.",
+                "ja": "将来力を発揮できるという意味から、潜在的なまたは潜在能力を意味します。",
+                "zh": "从将来能够发挥力量的意义来看，意为潜在的或潜在能力。",
+                "fr": "Signifie latent ou capacité latente, du sens de pouvoir exercer une puissance à l'avenir."
+            },
+            "example": "She has the potential to become a great leader.",
+            "translation": {
+                "ko": "그녀는 훌륭한 지도자가 될 잠재력을 가지고 있다.",
+                "ja": "彼女は偉大なリーダーになる可能性を持っています。",
+                "zh": "她具有成为伟大领导者的潜力。",
+                "fr": "Elle a le potentiel pour devenir une grande leader."
+            }
+        }
+    ]
+}

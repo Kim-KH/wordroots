@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "hyper",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "위에, 초과하여",
+            "en": "over, above",
+            "ja": "上に、超えて",
+            "zh": "在...上方，超过",
+            "fr": "sur, au-dessus de"
+        }
+    },
+    "words": [
+        {
+            "word": "hyperactive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hyper-",
+                    "meaning": {
+                        "ko": "과도하게",
+                        "en": "over",
+                        "ja": "過度に",
+                        "zh": "过度地",
+                        "fr": "excessivement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "active",
+                    "meaning": {
+                        "ko": "활동적인",
+                        "en": "active or energetic",
+                        "ja": "活動的な",
+                        "zh": "活跃的",
+                        "fr": "actif"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지나치게 활동적인'이라는 뜻으로, '활동 과잉의'라는 의미입니다.",
+                "en": "Meaning excessively active; characterized by overactivity.",
+                "ja": "過度に活動的という意味で、活動過剰の状態を示します。",
+                "zh": "表示过度活跃；具有过度活动的特征。",
+                "fr": "Signifie excessivement actif ; caractérisé par une suractivité."
+            },
+            "example": "The child is hyperactive and cannot sit still.",
+            "translation": {
+                "ko": "그 아이는 활동 과잉이라 가만히 앉아 있지를 못한다.",
+                "ja": "その子は活動過剰で、じっと座っていられない。",
+                "zh": "那个孩子过度活跃，无法静坐。",
+                "fr": "L'enfant est hyperactif et ne peut pas rester assis."
+            }
+        },
+        {
+            "word": "hypertensive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hyper-",
+                    "meaning": {
+                        "ko": "위에",
+                        "en": "over",
+                        "ja": "上に",
+                        "zh": "超过",
+                        "fr": "au-dessus"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tensive",
+                    "meaning": {
+                        "ko": "긴장, 압력",
+                        "en": "tension, pressure",
+                        "ja": "緊張、圧力",
+                        "zh": "紧张、压力",
+                        "fr": "tension, pression"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정상보다 높은 압력' 즉, '고혈압의'라는 뜻입니다.",
+                "en": "'Pressure higher than normal,' meaning 'having high blood pressure.'",
+                "ja": "「正常より高い圧力」つまり「高血圧の」という意味です。",
+                "zh": "意为「压力高于正常」，即「患有高血压的」。",
+                "fr": "« Pression supérieure à la normale », c'est-à-dire « atteint d'hypertension »."
+            },
+            "example": "He takes medication because he is hypertensive.",
+            "translation": {
+                "ko": "그는 고혈압이라서 약을 복용한다.",
+                "ja": "彼は高血圧なので薬を服用している。",
+                "zh": "他因为患有高血压而服用药物。",
+                "fr": "Il prend des médicaments parce qu'il est hypertendu."
+            }
+        },
+        {
+            "word": "hyperbolic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hyper-",
+                    "meaning": {
+                        "ko": "위에, 초과하여",
+                        "en": "over",
+                        "ja": "上に、超えて",
+                        "zh": "超过、之上",
+                        "fr": "sur, au-delà"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bol",
+                    "meaning": {
+                        "ko": "던지다",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "投掷",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정도를 넘어 던지는 말' 즉, '과장'에서 유래하여 '과장된'이라는 뜻입니다.",
+                "en": "Derived from 'throwing beyond measure,' meaning exaggeration; thus 'exaggerated'",
+                "ja": "「度を超えて投げる言葉」つまり「大げさ」から由来し、「大げさな」という意味です",
+                "zh": "源自\"超过限度地投掷的言语\"，即\"夸张\"，因此意为\"夸张的\"",
+                "fr": "Dérivé de \"jeter au-delà de la mesure\", c'est-à-dire l'exagération; d'où \"exagéré\""
+            },
+            "example": "His speech was full of hyperbolic claims.",
+            "translation": {
+                "ko": "그의 연설은 과장된 주장으로 가득했다.",
+                "ja": "彼のスピーチは大げさな主張に満ちていた。",
+                "zh": "他的演讲充满了夸张的主张。",
+                "fr": "Son discours était plein d'affirmations hyperboliques."
+            }
+        },
+        {
+            "word": "hyperventilate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hyper-",
+                    "meaning": {
+                        "ko": "과도하게",
+                        "en": "over",
+                        "ja": "過度に",
+                        "zh": "过度地",
+                        "fr": "excessivement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ventilate",
+                    "meaning": {
+                        "ko": "숨 쉬다",
+                        "en": "to breathe",
+                        "ja": "呼吸する",
+                        "zh": "呼吸",
+                        "fr": "respirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지나치게 숨을 쉬다'는 의미에서 '과호흡하다'는 뜻입니다.",
+                "en": "To breathe excessively or rapidly, often due to anxiety or panic",
+                "ja": "不安やパニックにより、過度に速く呼吸することを意味します",
+                "zh": "由于焦虑或恐慌而呼吸过度或过快",
+                "fr": "Respirer excessivement ou rapidement, souvent en raison d'anxiété ou de panique"
+            },
+            "example": "She started to hyperventilate from panic.",
+            "translation": {
+                "ko": "그녀는 공포심에 과호흡하기 시작했다.",
+                "ja": "彼女は恐怖心から過呼吸し始めた。",
+                "zh": "她因恐慌而开始过度换气。",
+                "fr": "Elle a commencé à hyperventiler sous le coup de la panique."
+            }
+        }
+    ]
+}

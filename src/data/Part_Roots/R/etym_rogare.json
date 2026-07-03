@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "rogare (ask) rogation, interrogate, interrogative",
+        "origin": "Latin, rogare (to ask)",
+        "meaning": {
+            "ko": "묻다, 요청하다",
+            "en": "to ask",
+            "ja": "尋ねる、求める",
+            "zh": "询问、请求",
+            "fr": "demander, poser une question"
+        }
+    },
+    "words": [
+        {
+            "word": "rogation",
+            "part_of_speech": "",
+            "origin": "Latin, rogatio (an asking)",
+            "meaning": {
+                "ko": "요청",
+                "en": "request or petition",
+                "ja": "祈り願う",
+                "zh": "祈求",
+                "fr": "rogation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "roga-",
+                    "meaning": {
+                        "ko": "'요청하다'",
+                        "en": "to ask",
+                        "ja": "尋ねる",
+                        "zh": "请求",
+                        "fr": "demander"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공식적인 요청', 특히 종교적인 '기원', '기도'를 뜻합니다.",
+                "en": "Official request, especially religious prayer or supplication",
+                "ja": "公式的な要請、特に宗教的な祈りや嘆願を意味します",
+                "zh": "正式的请求，特别是宗教性的祈祷或恳求",
+                "fr": "Demande officielle, notamment prière ou supplication religieuse"
+            },
+            "example": "Rogation days are days of prayer and fasting in the Christian calendar.",
+            "translation": {
+                "ko": "기원일은 기독교 달력에서 기도와 금식의 날이다.",
+                "ja": "ロゲーション日は、キリスト教暦における祈りと断食の日です。",
+                "zh": "祈求日是基督教日历中祈祷和禁食的日子。",
+                "fr": "Les jours de rogations sont des jours de prière et de jeûne dans le calendrier chrétien."
+            }
+        },
+        {
+            "word": "interrogate",
+            "part_of_speech": "",
+            "origin": "Latin, interrogare (to question)",
+            "meaning": {
+                "ko": "질문하다",
+                "en": "to question or ask",
+                "ja": "尋問する",
+                "zh": "审问",
+                "fr": "interroger"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "'사이에'",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "roga-",
+                    "meaning": {
+                        "ko": "'묻다'",
+                        "en": "to ask",
+                        "ja": "尋ねる",
+                        "zh": "询问",
+                        "fr": "demander"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람들 사이에서 묻다'는 의미에서 공식적으로 '심문하다', '질문하다'라는 뜻이 되었습니다.",
+                "en": "Originally meant 'to ask among people', which formally came to mean 'to interrogate' or 'to question'",
+                "ja": "元々は'人々の間で尋ねる'という意味で、正式に'尋問する'、'質問する'という意味になりました",
+                "zh": "最初意为'在人们之间询问'，正式演变为'审问'、'质询'之意",
+                "fr": "Signifiait à l'origine 'demander parmi les gens', devenu officiellement 'interroger' ou 'questionner'"
+            },
+            "example": "The police interrogated the suspect for hours.",
+            "translation": {
+                "ko": "경찰은 용의자를 몇 시간 동안 심문했다.",
+                "ja": "警察は容疑者を何時間も尋問した。",
+                "zh": "警察审问了嫌疑人好几个小时。",
+                "fr": "La police a interrogé le suspect pendant des heures."
+            }
+        },
+        {
+            "word": "interrogative",
+            "part_of_speech": "",
+            "origin": "Latin, interrogativus (pertaining to a question)",
+            "meaning": {
+                "ko": "질문에 관한",
+                "en": "relating to questions",
+                "ja": "質問に関する",
+                "zh": "与问题相关",
+                "fr": "relatif à la question"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "interrogat-",
+                    "meaning": {
+                        "ko": "'질문하다'",
+                        "en": "to question",
+                        "ja": "質問する",
+                        "zh": "提问",
+                        "fr": "interroger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'질문을 나타내는'이라는 의미에서 '의문의' 또는 '의문문'을 뜻합니다.",
+                "en": "Means 'interrogative' or 'question sentence' in the sense of indicating a question.",
+                "ja": "質問を表す意味で、疑問の、または疑問文を意味します。",
+                "zh": "表示问题的意思，指疑问的或疑问句。",
+                "fr": "Signifie interrogatif ou phrase interrogative dans le sens d'indiquer une question."
+            },
+            "example": "An interrogative sentence ends with a question mark.",
+            "translation": {
+                "ko": "의문문은 물음표로 끝난다.",
+                "ja": "疑問の",
+                "zh": "疑问的",
+                "fr": "interrogatif"
+            }
+        }
+    ]
+}

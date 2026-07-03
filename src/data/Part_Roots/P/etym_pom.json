@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "pom (knob, fruit) pome, pomegranate, pommel",
+        "origin": "Latin, pomum (fruit, apple)",
+        "meaning": {
+            "ko": "과일",
+            "en": "fruit",
+            "ja": "果物",
+            "zh": "水果",
+            "fr": "fruit"
+        }
+    },
+    "words": [
+        {
+            "word": "pome",
+            "part_of_speech": "",
+            "origin": "Latin, pomum (fruit)",
+            "meaning": {
+                "ko": "과일",
+                "en": "fruit",
+                "ja": "梨果",
+                "zh": "梨果",
+                "fr": "fruit à pépins"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pom-",
+                    "meaning": {
+                        "ko": "'과일'",
+                        "en": "fruit",
+                        "ja": "果実",
+                        "zh": "果实",
+                        "fr": "fruit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "사과, 배처럼 '씨방이 발달하여 만들어진' 과일의 한 종류인 '이과(梨果)'를 뜻합니다.",
+                "en": "A type of fruit like apples and pears, where the fruit develops from the ovary",
+                "ja": "リンゴ、ナシのように子房から発達して作られた果実の一種である梨果を意味します",
+                "zh": "指像苹果、梨这样由子房发育而成的一类果实",
+                "fr": "Un type de fruit comme les pommes et les poires, où le fruit se développe à partir de l'ovaire"
+            },
+            "example": "An apple is a type of pome.",
+            "translation": {
+                "ko": "사과는 이과의 한 종류이다.",
+                "ja": "リンゴは梨果の一種です",
+                "zh": "苹果是梨果的一种",
+                "fr": "Une pomme est un type de fruit à pépins"
+            }
+        },
+        {
+            "word": "pomegranate",
+            "part_of_speech": "",
+            "origin": "Latin, pomum (apple) + granatum (seeded)",
+            "meaning": {
+                "ko": "씨가 많은 사과",
+                "en": "apple with many seeds",
+                "ja": "多くの種を持つ果実",
+                "zh": "多籽果实",
+                "fr": "fruit aux nombreuses graines"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pome-",
+                    "meaning": {
+                        "ko": "'사과, 과일'",
+                        "en": "apple, fruit",
+                        "ja": "りんご、果物",
+                        "zh": "苹果、水果",
+                        "fr": "pomme, fruit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "granate",
+                    "meaning": {
+                        "ko": "'씨가 많은'",
+                        "en": "having many seeds",
+                        "ja": "多くの種を持つ",
+                        "zh": "含有许多籽粒的",
+                        "fr": "aux nombreuses graines"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'씨가 많은 사과처럼 생긴 과일'이라는 의미에서 '석류'를 뜻합니다.",
+                "en": "Refers to pomegranate from the meaning of 'a fruit that looks like an apple with many seeds'",
+                "ja": "多くの種を持つりんごのような果実という意味から、ザクロを指します",
+                "zh": "从'看起来像含有许多籽粒的苹果的水果'的含义中，指石榴",
+                "fr": "Désigne la grenade à partir du sens de 'un fruit ressemblant à une pomme avec de nombreuses graines'"
+            },
+            "example": "Pomegranate juice is rich in antioxidants.",
+            "translation": {
+                "ko": "석류 주스는 항산화제가 풍부하다.",
+                "ja": "ザクロジュースは抗酸化物質が豊富です。",
+                "zh": "石榴汁富含抗氧化剂。",
+                "fr": "Le jus de grenade est riche en antioxydants."
+            }
+        },
+        {
+            "word": "pommel",
+            "part_of_speech": "",
+            "origin": "Latin, pomellum (a little apple)",
+            "meaning": {
+                "ko": "작은 사과",
+                "en": "small apple",
+                "ja": "小さな球状の部分",
+                "zh": "小圆球",
+                "fr": "pomme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pom-",
+                    "meaning": {
+                        "ko": "'사과, 둥근 것'",
+                        "en": "apple, knob",
+                        "ja": "りんご、球体",
+                        "zh": "苹果、圆形物",
+                        "fr": "pomme, knob"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사과처럼 둥글게 생긴' 칼자루나 안장의 '끝부분'을 뜻합니다.",
+                "en": "Refers to the rounded end part of a sword handle or saddle shaped like an apple",
+                "ja": "りんごのように丸い形をした剣の柄や鞍の先端部分を意味します",
+                "zh": "指像苹果一样圆形的剑柄或马鞍的末端部分",
+                "fr": "Désigne la partie arrondie en forme de pomme à l'extrémité d'une poignée d'épée ou d'une selle"
+            },
+            "example": "He gripped the pommel of his sword.",
+            "translation": {
+                "ko": "그는 칼자루 끝을 꽉 잡았다.",
+                "ja": "彼は剣の柄頭をつかんだ。",
+                "zh": "他握住了剑的球状剑柄。",
+                "fr": "Il saisit la pomme de son épée."
+            }
+        }
+    ]
+}

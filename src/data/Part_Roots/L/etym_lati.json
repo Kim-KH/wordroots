@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "lati (broad) latitude, latitudinarian",
+        "origin": "Latin, latus (broad, wide)",
+        "meaning": {
+            "ko": "넓은",
+            "en": "broad",
+            "ja": "広い",
+            "zh": "宽",
+            "fr": "large"
+        }
+    },
+    "words": [
+        {
+            "word": "latitude",
+            "part_of_speech": "",
+            "origin": "Latin, latitudo (breadth, width)",
+            "meaning": {
+                "ko": "넓이",
+                "en": "area or width",
+                "ja": "緯度、広さ",
+                "zh": "纬度、宽度",
+                "fr": "latitude, largeur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lati-",
+                    "meaning": {
+                        "ko": "'넓은'",
+                        "en": "broad",
+                        "ja": "広い",
+                        "zh": "宽的",
+                        "fr": "large"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지구의 넓이(가로)를 나타내는 선'이라는 의미에서 '위도'를 뜻하며, 비유적으로 '허용 범위'를 의미하기도 합니다.",
+                "en": "The latitude of Paris is about 48 degrees North.",
+                "ja": "地球の広さ(横)を表す線という意味で'緯度'を意味し、比喩的に'許容範囲'を意味することもあります。",
+                "zh": "表示地球宽度(横向)的线，意为'纬度'，也可比喻性地表示'允许范围'。",
+                "fr": "Signifie 'latitude' au sens d'une ligne indiquant la largeur de la Terre, et peut aussi signifier métaphoriquement 'plage de tolérance'."
+            },
+            "example": "The latitude of Paris is about 48 degrees North.",
+            "translation": {
+                "ko": "파리의 위도는 북위 약 48도이다.",
+                "ja": "パリの緯度は北緯約48度です。",
+                "zh": "巴黎的纬度约为北纬48度。",
+                "fr": "La latitude de Paris est d'environ 48 degrés Nord."
+            }
+        },
+        {
+            "word": "latitudinarian",
+            "part_of_speech": "",
+            "origin": "Latin, latitudo (breadth)",
+            "meaning": {
+                "ko": "넓이",
+                "en": "width or breadth",
+                "ja": "寛容な人",
+                "zh": "宽容的人",
+                "fr": "personne tolérante"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "latitudin-",
+                    "meaning": {
+                        "ko": "'넓이, 자유'",
+                        "en": "width, freedom",
+                        "ja": "広さ、自由",
+                        "zh": "广度、自由",
+                        "fr": "largeur, liberté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'종교적 견해의 허용 범위가 넓은' 사람이라는 의미에서 '관용적인 사람'을 뜻합니다.",
+                "en": "A person with a broad tolerance range in religious views; means a tolerant person",
+                "ja": "宗教的見解の許容範囲が広い人という意味で、寛容的な人を指します",
+                "zh": "宗教观点的容许范围很广的人，意为宽容的人",
+                "fr": "Personne ayant une large gamme de tolérance dans les croyances religieuses; signifie une personne tolérante"
+            },
+            "example": "He was a latitudinarian in his religious beliefs.",
+            "translation": {
+                "ko": "그는 그의 종교적 신념에 있어 관용적이었다.",
+                "ja": "彼は宗教的信念において寛容な人だった。",
+                "zh": "他在宗教信仰上是一个宽容的人。",
+                "fr": "Il était une personne tolérante dans ses croyances religieuses."
+            }
+        }
+    ]
+}

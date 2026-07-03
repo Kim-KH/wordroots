@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ile (relating to) compile, docile, senile",
+        "origin": "Latin, -ilis (relating to, capable of)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "relating to",
+            "ja": "…に関する",
+            "zh": "…に関する",
+            "fr": "…に関する"
+        }
+    },
+    "words": [
+        {
+            "word": "compile",
+            "part_of_speech": "",
+            "origin": "Latin, compilare (to plunder, to plagiarize)",
+            "meaning": {
+                "ko": "약탈하다",
+                "en": "to plunder or pillage",
+                "ja": "編集する、集める",
+                "zh": "编辑、汇编",
+                "fr": "compiler, rassembler"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pile",
+                    "meaning": {
+                        "ko": "'쌓다'",
+                        "en": "to heap up",
+                        "ja": "積み上げる",
+                        "zh": "堆积",
+                        "fr": "entasser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 자료를 함께 쌓아 모으다'는 의미에서 '편집하다', '수집하다'라는 뜻이 되었습니다.",
+                "en": "The meaning evolved from 'gathering materials together and stacking them' to 'editing' and 'collecting'",
+                "ja": "複数の資料を一緒に積み上げて集めることから、編集する、収集するという意味になった",
+                "zh": "从将多种材料一起堆积收集的意思演变为编辑、汇编的含义",
+                "fr": "Le sens a évolué de rassembler et empiler plusieurs matériaux ensemble vers éditer et collecter"
+            },
+            "example": "He compiled a list of the best restaurants in the city.",
+            "translation": {
+                "ko": "그는 그 도시 최고의 식당 목록을 엮었다.",
+                "ja": "彼は街の最高のレストランのリストを編集した",
+                "zh": "他编辑了城市最好餐厅的名单",
+                "fr": "Il a compilé une liste des meilleurs restaurants de la ville"
+            }
+        },
+        {
+            "word": "docile",
+            "part_of_speech": "",
+            "origin": "Latin, docilis (teachable)",
+            "meaning": {
+                "ko": "가르칠 수 있는",
+                "en": "able to be taught",
+                "ja": "教えやすい",
+                "zh": "易于教导的",
+                "fr": "docile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "doc- (docere)",
+                    "meaning": {
+                        "ko": "'가르치다'",
+                        "en": "to teach",
+                        "ja": "教える",
+                        "zh": "教导",
+                        "fr": "enseigner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ile",
+                    "meaning": {
+                        "ko": "'~하기 쉬운'",
+                        "en": "easy to do",
+                        "ja": "～しやすい",
+                        "zh": "容易～",
+                        "fr": "facile à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가르치기 쉬운'이라는 의미에서 '유순한', '고분고분한'이라는 뜻입니다.",
+                "en": "Means easy to teach, thus obedient and compliant",
+                "ja": "教えやすいという意味から、従順で素直という意味",
+                "zh": "易于教导，因此顺从且驯服",
+                "fr": "Signifie facile à enseigner, donc obéissant et docile"
+            },
+            "example": "The dog is very docile and obedient.",
+            "translation": {
+                "ko": "그 개는 매우 유순하고 순종적이다.",
+                "ja": "その犬はとても従順で言うことをよく聞きます",
+                "zh": "那只狗非常驯服且听话",
+                "fr": "Le chien est très docile et obéissant"
+            }
+        },
+        {
+            "word": "senile",
+            "part_of_speech": "",
+            "origin": "Latin, senilis (of old age)",
+            "meaning": {
+                "ko": "노년의",
+                "en": "of old age",
+                "ja": "老年の",
+                "zh": "老年的",
+                "fr": "sénile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sen-",
+                    "meaning": {
+                        "ko": "'늙은'",
+                        "en": "old",
+                        "ja": "老いた",
+                        "zh": "老的",
+                        "fr": "vieux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ile",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or having quality of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나이가 들어 정신이나 신체 기능이 쇠약해진'이라는 의미에서 '노망한', '노인성의'라는 뜻입니다.",
+                "en": "Refers to the weakening of mental or physical functions due to old age; means senile or age-related.",
+                "ja": "加齢に伴う精神的または身体的機能の衰弱を指し、老人性の、ボケた という意味です。",
+                "zh": "指由于年迈导致的精神或身体功能衰退，意为老年性的、痴呆的。",
+                "fr": "Décrit l'affaiblissement des fonctions mentales ou physiques lié à l'âge; signifie sénile ou lié à la vieillesse."
+            },
+            "example": "Senile decay is a natural process.",
+            "translation": {
+                "ko": "노쇠는 자연스러운 과정이다.",
+                "ja": "老年性痴呆の衰退は自然な過程です。",
+                "zh": "老年痴呆的衰退是一个自然的过程。",
+                "fr": "La détérioration sénile est un processus naturel."
+            }
+        }
+    ]
+}

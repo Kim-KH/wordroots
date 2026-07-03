@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "ped(i) (foot) bipedal, pedal, pedestrian, pedicle",
+        "origin": "Latin, pes, pedis (foot)",
+        "meaning": {
+            "ko": "발",
+            "en": "foot",
+            "ja": "足",
+            "zh": "脚",
+            "fr": "pied"
+        }
+    },
+    "words": [
+        {
+            "word": "bipedal",
+            "part_of_speech": "",
+            "origin": "Latin, bi- (two) + pes (foot)",
+            "meaning": {
+                "ko": "두 발의",
+                "en": "of two feet",
+                "ja": "二足歩行の",
+                "zh": "两足的",
+                "fr": "bipède"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped-",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "足",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개의 발을 가진'이라는 의미에서 '두 발로 걷는'이라는 뜻입니다.",
+                "en": "Meaning 'having two feet' or 'walking on two feet'",
+                "ja": "二つの足を持つ、または二足で歩くという意味",
+                "zh": "有两只脚或用两条腿走路的意思",
+                "fr": "Signifie avoir deux pieds ou marcher sur deux pieds"
+            },
+            "example": "Humans are bipedal animals.",
+            "translation": {
+                "ko": "인간은 이족 보행 동물이다.",
+                "ja": "人間は二足歩行の動物です。",
+                "zh": "人类是两足的动物。",
+                "fr": "Les humains sont des animaux bipèdes."
+            }
+        },
+        {
+            "word": "pedal",
+            "part_of_speech": "",
+            "origin": "Latin, pedalis (of the foot)",
+            "meaning": {
+                "ko": "발의",
+                "en": "proposal or bill",
+                "ja": "足で踏む装置",
+                "zh": "脚踏装置",
+                "fr": "dispositif actionné au pied"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped-",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발로 밟는 장치'인 '페달'을 뜻합니다.",
+                "en": "A device operated by pressing with the foot",
+                "ja": "足で踏んで操作する装置",
+                "zh": "用脚踩踏来操作的装置",
+                "fr": "appareil actionné en appuyant avec le pied"
+            },
+            "example": "He pushed down hard on the gas pedal.",
+            "translation": {
+                "ko": "그는 가속 페달을 힘껏 밟았다.",
+                "ja": "ペダル",
+                "zh": "踏板",
+                "fr": "pédale"
+            }
+        },
+        {
+            "word": "pedestrian",
+            "part_of_speech": "",
+            "origin": "Latin, pedester (going on foot)",
+            "meaning": {
+                "ko": "걸어가는",
+                "en": "walking",
+                "ja": "歩行者",
+                "zh": "行人",
+                "fr": "piéton"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped-",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발로 걸어 다니는 사람'인 '보행자'를 뜻합니다.",
+                "en": "Refers to a person who walks on foot, known as a pedestrian.",
+                "ja": "足で歩いて移動する人を意味する歩行者のこと。",
+                "zh": "指用脚步行走的人，即行人。",
+                "fr": "Désigne une personne qui se déplace à pied, un piéton."
+            },
+            "example": "Pedestrians should use the crosswalk.",
+            "translation": {
+                "ko": "보행자는 횡단보도를 이용해야 한다.",
+                "ja": "歩行者は横断歩道を使うべきです。",
+                "zh": "行人应该使用人行横道。",
+                "fr": "Les piétons doivent utiliser le passage pour piétons."
+            }
+        },
+        {
+            "word": "pedicle",
+            "part_of_speech": "",
+            "origin": "Latin, pediculus (a little foot)",
+            "meaning": {
+                "ko": "작은 발",
+                "en": "small foot",
+                "ja": "小さい足",
+                "zh": "小脚",
+                "fr": "petit pied"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped-",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-icle",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さい物",
+                        "zh": "小的东西",
+                        "fr": "petite chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 발처럼 생긴 부분'이라는 의미로, 꽃의 '작은 꽃자루'나 종양의 '경(莖)'을 뜻합니다.",
+                "en": "Refers to a small foot-like part; means a small flower stalk or the stem of a tumor",
+                "ja": "小さい足のような部分を指し、花の小さい花軸や腫瘍の茎を意味します",
+                "zh": "指小脚状部分，意为花的小花轴或肿瘤的茎",
+                "fr": "Désigne une petite partie ressemblant à un pied; signifie une petite tige florale ou la tige d'une tumeur"
+            },
+            "example": "The flower is attached to the stem by a short pedicle.",
+            "translation": {
+                "ko": "그 꽃은 짧은 작은 꽃자루에 의해 줄기에 붙어 있다.",
+                "ja": "その花は短い花軸で茎に付着しています。",
+                "zh": "这朵花通过短的花轴连接到茎上。",
+                "fr": "La fleur est attachée à la tige par un court pédoncule."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "crat (supporter of, rule) aristocrat, bureaucrat, democrat",
+        "origin": "Greek, kratos (strength, power, rule)",
+        "meaning": {
+            "ko": "통치, 권력",
+            "en": "rule, power",
+            "ja": "支配、権力",
+            "zh": "统治、权力",
+            "fr": "règle, pouvoir"
+        }
+    },
+    "words": [
+        {
+            "word": "aristocrat",
+            "part_of_speech": "",
+            "origin": "Greek, aristokratia (rule of the best)",
+            "meaning": {
+                "ko": "최상의 통치",
+                "en": "best rule",
+                "ja": "最高の支配者",
+                "zh": "最高的统治者",
+                "fr": "meilleur gouvernant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aristo (aristos)",
+                    "meaning": {
+                        "ko": "'최상의'",
+                        "en": "best",
+                        "ja": "最高の",
+                        "zh": "最好的",
+                        "fr": "meilleur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crat (kratos)",
+                    "meaning": {
+                        "ko": "'지배자'",
+                        "en": "ruler",
+                        "ja": "支配者",
+                        "zh": "统治者",
+                        "fr": "gouvernant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'최상의(aristo) 지배 계급(crat)에 속한 사람'이라는 의미로 '귀족'을 뜻합니다.",
+                "en": "A person belonging to the best or highest ruling class, meaning noble or aristocrat",
+                "ja": "最高の（aristo）支配階級（crat）に属する人という意味で、貴族を意味します",
+                "zh": "属于最好的（aristo）统治阶级（crat）的人，意思是贵族",
+                "fr": "Une personne appartenant à la meilleure classe dirigeante, signifiant noble ou aristocrate"
+            },
+            "example": "He was born an aristocrat, with a title and a large estate.",
+            "translation": {
+                "ko": "그는 작위와 넓은 영지를 가진 귀족으로 태어났다.",
+                "ja": "彼は貴族として生まれ、爵位と大きな領地を持っていた。",
+                "zh": "他生来就是贵族，拥有爵位和大片庄园。",
+                "fr": "Il est né aristocrate, avec un titre et un grand domaine."
+            }
+        },
+        {
+            "word": "bureaucrat",
+            "part_of_speech": "",
+            "origin": "French, bureau (office) + Greek, kratos (rule)",
+            "meaning": {
+                "ko": "사무실의 지배",
+                "en": "rule of the office",
+                "ja": "官僚",
+                "zh": "官僚",
+                "fr": "bureaucrate"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bureau",
+                    "meaning": {
+                        "ko": "'사무실, 책상'",
+                        "en": "office, desk",
+                        "ja": "事務所、机",
+                        "zh": "办公室、书桌",
+                        "fr": "bureau, pupitre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crat (kratos)",
+                    "meaning": {
+                        "ko": "'지배자'",
+                        "en": "ruler",
+                        "ja": "支配者",
+                        "zh": "统治者",
+                        "fr": "dirigeant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사무실(bureau)에서 규칙으로 지배하는(crat) 사람'이라는 의미로, 절차를 중시하고 융통성 없는 '관료'를 가리킵니다.",
+                "en": "A person who rules by regulations in the office (bureau + crat), referring to a 'bureaucrat' who emphasizes procedures and lacks flexibility.",
+                "ja": "事務所(bureau)で規則によって支配する(crat)人という意味で、手続きを重視し融通性のない'官僚'を指します。",
+                "zh": "在办公室(bureau)里用规则统治(crat)的人，指强调程序、缺乏灵活性的'官僚'。",
+                "fr": "Une personne qui gouverne par des règles au bureau (bureau + crat), désignant un 'bureaucrate' qui valorise les procédures et manque de flexibilité."
+            },
+            "example": "People often complain about the inefficiency of bureaucrats.",
+            "translation": {
+                "ko": "사람들은 종종 관료들의 비효율성에 대해 불평한다.",
+                "ja": "人々は官僚の非効率性について不満を言うことが多い。",
+                "zh": "人们经常抱怨官僚的低效率。",
+                "fr": "Les gens se plaignent souvent de l'inefficacité des bureaucrates."
+            }
+        },
+        {
+            "word": "democrat",
+            "part_of_speech": "",
+            "origin": "Greek, dēmokratia (rule by the people)",
+            "meaning": {
+                "ko": "인민의 통치",
+                "en": "rule by the people",
+                "ja": "民主主義者",
+                "zh": "民主主义者",
+                "fr": "démocrate"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "demo (dēmos)",
+                    "meaning": {
+                        "ko": "'민중, 인민'",
+                        "en": "people",
+                        "ja": "人民、民衆",
+                        "zh": "人民、民众",
+                        "fr": "peuple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crat (kratos)",
+                    "meaning": {
+                        "ko": "'지지자, 통치자'",
+                        "en": "supporter, ruler",
+                        "ja": "支持者、統治者",
+                        "zh": "支持者、统治者",
+                        "fr": "partisan, gouvernant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'민중(demo)의 통치를 지지하는(crat) 사람'이라는 의미로 '민주주의자'를 뜻합니다.",
+                "en": "A person who supports rule by the people (demo: people, crat: supporter/ruler), meaning a democrat",
+                "ja": "民衆(demo)の統治を支持する(crat)人という意味で、民主主義者を表します",
+                "zh": "表示支持人民(demo)统治(crat)的人，意为民主主义者",
+                "fr": "Une personne qui soutient le gouvernement du peuple (demo: peuple, crat: partisan), désignant un démocrate"
+            },
+            "example": "He is a firm believer in the principles of a democrat.",
+            "translation": {
+                "ko": "그는 민주주의자의 원칙을 굳게 믿는 사람이다.",
+                "ja": "彼は民主主義の原則を強く信奉している。",
+                "zh": "他坚信民主主义的原则。",
+                "fr": "Il est un fervent partisan des principes de la démocratie."
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "dox (belief) doxology, orthodoxy",
+        "origin": "Greek, doxa (opinion, belief)",
+        "meaning": {
+            "ko": "믿음, 의견",
+            "en": "belief",
+            "ja": "信念",
+            "zh": "信念",
+            "fr": "croyance"
+        }
+    },
+    "words": [
+        {
+            "word": "doxology",
+            "part_of_speech": "",
+            "origin": "Greek, doxa (glory) + logos (word, saying)",
+            "meaning": {
+                "ko": "영광의 말",
+                "en": "words of glory",
+                "ja": "栄光の言葉",
+                "zh": "荣光的言词",
+                "fr": "parole de gloire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dox-",
+                    "meaning": {
+                        "ko": "'영광, 찬미'",
+                        "en": "glory, praise",
+                        "ja": "栄光、賛美",
+                        "zh": "荣光、赞美",
+                        "fr": "gloire, louange"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'말, 노래'",
+                        "en": "speech or song",
+                        "ja": "言葉、歌",
+                        "zh": "言词、歌曲",
+                        "fr": "parole, chanson"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신을 찬미하는 노래나 기도'라는 의미에서 '송영(頌榮)'을 뜻합니다.",
+                "en": "A song or prayer praising God, meaning 'hymn of praise'",
+                "ja": "神を賛美する歌または祈り、送栄を意味する",
+                "zh": "赞美神的歌曲或祷告，意为颂荣",
+                "fr": "Chanson ou prière louant Dieu, signifiant hymne de louange"
+            },
+            "example": "The church service ended with a doxology.",
+            "translation": {
+                "ko": "교회 예배는 송영으로 끝났다.",
+                "ja": "教会礼拝は送栄で終わった。",
+                "zh": "教堂礼拜以颂歌结束。",
+                "fr": "Le service religieux s'est terminé par une doxologie."
+            }
+        },
+        {
+            "word": "orthodoxy",
+            "part_of_speech": "",
+            "origin": "Greek, orthodoxia (right opinion)",
+            "meaning": {
+                "ko": "올바른 믿음",
+                "en": "correct belief",
+                "ja": "正統的な信仰",
+                "zh": "正统信仰",
+                "fr": "croyance orthodoxe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ortho-",
+                    "meaning": {
+                        "ko": "'올바른'",
+                        "en": "right, correct",
+                        "ja": "正しい、正当な",
+                        "zh": "正确的、正当的",
+                        "fr": "correct, juste"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dox-",
+                    "meaning": {
+                        "ko": "'믿음, 의견'",
+                        "en": "belief, opinion",
+                        "ja": "信仰、意見",
+                        "zh": "信仰、观点",
+                        "fr": "croyance, opinion"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'올바르다고 인정된 믿음이나 사상'이라는 의미에서 '정설', '정통 신앙'을 뜻합니다.",
+                "en": "Means the established or accepted belief and thought recognized as correct",
+                "ja": "正しいと認められた信仰や思想という意味で、確立された教義や正統的な信仰を指す",
+                "zh": "指被公认为正确的信仰和思想，意为既定的教义或正统信仰",
+                "fr": "Désigne la croyance et la pensée reconnues comme correctes, c'est-à-dire la doctrine établie ou la foi orthodoxe"
+            },
+            "example": "He challenged the prevailing orthodoxy.",
+            "translation": {
+                "ko": "그는 지배적인 정설에 이의를 제기했다.",
+                "ja": "彼は一般的な正統的信仰に異議を唱えた",
+                "zh": "他挑战了普遍的正统信仰",
+                "fr": "Il a remis en question l'orthodoxie dominante"
+            }
+        }
+    ]
+}

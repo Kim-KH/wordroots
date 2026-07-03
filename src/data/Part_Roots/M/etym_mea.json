@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "mea (pass through) permeate, permeability",
+        "origin": "Latin, meare (to go, pass)",
+        "meaning": {
+            "ko": "지나가다",
+            "en": "to pass",
+            "ja": "通り過ぎる",
+            "zh": "通过",
+            "fr": "passer"
+        }
+    },
+    "words": [
+        {
+            "word": "permeate",
+            "part_of_speech": "",
+            "origin": "Latin, permeare (to pass through)",
+            "meaning": {
+                "ko": "통과하여 가다",
+                "en": "to pass through",
+                "ja": "浸透する",
+                "zh": "渗透",
+                "fr": "imprégner"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "'통하여'",
+                        "en": "through",
+                        "ja": "通して",
+                        "zh": "通过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "me-",
+                    "meaning": {
+                        "ko": "'가다, 지나가다'",
+                        "en": "to pass",
+                        "ja": "通る",
+                        "zh": "经过",
+                        "fr": "passer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'액체나 냄새 등이 스며들다', '사상 등이 퍼지다'는 뜻입니다.",
+                "en": "Liquids, smells, etc. seep through; ideas, thoughts, etc. spread or diffuse",
+                "ja": "液体や臭いなどが染み込む、思想などが広がる",
+                "zh": "液体或气味等渗入，思想等传播",
+                "fr": "Les liquides, odeurs, etc. s'infiltrent; les idées, pensées, etc. se propagent"
+            },
+            "example": "The smell of coffee permeated the air.",
+            "translation": {
+                "ko": "커피 냄새가 공기 중에 스며들었다.",
+                "ja": "コーヒーの香りが空気に浸透した。",
+                "zh": "咖啡的香味渗透了空气。",
+                "fr": "L'odeur du café a imprégné l'air."
+            }
+        },
+        {
+            "word": "permeability",
+            "part_of_speech": "",
+            "origin": "Latin, permeabilis (that can be passed through)",
+            "meaning": {
+                "ko": "통과할 수 있는",
+                "en": "able to be passed through",
+                "ja": "透過性、通す性質",
+                "zh": "通透性、渗透性",
+                "fr": "perméabilité, capacité de passage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "perme-",
+                    "meaning": {
+                        "ko": "'스며들다'",
+                        "en": "permeate",
+                        "ja": "染み込む、浸透する",
+                        "zh": "渗透、浸润",
+                        "fr": "imprégner, s'infiltrer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물질이 다른 물질을 통과시키는 성질'인 '투과성'을 뜻합니다.",
+                "en": "The quality of a substance allowing other substances to pass through it; permeability.",
+                "ja": "物質が他の物質を通す性質、透過性を意味します。",
+                "zh": "物质允许其他物质通过的性质，即透过性。",
+                "fr": "La qualité d'une substance permettant à d'autres substances de la traverser; la perméabilité."
+            },
+            "example": "The permeability of the soil affects how quickly water drains away.",
+            "translation": {
+                "ko": "토양의 투과성은 물이 얼마나 빨리 빠져나가는지에 영향을 미친다.",
+                "ja": "土壌の透過性は水がどのくらい速く排水されるかに影響します。",
+                "zh": "土壤的透水性影响水排出的速度。",
+                "fr": "La perméabilité du sol affecte la rapidité avec laquelle l'eau s'écoule."
+            }
+        }
+    ]
+}

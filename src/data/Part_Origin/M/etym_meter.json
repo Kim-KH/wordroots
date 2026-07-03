@@ -1,0 +1,225 @@
+{
+    "root_info": {
+        "roots": "meter",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "측정하다",
+            "en": "measure",
+            "ja": "測定する",
+            "zh": "测量",
+            "fr": "mesurer"
+        }
+    },
+    "words": [
+        {
+            "word": "perimeter",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "peri-",
+                    "meaning": {
+                        "ko": "주위",
+                        "en": "around",
+                        "ja": "周囲",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "측정",
+                        "en": "measurement",
+                        "ja": "測定",
+                        "zh": "测量",
+                        "fr": "mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주위를 잰 길이' 즉, 도형의 '둘레'를 의미합니다.",
+                "en": "The distance around the outer edge of a shape.",
+                "ja": "図形の周りの長さ、つまり『周囲』を意味します。",
+                "zh": "'周围的长度'即图形的'周长'之意。",
+                "fr": "La longueur du contour d'une forme, c'est-à-dire le 'périmètre'."
+            },
+            "example": "We walked the perimeter of the park.",
+            "translation": {
+                "ko": "우리는 공원 둘레를 걸었다.",
+                "ja": "私たちは公園の周囲を歩いた。",
+                "zh": "我们绕着公园的周长走了一圈。",
+                "fr": "Nous avons parcouru le périmètre du parc."
+            }
+        },
+        {
+            "word": "micrometer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "micro",
+                    "meaning": {
+                        "ko": "작은",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "측정기 또는 미터",
+                        "en": "measuring instrument or meter",
+                        "ja": "測定器または メートル",
+                        "zh": "测量仪或米",
+                        "fr": "instrument de mesure ou mètre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아주 작은 것을 재는 기구'(마이크로미터) 또는 길이 단위 '마이크로미터'(백만분의 1미터)를 뜻합니다.",
+                "en": "Refers to either 'a device that measures very small things (micrometer)' or the unit of length 'micrometer' (one millionth of a meter)",
+                "ja": "非常に小さいものを測る器具（マイクロメーター）または長さの単位「マイクロメーター」（百万分の1メートル）を意味します",
+                "zh": "指测量极小物体的仪器（微米计）或长度单位「微米」（百万分之一米）",
+                "fr": "Désigne soit 'un appareil qui mesure des éléments très petits (micromètre)' soit l'unité de longueur 'micromètre' (un millionième de mètre)"
+            },
+            "example": "He used a micrometer to measure the thickness.",
+            "translation": {
+                "ko": "그는 두께를 재기 위해 마이크로미터를 사용했다.",
+                "ja": "彼はマイクロメーターを使って厚さを測りました",
+                "zh": "他用微米计测量了厚度",
+                "fr": "Il a utilisé un micromètre pour mesurer l'épaisseur"
+            }
+        },
+        {
+            "word": "ammeter",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "am(pere)",
+                    "meaning": {
+                        "ko": "암페어",
+                        "en": "ampere",
+                        "ja": "アンペア",
+                        "zh": "安培",
+                        "fr": "ampère"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "측정기",
+                        "en": "measuring device",
+                        "ja": "測定器",
+                        "zh": "测量仪",
+                        "fr": "instrument de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "전류(암페어)를 재는 '전류계'를 뜻합니다.",
+                "en": "A device that measures electric current in amperes.",
+                "ja": "電流(アンペア)を測定する「電流計」を意味します。",
+                "zh": "表示测量电流(安培)的\"电流表\"。",
+                "fr": "Instrument qui mesure le courant électrique en ampères."
+            },
+            "example": "The electrician used an ammeter.",
+            "translation": {
+                "ko": "그 전기 기술자는 전류계를 사용했다.",
+                "ja": "その電気技師は電流計を使用した。",
+                "zh": "那位电工使用了电流表。",
+                "fr": "L'électricien a utilisé un ampèremètre."
+            }
+        },
+        {
+            "word": "multimeter",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "multi",
+                    "meaning": {
+                        "ko": "많은",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多的",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "측정기",
+                        "en": "measuring instrument",
+                        "ja": "測定器",
+                        "zh": "测量仪器",
+                        "fr": "appareil de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "전압, 전류, 저항 등 '많은 것을 측정하는 기구' 즉, '멀티미터'를 뜻합니다.",
+                "en": "An instrument that measures many things such as voltage, current, and resistance.",
+                "ja": "電圧、電流、抵抗など『多くのものを測定する機器』、つまり『マルチメータ』を意味します。",
+                "zh": "测量电压、电流、电阻等『许多东西的仪器』，即『万用表』的意思。",
+                "fr": "Un instrument qui mesure de nombreux paramètres tels que la tension, le courant et la résistance, c'est-à-dire un 'multimètre'."
+            },
+            "example": "A multimeter is a useful tool for electronics.",
+            "translation": {
+                "ko": "멀티미터는 전자공학에 유용한 도구이다.",
+                "ja": "マルチメータは電子工学に有用な道具である。",
+                "zh": "万用表是电子学中有用的工具。",
+                "fr": "Un multimètre est un outil utile pour l'électronique."
+            }
+        },
+        {
+            "word": "altimeter",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "alti",
+                    "meaning": {
+                        "ko": "높이",
+                        "en": "height",
+                        "ja": "高さ",
+                        "zh": "高度",
+                        "fr": "hauteur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "측정기",
+                        "en": "measuring instrument",
+                        "ja": "測定器",
+                        "zh": "测量仪",
+                        "fr": "appareil de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "항공기 등의 '높이(고도)를 재는 기구' 즉, '고도계'를 뜻합니다.",
+                "en": "An instrument that measures the altitude (height) of aircraft and other objects; an altitude gauge.",
+                "ja": "航空機などの『高さ(高度)を測る器具』つまり『高度計』を意味します。",
+                "zh": "测量飞机等的高度（海拔）的仪器，即高度计。",
+                "fr": "Un instrument qui mesure l'altitude (la hauteur) d'un avion et d'autres objets; un altimètre."
+            },
+            "example": "The pilot checked the altimeter.",
+            "translation": {
+                "ko": "조종사가 고도계를 확인했다.",
+                "ja": "パイロットは高度計を確認した。",
+                "zh": "飞行员检查了高度计。",
+                "fr": "Le pilote a vérifié l'altimètre."
+            }
+        }
+    ]
+}

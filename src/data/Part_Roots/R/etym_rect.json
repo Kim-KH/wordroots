@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "rect (right, straight) erect, direct, rectangle, rectify",
+        "origin": "Latin, rectus (straight, right)",
+        "meaning": {
+            "ko": "올바른, 곧은",
+            "en": "right, straight",
+            "ja": "正しい、まっすぐ",
+            "zh": "正确的、笔直的",
+            "fr": "juste, droit"
+        }
+    },
+    "words": [
+        {
+            "word": "erect",
+            "part_of_speech": "",
+            "origin": "Latin, erigere (to set up)",
+            "meaning": {
+                "ko": "세우다",
+                "en": "to set up, to build",
+                "ja": "立てる、建てる",
+                "zh": "竖立、建立",
+                "fr": "ériger, construire"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로, 위로'",
+                        "en": "out, up",
+                        "ja": "外へ、上へ",
+                        "zh": "向外、向上",
+                        "fr": "dehors, vers le haut"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rect",
+                    "meaning": {
+                        "ko": "'곧은'",
+                        "en": "straight",
+                        "ja": "まっすぐな",
+                        "zh": "直的、笔直的",
+                        "fr": "droit, vertical"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 곧게 세우다'는 의미에서 '세우다' 또는 '똑바로 선'이라는 뜻입니다.",
+                "en": "Meaning to set up straight outward or upward; to stand upright or build",
+                "ja": "外へまっすぐに立てるという意味から、立てる、または真っすぐに立つという意味",
+                "zh": "从向外竖直设立的意思引申，表示竖立或建立",
+                "fr": "Signifie dresser droit vers l'extérieur ou vers le haut; se dresser ou construire"
+            },
+            "example": "They are going to erect a new monument in the square.",
+            "translation": {
+                "ko": "그들은 광장에 새로운 기념비를 세울 것이다.",
+                "ja": "彼らは広場に新しい記念碑を建てようとしている。",
+                "zh": "他们将在广场上竖立一座新的纪念碑。",
+                "fr": "Ils vont ériger un nouveau monument dans la place."
+            }
+        },
+        {
+            "word": "direct",
+            "part_of_speech": "",
+            "origin": "Latin, dirigere (to make straight)",
+            "meaning": {
+                "ko": "곧게 만들다",
+                "en": "to make straight",
+                "ja": "まっすぐにする",
+                "zh": "直接的",
+                "fr": "direct"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "apart",
+                        "ja": "離れて",
+                        "zh": "分开",
+                        "fr": "à part"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rect",
+                    "meaning": {
+                        "ko": "'곧은'",
+                        "en": "straight",
+                        "ja": "まっすぐな",
+                        "zh": "笔直的",
+                        "fr": "droit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'옆으로 새지 않고 곧게 가는'이라는 의미에서 '직접적인', '직행의'라는 뜻입니다. 동사로는 '지시하다', '감독하다'는 뜻입니다.",
+                "en": "From the sense of going straight without deviating sideways; meaning direct or non-stop. As a verb: to instruct or supervise.",
+                "ja": "横にそれずにまっすぐ行くという意味から、直接的、直行という意味です。動詞としては指示する、監督するという意味です。",
+                "zh": "从不偏离地笔直行进的含义出发；意思是直接的或不间断的。作为动词：指导或监督。",
+                "fr": "Du sens d'aller droit sans dévier latéralement; signifie direct ou sans escale. Comme verbe: instruire ou superviser."
+            },
+            "example": "Is there a direct train to London?",
+            "translation": {
+                "ko": "런던으로 가는 직행 열차가 있나요?",
+                "ja": "ロンドンへの直通電車はありますか？",
+                "zh": "有直达伦敦的火车吗？",
+                "fr": "Y a-t-il un train direct pour Londres?"
+            }
+        },
+        {
+            "word": "rectangle",
+            "part_of_speech": "",
+            "origin": "Latin, rectus (right) + angulus (angle)",
+            "meaning": {
+                "ko": "직각",
+                "en": "right angle",
+                "ja": "直角四辺形",
+                "zh": "矩形",
+                "fr": "rectangle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rect-",
+                    "meaning": {
+                        "ko": "'올바른, 직각의'",
+                        "en": "right",
+                        "ja": "正しい、直角の",
+                        "zh": "正确的、直角的",
+                        "fr": "droit, angle droit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "angle",
+                    "meaning": {
+                        "ko": "'각'",
+                        "en": "angle",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "angle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'네 개의 각이 모두 직각인 사각형'인 '직사각형'을 뜻합니다.",
+                "en": "A quadrilateral with all four angles being right angles",
+                "ja": "4つの角がすべて直角である四角形を意味します",
+                "zh": "四个角都是直角的四边形",
+                "fr": "Un quadrilatère dont tous les angles sont droits"
+            },
+            "example": "A square is a special type of rectangle.",
+            "translation": {
+                "ko": "정사각형은 직사각형의 특별한 한 종류이다.",
+                "ja": "正方形は矩形の特殊なタイプです",
+                "zh": "正方形是矩形的特殊类型",
+                "fr": "Un carré est un type particulier de rectangle"
+            }
+        },
+        {
+            "word": "rectify",
+            "part_of_speech": "",
+            "origin": "Latin, rectificare (to make right)",
+            "meaning": {
+                "ko": "올바르게 만들다",
+                "en": "to make correct",
+                "ja": "正しくする",
+                "zh": "改正",
+                "fr": "corriger"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rect-",
+                    "meaning": {
+                        "ko": "'올바른'",
+                        "en": "right",
+                        "ja": "正しい",
+                        "zh": "正确的",
+                        "fr": "correct"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못된 것을 올바르게 만들다'는 의미에서 '바로잡다', '수정하다'라는 뜻입니다.",
+                "en": "To make something wrong correct; to correct or fix",
+                "ja": "誤ったものを正しくすること。正す、修正する意味です",
+                "zh": "把错误的东西改成正确的。纠正、修改的意思",
+                "fr": "Rendre correct ce qui est faux. Signifie corriger ou réparer"
+            },
+            "example": "You should rectify the mistake as soon as possible.",
+            "translation": {
+                "ko": "당신은 가능한 한 빨리 그 실수를 바로잡아야 한다.",
+                "ja": "あなたはできるだけ早くその間違いを正すべきです",
+                "zh": "你应该尽快改正这个错误",
+                "fr": "Vous devriez corriger cette erreur dès que possible"
+            }
+        }
+    ]
+}

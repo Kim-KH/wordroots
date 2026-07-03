@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "vice (in place of) vicar, viceroy, vice president",
+        "origin": "Latin, vicis (a change, a turn, a place)",
+        "meaning": {
+            "ko": "장소, ~을 대신하여",
+            "en": "a place, in place of",
+            "ja": "場所、〜の代わりに",
+            "zh": "地方、代替〜",
+            "fr": "un lieu, à la place de"
+        }
+    },
+    "words": [
+        {
+            "word": "vicar",
+            "part_of_speech": "",
+            "origin": "Latin, vicarius (a substitute)",
+            "meaning": {
+                "ko": "대리인",
+                "en": "a person acting as a substitute or delegate",
+                "ja": "代理人",
+                "zh": "代理人",
+                "fr": "vicaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vic-",
+                    "meaning": {
+                        "ko": "'대신'",
+                        "en": "in place of",
+                        "ja": "〜の代わりに",
+                        "zh": "代替",
+                        "fr": "à la place de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주교를 대신하는' 성직자라는 의미에서 '교구 목사', '대리자'를 뜻합니다.",
+                "en": "A clergyman who acts in place of a bishop, meaning 'parish priest' or 'deputy'.",
+                "ja": "主教の代わりに行動する聖職者で、教区牧師または代理人を意味します。",
+                "zh": "代替主教行动的神职人员，意为教区牧师或代理人。",
+                "fr": "Un ecclésiastique qui agit à la place d'un évêque, signifiant 'vicaire paroissial' ou 'délégué'."
+            },
+            "example": "He is the vicar of the local church.",
+            "translation": {
+                "ko": "그는 지역 교회의 교구 목사이다.",
+                "ja": "彼は地元の教会の牧師です。",
+                "zh": "他是当地教堂的教区牧师。",
+                "fr": "Il est le vicaire de l'église locale."
+            }
+        },
+        {
+            "word": "viceroy",
+            "part_of_speech": "",
+            "origin": "French, viceroi",
+            "meaning": {
+                "ko": "왕을 대신하는 사람",
+                "en": "person who substitutes for the king",
+                "ja": "王の代理人",
+                "zh": "代理王",
+                "fr": "représentant du roi"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vice-",
+                    "meaning": {
+                        "ko": "'대신하여'",
+                        "en": "in place of",
+                        "ja": "代わりに",
+                        "zh": "代替",
+                        "fr": "à la place de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "roy (roi 'king')",
+                    "meaning": {
+                        "ko": "'왕'",
+                        "en": "king",
+                        "ja": "王",
+                        "zh": "王",
+                        "fr": "roi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식민지에서 왕을 대신하여 통치하는 사람'인 '총독'을 뜻합니다.",
+                "en": "A governor who rules a colony on behalf of the king",
+                "ja": "植民地で王に代わって統治する総督",
+                "zh": "在殖民地代王统治的总督",
+                "fr": "gouverneur qui administre une colonie au nom du roi"
+            },
+            "example": "The viceroy ruled the colony on behalf of the king.",
+            "translation": {
+                "ko": "총독은 왕을 대신하여 식민지를 통치했다.",
+                "ja": "副王",
+                "zh": "总督",
+                "fr": "vice-roi"
+            }
+        },
+        {
+            "word": "vice president",
+            "part_of_speech": "",
+            "origin": "Latin, vicis (place) + English, president",
+            "meaning": {
+                "ko": "대통령을 대신하는 자리",
+                "en": "position substituting for president",
+                "ja": "大統領の代理人",
+                "zh": "总统的代理人",
+                "fr": "remplaçant du président"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vice-",
+                    "meaning": {
+                        "ko": "'대신하여'",
+                        "en": "in place of",
+                        "ja": "代わりに",
+                        "zh": "代替",
+                        "fr": "à la place de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "president",
+                    "meaning": {
+                        "ko": "'대통령'",
+                        "en": "president",
+                        "ja": "大統領",
+                        "zh": "总统",
+                        "fr": "président"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대통령을 대신하는 사람'인 '부통령'을 뜻합니다.",
+                "en": "Refers to 'vice president', the person who takes the place of the president",
+                "ja": "大統領の代わりをする人である副大統領を意味します",
+                "zh": "指代替总统的人，即副总统",
+                "fr": "Désigne le vice-président, la personne qui remplace le président"
+            },
+            "example": "The vice president will take over if the president is unable to perform his duties.",
+            "translation": {
+                "ko": "대통령이 직무를 수행할 수 없을 경우 부통령이 그 직무를 인수하게 된다.",
+                "ja": "副大統領",
+                "zh": "副总统",
+                "fr": "vice-président"
+            }
+        }
+    ]
+}

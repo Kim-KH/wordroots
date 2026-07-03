@@ -1,0 +1,267 @@
+{
+    "root_info": {
+        "roots": "a, an",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "아니다, 없다",
+            "en": "not, without",
+            "ja": "ない、なし",
+            "zh": "不、没有",
+            "fr": "ne pas, sans"
+        }
+    },
+    "words": [
+        {
+            "word": "atheist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "없음",
+                        "en": "without",
+                        "ja": "なし",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "the",
+                    "meaning": {
+                        "ko": "신",
+                        "en": "god",
+                        "ja": "神",
+                        "zh": "神",
+                        "fr": "dieu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신이 없다고 믿는 사람'이라는 의미에서 '무신론자'를 뜻합니다.",
+                "en": "A person who believes there is no god; one without faith in deity",
+                "ja": "神が存在しないと信じる人という意味で、「無神論者」を指します。",
+                "zh": "指相信没有神的人，即\"无神论者\"的意思。",
+                "fr": "Désigne une personne qui croit qu'il n'existe pas de dieu ; un \"athée\"."
+            },
+            "example": "An atheist does not believe in God.",
+            "translation": {
+                "ko": "무신론자는 신을 믿지 않는다.",
+                "ja": "無神論者は神を信じない。",
+                "zh": "无神论者不相信上帝。",
+                "fr": "Un athée ne croit pas en Dieu."
+            }
+        },
+        {
+            "word": "anarchy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "an-",
+                    "meaning": {
+                        "ko": "없음",
+                        "en": "without",
+                        "ja": "なし",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "archy",
+                    "meaning": {
+                        "ko": "통치",
+                        "en": "rule",
+                        "ja": "統治",
+                        "zh": "统治",
+                        "fr": "gouvernement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'통치자가 없음'이라는 의미에서 '무정부 상태' 또는 사회적 '혼란'을 뜻합니다.",
+                "en": "Meaning 'absence of a ruler,' referring to a state of lawlessness or social chaos.",
+                "ja": "統治者がいないという意味から、無政府状態または社会的混乱を意味します。",
+                "zh": "从'没有统治者'的含义引申，指无政府状态或社会混乱。",
+                "fr": "Du sens « absence de dirigeant », désignant l'absence de gouvernement ou le chaos social."
+            },
+            "example": "The country fell into anarchy.",
+            "translation": {
+                "ko": "그 나라는 무정부 상태에 빠졌다.",
+                "ja": "その国は無政府状態に陥った。",
+                "zh": "那个国家陷入了无政府状态。",
+                "fr": "Le pays sombra dans l'anarchie."
+            }
+        },
+        {
+            "word": "anonymous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "an-",
+                    "meaning": {
+                        "ko": "없음",
+                        "en": "without",
+                        "ja": "なし",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "onym",
+                    "meaning": {
+                        "ko": "이름",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이름이 없는'이라는 의미에서 '익명의'라는 뜻입니다.",
+                "en": "From the meaning 'without a name' comes the sense of 'of unknown identity'.",
+                "ja": "'名前がない'という意味から'正体不明の'という意味になりました。",
+                "zh": "从'没有名字'的意思演变为'身份不明的'的含义。",
+                "fr": "Du sens 'sans nom' découle le sens 'd'identité inconnue'."
+            },
+            "example": "The donation was made by an anonymous person.",
+            "translation": {
+                "ko": "그 기부는 익명의 인물에 의해 이루어졌다.",
+                "ja": "その寄付は匿名の人物によってなされた。",
+                "zh": "这笔捐款是由一个匿名人士进行的。",
+                "fr": "Le don a été fait par une personne anonyme."
+            }
+        },
+        {
+            "word": "apathy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "없음",
+                        "en": "without",
+                        "ja": "なし",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pathy",
+                    "meaning": {
+                        "ko": "감정",
+                        "en": "feeling",
+                        "ja": "感情",
+                        "zh": "感情",
+                        "fr": "sentiment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감정이 없는 상태'라는 의미에서 '무관심', '냉담'을 뜻합니다.",
+                "en": "Means indifference or apathy from 'state of lacking feeling'",
+                "ja": "「感情がない状態」という意味から「無関心」「冷淡」を意味します",
+                "zh": "源自「缺乏感情的状态」，表示\"漠不关心\"、\"冷漠\"",
+                "fr": "Signifie indifférence ou apathie, du sens « état sans sentiment »"
+            },
+            "example": "Voter apathy is a serious problem.",
+            "translation": {
+                "ko": "유권자의 무관심은 심각한 문제이다.",
+                "ja": "投票者の無関心は深刻な問題である。",
+                "zh": "选民冷漠是一个严重的问题。",
+                "fr": "L'apathie électorale est un problème grave."
+            }
+        },
+        {
+            "word": "aphasia",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "없음",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "没有",
+                        "fr": "absence de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phas",
+                    "meaning": {
+                        "ko": "말하기",
+                        "en": "speech",
+                        "ja": "話すこと",
+                        "zh": "说话",
+                        "fr": "parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'말을 하지 못하는 상태'라는 의미에서, 뇌 손상 혹은 충격 등으로 인한 '실어증(失語症)'을 뜻합니다.",
+                "en": "A condition of inability to speak, referring to 'aphasia' caused by brain damage or trauma.",
+                "ja": "話すことができない状態を意味し、脳損傷または外傷などによる言語喪失症を指します。",
+                "zh": "表示无法说话的状态，指由脑损伤或创伤等引起的失语症。",
+                "fr": "État d'incapacité à parler, désignant l'aphasie causée par une lésion cérébrale ou un traumatisme."
+            },
+            "example": "The stroke caused him to suffer from aphasia.",
+            "translation": {
+                "ko": "그 뇌졸중은 그가 실어증을 앓게 만들었다.",
+                "ja": "その脳卒中は彼が失語症を患うことになった。",
+                "zh": "那次中风导致他患上了失语症。",
+                "fr": "L'accident vasculaire cérébral l'a conduit à souffrir d'aphasie."
+            }
+        },
+        {
+            "word": "anemia",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "an-",
+                    "meaning": {
+                        "ko": "없음",
+                        "en": "without",
+                        "ja": "ない",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emia",
+                    "meaning": {
+                        "ko": "피",
+                        "en": "blood",
+                        "ja": "血",
+                        "zh": "血",
+                        "fr": "sang"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피가 없는' 즉, 혈액 속 적혈구나 헤모글로빈이 부족한 상태인 '빈혈'을 뜻합니다.",
+                "en": "Condition of lacking blood; deficiency of red blood cells or hemoglobin in the blood.",
+                "ja": "血がない状態、つまり血液中の赤血球やヘモグロビンが不足している状態を意味します。",
+                "zh": "血液不足的状态，即血液中红细胞或血红蛋白不足的状态。",
+                "fr": "État de manque de sang ; déficience en globules rouges ou en hémoglobine dans le sang."
+            },
+            "example": "She was diagnosed with anemia.",
+            "translation": {
+                "ko": "그녀는 빈혈 진단을 받았다.",
+                "ja": "彼女は貧血と診断された。",
+                "zh": "她被诊断患有贫血症。",
+                "fr": "Elle a été diagnostiquée avec une anémie."
+            }
+        }
+    ]
+}

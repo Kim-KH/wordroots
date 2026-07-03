@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "anth (flower) anther, acanthus, anthesis",
+        "origin": "Greek, anthos (flower)",
+        "meaning": {
+            "ko": "꽃",
+            "en": "flower",
+            "ja": "花",
+            "zh": "花",
+            "fr": "fleur"
+        }
+    },
+    "words": [
+        {
+            "word": "anther",
+            "part_of_speech": "",
+            "origin": "Greek, anthēros (flowery)",
+            "meaning": {
+                "ko": "꽃의",
+                "en": "flowery",
+                "ja": "花の花粉を持つ部分",
+                "zh": "花的花粉囊",
+                "fr": "partie florale produisant pollen"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anth (anthos)",
+                    "meaning": {
+                        "ko": "'꽃'",
+                        "en": "flower",
+                        "ja": "花",
+                        "zh": "花",
+                        "fr": "fleur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-er",
+                    "meaning": {
+                        "ko": "'~하는 것'",
+                        "en": "one that does",
+                        "ja": "～するもの",
+                        "zh": "～的东西",
+                        "fr": "ce qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "꽃의 수술 끝에서 꽃가루를 담고 있는 부분을 의미하며, '꽃(anthos)'에서 유래한 단어입니다. 식물학에서 '꽃밥'이라고 합니다.",
+                "en": "The anther is the part at the end of the stamen that holds pollen, derived from 'anthos' (flower). In botany, it's called 'hwakkap' in Korean.",
+                "ja": "花の雄蕊の先端で花粉を含む部分を意味し、ギリシャ語の'anthos（花）'に由来する言葉です。植物学では'花粉嚢'と呼ばれます。",
+                "zh": "指花的雄蕊末端含有花粉的部分，源自希腊语'anthos（花）'。植物学中称为'花粉囊'。",
+                "fr": "La partie à l'extrémité de l'étamine qui contient le pollen, dérivée du grec 'anthos' (fleur). En botanique, on l'appelle 'sac pollinique'."
+            },
+            "example": "The anther produces pollen, which is necessary for fertilization.",
+            "translation": {
+                "ko": "꽃밥은 수정에 필요한 꽃가루를 생산한다.",
+                "ja": "葯は受粉に必要な花粉を生成します。",
+                "zh": "花药产生受精所需的花粉。",
+                "fr": "L'anthère produit le pollen, nécessaire à la fécondation."
+            }
+        },
+        {
+            "word": "acanthus",
+            "part_of_speech": "",
+            "origin": "Greek, akanthos (thorn plant)",
+            "meaning": {
+                "ko": "가시 식물",
+                "en": "thorn plant",
+                "ja": "トゲのある植物",
+                "zh": "有刺植物",
+                "fr": "plante épineuse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ac (ake)",
+                    "meaning": {
+                        "ko": "'날카로운 점, 가시'",
+                        "en": "point, thorn",
+                        "ja": "先端、トゲ",
+                        "zh": "尖端、刺",
+                        "fr": "pointe, épine"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anth (anthos)",
+                    "meaning": {
+                        "ko": "'꽃'",
+                        "en": "flower",
+                        "ja": "花",
+                        "zh": "花",
+                        "fr": "fleur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가시(ac) 돋친 꽃(anthos)'이라는 의미를 가진 식물 이름으로, 잎 모양이 아름다워 고대 그리스 건축물, 특히 코린트 양식의 기둥머리 장식에 많이 사용되었습니다.",
+                "en": "The plant name meaning 'thorn-bearing flower', whose beautiful leaf shapes were frequently used in ancient Greek architecture, particularly in the decorative capitals of Corinthian columns.",
+                "ja": "トゲのある花という意味を持つ植物名で、葉の形の美しさから古代ギリシャ建築、特にコリント様式の柱頭装飾に多く使用されました。",
+                "zh": "植物名称，意为带刺的花，其美丽的叶形在古代希腊建筑中广泛使用，特别是作为科林斯式柱头的装饰。",
+                "fr": "Nom de plante signifiant 'fleur épineuse', dont la belle forme des feuilles a été fréquemment utilisée dans l'architecture grecque antique, notamment comme ornement des chapiteaux corinthiens."
+            },
+            "example": "The capitals of the columns were decorated with carved acanthus leaves.",
+            "translation": {
+                "ko": "기둥머리는 조각된 아칸서스 잎으로 장식되었다.",
+                "ja": "柱頭のカピタルはアカンサスの葉で装飾された彫刻で飾られていました。",
+                "zh": "柱子的柱头用雕刻的蒺藜叶进行了装饰。",
+                "fr": "Les chapiteaux des colonnes étaient décorés de feuilles d'acanthe sculptées."
+            }
+        },
+        {
+            "word": "anthesis",
+            "part_of_speech": "",
+            "origin": "Greek, anthēsis (blossoming)",
+            "meaning": {
+                "ko": "개화",
+                "en": "blossoming",
+                "ja": "開花",
+                "zh": "开花",
+                "fr": "anthèse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anth (anthos)",
+                    "meaning": {
+                        "ko": "'꽃'",
+                        "en": "flower",
+                        "ja": "花",
+                        "zh": "花",
+                        "fr": "fleur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-esis",
+                    "meaning": {
+                        "ko": "'과정, 상태'",
+                        "en": "process, state",
+                        "ja": "過程、状態",
+                        "zh": "过程、状态",
+                        "fr": "processus, état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'꽃(anth)이 피는 과정'이라는 의미로, 식물학에서 '개화기'를 뜻하는 전문 용어입니다.",
+                "en": "A specialized botanical term meaning the process of flowering, literally the blooming of flowers.",
+                "ja": "花が咲く過程を意味する専門用語で、植物学における開花期を指します。",
+                "zh": "表示花朵绽放过程的专业术语，在植物学中指开花期。",
+                "fr": "Terme botanique spécialisé désignant le processus d'épanouissement des fleurs, littéralement la floraison."
+            },
+            "example": "The study observed the timing of anthesis in different plant species.",
+            "translation": {
+                "ko": "그 연구는 여러 다른 식물 종의 개화 시기를 관찰했다.",
+                "ja": "異なる植物種の開花時期を観察した研究。",
+                "zh": "该研究观察了不同植物物种的开花时间。",
+                "fr": "L'étude a observé le moment de l'anthèse chez différentes espèces de plantes."
+            }
+        }
+    ]
+}

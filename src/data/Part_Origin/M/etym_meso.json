@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "meso",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "중간",
+            "en": "middle",
+            "ja": "中間",
+            "zh": "中间",
+            "fr": "milieu"
+        }
+    },
+    "words": [
+        {
+            "word": "mesomorph",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meso",
+                    "meaning": {
+                        "ko": "중간",
+                        "en": "middle",
+                        "ja": "中間",
+                        "zh": "中间",
+                        "fr": "milieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "morph",
+                    "meaning": {
+                        "ko": "형태",
+                        "en": "form",
+                        "ja": "形態",
+                        "zh": "形态",
+                        "fr": "forme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "배아의 '중간' 층인 중배엽에서 주로 발달한 체형이라는 의미에서 '중배엽형 인간'(근육질 체형)을 뜻합니다.",
+                "en": "A body type that develops primarily from the mesoderm, the middle layer of embryonic tissue, referring to a muscular physique.",
+                "ja": "胚葉の『中間』層である中胚葉から主に発達した体形という意味で、『中胚葉型人間』（筋肉質体形）を指します。",
+                "zh": "指从胚胎的'中间'层中胚层主要发育而来的体型，意为'中胚层型人体'（肌肉质体型）。",
+                "fr": "Un type de corps qui se développe principalement à partir du mésoderme, la couche intermédiaire du tissu embryonnaire, désignant une silhouette musclée."
+            },
+            "example": "A mesomorph builds muscle easily.",
+            "translation": {
+                "ko": "중배엽형 인간은 근육이 쉽게 붙는다.",
+                "ja": "中胚葉型の人は筋肉がつきやすい。",
+                "zh": "中胚层型的人容易长肌肉。",
+                "fr": "Un mésomorphe développe facilement de la musculature."
+            }
+        },
+        {
+            "word": "mesoamerica",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meso",
+                    "meaning": {
+                        "ko": "중간",
+                        "en": "middle",
+                        "ja": "中間",
+                        "zh": "中间",
+                        "fr": "milieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "america",
+                    "meaning": {
+                        "ko": "아메리카",
+                        "en": "America",
+                        "ja": "アメリカ",
+                        "zh": "美洲",
+                        "fr": "Amérique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'중앙 아메리카' 지역을 가리키는 지리학적 용어입니다.",
+                "en": "A geographical term referring to the central American region.",
+                "ja": "中央アメリカ地域を指す地理学的用語です。",
+                "zh": "指中美洲地区的地理学术语。",
+                "fr": "Terme géographique désignant la région d'Amérique centrale."
+            },
+            "example": "The Maya civilization flourished in Mesoamerica.",
+            "translation": {
+                "ko": "마야 문명은 메소아메리카에서 번성했다.",
+                "ja": "マヤ文明はメソアメリカで栄えました。",
+                "zh": "玛雅文明在中美洲繁荣发展。",
+                "fr": "La civilisation maya s'est épanouie en Mésoamérique."
+            }
+        },
+        {
+            "word": "mesosphere",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meso",
+                    "meaning": {
+                        "ko": "중간",
+                        "en": "middle",
+                        "ja": "中間",
+                        "zh": "中间",
+                        "fr": "moyen"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sphere",
+                    "meaning": {
+                        "ko": "권역, 층",
+                        "en": "region or layer",
+                        "ja": "圏域、層",
+                        "zh": "圈域、层",
+                        "fr": "sphère, couche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "대기권의 '중간층' 즉, '중간권'을 뜻합니다.",
+                "en": "The 'middle layer' of the atmosphere, meaning the 'middle sphere'",
+                "ja": "大気圏の'中間層'つまり'中間圏'を意味します",
+                "zh": "大气圈的'中间层'，即'中间圈'的意思",
+                "fr": "La 'couche moyenne' de l'atmosphère, c'est-à-dire la 'sphère moyenne'"
+            },
+            "example": "Meteors burn up in the mesosphere.",
+            "translation": {
+                "ko": "유성은 중간권에서 불타 없어진다.",
+                "ja": "中間圏",
+                "zh": "中间圈",
+                "fr": "mésosphère"
+            }
+        }
+    ]
+}

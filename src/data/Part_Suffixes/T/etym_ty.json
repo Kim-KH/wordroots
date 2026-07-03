@@ -1,0 +1,176 @@
+{
+    "root_info": {
+        "roots": "ty (condition, state) conformity, exclusivity, realty",
+        "origin": "Latin, -tas",
+        "meaning": {
+            "ko": "상태",
+            "en": "condition, state",
+            "ja": "状態、状況",
+            "zh": "状态、情况",
+            "fr": "condition, état"
+        }
+    },
+    "words": [
+        {
+            "word": "conformity",
+            "part_of_speech": "",
+            "origin": "Latin, conformare (to shape)",
+            "meaning": {
+                "ko": "모양을 만들다",
+                "en": "to create shape or form",
+                "ja": "形態を作る",
+                "zh": "创造形态",
+                "fr": "créer la forme"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "form",
+                    "meaning": {
+                        "ko": "'형태'",
+                        "en": "shape or form",
+                        "ja": "形態",
+                        "zh": "形态",
+                        "fr": "forme"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정해진 규칙이나 관습에 형태를 함께 맞추는' 상태인 '순응'을 뜻합니다.",
+                "en": "State of conforming one's form to established rules or customs; compliance",
+                "ja": "決められた規則や慣習に形態を一緒に合わせる状態の順応",
+                "zh": "将形态与既定规则或习俗相一致的顺应状态",
+                "fr": "État de conformité avec les règles ou coutumes établies"
+            },
+            "example": "He lives in conformity with the rules of his religion.",
+            "translation": {
+                "ko": "그는 그의 종교의 규칙에 순응하며 산다.",
+                "ja": "彼は自分の宗教の規則に一致して生活している。",
+                "zh": "他按照自己宗教的规则生活。",
+                "fr": "Il vit en conformité avec les règles de sa religion."
+            }
+        },
+        {
+            "word": "exclusivity",
+            "part_of_speech": "",
+            "origin": "Latin, excludere (to shut out)",
+            "meaning": {
+                "ko": "밖으로 닫다",
+                "en": "to close off from outside",
+                "ja": "独占性、排他性",
+                "zh": "独占性、排他性",
+                "fr": "exclusivité, caractère exclusif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "exclusive",
+                    "meaning": {
+                        "ko": "'독점적인'",
+                        "en": "exclusive or monopolistic",
+                        "ja": "独占的な",
+                        "zh": "独占性的",
+                        "fr": "exclusif, monopolistique"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état, condition"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 것을 배제하고 하나만 독점하는' 상태인 '독점성', '배타성'을 뜻합니다.",
+                "en": "State of excluding others and monopolizing only one thing; means monopoly or exclusiveness",
+                "ja": "他のものを排除して1つだけを独占する状態。独占性や排他性を意味します。",
+                "zh": "排除其他事物而只垄断一种事物的状态。指独占性或排他性。",
+                "fr": "État d'exclusion des autres et de monopole d'une seule chose; signifie monopole ou caractère exclusif."
+            },
+            "example": "The club is known for its exclusivity.",
+            "translation": {
+                "ko": "그 클럽은 배타성으로 유명하다.",
+                "ja": "このクラブは排他性で知られています。",
+                "zh": "这个俱乐部以其排他性而闻名。",
+                "fr": "Le club est connu pour son exclusivité."
+            }
+        },
+        {
+            "word": "realty",
+            "part_of_speech": "",
+            "origin": "Latin, realis (real)",
+            "meaning": {
+                "ko": "실제의",
+                "en": "actual or real",
+                "ja": "不動産",
+                "zh": "不动产",
+                "fr": "immobilier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "real",
+                    "meaning": {
+                        "ko": "'실제의'",
+                        "en": "actual",
+                        "ja": "実際の",
+                        "zh": "实际的",
+                        "fr": "réel"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ty",
+                    "meaning": {
+                        "ko": "'성질'",
+                        "en": "quality or nature",
+                        "ja": "性質",
+                        "zh": "性质",
+                        "fr": "nature"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실제적인 자산'이라는 의미에서 '부동산'을 뜻합니다.",
+                "en": "Means real estate in the sense of tangible assets",
+                "ja": "実際の資産という意味での不動産を意味します",
+                "zh": "在实际资产的意义上指不动产",
+                "fr": "Signifie immobilier au sens d'actifs tangibles"
+            },
+            "example": "He works in the realty business.",
+            "translation": {
+                "ko": "그는 부동산업에 종사한다.",
+                "ja": "彼は不動産事業で働いています",
+                "zh": "他在不动产业工作",
+                "fr": "Il travaille dans le secteur immobilier"
+            }
+        }
+    ]
+}

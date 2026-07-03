@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "porta (gate) port, portal, portcullis",
+        "origin": "Latin, porta (a gate, an entrance)",
+        "meaning": {
+            "ko": "문",
+            "en": "a gate",
+            "ja": "門",
+            "zh": "门",
+            "fr": "une porte"
+        }
+    },
+    "words": [
+        {
+            "word": "port",
+            "part_of_speech": "",
+            "origin": "Latin, portus (a harbor)",
+            "meaning": {
+                "ko": "항구",
+                "en": "harbor or seaport",
+                "ja": "港",
+                "zh": "港口",
+                "fr": "port"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "port- (porta)",
+                    "meaning": {
+                        "ko": "'문, 입구'",
+                        "en": "gate",
+                        "ja": "門、入口",
+                        "zh": "门、入口",
+                        "fr": "porte, entrée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나라의 문 역할을 하는' 곳이라는 의미에서 '항구'를 뜻합니다.",
+                "en": "A place that serves as a gate to the country, hence meaning harbor",
+                "ja": "国の門の役割をする場所という意味で港を意味します",
+                "zh": "作为国家大门的地方，因此意为港口",
+                "fr": "Un lieu qui sert de porte au pays, d'où le sens de port"
+            },
+            "example": "The ship will arrive in port tomorrow.",
+            "translation": {
+                "ko": "그 배는 내일 항구에 도착할 것이다.",
+                "ja": "船は明日港に到着します",
+                "zh": "船将在明天抵达港口",
+                "fr": "Le navire arrivera au port demain"
+            }
+        },
+        {
+            "word": "portal",
+            "part_of_speech": "",
+            "origin": "Latin, portale (a city gate)",
+            "meaning": {
+                "ko": "도시의 문",
+                "en": "city gate",
+                "ja": "都市の門",
+                "zh": "城市的门",
+                "fr": "portail de la ville"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "port-",
+                    "meaning": {
+                        "ko": "'문'",
+                        "en": "gate",
+                        "ja": "門",
+                        "zh": "门",
+                        "fr": "portail"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'크고 웅장한 문' 또는 인터넷에서 다른 사이트로 들어가는 '관문' 역할을 하는 '포털 사이트'를 뜻합니다.",
+                "en": "A large and grand gate, or a gateway role in the internet, such as a portal site that serves as an entrance to other websites",
+                "ja": "大きく雄大な門、またはインターネットで他のサイトへの入り口となるポータルサイトを意味します",
+                "zh": "大而宏伟的门，或指在互联网中充当进入其他网站入口的门户网站",
+                "fr": "Une grande et majestueuse porte, ou un portail web servant de passerelle vers d'autres sites"
+            },
+            "example": "He stepped through the portal into another world.",
+            "translation": {
+                "ko": "그는 그 관문을 통해 다른 세계로 들어갔다.",
+                "ja": "彼は別の世界へのポータルを通って進んだ",
+                "zh": "他穿过传送门进入了另一个世界",
+                "fr": "Il franchit le portail pour entrer dans un autre monde"
+            }
+        },
+        {
+            "word": "portcullis",
+            "part_of_speech": "",
+            "origin": "Old French, porte coleice (sliding gate)",
+            "meaning": {
+                "ko": "미닫이문",
+                "en": "sliding door or gate",
+                "ja": "落とし格子門",
+                "zh": "落闸门",
+                "fr": "herse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "port-",
+                    "meaning": {
+                        "ko": "'문'",
+                        "en": "gate",
+                        "ja": "門",
+                        "zh": "门",
+                        "fr": "porte"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cullis (coulant 'sliding')",
+                    "meaning": {
+                        "ko": "'미끄러지는'",
+                        "en": "sliding",
+                        "ja": "滑る",
+                        "zh": "滑动的",
+                        "fr": "glissant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'성문에서 위아래로 미끄러지듯 내리는' 쇠창살 문을 뜻합니다.",
+                "en": "A heavy grille gate that slides up and down vertically at castle entrances",
+                "ja": "城門の上下に滑るように動く重い鉄製の格子門を意味します",
+                "zh": "指在城堡入口处上下滑动的重型铁质格栅门",
+                "fr": "Désigne une porte à grille métallique lourde qui glisse verticalement aux entrées des châteaux"
+            },
+            "example": "The castle was protected by a thick wall and a heavy portcullis.",
+            "translation": {
+                "ko": "그 성은 두꺼운 벽과 무거운 쇠창살 문으로 보호되었다.",
+                "ja": "城は厚い壁と重い落とし格子門で守られていました",
+                "zh": "城堡由厚墙和沉重的落闸门保护",
+                "fr": "Le château était protégé par un mur épais et une lourde herse"
+            }
+        }
+    ]
+}

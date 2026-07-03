@@ -1,0 +1,194 @@
+{
+    "root_info": {
+        "roots": "pat, pass: feel, suffer",
+        "origin": "Latin, pati",
+        "meaning": {
+            "ko": "느끼다, 고통받다",
+            "en": "to feel, to suffer",
+            "ja": "感じる、苦しむ",
+            "zh": "感受、承受痛苦",
+            "fr": "ressentir, souffrir"
+        }
+    },
+    "words": [
+        {
+            "word": "patience",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pat",
+                    "meaning": {
+                        "ko": "견디다",
+                        "en": "to suffer, endure",
+                        "ja": "苦しむ、耐える",
+                        "zh": "忍受、承受",
+                        "fr": "souffrir, endurer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ience",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形式后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'고통을 견디는 성질'이라는 의미에서 '인내', '참을성'을 뜻합니다.",
+                "en": "From the meaning 'the quality of enduring pain,' signifying tolerance and perseverance",
+                "ja": "「苦しみに耐える性質」という意味から、「忍耐力」「我慢強さ」を意味します",
+                "zh": "源自「忍受痛苦的性质」的含义，表示耐心和恒心",
+                "fr": "Du sens de « la qualité d'endurer la souffrance », signifiant tolérance et persévérance"
+            },
+            "example": "You need a lot of patience to be a teacher.",
+            "translation": {
+                "ko": "교사가 되려면 많은 인내가 필요하다.",
+                "ja": "教師になるには、たくさんの忍耐力が必要です。",
+                "zh": "要成为教师，需要很多耐心。",
+                "fr": "Il faut beaucoup de patience pour être enseignant."
+            }
+        },
+        {
+            "word": "passive",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pass",
+                    "meaning": {
+                        "ko": "겪다, 당하다",
+                        "en": "to suffer",
+                        "ja": "受ける、被る",
+                        "zh": "遭受、承受",
+                        "fr": "subir, souffrir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ive",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形式后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'행동하기보다 당하는' 성질이라는 의미에서 '수동적인', '소극적인'이라는 뜻입니다.",
+                "en": "From the sense of 'undergoing rather than acting'—meaning passive or inactive in nature",
+                "ja": "「行動するより受け身である」という意味から、「受動的な」「消極的な」という意味になります。",
+                "zh": "从「遭受而非行动」的含义引申，表示「被动的」「消极的」之意。",
+                "fr": "Du sens de « subir plutôt que d'agir »—signifiant passif ou inactif par nature"
+            },
+            "example": "He has a very passive personality.",
+            "translation": {
+                "ko": "그는 매우 소극적인 성격을 가졌다.",
+                "ja": "彼は非常に受動的な性格を持っている。",
+                "zh": "他性格非常被动。",
+                "fr": "Il a une personnalité très passive."
+            }
+        },
+        {
+            "word": "compassion",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pass",
+                    "meaning": {
+                        "ko": "고통받다",
+                        "en": "to suffer",
+                        "ja": "苦しむ",
+                        "zh": "受苦",
+                        "fr": "souffrir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "다른 사람과 '함께 고통을 느끼는 마음'이라는 의미에서 '연민', '동정심'을 뜻합니다.",
+                "en": "Compassion literally means 'feeling suffering together with others,' expressing sympathy and empathy.",
+                "ja": "他者と『一緒に苦しみを感じる心』という意味から、『同情心』『共感』を表します。",
+                "zh": "源于与他人'一起感受痛苦的心'之意，表示'同情心''怜悯'。",
+                "fr": "Littéralement 'ressentir la souffrance ensemble avec autrui', exprimant la sympathie et l'empathie."
+            },
+            "example": "She felt compassion for the poor.",
+            "translation": {
+                "ko": "그녀는 가난한 사람들에게 연민을 느꼈다.",
+                "ja": "彼女は貧困者たちに対して同情心を感じた。",
+                "zh": "她对穷人感到了同情。",
+                "fr": "Elle ressentait de la compassion pour les pauvres."
+            }
+        },
+        {
+            "word": "passion",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pass",
+                    "meaning": {
+                        "ko": "고통받다",
+                        "en": "to suffer",
+                        "ja": "苦しむ",
+                        "zh": "遭受苦难",
+                        "fr": "souffrir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 그리스도의 '수난'을 의미했으나, 견디기 힘든 '강렬한 감정'이라는 의미로 확장되어 '열정', '격정'을 뜻하게 되었습니다.",
+                "en": "Originally meant Christ's suffering, later extended to intense emotion difficult to endure, now meaning fervor or intensity",
+                "ja": "もともとキリストの『受難』を意味していたが、耐え難い『強い感情』という意味に拡張され、『熱情』『激情』を意味するようになりました。",
+                "zh": "原本指耶稣基督的『苦难』，后来扩展为难以忍受的『强烈情感』之意，现指『热情』『激情』。",
+                "fr": "Signifiait d'abord la 'Passion du Christ', puis s'est étendu à une 'émotion intense' difficile à supporter, désormais 'ardeur' ou 'ferveur'."
+            },
+            "example": "He spoke with great passion.",
+            "translation": {
+                "ko": "그는 큰 열정을 가지고 말했다.",
+                "ja": "彼は大きな情熱を込めて話した。",
+                "zh": "他满怀热情地说话。",
+                "fr": "Il a parlé avec une grande passion."
+            }
+        }
+    ]
+}

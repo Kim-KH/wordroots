@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "mamm (breast) mammal, mammary, mammogram",
+        "origin": "Latin, mamma (breast)",
+        "meaning": {
+            "ko": "가슴, 젖",
+            "en": "breast",
+            "ja": "胸、乳房",
+            "zh": "胸部、乳房",
+            "fr": "poitrine, sein"
+        }
+    },
+    "words": [
+        {
+            "word": "mammal",
+            "part_of_speech": "",
+            "origin": "Latin, mammalis (of the breast)",
+            "meaning": {
+                "ko": "가슴의",
+                "en": "of the breast",
+                "ja": "胸の、哺乳類の",
+                "zh": "胸部的、哺乳动物的",
+                "fr": "de la poitrine, mammifère"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mamm-",
+                    "meaning": {
+                        "ko": "'젖'",
+                        "en": "breast",
+                        "ja": "乳、授乳",
+                        "zh": "乳汁、哺乳",
+                        "fr": "sein, allaitement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'젖을 먹여 새끼를 기르는' 동물이라는 의미에서 '포유동물'을 뜻합니다.",
+                "en": "Refers to animals that nurse their young with breast milk, meaning 'mammals'.",
+                "ja": "乳で子を育てる動物という意味で、'哺乳動物'を指します。",
+                "zh": "指用乳汁哺育后代的动物，意为'哺乳动物'。",
+                "fr": "Désigne les animaux qui allaitent leurs jeunes avec du lait maternel, signifiant 'mammifères'."
+            },
+            "example": "Humans, dogs, and whales are all mammals.",
+            "translation": {
+                "ko": "인간, 개, 고래는 모두 포유동물이다.",
+                "ja": "人間、犬、クジラはすべて哺乳類です。",
+                "zh": "人类、狗和鲸鱼都是哺乳动物。",
+                "fr": "Les humains, les chiens et les baleines sont tous des mammifères."
+            }
+        },
+        {
+            "word": "mammary",
+            "part_of_speech": "",
+            "origin": "Latin, mammarius (of the breast)",
+            "meaning": {
+                "ko": "가슴의",
+                "en": "of the breast",
+                "ja": "乳房の",
+                "zh": "乳房的",
+                "fr": "mammaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mamm-",
+                    "meaning": {
+                        "ko": "'젖'",
+                        "en": "breast",
+                        "ja": "乳房",
+                        "zh": "乳房",
+                        "fr": "sein"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'젖의', '유방의'라는 뜻입니다.",
+                "en": "Meaning breast-related or of the breast",
+                "ja": "乳房に関する、乳房の",
+                "zh": "与乳房有关的、乳房的",
+                "fr": "relatif au sein, du sein"
+            },
+            "example": "The mammary glands produce milk.",
+            "translation": {
+                "ko": "젖샘은 젖을 생산한다.",
+                "ja": "乳腺は牛乳を産出する。",
+                "zh": "乳腺产生牛奶。",
+                "fr": "Les glandes mammaires produisent du lait."
+            }
+        },
+        {
+            "word": "mammogram",
+            "part_of_speech": "",
+            "origin": "Latin, mamma (breast) + Greek, gramma (thing written)",
+            "meaning": {
+                "ko": "가슴 기록",
+                "en": "breast record",
+                "ja": "乳房の記録",
+                "zh": "乳房记录",
+                "fr": "enregistrement mammaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mammo-",
+                    "meaning": {
+                        "ko": "'유방'",
+                        "en": "breast",
+                        "ja": "乳房",
+                        "zh": "乳房",
+                        "fr": "sein"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "'기록, 영상'",
+                        "en": "record",
+                        "ja": "記録、画像",
+                        "zh": "记录、影像",
+                        "fr": "enregistrement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유방의 X선 촬영 사진'을 뜻합니다.",
+                "en": "A mammogram is an X-ray image of the breast used for cancer screening",
+                "ja": "乳房のX線撮影写真を意味します",
+                "zh": "指乳房的X光摄影照片",
+                "fr": "Photographie radiographique du sein pour dépistage du cancer"
+            },
+            "example": "A mammogram can help detect breast cancer early.",
+            "translation": {
+                "ko": "유방 X선 사진은 유방암을 조기에 발견하는 데 도움이 될 수 있다.",
+                "ja": "マンモグラム",
+                "zh": "乳房X线摄影",
+                "fr": "mammographie"
+            }
+        }
+    ]
+}

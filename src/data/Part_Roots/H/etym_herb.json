@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "herb(a) (plant) herbaceous, herbal, herbalist, herbivore",
+        "origin": "Latin, herba (grass, herb)",
+        "meaning": {
+            "ko": "풀",
+            "en": "grass, herb",
+            "ja": "草",
+            "zh": "草",
+            "fr": "herbe"
+        }
+    },
+    "words": [
+        {
+            "word": "herbaceous",
+            "part_of_speech": "",
+            "origin": "Latin, herbaceus (grassy)",
+            "meaning": {
+                "ko": "풀의",
+                "en": "of grass",
+                "ja": "草のような植物の",
+                "zh": "草本植物的",
+                "fr": "herbacé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "herb-",
+                    "meaning": {
+                        "ko": "'풀'",
+                        "en": "herb",
+                        "ja": "草",
+                        "zh": "草",
+                        "fr": "herbe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나무와 달리 줄기가 목질이 아닌 풀 같은' 식물을 의미하여 '초본의'라고 합니다.",
+                "en": "Refers to plants with non-woody stems unlike trees, called herbaceous.",
+                "ja": "木と異なり、茎が木質ではない草のような植物を意味し、『草本の』と言います。",
+                "zh": "与树木不同，茎不是木质的草本植物，称为'草本的'。",
+                "fr": "Plantes avec tiges non ligneuses contrairement aux arbres, appelées herbacées."
+            },
+            "example": "Peonies are herbaceous perennials.",
+            "translation": {
+                "ko": "작약은 초본성 다년생 식물이다.",
+                "ja": "シャクヤクは草本の多年草です。",
+                "zh": "牡丹是草本多年生植物。",
+                "fr": "Les pivoines sont des vivaces herbacées."
+            }
+        },
+        {
+            "word": "herbal",
+            "part_of_speech": "",
+            "origin": "Latin, herba (herb)",
+            "meaning": {
+                "ko": "풀",
+                "en": "grass or plant",
+                "ja": "草本植物の",
+                "zh": "草本植物的",
+                "fr": "à base de plantes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "herb-",
+                    "meaning": {
+                        "ko": "'풀, 약초'",
+                        "en": "herb",
+                        "ja": "草、薬草",
+                        "zh": "草、药草",
+                        "fr": "herbe, plante médicinale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'약초의' 또는 '약초로 만든'이라는 뜻입니다.",
+                "en": "Means 'of herbs' or 'made from herbs'",
+                "ja": "草や薬草で作られた、という意味です",
+                "zh": "表示用草药制成或与草药有关",
+                "fr": "Signifie 'fait à partir d'herbes' ou 'contenant des herbes'"
+            },
+            "example": "She drinks herbal tea to help her relax.",
+            "translation": {
+                "ko": "그녀는 휴식을 취하기 위해 허브차를 마신다.",
+                "ja": "彼女はリラックスするために薬草茶を飲みます。",
+                "zh": "她喝草药茶来帮助她放松。",
+                "fr": "Elle boit du thé à base de plantes pour l'aider à se détendre."
+            }
+        },
+        {
+            "word": "herbalist",
+            "part_of_speech": "",
+            "origin": "Latin, herba (herb)",
+            "meaning": {
+                "ko": "풀",
+                "en": "grass",
+                "ja": "薬草専門家",
+                "zh": "草药专家",
+                "fr": "herboriste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "herb-",
+                    "meaning": {
+                        "ko": "'약초'",
+                        "en": "herb",
+                        "ja": "薬草",
+                        "zh": "草药",
+                        "fr": "herbe médicinale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'약초를 전문적으로 다루는 사람'인 '약초 전문가'를 뜻합니다.",
+                "en": "A person who specializes in handling medicinal herbs",
+                "ja": "薬草を専門的に扱う人のこと",
+                "zh": "专门处理草药的人",
+                "fr": "Une personne qui se spécialise dans les herbes médicinales"
+            },
+            "example": "The herbalist recommended a mixture of herbs for her cough.",
+            "translation": {
+                "ko": "약초 전문가는 그녀의 기침에 여러 약초를 섞은 것을 추천했다.",
+                "ja": "その薬草専門家は彼女の咳のために薬草の混合物を勧めた。",
+                "zh": "那位草药专家为她的咳嗽推荐了一种草药混合物。",
+                "fr": "L'herboriste a recommandé un mélange d'herbes pour sa toux."
+            }
+        },
+        {
+            "word": "herbivore",
+            "part_of_speech": "",
+            "origin": "Latin, herba (plant) + vorare (to devour)",
+            "meaning": {
+                "ko": "풀을 먹는",
+                "en": "eating grass or plants",
+                "ja": "草を食べる動物",
+                "zh": "吃草的动物",
+                "fr": "animal qui mange des plantes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "herbi-",
+                    "meaning": {
+                        "ko": "'풀'",
+                        "en": "plant",
+                        "ja": "植物",
+                        "zh": "植物",
+                        "fr": "plante"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vore",
+                    "meaning": {
+                        "ko": "'먹는 동물'",
+                        "en": "eating animal",
+                        "ja": "食べる動物",
+                        "zh": "食草动物",
+                        "fr": "animal mangeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물을 먹고 사는 동물'인 '초식동물'을 뜻합니다.",
+                "en": "An animal that feeds on plants and vegetation",
+                "ja": "植物を食べて生きる動物、つまり草食動物を意味します",
+                "zh": "指以植物为食的动物，即食草动物",
+                "fr": "Un animal qui se nourrit de plantes et de végétation"
+            },
+            "example": "Cows and sheep are herbivores.",
+            "translation": {
+                "ko": "소와 양은 초식동물이다.",
+                "ja": "ウシとヒツジは草食動物です",
+                "zh": "牛和羊是食草动物",
+                "fr": "Les vaches et les moutons sont des herbivores"
+            }
+        }
+    ]
+}

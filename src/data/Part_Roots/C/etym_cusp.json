@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "cusp (point) cusp, cuspid, bicuspid",
+        "origin": "Latin, cuspis (point, tip)",
+        "meaning": {
+            "ko": "뾰족한 끝",
+            "en": "point",
+            "ja": "点",
+            "zh": "点",
+            "fr": "point"
+        }
+    },
+    "words": [
+        {
+            "word": "cusp",
+            "part_of_speech": "",
+            "origin": "Latin, cuspis (point)",
+            "meaning": {
+                "ko": "뾰족한 끝",
+                "en": "pointed end",
+                "ja": "先端、尖った点",
+                "zh": "尖端、尖点",
+                "fr": "pointe acérée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cusp-",
+                    "meaning": {
+                        "ko": "'뾰족한 끝'",
+                        "en": "point",
+                        "ja": "先端",
+                        "zh": "尖端",
+                        "fr": "pointe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뾰족한 끝부분'을 의미하며, 특히 두 곡선이 만나는 뾰족한 지점이나 변화의 '정점', '기로'를 뜻합니다.",
+                "en": "Refers to a pointed end, especially the sharp point where two curves meet or a turning point and crossroads of change.",
+                "ja": "尖った端部を意味し、特に2つの曲線が交わる尖った地点や変化の転機や分岐点を指す。",
+                "zh": "指尖锐的末端，特别是两条曲线相交的尖点或变化的转折点、分岔点。",
+                "fr": "Désigne une extrémité pointue, notamment le point aigü où deux courbes se rencontrent ou un tournant et carrefour de changement."
+            },
+            "example": "We are on the cusp of a new era in technology.",
+            "translation": {
+                "ko": "우리는 기술의 새로운 시대의 정점에 서 있다.",
+                "ja": "私たちは技術の新しい時代の寸前にいます。",
+                "zh": "我们处于技术新时代的关键时刻。",
+                "fr": "Nous sommes à la veille d'une nouvelle ère technologique."
+            }
+        },
+        {
+            "word": "cuspid",
+            "part_of_speech": "",
+            "origin": "Latin, cuspis (point)",
+            "meaning": {
+                "ko": "뾰족한 끝",
+                "en": "pointed end",
+                "ja": "先端の鋭い歯",
+                "zh": "尖端牙齿",
+                "fr": "dent pointue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cusp-",
+                    "meaning": {
+                        "ko": "'뾰족한 끝'",
+                        "en": "point",
+                        "ja": "先端",
+                        "zh": "尖端",
+                        "fr": "pointe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뾰족한 끝이 있는' 치아라는 의미에서 '송곳니'를 뜻합니다.",
+                "en": "Refers to canine teeth that have a pointed end",
+                "ja": "先端が鋭い歯という意味で、犬歯を指します",
+                "zh": "指具有尖端的犬齿",
+                "fr": "Fait référence aux canines qui ont une extrémité pointue"
+            },
+            "example": "The canines are also known as cuspids.",
+            "translation": {
+                "ko": "견치는 송곳니로도 알려져 있다.",
+                "ja": "犬歯はcuspidsとも呼ばれています。",
+                "zh": "犬齿也被称为cuspids。",
+                "fr": "Les canines sont aussi appelées cuspides."
+            }
+        },
+        {
+            "word": "bicuspid",
+            "part_of_speech": "",
+            "origin": "Latin, bi- (two) + cuspis (point)",
+            "meaning": {
+                "ko": "두 개의 뾰족한 끝",
+                "en": "two pointed ends",
+                "ja": "2つの尖端を持つ",
+                "zh": "两个尖端",
+                "fr": "deux pointes"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cuspid",
+                    "meaning": {
+                        "ko": "'뾰족한 끝'",
+                        "en": "pointed end",
+                        "ja": "尖端",
+                        "zh": "尖端",
+                        "fr": "pointe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뾰족한 끝(교두)이 두 개 있는' 치아라는 의미에서 '소구치(작은 어금니)'를 뜻합니다.",
+                "en": "A tooth with two cusps, located between canines and molars, also called a premolar.",
+                "ja": "2つの教頭を持つ歯で、犬歯と大臼歯の間に位置する小臼歯を意味します。",
+                "zh": "具有两个牙尖的牙齿，位于尖牙和臼齿之间，也称为前磨牙。",
+                "fr": "Une dent avec deux cuspides, située entre les canines et les molaires, aussi appelée prémolaire."
+            },
+            "example": "The bicuspid teeth are located between the canines and molars.",
+            "translation": {
+                "ko": "소구치는 송곳니와 어금니 사이에 위치한다.",
+                "ja": "二小臼歯の歯は犬歯と大臼歯の間に位置しています。",
+                "zh": "双尖牙位于尖牙和臼齿之间。",
+                "fr": "Les dents bicuspides sont situées entre les canines et les molaires."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "pseudo (false) pseudonym, pseudopod, pseudoscience",
+        "origin": "Greek, pseudes (false)",
+        "meaning": {
+            "ko": "거짓의",
+            "en": "false",
+            "ja": "偽の",
+            "zh": "假",
+            "fr": "faux"
+        }
+    },
+    "words": [
+        {
+            "word": "pseudonym",
+            "part_of_speech": "",
+            "origin": "Greek, pseudonymon (falsely named)",
+            "meaning": {
+                "ko": "거짓 이름의",
+                "en": "of a false name",
+                "ja": "偽りの名前",
+                "zh": "虚假的名字",
+                "fr": "faux nom"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pseudo-",
+                    "meaning": {
+                        "ko": "'거짓의'",
+                        "en": "false",
+                        "ja": "偽りの",
+                        "zh": "虚假的",
+                        "fr": "faux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nym",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'거짓으로 사용하는 이름'이라는 의미에서 작가 등이 본명 대신 사용하는 '필명', '가명'을 뜻합니다.",
+                "en": "A fictitious name used by writers and others instead of their real name; also known as pen name or alias.",
+                "ja": "作家などが本名の代わりに使う、虚偽の名前のこと。筆名や仮名とも呼ばれます。",
+                "zh": "作家等为代替真名而使用的虚假名字，也称为笔名或化名。",
+                "fr": "Nom fictif utilisé par les écrivains et autres à la place de leur vrai nom; aussi appelé nom de plume ou pseudonyme."
+            },
+            "example": "Mark Twain is the pseudonym of the American writer Samuel Clemens.",
+            "translation": {
+                "ko": "마크 트웨인은 미국 작가 새뮤얼 클레멘스의 필명이다.",
+                "ja": "ペンネーム",
+                "zh": "笔名",
+                "fr": "pseudonyme"
+            }
+        },
+        {
+            "word": "pseudopod",
+            "part_of_speech": "",
+            "origin": "Greek, pseudes (false) + pous (foot)",
+            "meaning": {
+                "ko": "거짓 발",
+                "en": "false foot",
+                "ja": "偽足",
+                "zh": "伪足",
+                "fr": "pseudopode"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pseudo-",
+                    "meaning": {
+                        "ko": "'거짓의'",
+                        "en": "false",
+                        "ja": "偽りの",
+                        "zh": "虚假的",
+                        "fr": "faux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "false",
+                        "ja": "足",
+                        "zh": "足",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "아메바 등이 움직이거나 먹이를 잡기 위해 일시적으로 내미는 '거짓 발'이라는 의미에서 '위족(僞足)'을 뜻합니다.",
+                "en": "A temporary foot-like projection that amoebas and similar organisms extend to move or capture food.",
+                "ja": "アメーバなどが移動したり食料をつかむために一時的に出す『偽足』という意味です。",
+                "zh": "阿米巴等生物为了移动或捕捉食物而临时伸出的『伪足』的意思。",
+                "fr": "Une projection ressemblant à un pied que les amibes étendent temporairement pour se déplacer ou capturer de la nourriture."
+            },
+            "example": "An amoeba moves by extending its pseudopods.",
+            "translation": {
+                "ko": "아메바는 위족을 뻗어 움직인다.",
+                "ja": "アメーバは偽足を伸ばして移動します。",
+                "zh": "阿米巴通过伸出伪足来移动。",
+                "fr": "Une amibe se déplace en étendant ses pseudopodes."
+            }
+        },
+        {
+            "word": "pseudoscience",
+            "part_of_speech": "",
+            "origin": "Greek, pseudes (false) + Latin, scientia (knowledge)",
+            "meaning": {
+                "ko": "거짓 과학",
+                "en": "false science",
+                "ja": "似非科学",
+                "zh": "伪科学",
+                "fr": "pseudoscience"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pseudo-",
+                    "meaning": {
+                        "ko": "'거짓의'",
+                        "en": "false",
+                        "ja": "偽りの",
+                        "zh": "虚假的",
+                        "fr": "faux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "science",
+                    "meaning": {
+                        "ko": "'과학'",
+                        "en": "science",
+                        "ja": "科学",
+                        "zh": "科学",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "과학적인 방법론에 근거하지 않았지만 '과학인 것처럼 보이는' 학문이라는 의미에서 '의사(유사) 과학'을 뜻합니다.",
+                "en": "Refers to a field of study that appears to be scientific but is not based on scientific methodology; often called quasi-science or pseudo-science.",
+                "ja": "科学的方法論に基づかないが『科学のように見える』学問という意味で『疑似科学』を意味します。",
+                "zh": "指不基于科学方法论但看起来像科学的学科，意为『类似科学』或『伪科学』。",
+                "fr": "Désigne un domaine d'étude qui semble scientifique mais n'est pas fondé sur la méthodologie scientifique."
+            },
+            "example": "Astrology is often considered a pseudoscience.",
+            "translation": {
+                "ko": "점성술은 종종 의사 과학으로 여겨진다.",
+                "ja": "占星術はしばしば似非科学と見なされています。",
+                "zh": "占星术通常被认为是伪科学。",
+                "fr": "L'astrologie est souvent considérée comme une pseudoscience."
+            }
+        }
+    ]
+}

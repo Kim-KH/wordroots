@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "sangui (blood) sanguine, sanguinary, sanguineous",
+        "origin": "Latin, sanguis (blood)",
+        "meaning": {
+            "ko": "피",
+            "en": "blood",
+            "ja": "血",
+            "zh": "血",
+            "fr": "sang"
+        }
+    },
+    "words": [
+        {
+            "word": "sanguine",
+            "part_of_speech": "",
+            "origin": "Latin, sanguineus (of blood, bloody)",
+            "meaning": {
+                "ko": "피의",
+                "en": "of blood",
+                "ja": "楽観的な、前向きな",
+                "zh": "乐观的、积极的",
+                "fr": "optimiste, confiant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sangui-",
+                    "meaning": {
+                        "ko": "'피'",
+                        "en": "blood",
+                        "ja": "血",
+                        "zh": "血",
+                        "fr": "sang"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 의학에서 '피가 많은' 기질은 쾌활하다고 생각한 데서 유래하여 '낙관적인', '쾌활한'이라는 뜻이 되었습니다.",
+                "en": "In ancient medicine, the temperament of having abundant blood was thought to be cheerful, leading to the meanings 'optimistic' and 'cheerful'.",
+                "ja": "古代医学では、血液が豊富な気質は陽気だと考えられ、『楽観的な』『陽気な』という意味になりました。",
+                "zh": "在古代医学中，血液充足的气质被认为是愉快的，因此产生了'乐观的''愉快的'的含义。",
+                "fr": "En médecine antique, le tempérament d'une personne ayant beaucoup de sang était considéré comme joyeux, d'où les sens 'optimiste' et 'gai'."
+            },
+            "example": "He is sanguine about the company's future.",
+            "translation": {
+                "ko": "그는 회사의 미래에 대해 낙관적이다.",
+                "ja": "彼は会社の将来について楽観的だ。",
+                "zh": "他对公司的未来很乐观。",
+                "fr": "Il est optimiste quant à l'avenir de l'entreprise."
+            }
+        },
+        {
+            "word": "sanguinary",
+            "part_of_speech": "",
+            "origin": "Latin, sanguinarius (bloodthirsty)",
+            "meaning": {
+                "ko": "피에 굶주린",
+                "en": "bloodthirsty, craving blood",
+                "ja": "血に飢えた",
+                "zh": "嗜血的",
+                "fr": "assoiffé de sang"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sangui-",
+                    "meaning": {
+                        "ko": "'피'",
+                        "en": "blood",
+                        "ja": "血",
+                        "zh": "血",
+                        "fr": "sang"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피를 흘리는', '잔인한'이라는 뜻입니다.",
+                "en": "Means 'involving bloodshed' or 'cruel'",
+                "ja": "流血を伴う、残酷という意味",
+                "zh": "意为流血或残忍",
+                "fr": "Signifie impliquant effusion de sang ou cruel"
+            },
+            "example": "It was a sanguinary battle.",
+            "translation": {
+                "ko": "그것은 피비린내 나는 전투였다.",
+                "ja": "それは血生臭い戦いだった。",
+                "zh": "那是一场血腥的战役。",
+                "fr": "C'était une bataille sanglante."
+            }
+        },
+        {
+            "word": "sanguineous",
+            "part_of_speech": "",
+            "origin": "Latin, sanguineus (of blood)",
+            "meaning": {
+                "ko": "피의",
+                "en": "of or relating to blood",
+                "ja": "血性の",
+                "zh": "含血的",
+                "fr": "sanguin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sangui-",
+                    "meaning": {
+                        "ko": "'피'",
+                        "en": "blood",
+                        "ja": "血",
+                        "zh": "血",
+                        "fr": "sang"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피의', '피를 포함하는'이라는 의학 용어입니다.",
+                "en": "A medical term meaning 'of blood' or 'containing blood'",
+                "ja": "血を含む医学用語",
+                "zh": "含血的医学术语",
+                "fr": "Terme médical signifiant contenant du sang"
+            },
+            "example": "A sanguineous discharge from the wound is a sign of infection.",
+            "translation": {
+                "ko": "상처에서 피가 섞인 분비물이 나오는 것은 감염의 징후이다.",
+                "ja": "創傷からの血性分泌物は感染の兆候です",
+                "zh": "伤口的含血分泌物是感染的迹象",
+                "fr": "Un écoulement sanglant de la plaie est un signe d'infection"
+            }
+        }
+    ]
+}

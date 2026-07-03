@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "umbilic (navel) umbilical, umbilicus",
+        "origin": "Latin, umbilicus (the navel)",
+        "meaning": {
+            "ko": "배꼽",
+            "en": "the navel",
+            "ja": "へそ",
+            "zh": "肚脐",
+            "fr": "le nombril"
+        }
+    },
+    "words": [
+        {
+            "word": "umbilical",
+            "part_of_speech": "",
+            "origin": "Latin, umbilicalis (of the navel)",
+            "meaning": {
+                "ko": "배꼽의",
+                "en": "of the umbilicus",
+                "ja": "臍の、へその",
+                "zh": "脐的、肚脐的",
+                "fr": "ombilical, du nombril"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "umbilic-",
+                    "meaning": {
+                        "ko": "'배꼽'",
+                        "en": "navel",
+                        "ja": "臍、へそ",
+                        "zh": "脐、肚脐",
+                        "fr": "nombril, ombilic"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'배꼽의'라는 뜻으로, 주로 '탯줄(umbilical cord)'을 가리킵니다.",
+                "en": "Means 'of the navel', mainly referring to 'umbilical cord'",
+                "ja": "臍に関する意味で、主に臍帯を指します",
+                "zh": "意为脐的，主要指脐带",
+                "fr": "Signifie relatif au nombril, désignant principalement le cordon ombilical"
+            },
+            "example": "The baby's umbilical cord was cut after birth.",
+            "translation": {
+                "ko": "아기의 탯줄은 출생 후에 잘렸다.",
+                "ja": "赤ちゃんの臍帯は出生後に切断されました。",
+                "zh": "婴儿的脐带在出生后被剪断。",
+                "fr": "Le cordon ombilical du bébé a été coupé après la naissance."
+            }
+        },
+        {
+            "word": "umbilicus",
+            "part_of_speech": "",
+            "origin": "Latin, umbilicus (the navel)",
+            "meaning": {
+                "ko": "배꼽",
+                "en": "navel or belly button",
+                "ja": "臍、へそ",
+                "zh": "肚脐",
+                "fr": "ombilic"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "umbilic-",
+                    "meaning": {
+                        "ko": "'배꼽'",
+                        "en": "navel",
+                        "ja": "臍、へそ",
+                        "zh": "肚脐",
+                        "fr": "ombilic"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'배꼽'을 뜻하는 해부학 용어입니다.",
+                "en": "Anatomical term meaning navel",
+                "ja": "へそを意味する解剖学用語です",
+                "zh": "表示肚脐的解剖学术语",
+                "fr": "Terme anatomique signifiant nombril"
+            },
+            "example": "The umbilicus is the scar left after the umbilical cord is removed.",
+            "translation": {
+                "ko": "배꼽은 탯줄이 제거된 후 남은 흉터이다.",
+                "ja": "臍は臍帯が除去された後に残る傷です。",
+                "zh": "脐是脐带被移除后留下的疤痕。",
+                "fr": "L'ombilic est la cicatrice laissée après l'ablation du cordon ombilical."
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "libra (balance) deliberate, equilibrium",
+        "origin": "Latin, libra (balance, scales)",
+        "meaning": {
+            "ko": "균형, 저울",
+            "en": "balance",
+            "ja": "バランス、天秤",
+            "zh": "平衡、天平",
+            "fr": "équilibre, balance"
+        }
+    },
+    "words": [
+        {
+            "word": "deliberate",
+            "part_of_speech": "",
+            "origin": "Latin, deliberare (to weigh well)",
+            "meaning": {
+                "ko": "잘 저울질하다",
+                "en": "to weigh carefully",
+                "ja": "よく考えた、意図的な",
+                "zh": "仔细考虑、故意的",
+                "fr": "réfléchi, intentionnel"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'완전히'",
+                        "en": "thoroughly",
+                        "ja": "完全に",
+                        "zh": "彻底地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liber- (libra)",
+                    "meaning": {
+                        "ko": "'저울질하다'",
+                        "en": "to weigh",
+                        "ja": "秤量する",
+                        "zh": "权衡",
+                        "fr": "peser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양쪽을 저울에 놓고 신중히 재보다'는 의미에서 '신중한', '의도적인'이라는 뜻이 되었습니다. 동사로는 '숙고하다'라는 뜻입니다.",
+                "en": "From the sense of placing both sides on a scale and carefully measuring, it came to mean 'careful' or 'intentional'. As a verb, it means 'to ponder'.",
+                "ja": "両側を秤に置いて慎重に計るという意味から、'慎重な'、'意図的な'という意味になった。動詞としては'熟考する'という意味です。",
+                "zh": "从将双方放在天平上仔细衡量的意义演变为'谨慎的''故意的'之意。作为动词意为'深思熟虑'。",
+                "fr": "De l'idée de placer les deux côtés sur une balance et de mesurer soigneusement, le sens est devenu 'délibéré' ou 'intentionnel'. Comme verbe, cela signifie 'peser mûrement'."
+            },
+            "example": "It was a deliberate act of cruelty.",
+            "translation": {
+                "ko": "그것은 의도적인 잔혹 행위였다.",
+                "ja": "それは意図的な残酷行為だった。",
+                "zh": "那是一种故意的残忍行为。",
+                "fr": "C'était un acte de cruauté délibéré."
+            }
+        },
+        {
+            "word": "equilibrium",
+            "part_of_speech": "",
+            "origin": "Latin, aequilibrium (an even balance)",
+            "meaning": {
+                "ko": "고른 균형",
+                "en": "even balance",
+                "ja": "釣り合い、平衡",
+                "zh": "均衡、平衡",
+                "fr": "équilibre, balance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "equi-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "等しい",
+                        "zh": "相等、相同",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "libri- (libra)",
+                    "meaning": {
+                        "ko": "'균형'",
+                        "en": "balance",
+                        "ja": "釣り合い、バランス",
+                        "zh": "平衡、均衡",
+                        "fr": "équilibre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양쪽의 무게가 같아 이룬 균형'이라는 의미에서 '평형', '균형'을 뜻합니다.",
+                "en": "Means balance or equilibrium where both sides have equal weight",
+                "ja": "両側の重さが等しく成立つ釣り合いという意味で平衡を表します",
+                "zh": "表示两边重量相等而形成的平衡，意为平衡或均衡",
+                "fr": "Signifie l'équilibre où les deux côtés ont un poids égal"
+            },
+            "example": "The two forces are in equilibrium.",
+            "translation": {
+                "ko": "두 힘은 평형 상태에 있다.",
+                "ja": "2つの力が釣り合っている。",
+                "zh": "两个力处于平衡状态。",
+                "fr": "Les deux forces sont en équilibre."
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "flor (flower) flora, Florida, florist",
+        "origin": "Latin, flos, floris (flower)",
+        "meaning": {
+            "ko": "꽃",
+            "en": "flower",
+            "ja": "花",
+            "zh": "花",
+            "fr": "fleur"
+        }
+    },
+    "words": [
+        {
+            "word": "flora",
+            "part_of_speech": "",
+            "origin": "Latin, Flora (goddess of flowers)",
+            "meaning": {
+                "ko": "꽃의 여신",
+                "en": "goddess of flowers",
+                "ja": "花の女神",
+                "zh": "花的女神",
+                "fr": "déesse des fleurs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flor-",
+                    "meaning": {
+                        "ko": "'꽃'",
+                        "en": "flower",
+                        "ja": "花",
+                        "zh": "花",
+                        "fr": "fleur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "로마 신화의 '꽃의 여신' 이름에서 유래하여, '특정 지역이나 시대의 식물 전체'를 의미하는 '식물상'을 뜻합니다.",
+                "en": "Derived from the name of the Roman goddess of flowers, it means 'flora' or 'the plants of a specific region or period'.",
+                "ja": "ローマ神話の花の女神の名前に由来し、特定の地域や時代の植物全体を意味する植物相を指します。",
+                "zh": "源自罗马神话中花之女神的名字，指特定地区或时代的全部植物。",
+                "fr": "Dérivé du nom de la déesse romaine des fleurs, il désigne la flore ou l'ensemble des plantes d'une région ou d'une période spécifique."
+            },
+            "example": "We are studying the flora and fauna of the Amazon rainforest.",
+            "translation": {
+                "ko": "우리는 아마존 열대우림의 식물상과 동물상을 연구하고 있다.",
+                "ja": "アマゾン熱帯雨林の動植物を研究しています。",
+                "zh": "我们正在研究亚马逊热带雨林的动植物。",
+                "fr": "Nous étudions la flore et la faune de la forêt tropicale amazonienne."
+            }
+        },
+        {
+            "word": "Florida",
+            "part_of_speech": "",
+            "origin": "Spanish, Pascua Florida (flowery Easter)",
+            "meaning": {
+                "ko": "꽃의 부활절",
+                "en": "flower's Easter",
+                "ja": "花の復活祭",
+                "zh": "花的复活节",
+                "fr": "Pâques fleurie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Flor-",
+                    "meaning": {
+                        "ko": "'꽃'",
+                        "en": "flower",
+                        "ja": "花",
+                        "zh": "花",
+                        "fr": "fleur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "스페인 탐험가가 '꽃이 만발한 부활절' 시기에 발견하여 붙인 이름입니다.",
+                "en": "Named by Spanish explorers who discovered it during Easter when flowers were in full bloom.",
+                "ja": "スペイン人探検家が花が満開の復活祭の時期に発見して名付けました。",
+                "zh": "西班牙探险家在鲜花盛开的复活节时期发现它后命名。",
+                "fr": "Nommé par des explorateurs espagnols qui l'ont découvert à Pâques quand les fleurs étaient en pleine floraison."
+            },
+            "example": "Florida is known for its sunny weather and beautiful beaches.",
+            "translation": {
+                "ko": "플로리다는 화창한 날씨와 아름다운 해변으로 유명하다.",
+                "ja": "フロリダ州は晴れた天気と美しいビーチで知られています。",
+                "zh": "佛罗里达州以晴朗的天气和美丽的海滩而闻名。",
+                "fr": "La Floride est connue pour son climat ensoleillé et ses magnifiques plages."
+            }
+        },
+        {
+            "word": "florist",
+            "part_of_speech": "",
+            "origin": "Latin, flos (flower)",
+            "meaning": {
+                "ko": "꽃",
+                "en": "flower",
+                "ja": "花屋、花の専門家",
+                "zh": "花店老板、花艺师",
+                "fr": "fleuriste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flor-",
+                    "meaning": {
+                        "ko": "'꽃'",
+                        "en": "flower",
+                        "ja": "花",
+                        "zh": "花",
+                        "fr": "fleur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'꽃을 전문적으로 다루는 사람'이라는 의미에서 '꽃집 주인', '플로리스트'를 뜻합니다.",
+                "en": "Person who professionally handles flowers, meaning flower shop owner or florist",
+                "ja": "花を専門的に扱う人という意味で、花屋の主人またはフローリストを指します",
+                "zh": "专业处理花卉的人，指花店老板或花艺师",
+                "fr": "Personne qui traite professionnellement les fleurs, désignant un propriétaire de magasin de fleurs ou un fleuriste"
+            },
+            "example": "I ordered a bouquet of flowers from the florist.",
+            "translation": {
+                "ko": "나는 꽃집에서 꽃다발을 주문했다.",
+                "ja": "花屋から花束を注文しました。",
+                "zh": "我从花店订购了一束鲜花。",
+                "fr": "J'ai commandé un bouquet de fleurs chez le fleuriste."
+            }
+        }
+    ]
+}

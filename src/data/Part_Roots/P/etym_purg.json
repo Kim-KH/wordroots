@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "purg (purify) purge, purgative, purgatory",
+        "origin": "Latin, purgare (to make pure, to cleanse)",
+        "meaning": {
+            "ko": "정화하다",
+            "en": "to purify",
+            "ja": "浄化する",
+            "zh": "净化",
+            "fr": "purifier"
+        }
+    },
+    "words": [
+        {
+            "word": "purge",
+            "part_of_speech": "",
+            "origin": "Latin, purgare (to cleanse)",
+            "meaning": {
+                "ko": "깨끗하게 하다",
+                "en": "to make clean",
+                "ja": "浄化する、除去する",
+                "zh": "清洗、清除",
+                "fr": "purifier, éliminer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "purg-",
+                    "meaning": {
+                        "ko": "'깨끗하게 하다'",
+                        "en": "to cleanse",
+                        "ja": "浄化する",
+                        "zh": "清洁",
+                        "fr": "nettoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'불필요하거나 해로운 것을 제거하여 깨끗하게 하다'는 의미에서 '(조직에서) 숙청하다', '제거하다'라는 뜻입니다.",
+                "en": "To remove unnecessary or harmful things to cleanse; meaning to purge or eliminate from an organization",
+                "ja": "不要または有害なものを除去して浄化すること。組織から粛清または削除することを意味します",
+                "zh": "通过移除不必要或有害的东西来清洁;指从组织中清除或消除",
+                "fr": "Nettoyer en supprimant les choses inutiles ou nuisibles; signifie épurer ou éliminer d'une organisation"
+            },
+            "example": "The new leader purged the party of his rivals.",
+            "translation": {
+                "ko": "새로운 지도자는 당에서 그의 경쟁자들을 숙청했다.",
+                "ja": "新しいリーダーは党から対立者を粛清した",
+                "zh": "新领导人清除了党内的对手",
+                "fr": "Le nouveau leader a épuré le parti de ses rivaux"
+            }
+        },
+        {
+            "word": "purgative",
+            "part_of_speech": "",
+            "origin": "Latin, purgativus (cleansing)",
+            "meaning": {
+                "ko": "깨끗하게 하는",
+                "en": "making clean",
+                "ja": "浄化する",
+                "zh": "净化的",
+                "fr": "purgatif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "purg-",
+                    "meaning": {
+                        "ko": "'깨끗하게 하다'",
+                        "en": "to cleanse",
+                        "ja": "浄化する",
+                        "zh": "净化",
+                        "fr": "purifier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸을 깨끗하게 하는', 특히 '장을 비우는' 효과가 있는 약인 '설사약'을 뜻합니다.",
+                "en": "A purgative is a strong laxative that cleanses the body, especially by emptying the bowels.",
+                "ja": "身体を浄化する、特に腸を空にする効果のある強力な下剤を意味します。",
+                "zh": "指清洁身体的强力泻药，特别是能清空肠道的药物。",
+                "fr": "Un purgatif est un laxatif puissant qui nettoie le corps, en particulier en vidant les intestins."
+            },
+            "example": "A purgative is a strong laxative.",
+            "translation": {
+                "ko": "설사약은 강력한 변비약이다.",
+                "ja": "浄化薬",
+                "zh": "泻药",
+                "fr": "purgatif"
+            }
+        },
+        {
+            "word": "purgatory",
+            "part_of_speech": "",
+            "origin": "Latin, purgatorium (a means of cleansing)",
+            "meaning": {
+                "ko": "정화하는 수단",
+                "en": "means of purification",
+                "ja": "浄化する手段",
+                "zh": "净化的手段",
+                "fr": "moyen de purification"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "purg-",
+                    "meaning": {
+                        "ko": "'깨끗하게 하다'",
+                        "en": "to cleanse",
+                        "ja": "きれいにする",
+                        "zh": "使清洁",
+                        "fr": "nettoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "가톨릭 교리에서, 죽은 후 '죄를 정화하고 천국에 가기 위해 머무는 장소'인 '연옥'을 뜻합니다.",
+                "en": "In Catholic doctrine, purgatory refers to 'limbo', a place where souls stay after death to purify sins and reach heaven.",
+                "ja": "カトリック教義において、死後に罪を浄化して天国に行くために留まる場所である'煉獄'を意味します。",
+                "zh": "在天主教教义中，是指死后灵魂为净化罪恶而停留以进入天堂的地方'炼狱'。",
+                "fr": "Dans la doctrine catholique, le purgatoire fait référence au 'purgatoire', un lieu où les âmes restent après la mort pour purifier les péchés et atteindre le ciel."
+            },
+            "example": "In Catholic doctrine, purgatory is a state of purification.",
+            "translation": {
+                "ko": "가톨릭 교리에서 연옥은 정화의 상태이다.",
+                "ja": "煉獄",
+                "zh": "炼狱",
+                "fr": "purgatoire"
+            }
+        }
+    ]
+}

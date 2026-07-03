@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "sym (with, same) symbol, symphony, symmetry, sympathy",
+        "origin": "Greek, syn (with, together)",
+        "meaning": {
+            "ko": "함께",
+            "en": "with, together",
+            "ja": "一緒に、共に",
+            "zh": "一起、共同",
+            "fr": "avec, ensemble"
+        }
+    },
+    "words": [
+        {
+            "word": "symbol",
+            "part_of_speech": "",
+            "origin": "Greek, symbolon (token, sign)",
+            "meaning": {
+                "ko": "표시, 징표",
+                "en": "sign or mark",
+                "ja": "記号、象徴",
+                "zh": "符号、象征",
+                "fr": "symbole, signe"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sym- (syn-)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bol (ballein)",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "扔、投掷",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개를 함께 던져(맞춰)보는 것'이라는 의미의 징표에서 유래하여, 추상적인 개념을 나타내는 '상징', '기호'를 뜻하게 되었습니다.",
+                "en": "Derived from the meaning of 'comparing by throwing two things together', it came to mean 'symbol' or 'sign' representing abstract concepts.",
+                "ja": "2つのものを一緒に投げて(照らし合わせて)みることの意味から由来し、抽象的な概念を表す『象徴』『記号』を意味するようになりました。",
+                "zh": "源自'把两个东西一起投掷(对比)来看'的含义,后来演变为表示抽象概念的'象征''符号'。",
+                "fr": "Dérivé du sens de 'comparer en jetant deux choses ensemble', il en est venu à signifier 'symbole' ou 'signe' représentant des concepts abstraits."
+            },
+            "example": "The dove is a symbol of peace.",
+            "translation": {
+                "ko": "비둘기는 평화의 상징이다.",
+                "ja": "鳩は平和の象徴です。",
+                "zh": "鸽子是和平的象征。",
+                "fr": "La colombe est un symbole de la paix."
+            }
+        },
+        {
+            "word": "symphony",
+            "part_of_speech": "",
+            "origin": "Greek, symphonia (harmony of sound)",
+            "meaning": {
+                "ko": "소리의 조화",
+                "en": "harmony of sounds",
+                "ja": "音の調和",
+                "zh": "声音的和谐",
+                "fr": "harmonie sonore"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sym- (syn-)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phony (phone)",
+                    "meaning": {
+                        "ko": "'소리'",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 소리가 함께 어우러진다'는 의미에서 '교향곡' 또는 '조화'를 뜻합니다.",
+                "en": "Multiple sounds harmonized together, meaning 'symphony' or 'harmony'",
+                "ja": "複数の音が一緒に調和する意味で、交響曲または調和を意味します",
+                "zh": "多个声音一起和谐的意思，表示交响曲或和谐",
+                "fr": "Plusieurs sons harmonisés ensemble, signifiant symphonie ou harmonie"
+            },
+            "example": "Beethoven's Fifth Symphony is one of the most famous classical pieces.",
+            "translation": {
+                "ko": "베토벤 5번 교향곡은 가장 유명한 클래식 곡 중 하나이다.",
+                "ja": "ベートーヴェンの第9交響曲は最も有名なクラシック作品の一つです",
+                "zh": "贝多芬的第五交响曲是最著名的古典作品之一",
+                "fr": "La Cinquième Symphonie de Beethoven est l'une des compositions classiques les plus célèbres"
+            }
+        },
+        {
+            "word": "symmetry",
+            "part_of_speech": "",
+            "origin": "Greek, symmetria (due proportion)",
+            "meaning": {
+                "ko": "적절한 비율",
+                "en": "appropriate proportion",
+                "ja": "適切な比率",
+                "zh": "适当的比例",
+                "fr": "proportion appropriée"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sym- (syn-)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "metry (metron)",
+                    "meaning": {
+                        "ko": "'측정'",
+                        "en": "measure",
+                        "ja": "測定",
+                        "zh": "测量",
+                        "fr": "mesurer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 측정했을 때 비율이 맞는 상태'라는 의미에서 '대칭', '균형'을 뜻합니다.",
+                "en": "From the concept of measuring together to have matching proportions, meaning symmetry or balance",
+                "ja": "一緒に測定した時に比率が正しい状態という意味から、対称性や均衡を意味します",
+                "zh": "从一起测量时比例恰当的状态这一概念出发，表示对称性或平衡",
+                "fr": "Du concept de mesurer ensemble pour obtenir des proportions correspondantes, signifiant symétrie ou équilibre"
+            },
+            "example": "The butterfly's wings have perfect symmetry.",
+            "translation": {
+                "ko": "나비의 날개는 완벽한 대칭을 이룬다.",
+                "ja": "チョウの羽は完璧な対称性を持っています",
+                "zh": "蝴蝶的翅膀具有完美的对称性",
+                "fr": "Les ailes du papillon ont une symétrie parfaite"
+            }
+        },
+        {
+            "word": "sympathy",
+            "part_of_speech": "",
+            "origin": "Greek, sympatheia (fellow feeling)",
+            "meaning": {
+                "ko": "함께 느낌",
+                "en": "feeling together",
+                "ja": "共に感じること",
+                "zh": "共同感受",
+                "fr": "ressentir ensemble"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sym- (syn-)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pathy (pathos)",
+                    "meaning": {
+                        "ko": "'감정, 고통'",
+                        "en": "feeling, suffering",
+                        "ja": "感情、苦しみ",
+                        "zh": "感情、痛苦",
+                        "fr": "sentiment, souffrance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람의 감정이나 고통을 함께 느끼는 것'이라는 의미에서 '동정', '공감'을 뜻합니다.",
+                "en": "Sympathy means sharing and understanding the emotions or suffering of others; it conveys the sense of compassion and empathy.",
+                "ja": "同情心とは、他者の感情や苦しみを共に感じ理解することを意味し、思いやりと共感の感覚を示します。",
+                "zh": "同情心是指共同感受和理解他人的情感或痛苦，表示怜悯和共鸣的意义。",
+                "fr": "La sympathie signifie partager et comprendre les émotions ou la souffrance des autres; elle exprime le sens de la compassion et de l'empathie."
+            },
+            "example": "I have great sympathy for the victims of the earthquake.",
+            "translation": {
+                "ko": "저는 그 지진의 희생자들에게 깊은 동정심을 느낍니다.",
+                "ja": "地震の被害者に大きな同情心を抱いています。",
+                "zh": "我对地震受害者有很大的同情。",
+                "fr": "J'éprouve une grande sympathie pour les victimes du tremblement de terre."
+            }
+        }
+    ]
+}

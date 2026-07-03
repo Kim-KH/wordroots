@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "fragi (delicate) fragile, fragility, fragment",
+        "origin": "Latin, frangere (to break)",
+        "meaning": {
+            "ko": "깨뜨리다",
+            "en": "to break",
+            "ja": "壊す",
+            "zh": "打破",
+            "fr": "casser"
+        }
+    },
+    "words": [
+        {
+            "word": "fragile",
+            "part_of_speech": "",
+            "origin": "Latin, fragilis (brittle, frail)",
+            "meaning": {
+                "ko": "깨지기 쉬운",
+                "en": "easily broken",
+                "ja": "壊れやすい",
+                "zh": "易碎的",
+                "fr": "fragile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frag- (frangere)",
+                    "meaning": {
+                        "ko": "'깨뜨리다'",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "打破",
+                        "fr": "casser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'쉽게 깨지는'이라는 의미에서 '부서지기 쉬운', '취약한'이라는 뜻입니다.",
+                "en": "Means easily broken, fragile, or vulnerable in the sense of being easily damaged.",
+                "ja": "簡単に壊れるという意味で、壊れやすい、脆弱な意味です。",
+                "zh": "表示容易破碎，即易损坏、脆弱的意思。",
+                "fr": "Signifie facilement cassé, fragile ou vulnérable au sens de facilement endommagé."
+            },
+            "example": "Be careful with that vase, it's very fragile.",
+            "translation": {
+                "ko": "그 꽃병은 매우 깨지기 쉬우니 조심하세요.",
+                "ja": "そのつぼに気をつけてください、それは非常に壊れやすいです。",
+                "zh": "小心那个花瓶，它很易碎。",
+                "fr": "Attention à ce vase, il est très fragile."
+            }
+        },
+        {
+            "word": "fragility",
+            "part_of_speech": "",
+            "origin": "Latin, fragilitas (brittleness)",
+            "meaning": {
+                "ko": "깨지기 쉬움",
+                "en": "easy to break",
+                "ja": "壊れやすさ",
+                "zh": "易碎性",
+                "fr": "fragilité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frag- (frangere)",
+                    "meaning": {
+                        "ko": "'깨뜨리다'",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "破裂",
+                        "fr": "casser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨지기 쉬운 상태'를 의미하여 '취약성', '부서지기 쉬움'을 뜻합니다.",
+                "en": "Refers to the state of being easily broken; means weakness or fragility.",
+                "ja": "壊れやすい状態を意味し、脆弱性、壊れやすさを表します。",
+                "zh": "指容易破碎的状态；表示脆弱性、易碎性。",
+                "fr": "Désigne l'état de fragilité; signifie vulnérabilité ou facilité à se casser."
+            },
+            "example": "The fragility of the ancient pottery was a concern.",
+            "translation": {
+                "ko": "고대 도자기의 취약성이 우려되었다.",
+                "ja": "古い陶器の壊れやすさは懸念事項でした。",
+                "zh": "古代陶器的易碎性令人担忧。",
+                "fr": "La fragilité de la poterie ancienne était une préoccupation."
+            }
+        },
+        {
+            "word": "fragment",
+            "part_of_speech": "",
+            "origin": "Latin, fragmentum (a broken piece)",
+            "meaning": {
+                "ko": "깨진 조각",
+                "en": "broken piece",
+                "ja": "破片、断片",
+                "zh": "碎片、断片",
+                "fr": "fragment, éclat"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frag- (frangere)",
+                    "meaning": {
+                        "ko": "'깨뜨리다'",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "破碎",
+                        "fr": "casser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨져서 나온 조각'이라는 의미에서 '파편', '조각'을 뜻합니다.",
+                "en": "Means 'fragment' or 'piece' from the idea of something broken off",
+                "ja": "壊れて出た破片という意味から、パリパリした小さな部分を指します",
+                "zh": "从破碎产生的碎片这个含义来指代碎片或小块",
+                "fr": "Signifie 'fragment' ou 'morceau' provenant de l'idée de quelque chose de cassé"
+            },
+            "example": "Fragments of glass were scattered on the floor.",
+            "translation": {
+                "ko": "유리 조각들이 바닥에 흩어져 있었다.",
+                "ja": "ガラスの破片が床に散らばっていた。",
+                "zh": "玻璃碎片散落在地板上。",
+                "fr": "Des fragments de verre étaient éparpillés sur le sol."
+            }
+        }
+    ]
+}

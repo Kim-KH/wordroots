@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "osten (exhibit) ostensible, ostentation, ostentatious",
+        "origin": "Latin, ostendere (to show, to stretch out before)",
+        "meaning": {
+            "ko": "보여주다",
+            "en": "to show",
+            "ja": "見せる",
+            "zh": "展示",
+            "fr": "montrer"
+        }
+    },
+    "words": [
+        {
+            "word": "ostensible",
+            "part_of_speech": "",
+            "origin": "Latin, ostendere (to show)",
+            "meaning": {
+                "ko": "보여주다",
+                "en": "to display or show",
+                "ja": "表面上の、見かけ上の",
+                "zh": "表面上的、看似的",
+                "fr": "apparent, prétendu"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ostens-",
+                    "meaning": {
+                        "ko": "'보여주다'",
+                        "en": "to show",
+                        "ja": "示す、見せる",
+                        "zh": "显示、展示",
+                        "fr": "montrer, afficher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'겉으로 보여주는'이라는 의미에서 '표면상의', '겉보기의'라는 뜻입니다.",
+                "en": "Meaning 'appearing on the surface' or 'seemingly', it refers to something that appears to be true but may not actually be true.",
+                "ja": "表面に現れるという意味から、表面上は見えるが、実際には真実でないかもしれないことを指します。",
+                "zh": "从'表面显示'的意思衍生，指看起来是真的但实际可能不是真的事物。",
+                "fr": "Du sens de 'montrer en surface', il fait référence à quelque chose qui semble vrai mais peut ne pas l'être réellement."
+            },
+            "example": "The ostensible reason for his visit was to see his aunt.",
+            "translation": {
+                "ko": "그의 방문에 대한 표면적인 이유는 그의 이모를 뵙는 것이었다.",
+                "ja": "彼の訪問の表面上の理由は叔母さんに会うことでした。",
+                "zh": "他访问表面上的理由是去见他的阿姨。",
+                "fr": "La raison apparente de sa visite était de voir sa tante."
+            }
+        },
+        {
+            "word": "ostentation",
+            "part_of_speech": "",
+            "origin": "Latin, ostentatio (a showing, a display)",
+            "meaning": {
+                "ko": "보여주기, 과시",
+                "en": "showing off, display",
+                "ja": "見せびらかし、誇示",
+                "zh": "炫耀、浮夸",
+                "fr": "ostentation, affichage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ostent- (ostendere)",
+                    "meaning": {
+                        "ko": "'보여주다'",
+                        "en": "to show",
+                        "ja": "示す",
+                        "zh": "展示、显示",
+                        "fr": "montrer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'부를 과하게 드러내어 보여주는 것'이라는 의미에서 '과시', '허세'를 뜻합니다.",
+                "en": "Means ostentation and showing off in the sense of excessively displaying wealth",
+                "ja": "富を過度に見せびらかすことから、誇示や見せ掛けを意味します",
+                "zh": "从过度炫耀财富的意义上，表示炫耀和虚张声势",
+                "fr": "Au sens d'afficher excessivement sa richesse, signifie ostentation et prétention"
+            },
+            "example": "He lives a life of luxury and ostentation.",
+            "translation": {
+                "ko": "그는 사치와 과시의 삶을 산다.",
+                "ja": "彼は贅沢さと見せびらかしの生活を送っている。",
+                "zh": "他过着奢侈和炫耀的生活。",
+                "fr": "Il mène une vie de luxe et d'ostentation."
+            }
+        },
+        {
+            "word": "ostentatious",
+            "part_of_speech": "",
+            "origin": "Latin, ostentatio",
+            "meaning": {
+                "ko": "과시",
+                "en": "show off or display prominently",
+                "ja": "派手に見せびらかす",
+                "zh": "炫耀、卖弄",
+                "fr": "ostentatoire, prétentieux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ostent- (ostendere)",
+                    "meaning": {
+                        "ko": "'보여주다'",
+                        "en": "to show",
+                        "ja": "見せる",
+                        "zh": "展示、显示",
+                        "fr": "montrer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과시하는', '허세를 부리는'이라는 뜻입니다.",
+                "en": "Means showy or pretentious display",
+                "ja": "見栄を張る、けばけばしく見せる意味です",
+                "zh": "表示炫耀、故意显示富有或重要",
+                "fr": "Signifie une démonstration prétentieuse et voyante"
+            },
+            "example": "She wore an ostentatious diamond necklace.",
+            "translation": {
+                "ko": "그녀는 과시적인 다이아몬드 목걸이를 하고 있었다.",
+                "ja": "彼女は派手なダイヤモンドのネックレスを着けていた。",
+                "zh": "她戴着一条炫耀性的钻石项链。",
+                "fr": "Elle portait un collier de diamants ostentatoire."
+            }
+        }
+    ]
+}

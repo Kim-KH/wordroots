@@ -1,0 +1,254 @@
+{
+    "root_info": {
+        "roots": "en (in, within) enfold, engage, entangle, enter, enwrap",
+        "origin": "Old French, en- (in, into)",
+        "meaning": {
+            "ko": "안에, 안으로",
+            "en": "in, into",
+            "ja": "中に、中へ",
+            "zh": "在...里面、进入",
+            "fr": "dans, en dedans"
+        }
+    },
+    "words": [
+        {
+            "word": "enfold",
+            "part_of_speech": "",
+            "origin": "English, en- + fold",
+            "meaning": {
+                "ko": "안에 감싸다",
+                "en": "to wrap inside",
+                "ja": "中に包む",
+                "zh": "包裹在内",
+                "fr": "envelopper dedans"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fold",
+                    "meaning": {
+                        "ko": "'접다, 감싸다'",
+                        "en": "to fold, to wrap",
+                        "ja": "折る、包む",
+                        "zh": "折叠、包裹",
+                        "fr": "plier, envelopper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에 넣고 감싸다'는 의미에서 '감싸다', '껴안다'라는 뜻입니다.",
+                "en": "Means to wrap or embrace something by enclosing it within",
+                "ja": "何かを中に入れて包む意味で、包む、抱きしめるという意味です",
+                "zh": "指将某物放在内部并包裹起来，意为包裹、拥抱",
+                "fr": "Signifie envelopper ou étreindre quelque chose en l'enfermant dedans"
+            },
+            "example": "She enfolded the baby in a blanket.",
+            "translation": {
+                "ko": "그녀는 아기를 담요로 감쌌다.",
+                "ja": "彼女は赤ちゃんを毛布で包んだ。",
+                "zh": "她用毛毯包裹了婴儿。",
+                "fr": "Elle enveloppa le bébé dans une couverture."
+            }
+        },
+        {
+            "word": "engage",
+            "part_of_speech": "",
+            "origin": "Old French, engagier (to pledge)",
+            "meaning": {
+                "ko": "서약하다",
+                "en": "to pledge or promise",
+                "ja": "約束する",
+                "zh": "承诺",
+                "fr": "s'engager"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...中",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gage",
+                    "meaning": {
+                        "ko": "'서약, 담보'",
+                        "en": "pledge",
+                        "ja": "誓約、担保",
+                        "zh": "誓言、抵押",
+                        "fr": "promesse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서약 안에 놓다'는 의미에서 약속으로 '관여시키다', '종사하게 하다', 또는 '약혼시키다'라는 뜻이 되었습니다.",
+                "en": "From placing in a pledge: came to mean 'involve', 'cause to participate', or 'betroth'",
+                "ja": "誓約の中に置くことから、約束により『関与させる』『従事させる』または『婚約させる』という意味になりました",
+                "zh": "从放入誓言中的意思演变为'使参与''使从事'或'订婚'的含义",
+                "fr": "Du sens de placer dans une promesse: est venu signifier 'impliquer', 'faire participer' ou 'fiancer'"
+            },
+            "example": "We need to engage the public in this discussion.",
+            "translation": {
+                "ko": "우리는 이 토론에 대중을 참여시켜야 합니다.",
+                "ja": "私たちはこの討論に市民を関与させる必要があります",
+                "zh": "我们需要让公众参与这个讨论",
+                "fr": "Nous devons impliquer le public dans cette discussion"
+            }
+        },
+        {
+            "word": "entangle",
+            "part_of_speech": "",
+            "origin": "English, en- + tangle",
+            "meaning": {
+                "ko": "얽히게 하다",
+                "en": "to cause to be tangled",
+                "ja": "絡ませる",
+                "zh": "缠绕",
+                "fr": "emmêler"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "into",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tangle",
+                    "meaning": {
+                        "ko": "'헝클어지다'",
+                        "en": "to tangle",
+                        "ja": "もつれる",
+                        "zh": "缠绕",
+                        "fr": "s'emmêler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'헝클어진 상태 안으로 들어가게 하다'는 의미에서 '얽히게 만들다', '곤경에 빠뜨리다'라는 뜻입니다.",
+                "en": "To cause to enter a tangled state; to trap or make stuck",
+                "ja": "もつれた状態に入らせる意から、絡ませる、困難に陥らせるという意味",
+                "zh": "从进入缠绕状态的含义出发，意为使缠绕、陷入困境",
+                "fr": "Du sens d'entrer dans un état emmêlé, signifie enchevêtrer ou piéger"
+            },
+            "example": "The dolphin had become entangled in a fishing net.",
+            "translation": {
+                "ko": "돌고래가 어망에 얽혔다.",
+                "ja": "イルカは漁網に絡ませられていた。",
+                "zh": "海豚被缠绕在渔网中。",
+                "fr": "Le dauphin s'était emmêlé dans un filet de pêche."
+            }
+        },
+        {
+            "word": "enter",
+            "part_of_speech": "",
+            "origin": "Latin, intrare (to go into)",
+            "meaning": {
+                "ko": "안으로 들어가다",
+                "en": "to go into",
+                "ja": "中に入る",
+                "zh": "进入",
+                "fr": "entrer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "enter (intrare)",
+                    "meaning": {
+                        "ko": "'안으로 들어가다'",
+                        "en": "to go into",
+                        "ja": "中に入る",
+                        "zh": "进入",
+                        "fr": "entrer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 'intrare'에서 유래하여 '들어가다'라는 뜻이 되었습니다. 접두사 'en-'의 영향을 받은 형태입니다.",
+                "en": "Derived from Latin 'intrare' meaning 'to go in'. Influenced by the prefix 'en-'.",
+                "ja": "ラテン語の'intrare'から派生し、'中に入る'という意味になりました。接頭辞'en-'の影響を受けた形態です。",
+                "zh": "源自拉丁语'intrare'，意为'进入'。受前缀'en-'的影响。",
+                "fr": "Dérivé du latin 'intrare' signifiant 'entrer'. Influencé par le préfixe 'en-'."
+            },
+            "example": "Please enter your password.",
+            "translation": {
+                "ko": "비밀번호를 입력하세요.",
+                "ja": "パスワードを入力してください。",
+                "zh": "请输入你的密码。",
+                "fr": "Veuillez entrer votre mot de passe."
+            }
+        },
+        {
+            "word": "enwrap",
+            "part_of_speech": "",
+            "origin": "English, en- + wrap",
+            "meaning": {
+                "ko": "안에 싸다",
+                "en": "to wrap inside",
+                "ja": "中に包む",
+                "zh": "里面包裹",
+                "fr": "envelopper dedans"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "里面",
+                        "fr": "dedans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "wrap",
+                    "meaning": {
+                        "ko": "'싸다, 포장하다'",
+                        "en": "to wrap",
+                        "ja": "包む",
+                        "zh": "包裹",
+                        "fr": "envelopper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'enfold'와 유사하게, '안에 넣고 싸다'는 의미에서 '감싸다', '뒤덮다'라는 뜻입니다.",
+                "en": "Similar to 'enfold', meaning to wrap something inside or cover it completely.",
+                "ja": "'enfold'と同様に、中に入れて包むという意味で、すっかり包む、覆うという意味です。",
+                "zh": "与'enfold'类似，表示把某物放在里面包裹，或完全覆盖的意思。",
+                "fr": "Similaire à 'enfold', signifiant envelopper quelque chose dedans ou le couvrir complètement."
+            },
+            "example": "The mountains were enwrapped in mist.",
+            "translation": {
+                "ko": "산들은 안개에 휩싸여 있었다.",
+                "ja": "山々は霧に包まれていた。",
+                "zh": "群山被雾气包裹着。",
+                "fr": "Les montagnes étaient enveloppées de brouillard."
+            }
+        }
+    ]
+}

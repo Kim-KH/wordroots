@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "with (together) withhold, within, without, withstand",
+        "origin": "Old English, with (against, opposite to)",
+        "meaning": {
+            "ko": "~에 맞서, 반대하여",
+            "en": "against",
+            "ja": "反対して、対抗して",
+            "zh": "反对、相对",
+            "fr": "contre"
+        }
+    },
+    "words": [
+        {
+            "word": "withhold",
+            "part_of_speech": "",
+            "origin": "Old English, with- (away) + haldan (to hold)",
+            "meaning": {
+                "ko": "뒤로 잡다",
+                "en": "to hold back",
+                "ja": "差し控える",
+                "zh": "扣留",
+                "fr": "retenir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "with-",
+                    "meaning": {
+                        "ko": "'뒤로, 대항하여'",
+                        "en": "back, against",
+                        "ja": "後ろに、対抗して",
+                        "zh": "向后，对抗",
+                        "fr": "arrière, contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hold",
+                    "meaning": {
+                        "ko": "'잡다'",
+                        "en": "to hold",
+                        "ja": "握る",
+                        "zh": "握住",
+                        "fr": "tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주지 않고 뒤로 잡고 있다'는 의미에서 '주지 않다', '보류하다'라는 뜻이 되었습니다.",
+                "en": "From the sense of holding back and not giving, it came to mean 'to refuse to give' or 'to reserve'.",
+                "ja": "後ろに保持して与えないという意味から、『与えない』『保留する』という意味になりました。",
+                "zh": "从向后持有而不给予的含义引申出『不给予』『保留』的意思。",
+                "fr": "Du sens de retenir et de ne pas donner, il signifie 'refuser de donner' ou 'réserver'."
+            },
+            "example": "The company decided to withhold payment.",
+            "translation": {
+                "ko": "회사는 지불을 보류하기로 결정했다.",
+                "ja": "その企業は支払いを差し控えることに決めた。",
+                "zh": "该公司决定扣留付款。",
+                "fr": "L'entreprise a décidé de retenir le paiement."
+            }
+        },
+        {
+            "word": "within",
+            "part_of_speech": "",
+            "origin": "Old English, withinnan (from inside)",
+            "meaning": {
+                "ko": "안쪽으로부터",
+                "en": "inside, within",
+                "ja": "内側から",
+                "zh": "从内部",
+                "fr": "de l'intérieur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "with-",
+                    "meaning": {
+                        "ko": "'~와 함께'",
+                        "en": "with",
+                        "ja": "と共に",
+                        "zh": "与...一起",
+                        "fr": "avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "in",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in, inside",
+                        "ja": "中に",
+                        "zh": "在...里面",
+                        "fr": "dans"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 영어에서 with가 '맞서'라는 뜻 외에도 '함께'라는 뜻을 가졌으며, '안과 함께'라는 의미에서 '내부에', '~이내에'라는 뜻이 되었습니다.",
+                "en": "In Old English, 'with' meant not only 'against' but also 'together', and from the meaning 'together inside' it came to mean 'inside', 'within'.",
+                "ja": "古英語では、withが'対抗する'という意味の他に'一緒に'という意味を持ち、'内側と一緒に'という意味から'内部に''以内に'という意味になりました。",
+                "zh": "在古英语中，with不仅有'对抗'的意思，还有'一起'的意思，从'和内部一起'的含义演变成了'内部''以内'的意思。",
+                "fr": "En vieil anglais, 'with' signifiait non seulement 'contre' mais aussi 'ensemble', et du sens 'ensemble à l'intérieur' il en est venu à signifier 'à l'intérieur', 'dans'."
+            },
+            "example": "The results will be announced within a week.",
+            "translation": {
+                "ko": "결과는 일주일 이내에 발표될 것이다.",
+                "ja": "結果は1週間以内に発表されます。",
+                "zh": "结果将在一周内公布。",
+                "fr": "Les résultats seront annoncés dans une semaine."
+            }
+        },
+        {
+            "word": "without",
+            "part_of_speech": "",
+            "origin": "Old English, withutan (on the outside)",
+            "meaning": {
+                "ko": "바깥쪽에",
+                "en": "outside; lacking",
+                "ja": "~なしで、~がない",
+                "zh": "没有、不含",
+                "fr": "sans, dépourvu de"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "with-",
+                    "meaning": {
+                        "ko": "'대항하여, 반대로'",
+                        "en": "against",
+                        "ja": "対抗して、反対に",
+                        "zh": "反对、对抗",
+                        "fr": "contre, opposé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "out",
+                    "meaning": {
+                        "ko": "'밖에'",
+                        "en": "outside",
+                        "ja": "外側に",
+                        "zh": "外面、外部",
+                        "fr": "dehors, extérieur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안의 반대, 즉 바깥'이라는 의미에서 '~없이'라는 뜻으로 발전했습니다.",
+                "en": "Developed from meaning inside opposite, i.e., outside into meaning without or lacking",
+                "ja": "内側の反対、つまり外側という意味から、~がない、~なしという意味に発展しました",
+                "zh": "从内部相反的含义即外部的意思发展而来，后来引申为没有或缺少的含义",
+                "fr": "S'est développé du sens opposé à l'intérieur, c'est-à-dire l'extérieur, vers le sens de sans ou manquant"
+            },
+            "example": "I can't live without you.",
+            "translation": {
+                "ko": "나는 너 없이는 살 수 없어.",
+                "ja": "あなたなしでは生きられません。",
+                "zh": "我没有你活不了。",
+                "fr": "Je ne peux pas vivre sans toi."
+            }
+        },
+        {
+            "word": "withstand",
+            "part_of_speech": "",
+            "origin": "Old English, withstandan (to resist)",
+            "meaning": {
+                "ko": "맞서 서다",
+                "en": "to resist, to endure",
+                "ja": "耐える、抵抗する",
+                "zh": "承受、抵抗",
+                "fr": "résister, supporter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "with-",
+                    "meaning": {
+                        "ko": "'~에 맞서'",
+                        "en": "against",
+                        "ja": "～に対して",
+                        "zh": "对抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stand",
+                    "meaning": {
+                        "ko": "'서다'",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어려움이나 공격에 맞서 꿋꿋이 서 있다'는 의미에서 '견뎌내다', '저항하다'라는 뜻입니다.",
+                "en": "Means to stand firm against difficulty or attack; to endure or resist",
+                "ja": "困難や攻撃に対して堅く立ち向かうこと、耐え抜く、抵抗することを意味する",
+                "zh": "面对困难或攻击时坚定地站立；忍耐或抵抗",
+                "fr": "Signifie tenir fermement face à la difficulté ou l'attaque; endurer ou résister"
+            },
+            "example": "The building was designed to withstand earthquakes.",
+            "translation": {
+                "ko": "그 건물은 지진에 견딜 수 있도록 설계되었다.",
+                "ja": "その建物は地震に耐えるよう設計されていた。",
+                "zh": "这座建筑物的设计能够抵抗地震。",
+                "fr": "Le bâtiment a été conçu pour résister aux tremblements de terre."
+            }
+        }
+    ]
+}

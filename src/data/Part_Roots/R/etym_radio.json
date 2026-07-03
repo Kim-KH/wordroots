@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "radio (spoke) radial, radiate, radioactive, radiometer",
+        "origin": "Latin, radius (a staff, a spoke of a wheel, a ray)",
+        "meaning": {
+            "ko": "바퀴살, 광선",
+            "en": "a spoke, a ray",
+            "ja": "スポーク、光線",
+            "zh": "轮辐、光线",
+            "fr": "rayon, raie lumineuse"
+        }
+    },
+    "words": [
+        {
+            "word": "radial",
+            "part_of_speech": "",
+            "origin": "Latin, radialis (of a ray)",
+            "meaning": {
+                "ko": "광선의",
+                "en": "of or relating to rays",
+                "ja": "放射状の",
+                "zh": "辐射状的",
+                "fr": "radial"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "radi-",
+                    "meaning": {
+                        "ko": "'광선'",
+                        "en": "ray",
+                        "ja": "光線",
+                        "zh": "射线",
+                        "fr": "rayon"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'중심에서 바퀴살처럼 뻗어 나가는'이라는 의미에서 '방사상의'라는 뜻입니다.",
+                "en": "Meaning 'extending like wheel spokes from the center', hence 'radial'.",
+                "ja": "中心から車輪の放射状に広がる意味から、放射状のという意味です。",
+                "zh": "从中心向外像轮辐一样伸展的意思，因此是辐射状的。",
+                "fr": "Signifiant 'qui s'étend comme des rayons de roue à partir du centre', d'où 'radial'."
+            },
+            "example": "The spokes of a wheel form a radial pattern.",
+            "translation": {
+                "ko": "바퀴살은 방사상 패턴을 형성한다.",
+                "ja": "車輪の放射状のパターンを形成しています。",
+                "zh": "车轮的辐条形成辐射状图案。",
+                "fr": "Les rayons d'une roue forment un motif radial."
+            }
+        },
+        {
+            "word": "radiate",
+            "part_of_speech": "",
+            "origin": "Latin, radiare (to beam, to shine)",
+            "meaning": {
+                "ko": "빛나다",
+                "en": "to shine",
+                "ja": "光り輝く",
+                "zh": "发光闪耀",
+                "fr": "briller"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "radi-",
+                    "meaning": {
+                        "ko": "'광선'",
+                        "en": "ray",
+                        "ja": "光線",
+                        "zh": "光线",
+                        "fr": "rayon"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'중심에서 사방으로 빛이나 열을 내뿜다'는 의미에서 '방출하다'라는 뜻입니다.",
+                "en": "Means 'to emit light or heat in all directions from the center'",
+                "ja": "中心から四方に光や熱を放つことを意味する",
+                "zh": "表示从中心向四面八方发出光或热",
+                "fr": "Signifie 'émettre la lumière ou la chaleur dans toutes les directions du centre'"
+            },
+            "example": "The sun radiates heat and light.",
+            "translation": {
+                "ko": "태양은 열과 빛을 방출한다.",
+                "ja": "太陽は熱と光を放射する",
+                "zh": "太阳放射热和光",
+                "fr": "Le soleil rayonne la chaleur et la lumière"
+            }
+        },
+        {
+            "word": "radioactive",
+            "part_of_speech": "",
+            "origin": "Latin, radius (ray)",
+            "meaning": {
+                "ko": "광선",
+                "en": "radiation or rays",
+                "ja": "放射能の",
+                "zh": "放射性的",
+                "fr": "radioactif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "radio-",
+                    "meaning": {
+                        "ko": "'방사능'",
+                        "en": "radiation",
+                        "ja": "放射線",
+                        "zh": "辐射",
+                        "fr": "rayonnement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "active",
+                    "meaning": {
+                        "ko": "'활동적인'",
+                        "en": "active or energetic",
+                        "ja": "活動的な",
+                        "zh": "活跃的",
+                        "fr": "actif"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'에너지를 방사선 형태로 방출하는'이라는 의미에서 '방사능의'라는 뜻입니다.",
+                "en": "Means radioactive in the sense of emitting energy in the form of radiation",
+                "ja": "エネルギーを放射線の形で放出する意味で放射能のという意味です",
+                "zh": "以放射线形式发射能量的意思",
+                "fr": "Signifiant radioactif au sens d'émettre de l'énergie sous forme de rayonnement"
+            },
+            "example": "Uranium is a radioactive element.",
+            "translation": {
+                "ko": "우라늄은 방사성 원소이다.",
+                "ja": "ウランは放射能元素です",
+                "zh": "铀是放射性元素",
+                "fr": "L'uranium est un élément radioactif"
+            }
+        },
+        {
+            "word": "radiometer",
+            "part_of_speech": "",
+            "origin": "Latin, radius (ray) + Greek, metron (measure)",
+            "meaning": {
+                "ko": "광선을 재는 것",
+                "en": "measuring radiation or light rays",
+                "ja": "放射線を測る装置",
+                "zh": "测量辐射的仪器",
+                "fr": "appareil mesurant le rayonnement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "radio-",
+                    "meaning": {
+                        "ko": "'방사'",
+                        "en": "radiation",
+                        "ja": "放射",
+                        "zh": "辐射",
+                        "fr": "rayonnement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'측정기'",
+                        "en": "measuring instrument",
+                        "ja": "測定機",
+                        "zh": "测量仪器",
+                        "fr": "appareil de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전자기 복사, 즉 방사선의 강도를 측정하는 기구'인 '방사계'를 뜻합니다.",
+                "en": "A radiometer is an instrument that measures the intensity of electromagnetic radiation or radiant energy.",
+                "ja": "放射線の強度を測定する機器です",
+                "zh": "测量电磁辐射强度的仪器",
+                "fr": "Appareil qui mesure l'intensité du rayonnement électromagnétique"
+            },
+            "example": "A radiometer is used to measure the intensity of radiant energy.",
+            "translation": {
+                "ko": "방사계는 복사 에너지의 강도를 측정하는 데 사용된다.",
+                "ja": "放射線計",
+                "zh": "辐射计",
+                "fr": "radiomètre"
+            }
+        }
+    ]
+}

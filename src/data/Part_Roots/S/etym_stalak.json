@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "stalak (drip) stalactite, stalagmite",
+        "origin": "Greek, stalaktos (dripping)",
+        "meaning": {
+            "ko": "방울져 떨어지는",
+            "en": "dripping",
+            "ja": "したたる",
+            "zh": "滴落",
+            "fr": "goutte à goutte"
+        }
+    },
+    "words": [
+        {
+            "word": "stalactite",
+            "part_of_speech": "",
+            "origin": "Greek, stalaktos (dripping)",
+            "meaning": {
+                "ko": "방울져 떨어지는",
+                "en": "dripping in drops",
+                "ja": "洞窟の天井から垂れ下がる鍾乳石",
+                "zh": "从洞穴天花板悬垂的石笋",
+                "fr": "stalactite qui pend du plafond"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stalak-",
+                    "meaning": {
+                        "ko": "'방울져 떨어지다'",
+                        "en": "to drip",
+                        "ja": "したたり落ちる",
+                        "zh": "滴落",
+                        "fr": "goutter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동굴 천장에서 물방울이 떨어지며' 아래로 자란 '종유석'을 뜻합니다.",
+                "en": "A mineral formation hanging from cave ceilings formed by dripping water deposits",
+                "ja": "洞窟の天井から水滴が落ちて形成される鉱物構造です",
+                "zh": "由洞穴天花板上滴落的水形成的矿物构造",
+                "fr": "Formation minérale suspendue aux plafonds des grottes, formée par l'eau qui coule"
+            },
+            "example": "Stalactites hang from the roof of a cave.",
+            "translation": {
+                "ko": "종유석은 동굴 천장에 매달려 있다.",
+                "ja": "鍾乳石",
+                "zh": "钟乳石",
+                "fr": "stalactite"
+            }
+        },
+        {
+            "word": "stalagmite",
+            "part_of_speech": "",
+            "origin": "Greek, stalagmos (a dropping)",
+            "meaning": {
+                "ko": "방울져 떨어짐",
+                "en": "dripping drops",
+                "ja": "鍾乳石",
+                "zh": "石笋",
+                "fr": "stalagmite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stalag-",
+                    "meaning": {
+                        "ko": "'방울져 떨어지다'",
+                        "en": "to drip",
+                        "ja": "したたり落ちる",
+                        "zh": "滴落",
+                        "fr": "tomber goutte à goutte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동굴 바닥에 물방울이 떨어져' 위로 자란 '석순'을 뜻합니다.",
+                "en": "A cone-shaped formation that grows upward from the floor of a cave, formed by water drops falling from above.",
+                "ja": "洞窟の床に水滴が落ちて上に成長した石の塔を意味します。",
+                "zh": "指在洞穴地板上由水滴落下形成的向上生长的石笋。",
+                "fr": "Une formation rocheuse qui pousse vers le haut depuis le plancher d'une grotte, formée par des gouttes d'eau tombant d'en haut."
+            },
+            "example": "Stalagmites grow up from the floor of a cave.",
+            "translation": {
+                "ko": "석순은 동굴 바닥에서 위로 자란다.",
+                "ja": "鍾乳石",
+                "zh": "石笋",
+                "fr": "stalagmite"
+            }
+        }
+    ]
+}

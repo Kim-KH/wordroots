@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "soph (wise) philosophy, sophist, sophisticated",
+        "origin": "Greek, sophos (wise)",
+        "meaning": {
+            "ko": "현명한",
+            "en": "wise",
+            "ja": "賢い",
+            "zh": "聪慧的",
+            "fr": "sage"
+        }
+    },
+    "words": [
+        {
+            "word": "philosophy",
+            "part_of_speech": "",
+            "origin": "Greek, philosophia (love of wisdom)",
+            "meaning": {
+                "ko": "지혜의 사랑",
+                "en": "love of wisdom",
+                "ja": "知恵への愛",
+                "zh": "对智慧的热爱",
+                "fr": "amour de la sagesse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "philo-",
+                    "meaning": {
+                        "ko": "'사랑'",
+                        "en": "love",
+                        "ja": "愛",
+                        "zh": "爱",
+                        "fr": "amour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sophy",
+                    "meaning": {
+                        "ko": "'지혜'",
+                        "en": "wisdom",
+                        "ja": "知恵",
+                        "zh": "智慧",
+                        "fr": "sagesse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지혜를 사랑하는 학문'이라는 의미에서 '철학'을 뜻합니다.",
+                "en": "Means 'philosophy' in the sense of 'the study of loving wisdom'",
+                "ja": "知恵を愛する学問という意味で哲学を表します",
+                "zh": "表示热爱智慧的学科之意",
+                "fr": "Signifie 'philosophie' au sens d'étude aimant la sagesse"
+            },
+            "example": "He studied philosophy in college.",
+            "translation": {
+                "ko": "그는 대학에서 철학을 공부했다.",
+                "ja": "彼は大学で哲学を勉強しました。",
+                "zh": "他在大学里学习哲学。",
+                "fr": "Il a étudié la philosophie à l'université."
+            }
+        },
+        {
+            "word": "sophist",
+            "part_of_speech": "",
+            "origin": "Greek, sophistes (a master of one's craft, a wise man)",
+            "meaning": {
+                "ko": "전문가, 현자",
+                "en": "expert, wise person",
+                "ja": "専門家、賢者",
+                "zh": "专家、智者",
+                "fr": "expert, sage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "soph-",
+                    "meaning": {
+                        "ko": "'현명한'",
+                        "en": "wise",
+                        "ja": "賢明な",
+                        "zh": "聪慧的",
+                        "fr": "sage, avisé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스에서 '지혜를 가르쳤던' 학자들을 가리켰으나, 지금은 '궤변을 늘어놓는 사람'이라는 부정적인 의미로 쓰입니다.",
+                "en": "In ancient Greece, referred to scholars who taught wisdom, but now used negatively to mean someone who argues sophistically",
+                "ja": "古代ギリシャでは『知識を教えた』学者を指したが、現在は『詭弁を述べる人』という否定的な意味で使われます",
+                "zh": "在古代希腊指'教授智慧的'学者，但现在用作'散布诡辩的人'的贬义意思",
+                "fr": "En Grèce antique, désignait des savants enseignant la sagesse, mais aujourd'hui utilisé négativement pour quelqu'un qui use de sophismes"
+            },
+            "example": "The sophists were ancient Greek teachers of rhetoric and philosophy.",
+            "translation": {
+                "ko": "소피스트들은 고대 그리스의 수사학과 철학 교사들이었다.",
+                "ja": "古代ギリシャの修辞学と哲学の教師たちであったソフィストたち。",
+                "zh": "古代希腊的修辞学和哲学教师，被称为智者派。",
+                "fr": "Les sophistes étaient des maîtres grecs anciens de rhétorique et de philosophie."
+            }
+        },
+        {
+            "word": "sophisticated",
+            "part_of_speech": "",
+            "origin": "Greek, sophistes",
+            "meaning": {
+                "ko": "전문가, 현자",
+                "en": "expert, wise person",
+                "ja": "洗練された、高度な",
+                "zh": "老练的、精致的",
+                "fr": "raffiné, sophistiqué"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sophist-",
+                    "meaning": {
+                        "ko": "'세상 물정에 밝은'",
+                        "en": "worldly wise, knowledgeable",
+                        "ja": "世事に詳しい",
+                        "zh": "世事通达",
+                        "fr": "versé dans les affaires du monde"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세상 물정에 밝고 세련된'이라는 의미에서 '정교한', '세련된'이라는 뜻입니다.",
+                "en": "Means 'refined' and 'sophisticated' in the sense of being knowledgeable about worldly matters",
+                "ja": "世事に詳しく洗練されているという意味から、'精巧な'、'洗練された'という意味です",
+                "zh": "从'通晓世故且精致'的意思衍生出'精巧的'、'精致的'之义",
+                "fr": "Signifie 'raffiné' et 'sophistiqué' au sens d'être versé dans les affaires mondaines"
+            },
+            "example": "This is a very sophisticated piece of equipment.",
+            "translation": {
+                "ko": "이것은 매우 정교한 장비이다.",
+                "ja": "これは非常に高度な機器です",
+                "zh": "这是一台非常精致的设备",
+                "fr": "Ceci est un équipement très sophistiqué"
+            }
+        }
+    ]
+}

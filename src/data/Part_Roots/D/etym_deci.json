@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "deci (one tenth) decibel, decimate, decimeter",
+        "origin": "Latin, decimus (tenth)",
+        "meaning": {
+            "ko": "열 번째",
+            "en": "tenth",
+            "ja": "十番目",
+            "zh": "第十",
+            "fr": "dixième"
+        }
+    },
+    "words": [
+        {
+            "word": "decibel",
+            "part_of_speech": "",
+            "origin": "Latin, decimus (tenth) + bel (after A. G. Bell)",
+            "meaning": {
+                "ko": "벨의 십분의 일",
+                "en": "one tenth of a bel",
+                "ja": "ベルの十分の一",
+                "zh": "贝尔的十分之一",
+                "fr": "un dixième du bel"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "deci-",
+                    "meaning": {
+                        "ko": "'십분의 일'",
+                        "en": "one tenth",
+                        "ja": "十分の一",
+                        "zh": "十分之一",
+                        "fr": "un dixième"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bel",
+                    "meaning": {
+                        "ko": "'벨'",
+                        "en": "unit of sound",
+                        "ja": "音の単位",
+                        "zh": "声音的单位",
+                        "fr": "unité de son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'벨(bel)의 10분의 1'에 해당하는 소리의 세기 단위입니다.",
+                "en": "A unit of sound intensity equivalent to one-tenth of a bel (bel).",
+                "ja": "ベル(bel)の10分の1に相当する音の強さの単位です。",
+                "zh": "相当于贝尔(bel)十分之一的声音强度单位。",
+                "fr": "Une unité d'intensité sonore équivalant à un dixième du bel (bel)."
+            },
+            "example": "A normal conversation is about 60 decibels.",
+            "translation": {
+                "ko": "일반적인 대화는 약 60데시벨이다.",
+                "ja": "通常の会話は約60デシベルです。",
+                "zh": "正常对话约为60分贝。",
+                "fr": "Une conversation normale est d'environ 60 décibels."
+            }
+        },
+        {
+            "word": "decimate",
+            "part_of_speech": "",
+            "origin": "Latin, decimare (to take the tenth part)",
+            "meaning": {
+                "ko": "열 번째를 취하다",
+                "en": "to take every tenth",
+                "ja": "十分の一を取る",
+                "zh": "取十分之一",
+                "fr": "prendre un sur dix"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "deci-",
+                    "meaning": {
+                        "ko": "'열'",
+                        "en": "ten",
+                        "ja": "十",
+                        "zh": "十",
+                        "fr": "dix"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마 군대에서 반란 등에 대한 처벌로 '병사 10명 중 1명을 제비뽑아 죽이던 것'에서 유래하여, '대량으로 죽이다', '심하게 훼손하다'는 뜻이 되었습니다.",
+                "en": "In ancient Roman armies, as punishment for rebellion, one soldier out of every ten was selected by lot and executed. This evolved to mean 'kill in large numbers' or 'severely damage'.",
+                "ja": "古代ローマ軍で反乱などの罰として兵士10人中1人を抽選で処刑したことに由来し、その後『大量に殺す』『ひどく破壊する』という意味になりました。",
+                "zh": "源自古罗马军队对叛乱的惩罚，即从10名士兵中抽签处死1人，后来演变为『大规模杀死』『严重破坏』的含义。",
+                "fr": "Tiré de la pratique militaire romaine antique où un soldat sur dix était exécuté comme châtiment pour la rébellion, d'où les sens actuels de 'tuer en masse' ou 'détruire gravement'."
+            },
+            "example": "The disease decimated the local population.",
+            "translation": {
+                "ko": "그 질병은 지역 인구를 대량으로 죽였다.",
+                "ja": "その病気は地元の人口に大打撃を与えた。",
+                "zh": "这种疾病对当地人口造成了巨大打击。",
+                "fr": "La maladie a décimé la population locale."
+            }
+        },
+        {
+            "word": "decimeter",
+            "part_of_speech": "",
+            "origin": "Latin, decimus (tenth) + Greek, metron (measure)",
+            "meaning": {
+                "ko": "미터의 십분의 일",
+                "en": "one tenth of a meter",
+                "ja": "メートルの十分の一",
+                "zh": "米的十分之一",
+                "fr": "un dixième de mètre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "deci-",
+                    "meaning": {
+                        "ko": "'십분의 일'",
+                        "en": "one tenth",
+                        "ja": "十分の一",
+                        "zh": "十分之一",
+                        "fr": "un dixième"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'미터'",
+                        "en": "meter",
+                        "ja": "メートル",
+                        "zh": "米",
+                        "fr": "mètre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미터의 10분의 1'에 해당하는 길이의 단위입니다.",
+                "en": "A unit of length equal to one tenth of a meter.",
+                "ja": "1メートルの10分の1に相当する長さの単位です。",
+                "zh": "相当于1米十分之一的长度单位。",
+                "fr": "Une unité de longueur égale à un dixième de mètre."
+            },
+            "example": "One decimeter is equal to 10 centimeters.",
+            "translation": {
+                "ko": "1데시미터는 10센티미터와 같다.",
+                "ja": "1デシメートルは10センチメートルに相当します。",
+                "zh": "1分米等于10厘米。",
+                "fr": "Un décimètre est égal à 10 centimètres."
+            }
+        }
+    ]
+}

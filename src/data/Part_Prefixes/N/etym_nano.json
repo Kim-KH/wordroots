@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "nano (one billionth) nanometer, nanosecond, nanotechnology",
+        "origin": "Greek, nanos (dwarf)",
+        "meaning": {
+            "ko": "난쟁이",
+            "en": "dwarf",
+            "ja": "小人",
+            "zh": "侏儒",
+            "fr": "nain"
+        }
+    },
+    "words": [
+        {
+            "word": "nanometer",
+            "part_of_speech": "",
+            "origin": "English, nano- + meter",
+            "meaning": {
+                "ko": "십억분의 일 미터",
+                "en": "one billionth of a meter",
+                "ja": "10億分の1メートル",
+                "zh": "十亿分之一米",
+                "fr": "un milliardième de mètre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "nano-",
+                    "meaning": {
+                        "ko": "'십억분의 일'",
+                        "en": "one billionth",
+                        "ja": "10億分の1",
+                        "zh": "十亿分之一",
+                        "fr": "un milliardième"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'미터'",
+                        "en": "meter",
+                        "ja": "メートル",
+                        "zh": "米",
+                        "fr": "mètre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "그리스어 'nanos(난쟁이)'에서 유래하여 매우 작다는 의미로 쓰이며, '미터의 10억분의 1'을 나타내는 길이의 단위입니다.",
+                "en": "Derived from Greek 'nanos' (dwarf), used to mean very small, and represents a unit of length equal to one billionth of a meter.",
+                "ja": "ギリシャ語の'nanos(小人)'に由来し、非常に小さいという意味で使われ、メートルの10億分の1を表す長さの単位です。",
+                "zh": "源自希腊语'nanos(侏儒)',用来表示非常小的意思,是表示米的十亿分之一的长度单位。",
+                "fr": "Dérivé du grec 'nanos' (nain), utilisé pour signifier très petit, et représente une unité de longueur égale à un milliardième de mètre."
+            },
+            "example": "A nanometer is one billionth of a meter.",
+            "translation": {
+                "ko": "1나노미터는 1미터의 10억분의 1이다.",
+                "ja": "ナノメートルは1メートルの10億分の1です。",
+                "zh": "纳米是米的十亿分之一。",
+                "fr": "Un nanomètre est un milliardième de mètre."
+            }
+        },
+        {
+            "word": "nanosecond",
+            "part_of_speech": "",
+            "origin": "English, nano- + second",
+            "meaning": {
+                "ko": "십억분의 일 초",
+                "en": "one billionth of a second",
+                "ja": "10億分の1秒",
+                "zh": "十亿分之一秒",
+                "fr": "milliardième de seconde"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "nano-",
+                    "meaning": {
+                        "ko": "'십억분의 일'",
+                        "en": "one billionth",
+                        "ja": "10億分の1",
+                        "zh": "十亿分之一",
+                        "fr": "un milliardième"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "second",
+                    "meaning": {
+                        "ko": "'초'",
+                        "en": "second",
+                        "ja": "秒",
+                        "zh": "秒",
+                        "fr": "seconde"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'초의 10억분의 1'을 나타내는 시간의 단위입니다.",
+                "en": "A unit of time representing one billionth of a second",
+                "ja": "秒の10億分の1を示す時間の単位です",
+                "zh": "表示秒的十亿分之一的时间单位",
+                "fr": "Unité de temps représentant un milliardième de seconde"
+            },
+            "example": "The computer can perform billions of calculations in a nanosecond.",
+            "translation": {
+                "ko": "그 컴퓨터는 1나노초 만에 수십억 번의 계산을 수행할 수 있다.",
+                "ja": "ナノ秒",
+                "zh": "纳秒",
+                "fr": "nanoseconde"
+            }
+        },
+        {
+            "word": "nanotechnology",
+            "part_of_speech": "",
+            "origin": "English, nano- + technology",
+            "meaning": {
+                "ko": "나노 기술",
+                "en": "technology at nanometer scale",
+                "ja": "ナノテクノロジー",
+                "zh": "纳米技术",
+                "fr": "nanotechnologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nano-",
+                    "meaning": {
+                        "ko": "'나노'",
+                        "en": "nanometer",
+                        "ja": "ナノ",
+                        "zh": "纳米",
+                        "fr": "nano"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "technology",
+                    "meaning": {
+                        "ko": "'기술'",
+                        "en": "technique or skill",
+                        "ja": "技術",
+                        "zh": "技术",
+                        "fr": "technologie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나노미터 단위의 극미세한 세계를 다루는 과학 기술'을 의미합니다.",
+                "en": "Science and technology dealing with the extremely fine world at nanometer scale",
+                "ja": "ナノメートル単位の極微細な世界を扱う科学技術",
+                "zh": "处理纳米级极微细世界的科学技术",
+                "fr": "Science et technologie traitant le monde extrêmement fin à l'échelle nanométrique"
+            },
+            "example": "Nanotechnology has the potential to revolutionize medicine.",
+            "translation": {
+                "ko": "나노 기술은 의학에 혁명을 일으킬 잠재력을 가지고 있다.",
+                "ja": "ナノテクノロジーは医学に革命をもたらす可能性を持っています。",
+                "zh": "纳米技术具有革新医学的潜力。",
+                "fr": "La nanotechnologie a le potentiel de révolutionner la médecine."
+            }
+        }
+    ]
+}

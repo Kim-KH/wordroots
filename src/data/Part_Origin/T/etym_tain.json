@@ -1,0 +1,413 @@
+{
+    "root_info": {
+        "roots": "tain, ten, tent, tin: hold, keep, have",
+        "origin": "Latin, tenere",
+        "meaning": {
+            "ko": "잡다, 유지하다",
+            "en": "to hold",
+            "ja": "握る、保つ",
+            "zh": "握住、保持",
+            "fr": "tenir, retenir"
+        }
+    },
+    "words": [
+        {
+            "word": "tenet",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ten",
+                    "meaning": {
+                        "ko": "잡다, 믿다",
+                        "en": "he holds",
+                        "ja": "彼は握る、信じる",
+                        "zh": "他持有、相信",
+                        "fr": "il tient, il croit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어에서 '그가 잡고 있다'는 3인칭 단수형입니다. 한 집단이 '굳게 잡고 있는' 믿음이라는 의미에서, '교리', '주의', '신조'를 뜻합니다.",
+                "en": "Latin 3rd person singular 'he holds'. From the sense of a principle a group 'firmly holds', meaning doctrine, principle, or creed.",
+                "ja": "ラテン語の3人称単数形「彼が握っている」から。集団が「しっかり握る」原則の意味から、教義、主義、信条を意味します。",
+                "zh": "拉丁语第三人称单数「他持有」。从集团「紧紧握住」的原则引申，表示教义、主义或信条。",
+                "fr": "Latin 3e personne du singulier « il tient ». Du sens d'un principe qu'un groupe « tient fermement », signifiant doctrine, principe ou croyance."
+            },
+            "example": "Freedom of speech is a basic tenet of democracy.",
+            "translation": {
+                "ko": "표현의 자유는 민주주의의 기본 신조이다.",
+                "ja": "言論の自由は民主主義の基本的な信条である。",
+                "zh": "言论自由是民主制度的基本信条。",
+                "fr": "La liberté d'expression est un principe fondamental de la démocratie."
+            }
+        },
+        {
+            "word": "pertain",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "통하여, 완전히",
+                        "en": "through",
+                        "ja": "通じて、完全に",
+                        "zh": "通过、完全地",
+                        "fr": "à travers, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tain",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to hold",
+                        "ja": "掴む、保つ",
+                        "zh": "抓住、持有",
+                        "fr": "tenir, saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 잡고 있다'는 의미에서, 어떤 주제에 '속하다', '관련되다'는 뜻입니다.",
+                "en": "From 'to hold completely,' it means to belong to or relate to a subject.",
+                "ja": "「完全に掴む」という意味から、あるテーマに「属する」「関連する」という意味になります。",
+                "zh": "从「完全掌握」的意思，引申为「属于」或「与...有关」。",
+                "fr": "Du sens « tenir complètement », signifie « appartenir à » ou « se rapporter à » un sujet."
+            },
+            "example": "This rule pertains to all employees.",
+            "translation": {
+                "ko": "이 규칙은 모든 직원에게 해당된다.",
+                "ja": "この規則はすべての従業員に適用される。",
+                "zh": "这项规则适用于所有员工。",
+                "fr": "Cette règle s'applique à tous les employés."
+            }
+        },
+        {
+            "word": "tenor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ten",
+                    "meaning": {
+                        "ko": "잡다, 지속하다",
+                        "en": "to hold, to course",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'계속 이어지는 흐름'이라는 의미에서, 이야기의 '취지', '방향'을 뜻하며, 음악에서는 '테너' 음역을 의미합니다.",
+                "en": "From the sense of 'continuous flow,' it means the 'gist' or 'direction' of a narrative, and in music refers to the tenor vocal range.",
+                "ja": "「継続的な流れ」という意味から、話の「要旨」「方向」を表し、音楽では「テノール」という音域を意味します。",
+                "zh": "从\"持续的流动\"的含义出发，表示叙述的\"主旨\"\"方向\"，在音乐中指\"男高音\"的音域。",
+                "fr": "Du sens de « flux continu », il désigne l'« essence » ou la « direction » d'un récit, et en musique le registre vocal de ténor."
+            },
+            "example": "The general tenor of the meeting was positive.",
+            "translation": {
+                "ko": "그 회의의 전반적인 취지는 긍정적이었다.",
+                "ja": "その会議全体の雰囲気は肯定的だった。",
+                "zh": "那次会议的总体基调是积极的。",
+                "fr": "Le ton général de la réunion était positif."
+            }
+        },
+        {
+            "word": "contain",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tain",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to hold",
+                        "ja": "持つ",
+                        "zh": "拿住",
+                        "fr": "tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에 함께 잡아두다'는 의미에서, '~을 포함하다', '담고 있다'는 뜻과, 감정 등을 '억누르다'는 뜻이 있습니다.",
+                "en": "From 'to hold together inside,' meaning both 'to include' and 'to restrain (emotions)'",
+                "ja": "「一緒に中に持つ」という意味から、「含む」と「感情などを抑える」という意味があります",
+                "zh": "从「一起在内部拿住」的意思引出，既表示「包含」，也表示「抑制（情感等）」",
+                "fr": "Du sens de 'tenir ensemble à l'intérieur', signifiant à la fois 'inclure' et 'réprimer (les émotions)'"
+            },
+            "example": "This box contains old photos.",
+            "translation": {
+                "ko": "이 상자에는 오래된 사진들이 들어 있다.",
+                "ja": "この箱は古い写真を入れている。",
+                "zh": "这个盒子里装着旧照片。",
+                "fr": "Cette boîte contient de vieilles photos."
+            }
+        },
+        {
+            "word": "entertain",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "enter- (inter-)",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "among",
+                        "ja": "間に",
+                        "zh": "在...之间",
+                        "fr": "parmi"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tain",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to hold",
+                        "ja": "つかまえる",
+                        "zh": "抓住",
+                        "fr": "tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람들 사이에서 (관심을) 계속 잡고 있다'는 의미에서, '즐겁게 해주다'는 뜻입니다.",
+                "en": "From the meaning of 'continuously holding (interest) among people', it means 'to amuse or delight'",
+                "ja": "「人々の間で（興味を）継続的に掴む」という意味から、「楽しませる」という意味です",
+                "zh": "从「在人群中持续抓住（兴趣）」的含义，引申为「使人愉快」的意思",
+                "fr": "Du sens de 'tenir (l'intérêt) continuellement parmi les gens', cela signifie 'amuser ou divertir'"
+            },
+            "example": "A clown entertained the children.",
+            "translation": {
+                "ko": "광대가 아이들을 즐겁게 해주었다.",
+                "ja": "ピエロは子どもたちを楽しませた。",
+                "zh": "小丑给孩子们带来了欢乐。",
+                "fr": "Un clown a amusé les enfants."
+            }
+        },
+        {
+            "word": "tenacity",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ten",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to hold",
+                        "ja": "つかむ",
+                        "zh": "抓住",
+                        "fr": "tenir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-acity",
+                    "meaning": {
+                        "ko": "성질",
+                        "en": "quality of",
+                        "ja": "性質",
+                        "zh": "性质",
+                        "fr": "qualité de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'꽉 잡고 놓지 않는 성질'이라는 의미에서, '고집', '끈기'를 뜻합니다.",
+                "en": "From the idea of holding on tight and not letting go, meaning persistence and determination.",
+                "ja": "しっかり握って離さない性質から、粘り強さや決意を意味します。",
+                "zh": "从紧紧抓住不放的意思演变而来，表示坚持和决心。",
+                "fr": "De l'idée de tenir fermement sans lâcher prise, signifiant persévérance et détermination."
+            },
+            "example": "He has the tenacity of a bulldog.",
+            "translation": {
+                "ko": "그는 불독 같은 끈기를 가졌다.",
+                "ja": "彼はブルドッグのような粘り強さを持っている。",
+                "zh": "他有斗牛犬一样的执着力。",
+                "fr": "Il a la ténacité d'un bouledogue."
+            }
+        },
+        {
+            "word": "detain",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져, 뒤에",
+                        "en": "away, back",
+                        "ja": "離れて、後ろ",
+                        "zh": "离开、向后",
+                        "fr": "loin, arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tain",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to hold",
+                        "ja": "保つ、握る",
+                        "zh": "抓住、握住",
+                        "fr": "tenir, saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤에 잡아두다'는 의미에서, 사람을 '구금하다', '붙잡아 두다'는 뜻입니다.",
+                "en": "From the sense of 'holding back,' meaning to arrest or keep someone in custody.",
+                "ja": "『後ろに保つ』という意味から、人を『逮捕する』『拘留する』という意味になりました。",
+                "zh": "从'向后抓住'的意思，引申为'逮捕'、'拘留'某人。",
+                "fr": "Du sens de 'tenir en arrière', signifiant arrêter ou maintenir quelqu'un en détention."
+            },
+            "example": "The police detained him for questioning.",
+            "translation": {
+                "ko": "경찰은 심문을 위해 그를 구금했다.",
+                "ja": "警察は尋問のため彼を拘留した。",
+                "zh": "警察为了审问而拘留了他。",
+                "fr": "La police l'a détenu pour interrogatoire."
+            }
+        },
+        {
+            "word": "countenance",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "coun- (con-)",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ten (tenere)",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to hold",
+                        "ja": "持つ",
+                        "zh": "持有",
+                        "fr": "tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신을 잡고 있는 태도' 즉, '몸가짐'을 의미하다가, 지금은 주로 '얼굴 표정', '안색'을 뜻하며, 동사로는 '지지하다'는 뜻도 있습니다.",
+                "en": "'one's bearing/posture' → 'facial expression' or 'appearance'; as a verb: 'to support'",
+                "ja": "「自分を保つ態度」つまり「身のこなし」という意味から、現在は主に「顔の表情」「顔色」を意味し、動詞として「支持する」という意味もあります。",
+                "zh": "从「保持自己的态度」即「举止姿态」的含义演变而来，现在主要指「面部表情」「气色」，动词时也表示「支持」。",
+                "fr": "De « sa manière de se tenir », c'est-à-dire « port », le sens a évolué vers « expression faciale » ou « apparence » ; comme verbe : « soutenir »."
+            },
+            "example": "He had a calm countenance.",
+            "translation": {
+                "ko": "그는 차분한 얼굴 표정을 하고 있었다.",
+                "ja": "彼は穏やかな表情をしていた。",
+                "zh": "他有着平静的脸色。",
+                "fr": "Il avait une expression calme."
+            }
+        },
+        {
+            "word": "contents",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tent (tenere)",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to hold",
+                        "ja": "持つ",
+                        "zh": "持有",
+                        "fr": "tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에 함께 담겨 있는 것들'이라는 의미에서, 상자 등의 '내용물' 또는 책의 '목차'를 뜻합니다.",
+                "en": "From the meaning 'things held together inside', it refers to the 'contents' of a box or other container, or the 'table of contents' of a book.",
+                "ja": "「一緒に中に入っているもの」という意味から、箱などの「内容物」または本の「目次」を意味します。",
+                "zh": "从「一起装在里面的东西」的意思出发，指盒子等的「内装物」或书的「目录」。",
+                "fr": "Du sens 'choses tenues ensemble à l'intérieur', il désigne le 'contenu' d'une boîte ou d'un autre récipient, ou la 'table des matières' d'un livre."
+            },
+            "example": "What are the contents of this box?",
+            "translation": {
+                "ko": "이 상자의 내용물이 무엇인가요?",
+                "ja": "この箱の内容物は何ですか？",
+                "zh": "这个盒子里面的东西是什么？",
+                "fr": "Quel est le contenu de cette boîte ?"
+            }
+        },
+        {
+            "word": "continue",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tinue (tenere)",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to hold",
+                        "ja": "つかむ",
+                        "zh": "握住",
+                        "fr": "tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'끊어지지 않고 함께 이어 잡다'는 의미에서, '계속하다', '지속되다'는 뜻입니다.",
+                "en": "From the sense of 'holding together without breaking,' meaning to persist or endure",
+                "ja": "「途切れずに一緒に握む」という意味から、「続ける」「持続する」という意味になりました。",
+                "zh": "从「不间断地一起握住」的意思引申，表示「继续」「持续」。",
+                "fr": "Du sens de « tenir ensemble sans interruption », d'où « continuer » ou « persister »."
+            },
+            "example": "The rain will continue all day.",
+            "translation": {
+                "ko": "비가 하루 종일 계속될 것이다.",
+                "ja": "雨は一日中降り続くでしょう。",
+                "zh": "雨将持续整天。",
+                "fr": "La pluie continuera toute la journée."
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "alt(o) (high) altitude, altimeter, alto",
+        "origin": "Latin, altus (high)",
+        "meaning": {
+            "ko": "높은",
+            "en": "high",
+            "ja": "高い",
+            "zh": "高",
+            "fr": "haut"
+        }
+    },
+    "words": [
+        {
+            "word": "altitude",
+            "part_of_speech": "",
+            "origin": "Latin, altitudo (height)",
+            "meaning": {
+                "ko": "높이",
+                "en": "height",
+                "ja": "高さ",
+                "zh": "高度",
+                "fr": "hauteur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "alt (altus)",
+                    "meaning": {
+                        "ko": "'높은'",
+                        "en": "high",
+                        "ja": "高い",
+                        "zh": "高的",
+                        "fr": "haut"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itude",
+                    "meaning": {
+                        "ko": "'상태, 성질'",
+                        "en": "state or quality",
+                        "ja": "状態、性質",
+                        "zh": "状态、性质",
+                        "fr": "état, qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'높은(alt) 상태'라는 의미로, 해발 '고도'나 천체의 '고도'를 나타낼 때 사용됩니다.",
+                "en": "Used to indicate elevation above sea level or the altitude of celestial bodies, meaning the state of being high",
+                "ja": "海抜や天体の高さを表す際に使用され、高い状態を意味します",
+                "zh": "用于表示海拔或天体的高度，表示高的状态",
+                "fr": "Utilisé pour indiquer l'altitude au-dessus du niveau de la mer ou la hauteur des corps célestes, signifiant l'état d'être élevé"
+            },
+            "example": "We are flying at an altitude of 30,000 feet.",
+            "translation": {
+                "ko": "우리는 고도 3만 피트 상공을 날고 있습니다.",
+                "ja": "私たちは高度30,000フィートで飛行しています。",
+                "zh": "我们正在30,000英尺的高度飞行。",
+                "fr": "Nous volons à une altitude de 30 000 pieds."
+            }
+        },
+        {
+            "word": "altimeter",
+            "part_of_speech": "",
+            "origin": "Latin, altus (high) + Greek, metron (measure)",
+            "meaning": {
+                "ko": "높이 측정",
+                "en": "high measure",
+                "ja": "高度測定器",
+                "zh": "高度计",
+                "fr": "altimètre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "alti (altus)",
+                    "meaning": {
+                        "ko": "'높은'",
+                        "en": "high",
+                        "ja": "高い",
+                        "zh": "高的",
+                        "fr": "haut"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter (metron)",
+                    "meaning": {
+                        "ko": "'측정하다'",
+                        "en": "to measure",
+                        "ja": "測定する",
+                        "zh": "测量",
+                        "fr": "mesurer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'높이(alti)를 측정하는(meter) 기계'라는 의미로 항공기나 등산에서 사용되는 '고도계'를 뜻합니다.",
+                "en": "An instrument that measures altitude, used in aircraft and mountaineering to indicate elevation",
+                "ja": "高度を測定する機器で、航空機や登山で使用される高度計を意味します",
+                "zh": "测量高度的仪器，用于飞机和登山中表示海拔高度",
+                "fr": "Un instrument qui mesure l'altitude, utilisé dans les avions et l'alpinisme pour indiquer l'élévation"
+            },
+            "example": "The pilot checked the altimeter before takeoff.",
+            "translation": {
+                "ko": "조종사는 이륙 전에 고도계를 확인했다.",
+                "ja": "パイロットは離陸前に高度計を確認した。",
+                "zh": "飞行员在起飞前检查了高度计。",
+                "fr": "Le pilote a vérifié l'altimètre avant le décollage."
+            }
+        },
+        {
+            "word": "alto",
+            "part_of_speech": "",
+            "origin": "Italian, alto (high)",
+            "meaning": {
+                "ko": "높은",
+                "en": "high",
+                "ja": "高い",
+                "zh": "高",
+                "fr": "haut"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "alto (altus)",
+                    "meaning": {
+                        "ko": "'높은'",
+                        "en": "high",
+                        "ja": "高い",
+                        "zh": "高",
+                        "fr": "haut"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 라틴어 'altus(높은)'에서 유래하여 이탈리아어에서 '높은'이라는 뜻으로 쓰이지만, 음악에서는 남성 음역 중 가장 '높은' 음역을 가리키던 것에서 유래하여 현재는 여성의 낮은 음역인 '알토'를 의미하게 되었습니다.",
+                "en": "From Latin 'altus (high)'; in music, originally the highest male voice, now referring to the lower female vocal range.",
+                "ja": "ラテン語の「altus（高い）」から、音楽では元々最高の男声、現在は女声の低い音域「アルト」を指す。",
+                "zh": "源自拉丁语「altus（高的）」，音乐中原指最高男声，现指女声低音区「中音」。",
+                "fr": "Du latin 'altus (haut)'; en musique, désignant à l'origine la plus haute voix masculine, maintenant la plus basse voix féminine."
+            },
+            "example": "She sings alto in the church choir.",
+            "translation": {
+                "ko": "그녀는 교회 합창단에서 알토를 부른다.",
+                "ja": "彼女は学校の合唱団でアルトを歌った。",
+                "zh": "她在学校合唱团唱中音。",
+                "fr": "Elle chantait alto dans le chœur de l'école."
+            }
+        }
+    ]
+}

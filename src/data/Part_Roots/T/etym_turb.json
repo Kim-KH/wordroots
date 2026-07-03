@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "turb (mob, muddled) disturb, turbidity, turbulent",
+        "origin": "Latin, turba (a crowd, a turmoil)",
+        "meaning": {
+            "ko": "군중, 혼란",
+            "en": "a crowd, a turmoil",
+            "ja": "群衆、混乱",
+            "zh": "人群、混乱",
+            "fr": "une foule, un tumulte"
+        }
+    },
+    "words": [
+        {
+            "word": "disturb",
+            "part_of_speech": "",
+            "origin": "Latin, disturbare (to throw into disorder)",
+            "meaning": {
+                "ko": "혼란에 빠뜨리다",
+                "en": "to throw into confusion",
+                "ja": "混乱させる",
+                "zh": "扰乱",
+                "fr": "déranger"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "'떨어져, 완전히'",
+                        "en": "apart, completely",
+                        "ja": "離れて、完全に",
+                        "zh": "分开、完全地",
+                        "fr": "à part, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "turb",
+                    "meaning": {
+                        "ko": "'혼란'",
+                        "en": "disorder",
+                        "ja": "混乱",
+                        "zh": "混乱",
+                        "fr": "désordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'평온한 상태를 흩어 혼란스럽게 하다'는 의미에서 '방해하다'라는 뜻입니다.",
+                "en": "Meaning to scatter a peaceful state and make it chaotic, hence 'to interrupt'",
+                "ja": "平穏な状態を散らかして混乱させる意味で、邪魔するという意味です",
+                "zh": "散乱平静的状态使其混乱，因此意为'打扰'",
+                "fr": "Signifie disperser un état paisible et le rendre chaotique, d'où 'déranger'"
+            },
+            "example": "Please do not disturb me while I'm working.",
+            "translation": {
+                "ko": "제가 일하는 동안 방해하지 마세요.",
+                "ja": "仕事中は邪魔しないでください",
+                "zh": "请不要在我工作时打扰我",
+                "fr": "S'il vous plaît ne me dérangez pas pendant que je travaille"
+            }
+        },
+        {
+            "word": "turbidity",
+            "part_of_speech": "",
+            "origin": "Latin, turbidus (muddled, full of confusion)",
+            "meaning": {
+                "ko": "혼란스러운",
+                "en": "confusing or confused",
+                "ja": "濁り、曇り",
+                "zh": "浑浊度",
+                "fr": "turbidité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "turb-",
+                    "meaning": {
+                        "ko": "'혼란'",
+                        "en": "muddled",
+                        "ja": "混乱、曇った",
+                        "zh": "混浊、模糊",
+                        "fr": "trouble, embrouillé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'액체가 맑지 않고 흐린' 상태인 '혼탁도'를 뜻합니다.",
+                "en": "The state where liquid is not clear but cloudy, referring to 'turbidity'",
+                "ja": "液体が澄んでおらず、濁った状態を指す『濁度』を意味します",
+                "zh": "指液体不清澈而浑浊的状态，表示'浑浊度'",
+                "fr": "L'état où un liquide n'est pas clair mais trouble, désignant la 'turbidité'"
+            },
+            "example": "The turbidity of the water made it difficult to see the bottom.",
+            "translation": {
+                "ko": "물의 혼탁도 때문에 바닥을 보기 어려웠다.",
+                "ja": "水の濁りは、底が見えるのが難しくなりました",
+                "zh": "水的浑浊度使得很难看到底部",
+                "fr": "La turbidité de l'eau rendait difficile de voir le fond"
+            }
+        },
+        {
+            "word": "turbulent",
+            "part_of_speech": "",
+            "origin": "Latin, turbulentus (full of commotion)",
+            "meaning": {
+                "ko": "소동으로 가득 찬",
+                "en": "full of commotion",
+                "ja": "乱気流のような",
+                "zh": "动荡不安的",
+                "fr": "turbulent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "turb-",
+                    "meaning": {
+                        "ko": "'혼란'",
+                        "en": "disorder",
+                        "ja": "混乱",
+                        "zh": "混乱",
+                        "fr": "désordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'질서 없이 마구 요동치는' 상태라는 의미에서 '격동의', '난기류의'라는 뜻입니다.",
+                "en": "Describes a state of violent or chaotic movement without order, meaning 'turbulent' or 'characterized by air turbulence'",
+                "ja": "秩序なく激しく揺れ動く状態を意味し、'激動的な'、'乱気流の'という意味です",
+                "zh": "指没有秩序而剧烈摇晃的状态，意为'激动的'、'气流紊乱的'",
+                "fr": "Décrit un état de mouvement violent ou chaotique sans ordre, signifiant 'turbulent' ou 'caractérisé par la turbulence de l'air'"
+            },
+            "example": "The airplane experienced turbulent weather.",
+            "translation": {
+                "ko": "그 비행기는 난기류를 겪었다.",
+                "ja": "飛行機は乱気流の天気を経験した。",
+                "zh": "飞机经历了动荡不安的天气。",
+                "fr": "L'avion a connu un temps turbulent."
+            }
+        }
+    ]
+}

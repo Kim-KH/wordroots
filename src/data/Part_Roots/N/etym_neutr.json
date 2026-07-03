@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "neutr(o) (neutral) neuter, neutron, neutrino",
+        "origin": "Latin, neuter (neither one nor the other)",
+        "meaning": {
+            "ko": "어느 쪽도 아닌",
+            "en": "neither",
+            "ja": "どちらでもない",
+            "zh": "都不是",
+            "fr": "ni l'un ni l'autre"
+        }
+    },
+    "words": [
+        {
+            "word": "neuter",
+            "part_of_speech": "",
+            "origin": "Latin, neuter (neither)",
+            "meaning": {
+                "ko": "어느 쪽도 아닌",
+                "en": "neither one nor the other",
+                "ja": "どちらでもない",
+                "zh": "两者都不",
+                "fr": "ni l'un ni l'autre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neutr-",
+                    "meaning": {
+                        "ko": "'어느 쪽도 아닌'",
+                        "en": "neither",
+                        "ja": "どちらでもない",
+                        "zh": "两者都不",
+                        "fr": "ni l'un ni l'autre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "문법에서 '남성도 여성도 아닌 중성'을 뜻하며, 동사로는 동물의 '중성화 수술을 하다'라는 뜻입니다.",
+                "en": "In grammar, it means 'gender that is neither masculine nor feminine'. As a verb, it means 'to perform neutering surgery on an animal'.",
+                "ja": "文法では「男性でも女性でもない中性」を意味し、動詞としては動物の「去勢手術をする」という意味です。",
+                "zh": "在语法中表示「既非阳性也非阴性的中性」，作为动词表示「对动物进行绝育手术」。",
+                "fr": "En grammaire, cela signifie le 'genre neutre qui n'est ni masculin ni féminin'. En tant que verbe, cela signifie 'châtrer un animal'."
+            },
+            "example": "You should have your pet neutered.",
+            "translation": {
+                "ko": "당신은 애완동물을 중성화시켜야 한다.",
+                "ja": "ペットを去勢すべきだった。",
+                "zh": "你应该给宠物做绝育手术。",
+                "fr": "Vous auriez dû faire castrer votre animal de compagnie."
+            }
+        },
+        {
+            "word": "neutron",
+            "part_of_speech": "",
+            "origin": "Latin, neuter (neither)",
+            "meaning": {
+                "ko": "어느 쪽도 아닌",
+                "en": "neither one nor the other",
+                "ja": "どちら側でもない",
+                "zh": "两者都不",
+                "fr": "neutre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neutr-",
+                    "meaning": {
+                        "ko": "'중성'",
+                        "en": "neutral",
+                        "ja": "中性",
+                        "zh": "中性",
+                        "fr": "neutre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전기적으로 양성도 음성도 아닌 중성'을 띠는 입자인 '중성자'를 뜻합니다.",
+                "en": "A particle that is electrically neutral, neither positive nor negative",
+                "ja": "電気的に正でも負でもない中性を帯びた粒子である中性子を意味します",
+                "zh": "指既不带正电也不带负电的电中性粒子",
+                "fr": "Particule électriquement neutre, ni positive ni négative"
+            },
+            "example": "An atom's nucleus is made of protons and neutrons.",
+            "translation": {
+                "ko": "원자핵은 양성자와 중성자로 이루어져 있다.",
+                "ja": "原子核はプロトンと中性子からできています",
+                "zh": "原子核由质子和中子组成",
+                "fr": "Le noyau d'un atome est composé de protons et de neutrons"
+            }
+        },
+        {
+            "word": "neutrino",
+            "part_of_speech": "",
+            "origin": "Italian, neutrino (little neutral one)",
+            "meaning": {
+                "ko": "작은 중성인 것",
+                "en": "small neutral thing",
+                "ja": "小さな中性粒子",
+                "zh": "小的中性粒子",
+                "fr": "petite particule neutre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neutr-",
+                    "meaning": {
+                        "ko": "'중성'",
+                        "en": "neutral",
+                        "ja": "中性",
+                        "zh": "中性",
+                        "fr": "neutre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전하를 띠지 않는 매우 작은 입자'인 '중성미자'를 뜻합니다.",
+                "en": "Refers to a 'neutrino', an extremely small particle with no electric charge.",
+                "ja": "電荷を持たない極めて小さい粒子である'ニュートリノ'を意味します。",
+                "zh": "指不带电荷的极小粒子'中微子'。",
+                "fr": "Désigne un 'neutrino', une particule extrêmement petite sans charge électrique."
+            },
+            "example": "Neutrinos are very difficult to detect.",
+            "translation": {
+                "ko": "중성미자는 검출하기가 매우 어렵다.",
+                "ja": "ニュートリノは検出が非常に難しい。",
+                "zh": "中微子非常难以检测。",
+                "fr": "Les neutrinos sont très difficiles à détecter."
+            }
+        }
+    ]
+}

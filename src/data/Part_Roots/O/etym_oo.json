@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "oo (egg) oocyte, oologist, oospore",
+        "origin": "Greek, oon (egg)",
+        "meaning": {
+            "ko": "알",
+            "en": "egg",
+            "ja": "卵",
+            "zh": "蛋",
+            "fr": "œuf"
+        }
+    },
+    "words": [
+        {
+            "word": "oocyte",
+            "part_of_speech": "",
+            "origin": "Greek, oon (egg) + kytos (hollow, cell)",
+            "meaning": {
+                "ko": "알 세포",
+                "en": "egg cell",
+                "ja": "卵母細胞",
+                "zh": "卵母细胞",
+                "fr": "ovocyte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oo-",
+                    "meaning": {
+                        "ko": "'알'",
+                        "en": "egg",
+                        "ja": "卵",
+                        "zh": "卵",
+                        "fr": "ovule"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyte",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'난자로 발달하기 전 단계의 세포'인 '난모세포'를 뜻합니다.",
+                "en": "A cell in the stage before developing into an egg cell",
+                "ja": "卵子に発達する前段階の細胞",
+                "zh": "发育成卵子之前阶段的细胞",
+                "fr": "Cellule au stade avant développement en ovule"
+            },
+            "example": "An oocyte is an immature egg cell.",
+            "translation": {
+                "ko": "난모세포는 미성숙한 난자 세포이다.",
+                "ja": "卵母細胞は未成熟な卵細胞である。",
+                "zh": "卵母细胞是未成熟的卵细胞。",
+                "fr": "Un ovocyte est une cellule ovulaire immature."
+            }
+        },
+        {
+            "word": "oologist",
+            "part_of_speech": "",
+            "origin": "Greek, oon (egg) + logos (study)",
+            "meaning": {
+                "ko": "알 연구가",
+                "en": "egg researcher",
+                "ja": "卵研究家",
+                "zh": "卵研究者",
+                "fr": "oologiste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oo-",
+                    "meaning": {
+                        "ko": "'알'",
+                        "en": "egg",
+                        "ja": "卵",
+                        "zh": "卵",
+                        "fr": "œuf"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자'",
+                        "en": "scholar",
+                        "ja": "学者",
+                        "zh": "学者",
+                        "fr": "savant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새의 알을 연구하는 사람'인 '조란학자'를 뜻합니다.",
+                "en": "A person who studies bird eggs, called an oologist.",
+                "ja": "鳥の卵を研究する人",
+                "zh": "研究鸟卵的人",
+                "fr": "Une personne qui étudie les œufs d'oiseaux"
+            },
+            "example": "The oologist carefully measured the dimensions of the bird's egg.",
+            "translation": {
+                "ko": "조란학자는 새알의 치수를 주의 깊게 측정했다.",
+                "ja": "卵研究家は丁寧に鳥の卵の寸法を測定した。",
+                "zh": "卵研究者仔细测量了鸟卵的尺寸。",
+                "fr": "L'oologiste a soigneusement mesuré les dimensions de l'œuf de l'oiseau."
+            }
+        },
+        {
+            "word": "oospore",
+            "part_of_speech": "",
+            "origin": "Greek, oon (egg) + sporos (a seed)",
+            "meaning": {
+                "ko": "알 씨앗",
+                "en": "egg seed",
+                "ja": "卵胞子",
+                "zh": "卵孢子",
+                "fr": "oospore"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oo-",
+                    "meaning": {
+                        "ko": "'알'",
+                        "en": "egg",
+                        "ja": "卵",
+                        "zh": "卵",
+                        "fr": "oeuf"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spore",
+                    "meaning": {
+                        "ko": "'포자'",
+                        "en": "seed",
+                        "ja": "胞子",
+                        "zh": "孢子",
+                        "fr": "spore"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'수정된 난세포가 두꺼운 벽을 형성하여 만들어진 포자'인 '난포자'를 뜻합니다.",
+                "en": "A spore formed when a fertilized egg cell develops a thick wall",
+                "ja": "受精した卵細胞が厚い壁を形成して作られた胞子",
+                "zh": "受精卵细胞形成厚壁而产生的孢子",
+                "fr": "Spore formée quand une cellule oeuf fécondée développe une paroi épaisse"
+            },
+            "example": "The oospore can survive harsh environmental conditions.",
+            "translation": {
+                "ko": "난포자는 혹독한 환경 조건에서 생존할 수 있다.",
+                "ja": "卵胞子は厳しい環境条件に耐えることができます。",
+                "zh": "卵孢子能够承受严酷的环境条件。",
+                "fr": "L'oospore peut survivre à des conditions environnementales difficiles."
+            }
+        }
+    ]
+}

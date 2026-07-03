@@ -1,0 +1,340 @@
+{
+    "root_info": {
+        "roots": "sec, seg, sag: cut",
+        "origin": "Latin, secare",
+        "meaning": {
+            "ko": "자르다",
+            "en": "to cut",
+            "ja": "切る",
+            "zh": "切",
+            "fr": "couper"
+        }
+    },
+    "words": [
+        {
+            "word": "secant",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sec",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ant",
+                    "meaning": {
+                        "ko": "~하는",
+                        "en": "that does",
+                        "ja": "~する",
+                        "zh": "~的",
+                        "fr": "~qui"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원을 '자르고 지나가는' 직선이라는 의미에서, 기하학의 '할선(割線)'을 뜻합니다.",
+                "en": "A line that 'cuts through' a circle, referring to the geometry term 'secant line'",
+                "ja": "円を『切って通る』直線という意味から、幾何学の『割線』を意味します。",
+                "zh": "源自「切割并穿过」圆的直线这一含义，在几何学中指「割线」。",
+                "fr": "D'une ligne qui « coupe à travers » un cercle, désignant la « sécante » en géométrie."
+            },
+            "example": "A secant line intersects a circle at two points.",
+            "translation": {
+                "ko": "할선은 원과 두 점에서 만난다.",
+                "ja": "割線は円と2つの点で交わる。",
+                "zh": "割线与圆交于两点。",
+                "fr": "Une sécante intersecte un cercle en deux points."
+            }
+        },
+        {
+            "word": "segment",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "seg",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ment",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominal suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘라낸 부분'이라는 의미에서, 전체의 '부분', '조각'을 뜻합니다.",
+                "en": "From 'cut-off part': means a part or piece of a whole",
+                "ja": "「切り取られた部分」から、全体の「部分」「一片」を意味します",
+                "zh": "从\"切下来的部分\"引申，表示整体的\"部分\"、\"片段\"",
+                "fr": "De « partie coupée » : signifie une partie ou un morceau d'un ensemble"
+            },
+            "example": "I ate a segment of the orange.",
+            "translation": {
+                "ko": "나는 오렌지 한 조각을 먹었다.",
+                "ja": "私はオレンジの一切れを食べました",
+                "zh": "我吃了一片橙子",
+                "fr": "J'ai mangé un segment d'orange"
+            }
+        },
+        {
+            "word": "transect",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tran- (trans-)",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sect",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가로질러 자르다'는 의미에서, '횡단하다', '가로 절단하다'는 뜻입니다.",
+                "en": "From the meaning of 'cutting across', transect means 'to cut across' or 'to intersect by cutting'",
+                "ja": "横切って切るという意味から、横断する、横切って分断するという意味です",
+                "zh": "从横切的含义来看，transect意思是横断、横切分割",
+                "fr": "Du sens de 'couper à travers', transect signifie 'traverser en coupant' ou 'intersectionner par coupe'"
+            },
+            "example": "The scientists will transect the forest for their study.",
+            "translation": {
+                "ko": "과학자들은 연구를 위해 그 숲을 횡단할 것이다.",
+                "ja": "科学者たちは彼らの研究のために森を横断調査するでしょう。",
+                "zh": "科学家们将为了他们的研究而横断森林。",
+                "fr": "Les scientifiques traverseront la forêt en la sectionnant pour leur étude."
+            }
+        },
+        {
+            "word": "dissection",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 따로",
+                        "en": "apart",
+                        "ja": "離れて、別に",
+                        "zh": "分开、分别",
+                        "fr": "à part, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sect",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'따로따로 잘라내는 것'이라는 의미에서, 의학이나 생물학의 '해부', '절개'를 뜻합니다.",
+                "en": "In the sense of 'cutting apart separately', it refers to 'dissection' or 'incision' in medicine and biology.",
+                "ja": "「別々に切り離すこと」という意味から、医学や生物学の「解剖」「切開」を意味します。",
+                "zh": "从「分别切割」的意思出发，指医学或生物学中的「解剖」、「切开」。",
+                "fr": "Au sens de 'couper séparément', il désigne la 'dissection' ou l'incision' en médecine et en biologie."
+            },
+            "example": "The students performed a frog dissection.",
+            "translation": {
+                "ko": "학생들은 개구리 해부를 했다.",
+                "ja": "解剖",
+                "zh": "解剖",
+                "fr": "dissection"
+            }
+        },
+        {
+            "word": "bisect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "둘",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sect",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'둘로 자르다'는 의미에서, 선이나 각을 '양분하다', '이등분하다'는 뜻입니다.",
+                "en": "From 'cut into two': to divide a line or angle into two equal parts.",
+                "ja": "「二つに切る」という意味から、直線や角を「二等分する」という意味です。",
+                "zh": "从「分成两部分切割」的意思，表示「平分」一条线或一个角。",
+                "fr": "De « couper en deux » : diviser une ligne ou un angle en deux parties égales."
+            },
+            "example": "This line bisects the angle.",
+            "translation": {
+                "ko": "이 선은 그 각을 이등분한다.",
+                "ja": "この直線はその角を二等分する。",
+                "zh": "这条线平分了这个角。",
+                "fr": "Cette ligne divise l'angle en deux."
+            }
+        },
+        {
+            "word": "intersection",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sect",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로를 자르고 지나가는 지점'이라는 의미에서, 도로의 '교차로'를 뜻합니다.",
+                "en": "From the meaning of 'a point where things cut through each other and pass', it refers to a 'crossroads' on a road.",
+                "ja": "互いに切り合って通り過ぎる地点という意味から、道路の交差点を意味します。",
+                "zh": "从相互切割并通过的地点这一含义来看，指道路的十字路口。",
+                "fr": "Du sens de 'point où les choses se coupent mutuellement et se croisent', il désigne un carrefour sur une route."
+            },
+            "example": "There was an accident at the intersection.",
+            "translation": {
+                "ko": "교차로에서 사고가 있었다.",
+                "ja": "交差点",
+                "zh": "十字路口",
+                "fr": "carrefour"
+            }
+        },
+        {
+            "word": "sector",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sect",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘라낸 부분'이라는 의미에서, 경제나 사회의 '부문', '분야' 또는 원의 '부채꼴'을 의미합니다.",
+                "en": "From the meaning of 'a cut part', it refers to a 'division' or 'field' in economics or society, or a 'circular sector' in geometry.",
+                "ja": "'切り取った部分'という意味から、経済や社会の'部門'、'分野'、または円の'扇形'を意味します。",
+                "zh": "从'切割下来的部分'的意思出发，指经济或社会中的'部门'、'领域'，或圆形的'扇形'。",
+                "fr": "Du sens de 'partie coupée', il désigne une 'division' ou un 'domaine' dans l'économie ou la société, ou un 'secteur circulaire' en géométrie."
+            },
+            "example": "He works in the financial sector.",
+            "translation": {
+                "ko": "그는 금융 부문에서 일한다.",
+                "ja": "彼は金融部門で働いています。",
+                "zh": "他在金融部门工作。",
+                "fr": "Il travaille dans le secteur financier."
+            }
+        },
+        {
+            "word": "insect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "into",
+                        "ja": "中に",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sect",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "몸이 머리, 가슴, 배로 '잘려 있는' 것처럼 보인다는 의미에서 '곤충'을 뜻하게 되었습니다.",
+                "en": "The body appears 'cut' into head, thorax, and abdomen, which is why it means 'insect'.",
+                "ja": "体が頭、胸、腹に『切られている』ように見えることから『昆虫』を意味するようになりました。",
+                "zh": "因为身体看起来被『分割』成头部、胸部和腹部，所以表示『昆虫』的意思。",
+                "fr": "Le corps semblant 'divisé' en tête, thorax et abdomen, d'où le sens d'« insecte »."
+            },
+            "example": "An ant is a type of insect.",
+            "translation": {
+                "ko": "개미는 곤충의 일종이다.",
+                "ja": "蟻は昆虫の一種です。",
+                "zh": "蚂蚁是一种昆虫。",
+                "fr": "Une fourmi est un type d'insecte."
+            }
+        }
+    ]
+}

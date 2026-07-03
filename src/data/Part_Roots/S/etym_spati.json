@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "spati (empty) space, spatial, spatiotemporal",
+        "origin": "Latin, spatium (space)",
+        "meaning": {
+            "ko": "공간",
+            "en": "space",
+            "ja": "空間",
+            "zh": "空间",
+            "fr": "espace"
+        }
+    },
+    "words": [
+        {
+            "word": "space",
+            "part_of_speech": "",
+            "origin": "Latin, spatium (space)",
+            "meaning": {
+                "ko": "공간",
+                "en": "area or expanse",
+                "ja": "空間",
+                "zh": "空间",
+                "fr": "espace"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spa-",
+                    "meaning": {
+                        "ko": "'공간'",
+                        "en": "space",
+                        "ja": "空間",
+                        "zh": "空间",
+                        "fr": "espace"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비어 있는 넓은 공간' 또는 '우주'를 뜻합니다.",
+                "en": "Means an empty, wide area or the universe",
+                "ja": "空いている広い場所または宇宙を意味します",
+                "zh": "指空旷宽阔的地方或宇宙",
+                "fr": "Désigne un vaste espace vide ou l'univers"
+            },
+            "example": "There is not enough space in this room for another chair.",
+            "translation": {
+                "ko": "이 방에는 의자 하나 더 놓을 공간이 충분하지 않다.",
+                "ja": "この部屋には別の椅子を置く十分なスペースがありません。",
+                "zh": "这个房间里没有足够的空间放置另一把椅子。",
+                "fr": "Il n'y a pas assez d'espace dans cette pièce pour une autre chaise."
+            }
+        },
+        {
+            "word": "spatial",
+            "part_of_speech": "",
+            "origin": "Latin, spatium (space)",
+            "meaning": {
+                "ko": "공간",
+                "en": "space",
+                "ja": "空間的な",
+                "zh": "空间的",
+                "fr": "spatial"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spati-",
+                    "meaning": {
+                        "ko": "'공간'",
+                        "en": "space",
+                        "ja": "空間",
+                        "zh": "空间",
+                        "fr": "espace"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공간의', '공간적인'이라는 뜻입니다.",
+                "en": "Means 'of space' or 'relating to space'",
+                "ja": "空間に関する、空間的という意味です",
+                "zh": "表示与空间有关、空间的含义",
+                "fr": "Signifie 'de l'espace' ou 'relatif à l'espace'"
+            },
+            "example": "He has good spatial awareness.",
+            "translation": {
+                "ko": "그는 공간 인지 능력이 좋다.",
+                "ja": "彼は優れた空間認識能力を持っている。",
+                "zh": "他具有很好的空间意识。",
+                "fr": "Il a une bonne conscience spatiale."
+            }
+        },
+        {
+            "word": "spatiotemporal",
+            "part_of_speech": "",
+            "origin": "Latin, spatium (space) + tempus (time)",
+            "meaning": {
+                "ko": "공간과 시간",
+                "en": "space and time",
+                "ja": "空間と時間の",
+                "zh": "时空的",
+                "fr": "spatiotemporel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spatio-",
+                    "meaning": {
+                        "ko": "'공간'",
+                        "en": "space",
+                        "ja": "空間",
+                        "zh": "空间",
+                        "fr": "espace"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "temporal",
+                    "meaning": {
+                        "ko": "'시간의'",
+                        "en": "of time",
+                        "ja": "時間的",
+                        "zh": "时间的",
+                        "fr": "temporel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공간과 시간을 모두 포함하는'이라는 의미에서 '시공간의'라는 뜻입니다.",
+                "en": "Describes something encompassing both space and time together",
+                "ja": "空間と時間の両方を含む意味",
+                "zh": "包含空间和时间两者的含义",
+                "fr": "Signifie incluant l'espace et le temps ensemble"
+            },
+            "example": "The theory describes the spatiotemporal structure of the universe.",
+            "translation": {
+                "ko": "그 이론은 우주의 시공간 구조를 설명한다.",
+                "ja": "その理論は宇宙の時空構造を説明している。",
+                "zh": "该理论描述了宇宙的时空结构。",
+                "fr": "La théorie décrit la structure spatiotemporelle de l'univers."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "calo(r) (heat) calorie, caloric, calorimeter",
+        "origin": "Latin, calor (heat)",
+        "meaning": {
+            "ko": "열",
+            "en": "heat",
+            "ja": "熱",
+            "zh": "热",
+            "fr": "chaleur"
+        }
+    },
+    "words": [
+        {
+            "word": "calorie",
+            "part_of_speech": "",
+            "origin": "French, calorie (a unit of heat)",
+            "meaning": {
+                "ko": "열량 단위",
+                "en": "unit of heat energy",
+                "ja": "熱量の単位",
+                "zh": "热量单位",
+                "fr": "unité d'énergie thermique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "calor (calor)",
+                    "meaning": {
+                        "ko": "'열'",
+                        "en": "heat",
+                        "ja": "熱",
+                        "zh": "热",
+                        "fr": "chaleur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ie",
+                    "meaning": {
+                        "ko": "'명사형 접미사'",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形后缀",
+                        "fr": "suffixe nominal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열(calor)'을 측정하는 단위라는 의미에서 '칼로리(열량)'를 뜻하게 되었습니다.",
+                "en": "Named from the concept of measuring heat (calor), hence 'calorie' means heat/thermal energy",
+                "ja": "熱(calor)を測定する単位という意味から、カロリー(熱量)を意味するようになりました。",
+                "zh": "从测量热(calor)的单位这一概念出发，卡路里(热量)就有了这样的含义。",
+                "fr": "Du concept de mesure de la chaleur (calor), le terme 'calorie' en est venu à signifier quantité de chaleur."
+            },
+            "example": "An apple has about 80 calories.",
+            "translation": {
+                "ko": "사과 한 개는 약 80칼로리입니다.",
+                "ja": "りんご1個はおよそ80カロリーです。",
+                "zh": "一个苹果大约有80卡路里。",
+                "fr": "Une pomme contient environ 80 calories."
+            }
+        },
+        {
+            "word": "caloric",
+            "part_of_speech": "",
+            "origin": "Latin, calor (heat)",
+            "meaning": {
+                "ko": "열",
+                "en": "heat or thermal energy",
+                "ja": "熱量の",
+                "zh": "热量的",
+                "fr": "calorique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "calor (calor)",
+                    "meaning": {
+                        "ko": "'열'",
+                        "en": "heat",
+                        "ja": "熱",
+                        "zh": "热",
+                        "fr": "chaleur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열(calor)의'라는 의미로 '칼로리의', '열량의'라는 뜻을 가집니다.",
+                "en": "Meaning 'of heat (calor)'; refers to caloric or thermal energy content",
+                "ja": "熱(calor)の意味で、カロリーの、熱量のという意味を持ちます",
+                "zh": "以热(calor)的含义表示热量的、卡路里的意思",
+                "fr": "Signifiant 'de chaleur (calor)'; désigne le contenu calorique ou énergétique thermique"
+            },
+            "example": "The caloric content of the meal was very high.",
+            "translation": {
+                "ko": "그 식사의 열량 함량은 매우 높았다.",
+                "ja": "その食事のカロリー含有量は非常に高かった",
+                "zh": "那顿饭的热量含量非常高",
+                "fr": "La teneur calorique du repas était très élevée"
+            }
+        },
+        {
+            "word": "calorimeter",
+            "part_of_speech": "",
+            "origin": "Latin, calor (heat) + Greek, metron (measure)",
+            "meaning": {
+                "ko": "열 측정기",
+                "en": "heat measuring device",
+                "ja": "熱量計",
+                "zh": "热量计",
+                "fr": "calorimètre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "calori (calor)",
+                    "meaning": {
+                        "ko": "'열'",
+                        "en": "heat",
+                        "ja": "熱",
+                        "zh": "热",
+                        "fr": "chaleur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter (metron)",
+                    "meaning": {
+                        "ko": "'측정 기구'",
+                        "en": "measuring instrument",
+                        "ja": "測定装置",
+                        "zh": "测量装置",
+                        "fr": "appareil de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열(calori)을 측정하는(-meter) 장치'라는 의미로, '열량계'를 뜻합니다.",
+                "en": "A device that measures heat (calori-) using a measuring instrument (-meter), meaning 'calorimeter'",
+                "ja": "熱(calori)を測定する(-meter)装置という意味で、熱量計を意味します",
+                "zh": "测量热量(calori)的(-meter)装置，意为热量计",
+                "fr": "Un appareil qui mesure la chaleur (calori-) à l'aide d'un instrument de mesure (-mètre), signifiant calorimètre"
+            },
+            "example": "A calorimeter is used to measure the heat of chemical reactions.",
+            "translation": {
+                "ko": "열량계는 화학 반응의 열을 측정하는 데 사용됩니다.",
+                "ja": "熱量計は化学反応の熱を測定するのに使われます。",
+                "zh": "热量计用于测量化学反应产生的热量。",
+                "fr": "Un calorimètre est utilisé pour mesurer la chaleur des réactions chimiques."
+            }
+        }
+    ]
+}

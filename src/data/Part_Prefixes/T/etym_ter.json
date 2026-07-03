@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "ter (three) tertiary, tercet, tertian",
+        "origin": "Latin, ter (three times)",
+        "meaning": {
+            "ko": "세 번",
+            "en": "three times",
+            "ja": "3回",
+            "zh": "三次",
+            "fr": "trois fois"
+        }
+    },
+    "words": [
+        {
+            "word": "tertiary",
+            "part_of_speech": "",
+            "origin": "Latin, tertiarius (of the third rank)",
+            "meaning": {
+                "ko": "세 번째 등급의",
+                "en": "third rank or grade",
+                "ja": "第三等級の",
+                "zh": "第三级的",
+                "fr": "tertiaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ter-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "三つ",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세 번째의'라는 뜻으로, '제3의', '제3기' 등을 의미합니다.",
+                "en": "Means 'third in order or rank', referring to 'tertiary' or 'tertiary period'.",
+                "ja": "順序や等級で第三番目を意味し、第三期などを指します。",
+                "zh": "表示顺序或等级中的第三位，指第三期等。",
+                "fr": "Signifie 'troisième en ordre ou rang', se référant à la période tertiaire."
+            },
+            "example": "The tertiary sector of the economy includes services.",
+            "translation": {
+                "ko": "경제의 3차 부문은 서비스를 포함한다.",
+                "ja": "経済の第三次産業はサービスを含みます。",
+                "zh": "经济的第三产业包括服务业。",
+                "fr": "Le secteur tertiaire de l'économie comprend les services."
+            }
+        },
+        {
+            "word": "tercet",
+            "part_of_speech": "",
+            "origin": "Latin, tertius (third)",
+            "meaning": {
+                "ko": "세 번째",
+                "en": "third",
+                "ja": "3行詩",
+                "zh": "三行诗",
+                "fr": "tercet"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ter-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "三",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세 개의 행이 하나의 단위를 이루는 시'라는 의미에서 '3행시'를 뜻합니다.",
+                "en": "A stanza or poem consisting of three lines forming a single unit.",
+                "ja": "3つの行が1つの単位を形成する詩行またはスタンザ",
+                "zh": "由三行组成的诗节或诗歌单位",
+                "fr": "Une strophe ou poème composé de trois vers formant une unité unique"
+            },
+            "example": "Dante's \"Divine Comedy\" is written in tercets.",
+            "translation": {
+                "ko": "단테의 \"신곡\"은 3행시로 쓰여졌다.",
+                "ja": "ダンテの『神曲』は3行詩で書かれている。",
+                "zh": "但丁的《神曲》是用三行诗写成的。",
+                "fr": "La 'Divine Comédie' de Dante est écrite en tercets."
+            }
+        },
+        {
+            "word": "tertian",
+            "part_of_speech": "",
+            "origin": "Latin, tertiana febris (a fever occurring every third day)",
+            "meaning": {
+                "ko": "사흘마다 오는 열병",
+                "en": "fever occurring every third day",
+                "ja": "3日ごとの熱病",
+                "zh": "三日热",
+                "fr": "fièvre tierce"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ter-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "三",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사흘마다(이틀 간격으로) 일어나는'이라는 뜻으로, 주로 학질(말라리아)의 종류를 설명할 때 쓰입니다.",
+                "en": "A type of fever that occurs every other day, primarily used to describe a form of malaria",
+                "ja": "2日間隔で発生する熱病の一種で、主にマラリアの種類を説明する際に使用されます",
+                "zh": "每隔一天发生的热病，主要用于描述疟疾的一种类型",
+                "fr": "Une fièvre qui se manifeste tous les deux jours, utilisée principalement pour décrire une forme de paludisme"
+            },
+            "example": "Tertian malaria causes fever every other day.",
+            "translation": {
+                "ko": "삼일열 말라리아는 격일로 열을 유발한다.",
+                "ja": "三日熱",
+                "zh": "三日疟",
+                "fr": "tertiane"
+            }
+        }
+    ]
+}

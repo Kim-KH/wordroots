@@ -1,0 +1,287 @@
+{
+    "root_info": {
+        "roots": "osis (state, disease) arterioslerosis, prognosis, thrombosis, neurosis, psychosis",
+        "origin": "Greek, -osis (state, condition)",
+        "meaning": {
+            "ko": "상태, 질병",
+            "en": "state, disease",
+            "ja": "状態、病気",
+            "zh": "状态、疾病",
+            "fr": "état, maladie"
+        }
+    },
+    "words": [
+        {
+            "word": "arteriosclerosis",
+            "part_of_speech": "",
+            "origin": "Greek, arteria (artery) + sklerosis (hardening)",
+            "meaning": {
+                "ko": "동맥 경화",
+                "en": "hardening of arteries",
+                "ja": "動脈硬化",
+                "zh": "动脉硬化",
+                "fr": "artériosclérose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arterio-",
+                    "meaning": {
+                        "ko": "'동맥'",
+                        "en": "artery",
+                        "ja": "動脈",
+                        "zh": "动脉",
+                        "fr": "artère"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scler-",
+                    "meaning": {
+                        "ko": "'단단한'",
+                        "en": "hard",
+                        "ja": "硬い",
+                        "zh": "硬化",
+                        "fr": "dur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-osis",
+                    "meaning": {
+                        "ko": "'병적 상태'",
+                        "en": "pathological condition",
+                        "ja": "病的状態",
+                        "zh": "病态",
+                        "fr": "état pathologique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동맥이 딱딱하게 굳어지는' 질병인 '동맥 경화증'을 뜻합니다.",
+                "en": "Arteriosclerosis is a hardening of the arteries.",
+                "ja": "動脈が硬くなる病気である動脈硬化症を意味します",
+                "zh": "指动脉变硬的疾病",
+                "fr": "Maladie où les artères deviennent dures"
+            },
+            "example": "Arteriosclerosis is a hardening of the arteries.",
+            "translation": {
+                "ko": "동맥 경화증은 동맥이 경화되는 것이다.",
+                "ja": "動脈硬化症",
+                "zh": "动脉硬化症",
+                "fr": "artériosclérose"
+            }
+        },
+        {
+            "word": "prognosis",
+            "part_of_speech": "",
+            "origin": "Greek, prognosis (foreknowledge)",
+            "meaning": {
+                "ko": "미리 앎",
+                "en": "knowing beforehand",
+                "ja": "予後、経過予測",
+                "zh": "预后、病情预测",
+                "fr": "pronostic, prévision"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'미리'",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "提前、之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gnos-",
+                    "meaning": {
+                        "ko": "'알다'",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "了解、知道",
+                        "fr": "connaître"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-is",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态、情况",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미리 아는 것'이라는 의미에서 의학에서 질병의 경과에 대한 '예후'를 뜻합니다.",
+                "en": "Derived from the meaning 'knowing beforehand', it refers to a medical term for 'prognosis' regarding the course of disease.",
+                "ja": "事前に知ることの意味から、医学で病気の経過についての予後を指します",
+                "zh": "从预先了解的意思出发，在医学中指疾病进展的预后",
+                "fr": "Du sens de 'connaître à l'avance', il désigne en médecine le 'pronostic' concernant l'évolution de la maladie"
+            },
+            "example": "The doctor gave him a good prognosis.",
+            "translation": {
+                "ko": "의사는 그에게 좋은 예후를 알려주었다.",
+                "ja": "医者は彼に良い予後を与えた",
+                "zh": "医生给了他良好的预后",
+                "fr": "Le médecin lui a donné un bon pronostic"
+            }
+        },
+        {
+            "word": "thrombosis",
+            "part_of_speech": "",
+            "origin": "Greek, thrombosis (a curdling, a clotting)",
+            "meaning": {
+                "ko": "응고",
+                "en": "blood clotting or coagulation",
+                "ja": "血栓症",
+                "zh": "血栓形成",
+                "fr": "thrombose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thromb-",
+                    "meaning": {
+                        "ko": "'혈전'",
+                        "en": "clot",
+                        "ja": "血栓",
+                        "zh": "血块",
+                        "fr": "caillot"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-osis",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "condition or state",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈관 속에서 피가 굳어 혈전이 생기는' 증상인 '혈전증'을 뜻합니다.",
+                "en": "Thrombosis refers to the condition of blood clotting inside blood vessels to form a thrombus",
+                "ja": "血管内で血液が固まって血栓ができる症状を意味します",
+                "zh": "指血液在血管内凝固形成血栓的症状",
+                "fr": "Fait référence à l'état de coagulation du sang dans les vaisseaux sanguins formant un thrombus"
+            },
+            "example": "Thrombosis can lead to a heart attack or stroke.",
+            "translation": {
+                "ko": "혈전증은 심장 마비나 뇌졸중으로 이어질 수 있다.",
+                "ja": "血栓症は心臓発作や脳卒中につながる可能性があります",
+                "zh": "血栓形成可导致心脏病发作或中风",
+                "fr": "La thrombose peut entraîner une crise cardiaque ou un accident vasculaire cérébral"
+            }
+        },
+        {
+            "word": "neurosis",
+            "part_of_speech": "",
+            "origin": "Greek, neuron (nerve) + -osis",
+            "meaning": {
+                "ko": "신경 상태",
+                "en": "nervous condition",
+                "ja": "神経症",
+                "zh": "神经症",
+                "fr": "névrose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neur-",
+                    "meaning": {
+                        "ko": "'신경'",
+                        "en": "nerve",
+                        "ja": "神経",
+                        "zh": "神经",
+                        "fr": "nerf"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-osis",
+                    "meaning": {
+                        "ko": "'병적 상태'",
+                        "en": "pathological condition",
+                        "ja": "病的状態",
+                        "zh": "病态",
+                        "fr": "état pathologique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'불안이나 강박 등 정신적인 문제로 인한' '신경증', '노이로제'를 뜻합니다.",
+                "en": "Neurosis refers to a mild mental disorder caused by psychological issues such as anxiety or obsession",
+                "ja": "不安や強迫などの精神的問題による軽い精神疾患を意味します",
+                "zh": "指由焦虑或强迫等心理问题引起的轻度精神障碍",
+                "fr": "Désigne un trouble mental léger causé par des problèmes psychologiques comme l'anxiété ou l'obsession"
+            },
+            "example": "Neurosis is a mild mental illness.",
+            "translation": {
+                "ko": "신경증은 가벼운 정신 질환이다.",
+                "ja": "神経症は軽い精神疾患です",
+                "zh": "神经症是一种轻度精神疾病",
+                "fr": "La névrose est une maladie mentale légère"
+            }
+        },
+        {
+            "word": "psychosis",
+            "part_of_speech": "",
+            "origin": "Greek, psykhe (mind) + -osis",
+            "meaning": {
+                "ko": "정신 상태",
+                "en": "mental state",
+                "ja": "精神病",
+                "zh": "精神病",
+                "fr": "psychose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psych-",
+                    "meaning": {
+                        "ko": "'정신'",
+                        "en": "mind",
+                        "ja": "精神",
+                        "zh": "精神",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-osis",
+                    "meaning": {
+                        "ko": "'병적 상태'",
+                        "en": "pathological condition",
+                        "ja": "病的状態",
+                        "zh": "病态状态",
+                        "fr": "état pathologique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'현실 판단 능력을 상실하는 심각한 정신 질환'인 '정신병'을 뜻합니다.",
+                "en": "A severe mental illness characterized by loss of contact with reality",
+                "ja": "現実との接触を失う重度の精神疾患",
+                "zh": "与现实失去接触的严重精神疾病",
+                "fr": "Trouble mental grave caractérisé par perte de contact avec la réalité"
+            },
+            "example": "Psychosis is a severe mental disorder.",
+            "translation": {
+                "ko": "정신병은 심각한 정신 장애이다.",
+                "ja": "精神病は重度の精神障害である。",
+                "zh": "精神病是严重的精神障碍。",
+                "fr": "La psychose est un trouble mental grave."
+            }
+        }
+    ]
+}

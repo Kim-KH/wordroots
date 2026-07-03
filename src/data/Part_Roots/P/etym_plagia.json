@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "plagia (kidnapping) plagiarism, plagiarist, plagiarize",
+        "origin": "Latin, plagiarius (a kidnapper)",
+        "meaning": {
+            "ko": "유괴범",
+            "en": "a kidnapper",
+            "ja": "誘拐犯",
+            "zh": "绑匪",
+            "fr": "ravisseur"
+        }
+    },
+    "words": [
+        {
+            "word": "plagiarism",
+            "part_of_speech": "",
+            "origin": "Latin, plagiarius (kidnapper)",
+            "meaning": {
+                "ko": "유괴범",
+                "en": "kidnapping or abduction",
+                "ja": "他人の著作を盗用すること",
+                "zh": "剽窃他人作品",
+                "fr": "vol d'œuvre d'autrui"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plagi-",
+                    "meaning": {
+                        "ko": "'유괴'",
+                        "en": "kidnapping",
+                        "ja": "盗用",
+                        "zh": "窃取",
+                        "fr": "vol"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람의 글이나 아이디어를 훔쳐서 자기 것인 양 사용하는' 유괴와 같은 행위라는 의미에서 '표절'을 뜻합니다.",
+                "en": "The act of stealing someone else's writings or ideas and using them as one's own, similar to kidnapping in its illicit nature. This meaning is expressed as plagiarism.",
+                "ja": "他人の著作やアイデアを盗んで自分のものとして使う行為で、誘拐と同じような違法な行為という意味から表現される。",
+                "zh": "盗取他人的著作或想法并冒充为自己的作品，从类似于绑架的非法行为的含义来表达。",
+                "fr": "L'acte de voler les écrits ou les idées d'autrui et de les présenter comme les siens, exprimé par une signification similaire à un enlèvement."
+            },
+            "example": "Plagiarism is a serious academic offense.",
+            "translation": {
+                "ko": "표절은 심각한 학업상의 위반이다.",
+                "ja": "盗用は重大な学問的違反である。",
+                "zh": "剽窃是严重的学术违法行为。",
+                "fr": "Le plagiat est une violation académique grave."
+            }
+        },
+        {
+            "word": "plagiarist",
+            "part_of_speech": "",
+            "origin": "Latin, plagiarius (kidnapper)",
+            "meaning": {
+                "ko": "유괴범",
+                "en": "kidnapper or abductor",
+                "ja": "盗作者",
+                "zh": "剽窃者",
+                "fr": "plagiaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plagi-",
+                    "meaning": {
+                        "ko": "'유괴, 표절'",
+                        "en": "kidnapping, plagiarism",
+                        "ja": "盗作、模倣",
+                        "zh": "剽窃、抄袭",
+                        "fr": "plagiat, imitation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'표절하는 사람'을 뜻합니다.",
+                "en": "A person who plagiarizes",
+                "ja": "盗作をする人",
+                "zh": "从事剽窃的人",
+                "fr": "Personne qui plagie"
+            },
+            "example": "The writer was accused of being a plagiarist.",
+            "translation": {
+                "ko": "그 작가는 표절자로 고발되었다.",
+                "ja": "その作家は盗作者であると非難されました。",
+                "zh": "那位作家被指控为剽窃者。",
+                "fr": "L'écrivain a été accusé d'être un plagiaire."
+            }
+        },
+        {
+            "word": "plagiarize",
+            "part_of_speech": "",
+            "origin": "Latin, plagiarius (kidnapper)",
+            "meaning": {
+                "ko": "유괴범",
+                "en": "kidnapper",
+                "ja": "他人の作品を盗用する",
+                "zh": "抄袭他人作品",
+                "fr": "plagier une œuvre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plagi-",
+                    "meaning": {
+                        "ko": "'유괴, 표절'",
+                        "en": "kidnapping, plagiarism",
+                        "ja": "盗用、剽窃",
+                        "zh": "抄袭、剽窃",
+                        "fr": "plagiat, vol littéraire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람의 작품을 표절하다'는 뜻입니다.",
+                "en": "It means to copy or use someone else's work without permission or acknowledgment",
+                "ja": "許可なく他人の著作物をコピーまたは使用することを意味します",
+                "zh": "未经许可或承认而复制或使用他人作品的意思",
+                "fr": "Cela signifie copier ou utiliser l'œuvre de quelqu'un d'autre sans permission ni reconnaissance"
+            },
+            "example": "He plagiarized his final essay.",
+            "translation": {
+                "ko": "그는 그의 기말 에세이를 표절했다.",
+                "ja": "彼は最終レポートを盗用した",
+                "zh": "他抄袭了他的期末论文",
+                "fr": "Il a plagié sa dissertation finale"
+            }
+        }
+    ]
+}

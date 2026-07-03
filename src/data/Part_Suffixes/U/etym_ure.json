@@ -1,0 +1,176 @@
+{
+    "root_info": {
+        "roots": "ure (act, process) erasure, procedure, legislature",
+        "origin": "Latin, -ura (act, result of an act)",
+        "meaning": {
+            "ko": "행위, 과정",
+            "en": "act, process",
+            "ja": "行為、過程",
+            "zh": "行为、过程",
+            "fr": "acte, processus"
+        }
+    },
+    "words": [
+        {
+            "word": "erasure",
+            "part_of_speech": "",
+            "origin": "Latin, eradere (to scrape off)",
+            "meaning": {
+                "ko": "긁어내다",
+                "en": "to scrape off",
+                "ja": "消すこと、削除",
+                "zh": "擦除、删除",
+                "fr": "effacement, suppression"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "erase",
+                    "meaning": {
+                        "ko": "'지우다'",
+                        "en": "erase",
+                        "ja": "消す",
+                        "zh": "擦除、消除",
+                        "fr": "effacer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "'행위, 결과'",
+                        "en": "act or result",
+                        "ja": "行為、結果",
+                        "zh": "行为、结果",
+                        "fr": "acte, résultat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지우는 행위' 또는 '지워진 자국'인 '삭제'를 뜻합니다.",
+                "en": "The act of erasing or the mark left by erasure indicating deletion",
+                "ja": "消すという行為、または消された跡を意味する削除",
+                "zh": "表示擦除的行为或被擦除后留下的痕迹",
+                "fr": "L'acte d'effacer ou la trace laissée par l'effacement indiquant une suppression"
+            },
+            "example": "The document showed signs of erasure.",
+            "translation": {
+                "ko": "그 문서에는 삭제된 흔적이 보였다.",
+                "ja": "文書は消去の跡を示していた。",
+                "zh": "该文件显示了擦除的迹象。",
+                "fr": "Le document montrait des signes d'effacement."
+            }
+        },
+        {
+            "word": "procedure",
+            "part_of_speech": "",
+            "origin": "Latin, procedere (to go forward)",
+            "meaning": {
+                "ko": "앞으로 가다",
+                "en": "to go forward",
+                "ja": "手順、進め方",
+                "zh": "步骤、程序",
+                "fr": "procédure, méthode"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞으로'",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cede",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "進む",
+                        "zh": "前进",
+                        "fr": "aller"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "'과정'",
+                        "en": "process",
+                        "ja": "過程",
+                        "zh": "过程",
+                        "fr": "processus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정해진 순서에 따라 앞으로 나아가는' 과정인 '절차'를 뜻합니다.",
+                "en": "A process of moving forward in a set order; refers to steps or protocol",
+                "ja": "決められた順序に従って前に進む過程を意味する手順です",
+                "zh": "按照规定的顺序依次进行的过程，指步骤",
+                "fr": "Un processus d'avancer suivant un ordre établi; désigne les étapes"
+            },
+            "example": "You must follow the correct procedure.",
+            "translation": {
+                "ko": "당신은 올바른 절차를 따라야 한다.",
+                "ja": "正しい手順に従う必要があります",
+                "zh": "你必须遵循正确的程序",
+                "fr": "Vous devez suivre la bonne procédure"
+            }
+        },
+        {
+            "word": "legislature",
+            "part_of_speech": "",
+            "origin": "Latin, lex (law) + lator (a proposer)",
+            "meaning": {
+                "ko": "법을 제안하는 자",
+                "en": "one who proposes laws",
+                "ja": "法律を制定する機関",
+                "zh": "制定法律的机构",
+                "fr": "organe législatif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "legislat-",
+                    "meaning": {
+                        "ko": "'입법'",
+                        "en": "legislation",
+                        "ja": "立法",
+                        "zh": "立法",
+                        "fr": "législation"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "'기관'",
+                        "en": "institution",
+                        "ja": "機関",
+                        "zh": "机构",
+                        "fr": "organe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법을 만드는 기관'인 '입법부'를 뜻합니다.",
+                "en": "The legislature is the branch of government that creates laws.",
+                "ja": "立法府は法律を制定する政府機関です。",
+                "zh": "立法机构是制定法律的政府部门。",
+                "fr": "Le législateur est l'organe gouvernemental qui crée les lois."
+            },
+            "example": "The legislature passed a new law.",
+            "translation": {
+                "ko": "입법부는 새로운 법안을 통과시켰다.",
+                "ja": "議会は新しい法律を可決した。",
+                "zh": "立法机构通过了一项新法律。",
+                "fr": "Le législateur a adopté une nouvelle loi."
+            }
+        }
+    ]
+}

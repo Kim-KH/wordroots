@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "vitr(e) (glass) in vitro, vitreous, vitrify, vitriol",
+        "origin": "Latin, vitrum (glass)",
+        "meaning": {
+            "ko": "유리",
+            "en": "glass",
+            "ja": "ガラス",
+            "zh": "玻璃",
+            "fr": "verre"
+        }
+    },
+    "words": [
+        {
+            "word": "in vitro",
+            "part_of_speech": "",
+            "origin": "Latin, in vitro (in the glass)",
+            "meaning": {
+                "ko": "유리 안에서",
+                "en": "in glass",
+                "ja": "ガラス容器内で",
+                "zh": "玻璃容器内",
+                "fr": "dans le verre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vitro",
+                    "meaning": {
+                        "ko": "'유리'",
+                        "en": "glass",
+                        "ja": "ガラス",
+                        "zh": "玻璃",
+                        "fr": "verre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시험관이나 배양 접시 등 유리 용기 안에서' 일어나는 생명 현상을 의미합니다.",
+                "en": "Refers to biological phenomena occurring inside glass vessels such as test tubes or culture dishes",
+                "ja": "試験管や培養皿などのガラス容器内で起こる生命現象を意味します",
+                "zh": "指在试管或培养皿等玻璃容器内发生的生命现象",
+                "fr": "Désigne les phénomènes biologiques qui se produisent dans des récipients en verre comme les tubes à essai ou les boîtes de culture"
+            },
+            "example": "In vitro fertilization is a common fertility treatment.",
+            "translation": {
+                "ko": "체외 수정은 흔한 불임 치료법이다.",
+                "ja": "体外受精は一般的な不妊治療です",
+                "zh": "体外受精是常见的不孕症治疗方法",
+                "fr": "La fécondation in vitro est un traitement courant de l'infertilité"
+            }
+        },
+        {
+            "word": "vitreous",
+            "part_of_speech": "",
+            "origin": "Latin, vitreus (of glass, glassy)",
+            "meaning": {
+                "ko": "유리의",
+                "en": "glassy or glass-like",
+                "ja": "ガラスのような",
+                "zh": "玻璃状的",
+                "fr": "vitreux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vitr-",
+                    "meaning": {
+                        "ko": "'유리'",
+                        "en": "glass",
+                        "ja": "ガラス",
+                        "zh": "玻璃",
+                        "fr": "verre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유리 같은'이라는 뜻입니다.",
+                "en": "Meaning glass-like",
+                "ja": "ガラスのようという意味です",
+                "zh": "意为像玻璃一样的",
+                "fr": "Signifie semblable au verre"
+            },
+            "example": "The vitreous humor is the clear gel that fills the space behind the lens of the eyeball.",
+            "translation": {
+                "ko": "유리체액은 안구의 수정체 뒤 공간을 채우는 투명한 젤이다.",
+                "ja": "硝子体液は眼球のレンズの後ろの空間を満たす透明なゲルです。",
+                "zh": "玻璃体是填充眼球晶状体后面空间的透明凝胶。",
+                "fr": "L'humeur vitrée est le gel transparent qui remplit l'espace derrière le cristallin du globe oculaire."
+            }
+        },
+        {
+            "word": "vitrify",
+            "part_of_speech": "",
+            "origin": "Latin, vitrum (glass) + facere (to make)",
+            "meaning": {
+                "ko": "유리로 만들다",
+                "en": "to make into glass",
+                "ja": "ガラス化する",
+                "zh": "玻璃化",
+                "fr": "vitrifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vitri-",
+                    "meaning": {
+                        "ko": "'유리'",
+                        "en": "glass",
+                        "ja": "ガラス",
+                        "zh": "玻璃",
+                        "fr": "verre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유리처럼 만들다', '유리화하다'는 뜻입니다.",
+                "en": "To make like glass; to convert into glass",
+                "ja": "ガラスのように作る、ガラス化する",
+                "zh": "像玻璃一样制造，玻璃化",
+                "fr": "Faire comme du verre; convertir en verre"
+            },
+            "example": "The intense heat caused the sand to vitrify.",
+            "translation": {
+                "ko": "강렬한 열은 모래를 유리화시켰다.",
+                "ja": "激しい熱により砂がガラス化した。",
+                "zh": "强烈的热使沙子玻璃化。",
+                "fr": "La chaleur intense a vitrifiée le sable."
+            }
+        },
+        {
+            "word": "vitriol",
+            "part_of_speech": "",
+            "origin": "Latin, vitriolum (a glassy substance)",
+            "meaning": {
+                "ko": "유리 같은 물질",
+                "en": "glassy substance",
+                "ja": "硫酸塩; 辛辣な批判",
+                "zh": "硫酸盐; 尖刻批评",
+                "fr": "sulfate; critique acerbe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vitr-",
+                    "meaning": {
+                        "ko": "'유리'",
+                        "en": "glass",
+                        "ja": "ガラス",
+                        "zh": "玻璃",
+                        "fr": "verre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유리처럼 생긴' 황산염을 가리키는 옛말에서 유래하여, 지금은 '신랄한 비난'을 뜻합니다.",
+                "en": "Derived from an archaic term referring to sulfates that resembled glass. Now means scathing criticism.",
+                "ja": "ガラスのような硫酸塩を指す古い言葉に由来し、現在は辛辣な批判を意味します。",
+                "zh": "源自指称玻璃状硫酸盐的古语，现在表示尖刻批评。",
+                "fr": "Dérivé d'un terme archaïque désignant les sulfates ressemblant au verre. Signifie maintenant critique acerbe."
+            },
+            "example": "He poured vitriol on his political opponents.",
+            "translation": {
+                "ko": "그는 그의 정적들에게 신랄한 비난을 퍼부었다.",
+                "ja": "彼は政治的対立者に辛辣な批判を浴びせた。",
+                "zh": "他对政治对手进行了尖刻的批评。",
+                "fr": "Il a déversé des critiques acerbes sur ses adversaires politiques."
+            }
+        }
+    ]
+}

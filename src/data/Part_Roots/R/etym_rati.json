@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "rati(o) (fixed, reason) ratio, ration, rational, ratiocination",
+        "origin": "Latin, reri, ratus (to reckon, to think)",
+        "meaning": {
+            "ko": "생각하다, 계산하다",
+            "en": "to reason, to reckon",
+            "ja": "理性的に考える、計算する",
+            "zh": "推理、计算",
+            "fr": "raisonner, calculer"
+        }
+    },
+    "words": [
+        {
+            "word": "ratio",
+            "part_of_speech": "",
+            "origin": "Latin, ratio (a reckoning, a calculation, a reason)",
+            "meaning": {
+                "ko": "계산, 이유",
+                "en": "calculation, reason",
+                "ja": "比率、割合",
+                "zh": "比率、比例",
+                "fr": "rapport, proportion"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rati-",
+                    "meaning": {
+                        "ko": "'계산'",
+                        "en": "reckoning",
+                        "ja": "計算、勘定",
+                        "zh": "计算、估算",
+                        "fr": "calcul, estimation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 수량을 계산하여 비교한 값'인 '비율'을 뜻합니다.",
+                "en": "The ratio of men to women in the company is 3 to 1.",
+                "ja": "二つの数量を計算して比較した値である'比率'を意味します。",
+                "zh": "指通过计算两个数量进行比较的值，即'比率'。",
+                "fr": "Signifie le 'rapport', une valeur obtenue en calculant et en comparant deux quantités."
+            },
+            "example": "The ratio of men to women in the company is 3 to 1.",
+            "translation": {
+                "ko": "그 회사의 남녀 비율은 3대 1이다.",
+                "ja": "会社の男女比は3対1です。",
+                "zh": "公司中男性和女性的比例是3比1。",
+                "fr": "Le ratio hommes-femmes dans l'entreprise est de 3 pour 1."
+            }
+        },
+        {
+            "word": "ration",
+            "part_of_speech": "",
+            "origin": "Latin, ratio (a reckoning)",
+            "meaning": {
+                "ko": "계산",
+                "en": "calculation",
+                "ja": "配給量",
+                "zh": "配给量",
+                "fr": "ration"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rati-",
+                    "meaning": {
+                        "ko": "'계산, 할당'",
+                        "en": "reckoning",
+                        "ja": "計算、配分",
+                        "zh": "计算、分配",
+                        "fr": "calcul, répartition"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'계산하여 나누어주는 정해진 양'인 '배급량'을 뜻합니다.",
+                "en": "A fixed amount of provisions distributed by calculation",
+                "ja": "計算して配分される定められた量の意味です",
+                "zh": "计算后分配的固定数量",
+                "fr": "Une quantité fixe de provisions distribuée par calcul"
+            },
+            "example": "They were given a daily ration of bread and water.",
+            "translation": {
+                "ko": "그들은 매일 빵과 물을 배급받았다.",
+                "ja": "彼らは毎日パンと水の配給量を与えられた。",
+                "zh": "他们每天得到规定量的面包和水。",
+                "fr": "On leur donnait une ration quotidienne de pain et d'eau."
+            }
+        },
+        {
+            "word": "rational",
+            "part_of_speech": "",
+            "origin": "Latin, rationalis (of reason)",
+            "meaning": {
+                "ko": "이성의",
+                "en": "of reason or rationality",
+                "ja": "理性的な",
+                "zh": "理性的",
+                "fr": "rationnel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rati-",
+                    "meaning": {
+                        "ko": "'이성'",
+                        "en": "reason",
+                        "ja": "理性、思考",
+                        "zh": "理性、原因",
+                        "fr": "raison"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감정이 아닌 이성에 근거한'이라는 의미에서 '합리적인', '이성적인'이라는 뜻입니다.",
+                "en": "Means logical or reasonable, based on reason rather than emotion.",
+                "ja": "感情ではなく理性に基づいた、論理的で合理的という意味です。",
+                "zh": "基于理性而非感情，意为逻辑的、合理的。",
+                "fr": "Signifie logique ou raisonnable, basé sur la raison plutôt que l'émotion."
+            },
+            "example": "We need to make a rational decision.",
+            "translation": {
+                "ko": "우리는 합리적인 결정을 내려야 한다.",
+                "ja": "私たちは理性的な決定を下す必要があります。",
+                "zh": "我们需要做出理性的决定。",
+                "fr": "Nous devons prendre une décision rationnelle."
+            }
+        },
+        {
+            "word": "ratiocination",
+            "part_of_speech": "",
+            "origin": "Latin, ratiocinatio (a reasoning)",
+            "meaning": {
+                "ko": "추론",
+                "en": "logical reasoning or argumentation",
+                "ja": "論理的推論",
+                "zh": "逻辑推理",
+                "fr": "raisonnement logique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ratio-",
+                    "meaning": {
+                        "ko": "'추론'",
+                        "en": "reasoning",
+                        "ja": "推論",
+                        "zh": "推理",
+                        "fr": "raisonnement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'논리적인 과정을 통한 추론'을 뜻합니다.",
+                "en": "Reasoning through a logical process",
+                "ja": "論理的過程による推論",
+                "zh": "通过逻辑过程进行推理",
+                "fr": "Raisonnement par un processus logique"
+            },
+            "example": "The detective solved the case through pure ratiocination.",
+            "translation": {
+                "ko": "그 탐정은 순수한 추론을 통해 사건을 해결했다.",
+                "ja": "探偵は純粋な論理的推論で事件を解いた。",
+                "zh": "侦探通过纯粹的逻辑推理破案了。",
+                "fr": "Le détective a résolu l'affaire par pur raisonnement logique."
+            }
+        }
+    ]
+}

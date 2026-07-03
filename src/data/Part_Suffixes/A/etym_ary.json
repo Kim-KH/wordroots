@@ -1,0 +1,365 @@
+{
+    "root_info": {
+        "roots": "ary, ery, ory (relating to) aviary, boundary, bribery, dictionary, illusory, library, victory",
+        "origin": "Latin, -arius, -oria, -orium (relating to, a place for)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "relating to",
+            "ja": "…に関する",
+            "zh": "…に関する",
+            "fr": "relatif à"
+        }
+    },
+    "words": [
+        {
+            "word": "aviary",
+            "part_of_speech": "",
+            "origin": "Latin, aviarium (a place for birds)",
+            "meaning": {
+                "ko": "새를 위한 장소",
+                "en": "place for birds",
+                "ja": "鳥のための場所",
+                "zh": "鸟类的场所",
+                "fr": "lieu pour les oiseaux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "avia- (avis)",
+                    "meaning": {
+                        "ko": "'새'",
+                        "en": "bird",
+                        "ja": "鳥",
+                        "zh": "鸟",
+                        "fr": "oiseau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ary",
+                    "meaning": {
+                        "ko": "'~를 위한 장소'",
+                        "en": "place for",
+                        "ja": "~のための場所",
+                        "zh": "~的场所",
+                        "fr": "lieu pour ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새를 기르는 큰 장소'라는 의미에서 '새장', '조류 사육장'을 뜻합니다.",
+                "en": "A large enclosure where birds are kept and bred",
+                "ja": "鳥を飼育する大きな場所、鳥舎を意味します",
+                "zh": "饲养和繁殖鸟类的大型场所，指鸟舍",
+                "fr": "Grand enclos où les oiseaux sont élevés et reproduits"
+            },
+            "example": "The aviary at the zoo is home to hundreds of birds.",
+            "translation": {
+                "ko": "동물원의 새장은 수백 마리 새들의 보금자리이다.",
+                "ja": "動物園の鳥舎には何百羽もの鳥が暮らしています。",
+                "zh": "动物园里的鸟舍里住着数百只鸟。",
+                "fr": "La volière du zoo abrite des centaines d'oiseaux."
+            }
+        },
+        {
+            "word": "boundary",
+            "part_of_speech": "",
+            "origin": "Old French, bonde (a limit)",
+            "meaning": {
+                "ko": "경계",
+                "en": "line or limit between areas",
+                "ja": "境界",
+                "zh": "边界",
+                "fr": "frontière"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bound",
+                    "meaning": {
+                        "ko": "'경계'",
+                        "en": "boundary or limit",
+                        "ja": "境界",
+                        "zh": "边界",
+                        "fr": "limite"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ary",
+                    "meaning": {
+                        "ko": "'선'",
+                        "en": "line or direction",
+                        "ja": "線",
+                        "zh": "线",
+                        "fr": "ligne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 지역을 나누는 선'인 '경계'를 뜻합니다.",
+                "en": "Refers to 'boundary' which is the line dividing two regions.",
+                "ja": "2つの地域を分ける線である『境界』を意味します。",
+                "zh": "指分隔两个地区的线即『边界』的含义。",
+                "fr": "Désigne la 'frontière' qui est la ligne séparant deux régions."
+            },
+            "example": "The river forms the boundary between the two countries.",
+            "translation": {
+                "ko": "그 강은 두 나라 사이의 경계를 이룬다.",
+                "ja": "川は2つの国の間の境界を形成しています。",
+                "zh": "河流形成了两国之间的边界。",
+                "fr": "Le fleuve forme la frontière entre les deux pays."
+            }
+        },
+        {
+            "word": "bribery",
+            "part_of_speech": "",
+            "origin": "Old French, briber (to beg)",
+            "meaning": {
+                "ko": "구걸하다",
+                "en": "to beg or ask for alms",
+                "ja": "贈賄",
+                "zh": "贿赂",
+                "fr": "corruption"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bribe",
+                    "meaning": {
+                        "ko": "'뇌물'",
+                        "en": "bribe or corruption money",
+                        "ja": "賄賂",
+                        "zh": "贿赂",
+                        "fr": "pot-de-vin"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ery",
+                    "meaning": {
+                        "ko": "'행위'",
+                        "en": "act or practice of",
+                        "ja": "行為",
+                        "zh": "行为",
+                        "fr": "acte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뇌물을 주는 행위'인 '뇌물 수수'를 뜻합니다.",
+                "en": "The act of giving bribes or bribery",
+                "ja": "賄賂を与える行為",
+                "zh": "给予贿赂的行为",
+                "fr": "L'acte de donner des pots-de-vin"
+            },
+            "example": "He was accused of bribery.",
+            "translation": {
+                "ko": "그는 뇌물 수수 혐의로 기소되었다.",
+                "ja": "彼は贈賄の罪に問われた。",
+                "zh": "他被控犯贿赂罪。",
+                "fr": "Il a été accusé de corruption."
+            }
+        },
+        {
+            "word": "dictionary",
+            "part_of_speech": "",
+            "origin": "Latin, dictio (a saying, a word)",
+            "meaning": {
+                "ko": "말",
+                "en": "word",
+                "ja": "辞書",
+                "zh": "字典",
+                "fr": "dictionnaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "diction-",
+                    "meaning": {
+                        "ko": "'말, 단어'",
+                        "en": "word, words",
+                        "ja": "言葉、単語",
+                        "zh": "言葉、单词",
+                        "fr": "mot, parole"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ary",
+                    "meaning": {
+                        "ko": "'~에 관한 책'",
+                        "en": "book about",
+                        "ja": "~に関する本",
+                        "zh": "关于~的书",
+                        "fr": "livre sur ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단어에 관한 책'인 '사전'을 뜻합니다.",
+                "en": "A book about words, meaning a dictionary",
+                "ja": "単語に関する本である辞書を意味します",
+                "zh": "关于单词的书，指字典",
+                "fr": "Un livre sur les mots, signifiant un dictionnaire"
+            },
+            "example": "Look up the word in a dictionary.",
+            "translation": {
+                "ko": "사전에서 그 단어를 찾아보세요.",
+                "ja": "辞書で単語を調べる",
+                "zh": "在字典里查单词",
+                "fr": "Cherchez le mot dans un dictionnaire"
+            }
+        },
+        {
+            "word": "illusory",
+            "part_of_speech": "",
+            "origin": "Latin, illusorius (ironical, deceptive)",
+            "meaning": {
+                "ko": "기만적인",
+                "en": "deceptive or misleading",
+                "ja": "幻想的な",
+                "zh": "欺骗性的",
+                "fr": "illusoire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "illus- (illudere)",
+                    "meaning": {
+                        "ko": "'속이다'",
+                        "en": "to deceive",
+                        "ja": "だます",
+                        "zh": "欺骗",
+                        "fr": "tromper"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ory",
+                    "meaning": {
+                        "ko": "'~와 같은'",
+                        "en": "resembling or like",
+                        "ja": "のような",
+                        "zh": "像...一样",
+                        "fr": "comme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실제가 아닌 환상과 같은'이라는 의미에서 '환상에 불과한'이라는 뜻입니다.",
+                "en": "Means something illusory or fantastical rather than real, implying deception or false appearance",
+                "ja": "実際ではなく幻想のような意味で、幻想に過ぎないという意味です",
+                "zh": "表示不真实而像幻想一样的意思，即仅仅是幻想的含义",
+                "fr": "Signifie quelque chose de fantastique plutôt que réel, impliquant une tromperie ou une apparence fausse"
+            },
+            "example": "His hopes of a quick victory were illusory.",
+            "translation": {
+                "ko": "빠른 승리에 대한 그의 희망은 환상에 불과했다.",
+                "ja": "彼の素早い勝利への望みは幻想的だった。",
+                "zh": "他快速胜利的希望是欺骗性的。",
+                "fr": "Ses espoirs d'une victoire rapide étaient illusoires."
+            }
+        },
+        {
+            "word": "library",
+            "part_of_speech": "",
+            "origin": "Latin, librarium (a place for books)",
+            "meaning": {
+                "ko": "책을 위한 장소",
+                "en": "place for books",
+                "ja": "本のための場所",
+                "zh": "书籍的地方",
+                "fr": "lieu pour les livres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "libr- (liber)",
+                    "meaning": {
+                        "ko": "'책'",
+                        "en": "book",
+                        "ja": "本",
+                        "zh": "书",
+                        "fr": "livre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ary",
+                    "meaning": {
+                        "ko": "'~를 위한 장소'",
+                        "en": "place for",
+                        "ja": "~のための場所",
+                        "zh": "~的地方",
+                        "fr": "lieu pour ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'책을 보관하고 빌려주는 장소'인 '도서관'을 뜻합니다.",
+                "en": "A place where books are stored and lent out",
+                "ja": "本を保管し貸し出す場所",
+                "zh": "存放和借出书籍的地方",
+                "fr": "Lieu où les livres sont conservés et prêtés"
+            },
+            "example": "I borrowed this book from the library.",
+            "translation": {
+                "ko": "나는 이 책을 도서관에서 빌렸다.",
+                "ja": "この本は図書館から借りました。",
+                "zh": "我从图书馆借了这本书。",
+                "fr": "J'ai emprunté ce livre à la bibliothèque."
+            }
+        },
+        {
+            "word": "victory",
+            "part_of_speech": "",
+            "origin": "Latin, victoria",
+            "meaning": {
+                "ko": "승리",
+                "en": "winning or success",
+                "ja": "勝利",
+                "zh": "胜利",
+                "fr": "victoire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vict- (vincere)",
+                    "meaning": {
+                        "ko": "'이기다'",
+                        "en": "to conquer",
+                        "ja": "征服する",
+                        "zh": "征服",
+                        "fr": "conquérir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ory",
+                    "meaning": {
+                        "ko": "'결과'",
+                        "en": "result",
+                        "ja": "結果",
+                        "zh": "结果",
+                        "fr": "résultat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'싸움에서 이긴 결과'인 '승리'를 뜻합니다.",
+                "en": "Victory means the result of winning in a fight",
+                "ja": "戦いに勝った結果を意味する勝利",
+                "zh": "胜利是指在战斗中赢得的结果",
+                "fr": "La victoire signifie le résultat de gagner un combat"
+            },
+            "example": "The team celebrated their victory.",
+            "translation": {
+                "ko": "그 팀은 승리를 축하했다.",
+                "ja": "そのチームは彼らの勝利を祝った。",
+                "zh": "那支队伍庆祝了他们的胜利。",
+                "fr": "L'équipe a célébré leur victoire."
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "rapi (plunder) rapacious, rape, ravish",
+        "origin": "Latin, rapere (to seize, to snatch)",
+        "meaning": {
+            "ko": "강탈하다",
+            "en": "to seize",
+            "ja": "奪う",
+            "zh": "夺取",
+            "fr": "saisir"
+        }
+    },
+    "words": [
+        {
+            "word": "rapacious",
+            "part_of_speech": "",
+            "origin": "Latin, rapax (grasping)",
+            "meaning": {
+                "ko": "움켜쥐는",
+                "en": "grasping greedily",
+                "ja": "貪欲な",
+                "zh": "贪婪的",
+                "fr": "rapace"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rap-",
+                    "meaning": {
+                        "ko": "'강탈하다'",
+                        "en": "to seize",
+                        "ja": "奪い取る",
+                        "zh": "夺取",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'욕심 많게 움켜쥐려는'이라는 의미에서 '탐욕스러운'이라는 뜻입니다.",
+                "en": "Means greedy and grasping with intense desire",
+                "ja": "強い欲望で貪り取ろうとする",
+                "zh": "以强烈欲望贪婪夺取",
+                "fr": "Signifie cupide et avide avec désir intense"
+            },
+            "example": "He is a rapacious businessman.",
+            "translation": {
+                "ko": "그는 탐욕스러운 사업가이다.",
+                "ja": "彼は貪欲な実業家です。",
+                "zh": "他是一个贪婪的商人。",
+                "fr": "C'est un homme d'affaires rapace."
+            }
+        },
+        {
+            "word": "rape",
+            "part_of_speech": "",
+            "origin": "Latin, rapere (to seize)",
+            "meaning": {
+                "ko": "강탈하다",
+                "en": "to seize and take by force",
+                "ja": "暴力的に奪う",
+                "zh": "强行掠夺",
+                "fr": "s'approprier par force"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rap-",
+                    "meaning": {
+                        "ko": "'강탈하다'",
+                        "en": "to seize",
+                        "ja": "奪い取る",
+                        "zh": "夺取",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'폭력으로 강탈하는 행위'라는 의미에서 '강간' 또는 '약탈'을 뜻합니다.",
+                "en": "Refers to the act of forcefully seizing, meaning sexual assault or plunder through violence",
+                "ja": "暴力による強奪行為を意味し、性的暴力または略奪を指します",
+                "zh": "指通过暴力强行夺取的行为，意思是性暴力或掠夺",
+                "fr": "Désigne l'acte de saisir par la force, signifiant agression sexuelle ou pillage par la violence"
+            },
+            "example": "Rape is a heinous crime.",
+            "translation": {
+                "ko": "강간은 흉악한 범죄이다.",
+                "ja": "強姦は悪質な犯罪です。",
+                "zh": "强奸是极端恶劣的犯罪。",
+                "fr": "Le viol est un crime odieux."
+            }
+        },
+        {
+            "word": "ravish",
+            "part_of_speech": "",
+            "origin": "Latin, rapere (to seize)",
+            "meaning": {
+                "ko": "강탈하다",
+                "en": "to seize or plunder by force",
+                "ja": "奪う、うっとりさせる",
+                "zh": "掠夺、迷住",
+                "fr": "ravir, enchanter"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rav- (rapere)",
+                    "meaning": {
+                        "ko": "'강탈하다'",
+                        "en": "to seize",
+                        "ja": "奪い取る",
+                        "zh": "夺取",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마음을 강하게 사로잡다'는 의미에서 '황홀하게 만들다' 또는 옛말로 '강탈하다'는 뜻입니다.",
+                "en": "Meaning to strongly captivate one's mind, thus 'to enchant' or in archaic usage 'to seize/plunder'",
+                "ja": "心を強く魅了することから、'うっとりさせる'または古い用法で'奪う'という意味です",
+                "zh": "从强烈吸引心灵的意思引申，表示'使陶醉'或古义'掠夺'",
+                "fr": "Signifie captiver fortement l'esprit, donc 'enchanter' ou en usage archaïque 'ravir/piller'"
+            },
+            "example": "She was ravished by his charm.",
+            "translation": {
+                "ko": "그녀는 그의 매력에 흠뻑 빠졌다.",
+                "ja": "彼女は彼の魅力にうっとりさせられた。",
+                "zh": "她被他的魅力迷住了。",
+                "fr": "Elle était ravie par son charme."
+            }
+        }
+    ]
+}

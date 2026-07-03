@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "fort, forc (strong) enforce, forcible, fortify",
+        "origin": "Latin, fortis (strong)",
+        "meaning": {
+            "ko": "강한",
+            "en": "strong",
+            "ja": "強い",
+            "zh": "强壮",
+            "fr": "fort"
+        }
+    },
+    "words": [
+        {
+            "word": "enforce",
+            "part_of_speech": "",
+            "origin": "Old French, enforcier (to strengthen)",
+            "meaning": {
+                "ko": "강하게 만들다",
+                "en": "to make strong",
+                "ja": "強制する",
+                "zh": "强制执行",
+                "fr": "appliquer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~させる",
+                        "zh": "使得",
+                        "fr": "rendre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "force",
+                    "meaning": {
+                        "ko": "'힘, 강함'",
+                        "en": "strength",
+                        "ja": "力、強さ",
+                        "zh": "力量、强度",
+                        "fr": "force"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'힘으로 강하게 만들다'는 의미에서 법 등을 '집행하다', '강요하다'라는 뜻이 되었습니다.",
+                "en": "From the meaning 'to make strong by force', it came to mean 'execute' or 'compel' regarding laws and regulations.",
+                "ja": "力で強くするという意味から、法律などを実行する、強要するという意味になりました。",
+                "zh": "从用力强制的意思发展为执行法律等、强制实行的意思。",
+                "fr": "Du sens 'rendre fort par la force' au sens d'exécuter ou contraindre les lois et règlements."
+            },
+            "example": "The police are responsible for enforcing the law.",
+            "translation": {
+                "ko": "경찰은 법을 집행할 책임이 있다.",
+                "ja": "警察は法律を強制する責任がある。",
+                "zh": "警察负责强制执行法律。",
+                "fr": "La police est responsable de l'application de la loi."
+            }
+        },
+        {
+            "word": "forcible",
+            "part_of_speech": "",
+            "origin": "Old French, forcible (strong, violent)",
+            "meaning": {
+                "ko": "강한",
+                "en": "strong",
+                "ja": "強力な",
+                "zh": "强有力的",
+                "fr": "forcé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "forc-",
+                    "meaning": {
+                        "ko": "'힘'",
+                        "en": "strength",
+                        "ja": "力",
+                        "zh": "力量",
+                        "fr": "force"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물리적인 힘을 사용하는'이라는 의미에서 '강제적인'이라는 뜻입니다.",
+                "en": "Means compulsory or done by physical force",
+                "ja": "物理的な力を使用する強制的な意味",
+                "zh": "使用物理力的强制性含义",
+                "fr": "Signifie obligatoire ou fait par force physique"
+            },
+            "example": "The police made a forcible entry into the building.",
+            "translation": {
+                "ko": "경찰은 건물에 강제로 진입했다.",
+                "ja": "警察は建物への強制的な侵入を行った。",
+                "zh": "警察对建筑物进行了强制进入。",
+                "fr": "La police a effectué une entrée forcée dans le bâtiment."
+            }
+        },
+        {
+            "word": "fortify",
+            "part_of_speech": "",
+            "origin": "Latin, fortificare (to make strong)",
+            "meaning": {
+                "ko": "강하게 만들다",
+                "en": "to make strong",
+                "ja": "強くする",
+                "zh": "加强",
+                "fr": "fortifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fort-",
+                    "meaning": {
+                        "ko": "'강한'",
+                        "en": "strong",
+                        "ja": "強い",
+                        "zh": "强",
+                        "fr": "fort"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'건물 등을 튼튼하게 만들다'는 의미에서 '요새화하다', '강화하다'라는 뜻입니다.",
+                "en": "Means to make buildings etc. sturdy; fortify or strengthen",
+                "ja": "建物などを堅牢にする意味で、要塞化する、強化するという意味",
+                "zh": "指使建筑物等坚固的意思，要塞化、强化的含义",
+                "fr": "Signifie rendre les bâtiments etc. robustes; fortifier ou renforcer"
+            },
+            "example": "They fortified the city against attack.",
+            "translation": {
+                "ko": "그들은 공격에 대비하여 도시를 요새화했다.",
+                "ja": "彼らは攻撃に対して都市を要塞化した",
+                "zh": "他们加强了城市以抵御攻击",
+                "fr": "Ils ont fortifié la ville contre l'attaque"
+            }
+        }
+    ]
+}

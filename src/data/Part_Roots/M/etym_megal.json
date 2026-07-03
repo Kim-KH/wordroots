@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "megal(o) (swollen) megalomania, megalopolis",
+        "origin": "Greek, megas, megalou (great, large)",
+        "meaning": {
+            "ko": "큰",
+            "en": "great, large",
+            "ja": "大きい、大きな",
+            "zh": "伟大的、大的",
+            "fr": "grand, large"
+        }
+    },
+    "words": [
+        {
+            "word": "megalomania",
+            "part_of_speech": "",
+            "origin": "Greek, megalo- (great) + mania (madness)",
+            "meaning": {
+                "ko": "위대함에 대한 광기",
+                "en": "madness for greatness",
+                "ja": "偉大さへの狂気",
+                "zh": "伟大的疯狂",
+                "fr": "folie de grandeur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "megalo-",
+                    "meaning": {
+                        "ko": "'큰, 위대한'",
+                        "en": "great",
+                        "ja": "大きい、偉大な",
+                        "zh": "大的、伟大的",
+                        "fr": "grand, grandiose"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mania",
+                    "meaning": {
+                        "ko": "'광기'",
+                        "en": "madness",
+                        "ja": "狂気",
+                        "zh": "疯狂",
+                        "fr": "folie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신이 위대하다고 생각하는 과대망상'을 뜻합니다.",
+                "en": "A delusion of believing oneself to be great",
+                "ja": "自分が偉大だと思う妄想",
+                "zh": "自以为伟大的妄想",
+                "fr": "délire de croire être grand"
+            },
+            "example": "The dictator suffered from megalomania.",
+            "translation": {
+                "ko": "그 독재자는 과대망상에 시달렸다.",
+                "ja": "独裁者は誇大妄想に苦しんでいた。",
+                "zh": "独裁者患有夸大妄想症。",
+                "fr": "Le dictateur souffrait de mégalomanie."
+            }
+        },
+        {
+            "word": "megalopolis",
+            "part_of_speech": "",
+            "origin": "Greek, megalo- (great) + polis (city)",
+            "meaning": {
+                "ko": "큰 도시",
+                "en": "large city",
+                "ja": "巨大都市",
+                "zh": "巨大城市",
+                "fr": "mégalopole"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "megalo-",
+                    "meaning": {
+                        "ko": "'큰'",
+                        "en": "great",
+                        "ja": "大きい",
+                        "zh": "伟大的",
+                        "fr": "grand"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polis",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "cité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 도시가 연결된 거대한 도시 지역'인 '거대 도시'를 뜻합니다.",
+                "en": "A massive urban area formed by multiple connected cities",
+                "ja": "複数の都市が連結した巨大な都市地域",
+                "zh": "由多个城市连接而成的巨大城市地区",
+                "fr": "Vaste région urbaine formée par plusieurs villes connectées"
+            },
+            "example": "The area between Boston and Washington D.C. is a megalopolis.",
+            "translation": {
+                "ko": "보스턴과 워싱턴 D.C. 사이의 지역은 거대 도시이다.",
+                "ja": "ボストンとワシントンD.C.の間の地域は巨大都市です。",
+                "zh": "波士顿和华盛顿特区之间的地区是一个巨大城市。",
+                "fr": "La région entre Boston et Washington D.C. est une mégalopole."
+            }
+        }
+    ]
+}

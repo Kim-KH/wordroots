@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "spont (free) spontaneous, spontaneity, spontaneously",
+        "origin": "Latin, sponte (of one's own accord, freely)",
+        "meaning": {
+            "ko": "자발적으로",
+            "en": "of one's own accord",
+            "ja": "自発的に",
+            "zh": "主动地",
+            "fr": "de son propre gré"
+        }
+    },
+    "words": [
+        {
+            "word": "spontaneous",
+            "part_of_speech": "",
+            "origin": "Latin, spontaneus (willing, of one's free will)",
+            "meaning": {
+                "ko": "자발적인",
+                "en": "voluntary or self-initiated",
+                "ja": "自発的な",
+                "zh": "自发的",
+                "fr": "spontané"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spont-",
+                    "meaning": {
+                        "ko": "'자발적인'",
+                        "en": "of free will",
+                        "ja": "自由な意志から",
+                        "zh": "出于自由意愿",
+                        "fr": "de libre volonté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'외부의 강요 없이 스스로 일어나는'이라는 의미에서 '자발적인', '즉흥적인'이라는 뜻입니다.",
+                "en": "Meaning 'happening on one's own without external coercion' as in 'voluntary' or 'impromptu'",
+                "ja": "外部の強制なしに自ら起こる意味で、自発的、即興的という意味です",
+                "zh": "意为在无外部强制的情况下自发发生，即自愿的、即兴的意思",
+                "fr": "Signifie se produisant de soi-même sans contrainte extérieure, c'est-à-dire volontaire ou improvisé"
+            },
+            "example": "The applause was spontaneous.",
+            "translation": {
+                "ko": "박수는 자발적으로 터져 나왔다.",
+                "ja": "拍手は自発的だった。",
+                "zh": "掌声是自发的。",
+                "fr": "Les applaudissements étaient spontanés."
+            }
+        },
+        {
+            "word": "spontaneity",
+            "part_of_speech": "",
+            "origin": "Latin, spontaneus",
+            "meaning": {
+                "ko": "자발적인",
+                "en": "voluntary or self-initiated",
+                "ja": "自発性",
+                "zh": "自发性",
+                "fr": "spontanéité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spontan-",
+                    "meaning": {
+                        "ko": "'자발적인'",
+                        "en": "voluntary or self-initiated",
+                        "ja": "自発的な",
+                        "zh": "自发的",
+                        "fr": "spontané"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자발적이거나 즉흥적인 성질'인 '자발성'을 뜻합니다.",
+                "en": "The quality of being spontaneous or impromptu",
+                "ja": "自発的またはその場しのぎの性質",
+                "zh": "自发或即兴的性质",
+                "fr": "Qualité d'être spontané ou improvisé"
+            },
+            "example": "I admire her spontaneity.",
+            "translation": {
+                "ko": "나는 그녀의 즉흥성을 존경한다.",
+                "ja": "彼女の自発性を尊敬する",
+                "zh": "我钦佩她的自发性",
+                "fr": "J'admire sa spontanéité"
+            }
+        },
+        {
+            "word": "spontaneously",
+            "part_of_speech": "",
+            "origin": "Latin, spontaneus",
+            "meaning": {
+                "ko": "자발적인",
+                "en": "done by one's own choice",
+                "ja": "自発的に",
+                "zh": "自发地",
+                "fr": "spontanément"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spontan-",
+                    "meaning": {
+                        "ko": "'자발적인'",
+                        "en": "of one's own will",
+                        "ja": "自発的な",
+                        "zh": "自发的",
+                        "fr": "spontané"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자발적으로', '자연스럽게'라는 뜻입니다.",
+                "en": "Means 'voluntarily' or 'naturally'",
+                "ja": "自発的に、自然に",
+                "zh": "自愿地、自然地",
+                "fr": "volontairement, naturellement"
+            },
+            "example": "The crowd spontaneously started singing.",
+            "translation": {
+                "ko": "군중은 자발적으로 노래를 부르기 시작했다.",
+                "ja": "群衆は自発的に歌い始めた。",
+                "zh": "人群自发地开始唱歌。",
+                "fr": "La foule s'est mise à chanter spontanément."
+            }
+        }
+    ]
+}

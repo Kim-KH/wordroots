@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "hood (order, condition) brotherhood, falsehood, neighborhood, womanhood",
+        "origin": "Old English, -had (state, condition)",
+        "meaning": {
+            "ko": "상태, 집단",
+            "en": "order, condition",
+            "ja": "秩序、状態",
+            "zh": "秩序、状态",
+            "fr": "ordre, condition"
+        }
+    },
+    "words": [
+        {
+            "word": "brotherhood",
+            "part_of_speech": "",
+            "origin": "English, brother + -hood",
+            "meaning": {
+                "ko": "형제의 상태",
+                "en": "state of being brothers",
+                "ja": "兄弟関係、同胞意識",
+                "zh": "兄弟情谊、同胞关系",
+                "fr": "fraternité, lien fraternel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "brother",
+                    "meaning": {
+                        "ko": "'형제'",
+                        "en": "brothers",
+                        "ja": "兄弟",
+                        "zh": "兄弟",
+                        "fr": "frère"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-hood",
+                    "meaning": {
+                        "ko": "'상태, 집단'",
+                        "en": "state, group",
+                        "ja": "状態、集団",
+                        "zh": "状态、团体",
+                        "fr": "état, groupe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'형제 같은 관계'인 '형제애' 또는 '조합'을 뜻합니다.",
+                "en": "Refers to brotherhood or a feeling of kinship, often used to describe camaraderie among group members",
+                "ja": "兄弟のような関係や絆を意味し、グループメンバー間の同志愛を表します",
+                "zh": "指像兄弟一样的关系或纽带，常用来表示团体成员之间的同志情谊",
+                "fr": "Désigne une relation ou un lien fraternel, souvent utilisé pour décrire la camaraderie entre membres d'un groupe"
+            },
+            "example": "The firefighters have a strong sense of brotherhood.",
+            "translation": {
+                "ko": "그 소방관들은 강한 형제애를 가지고 있다.",
+                "ja": "消防士たちは強い兄弟意識を持っている。",
+                "zh": "消防员之间有很强的兄弟情谊。",
+                "fr": "Les pompiers ont un fort sentiment de fraternité."
+            }
+        },
+        {
+            "word": "falsehood",
+            "part_of_speech": "",
+            "origin": "English, false + -hood",
+            "meaning": {
+                "ko": "거짓된 상태",
+                "en": "state of being false",
+                "ja": "虚偽の状態",
+                "zh": "虚假的状态",
+                "fr": "état de fausseté"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "false",
+                    "meaning": {
+                        "ko": "'거짓의'",
+                        "en": "false, deceptive",
+                        "ja": "虚偽の",
+                        "zh": "虚假的",
+                        "fr": "faux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-hood",
+                    "meaning": {
+                        "ko": "'상태, 성질'",
+                        "en": "state, quality, condition",
+                        "ja": "状態、性質",
+                        "zh": "状态、性质",
+                        "fr": "état, nature"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'거짓인 상태' 또는 '거짓말'을 뜻합니다.",
+                "en": "Means 'state of being false' or 'falsehood'",
+                "ja": "偽りの状態、または嘘を意味します",
+                "zh": "意为虚假的状态或谎言",
+                "fr": "Signifie l'état d'être faux ou mensonge"
+            },
+            "example": "He was accused of spreading falsehoods.",
+            "translation": {
+                "ko": "그는 거짓말을 퍼뜨린 혐의로 기소되었다.",
+                "ja": "虚偽、嘘",
+                "zh": "虚假、谎言",
+                "fr": "fausseté, mensonge"
+            }
+        },
+        {
+            "word": "neighborhood",
+            "part_of_speech": "",
+            "origin": "Old English, neahgebur (neighbor)",
+            "meaning": {
+                "ko": "이웃",
+                "en": "nearby person or area",
+                "ja": "近所",
+                "zh": "邻近地区",
+                "fr": "quartier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neighbor",
+                    "meaning": {
+                        "ko": "'이웃'",
+                        "en": "nearby person",
+                        "ja": "近所の人々",
+                        "zh": "邻居",
+                        "fr": "voisins"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-hood",
+                    "meaning": {
+                        "ko": "'집합, 지역'",
+                        "en": "collection or district",
+                        "ja": "集団、地域",
+                        "zh": "集合、地区",
+                        "fr": "ensemble, région"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이웃들이 모여 사는 지역'인 '동네'를 뜻합니다.",
+                "en": "Refers to a 'town' or 'area' where neighbors gather and live together.",
+                "ja": "近所の人々が集まって住む地域を意味します。",
+                "zh": "指邻居聚集居住的地区。",
+                "fr": "Désigne une zone où les voisins vivent ensemble."
+            },
+            "example": "We live in a friendly neighborhood.",
+            "translation": {
+                "ko": "우리는 친절한 동네에 산다.",
+                "ja": "私たちは友好的な近所に住んでいます。",
+                "zh": "我们住在一个友好的邻近地区。",
+                "fr": "Nous vivons dans un quartier amical."
+            }
+        },
+        {
+            "word": "womanhood",
+            "part_of_speech": "",
+            "origin": "English, woman + -hood",
+            "meaning": {
+                "ko": "여성의 상태",
+                "en": "state of being a woman",
+                "ja": "女性の状態",
+                "zh": "女性的状态",
+                "fr": "état de femme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "woman",
+                    "meaning": {
+                        "ko": "'여성'",
+                        "en": "woman",
+                        "ja": "女性",
+                        "zh": "女性",
+                        "fr": "femme"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-hood",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여성인 상태' 또는 '여성성'을 뜻합니다.",
+                "en": "The state or condition of being a woman; femininity",
+                "ja": "女性である状態または女性らしさを意味します",
+                "zh": "指作为女性的状态或女性气质",
+                "fr": "L'état d'être une femme ou la féminité"
+            },
+            "example": "She is on the verge of womanhood.",
+            "translation": {
+                "ko": "그녀는 성인 여성이 될 문턱에 있다.",
+                "ja": "彼女は女性になろうとしている",
+                "zh": "她正处于成为女性的边缘",
+                "fr": "Elle est au seuil de la féminité"
+            }
+        }
+    ]
+}

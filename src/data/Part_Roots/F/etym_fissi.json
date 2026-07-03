@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "fissi (split) fissile, fission, fissure",
+        "origin": "Latin, findere, fissus (to split)",
+        "meaning": {
+            "ko": "쪼개다",
+            "en": "to split",
+            "ja": "割る",
+            "zh": "劈开",
+            "fr": "fendre"
+        }
+    },
+    "words": [
+        {
+            "word": "fissile",
+            "part_of_speech": "",
+            "origin": "Latin, fissilis (that may be split)",
+            "meaning": {
+                "ko": "쪼개질 수 있는",
+                "en": "able to be split or divided",
+                "ja": "分裂しやすい",
+                "zh": "易裂变的",
+                "fr": "fissile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fiss-",
+                    "meaning": {
+                        "ko": "'쪼개다'",
+                        "en": "to split",
+                        "ja": "分ける",
+                        "zh": "分裂",
+                        "fr": "se diviser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'쉽게 쪼개질 수 있는'이라는 뜻으로, 특히 '핵분열하기 쉬운' 물질을 가리킵니다.",
+                "en": "Capable of being split easily, especially referring to materials that readily undergo nuclear fission.",
+                "ja": "容易に分裂できることを意味し、特に『核分裂しやすい』物質を指します。",
+                "zh": "易于分裂的物质，特别是指容易发生核裂变的材料。",
+                "fr": "Capable de se diviser facilement, en particulier les matériaux qui subissent aisément une fission nucléaire."
+            },
+            "example": "Uranium-235 is a fissile material.",
+            "translation": {
+                "ko": "우라늄-235는 핵분열성 물질이다.",
+                "ja": "ウラン235は核分裂性物質である。",
+                "zh": "铀-235是易裂变材料。",
+                "fr": "L'uranium-235 est un matériau fissile."
+            }
+        },
+        {
+            "word": "fission",
+            "part_of_speech": "",
+            "origin": "Latin, fissio (a splitting)",
+            "meaning": {
+                "ko": "쪼개짐",
+                "en": "splitting or division",
+                "ja": "分裂",
+                "zh": "裂变",
+                "fr": "fission"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fiss-",
+                    "meaning": {
+                        "ko": "'쪼개다'",
+                        "en": "to split",
+                        "ja": "分ける",
+                        "zh": "分裂",
+                        "fr": "se diviser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원자핵이 쪼개지는 현상'인 '핵분열'을 뜻합니다.",
+                "en": "Nuclear power plants generate energy through nuclear fission.",
+                "ja": "原子核が分裂する現象である核分裂を意味します",
+                "zh": "指原子核分裂的现象即核分裂",
+                "fr": "Signifie la fission nucléaire, phénomène de division du noyau atomique"
+            },
+            "example": "Nuclear power plants generate energy through nuclear fission.",
+            "translation": {
+                "ko": "원자력 발전소는 핵분열을 통해 에너지를 생산한다.",
+                "ja": "原子核分裂により、原子力発電所がエネルギーを生成します。",
+                "zh": "核电站通过核裂变产生能量。",
+                "fr": "Les centrales nucléaires génèrent de l'énergie par fission nucléaire."
+            }
+        },
+        {
+            "word": "fissure",
+            "part_of_speech": "",
+            "origin": "Latin, fissura (a split, cleft)",
+            "meaning": {
+                "ko": "쪼개진 틈",
+                "en": "split crack or opening",
+                "ja": "割れた隙間",
+                "zh": "裂开的缝隙",
+                "fr": "fissure, crevasse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fiss-",
+                    "meaning": {
+                        "ko": "'쪼개다'",
+                        "en": "to split",
+                        "ja": "割く",
+                        "zh": "裂开",
+                        "fr": "fendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'땅이나 암석 등에 길게 쪼개진 틈'을 의미합니다.",
+                "en": "A long split or crack in earth or rock",
+                "ja": "土地や岩石などに長く割けた隙間を意味します",
+                "zh": "表示土地或岩石等中长长的裂缝",
+                "fr": "Une longue fissure ou crevasse dans la terre ou la roche"
+            },
+            "example": "A deep fissure opened up in the ground after the earthquake.",
+            "translation": {
+                "ko": "지진 후에 땅에 깊은 균열이 생겼다.",
+                "ja": "地震の後、地面に深い亀裂が入った。",
+                "zh": "地震后，地面出现了很深的裂缝。",
+                "fr": "Une profonde fissure s'est ouverte dans le sol après le tremblement de terre."
+            }
+        }
+    ]
+}

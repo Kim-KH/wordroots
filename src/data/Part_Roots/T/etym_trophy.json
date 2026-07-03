@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "trophy (feed, eat) atrophy, autotrophy, dystrophy, hypertrophy",
+        "origin": "Greek, trophe (nourishment)",
+        "meaning": {
+            "ko": "영양",
+            "en": "nourishment",
+            "ja": "栄養",
+            "zh": "营养",
+            "fr": "nutrition"
+        }
+    },
+    "words": [
+        {
+            "word": "atrophy",
+            "part_of_speech": "",
+            "origin": "Greek, atrophia (a wasting away)",
+            "meaning": {
+                "ko": "영양 부족",
+                "en": "malnutrition or lack of nutrition",
+                "ja": "筋肉の萎縮",
+                "zh": "肌肉萎缩",
+                "fr": "atrophie musculaire"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "not, without",
+                        "ja": "ない、なし",
+                        "zh": "没有、无",
+                        "fr": "sans, absence de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trophy",
+                    "meaning": {
+                        "ko": "'영양'",
+                        "en": "nourishment",
+                        "ja": "栄養",
+                        "zh": "营养",
+                        "fr": "nutrition"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'영양 공급이 없어' 신체 부위가 '위축되다'는 뜻입니다.",
+                "en": "Without nourishment supply, body parts become withered and diminished.",
+                "ja": "栄養供給がないため、身体部位が萎縮することを意味します。",
+                "zh": "营养供应缺乏，导致身体部位萎缩退化。",
+                "fr": "Sans apport nutritif, les parties du corps s'atrophient et s'affaiblissent."
+            },
+            "example": "The muscles in his leg began to atrophy.",
+            "translation": {
+                "ko": "그의 다리 근육이 위축되기 시작했다.",
+                "ja": "彼の脚の筋肉は萎縮し始めた。",
+                "zh": "他腿部的肌肉开始萎缩。",
+                "fr": "Les muscles de sa jambe ont commencé à s'atrophier."
+            }
+        },
+        {
+            "word": "autotrophy",
+            "part_of_speech": "",
+            "origin": "Greek, autos (self) + trophe (nourishment)",
+            "meaning": {
+                "ko": "스스로 영양",
+                "en": "self nutrition",
+                "ja": "自己栄養",
+                "zh": "自养",
+                "fr": "autotrophie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "'스스로'",
+                        "en": "self",
+                        "ja": "自己",
+                        "zh": "自身",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trophy",
+                    "meaning": {
+                        "ko": "'영양'",
+                        "en": "nutrition",
+                        "ja": "栄養",
+                        "zh": "营养",
+                        "fr": "nutrition"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무기물로부터 스스로 유기물을 합성하여 영양을 얻는' 방식인 '독립 영양'을 뜻합니다.",
+                "en": "Independent nutrition obtained by synthesizing organic compounds from inorganic substances",
+                "ja": "無機物から有機物を自ら合成して栄養を得る独立栄養の方式",
+                "zh": "从无机物自身合成有机物获得营养的独立营养方式",
+                "fr": "Nutrition autonome obtenue par synthèse de composés organiques à partir de substances inorganiques"
+            },
+            "example": "Photosynthesis is a form of autotrophy.",
+            "translation": {
+                "ko": "광합성은 독립 영양의 한 형태이다.",
+                "ja": "光合成は自己栄養の一形態である。",
+                "zh": "光合作用是自养的一种形式。",
+                "fr": "La photosynthèse est une forme d'autotrophie."
+            }
+        },
+        {
+            "word": "dystrophy",
+            "part_of_speech": "",
+            "origin": "Greek, dys- (bad) + trophe (nourishment)",
+            "meaning": {
+                "ko": "나쁜 영양",
+                "en": "bad nutrition",
+                "ja": "悪い栄養状態",
+                "zh": "营养不良",
+                "fr": "mauvaise nutrition"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dys-",
+                    "meaning": {
+                        "ko": "'나쁜, 어려운'",
+                        "en": "bad, difficult",
+                        "ja": "悪い、困難",
+                        "zh": "坏的、困难的",
+                        "fr": "mauvais, difficile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trophy",
+                    "meaning": {
+                        "ko": "'영양'",
+                        "en": "nutrition",
+                        "ja": "栄養",
+                        "zh": "营养",
+                        "fr": "nutrition"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'영양 상태가 나쁜 것'을 의미하는 의학 용어로, '영양실조', '근위축증' 등을 뜻합니다.",
+                "en": "Medical term meaning poor nutritional condition, referring to malnutrition or muscle atrophy",
+                "ja": "栄養状態が悪いことを意味する医学用語で、栄養不良や筋萎縮などを指します",
+                "zh": "医学术语，意为营养状态不良，指营养不足或肌肉萎缩等",
+                "fr": "Terme médical signifiant mauvais état nutritionnel, désignant la malnutrition ou l'atrophie musculaire"
+            },
+            "example": "Muscular dystrophy is a group of diseases that cause progressive weakness and loss of muscle mass.",
+            "translation": {
+                "ko": "근이영양증은 점진적인 쇠약과 근육량 손실을 유발하는 질병 그룹이다.",
+                "ja": "筋ジストロフィーは進行性の筋力低下と筋肉量喪失を引き起こす一群の疾患です",
+                "zh": "肌肉营养不良是一组导致进行性肌肉无力和肌肉萎缩的疾病",
+                "fr": "La dystrophie musculaire est un groupe de maladies qui causent une faiblesse progressive et une perte de masse musculaire"
+            }
+        },
+        {
+            "word": "hypertrophy",
+            "part_of_speech": "",
+            "origin": "Greek, hyper- (over) + trophe (nourishment)",
+            "meaning": {
+                "ko": "과도한 영양",
+                "en": "excessive nutrition",
+                "ja": "過度な成長",
+                "zh": "过度生长",
+                "fr": "croissance excessive"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hyper-",
+                    "meaning": {
+                        "ko": "'위에, 초과하여'",
+                        "en": "over, above",
+                        "ja": "上に、超えて",
+                        "zh": "超过、以上",
+                        "fr": "au-dessus, excessif"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trophy",
+                    "meaning": {
+                        "ko": "'영양, 성장'",
+                        "en": "nutrition, growth",
+                        "ja": "栄養、成長",
+                        "zh": "营养、生长",
+                        "fr": "nutrition, croissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'영양이 과도하여' 세포나 조직이 '비대해지는' 현상을 뜻합니다.",
+                "en": "A phenomenon where cells or tissues become enlarged due to excessive nutrition/growth stimulus.",
+                "ja": "栄養が過度で細胞や組織が肥大する現象",
+                "zh": "由于营养过度导致细胞或组织肥大的现象",
+                "fr": "Phénomène où les cellules ou tissus s'agrandissent en raison d'une nutrition excessive"
+            },
+            "example": "Weightlifting can cause muscle hypertrophy.",
+            "translation": {
+                "ko": "역도는 근육 비대를 유발할 수 있다.",
+                "ja": "ウェイトリフティングは筋肉の肥大を引き起こす可能性があります。",
+                "zh": "举重可能导致肌肉过度生长。",
+                "fr": "L'haltérophilie peut causer une hypertrophie musculaire."
+            }
+        }
+    ]
+}

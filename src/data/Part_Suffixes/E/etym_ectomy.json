@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ectomy (cut out) appendectomy, thyroidectomy, tonsillectomy, vasectomy",
+        "origin": "Greek, ektome (a cutting out)",
+        "meaning": {
+            "ko": "잘라내기",
+            "en": "a cutting out",
+            "ja": "切り出すこと",
+            "zh": "切割",
+            "fr": "une coupe"
+        }
+    },
+    "words": [
+        {
+            "word": "appendectomy",
+            "part_of_speech": "",
+            "origin": "Latin, appendix + Greek, ektome (a cutting out)",
+            "meaning": {
+                "ko": "충수 절제",
+                "en": "removal of the appendix",
+                "ja": "虫垂切除術",
+                "zh": "阑尾切除术",
+                "fr": "appendicectomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "append-",
+                    "meaning": {
+                        "ko": "'충수'",
+                        "en": "appendix",
+                        "ja": "虫垂",
+                        "zh": "阑尾",
+                        "fr": "appendice"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ectomy",
+                    "meaning": {
+                        "ko": "'절제술'",
+                        "en": "surgical removal",
+                        "ja": "外科的切除",
+                        "zh": "外科切除",
+                        "fr": "ablation chirurgicale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'맹장 끝의 충수를 잘라내는 수술'인 '충수 절제술'을 뜻합니다.",
+                "en": "Surgical removal of the appendix at the end of the cecum",
+                "ja": "盲腸の先端にある虫垂を切除する手術",
+                "zh": "切除盲肠末端的阑尾的手术",
+                "fr": "Ablation chirurgicale de l'appendice au bout du caecum"
+            },
+            "example": "The patient recovered quickly after the appendectomy.",
+            "translation": {
+                "ko": "그 환자는 맹장 수술 후 빠르게 회복했다.",
+                "ja": "患者は虫垂切除術後に急速に回復した。",
+                "zh": "患者在阑尾切除术后恢复得很快。",
+                "fr": "Le patient s'est rétabli rapidement après l'appendicectomie."
+            }
+        },
+        {
+            "word": "thyroidectomy",
+            "part_of_speech": "",
+            "origin": "Greek, thyreoeides (shield-shaped) + ektome (a cutting out)",
+            "meaning": {
+                "ko": "방패 모양 절제",
+                "en": "removal of the thyroid gland",
+                "ja": "甲状腺摘出術",
+                "zh": "甲状腺切除术",
+                "fr": "ablation de la thyroïde"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thyroid-",
+                    "meaning": {
+                        "ko": "'갑상선'",
+                        "en": "thyroid gland",
+                        "ja": "甲状腺",
+                        "zh": "甲状腺",
+                        "fr": "thyroïde"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ectomy",
+                    "meaning": {
+                        "ko": "'절제술'",
+                        "en": "surgical removal",
+                        "ja": "切除術",
+                        "zh": "切除术",
+                        "fr": "ablation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'갑상선을 잘라내는 수술'을 뜻합니다.",
+                "en": "Surgical removal of all or part of the thyroid gland",
+                "ja": "甲状腺全部または一部を切除する手術",
+                "zh": "切除全部或部分甲状腺的手术",
+                "fr": "Ablation totale ou partielle de la glande thyroïde"
+            },
+            "example": "A thyroidectomy is the surgical removal of all or part of the thyroid gland.",
+            "translation": {
+                "ko": "갑상선 절제술은 갑상선 전체 또는 일부를 외과적으로 제거하는 것이다.",
+                "ja": "甲状腺摘出術",
+                "zh": "甲状腺切除术",
+                "fr": "thyroïdectomie"
+            }
+        },
+        {
+            "word": "tonsillectomy",
+            "part_of_speech": "",
+            "origin": "Latin, tonsillae (tonsils) + Greek, ektome (a cutting out)",
+            "meaning": {
+                "ko": "편도 절제",
+                "en": "surgical removal of tonsils",
+                "ja": "扁桃腺摘出術",
+                "zh": "扁桃体切除术",
+                "fr": "amygdalectomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tonsill-",
+                    "meaning": {
+                        "ko": "'편도'",
+                        "en": "tonsil",
+                        "ja": "扁桃腺",
+                        "zh": "扁桃体",
+                        "fr": "amygdale"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ectomy",
+                    "meaning": {
+                        "ko": "'절제술'",
+                        "en": "surgical removal",
+                        "ja": "切除術",
+                        "zh": "切除手术",
+                        "fr": "ablation chirurgicale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'편도를 잘라내는 수술'인 '편도 절제술'을 뜻합니다.",
+                "en": "Removal of the tonsils by surgical procedure",
+                "ja": "扁桃腺を取り除く手術",
+                "zh": "切除扁桃体的手术",
+                "fr": "ablation chirurgicale des amygdales"
+            },
+            "example": "He had a tonsillectomy when he was a child.",
+            "translation": {
+                "ko": "그는 어렸을 때 편도 절제술을 받았다.",
+                "ja": "彼は子どもの時に扁桃腺摘出術を受けました。",
+                "zh": "他在小时候做了扁桃体切除手术。",
+                "fr": "Il s'est fait opérer des amygdales quand il était enfant."
+            }
+        },
+        {
+            "word": "vasectomy",
+            "part_of_speech": "",
+            "origin": "Latin, vas (vessel) + Greek, ektome (a cutting out)",
+            "meaning": {
+                "ko": "관 절제",
+                "en": "surgical removal of the vas deferens",
+                "ja": "精管切除手術",
+                "zh": "输精管切除术",
+                "fr": "vasectomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vas-",
+                    "meaning": {
+                        "ko": "'관'",
+                        "en": "vessel",
+                        "ja": "管",
+                        "zh": "管",
+                        "fr": "canal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ectomy",
+                    "meaning": {
+                        "ko": "'절제술'",
+                        "en": "surgical removal or excision",
+                        "ja": "切除術",
+                        "zh": "切除术",
+                        "fr": "ablation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정자가 지나가는 관(정관)을 잘라내는 수술'인 '정관 수술'을 뜻합니다.",
+                "en": "A surgical procedure that cuts and ties the vas deferens to prevent sperm from passing through",
+                "ja": "精子が通る精管を切除する男性避妊手術です",
+                "zh": "切断精子通道的输精管的男性绝育手术",
+                "fr": "Une intervention chirurgicale qui coupe le canal déférent pour prévenir le passage du sperme"
+            },
+            "example": "He decided to have a vasectomy.",
+            "translation": {
+                "ko": "그는 정관 수술을 받기로 결정했다.",
+                "ja": "彼は精管切除手術を受けることにした",
+                "zh": "他决定做输精管切除术",
+                "fr": "Il a décidé de se faire faire une vasectomie"
+            }
+        }
+    ]
+}

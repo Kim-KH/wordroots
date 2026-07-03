@@ -1,0 +1,99 @@
+{
+    "root_info": {
+        "roots": "terr: earth",
+        "origin": "Latin, terra",
+        "meaning": {
+            "ko": "땅",
+            "en": "earth",
+            "ja": "土地",
+            "zh": "土地",
+            "fr": "terre"
+        }
+    },
+    "words": [
+        {
+            "word": "terra-cotta",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terra",
+                    "meaning": {
+                        "ko": "땅, 흙",
+                        "en": "earth",
+                        "ja": "土、地",
+                        "zh": "土、地",
+                        "fr": "terre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cotta",
+                    "meaning": {
+                        "ko": "구운",
+                        "en": "baked",
+                        "ja": "焼いた",
+                        "zh": "烧烤的",
+                        "fr": "cuit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'구운 흙'이라는 뜻의 이탈리아어에서 유래했으며, 붉은 갈색의 '점토'나 그것으로 만든 '토기'를 의미합니다.",
+                "en": "Derived from Italian meaning 'baked earth', referring to a reddish-brown clay or pottery made from it.",
+                "ja": "焼いた土という意味のイタリア語に由来し、赤褐色の粘土またはそれで作られた陶器を意味します。",
+                "zh": "源自意大利语'烧烤的土'，指的是红褐色粘土或用其制成的陶器。",
+                "fr": "Dérivé de l'italien signifiant 'terre cuite', désignant une argile rougeâtre ou une poterie faite à partir de celle-ci."
+            },
+            "example": "The roof was made of terra-cotta tiles.",
+            "translation": {
+                "ko": "그 지붕은 테라코타 타일로 만들어졌다.",
+                "ja": "屋根はテラコッタタイルで作られていました。",
+                "zh": "屋顶是用赤陶瓷砖制成的。",
+                "fr": "Le toit était fait de carreaux en terre cuite."
+            }
+        },
+        {
+            "word": "inter",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...之中",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ter",
+                    "meaning": {
+                        "ko": "땅",
+                        "en": "earth",
+                        "ja": "土",
+                        "zh": "土地",
+                        "fr": "terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "시신을 '땅 안에' 넣는다는 의미에서, '매장하다'는 뜻입니다.",
+                "en": "From the idea of placing a body 'in the earth'; means to bury",
+                "ja": "遺体を'土の中に'入れるという意味から、'埋葬する'という意味です。",
+                "zh": "从将尸体'埋入土地'的概念而来，意为'埋葬'。",
+                "fr": "Du concept de placer un corps 'dans la terre'; signifie enterrer."
+            },
+            "example": "The soldier was interred with full military honors.",
+            "translation": {
+                "ko": "그 군인은 완전한 군인 예우를 갖추어 매장되었다.",
+                "ja": "その兵士は完全な軍人の礼遇を持って埋葬された。",
+                "zh": "那名士兵以完全的军事礼仪被埋葬了。",
+                "fr": "Le soldat a été inhumé avec tous les honneurs militaires."
+            }
+        }
+    ]
+}

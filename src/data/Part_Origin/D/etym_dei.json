@@ -1,0 +1,181 @@
+{
+    "root_info": {
+        "roots": "dei, div",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "신",
+            "en": "God",
+            "ja": "神",
+            "zh": "神",
+            "fr": "Dieu"
+        }
+    },
+    "words": [
+        {
+            "word": "divinity",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "div",
+                    "meaning": {
+                        "ko": "신",
+                        "en": "god",
+                        "ja": "神",
+                        "zh": "神",
+                        "fr": "divin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신성(神性)', '신'을 뜻합니다.",
+                "en": "Means 'divinity' or 'divine nature'; from Latin divus (god)",
+                "ja": "「神性」、「神」を意味します",
+                "zh": "意为「神性」、「神」",
+                "fr": "Signifie « divinité » ou « nature divine »"
+            },
+            "example": "He is studying divinity at the university.",
+            "translation": {
+                "ko": "그는 대학에서 신학을 공부하고 있다.",
+                "ja": "彼は大学で神学を勉強している。",
+                "zh": "他在大学里学习神学。",
+                "fr": "Il étudie la théologie à l'université."
+            }
+        },
+        {
+            "word": "divine",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "div",
+                    "meaning": {
+                        "ko": "신",
+                        "en": "god",
+                        "ja": "神",
+                        "zh": "神",
+                        "fr": "divin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신의', '신성한'이라는 뜻입니다.",
+                "en": "Relating to or proceeding from God or a god; sacred and holy.",
+                "ja": "神に関する、または神から発する；神聖な。",
+                "zh": "与神有关或来自神；神圣的。",
+                "fr": "Qui se rapporte à Dieu ou à un dieu; sacré et saint."
+            },
+            "example": "It was an act of divine intervention.",
+            "translation": {
+                "ko": "그것은 신의 개입 행위였다.",
+                "ja": "それは神の介入行為だった。",
+                "zh": "那是神圣的干预行为。",
+                "fr": "C'était un acte d'intervention divine."
+            }
+        },
+        {
+            "word": "deity",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dei",
+                    "meaning": {
+                        "ko": "신",
+                        "en": "god",
+                        "ja": "神",
+                        "zh": "神",
+                        "fr": "dieu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신', '여신'을 뜻합니다.",
+                "en": "Means 'god' or 'goddess'",
+                "ja": "「神」、「女神」を意味します。",
+                "zh": "意为「神」或「女神」。",
+                "fr": "Signifie « dieu » ou « déesse »."
+            },
+            "example": "The ancient Greeks worshipped many deities.",
+            "translation": {
+                "ko": "고대 그리스인들은 많은 신들을 숭배했다.",
+                "ja": "古代ギリシア人は多くの神々を崇拝していた。",
+                "zh": "古代希腊人崇拜许多神灵。",
+                "fr": "Les anciens Grecs vénéraient de nombreuses divinités."
+            }
+        },
+        {
+            "word": "divination",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "divin",
+                    "meaning": {
+                        "ko": "신에게 영감을 받은",
+                        "en": "inspired by deity",
+                        "ja": "神の啓示を受けた",
+                        "zh": "受神灵启示的",
+                        "fr": "inspiré par la divinité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신의 뜻을 아는 행위'라는 의미에서 '점', '예언'을 뜻합니다.",
+                "en": "From the meaning 'knowing the will of the divine,' referring to divination or prophecy.",
+                "ja": "「神の意志を知る行為」という意味から、「占い」「予言」を意味します。",
+                "zh": "从「了解神意的行为」这一含义引申出「占卜」「预言」的意思。",
+                "fr": "Du sens « connaître la volonté divine », désignant la divination ou la prophétie."
+            },
+            "example": "Divination is the practice of predicting the future.",
+            "translation": {
+                "ko": "점은 미래를 예언하는 행위이다.",
+                "ja": "占いとは未来を予測する行為です。",
+                "zh": "占卜是预测未来的行为。",
+                "fr": "La divination est la pratique de prédire l'avenir."
+            }
+        },
+        {
+            "word": "deify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dei",
+                    "meaning": {
+                        "ko": "신",
+                        "en": "god",
+                        "ja": "神",
+                        "zh": "神",
+                        "fr": "dieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-fy",
+                    "meaning": {
+                        "ko": "~로 만들다",
+                        "en": "to make into",
+                        "ja": "〜にする",
+                        "zh": "使〜",
+                        "fr": "rendre ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "인간을 '신으로 만들다'는 의미에서 '신격화하다'는 뜻입니다.",
+                "en": "To make human into god; to regard as divine",
+                "ja": "人間を「神にする」という意味で、「神格化する」という意味です。",
+                "zh": "将人类「变成神」的意思，表示「神化」的含义。",
+                "fr": "Signifie « faire d'un humain un dieu »; donner un caractère divin."
+            },
+            "example": "The Roman emperors were often deified.",
+            "translation": {
+                "ko": "로마 황제들은 종종 신격화되었다.",
+                "ja": "ローマ皇帝たちはしばしば神格化された。",
+                "zh": "罗马皇帝经常被神化。",
+                "fr": "Les empereurs romains étaient souvent divinisés."
+            }
+        }
+    ]
+}

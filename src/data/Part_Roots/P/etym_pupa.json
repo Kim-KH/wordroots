@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "pupa (doll) pupae, pupate, pupation",
+        "origin": "Latin, pupa (a girl, a doll)",
+        "meaning": {
+            "ko": "소녀, 인형",
+            "en": "a girl, a doll",
+            "ja": "少女、人形",
+            "zh": "女孩、娃娃",
+            "fr": "une fille, une poupée"
+        }
+    },
+    "words": [
+        {
+            "word": "pupae",
+            "part_of_speech": "",
+            "origin": "Latin, pupa (doll)",
+            "meaning": {
+                "ko": "인형",
+                "en": "doll or puppet",
+                "ja": "さなぎ",
+                "zh": "蛹",
+                "fr": "chrysalide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pupa-",
+                    "meaning": {
+                        "ko": "'번데기'",
+                        "en": "chrysalis or insect stage",
+                        "ja": "さなぎ",
+                        "zh": "蛹",
+                        "fr": "chrysalide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'pupa'의 복수형입니다.",
+                "en": "Plural form of pupa",
+                "ja": "pupaの複数形です",
+                "zh": "pupa的复数形式",
+                "fr": "Forme plurielle de pupa"
+            },
+            "example": "The pupae of butterflies are called chrysalises.",
+            "translation": {
+                "ko": "나비의 번데기는 번데기라고 불린다.",
+                "ja": "チョウの蛹はクリサリスと呼ばれます。",
+                "zh": "蝴蝶的蛹被称为金蛹。",
+                "fr": "Les chrysalides des papillons s'appellent des chrysalides."
+            }
+        },
+        {
+            "word": "pupate",
+            "part_of_speech": "",
+            "origin": "Latin, pupa (doll)",
+            "meaning": {
+                "ko": "인형",
+                "en": "doll or puppet",
+                "ja": "蛹になる",
+                "zh": "化蛹",
+                "fr": "se chrysalider"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pupa-",
+                    "meaning": {
+                        "ko": "'번데기'",
+                        "en": "chrysalis or pupa",
+                        "ja": "蛹",
+                        "zh": "蛹",
+                        "fr": "chrysalide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'애벌레가 번데기가 되다'는 뜻입니다.",
+                "en": "The caterpillar becomes a pupa",
+                "ja": "幼虫が蛹になること",
+                "zh": "幼虫变成蛹",
+                "fr": "La chenille devient une chrysalide"
+            },
+            "example": "The caterpillar will soon pupate.",
+            "translation": {
+                "ko": "그 애벌레는 곧 번데기가 될 것이다.",
+                "ja": "毛虫はすぐに蛹になるでしょう。",
+                "zh": "毛毛虫很快就会化蛹。",
+                "fr": "La chenille se chrysalidera bientôt."
+            }
+        },
+        {
+            "word": "pupation",
+            "part_of_speech": "",
+            "origin": "Latin, pupa (doll)",
+            "meaning": {
+                "ko": "인형",
+                "en": "doll or puppet",
+                "ja": "蛹になる過程",
+                "zh": "变成蛹的过程",
+                "fr": "transformation en chrysalide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pupa-",
+                    "meaning": {
+                        "ko": "'번데기'",
+                        "en": "pupa or chrysalis",
+                        "ja": "蛹",
+                        "zh": "蛹",
+                        "fr": "chrysalide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'번데기가 되는 과정'을 뜻합니다.",
+                "en": "The process of becoming a pupa",
+                "ja": "蛹になる過程を意味します",
+                "zh": "指变成蛹的过程",
+                "fr": "Le processus de devenir une chrysalide"
+            },
+            "example": "Pupation is the stage between larva and adult in some insects.",
+            "translation": {
+                "ko": "번데기화는 일부 곤충에서 유충과 성충 사이의 단계이다.",
+                "ja": "蛹化",
+                "zh": "化蛹",
+                "fr": "nymphose"
+            }
+        }
+    ]
+}

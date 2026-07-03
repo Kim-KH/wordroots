@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "serrat (jagged) serrate, serrations, Sierras",
+        "origin": "Latin, serra (a saw)",
+        "meaning": {
+            "ko": "톱",
+            "en": "a saw",
+            "ja": "のこぎり",
+            "zh": "锯",
+            "fr": "scie"
+        }
+    },
+    "words": [
+        {
+            "word": "serrate",
+            "part_of_speech": "",
+            "origin": "Latin, serratus (saw-toothed)",
+            "meaning": {
+                "ko": "톱니 모양의",
+                "en": "saw-toothed or jagged",
+                "ja": "のこぎり状の",
+                "zh": "锯齿状的",
+                "fr": "dentelé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "serra-",
+                    "meaning": {
+                        "ko": "'톱'",
+                        "en": "saw",
+                        "ja": "のこぎり",
+                        "zh": "锯",
+                        "fr": "scie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'톱니처럼 가장자리가 뾰족뾰족한'이라는 뜻입니다.",
+                "en": "Means having a jagged edge like saw teeth",
+                "ja": "のこぎりの歯のようにギザギザした縁という意味です",
+                "zh": "指边缘像锯齿一样锯齿状的意思",
+                "fr": "Signifie avoir un bord dentelé comme des dents de scie"
+            },
+            "example": "The knife has a serrated edge.",
+            "translation": {
+                "ko": "그 칼은 톱니 모양의 날을 가지고 있다.",
+                "ja": "このナイフはのこぎり状の刃を持っている。",
+                "zh": "这把刀有锯齿状的刀刃。",
+                "fr": "Le couteau a une lame dentelée."
+            }
+        },
+        {
+            "word": "serrations",
+            "part_of_speech": "",
+            "origin": "Latin, serra (a saw)",
+            "meaning": {
+                "ko": "톱",
+                "en": "saw",
+                "ja": "のこぎり歯状の切り込み",
+                "zh": "锯齿状的切口",
+                "fr": "dentelures en forme de scie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "serra-",
+                    "meaning": {
+                        "ko": "'톱'",
+                        "en": "saw",
+                        "ja": "のこぎり",
+                        "zh": "锯",
+                        "fr": "scie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'톱니 모양으로 뾰족뾰족한 것'들을 의미합니다.",
+                "en": "Refers to sharp, jagged patterns resembling saw teeth",
+                "ja": "のこぎり歯のような鋭くギザギザした模様を指します",
+                "zh": "指像锯齿一样尖锐锯齿状的图案",
+                "fr": "Se réfère aux motifs pointus et dentelés ressemblant à des dents de scie"
+            },
+            "example": "The serrations on the leaf help it to grip onto surfaces.",
+            "translation": {
+                "ko": "잎의 톱니 모양 돌기는 표면에 달라붙는 데 도움이 된다.",
+                "ja": "葉の锯歯状の切り込みは、表面をつかむのに役立ちます",
+                "zh": "叶子上的锯齿状切口帮助它抓住表面",
+                "fr": "Les dentelures de la feuille l'aident à s'accrocher aux surfaces"
+            }
+        },
+        {
+            "word": "Sierras",
+            "part_of_speech": "",
+            "origin": "Spanish, sierra (a saw, a mountain range)",
+            "meaning": {
+                "ko": "톱, 산맥",
+                "en": "saw, mountain range",
+                "ja": "のこぎり、山脈",
+                "zh": "锯、山脉",
+                "fr": "scie, chaîne de montagnes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sierra (serra)",
+                    "meaning": {
+                        "ko": "'톱'",
+                        "en": "saw",
+                        "ja": "のこぎり",
+                        "zh": "锯",
+                        "fr": "scie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'톱니처럼 뾰족한 산봉우리들이 이어진' 모습에서 '산맥'을 뜻하는 스페인어입니다.",
+                "en": "Spanish word meaning 'mountain range' derived from the appearance of jagged mountain peaks resembling saw teeth lined up in a row.",
+                "ja": "のこぎりの歯のように鋭い山頂が連なる見た目から'山脈'を意味するスペイン語です。",
+                "zh": "源自锯齿状的山峰一起排列的外观,表示'山脉'的西班牙语。",
+                "fr": "Mot espagnol signifiant 'chaîne de montagnes' dérivé de l'apparence de pics montagneux dentelés ressemblant à des dents de scie alignées."
+            },
+            "example": "The Sierra Nevada is a major mountain range in the western United States.",
+            "translation": {
+                "ko": "시에라네바다 산맥은 미국 서부의 주요 산맥이다.",
+                "ja": "シエラ・ネバダは米国西部の主要な山脈です。",
+                "zh": "内华达山脉是美国西部的主要山脉。",
+                "fr": "La Sierra Nevada est une chaîne de montagnes majeure dans l'ouest des États-Unis."
+            }
+        }
+    ]
+}

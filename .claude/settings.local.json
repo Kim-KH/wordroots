@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell *)",
+      "Bash(node -e \"const d=require\\('./src/data/etymologyData.json'\\); const keys=Object.keys\\(d\\); console.log\\('Total keys:', keys.length\\); console.log\\('First 3 keys:', keys.slice\\(0,3\\)\\); console.log\\('Sample key value type:', typeof d[keys[0]]\\);\")",
+      "Bash(node -e \"const s=require\\('./src/data/structure.json'\\); let totalSub=0, totalFolders=0; s.forEach\\(cat => { totalSub+=cat.subCategories.length; cat.subCategories.forEach\\(sub => totalFolders+=sub.folders.length\\); }\\); console.log\\('Categories:', s.length\\); console.log\\('Total SubCategories:', totalSub\\); console.log\\('Total Folders:', totalFolders\\);\")",
+      "Bash(node -e ' *)",
+      "Bash(node *)",
+      "Bash(npm install *)",
+      "Bash(npx patch-package *)",
+      "Bash(git config *)",
+      "Bash(Remove-Item -Recurse -Force \"node_modules\\\\expo-speech\\\\android\\\\build\" -ErrorAction SilentlyContinue)",
+      "PowerShell(New-Item *)",
+      "Bash(Get-ChildItem -Path \"E:\\\\myapp\\\\etymology-expo\\\\src\\\\data\\\\Part_Origin\" -Recurse -Filter \"*.json\")",
+      "Bash(Measure-Object)",
+      "Bash(Select-Object -ExpandProperty Count)",
+      "PowerShell(Head 20 *)",
+      "PowerShell($env:ANTHROPIC_API_KEY = \\(Get-ChildItem Env: | Where-Object Name -eq \"ANTHROPIC_API_KEY\" | Select-Object -ExpandProperty Value\\); if \\($env:ANTHROPIC_API_KEY\\) { \"API key is set\" } else { \"API key NOT set\" })",
+      "Bash(dir E:\\\\MyApp\\\\etymology-expo *)",
+      "Bash(dir \"E:\\\\MyApp\\\\etymology-expo\\\\assets\")",
+      "PowerShell(Remove-Item *)",
+      "PowerShell(Get-ChildItem \"E:\\\\MyApp\\\\etymology\" -Force -Name | Where-Object { $_ -eq \".gitignore\" })",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}

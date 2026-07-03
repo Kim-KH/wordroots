@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "memor (mindful) memory, memorial, memoir",
+        "origin": "Latin, memor (mindful, remembering)",
+        "meaning": {
+            "ko": "기억하는",
+            "en": "mindful",
+            "ja": "気をつける",
+            "zh": "留意的",
+            "fr": "conscient"
+        }
+    },
+    "words": [
+        {
+            "word": "memory",
+            "part_of_speech": "",
+            "origin": "Latin, memoria (memory)",
+            "meaning": {
+                "ko": "기억",
+                "en": "recollection or retention of past experiences",
+                "ja": "記憶",
+                "zh": "记忆",
+                "fr": "mémoire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "memor-",
+                    "meaning": {
+                        "ko": "'기억하다'",
+                        "en": "to remember",
+                        "ja": "覚える",
+                        "zh": "记住",
+                        "fr": "se souvenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과거의 일을 기억하는 능력' 또는 '기억' 자체를 뜻합니다.",
+                "en": "The ability to remember past events or the memory itself.",
+                "ja": "過去の出来事を思い出す能力または記憶そのものを意味します。",
+                "zh": "指记住过去事件的能力或记忆本身。",
+                "fr": "La capacité à se souvenir des événements passés ou la mémoire elle-même."
+            },
+            "example": "I have a good memory for faces.",
+            "translation": {
+                "ko": "나는 얼굴을 잘 기억한다.",
+                "ja": "私は顔をよく覚えています。",
+                "zh": "我对人脸的记忆力很好。",
+                "fr": "J'ai une bonne mémoire des visages."
+            }
+        },
+        {
+            "word": "memorial",
+            "part_of_speech": "",
+            "origin": "Latin, memorialis (serving as a reminder)",
+            "meaning": {
+                "ko": "상기시키는 역할을 하는",
+                "en": "serving to remind or commemorate",
+                "ja": "記憶させる役割",
+                "zh": "提醒记忆的作用",
+                "fr": "rappeler la mémoire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "memor-",
+                    "meaning": {
+                        "ko": "'기억'",
+                        "en": "memory",
+                        "ja": "記憶",
+                        "zh": "记忆",
+                        "fr": "mémoire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 사람이나 사건을 기억하기 위한' 기념물이나 기념 행사를 뜻합니다.",
+                "en": "A monument or commemorative event intended to remember a person or event.",
+                "ja": "ある人物や事件を記憶するための記念碑や記念行事を意味します。",
+                "zh": "指为了纪念某人或事件的纪念碑或纪念活动。",
+                "fr": "Un monument ou un événement commémoratif destiné à honorer une personne ou un événement."
+            },
+            "example": "A memorial service was held for the victims.",
+            "translation": {
+                "ko": "희생자들을 위한 추도식이 열렸다.",
+                "ja": "追悼式",
+                "zh": "纪念仪式",
+                "fr": "service commémoratif"
+            }
+        },
+        {
+            "word": "memoir",
+            "part_of_speech": "",
+            "origin": "French, mémoire (memory, memorandum)",
+            "meaning": {
+                "ko": "기억, 기록",
+                "en": "memory, record",
+                "ja": "回想録、自伝的記録",
+                "zh": "回忆录、自传性记录",
+                "fr": "mémoires, récit autobiographique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "memor-",
+                    "meaning": {
+                        "ko": "'기억'",
+                        "en": "memory",
+                        "ja": "記憶",
+                        "zh": "记忆",
+                        "fr": "mémoire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신의 기억에 바탕을 둔 기록'이라는 의미에서 '회고록', '체험기'를 뜻합니다.",
+                "en": "A record based on one's own memories, meaning a retrospective account or personal account of experiences.",
+                "ja": "自分の記憶に基づいた記録で、回想録や体験記を意味します。",
+                "zh": "基于个人记忆的记录，指回忆录或体验记述。",
+                "fr": "Un récit basé sur ses propres souvenirs, signifiant un compte rendu rétrospectif ou personnel d'expériences."
+            },
+            "example": "She wrote a memoir about her childhood.",
+            "translation": {
+                "ko": "그녀는 자신의 어린 시절에 대한 회고록을 썼다.",
+                "ja": "彼女は自分の子ども時代についての回想録を書いた。",
+                "zh": "她写了一部关于自己童年的回忆录。",
+                "fr": "Elle a écrit des mémoires sur son enfance."
+            }
+        }
+    ]
+}

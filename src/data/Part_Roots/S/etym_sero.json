@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "sero (body) serology, serum",
+        "origin": "Latin, serum (whey, watery fluid)",
+        "meaning": {
+            "ko": "물 같은 액체",
+            "en": "watery fluid",
+            "ja": "水のような液体",
+            "zh": "水样液体",
+            "fr": "liquide aqueux"
+        }
+    },
+    "words": [
+        {
+            "word": "serology",
+            "part_of_speech": "",
+            "origin": "Latin, serum (serum) + Greek, logos (study)",
+            "meaning": {
+                "ko": "혈청 연구",
+                "en": "study of blood serum",
+                "ja": "血清学",
+                "zh": "血清学",
+                "fr": "sérologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sero-",
+                    "meaning": {
+                        "ko": "'혈청'",
+                        "en": "serum",
+                        "ja": "血清",
+                        "zh": "血清",
+                        "fr": "sérum"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈청과 그 속의 항원, 항체 반응을 연구하는 학문'인 '혈청학'을 뜻합니다.",
+                "en": "The study of serum and antigen-antibody reactions within it",
+                "ja": "血清とその中の抗原、抗体反応を研究する学問",
+                "zh": "研究血清及其中抗原抗体反应的学科",
+                "fr": "L'étude du sérum et des réactions antigène-anticorps qu'il contient"
+            },
+            "example": "Serology tests can detect the presence of antibodies in the blood.",
+            "translation": {
+                "ko": "혈청학 검사는 혈액 속 항체의 존재를 감지할 수 있다.",
+                "ja": "血清検査は血液中の抗体の存在を検出することができます。",
+                "zh": "血清学检测可以检测血液中抗体的存在。",
+                "fr": "Les tests sérologiques peuvent détecter la présence d'anticorps dans le sang."
+            }
+        },
+        {
+            "word": "serum",
+            "part_of_speech": "",
+            "origin": "Latin, serum (whey)",
+            "meaning": {
+                "ko": "훼이",
+                "en": "watery liquid",
+                "ja": "血清",
+                "zh": "血清",
+                "fr": "sérum"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ser-",
+                    "meaning": {
+                        "ko": "'물 같은 액체'",
+                        "en": "liquid like water",
+                        "ja": "水のような液体",
+                        "zh": "水样液体",
+                        "fr": "liquide aqueux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "혈액에서 혈구와 섬유소원을 제거하고 남은 '맑은 액체'인 '혈청'을 뜻합니다.",
+                "en": "The doctor ordered a blood test to check his serum cholesterol levels.",
+                "ja": "血液から血球と線維素原を除去した後に残る透明な液体である血清を意味します。",
+                "zh": "指从血液中除去血球和纤维蛋白原后剩余的透明液体血清。",
+                "fr": "Désigne le sérum sanguin, le liquide clair qui reste après élimination des cellules sanguines et du fibrinogène du sang."
+            },
+            "example": "The doctor ordered a blood test to check his serum cholesterol levels.",
+            "translation": {
+                "ko": "의사는 그의 혈청 콜레스테롤 수치를 확인하기 위해 혈액 검사를 지시했다.",
+                "ja": "医者は彼の血清コレステロール値を確認するために血液検査を指示した。",
+                "zh": "医生下令进行血液检查以检查他的血清胆固醇水平。",
+                "fr": "Le médecin a ordonné un test sanguin pour vérifier ses taux de cholestérol sérique."
+            }
+        }
+    ]
+}

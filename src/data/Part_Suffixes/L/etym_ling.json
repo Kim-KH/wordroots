@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ling (smaller) duckling, hatchling, sapling",
+        "origin": "Old English, -ling",
+        "meaning": {
+            "ko": "더 작은",
+            "en": "smaller",
+            "ja": "より小さい",
+            "zh": "更小的",
+            "fr": "plus petit"
+        }
+    },
+    "words": [
+        {
+            "word": "duckling",
+            "part_of_speech": "",
+            "origin": "English, duck + -ling",
+            "meaning": {
+                "ko": "작은 오리",
+                "en": "small duck",
+                "ja": "小さなアヒル",
+                "zh": "小鸭子",
+                "fr": "petit canard"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duck",
+                    "meaning": {
+                        "ko": "'오리'",
+                        "en": "duck",
+                        "ja": "アヒル",
+                        "zh": "鸭子",
+                        "fr": "canard"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ling",
+                    "meaning": {
+                        "ko": "'새끼'",
+                        "en": "young animal",
+                        "ja": "子ども",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어린 오리'를 뜻합니다.",
+                "en": "It means a young duck.",
+                "ja": "若いアヒルを意味します。",
+                "zh": "意思是小的鸭子。",
+                "fr": "Cela signifie un jeune canard."
+            },
+            "example": "The duckling followed its mother.",
+            "translation": {
+                "ko": "아기 오리는 어미를 따라갔다.",
+                "ja": "ダックリングはその母親に続いた。",
+                "zh": "小鸭子跟在它母亲后面。",
+                "fr": "Le caneton suivait sa mère."
+            }
+        },
+        {
+            "word": "hatchling",
+            "part_of_speech": "",
+            "origin": "English, hatch + -ling",
+            "meaning": {
+                "ko": "갓 부화한 것",
+                "en": "newly hatched creature",
+                "ja": "孵化したばかりの動物",
+                "zh": "刚孵化的动物",
+                "fr": "animal fraîchement éclos"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hatch",
+                    "meaning": {
+                        "ko": "'부화하다'",
+                        "en": "to hatch",
+                        "ja": "孵化する",
+                        "zh": "孵化",
+                        "fr": "éclore"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ling",
+                    "meaning": {
+                        "ko": "'새끼'",
+                        "en": "young animal",
+                        "ja": "幼い動物",
+                        "zh": "小动物",
+                        "fr": "petit animal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알에서 막 부화한 새끼 동물'을 뜻합니다.",
+                "en": "Refers to a young animal that has just hatched from an egg",
+                "ja": "卵からかえったばかりの幼い動物を意味します",
+                "zh": "指从蛋中刚孵出的幼小动物",
+                "fr": "Désigne un jeune animal qui vient de sortir de son œuf"
+            },
+            "example": "The sea turtle hatchlings made their way to the ocean.",
+            "translation": {
+                "ko": "갓 부화한 바다거북 새끼들이 바다를 향해 나아갔다.",
+                "ja": "ウミガメのヒナたちは海へ向かった",
+                "zh": "海龟幼体向海洋爬去",
+                "fr": "Les jeunes tortues marines se dirigeaient vers l'océan"
+            }
+        },
+        {
+            "word": "sapling",
+            "part_of_speech": "",
+            "origin": "English, sap + -ling",
+            "meaning": {
+                "ko": "작은 수액 나무",
+                "en": "small tree with sap",
+                "ja": "小さな若木",
+                "zh": "幼小树木",
+                "fr": "jeune arbre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sap",
+                    "meaning": {
+                        "ko": "'수액'",
+                        "en": "tree sap",
+                        "ja": "樹液",
+                        "zh": "树液",
+                        "fr": "sève"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ling",
+                    "meaning": {
+                        "ko": "'어린 것'",
+                        "en": "young thing",
+                        "ja": "幼い物",
+                        "zh": "幼小的东西",
+                        "fr": "chose jeune"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어린 나무', '묘목'을 뜻합니다.",
+                "en": "Means young tree or seedling",
+                "ja": "若い木または苗木を意味します",
+                "zh": "表示幼树或树苗的意思",
+                "fr": "Signifie jeune arbre ou plant"
+            },
+            "example": "We planted a sapling in the garden.",
+            "translation": {
+                "ko": "우리는 정원에 묘목을 심었다.",
+                "ja": "我们は庭に若木を植えました。",
+                "zh": "我们在花园里种了一棵幼树。",
+                "fr": "Nous avons planté un jeune arbre dans le jardin."
+            }
+        }
+    ]
+}

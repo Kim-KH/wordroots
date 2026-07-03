@@ -1,0 +1,130 @@
+{
+    "root_info": {
+        "roots": "arch, archy: leader, chief, ruler",
+        "origin": "Greek, arkhos",
+        "meaning": {
+            "ko": "통치자, 우두머리",
+            "en": "ruler, chief",
+            "ja": "支配者、首領",
+            "zh": "统治者、首领",
+            "fr": "dirigeant, chef"
+        }
+    },
+    "words": [
+        {
+            "word": "polemarch",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polem (polemos)",
+                    "meaning": {
+                        "ko": "전쟁",
+                        "en": "war",
+                        "ja": "戦争",
+                        "zh": "战争",
+                        "fr": "guerre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arch",
+                    "meaning": {
+                        "ko": "지도자",
+                        "en": "leader",
+                        "ja": "指導者",
+                        "zh": "领导者",
+                        "fr": "chef"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전쟁 지도자'라는 의미로, 고대 아테네의 '군 사령관'을 뜻하는 역사 용어입니다.",
+                "en": "A historical term meaning 'war leader', referring to a high-ranking military commander in ancient Athens.",
+                "ja": "古代アテネの高位の軍事司令官を指す歴史用語で、戦争指導者という意味です。",
+                "zh": "历史术语，意为'战争领导者'，指古代雅典的高级军事指挥官。",
+                "fr": "Terme historique signifiant 'chef de guerre', désignant un commandant militaire de haut rang dans l'Athènes antique."
+            },
+            "example": "The polemarch was a high-ranking official.",
+            "translation": {
+                "ko": "군 사령관은 고위직 관리였다.",
+                "ja": "ポレマルコス",
+                "zh": "波勒马尔科斯",
+                "fr": "polémárque"
+            }
+        },
+        {
+            "word": "anarchy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "an-",
+                    "meaning": {
+                        "ko": "없음",
+                        "en": "without",
+                        "ja": "なし",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "archy",
+                    "meaning": {
+                        "ko": "통치",
+                        "en": "rule",
+                        "ja": "支配",
+                        "zh": "统治",
+                        "fr": "gouvernement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'통치자가 없는 상태'라는 의미에서 '무정부 상태', '혼란'을 뜻합니다.",
+                "en": "A state without a ruler; means lawlessness or disorder.",
+                "ja": "統治者がいない状態を表し、無政府状態や混乱を意味します。",
+                "zh": "表示没有统治者的状态，意为无政府状态或混乱。",
+                "fr": "État sans gouvernant ; signifie l'absence de loi ou le désordre."
+            },
+            "example": "The country fell into a state of anarchy.",
+            "translation": {
+                "ko": "그 나라는 무정부 상태에 빠졌다.",
+                "ja": "その国は無政府状態に陥った。",
+                "zh": "那个国家陷入了无政府状态。",
+                "fr": "Le pays sombra dans l'anarchie."
+            }
+        },
+        {
+            "word": "arch",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arch",
+                    "meaning": {
+                        "ko": "우두머리",
+                        "en": "chief",
+                        "ja": "首領",
+                        "zh": "首领",
+                        "fr": "chef"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'우두머리의'라는 의미에서 '주요한'이라는 뜻과, '우두머리처럼 남을 놀리는'이라는 의미에서 '장난기 있는'이라는 뜻을 함께 가집니다.",
+                "en": "From 'chief' meaning: having primary importance or superiority. Also means playfully mischievous, as if mocking like a leader.",
+                "ja": "「首領のような」という意味から「主要な」という意味と、「首領のように他人を からかう」という意味から「いたずら好きな」という意味を持ちます。",
+                "zh": "从\"首领的\"的含义引申为\"主要的\"，同时也有\"像首领一样嘲笑他人\"的含义，引申为\"调皮捣蛋的\"。",
+                "fr": "Du sens de 'chef' signifiant 'principal' ou 'supérieur', et aussi 'taquin ou moqueur' comme un leader qui se moquerait d'autrui."
+            },
+            "example": "She gave me an arch smile.",
+            "translation": {
+                "ko": "그녀는 내게 장난기 있는 미소를 지었다.",
+                "ja": "彼女は私にいたずら好きな笑みを浮かべた。",
+                "zh": "她对我露出了调皮捣蛋的微笑。",
+                "fr": "Elle m'a adressé un sourire taquin."
+            }
+        }
+    ]
+}

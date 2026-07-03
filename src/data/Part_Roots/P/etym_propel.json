@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "propel (drive) propellant, propeller, propulsion",
+        "origin": "Latin, propellere (to drive forward)",
+        "meaning": {
+            "ko": "앞으로 몰다",
+            "en": "to drive forward",
+            "ja": "前に駆り立てる",
+            "zh": "向前驱动",
+            "fr": "pousser en avant"
+        }
+    },
+    "words": [
+        {
+            "word": "propellant",
+            "part_of_speech": "",
+            "origin": "Latin, propellere (to drive forward)",
+            "meaning": {
+                "ko": "앞으로 몰다",
+                "en": "to drive forward",
+                "ja": "推進物質",
+                "zh": "推进剂",
+                "fr": "carburant de propulsion"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞으로'",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pel",
+                    "meaning": {
+                        "ko": "'몰다, 추진하다'",
+                        "en": "to drive",
+                        "ja": "駆動する",
+                        "zh": "驱动",
+                        "fr": "entraîner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'로켓 등을 앞으로 나아가게 하는' 물질인 '추진체'를 뜻합니다.",
+                "en": "A substance that propels rockets and similar objects forward",
+                "ja": "ロケットなどを前に進ませる物質",
+                "zh": "使火箭等前进的物质",
+                "fr": "Substance qui propulse les fusées vers l'avant"
+            },
+            "example": "The rocket is powered by a solid propellant.",
+            "translation": {
+                "ko": "그 로켓은 고체 추진체로 동력을 얻는다.",
+                "ja": "ロケットは固体推進剤で動力を得ている。",
+                "zh": "火箭由固体推进剂提供动力。",
+                "fr": "La fusée est alimentée par un carburant de propulsion solide."
+            }
+        },
+        {
+            "word": "propeller",
+            "part_of_speech": "",
+            "origin": "Latin, propellere (to drive forward)",
+            "meaning": {
+                "ko": "앞으로 몰다",
+                "en": "to drive forward",
+                "ja": "推進器",
+                "zh": "螺旋桨",
+                "fr": "hélice"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞으로'",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pel",
+                    "meaning": {
+                        "ko": "'몰다, 추진하다'",
+                        "en": "to drive",
+                        "ja": "駆動する",
+                        "zh": "驱动",
+                        "fr": "entraîner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'배나 비행기를 앞으로 나아가게 하는' 장치인 '프로펠러'를 뜻합니다.",
+                "en": "A device that propels ships and aircraft forward",
+                "ja": "船や飛行機を前に進ませる装置",
+                "zh": "使船舶和飞机向前运动的装置",
+                "fr": "Appareil qui propulse navires et avions vers l'avant"
+            },
+            "example": "The boat's propeller got tangled in seaweed.",
+            "translation": {
+                "ko": "보트의 프로펠러가 해초에 얽혔다.",
+                "ja": "ボートのプロペラが海草に絡まった。",
+                "zh": "船的螺旋桨缠在了海草里。",
+                "fr": "L'hélice du bateau s'est emmêlée dans les algues."
+            }
+        },
+        {
+            "word": "propulsion",
+            "part_of_speech": "",
+            "origin": "Latin, propulsare (to drive forward)",
+            "meaning": {
+                "ko": "앞으로 몰다",
+                "en": "to drive forward",
+                "ja": "前進させる力",
+                "zh": "推进力",
+                "fr": "propulsion"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞으로'",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "puls",
+                    "meaning": {
+                        "ko": "'치기, 추진'",
+                        "en": "driving",
+                        "ja": "駆動、推進",
+                        "zh": "驱动、推进",
+                        "fr": "moteur, impulsion"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 나아가게 하는 힘'인 '추진력'을 뜻합니다.",
+                "en": "The force that propels something forward",
+                "ja": "物を前に進ませる力",
+                "zh": "使物体向前推进的力",
+                "fr": "Force qui propulse quelque chose vers l'avant"
+            },
+            "example": "The ship is powered by jet propulsion.",
+            "translation": {
+                "ko": "그 배는 제트 추진으로 동력을 얻는다.",
+                "ja": "その船はジェット推進で動力化されている。",
+                "zh": "这艘船由喷气推进力驱动。",
+                "fr": "Le navire est propulsé par réaction."
+            }
+        }
+    ]
+}

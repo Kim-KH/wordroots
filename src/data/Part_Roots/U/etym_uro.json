@@ -1,0 +1,221 @@
+{
+    "root_info": {
+        "roots": "uro (urine) urethane, uric, urinal, urine, urology",
+        "origin": "Greek, ouron (urine)",
+        "meaning": {
+            "ko": "소변",
+            "en": "urine",
+            "ja": "尿",
+            "zh": "尿液",
+            "fr": "urine"
+        }
+    },
+    "words": [
+        {
+            "word": "urethane",
+            "part_of_speech": "",
+            "origin": "French, uréthane",
+            "meaning": {
+                "ko": "우레탄",
+                "en": "synthetic polymer compound",
+                "ja": "ウレタン",
+                "zh": "聚氨酯",
+                "fr": "uréthane"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ur- (urea)",
+                    "meaning": {
+                        "ko": "'요소'",
+                        "en": "urea",
+                        "ja": "尿素",
+                        "zh": "尿素",
+                        "fr": "urée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "소변의 주성분인 '요소(urea)'에서 유도된 화합물이라는 의미에서 '우레탄'이라는 이름이 붙었습니다.",
+                "en": "Polyurethane is a versatile plastic material.",
+                "ja": "尿素(urea)から派生した化合物という意味で'ウレタン'という名前が付けられました。",
+                "zh": "这个名称源于尿素(urea),表示从尿素衍生的化合物。",
+                "fr": "Le nom 'uréthane' vient de l'urée, le composant principal de l'urine."
+            },
+            "example": "Polyurethane is a versatile plastic material.",
+            "translation": {
+                "ko": "폴리우레탄은 다용도 플라스틱 소재이다.",
+                "ja": "ポリウレタンは多用途なプラスチック材料です。",
+                "zh": "聚氨酯是一种多功能的塑料材料。",
+                "fr": "Le polyuréthane est un matériau plastique polyvalent."
+            }
+        },
+        {
+            "word": "uric",
+            "part_of_speech": "",
+            "origin": "Greek, ouron (urine)",
+            "meaning": {
+                "ko": "소변",
+                "en": "urine",
+                "ja": "尿に関する",
+                "zh": "尿相关的",
+                "fr": "relatif à l'urine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ur-",
+                    "meaning": {
+                        "ko": "'소변'",
+                        "en": "urine",
+                        "ja": "尿",
+                        "zh": "尿",
+                        "fr": "urine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소변에 포함된' 산이라는 의미에서 '요산'을 뜻합니다.",
+                "en": "Refers to uric acid, meaning the acid contained in urine.",
+                "ja": "尿に含まれる酸という意味で尿酸を指します",
+                "zh": "指尿中所含的酸，意为尿酸",
+                "fr": "Signifie acide urique, l'acide contenu dans l'urine"
+            },
+            "example": "High levels of uric acid can cause gout.",
+            "translation": {
+                "ko": "높은 요산 수치는 통풍을 유발할 수 있다.",
+                "ja": "尿酸",
+                "zh": "尿酸",
+                "fr": "acide urique"
+            }
+        },
+        {
+            "word": "urinal",
+            "part_of_speech": "",
+            "origin": "Latin, urinalis (of urine)",
+            "meaning": {
+                "ko": "소변의",
+                "en": "of urine",
+                "ja": "尿器",
+                "zh": "小便池",
+                "fr": "urinoir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "urin-",
+                    "meaning": {
+                        "ko": "'소변'",
+                        "en": "urine",
+                        "ja": "尿",
+                        "zh": "尿液",
+                        "fr": "urine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소변을 보는' 기구인 '소변기'를 뜻합니다.",
+                "en": "A device for urination, a urinal.",
+                "ja": "排尿用の器具である小便器を意味します。",
+                "zh": "指用于排尿的器具，即小便池。",
+                "fr": "Un dispositif pour uriner, un urinoir."
+            },
+            "example": "The public restroom has several urinals.",
+            "translation": {
+                "ko": "그 공중 화장실에는 여러 개의 소변기가 있다.",
+                "ja": "公共トイレにはいくつかの小便器があります。",
+                "zh": "公共卫生间有几个小便池。",
+                "fr": "Les toilettes publiques ont plusieurs urinoirs."
+            }
+        },
+        {
+            "word": "urine",
+            "part_of_speech": "",
+            "origin": "Latin, urina (urine)",
+            "meaning": {
+                "ko": "소변",
+                "en": "urine",
+                "ja": "尿",
+                "zh": "尿液",
+                "fr": "urine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ur-",
+                    "meaning": {
+                        "ko": "'소변'",
+                        "en": "urine",
+                        "ja": "尿",
+                        "zh": "尿液",
+                        "fr": "urine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소변'을 뜻합니다.",
+                "en": "Means urine",
+                "ja": "尿を意味します",
+                "zh": "意思是尿液",
+                "fr": "Signifie urine"
+            },
+            "example": "The doctor asked for a urine sample.",
+            "translation": {
+                "ko": "의사는 소변 샘플을 요청했다.",
+                "ja": "医者は尿サンプルを求めました。",
+                "zh": "医生要求提供尿液样本。",
+                "fr": "Le médecin a demandé un échantillon d'urine."
+            }
+        },
+        {
+            "word": "urology",
+            "part_of_speech": "",
+            "origin": "Greek, ouron (urine) + logos (study)",
+            "meaning": {
+                "ko": "소변 연구",
+                "en": "study of urine",
+                "ja": "泌尿器科学",
+                "zh": "泌尿科学",
+                "fr": "urologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "uro-",
+                    "meaning": {
+                        "ko": "'소변, 비뇨기'",
+                        "en": "urine",
+                        "ja": "尿",
+                        "zh": "尿",
+                        "fr": "urine"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비뇨기 계통을 연구하는 의학 분야'인 '비뇨기과학'을 뜻합니다.",
+                "en": "A medical field studying the urinary system and male reproductive organs",
+                "ja": "泌尿器系統を研究する医学分野",
+                "zh": "研究泌尿系统的医学领域",
+                "fr": "Domaine médical étudiant le système urinaire"
+            },
+            "example": "Urology deals with diseases of the urinary tract and the male reproductive system.",
+            "translation": {
+                "ko": "비뇨기과학은 요로와 남성 생식기 계통의 질병을 다룬다.",
+                "ja": "泌尿器科学",
+                "zh": "泌尿科学",
+                "fr": "urologie"
+            }
+        }
+    ]
+}

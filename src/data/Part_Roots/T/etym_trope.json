@@ -1,0 +1,176 @@
+{
+    "root_info": {
+        "roots": "trope (turn toward) geotropic, hydrotropic, phototropic",
+        "origin": "Greek, trope (a turn)",
+        "meaning": {
+            "ko": "방향 전환",
+            "en": "a turn",
+            "ja": "向きの転換",
+            "zh": "转向",
+            "fr": "un virage"
+        }
+    },
+    "words": [
+        {
+            "word": "geotropic",
+            "part_of_speech": "",
+            "origin": "Greek, ge (earth) + trope (a turn)",
+            "meaning": {
+                "ko": "지구로의 방향 전환",
+                "en": "turning toward the earth",
+                "ja": "地球方向への向性",
+                "zh": "向地性的",
+                "fr": "géotropique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "geo-",
+                    "meaning": {
+                        "ko": "'지구, 땅'",
+                        "en": "earth",
+                        "ja": "地球、土地",
+                        "zh": "地球、土壤",
+                        "fr": "terre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tropic",
+                    "meaning": {
+                        "ko": "'향하는'",
+                        "en": "turning toward",
+                        "ja": "向かう、向ける",
+                        "zh": "朝向、指向",
+                        "fr": "tournant vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Roots are positively geotropic, meaning they grow downwards.",
+                    "meaning": {
+                        "ko": "",
+                        "en": "",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지구 중력 방향으로 향하는' 성질인 '굴지성의'라는 뜻입니다.",
+                "en": "The property of turning toward the direction of Earth's gravity",
+                "ja": "地球の重力方向に向かう性質",
+                "zh": "向地球重力方向生长的特性",
+                "fr": "Propriété de se tourner vers la gravité terrestre"
+            },
+            "example": "",
+            "translation": {
+                "ko": "뿌리는 양성 굴지성이 있는데, 이는 아래쪽으로 자란다는 의미이다.",
+                "ja": "屈地性の",
+                "zh": "向地性的",
+                "fr": "géotrope"
+            }
+        },
+        {
+            "word": "hydrotropic",
+            "part_of_speech": "",
+            "origin": "Greek, hydor (water) + trope (a turn)",
+            "meaning": {
+                "ko": "물로의 방향 전환",
+                "en": "turning toward water",
+                "ja": "水への向性",
+                "zh": "向水性",
+                "fr": "hydrotrope"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hydro-",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tropic",
+                    "meaning": {
+                        "ko": "'향하는'",
+                        "en": "turning toward",
+                        "ja": "向かう",
+                        "zh": "趋向",
+                        "fr": "tourner vers"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물기가 있는 방향으로 향하는' 성질인 '굴수성의'라는 뜻입니다.",
+                "en": "Property of turning toward direction with moisture",
+                "ja": "水分がある方向に向かう性質",
+                "zh": "向水分方向转向的性质",
+                "fr": "Propriété de tourner vers la direction humide"
+            },
+            "example": "The roots of the plant showed a hydrotropic response.",
+            "translation": {
+                "ko": "그 식물의 뿌리는 굴수성 반응을 보였다.",
+                "ja": "植物の根は向水性反応を示した。",
+                "zh": "植物的根部表现出向水性反应。",
+                "fr": "Les racines de la plante ont montré une réponse hydrotrope."
+            }
+        },
+        {
+            "word": "phototropic",
+            "part_of_speech": "",
+            "origin": "Greek, phos (light) + trope (a turn)",
+            "meaning": {
+                "ko": "빛으로의 방향 전환",
+                "en": "turning toward light",
+                "ja": "光への方向転換",
+                "zh": "向光性的",
+                "fr": "phototrope"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "photo-",
+                    "meaning": {
+                        "ko": "'빛'",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tropic",
+                    "meaning": {
+                        "ko": "'향하는'",
+                        "en": "turning toward",
+                        "ja": "向かう",
+                        "zh": "朝向",
+                        "fr": "tourné vers"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛이 있는 방향으로 향하는' 성질인 '굴광성의'라는 뜻입니다.",
+                "en": "The property of turning toward the direction where light exists",
+                "ja": "光がある方向に向かう性質で、屈光性を意味します",
+                "zh": "向光源方向弯曲生长的特性，表示向光性",
+                "fr": "La propriété de se tourner vers la direction où la lumière existe, signifiant phototropisme"
+            },
+            "example": "Sunflowers are phototropic.",
+            "translation": {
+                "ko": "해바라기는 굴광성이다.",
+                "ja": "ヒマワリは向光性である",
+                "zh": "向日葵具有向光性",
+                "fr": "Les tournesols sont phototropes"
+            }
+        }
+    ]
+}

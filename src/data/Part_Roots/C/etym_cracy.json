@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "cracy (rule) autocracy, aristocracy, democracy, meritocracy",
+        "origin": "Greek, kratos (strength, power, rule)",
+        "meaning": {
+            "ko": "통치, 지배",
+            "en": "rule",
+            "ja": "規則、支配",
+            "zh": "规则，统治",
+            "fr": "règle, règle"
+        }
+    },
+    "words": [
+        {
+            "word": "autocracy",
+            "part_of_speech": "",
+            "origin": "Greek, autokrateia (absolute power)",
+            "meaning": {
+                "ko": "스스로 통치함",
+                "en": "rule by oneself",
+                "ja": "独裁政治",
+                "zh": "独裁统治",
+                "fr": "autocratie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "'스스로'",
+                        "en": "self",
+                        "ja": "自分自身",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cracy (kratos)",
+                    "meaning": {
+                        "ko": "'통치'",
+                        "en": "rule",
+                        "ja": "統治",
+                        "zh": "统治",
+                        "fr": "gouverner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혼자서(auto) 하는 통치(cracy)'라는 의미로 '독재 정치'를 뜻합니다.",
+                "en": "Autocracy means government by one person with absolute power, combining 'auto' (self) and 'cracy' (rule).",
+                "ja": "独裁政治とは、一人の人物が絶対的な権力で支配する統治形態です。",
+                "zh": "独裁统治是指一个人拥有绝对权力进行统治的政治制度。",
+                "fr": "L'autocratie est un système de gouvernement où une seule personne exerce un pouvoir absolu."
+            },
+            "example": "The country was ruled by an autocracy for decades.",
+            "translation": {
+                "ko": "그 나라는 수십 년간 독재 정치 체제였다.",
+                "ja": "その国は数十年間、独裁政治に支配されていた。",
+                "zh": "该国数十年来一直由独裁统治统治。",
+                "fr": "Le pays a été gouverné par une autocratie pendant des décennies."
+            }
+        },
+        {
+            "word": "aristocracy",
+            "part_of_speech": "",
+            "origin": "Greek, aristokratia (rule of the best)",
+            "meaning": {
+                "ko": "최상의 통치",
+                "en": "rule by the best",
+                "ja": "貴族政治",
+                "zh": "贵族统治",
+                "fr": "aristocratie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aristo (aristos)",
+                    "meaning": {
+                        "ko": "'최상의'",
+                        "en": "best",
+                        "ja": "最良の",
+                        "zh": "最好的",
+                        "fr": "meilleur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cracy (kratos)",
+                    "meaning": {
+                        "ko": "'통치'",
+                        "en": "rule",
+                        "ja": "統治",
+                        "zh": "统治",
+                        "fr": "gouvernement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가장 뛰어난 사람들(aristo)이 하는 통치(cracy)'라는 의미에서 '귀족 정치' 또는 '귀족 계급'을 뜻합니다.",
+                "en": "The word comes from 'aristo' (best/noble people) and 'cracy' (rule), meaning government by the nobility or the ruling class of nobles.",
+                "ja": "最も優れた人々(aristo)による統治(cracy)という意味から、貴族による政治または貴族階級を指します。",
+                "zh": "来自'aristo'(最好的/贵族)和'cracy'(统治)的组合,指由贵族进行的统治或贵族阶级。",
+                "fr": "Vient de 'aristo' (meilleur/noble) et 'cracy' (gouvernement), signifiant le gouvernement par la noblesse ou la classe dirigeante des nobles."
+            },
+            "example": "The French Revolution overthrew the aristocracy.",
+            "translation": {
+                "ko": "프랑스 혁명은 귀족 계급을 타도했다.",
+                "ja": "フランス革命は貴族政治を倒しました。",
+                "zh": "法国大革命推翻了贵族统治。",
+                "fr": "La Révolution française a renversé l'aristocratie."
+            }
+        },
+        {
+            "word": "democracy",
+            "part_of_speech": "",
+            "origin": "Greek, dēmokratia (rule by the people)",
+            "meaning": {
+                "ko": "인민의 통치",
+                "en": "rule by the people",
+                "ja": "民衆による統治",
+                "zh": "人民统治",
+                "fr": "gouvernement du peuple"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "demo (dēmos)",
+                    "meaning": {
+                        "ko": "'민중, 인민'",
+                        "en": "people",
+                        "ja": "人民、民衆",
+                        "zh": "人民、民众",
+                        "fr": "peuple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cracy (kratos)",
+                    "meaning": {
+                        "ko": "'통치'",
+                        "en": "rule",
+                        "ja": "統治、支配",
+                        "zh": "统治、统治权",
+                        "fr": "pouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'민중(demo)이 직접 하는 통치(cracy)'라는 의미로 '민주주의'를 뜻합니다.",
+                "en": "The word democracy means rule by the people, where 'demo' (people) directly exercises 'cracy' (rule).",
+                "ja": "民主主義とは、民衆(demo)が直接行う統治(cracy)を意味します。",
+                "zh": "民主主义是指民众(demo)直接进行的统治(cracy)。",
+                "fr": "La démocratie signifie le gouvernement exercé directement par le peuple (demo) et le pouvoir (cracy)."
+            },
+            "example": "Democracy is a system of government by the whole population.",
+            "translation": {
+                "ko": "민주주의는 전체 국민에 의한 통치 체제이다.",
+                "ja": "民主主義",
+                "zh": "民主制度",
+                "fr": "démocratie"
+            }
+        },
+        {
+            "word": "meritocracy",
+            "part_of_speech": "",
+            "origin": "Latin, meritum (merit) + Greek, kratos (rule)",
+            "meaning": {
+                "ko": "공로에 의한 통치",
+                "en": "rule by merit",
+                "ja": "実績に基づく統治",
+                "zh": "按能力统治",
+                "fr": "gouvernement par le mérite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "merito (meritum)",
+                    "meaning": {
+                        "ko": "'공로, 장점'",
+                        "en": "merit",
+                        "ja": "功績、長所",
+                        "zh": "功绩、优点",
+                        "fr": "mérite, avantage"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cracy (kratos)",
+                    "meaning": {
+                        "ko": "'통치'",
+                        "en": "rule",
+                        "ja": "統治",
+                        "zh": "统治",
+                        "fr": "règne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "개인의 '능력이나 실적(merit)에 따라 지위가 결정되는 통치(cracy) 체제'로 '능력주의 사회'를 뜻합니다.",
+                "en": "A system of governance where individual status is determined by ability or achievement (merit) rather than by birth, wealth, or other factors.",
+                "ja": "個人の能力や実績(merit)に従って地位が決まる統治(cracy)体制を意味し、能力主義社会を表します。",
+                "zh": "个人的地位由能力或成就(merit)而非出身、财富等因素决定的统治(cracy)体制，表示能力主义社会。",
+                "fr": "Système de gouvernance où le statut individuel est déterminé par la capacité ou le mérite plutôt que par la naissance ou la richesse."
+            },
+            "example": "The company claims to be a meritocracy.",
+            "translation": {
+                "ko": "그 회사는 능력주의 사회라고 주장한다.",
+                "ja": "その企業は能力主義社会だと主張している。",
+                "zh": "这家公司声称是一个能力主义社会。",
+                "fr": "L'entreprise prétend être une méritocratie."
+            }
+        }
+    ]
+}

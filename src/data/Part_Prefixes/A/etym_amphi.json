@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "amphi (both, in) amphibian, amphitheater",
+        "origin": "Greek, amphi (on both sides, about)",
+        "meaning": {
+            "ko": "양쪽의, 주위의",
+            "en": "on both sides, about",
+            "ja": "両側に、周囲に",
+            "zh": "两侧、周围",
+            "fr": "des deux côtés, autour"
+        }
+    },
+    "words": [
+        {
+            "word": "amphibian",
+            "part_of_speech": "",
+            "origin": "Greek, amphibios (living a double life)",
+            "meaning": {
+                "ko": "이중 생활을 하는",
+                "en": "living a double life",
+                "ja": "両生類",
+                "zh": "两栖动物",
+                "fr": "amphibien"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "amphi-",
+                    "meaning": {
+                        "ko": "'양쪽의'",
+                        "en": "both",
+                        "ja": "両方の",
+                        "zh": "两个",
+                        "fr": "les deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bios",
+                    "meaning": {
+                        "ko": "'생명, 삶'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물과 뭍 양쪽에서 사는 생물'이라는 의미에서 '양서류'를 뜻합니다.",
+                "en": "Refers to organisms that live in both water and land",
+                "ja": "水と陸地両方で暮らす生物を意味します",
+                "zh": "指在水和陆地都能生活的生物",
+                "fr": "Désigne les organismes vivant sur terre et dans l'eau"
+            },
+            "example": "Frogs are amphibians.",
+            "translation": {
+                "ko": "개구리는 양서류이다.",
+                "ja": "カエルは両生類です。",
+                "zh": "青蛙是两栖动物。",
+                "fr": "Les grenouilles sont des amphibiens."
+            }
+        },
+        {
+            "word": "amphitheater",
+            "part_of_speech": "",
+            "origin": "Greek, amphitheatron (double theater)",
+            "meaning": {
+                "ko": "이중 극장",
+                "en": "double theater",
+                "ja": "二重劇場",
+                "zh": "双层剧场",
+                "fr": "théâtre double"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "amphi-",
+                    "meaning": {
+                        "ko": "'양쪽의'",
+                        "en": "both",
+                        "ja": "両側の",
+                        "zh": "两边的",
+                        "fr": "des deux côtés"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "theatron",
+                    "meaning": {
+                        "ko": "'극장'",
+                        "en": "theater",
+                        "ja": "劇場",
+                        "zh": "剧场",
+                        "fr": "théâtre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양쪽에 객석이 있는 극장'이라는 의미에서 고대 로마의 '원형 경기장'을 뜻하게 되었습니다.",
+                "en": "From the meaning of 'a theater with seating on both sides', it came to mean 'the circular arena of ancient Rome'.",
+                "ja": "両側に客席がある劇場という意味から、古代ローマの円形競技場を意味するようになりました。",
+                "zh": "从'两边都有座位的剧场'的含义演变为指古罗马的'圆形竞技场'。",
+                "fr": "Du sens de 'théâtre avec des sièges des deux côtés', il en est venu à signifier 'l'arène circulaire de la Rome antique'."
+            },
+            "example": "The Colosseum is a famous Roman amphitheater.",
+            "translation": {
+                "ko": "콜로세움은 유명한 로마의 원형 경기장이다.",
+                "ja": "コロッセウムは有名なローマの円形劇場です。",
+                "zh": "斗兽场是著名的古罗马圆形竞技场。",
+                "fr": "Le Colosseum est un célèbre amphithéâtre romain."
+            }
+        }
+    ]
+}

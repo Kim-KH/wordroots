@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "saliv (spit) saliva, salivary, salivate, salivation",
+        "origin": "Latin, saliva (spittle)",
+        "meaning": {
+            "ko": "침",
+            "en": "saliva",
+            "ja": "唾液",
+            "zh": "唾液",
+            "fr": "salive"
+        }
+    },
+    "words": [
+        {
+            "word": "saliva",
+            "part_of_speech": "",
+            "origin": "Latin, saliva",
+            "meaning": {
+                "ko": "침",
+                "en": "saliva",
+                "ja": "唾液",
+                "zh": "唾液",
+                "fr": "salive"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "saliv-",
+                    "meaning": {
+                        "ko": "'침'",
+                        "en": "spit",
+                        "ja": "唾を吐く",
+                        "zh": "吐唾沫",
+                        "fr": "cracher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'침', '타액'을 뜻합니다.",
+                "en": "'Saliva' means spit or saliva",
+                "ja": "'唾液'は唾液を意味します",
+                "zh": "'唾液'意思是唾液",
+                "fr": "'Salive' signifie crachat ou salive"
+            },
+            "example": "Saliva helps to digest food.",
+            "translation": {
+                "ko": "침은 음식 소화를 돕는다.",
+                "ja": "唾液は食べ物の消化を助けます。",
+                "zh": "唾液有助于食物消化。",
+                "fr": "La salive aide à digérer les aliments."
+            }
+        },
+        {
+            "word": "salivary",
+            "part_of_speech": "",
+            "origin": "Latin, saliva",
+            "meaning": {
+                "ko": "침",
+                "en": "saliva",
+                "ja": "唾液の",
+                "zh": "唾液的",
+                "fr": "salivaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "saliv-",
+                    "meaning": {
+                        "ko": "'침'",
+                        "en": "spit",
+                        "ja": "唾液",
+                        "zh": "唾液",
+                        "fr": "salive"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'침의', '타액의'라는 뜻입니다.",
+                "en": "Means 'of saliva' or 'relating to saliva'",
+                "ja": "唾液に関する、唾液の意味です",
+                "zh": "表示与唾液有关的意思",
+                "fr": "Signifie relatif à la salive"
+            },
+            "example": "The salivary glands produce saliva.",
+            "translation": {
+                "ko": "침샘은 침을 생산한다.",
+                "ja": "唾液腺は唾液を分泌します。",
+                "zh": "唾液腺产生唾液。",
+                "fr": "Les glandes salivaires produisent la salive."
+            }
+        },
+        {
+            "word": "salivate",
+            "part_of_speech": "",
+            "origin": "Latin, saliva",
+            "meaning": {
+                "ko": "침",
+                "en": "saliva",
+                "ja": "唾液を分泌する",
+                "zh": "分泌唾液",
+                "fr": "sécréter de la salive"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "saliv-",
+                    "meaning": {
+                        "ko": "'침'",
+                        "en": "spit",
+                        "ja": "唾液",
+                        "zh": "唾液",
+                        "fr": "salive"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'침을 흘리다'는 뜻입니다.",
+                "en": "To drool or secrete saliva",
+                "ja": "唾液を流すこと",
+                "zh": "流口水的意思",
+                "fr": "Signifie baver ou sécréter de la salive"
+            },
+            "example": "The dog started to salivate at the sight of food.",
+            "translation": {
+                "ko": "그 개는 음식을 보자 침을 흘리기 시작했다.",
+                "ja": "犬は食べ物を見ると唾液を分泌し始めた。",
+                "zh": "那只狗看到食物就开始流口水。",
+                "fr": "Le chien a commencé à sécréter de la salive à la vue de la nourriture."
+            }
+        },
+        {
+            "word": "salivation",
+            "part_of_speech": "",
+            "origin": "Latin, saliva",
+            "meaning": {
+                "ko": "침",
+                "en": "saliva",
+                "ja": "唾液分泌",
+                "zh": "唾液分泌",
+                "fr": "salivation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "saliv-",
+                    "meaning": {
+                        "ko": "'침'",
+                        "en": "spit",
+                        "ja": "唾を吐く",
+                        "zh": "吐口水",
+                        "fr": "cracher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'침을 분비하는 작용'인 '타액 분비'를 뜻합니다.",
+                "en": "Salivation refers to the secretion of saliva, the action of secreting spit.",
+                "ja": "唾液を分泌する作用である唾液分泌を意味します。",
+                "zh": "指分泌唾液的作用，即唾液分泌。",
+                "fr": "Fait référence à la sécrétion de salive, l'action de sécréter du crachat."
+            },
+            "example": "Salivation is the first step in digestion.",
+            "translation": {
+                "ko": "타액 분비는 소화의 첫 단계이다.",
+                "ja": "唾液分泌は消化の最初のステップです。",
+                "zh": "唾液分泌是消化的第一步。",
+                "fr": "La salivation est la première étape de la digestion."
+            }
+        }
+    ]
+}

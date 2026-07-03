@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "plete (fill) complete, deplete, replete",
+        "origin": "Latin, plere (to fill)",
+        "meaning": {
+            "ko": "채우다",
+            "en": "to fill",
+            "ja": "満たす",
+            "zh": "填充",
+            "fr": "remplir"
+        }
+    },
+    "words": [
+        {
+            "word": "complete",
+            "part_of_speech": "",
+            "origin": "Latin, complere (to fill up)",
+            "meaning": {
+                "ko": "가득 채우다",
+                "en": "to fill completely",
+                "ja": "完全に満たす",
+                "zh": "完全填充",
+                "fr": "remplir complètement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'완전히'",
+                        "en": "completely",
+                        "ja": "完全に",
+                        "zh": "完全地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plete",
+                    "meaning": {
+                        "ko": "'채우다'",
+                        "en": "to fill",
+                        "ja": "満たす",
+                        "zh": "填充",
+                        "fr": "remplir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 부분을 완전히 채우다'는 의미에서 '완성하다', '완전한'이라는 뜻입니다.",
+                "en": "Means to finish or make complete by filling all parts entirely",
+                "ja": "すべての部分を完全に埋めることで完成させる意味",
+                "zh": "通过完全填充所有部分来完成的意思",
+                "fr": "Signifie terminer ou accomplir en remplissant entièrement toutes les parties"
+            },
+            "example": "You need to complete this form.",
+            "translation": {
+                "ko": "이 양식을 작성해야 합니다.",
+                "ja": "このフォームを完成させる必要があります。",
+                "zh": "你需要完成这份表格。",
+                "fr": "Vous devez remplir ce formulaire."
+            }
+        },
+        {
+            "word": "deplete",
+            "part_of_speech": "",
+            "origin": "Latin, deplere (to empty out)",
+            "meaning": {
+                "ko": "비우다",
+                "en": "to empty",
+                "ja": "枯渇させる",
+                "zh": "耗尽",
+                "fr": "épuiser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'아래로, 없애다'",
+                        "en": "down, away",
+                        "ja": "下へ、除去する",
+                        "zh": "向下、移除",
+                        "fr": "vers le bas, enlever"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plete",
+                    "meaning": {
+                        "ko": "'채우다'",
+                        "en": "to fill",
+                        "ja": "満たす",
+                        "zh": "填充",
+                        "fr": "remplir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'채워져 있던 것을 없애다'는 의미에서 '고갈시키다', '대폭 감소시키다'라는 뜻입니다.",
+                "en": "The sense of removing what was previously filled; to exhaust or significantly reduce.",
+                "ja": "満たされていたものを取り除く意味で、枯渇させる、大幅に減らすという意味です。",
+                "zh": "从移除已填充的东西的意义上讲，意为耗尽或大幅减少。",
+                "fr": "Au sens d'enlever ce qui était auparavant rempli; épuiser ou réduire considérablement."
+            },
+            "example": "The war has depleted the country's resources.",
+            "translation": {
+                "ko": "전쟁은 그 나라의 자원을 고갈시켰다.",
+                "ja": "戦争はその国の資源を枯渇させた。",
+                "zh": "战争耗尽了该国的资源。",
+                "fr": "La guerre a épuisé les ressources du pays."
+            }
+        },
+        {
+            "word": "replete",
+            "part_of_speech": "",
+            "origin": "Latin, replere (to fill up again)",
+            "meaning": {
+                "ko": "다시 채우다",
+                "en": "to fill again",
+                "ja": "満ちあふれている",
+                "zh": "充满",
+                "fr": "rempli"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plete",
+                    "meaning": {
+                        "ko": "'채우다'",
+                        "en": "to fill",
+                        "ja": "満たす",
+                        "zh": "填满",
+                        "fr": "remplir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 채워져 가득한' 상태라는 의미에서 '~이 가득한'이라는 뜻입니다.",
+                "en": "The state of being filled again and full, meaning something is abundant or full of",
+                "ja": "再び満たされて満杯の状態、つまり~が豊富にある",
+                "zh": "再次被填满且充满的状态，意思是~充满",
+                "fr": "L'état d'être rempli à nouveau et plein, signifiant quelque chose est abondant ou rempli de"
+            },
+            "example": "The book is replete with interesting facts.",
+            "translation": {
+                "ko": "그 책은 흥미로운 사실들로 가득하다.",
+                "ja": "その本は興味深い事実で満ちあふれている。",
+                "zh": "这本书充满了有趣的事实。",
+                "fr": "Le livre est rempli de faits intéressants."
+            }
+        }
+    ]
+}

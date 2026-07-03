@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "supra (above) supramolecular, supraorbital, supreme, supremacy",
+        "origin": "Latin, supra (above, beyond)",
+        "meaning": {
+            "ko": "~위에, 넘어서",
+            "en": "above, beyond",
+            "ja": "上に、超えて",
+            "zh": "上面、超越",
+            "fr": "au-dessus, au-delà"
+        }
+    },
+    "words": [
+        {
+            "word": "supramolecular",
+            "part_of_speech": "",
+            "origin": "Latin, supra (above) + English, molecular",
+            "meaning": {
+                "ko": "분자 위에",
+                "en": "above the molecular level",
+                "ja": "分子を超えた",
+                "zh": "超分子的",
+                "fr": "supramoléculaire"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "supra-",
+                    "meaning": {
+                        "ko": "'~를 넘어서'",
+                        "en": "beyond",
+                        "ja": "超えて",
+                        "zh": "超越",
+                        "fr": "au-delà de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "molecular",
+                    "meaning": {
+                        "ko": "'분자의'",
+                        "en": "of molecules",
+                        "ja": "分子の",
+                        "zh": "分子的",
+                        "fr": "moléculaire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단일 분자를 넘어서는 수준'에서 분자 간의 상호작용으로 형성되는 복잡한 구조를 다루는 화학 분야를 의미하여 '초분자의'라는 뜻으로 쓰입니다.",
+                "en": "Refers to a field of chemistry dealing with complex structures formed by intermolecular interactions, going beyond single molecules.",
+                "ja": "単一分子を超える水準で、分子間の相互作用により形成される複雑な構造を扱う化学分野を意味します。",
+                "zh": "指超越单个分子水平，处理由分子间相互作用形成的复杂结构的化学领域。",
+                "fr": "Désigne un domaine de la chimie traitant de structures complexes formées par des interactions intermoléculaires, au-delà des molécules individuelles."
+            },
+            "example": "Supramolecular chemistry is a rapidly growing field.",
+            "translation": {
+                "ko": "초분자 화학은 빠르게 성장하는 분야이다.",
+                "ja": "超分子化学は急速に成長している分野です。",
+                "zh": "超分子化学是一个快速发展的领域。",
+                "fr": "La chimie supramoléculaire est un domaine en croissance rapide."
+            }
+        },
+        {
+            "word": "supraorbital",
+            "part_of_speech": "",
+            "origin": "Latin, supra (above) + orbita (eye socket)",
+            "meaning": {
+                "ko": "안와 위에",
+                "en": "above the orbit",
+                "ja": "眼窩上の",
+                "zh": "眶上的",
+                "fr": "sus-orbitaire"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "supra-",
+                    "meaning": {
+                        "ko": "'~위에'",
+                        "en": "above",
+                        "ja": "上に",
+                        "zh": "上方",
+                        "fr": "au-dessus"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "orbital",
+                    "meaning": {
+                        "ko": "'안와의, 궤도의'",
+                        "en": "of the orbit, orbital",
+                        "ja": "眼窩の",
+                        "zh": "眼眶的",
+                        "fr": "orbitaire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'눈구멍(안와) 바로 위에 있는'이라는 해부학 용어입니다.",
+                "en": "Anatomical term for structures located directly above the eye socket",
+                "ja": "眼窩の直上にある解剖学用語",
+                "zh": "位于眼窝正上方的解剖学术语",
+                "fr": "Terme anatomique pour les structures directement au-dessus de l'orbite oculaire"
+            },
+            "example": "The supraorbital nerve provides sensation to the forehead.",
+            "translation": {
+                "ko": "안와상 신경은 이마에 감각을 제공한다.",
+                "ja": "眼窩上神経は前額に知覚を提供します。",
+                "zh": "眶上神经为前额提供感觉。",
+                "fr": "Le nerf sus-orbitaire fournit la sensation au front."
+            }
+        },
+        {
+            "word": "supreme",
+            "part_of_speech": "",
+            "origin": "Latin, supremus (highest)",
+            "meaning": {
+                "ko": "가장 높은",
+                "en": "highest or most supreme",
+                "ja": "最高の、最上の",
+                "zh": "最高的、最上的",
+                "fr": "suprême, le plus haut"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "supr- (supra)",
+                    "meaning": {
+                        "ko": "'~위에'",
+                        "en": "above",
+                        "ja": "上に、以上",
+                        "zh": "在...之上",
+                        "fr": "au-dessus de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가장 위에 있는'이라는 의미에서 '최고의', '최상의'라는 뜻이 되었습니다.",
+                "en": "From the meaning of 'being at the top', it came to mean 'highest', 'supreme'",
+                "ja": "最も上にあるという意味から、最高の、最上のという意味になりました",
+                "zh": "从处于最高位的含义演变而来，现指最高的、最上的",
+                "fr": "Du sens de 'être au sommet', il a pris le sens de 'suprême', 'le plus haut'"
+            },
+            "example": "The Supreme Court is the highest court in the United States.",
+            "translation": {
+                "ko": "대법원은 미국 최고의 법원이다.",
+                "ja": "最高裁判所はアメリカ合衆国の最高の裁判所です",
+                "zh": "最高法院是美国的最高法院",
+                "fr": "La Cour suprême est la plus haute cour des États-Unis"
+            }
+        },
+        {
+            "word": "supremacy",
+            "part_of_speech": "",
+            "origin": "Latin, supremus (highest)",
+            "meaning": {
+                "ko": "가장 높음",
+                "en": "highest or supreme",
+                "ja": "最高の地位",
+                "zh": "最高的地位",
+                "fr": "position suprême"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suprem- (supreme)",
+                    "meaning": {
+                        "ko": "'최고의'",
+                        "en": "supreme or highest",
+                        "ja": "最高の",
+                        "zh": "最高的",
+                        "fr": "suprême"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'최고의 지위에 있는 상태'라는 의미에서 '패권', '우위'를 뜻합니다.",
+                "en": "State of being in the highest position; means hegemony or superiority",
+                "ja": "最高の地位にある状態。覇権や優位を意味します",
+                "zh": "处于最高地位的状态。表示霸权或优势",
+                "fr": "État d'être en position suprême; signifie hégémonie ou supériorité"
+            },
+            "example": "The company has established supremacy in the market.",
+            "translation": {
+                "ko": "그 회사는 시장에서 우위를 확립했다.",
+                "ja": "その企業は市場で優位を確立した。",
+                "zh": "该公司在市场上建立了优势。",
+                "fr": "L'entreprise a établi sa suprématie sur le marché."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "gamy (marriage) bigamy, monogamy, polygamy",
+        "origin": "Greek, gamos (marriage)",
+        "meaning": {
+            "ko": "결혼",
+            "en": "marriage",
+            "ja": "結婚",
+            "zh": "婚姻",
+            "fr": "mariage"
+        }
+    },
+    "words": [
+        {
+            "word": "bigamy",
+            "part_of_speech": "",
+            "origin": "Greek, bi- (two) + gamos (marriage)",
+            "meaning": {
+                "ko": "두 번의 결혼",
+                "en": "marriage twice",
+                "ja": "二重結婚",
+                "zh": "重婚",
+                "fr": "bigamie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gamy",
+                    "meaning": {
+                        "ko": "'결혼'",
+                        "en": "marriage",
+                        "ja": "結婚",
+                        "zh": "婚姻",
+                        "fr": "mariage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 사람과 동시에 결혼한 상태'라는 의미에서 '중혼', '이중결혼'을 뜻합니다.",
+                "en": "The state of being married to two people simultaneously",
+                "ja": "同時に二人と結婚した状態",
+                "zh": "同时与两人结婚的状态",
+                "fr": "État d'être marié à deux personnes simultanément"
+            },
+            "example": "Bigamy is illegal in most countries.",
+            "translation": {
+                "ko": "대부분의 나라에서 중혼은 불법이다.",
+                "ja": "ほとんどの国で重婚は違法です。",
+                "zh": "在大多数国家中重婚是违法的。",
+                "fr": "La bigamie est illégale dans la plupart des pays."
+            }
+        },
+        {
+            "word": "monogamy",
+            "part_of_speech": "",
+            "origin": "Greek, mono- (one) + gamos (marriage)",
+            "meaning": {
+                "ko": "한 번의 결혼",
+                "en": "one marriage",
+                "ja": "一夫一婦制",
+                "zh": "一夫一妻制",
+                "fr": "monogamie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mono-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gamy",
+                    "meaning": {
+                        "ko": "'결혼'",
+                        "en": "marriage",
+                        "ja": "結婚",
+                        "zh": "婚姻",
+                        "fr": "mariage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 번의 결혼' 또는 '한 명의 배우자만 두는' 제도라는 의미에서 '일부일처제'를 뜻합니다.",
+                "en": "Monogamy refers to a system or practice of being married to only one person at a time, or having only one spouse.",
+                "ja": "一度に一人の配偶者のみを持つ結婚制度または慣行を意味します。",
+                "zh": "指同一时间内只与一个人结婚或只有一个配偶的制度或做法。",
+                "fr": "Désigne le système ou la pratique de n'être marié qu'à une seule personne à la fois."
+            },
+            "example": "Monogamy is the most common form of marriage in many cultures.",
+            "translation": {
+                "ko": "일부일처제는 많은 문화권에서 가장 흔한 결혼 형태이다.",
+                "ja": "一夫一婦制は多くの文化において最も一般的な結婚形態です。",
+                "zh": "一夫一妻制是许多文化中最常见的婚姻形式。",
+                "fr": "La monogamie est la forme de mariage la plus courante dans de nombreuses cultures."
+            }
+        },
+        {
+            "word": "polygamy",
+            "part_of_speech": "",
+            "origin": "Greek, poly- (many) + gamos (marriage)",
+            "meaning": {
+                "ko": "많은 결혼",
+                "en": "multiple marriages",
+                "ja": "多くの結婚",
+                "zh": "多重婚姻",
+                "fr": "mariage multiple"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "poly-",
+                    "meaning": {
+                        "ko": "'많은'",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gamy",
+                    "meaning": {
+                        "ko": "'결혼'",
+                        "en": "marriage",
+                        "ja": "結婚",
+                        "zh": "婚姻",
+                        "fr": "mariage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 명의 배우자를 두는' 제도라는 의미에서 '일부다처제' 또는 '일처다부제'를 뜻합니다.",
+                "en": "Polygamy refers to the practice of having multiple spouses, including polygyny (one man with multiple wives) or polyandry (one woman with multiple husbands).",
+                "ja": "複数の配偶者を持つ制度を指し、一夫多妻制または一妻多夫制を意味します。",
+                "zh": "指拥有多个配偶的制度，包括一夫多妻制或一妻多夫制。",
+                "fr": "Désigne la pratique d'avoir plusieurs conjoints, y compris la polygynie ou la polyandrie."
+            },
+            "example": "Polygamy is practiced in some cultures.",
+            "translation": {
+                "ko": "일부다처제는 일부 문화권에서 행해진다.",
+                "ja": "一部の文化では一夫多妻制が実践されています。",
+                "zh": "在某些文化中实行一夫多妻制。",
+                "fr": "La polygamie est pratiquée dans certaines cultures."
+            }
+        }
+    ]
+}

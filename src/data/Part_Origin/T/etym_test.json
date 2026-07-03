@@ -1,0 +1,225 @@
+{
+    "root_info": {
+        "roots": "test: witness",
+        "origin": "Latin, testis",
+        "meaning": {
+            "ko": "증인",
+            "en": "witness",
+            "ja": "証人",
+            "zh": "证人",
+            "fr": "témoin"
+        }
+    },
+    "words": [
+        {
+            "word": "detest",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "아래로, 반대로",
+                        "en": "down, away from",
+                        "ja": "下へ、離れて",
+                        "zh": "向下、远离",
+                        "fr": "vers le bas, loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "test (testari)",
+                    "meaning": {
+                        "ko": "증언하다, 저주하다",
+                        "en": "to witness, curse",
+                        "ja": "証言する、呪う",
+                        "zh": "作证、诅咒",
+                        "fr": "témoigner, maudire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신을 증인으로 삼아 저주하다'는 의미에서, '몹시 싫어하다', '혐오하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'curse with God as witness', it came to mean 'greatly dislike' or 'abhor'.",
+                "ja": "神を証人として呪うという意味から、強く嫌う、忌み嫌うという意味になった。",
+                "zh": "从'以神为见证人诅咒'的含义演变为'非常讨厌'或'厌恶'的意思。",
+                "fr": "Du sens de 'maudire en prenant Dieu comme témoin', il a fini par signifier 'vraiment détester' ou 'abhorrer'."
+            },
+            "example": "I detest spiders.",
+            "translation": {
+                "ko": "나는 거미를 몹시 싫어한다.",
+                "ja": "私はクモが大嫌いだ。",
+                "zh": "我很讨厌蜘蛛。",
+                "fr": "Je déteste les araignées."
+            }
+        },
+        {
+            "word": "contest",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "test (testis)",
+                    "meaning": {
+                        "ko": "증인",
+                        "en": "witness",
+                        "ja": "証人",
+                        "zh": "证人",
+                        "fr": "témoin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "법정에서 '증인들을 함께 불러' 진실을 다툰다는 의미에서, '경쟁하다', '다투다', 결정에 '이의를 제기하다'는 뜻이 되었습니다.",
+                "en": "In court, 'calling witnesses together' to dispute the truth led to meanings of 'compete', 'dispute', or 'object to a decision'.",
+                "ja": "法廷で「証人たちを一緒に呼んで」真実を争うという意味から、「競う」「異議を唱える」「決定に反論する」という意味になりました。",
+                "zh": "在法庭上，从「一起召集证人」来争论真相的含义，演变为「竞争」「异议」「对决定提出异议」的意思。",
+                "fr": "Au tribunal, l'idée d'« appeler les témoins ensemble » pour disputer la vérité a conduit aux sens de « rivaliser », « contester » ou « s'opposer à une décision »."
+            },
+            "example": "She will contest the results of the election.",
+            "translation": {
+                "ko": "그녀는 선거 결과에 이의를 제기할 것이다.",
+                "ja": "彼女は選挙結果に異議を唱えるだろう。",
+                "zh": "她将对选举结果提出异议。",
+                "fr": "Elle contestera les résultats de l'élection."
+            }
+        },
+        {
+            "word": "attest",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "at- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "test",
+                    "meaning": {
+                        "ko": "증인",
+                        "en": "witness",
+                        "ja": "証人",
+                        "zh": "证人",
+                        "fr": "témoin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 사실에 대해 증인이 되다'는 의미에서, '증명하다', '증언하다'는 뜻입니다.",
+                "en": "From the sense of 'bearing witness to a fact,' meaning to testify or prove.",
+                "ja": "ある事実に対して証人になるという意味から、証明する、証言するという意味です。",
+                "zh": "从「对某事实作证」的意义衍生，表示证明、作证。",
+                "fr": "Du sens de « témoigner d'un fait », signifiant certifier ou témoigner."
+            },
+            "example": "I can attest to her honesty.",
+            "translation": {
+                "ko": "나는 그녀의 정직함을 증명할 수 있다.",
+                "ja": "私は彼女の正直さを証明できます。",
+                "zh": "我可以证明她的诚实。",
+                "fr": "Je peux témoigner de son honnêteté."
+            }
+        },
+        {
+            "word": "testimony",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "testi",
+                    "meaning": {
+                        "ko": "증인",
+                        "en": "witness",
+                        "ja": "証人",
+                        "zh": "证人",
+                        "fr": "témoin"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-mony",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形后缀",
+                        "fr": "suffixe nominal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'증인이 하는 말'이라는 의미에서 법정에서의 '증언' 또는 어떤 사실의 '증거'를 뜻합니다.",
+                "en": "From 'words spoken by a witness,' meaning courtroom evidence or proof of facts.",
+                "ja": "「証人が述べる言葉」から、法廷での「証言」または事実の「証拠」を意味します。",
+                "zh": "源自「证人说的话」，指法庭上的「证言」或某事实的「证据」。",
+                "fr": "De « paroles d'un témoin », désignant une déposition en justice ou la preuve d'un fait."
+            },
+            "example": "His testimony was crucial to the case.",
+            "translation": {
+                "ko": "그의 증언은 그 사건에 결정적이었다.",
+                "ja": "彼の証言はその事件に決定的だった。",
+                "zh": "他的证言对该案件至关重要。",
+                "fr": "Son témoignage a été crucial pour l'affaire."
+            }
+        },
+        {
+            "word": "protest",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞에서, 공개적으로",
+                        "en": "before, in public",
+                        "ja": "前で、公開的に",
+                        "zh": "在前面、公开地",
+                        "fr": "devant, en public"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "test",
+                    "meaning": {
+                        "ko": "증언하다",
+                        "en": "to witness",
+                        "ja": "証言する",
+                        "zh": "作证",
+                        "fr": "témoigner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공개적으로 증언하다'는 의미에서, 부당한 일에 대해 '항의하다', '시위하다'는 뜻이 되었습니다.",
+                "en": "From the sense 'to testify publicly,' it came to mean 'to object to' or 'to demonstrate against' something unjust.",
+                "ja": "「公開的に証言する」という意味から、不当なことに対して「異議を唱える」「デモを行う」という意味に変わりました。",
+                "zh": "从「公开作证」的含义演变而来，指对不公正的事情「提出异议」、「进行抗议」。",
+                "fr": "Du sens « témoigner publiquement », il a évolué pour signifier « s'opposer à » ou « manifester contre » quelque chose d'injuste."
+            },
+            "example": "They held a protest against the new law.",
+            "translation": {
+                "ko": "그들은 새 법에 반대하는 시위를 열었다.",
+                "ja": "彼らは新しい法律に対する抗議集会を開いた。",
+                "zh": "他们举行了一场反对新法律的抗议活动。",
+                "fr": "Ils ont organisé une manifestation contre la nouvelle loi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "plegia (paralysis) hemiplegia, paraplegia, quadriplegia",
+        "origin": "Greek, plege (a stroke, a blow)",
+        "meaning": {
+            "ko": "타격, 마비",
+            "en": "a stroke",
+            "ja": "一撃、麻痺",
+            "zh": "打击、中风",
+            "fr": "coup, paralysie"
+        }
+    },
+    "words": [
+        {
+            "word": "hemiplegia",
+            "part_of_speech": "",
+            "origin": "Greek, hemi- (half) + plege (a stroke)",
+            "meaning": {
+                "ko": "반쪽 마비",
+                "en": "paralysis of one side",
+                "ja": "片麻痺",
+                "zh": "偏瘫",
+                "fr": "hémiplégie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hemi-",
+                    "meaning": {
+                        "ko": "'반'",
+                        "en": "half",
+                        "ja": "半分",
+                        "zh": "一半",
+                        "fr": "moitié"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plegia",
+                    "meaning": {
+                        "ko": "'마비'",
+                        "en": "paralysis",
+                        "ja": "麻痺",
+                        "zh": "瘫痪",
+                        "fr": "paralysie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸의 한쪽 절반이 마비되는' 증상인 '편마비', '반신불수'를 뜻합니다.",
+                "en": "A condition where one half of the body becomes paralyzed, also called hemiparesis or unilateral paralysis.",
+                "ja": "体の片側が麻痺する症状で、片側麻痺とも呼ばれます。",
+                "zh": "身体一侧瘫痪的症状，也称为偏瘫或单侧瘫痪。",
+                "fr": "Une condition où une moitié du corps devient paralysée, aussi appelée parésie ou paralysie unilatérale."
+            },
+            "example": "A stroke can cause hemiplegia.",
+            "translation": {
+                "ko": "뇌졸중은 편마비를 유발할 수 있다.",
+                "ja": "脳卒中は片麻痺を引き起こす可能性があります。",
+                "zh": "中风可能导致偏瘫。",
+                "fr": "Un accident vasculaire cérébral peut causer une hémiplégie."
+            }
+        },
+        {
+            "word": "paraplegia",
+            "part_of_speech": "",
+            "origin": "Greek, para- (beside, amiss) + plege (a stroke)",
+            "meaning": {
+                "ko": "잘못된 마비",
+                "en": "incorrect paralysis",
+                "ja": "下半身麻痺",
+                "zh": "下半身瘫痪",
+                "fr": "paraplegie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "para-",
+                    "meaning": {
+                        "ko": "'곁에, 잘못된'",
+                        "en": "beside, incorrect",
+                        "ja": "側に、異常な",
+                        "zh": "旁边、异常的",
+                        "fr": "a cote de, anormal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plegia",
+                    "meaning": {
+                        "ko": "'마비'",
+                        "en": "paralysis",
+                        "ja": "麻痺",
+                        "zh": "瘫痪",
+                        "fr": "paralysie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하반신이 마비되는' 증상인 '하반신 마비'를 뜻합니다.",
+                "en": "A condition where the lower half of the body becomes paralyzed",
+                "ja": "下半身が麻痺する症状",
+                "zh": "下半身瘫痪的症状",
+                "fr": "Symptome de paralysie du bas du corps"
+            },
+            "example": "The accident left him with paraplegia.",
+            "translation": {
+                "ko": "그 사고로 그는 하반신 마비가 되었다.",
+                "ja": "その事故は彼に下半身麻痺をもたらした。",
+                "zh": "那场事故导致他下半身瘫痪。",
+                "fr": "L'accident l'a laisse avec une paraplegie."
+            }
+        },
+        {
+            "word": "quadriplegia",
+            "part_of_speech": "",
+            "origin": "Latin, quattuor (four) + Greek, plege (a stroke)",
+            "meaning": {
+                "ko": "네 개의 마비",
+                "en": "paralysis of four limbs",
+                "ja": "四肢麻痺",
+                "zh": "四肢瘫痪",
+                "fr": "tétraplégie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "quadri-",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "四つ",
+                        "zh": "四个",
+                        "fr": "quatre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plegia",
+                    "meaning": {
+                        "ko": "'마비'",
+                        "en": "paralysis",
+                        "ja": "麻痺",
+                        "zh": "瘫痪",
+                        "fr": "paralysie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'네 개의 팔다리가 모두 마비되는' 증상인 '사지 마비'를 뜻합니다.",
+                "en": "Quadriplegia refers to paralysis affecting all four limbs",
+                "ja": "四本の腕と脚がすべて麻痺する症状を意味します",
+                "zh": "指四肢全部瘫痪的症状",
+                "fr": "Désigne la paralysie affectant les quatre membres"
+            },
+            "example": "He has quadriplegia as a result of a spinal cord injury.",
+            "translation": {
+                "ko": "그는 척수 손상으로 인해 사지 마비가 되었다.",
+                "ja": "脊髄損傷の結果として四肢麻痺を患っています",
+                "zh": "他因脊髓损伤而患有四肢瘫痪",
+                "fr": "Il souffre de tétraplégie suite à une lésion médullaire"
+            }
+        }
+    ]
+}

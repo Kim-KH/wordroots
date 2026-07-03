@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "antiq (old) antique, antiquated, antiquity",
+        "origin": "Latin, antiquus (ancient, old)",
+        "meaning": {
+            "ko": "오래된, 고대의",
+            "en": "old, ancient",
+            "ja": "古い、古代の",
+            "zh": "古老的、古代的",
+            "fr": "ancien, antique"
+        }
+    },
+    "words": [
+        {
+            "word": "antique",
+            "part_of_speech": "",
+            "origin": "Latin, antiquus (ancient, old)",
+            "meaning": {
+                "ko": "고대의",
+                "en": "ancient",
+                "ja": "古い、古代の",
+                "zh": "古老的、古代的",
+                "fr": "ancien, antique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "antiq (antiquus)",
+                    "meaning": {
+                        "ko": "'이전의, 오래된'",
+                        "en": "before, old",
+                        "ja": "以前の、古い",
+                        "zh": "以前的、旧的",
+                        "fr": "avant, ancien"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 'antiquus'에서 유래하여 '오래된', '고대의'라는 의미를 가지며, 특히 가치가 있는 오래된 물건인 '골동품'을 의미하게 되었습니다.",
+                "en": "Derived from Latin 'antiquus' meaning 'old' and 'ancient', it came to specifically mean 'antique' or 'collectible old object' with value.",
+                "ja": "ラテン語の'antiquus'に由来し、'古い'、'古代の'という意味を持ち、特に価値のある古い品物を意味するようになりました。",
+                "zh": "源自拉丁语'antiquus'，意为'古老的'和'古代的'，后来特别指有价值的古董。",
+                "fr": "Dérivé du latin 'antiquus' signifiant 'ancien', il en vint à désigner spécifiquement un objet ancien de valeur."
+            },
+            "example": "She inherited a beautiful antique table from her grandmother.",
+            "translation": {
+                "ko": "그녀는 할머니로부터 아름다운 골동품 테이블을 물려받았다.",
+                "ja": "彼女は祖母から美しい骨董品のテーブルを受け継いだ。",
+                "zh": "她从祖母那里继承了一张漂亮的古董桌子。",
+                "fr": "Elle a hérité d'une belle table antique de sa grand-mère."
+            }
+        },
+        {
+            "word": "antiquated",
+            "part_of_speech": "",
+            "origin": "Latin, antiquatus (made old)",
+            "meaning": {
+                "ko": "오래되게 만들다",
+                "en": "to make old",
+                "ja": "古くする",
+                "zh": "使变旧",
+                "fr": "rendre ancien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "antiq (antiquus)",
+                    "meaning": {
+                        "ko": "'오래된'",
+                        "en": "old",
+                        "ja": "古い",
+                        "zh": "古老的",
+                        "fr": "ancien"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ated",
+                    "meaning": {
+                        "ko": "'~하게 된'",
+                        "en": "became in such a way",
+                        "ja": "~になった",
+                        "zh": "~变成",
+                        "fr": "être devenu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'오래되게 만들어진'이라는 의미로, 너무 낡아서 더 이상 쓸모가 없거나 시대에 뒤떨어진 '구식의'라는 뜻으로 사용됩니다.",
+                "en": "Used to describe something so outdated or worn that it is no longer useful or is behind the times, meaning 'old-fashioned'.",
+                "ja": "あまりに古くて、もはや役に立たないか時代に遅れた'旧式の'という意味で使用されます。",
+                "zh": "用于描述过于陈旧、不再有用或过时的东西，意思是'老式的'。",
+                "fr": "Utilisé pour décrire quelque chose de si désuet ou usé qu'il n'est plus utile ou qu'il est dépassé, signifiant 'démodé'."
+            },
+            "example": "His antiquated views on marriage are no longer relevant.",
+            "translation": {
+                "ko": "결혼에 대한 그의 구식의 견해는 더 이상 타당하지 않다.",
+                "ja": "彼の結婚についての時代遅れな見方はもはや関連性がありません。",
+                "zh": "他关于婚姻的过时看法已不再相关。",
+                "fr": "Ses opinions désuètes sur le mariage ne sont plus pertinentes."
+            }
+        },
+        {
+            "word": "antiquity",
+            "part_of_speech": "",
+            "origin": "Latin, antiquitas (ancient times)",
+            "meaning": {
+                "ko": "고대",
+                "en": "ancient times",
+                "ja": "古代",
+                "zh": "古代",
+                "fr": "antiquité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "antiq (antiquus)",
+                    "meaning": {
+                        "ko": "'오래된'",
+                        "en": "old",
+                        "ja": "古い",
+                        "zh": "古老的",
+                        "fr": "ancien"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'상태, 성질'",
+                        "en": "state or quality",
+                        "ja": "状態、性質",
+                        "zh": "状态、性质",
+                        "fr": "état, qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'오래된 상태'라는 의미에서 '고대', 특히 그리스 로마 시대를 가리키거나, '오래됨' 자체를 의미합니다.",
+                "en": "The meaning 'state of being old' refers to antiquity, particularly Greco-Roman times, or the quality of oldness itself.",
+                "ja": "「古い状態」という意味から「古代」、特にギリシャローマ時代を指すか、「古さ」そのものを意味します。",
+                "zh": "从「古老的状态」的含义引申出「古代」，特别是指古希腊罗马时代，或古老本身的特质。",
+                "fr": "Le sens 'état d'être ancien' désigne l'antiquité, particulièrement l'époque gréco-romaine, ou la qualité d'ancienneté elle-même."
+            },
+            "example": "The museum has a fine collection of Roman antiquity.",
+            "translation": {
+                "ko": "그 박물관은 훌륭한 로마 시대의 고대 유물을 소장하고 있다.",
+                "ja": "博物館はローマ古代の素晴らしいコレクションを所蔵しています。",
+                "zh": "博物馆收藏了精美的罗马古代文物。",
+                "fr": "Le musée possède une belle collection d'antiquités romaines."
+            }
+        }
+    ]
+}

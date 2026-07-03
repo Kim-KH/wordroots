@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "mor(t) (death) morgue, mortality, mortify, mortuary",
+        "origin": "Latin, mors, mortis (death)",
+        "meaning": {
+            "ko": "죽음",
+            "en": "death",
+            "ja": "死",
+            "zh": "死亡",
+            "fr": "mort"
+        }
+    },
+    "words": [
+        {
+            "word": "morgue",
+            "part_of_speech": "",
+            "origin": "French, morgue",
+            "meaning": {
+                "ko": "시체 공시장",
+                "en": "mortuary or place where dead bodies are kept",
+                "ja": "遺体安置所",
+                "zh": "停尸间",
+                "fr": "morgue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mor- (mors)",
+                    "meaning": {
+                        "ko": "'죽음'",
+                        "en": "death",
+                        "ja": "死",
+                        "zh": "死亡",
+                        "fr": "mort"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 죄수의 신원을 확인하기 위해 얼굴을 내보이던 장소에서 유래하여, 시체를 안치하는 '영안실'을 뜻하게 되었습니다.",
+                "en": "Originally derived from a place where prisoners' faces were displayed for identification purposes, it came to mean a 'mortuary' where bodies are kept.",
+                "ja": "元々は受刑者の身元確認のために顔を見せた場所に由来し、遺体を安置する『遺体安置所』を意味するようになりました。",
+                "zh": "最初源于用于确认囚犯身份而展示脸部的地方，后来指代安置遗体的『停尸间』。",
+                "fr": "Originellement dérivé d'un lieu où les visages des prisonniers étaient exposés à des fins d'identification, le terme en est venu à désigner une 'morgue' où les corps sont entreposés."
+            },
+            "example": "The body was taken to the city morgue.",
+            "translation": {
+                "ko": "그 시신은 시 영안실로 옮겨졌다.",
+                "ja": "遺体は市営遺体安置所に運ばれました。",
+                "zh": "遗体被送到市停尸间。",
+                "fr": "Le corps a été transporté à la morgue municipale."
+            }
+        },
+        {
+            "word": "mortality",
+            "part_of_speech": "",
+            "origin": "Latin, mortalitas (liability to death)",
+            "meaning": {
+                "ko": "죽을 운명",
+                "en": "fate to die",
+                "ja": "死ぬ運命",
+                "zh": "死亡命运",
+                "fr": "destin mortel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mort-",
+                    "meaning": {
+                        "ko": "'죽음'",
+                        "en": "death",
+                        "ja": "死",
+                        "zh": "死亡",
+                        "fr": "mort"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죽음을 피할 수 없는 운명' 또는 '사망률'을 뜻합니다.",
+                "en": "Means the inevitable fate of death or death rate",
+                "ja": "死を避けられない運命または死亡率を意味します",
+                "zh": "指无法避免的死亡命运或死亡率",
+                "fr": "Signifie le destin inévitable de la mort ou le taux de mortalité"
+            },
+            "example": "The mortality rate from the disease is high.",
+            "translation": {
+                "ko": "그 질병의 사망률은 높다.",
+                "ja": "その病気の死亡率は高い",
+                "zh": "这种疾病的死亡率很高",
+                "fr": "Le taux de mortalité de cette maladie est élevé"
+            }
+        },
+        {
+            "word": "mortify",
+            "part_of_speech": "",
+            "origin": "Latin, mortificare (to put to death)",
+            "meaning": {
+                "ko": "죽음에 이르게 하다",
+                "en": "to cause death",
+                "ja": "恥ずかしめる",
+                "zh": "使感到羞辱",
+                "fr": "humilier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mort-",
+                    "meaning": {
+                        "ko": "'죽음'",
+                        "en": "death",
+                        "ja": "死",
+                        "zh": "死亡",
+                        "fr": "mort"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~させる",
+                        "zh": "使~",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죽고 싶을 만큼 창피하게 만들다'는 의미에서 '굴욕감을 주다'라는 뜻이 되었습니다.",
+                "en": "Originally meant to cause death; evolved to mean causing shame so intense one wished to die, thus meaning to humiliate",
+                "ja": "元々は死をもたらすという意味でしたが、死ぬほどの恥をかかせるという意味から、屈辱を与えるという意味に変わりました",
+                "zh": "原本指导致死亡，后来从使人羞愧欲死的含义演变为羞辱之意",
+                "fr": "Initialement signifiait causer la mort; a évolué pour signifier causer une honte si intense qu'on souhaite mourir, d'où humilier"
+            },
+            "example": "She was mortified by her son's rude behavior.",
+            "translation": {
+                "ko": "그녀는 아들의 무례한 행동에 굴욕감을 느꼈다.",
+                "ja": "彼女は息子の失礼な態度で恥ずかしめられた。",
+                "zh": "她对儿子的粗鲁行为感到羞辱。",
+                "fr": "Elle a été humiliée par le comportement impoli de son fils."
+            }
+        },
+        {
+            "word": "mortuary",
+            "part_of_speech": "",
+            "origin": "Latin, mortuarius (belonging to the dead)",
+            "meaning": {
+                "ko": "죽은 자에게 속한",
+                "en": "belonging to the dead",
+                "ja": "死者に属する",
+                "zh": "属于死者的",
+                "fr": "appartenant aux morts"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mort-",
+                    "meaning": {
+                        "ko": "'죽음'",
+                        "en": "death",
+                        "ja": "死",
+                        "zh": "死亡",
+                        "fr": "mort"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죽은 사람을 위한 장소'라는 의미에서 '영안실'을 뜻합니다.",
+                "en": "Refers to a morgue, a place for the deceased",
+                "ja": "死者のための場所という意味で、遺体安置所を指します",
+                "zh": "指为死者设置的地方，即停尸间",
+                "fr": "Désigne une morgue, un lieu pour les défunts"
+            },
+            "example": "A funeral was held at the mortuary.",
+            "translation": {
+                "ko": "영안실에서 장례식이 거행되었다.",
+                "ja": "葬儀は遺体安置所で行われました",
+                "zh": "葬礼在停尸间举行",
+                "fr": "Des funérailles ont eu lieu à la morgue"
+            }
+        }
+    ]
+}

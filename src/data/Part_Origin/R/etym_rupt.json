@@ -1,0 +1,309 @@
+{
+    "root_info": {
+        "roots": "rupt: break",
+        "origin": "Latin, rumpere",
+        "meaning": {
+            "ko": "깨뜨리다",
+            "en": "to break",
+            "ja": "壊す",
+            "zh": "打破",
+            "fr": "casser"
+        }
+    },
+    "words": [
+        {
+            "word": "corrupt",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "cor- (com-)",
+                    "meaning": {
+                        "ko": "함께, 완전히",
+                        "en": "with, thoroughly",
+                        "ja": "一緒に、完全に",
+                        "zh": "一起、彻底地",
+                        "fr": "avec, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rupt",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "破坏",
+                        "fr": "briser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "도덕이나 원칙이 '완전히 깨진' 상태를 의미하며, '부패한', '타락한'이라는 뜻입니다. 동사로는 '타락시키다'는 뜻입니다.",
+                "en": "Describes a state where morality or principles are 'completely broken', meaning 'depraved' or 'debased'. As a verb, it means 'to cause to become depraved'.",
+                "ja": "道徳や原則が『完全に壊れた』状態を意味し、『堕落した』『腐敗した』という意味です。動詞としては『堕落させる』という意味です。",
+                "zh": "指道德或原则『彻底破坏』的状态，意为『腐败的』、『堕落的』。作为动词，意为『使堕落』。",
+                "fr": "Décrit un état où la morale ou les principes sont 'complètement brisés', signifiant 'dépravé' ou 'corrompu'. Comme verbe, cela signifie 'rendre dépravé'."
+            },
+            "example": "Power can corrupt people.",
+            "translation": {
+                "ko": "권력은 사람을 타락시킬 수 있다.",
+                "ja": "権力は人々を腐敗させることができる。",
+                "zh": "权力可以腐蚀人。",
+                "fr": "Le pouvoir peut corrompre les gens."
+            }
+        },
+        {
+            "word": "rupture",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rupt",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨져서 터지는 것'이라는 의미로, 인체 조직의 '파열' 또는 관계의 '결렬'을 뜻합니다.",
+                "en": "Meaning 'something broken or burst open,' referring to the 'breaking' of body tissue or 'severing' of relationships.",
+                "ja": "「割れて破裂する」という意味で、人体組織の「破裂」または関係の「決裂」を指します。",
+                "zh": "意为「破裂」，指人体组织的「破裂」或关系的「决裂」。",
+                "fr": "Signifie « rupture » ou « cassure », désignant la rupture de tissu corporel ou la rupture de relations."
+            },
+            "example": "The argument led to a rupture in their friendship.",
+            "translation": {
+                "ko": "그 말다툼은 그들의 우정에 결렬을 가져왔다.",
+                "ja": "その言い争いは彼らの友情の決裂につながった。",
+                "zh": "那次争执导致了他们友谊的决裂。",
+                "fr": "La dispute a entraîné une rupture dans leur amitié."
+            }
+        },
+        {
+            "word": "abrupt",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ab-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "off",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "détaché"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rupt",
+                    "meaning": {
+                        "ko": "깨진",
+                        "en": "broken",
+                        "ja": "壊れた",
+                        "zh": "破碎",
+                        "fr": "cassé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'갑자기 부서져 떨어진 듯한'이라는 의미에서, '돌연한', '갑작스러운'이라는 뜻입니다.",
+                "en": "From the sense of 'broken off suddenly', meaning sudden or unexpected",
+                "ja": "突然に壊れて落ちたような意味から、急突然な、予期しないという意味です",
+                "zh": "从'突然断裂脱落'的意义引申，表示突然的、意外的",
+                "fr": "Du sens de 'brisé et tombé soudainement', signifiant soudain ou inattendu"
+            },
+            "example": "He made an abrupt departure.",
+            "translation": {
+                "ko": "그는 갑작스럽게 떠났다.",
+                "ja": "彼は急に出発した。",
+                "zh": "他突然离开了。",
+                "fr": "Il a fait un départ abrupt."
+            }
+        },
+        {
+            "word": "disruption",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 산산이",
+                        "en": "apart",
+                        "ja": "離れて、バラバラに",
+                        "zh": "分开、散开",
+                        "fr": "à part, éparpillé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rupt",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "壊す、破る",
+                        "zh": "打破、破坏",
+                        "fr": "casser, briser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'산산이 깨뜨리는 것'이라는 의미에서, 정상적인 흐름의 '중단', '붕괴'를 뜻합니다.",
+                "en": "From the sense of 'breaking apart', it means an interruption or collapse of normal flow.",
+                "ja": "「バラバラに壊す」という意味から、正常な流れの『中断』『崩壊』を意味します。",
+                "zh": "从'打破散开'的意思出发，表示正常流程的'中断'或'崩溃'。",
+                "fr": "Du sens de 'casser en morceaux', il signifie l'interruption ou l'effondrement du cours normal."
+            },
+            "example": "The storm caused a disruption of services.",
+            "translation": {
+                "ko": "폭풍은 서비스의 중단을 야기했다.",
+                "ja": "嵐はサービスの中断を引き起こした。",
+                "zh": "风暴造成了服务中断。",
+                "fr": "La tempête a provoqué une interruption des services."
+            }
+        },
+        {
+            "word": "bankrupt",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bank",
+                    "meaning": {
+                        "ko": "벤치, 환전상",
+                        "en": "bench, money-changer's table",
+                        "ja": "ベンチ、両替商の台",
+                        "zh": "长凳、兑换商的桌子",
+                        "fr": "banc, table de changeur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rupt",
+                    "meaning": {
+                        "ko": "깨진",
+                        "en": "broken",
+                        "ja": "破れた",
+                        "zh": "破裂的",
+                        "fr": "cassé, brisé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "옛날 이탈리아에서 환전상이 파산하면 그의 '테이블(banca)을 부수던(rotta)' 것에서 유래했습니다. '파산한'이라는 뜻입니다.",
+                "en": "In medieval Italy, when a money-changer's 'bench' (banca) was broken (rotta) due to bankruptcy, the term came to mean 'insolvent'.",
+                "ja": "中世イタリアで、両替商が破産すると彼の『テーブル（banca）』を壊す(rotta)ことから生まれた言葉で、『破産した』という意味です。",
+                "zh": "在中世意大利，当兑换商破产时，他们会砸毁他的'桌子'(banca)，因此这个词(rotta)来指'破产'的意思。",
+                "fr": "En Italie médiévale, quand un changeur faisait faillite, on cassait son 'banc' (banca), d'où le terme 'rompu' (rotta) signifiant 'insolvable'."
+            },
+            "example": "The company went bankrupt last year.",
+            "translation": {
+                "ko": "그 회사는 작년에 파산했다.",
+                "ja": "その会社は去年破産した。",
+                "zh": "那家公司去年破产了。",
+                "fr": "L'entreprise a fait faillite l'année dernière."
+            }
+        },
+        {
+            "word": "eruption",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rupt",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "破る",
+                        "zh": "破裂",
+                        "fr": "éclater"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨고 밖으로 터져 나오는 것'이라는 의미에서, 화산의 '분출' 또는 감정의 '폭발', 피부의 '발진'을 뜻합니다.",
+                "en": "Breaking open and bursting outward; refers to a volcano's eruption, emotional outburst, or skin rash.",
+                "ja": "破裂して外に噴き出すという意味から、火山の噴火、感情の爆発、皮膚の発疹を意味します。",
+                "zh": "从破裂并向外喷发的含义衍生，指火山喷发、情绪爆发或皮肤皮疹。",
+                "fr": "De l'idée de se briser et de jaillir vers l'extérieur ; désigne l'éruption volcanique, l'explosion émotionnelle ou une éruption cutanée."
+            },
+            "example": "We watched the volcanic eruption from a safe distance.",
+            "translation": {
+                "ko": "우리는 안전한 거리에서 화산 분출을 지켜보았다.",
+                "ja": "私たちは安全な距離から火山の噴火を見守っていました。",
+                "zh": "我们从安全的距离观看了火山喷发。",
+                "fr": "Nous avons observé l'éruption volcanique à une distance sûre."
+            }
+        },
+        {
+            "word": "interrupt",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rupt",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "破る",
+                        "zh": "打破",
+                        "fr": "briser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "말이나 행동 '사이에 끼어들어 흐름을 깨다'는 의미에서, '방해하다', '중단시키다'는 뜻입니다.",
+                "en": "From the sense of 'breaking the flow by intruding between speech or actions', meaning 'to disturb' or 'to stop'.",
+                "ja": "話や行動の『間に割り込んで流れを遮る』という意味から、『邪魔する』『中断させる』という意味になりました。",
+                "zh": "从'在言语或行动之间插入并打破流程'的含义引申出'干扰''中断'的意思。",
+                "fr": "Du sens de 's'immiscer entre la parole ou l'action et en briser le cours', signifiant 'déranger' ou 'arrêter'."
+            },
+            "example": "Please don't interrupt me while I'm speaking.",
+            "translation": {
+                "ko": "제가 말하는 동안 방해하지 말아주세요.",
+                "ja": "私が話している間、邪魔しないでください。",
+                "zh": "我说话的时候，请不要打断我。",
+                "fr": "S'il vous plaît, ne m'interrompez pas pendant que je parle."
+            }
+        }
+    ]
+}

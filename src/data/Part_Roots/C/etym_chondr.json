@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "chondr (cartilage, small) hypochondriac, mitochondria",
+        "origin": "Greek, khondros (cartilage, grain)",
+        "meaning": {
+            "ko": "연골, 알갱이",
+            "en": "cartilage, grain",
+            "ja": "軟骨、粒",
+            "zh": "软骨，谷物",
+            "fr": "cartilage, grain"
+        }
+    },
+    "words": [
+        {
+            "word": "hypochondriac",
+            "part_of_speech": "",
+            "origin": "Greek, hypokhondria (the soft parts of the body below the ribs)",
+            "meaning": {
+                "ko": "갈비뼈 연골 아래",
+                "en": "below the rib cartilage",
+                "ja": "肋骨軟骨下部",
+                "zh": "肋骨软骨下方",
+                "fr": "sous le cartilage costal"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hypo-",
+                    "meaning": {
+                        "ko": "'아래에'",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "下方",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chondr (khondros)",
+                    "meaning": {
+                        "ko": "'연골'",
+                        "en": "cartilage",
+                        "ja": "軟骨",
+                        "zh": "软骨",
+                        "fr": "cartilage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "과거에 갈비뼈 연골(chondr) 아래(hypo) 부위에 우울함과 질병의 원인이 있다고 생각했던 것에서 유래하여, 자신의 건강을 비정상적으로 염려하는 '건강 염려증 환자'를 뜻하게 되었습니다.",
+                "en": "Historically, people believed the area below the rib cartilage (hypo-chondr) was the source of melancholy and illness, leading to the modern meaning of a person with abnormal health anxiety.",
+                "ja": "過去に肋骨軟骨(chondr)下(hypo)部位に憂うつと病気の原因があると考えられていたことから、自分の健康を異常に心配する健康不安症の患者を意味するようになりました。",
+                "zh": "过去人们认为肋骨软骨(chondr)下方(hypo)部位是忧郁和疾病的根源,因此演变为指过分担忧自身健康的'健康焦虑症患者'。",
+                "fr": "Autrefois, on croyait que la zone sous le cartilage costal (hypo-chondr) était la source de la mélancolie et de la maladie, d'où le sens moderne de personne souffrant d'anxiété sanitaire excessive."
+            },
+            "example": "He is a hypochondriac who thinks every cough is a sign of a serious illness.",
+            "translation": {
+                "ko": "그는 모든 기침을 심각한 질병의 징후라고 생각하는 건강 염려증 환자이다.",
+                "ja": "彼は風邪をひくたびに重い病気だと思い込む心気症患者だ。",
+                "zh": "他是一个疑心病很重的人,认为每次咳嗽都是严重疾病的信号。",
+                "fr": "C'est un hypocondriaque qui croit que chaque toux est le signe d'une maladie grave."
+            }
+        },
+        {
+            "word": "mitochondria",
+            "part_of_speech": "",
+            "origin": "Greek, mitos (thread) + khondrion (little granule)",
+            "meaning": {
+                "ko": "실 같은 알갱이",
+                "en": "thread-like granule",
+                "ja": "糸状の小粒",
+                "zh": "线状颗粒",
+                "fr": "granule filiforme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mito (mitos)",
+                    "meaning": {
+                        "ko": "'실'",
+                        "en": "thread",
+                        "ja": "糸",
+                        "zh": "线",
+                        "fr": "fil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chondr (khondrion)",
+                    "meaning": {
+                        "ko": "'작은 알갱이'",
+                        "en": "little granule",
+                        "ja": "小さな粒",
+                        "zh": "小颗粒",
+                        "fr": "petit granule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 속에서 현미경으로 관찰했을 때 실(mito) 모양 또는 작은 알갱이(chondr)처럼 보인다고 해서 '미토콘드리아'라는 이름이 붙었습니다.",
+                "en": "The name 'mitochondria' comes from its thread-like (mito) or granule-like (chondr) appearance when observed under a microscope in cells.",
+                "ja": "細胞内を顕微鏡で観察した際、糸(mito)の形または小さな粒(chondr)に見えることから'ミトコンドリア'という名前がつきました。",
+                "zh": "在显微镜下观察细胞时，因其呈现出线状(mito)或小颗粒(chondr)的样子而被命名为'线粒体'。",
+                "fr": "Le nom 'mitochondrie' provient de son apparence filiforme (mito) ou granuleuse (chondr) observée au microscope dans les cellules."
+            },
+            "example": "Mitochondria are known as the powerhouses of the cell.",
+            "translation": {
+                "ko": "미토콘드리아는 세포의 발전소로 알려져 있다.",
+                "ja": "ミトコンドリアは細胞のエネルギー工場として知られています。",
+                "zh": "线粒体被称为细胞的动力工厂。",
+                "fr": "Les mitochondries sont connues comme les centrales énergétiques de la cellule."
+            }
+        }
+    ]
+}

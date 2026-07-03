@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "drome (race course, running) hippodrome, syndrome, velodrome",
+        "origin": "Greek, dromos (a course, a race)",
+        "meaning": {
+            "ko": "경주로",
+            "en": "race course",
+            "ja": "競走路",
+            "zh": "跑道",
+            "fr": "terrain de course"
+        }
+    },
+    "words": [
+        {
+            "word": "hippodrome",
+            "part_of_speech": "",
+            "origin": "Greek, hippodromos (a racecourse for horses)",
+            "meaning": {
+                "ko": "말 경주로",
+                "en": "horse racing track",
+                "ja": "馬の競走路",
+                "zh": "马竞速场",
+                "fr": "hippodrome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hippo-",
+                    "meaning": {
+                        "ko": "'말'",
+                        "en": "horse",
+                        "ja": "馬",
+                        "zh": "马",
+                        "fr": "cheval"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "drome",
+                    "meaning": {
+                        "ko": "'경주로'",
+                        "en": "racing course",
+                        "ja": "競走路",
+                        "zh": "竞速场",
+                        "fr": "piste"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스나 로마의 '전차 경주장'을 뜻합니다.",
+                "en": "Refers to a chariot racing track in ancient Greece or Rome.",
+                "ja": "古代ギリシャやローマの戦車競争場を指します。",
+                "zh": "指古代希腊或罗马的战车竞速场。",
+                "fr": "Désigne un hippodrome pour courses de chars dans l'Antiquité grecque ou romaine."
+            },
+            "example": "The remains of a Roman hippodrome were found.",
+            "translation": {
+                "ko": "로마 시대 전차 경기장의 유적이 발견되었다.",
+                "ja": "ローマの競馬場の遺跡が発見されました。",
+                "zh": "发现了罗马马竞速场的遗迹。",
+                "fr": "Les restes d'un hippodrome romain ont été découverts."
+            }
+        },
+        {
+            "word": "syndrome",
+            "part_of_speech": "",
+            "origin": "Greek, syndrome (a running together)",
+            "meaning": {
+                "ko": "함께 달림",
+                "en": "running together",
+                "ja": "一緒に起こる症状",
+                "zh": "一起出现的症状",
+                "fr": "symptômes apparaissant ensemble"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "syn-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "drome",
+                    "meaning": {
+                        "ko": "'달리다'",
+                        "en": "running",
+                        "ja": "走る",
+                        "zh": "跑",
+                        "fr": "courir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 증상들이 함께 나타나는' 현상이라는 의미에서 '증후군'을 뜻합니다.",
+                "en": "Multiple symptoms appearing together",
+                "ja": "複数の症状が一緒に現れる現象を意味します",
+                "zh": "多种症状一起出现的现象的意思",
+                "fr": "Phénomène où plusieurs symptômes apparaissent ensemble"
+            },
+            "example": "Down syndrome is a genetic disorder.",
+            "translation": {
+                "ko": "다운 증후군은 유전 질환이다.",
+                "ja": "ダウン症候群は遺伝子疾患です。",
+                "zh": "唐氏综合征是一种遗传疾病。",
+                "fr": "Le syndrome de Down est un trouble génétique."
+            }
+        },
+        {
+            "word": "velodrome",
+            "part_of_speech": "",
+            "origin": "French, vélodrome",
+            "meaning": {
+                "ko": "자전거 경주장",
+                "en": "bicycle racing track",
+                "ja": "自転車競技場",
+                "zh": "自行车赛场",
+                "fr": "vélodrome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "velo-",
+                    "meaning": {
+                        "ko": "'자전거'",
+                        "en": "bicycle",
+                        "ja": "自転車",
+                        "zh": "自行车",
+                        "fr": "vélo"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "drome",
+                    "meaning": {
+                        "ko": "'경주장'",
+                        "en": "racing track",
+                        "ja": "競技場",
+                        "zh": "赛场",
+                        "fr": "piste"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자전거 경기를 위한 실내 경기장'을 뜻합니다.",
+                "en": "An indoor venue designed for bicycle racing events",
+                "ja": "自転車競技のための屋内競技施設",
+                "zh": "为自行车比赛设计的室内场地",
+                "fr": "Lieu couvert conçu pour les épreuves cyclistes"
+            },
+            "example": "The Olympic cycling events were held in the velodrome.",
+            "translation": {
+                "ko": "올림픽 사이클 경기는 벨로드롬에서 열렸다.",
+                "ja": "オリンピックの自転車競技はベロドロームで開催されました。",
+                "zh": "奥运会自行车项目在自行车赛场举行。",
+                "fr": "Les épreuves cyclistes des Jeux olympiques se sont déroulées au vélodrome."
+            }
+        }
+    ]
+}

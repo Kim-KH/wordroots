@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "th (ordinal number) tenth, hundredth, thousandth, millionth",
+        "origin": "Old English, -tha",
+        "meaning": {
+            "ko": "서수",
+            "en": "ordinal number",
+            "ja": "序数",
+            "zh": "序数",
+            "fr": "nombre ordinal"
+        }
+    },
+    "words": [
+        {
+            "word": "tenth",
+            "part_of_speech": "",
+            "origin": "Old English, teogotha",
+            "meaning": {
+                "ko": "열 번째",
+                "en": "ordinal number ten",
+                "ja": "10番目",
+                "zh": "第十",
+                "fr": "dixième"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ten",
+                    "meaning": {
+                        "ko": "'열'",
+                        "en": "ten",
+                        "ja": "10",
+                        "zh": "十",
+                        "fr": "dix"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-th",
+                    "meaning": {
+                        "ko": "'번째'",
+                        "en": "ordinal suffix",
+                        "ja": "番目",
+                        "zh": "次序",
+                        "fr": "ordre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열 번째'를 뜻하는 서수입니다.",
+                "en": "An ordinal number meaning tenth.",
+                "ja": "10番目を意味する序数です。",
+                "zh": "表示第十的序数。",
+                "fr": "Un nombre ordinal signifiant dixième."
+            },
+            "example": "This is his tenth birthday.",
+            "translation": {
+                "ko": "오늘은 그의 열 번째 생일이다.",
+                "ja": "これは彼の10番目の誕生日です。",
+                "zh": "这是他的第十个生日。",
+                "fr": "C'est son dixième anniversaire."
+            }
+        },
+        {
+            "word": "hundredth",
+            "part_of_speech": "",
+            "origin": "Old English, hundred + -th",
+            "meaning": {
+                "ko": "백 번째",
+                "en": "one hundredth in sequence",
+                "ja": "百番目",
+                "zh": "第一百",
+                "fr": "centième"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hundred",
+                    "meaning": {
+                        "ko": "'백'",
+                        "en": "hundred",
+                        "ja": "百",
+                        "zh": "百",
+                        "fr": "cent"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-th",
+                    "meaning": {
+                        "ko": "'번째'",
+                        "en": "ordinal suffix",
+                        "ja": "番目",
+                        "zh": "序数词后缀",
+                        "fr": "ordinal suffix"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'백 번째'를 뜻하는 서수입니다.",
+                "en": "Ordinal number meaning the 100th position",
+                "ja": "百番目を意味する序数です",
+                "zh": "表示第一百的序数",
+                "fr": "Nombre ordinal signifiant le 100e"
+            },
+            "example": "We are celebrating the hundredth anniversary of the company.",
+            "translation": {
+                "ko": "우리는 회사 창립 100주년을 축하하고 있다.",
+                "ja": "我々は会社の百周年を祝っています",
+                "zh": "我们庆祝该公司的百年纪念日",
+                "fr": "Nous célébrons le centième anniversaire de l'entreprise"
+            }
+        },
+        {
+            "word": "thousandth",
+            "part_of_speech": "",
+            "origin": "Old English, thusend + -th",
+            "meaning": {
+                "ko": "천 번째",
+                "en": "one of one thousand equal parts",
+                "ja": "千番目",
+                "zh": "千分之一",
+                "fr": "millième"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thousand",
+                    "meaning": {
+                        "ko": "'천'",
+                        "en": "thousand",
+                        "ja": "千",
+                        "zh": "千",
+                        "fr": "mille"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-th",
+                    "meaning": {
+                        "ko": "'번째'",
+                        "en": "ordinal number suffix",
+                        "ja": "番目",
+                        "zh": "番次",
+                        "fr": "ordinal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'천 번째'를 뜻하는 서수입니다.",
+                "en": "An ordinal number meaning one-thousandth",
+                "ja": "千番目を意味する序数です",
+                "zh": "表示千分之一的序数",
+                "fr": "Un nombre ordinal signifiant un millième"
+            },
+            "example": "A millimeter is one-thousandth of a meter.",
+            "translation": {
+                "ko": "1밀리미터는 1미터의 1000분의 1이다.",
+                "ja": "1ミリメートルはメートルの千分の一です",
+                "zh": "1毫米是1米的千分之一",
+                "fr": "Un millimètre est un millième de mètre"
+            }
+        },
+        {
+            "word": "millionth",
+            "part_of_speech": "",
+            "origin": "English, million + -th",
+            "meaning": {
+                "ko": "백만 번째",
+                "en": "one millionth ordinal position",
+                "ja": "百万番目",
+                "zh": "第一百万",
+                "fr": "millionième"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "million",
+                    "meaning": {
+                        "ko": "'백만'",
+                        "en": "one million",
+                        "ja": "百万",
+                        "zh": "一百万",
+                        "fr": "million"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-th",
+                    "meaning": {
+                        "ko": "'번째'",
+                        "en": "ordinal number suffix",
+                        "ja": "番目",
+                        "zh": "第…个",
+                        "fr": "ième"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'백만 번째'를 뜻하는 서수입니다.",
+                "en": "An ordinal number meaning the millionth",
+                "ja": "百万番目を意味する序数です",
+                "zh": "表示第一百万的序数",
+                "fr": "Nombre ordinal signifiant le millionième"
+            },
+            "example": "The city welcomed its millionth resident.",
+            "translation": {
+                "ko": "그 도시는 백만 번째 주민을 맞이했다.",
+                "ja": "その都市は百万番目の住民を迎えた。",
+                "zh": "这座城市欢迎了它的第一百万位居民。",
+                "fr": "La ville a accueilli son millionième résident."
+            }
+        }
+    ]
+}

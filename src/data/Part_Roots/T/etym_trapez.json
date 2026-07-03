@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "trapez (four-footed) trapeze, trapezium, trapezoid",
+        "origin": "Greek, trapeza (a table, a four-legged table)",
+        "meaning": {
+            "ko": "테이블",
+            "en": "a table",
+            "ja": "テーブル",
+            "zh": "表格",
+            "fr": "tableau"
+        }
+    },
+    "words": [
+        {
+            "word": "trapeze",
+            "part_of_speech": "",
+            "origin": "Greek, trapezion (a small table, an irregular quadrilateral)",
+            "meaning": {
+                "ko": "작은 테이블",
+                "en": "small table",
+                "ja": "空中ブランコ",
+                "zh": "空中秋千",
+                "fr": "trapèze"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trapez-",
+                    "meaning": {
+                        "ko": "'테이블, 사변형'",
+                        "en": "table, quadrilateral",
+                        "ja": "テーブル、四辺形",
+                        "zh": "桌子、四边形",
+                        "fr": "table, quadrilatère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공중에서 그네처럼 타는' 곡예용 기구인 '공중그네'를 뜻합니다.",
+                "en": "An acrobatic apparatus resembling a swing performed in the air, known as aerial trapeze",
+                "ja": "空中でブランコのように使う曲芸用器具",
+                "zh": "在空中像秋千一样使用的杂技器具",
+                "fr": "Appareil acrobatique ressemblant à une balançoire aérienne"
+            },
+            "example": "The acrobat performed a daring act on the trapeze.",
+            "translation": {
+                "ko": "그 곡예사는 공중그네에서 대담한 묘기를 선보였다.",
+                "ja": "空中ブランコ奏者は危険な曲芸を空中ブランコで演じました。",
+                "zh": "杂技演员在空中秋千上表演了一个危险的特技。",
+                "fr": "L'acrobate a exécuté un numéro audacieux sur le trapèze."
+            }
+        },
+        {
+            "word": "trapezium",
+            "part_of_speech": "",
+            "origin": "Greek, trapezion",
+            "meaning": {
+                "ko": "작은 테이블",
+                "en": "small table",
+                "ja": "台形、四辺形",
+                "zh": "梯形、四边形",
+                "fr": "trapèze, quadrilatère"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trapez-",
+                    "meaning": {
+                        "ko": "'테이블, 사변형'",
+                        "en": "table, quadrilateral",
+                        "ja": "台形、四辺形",
+                        "zh": "梯形、四边形",
+                        "fr": "trapèze, quadrilatère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "영국 영어에서는 '한 쌍의 대변이 평행한 사각형'인 '사다리꼴'을, 미국 영어에서는 '평행한 변이 없는 사각형'인 '부등변 사각형'을 뜻합니다.",
+                "en": "In British English, trapezium refers to a quadrilateral with one pair of parallel sides (trapezoid in American English). In American English, trapezium refers to a quadrilateral with no parallel sides (trapezoid in British English).",
+                "ja": "イギリス英語では、1組の対辺が平行な四角形を意味し、アメリカ英語では、平行な辺がない四角形を意味します。",
+                "zh": "在英国英语中，梯形是指一对对边平行的四边形。在美国英语中，梯形是指没有平行边的四边形。",
+                "fr": "En anglais britannique, le trapèze désigne un quadrilatère avec une paire de côtés parallèles. En anglais américain, il désigne un quadrilatère sans côtés parallèles."
+            },
+            "example": "A trapezium is a quadrilateral with at least one pair of parallel sides.",
+            "translation": {
+                "ko": "사다리꼴은 적어도 한 쌍의 평행한 변을 가진 사각형이다.",
+                "ja": "台形は少なくとも1組の平行な辺を持つ四辺形です。",
+                "zh": "梯形是至少有一对平行边的四边形。",
+                "fr": "Un trapèze est un quadrilatère ayant au moins une paire de côtés parallèles."
+            }
+        },
+        {
+            "word": "trapezoid",
+            "part_of_speech": "",
+            "origin": "Greek, trapezoeides (table-shaped)",
+            "meaning": {
+                "ko": "테이블 모양의",
+                "en": "table-shaped",
+                "ja": "台形",
+                "zh": "梯形",
+                "fr": "trapèze"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trapez-",
+                    "meaning": {
+                        "ko": "'테이블, 사변형'",
+                        "en": "table, quadrilateral",
+                        "ja": "テーブル、四辺形",
+                        "zh": "桌子、四边形",
+                        "fr": "table, quadrilatère"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oid",
+                    "meaning": {
+                        "ko": "'~모양의'",
+                        "en": "resembling, shaped like",
+                        "ja": "〜のような",
+                        "zh": "〜的形状",
+                        "fr": "en forme de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "미국 영어에서는 '사다리꼴'을, 영국 영어에서는 '부등변 사각형'을 뜻합니다.",
+                "en": "In American English, a trapezoid is a quadrilateral with exactly one pair of parallel sides. In British English, it refers to a quadrilateral with no parallel sides.",
+                "ja": "アメリカ英語では、台形は正確に1組の平行辺を持つ四辺形です。イギリス英語では、平行辺がない四辺形を意味します。",
+                "zh": "在美国英语中，梯形是指恰好有一对平行边的四边形。在英国英语中，指没有平行边的四边形。",
+                "fr": "En anglais américain, un trapèze est un quadrilatère ayant exactement une paire de côtés parallèles. En anglais britannique, il désigne un quadrilatère sans côtés parallèles."
+            },
+            "example": "In American English, a trapezoid is a quadrilateral with exactly one pair of parallel sides.",
+            "translation": {
+                "ko": "미국 영어에서 사다리꼴은 정확히 한 쌍의 평행한 변을 가진 사각형이다.",
+                "ja": "アメリカ英語では、台形は正確に1組の平行辺を持つ四辺形です。",
+                "zh": "在美国英语中，梯形是恰好有一对平行边的四边形。",
+                "fr": "En anglais américain, un trapèze est un quadrilatère ayant exactement une paire de côtés parallèles."
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "mut(a) (change) mutagen, mutate, mutation, mutable",
+        "origin": "Latin, mutare (to change)",
+        "meaning": {
+            "ko": "바꾸다",
+            "en": "to change",
+            "ja": "変わる",
+            "zh": "改变",
+            "fr": "changer"
+        }
+    },
+    "words": [
+        {
+            "word": "mutagen",
+            "part_of_speech": "",
+            "origin": "Latin, mutare (to change) + Greek, genos (birth)",
+            "meaning": {
+                "ko": "변화를 낳는 것",
+                "en": "something that causes change",
+                "ja": "変化をもたらすもの",
+                "zh": "引起变化的物质",
+                "fr": "agent de changement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "muta-",
+                    "meaning": {
+                        "ko": "'변화'",
+                        "en": "change",
+                        "ja": "変化",
+                        "zh": "变化",
+                        "fr": "changement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "'생성하는 것'",
+                        "en": "producer",
+                        "ja": "生成するもの",
+                        "zh": "产生者",
+                        "fr": "producteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유전적 변화(돌연변이)를 일으키는' 물질인 '돌연변이원'을 뜻합니다.",
+                "en": "A substance that causes genetic changes (mutations), known as a mutagen.",
+                "ja": "遺伝的変化(突然変異)を引き起こす物質である突然変異原を意味します。",
+                "zh": "指引起遗传变化(突变)的物质,称为诱变剂。",
+                "fr": "Une substance qui provoque des changements génétiques (mutations), connue sous le nom d'agent mutagène."
+            },
+            "example": "Certain chemicals are known to be mutagens.",
+            "translation": {
+                "ko": "특정 화학 물질은 돌연변이원으로 알려져 있다.",
+                "ja": "突然変異原",
+                "zh": "诱变剂",
+                "fr": "mutagène"
+            }
+        },
+        {
+            "word": "mutate",
+            "part_of_speech": "",
+            "origin": "Latin, mutare (to change)",
+            "meaning": {
+                "ko": "바꾸다",
+                "en": "to change or alter",
+                "ja": "変わる",
+                "zh": "改变",
+                "fr": "changer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mut-",
+                    "meaning": {
+                        "ko": "'바꾸다'",
+                        "en": "to change",
+                        "ja": "変わる",
+                        "zh": "改变",
+                        "fr": "changer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유전자가 변하여 돌연변이를 일으키다'라는 뜻입니다.",
+                "en": "Means 'to cause genes to change and produce mutations'",
+                "ja": "遺伝子が変わって突然変異を起こすという意味です",
+                "zh": "意思是基因改变并产生突变",
+                "fr": "Signifie que les gènes changent et provoquent des mutations"
+            },
+            "example": "The virus is known to mutate frequently.",
+            "translation": {
+                "ko": "그 바이러스는 자주 돌연변이를 일으키는 것으로 알려져 있다.",
+                "ja": "ウイルスは頻繁に変異することが知られています",
+                "zh": "已知该病毒经常发生变异",
+                "fr": "Le virus est connu pour muter fréquemment"
+            }
+        },
+        {
+            "word": "mutation",
+            "part_of_speech": "",
+            "origin": "Latin, mutatio (a changing)",
+            "meaning": {
+                "ko": "바뀜",
+                "en": "change or alteration",
+                "ja": "変化、突然変異",
+                "zh": "变化、突变",
+                "fr": "changement, mutation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mut-",
+                    "meaning": {
+                        "ko": "'바꾸다'",
+                        "en": "to change",
+                        "ja": "変わる、変える",
+                        "zh": "改变、变化",
+                        "fr": "changer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유전자의 변화'인 '돌연변이'를 뜻합니다.",
+                "en": "Refers to 'sudden mutation' which is a change in genes",
+                "ja": "遺伝子の変化である突然変異を意味します",
+                "zh": "指基因变化的突变现象",
+                "fr": "Désigne une mutation génétique, changement dans l'ADN"
+            },
+            "example": "Genetic mutations can cause diseases.",
+            "translation": {
+                "ko": "유전자 돌연변이는 질병을 유발할 수 있다.",
+                "ja": "遺伝子の変異は病気を引き起こすことができます。",
+                "zh": "遗传突变可能导致疾病。",
+                "fr": "Les mutations génétiques peuvent causer des maladies."
+            }
+        },
+        {
+            "word": "mutable",
+            "part_of_speech": "",
+            "origin": "Latin, mutabilis (changeable)",
+            "meaning": {
+                "ko": "바뀔 수 있는",
+                "en": "able to be changed",
+                "ja": "変わることができる",
+                "zh": "可以改变的",
+                "fr": "capable de changer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mut-",
+                    "meaning": {
+                        "ko": "'바꾸다'",
+                        "en": "to change",
+                        "ja": "変える",
+                        "zh": "改变",
+                        "fr": "changer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-able",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "able to be done",
+                        "ja": "できる",
+                        "zh": "能够",
+                        "fr": "capable de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'쉽게 변할 수 있는'이라는 의미에서 '변하기 쉬운'이라는 뜻입니다.",
+                "en": "Capable of being easily changed or altered",
+                "ja": "簡単に変わることができるという意味で、変わりやすいということです",
+                "zh": "表示容易改变或改动，易于变化的意思",
+                "fr": "Capable d'être facilement changé ou modifié"
+            },
+            "example": "Language is mutable and constantly evolving.",
+            "translation": {
+                "ko": "언어는 변하기 쉬우며 끊임없이 진화한다.",
+                "ja": "言語は可変的で絶えず進化しています。",
+                "zh": "语言是可变的，不断演变。",
+                "fr": "La langue est mutable et en constante évolution."
+            }
+        }
+    ]
+}

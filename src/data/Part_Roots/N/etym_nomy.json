@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "nomy (science of, name) astronomy, economy, nominal",
+        "origin": "Greek, nomos (law, arrangement, custom)",
+        "meaning": {
+            "ko": "법, 관리",
+            "en": "law, arrangement",
+            "ja": "法律、取り決め",
+            "zh": "法律、安排",
+            "fr": "loi, arrangement"
+        }
+    },
+    "words": [
+        {
+            "word": "astronomy",
+            "part_of_speech": "",
+            "origin": "Greek, astronomia (star-arranging)",
+            "meaning": {
+                "ko": "별의 배열",
+                "en": "arrangement of stars",
+                "ja": "天体の配置",
+                "zh": "星体排列",
+                "fr": "arrangement des astres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "astro-",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "星",
+                        "fr": "étoile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomy",
+                    "meaning": {
+                        "ko": "'법칙, 학문'",
+                        "en": "law, science",
+                        "ja": "法則、学問",
+                        "zh": "法则、学问",
+                        "fr": "loi, science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별의 운행 법칙을 연구하는 학문'인 '천문학'을 뜻합니다.",
+                "en": "Refers to 'astronomy', the science that studies the laws of celestial movement.",
+                "ja": "天体の運行法則を研究する学問である'天文学'を意味します。",
+                "zh": "指研究天体运行规律的学问'天文学'。",
+                "fr": "Désigne l'astronomie, la science qui étudie les lois du mouvement céleste."
+            },
+            "example": "Astronomy is one of the oldest sciences.",
+            "translation": {
+                "ko": "천문학은 가장 오래된 과학 중 하나이다.",
+                "ja": "天文学は最も古い科学の一つです。",
+                "zh": "天文学是最古老的科学之一。",
+                "fr": "L'astronomie est l'une des plus anciennes sciences."
+            }
+        },
+        {
+            "word": "economy",
+            "part_of_speech": "",
+            "origin": "Greek, oikonomia (household management)",
+            "meaning": {
+                "ko": "집안 관리",
+                "en": "household management",
+                "ja": "家計管理",
+                "zh": "家务管理",
+                "fr": "gestion du ménage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eco-",
+                    "meaning": {
+                        "ko": "'집'",
+                        "en": "house",
+                        "ja": "家",
+                        "zh": "家",
+                        "fr": "maison"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomy",
+                    "meaning": {
+                        "ko": "'관리, 법칙'",
+                        "en": "management, law",
+                        "ja": "管理、法則",
+                        "zh": "管理、规则",
+                        "fr": "gestion, règle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'집안 살림을 관리하는 것'에서 의미가 확장되어 국가의 '경제'를 뜻하게 되었습니다.",
+                "en": "Meaning expanded from 'managing household affairs' to refer to a nation's 'economy'.",
+                "ja": "家の暮らしを管理することから意味が拡張され、国の経済を意味するようになりました。",
+                "zh": "从管理家务的含义扩展到指代国家的经济。",
+                "fr": "Le sens s'est étendu de la gestion des affaires ménagères à l'économie d'une nation."
+            },
+            "example": "The global economy is facing many challenges.",
+            "translation": {
+                "ko": "세계 경제는 많은 도전에 직면해 있다.",
+                "ja": "世界経済は多くの課題に直面しています。",
+                "zh": "全球经济面临许多挑战。",
+                "fr": "L'économie mondiale fait face à de nombreux défis."
+            }
+        },
+        {
+            "word": "nominal",
+            "part_of_speech": "",
+            "origin": "Latin, nominalis (of a name)",
+            "meaning": {
+                "ko": "이름의",
+                "en": "of or relating to a name",
+                "ja": "名目上の",
+                "zh": "名义上的",
+                "fr": "nominal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomin- (nomen)",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이름뿐이고 실질적이지는 않은'이라는 의미에서 '명목상의'라는 뜻입니다. (어원적으로 nomos와는 직접적 관련이 적지만, 종종 함께 분류됩니다.)",
+                "en": "Meaning 'in name only, not substantial' from the sense of being a name rather than reality. (Etymologically has limited direct relation to nomos, but often classified together.)",
+                "ja": "名前だけで実質的ではないという意味から名目上のという意味です。(語源的にはномosとの直接的な関連は少ないが、しばしば一緒に分類されます。)",
+                "zh": "表示'仅名义上的，不实质的'，源自名字本身而非现实。(在词源上与nomos的直接关联有限，但经常被一起分类。)",
+                "fr": "Signifie 'seulement en apparence, pas substantiel' du sens d'être un nom plutôt qu'une réalité. (Etymologiquement peu directement lié à nomos, mais souvent classé ensemble.)"
+            },
+            "example": "The fee is nominal.",
+            "translation": {
+                "ko": "수수료는 명목상일 뿐이다.",
+                "ja": "その料金は名目上のものです。",
+                "zh": "这笔费用名义上很少。",
+                "fr": "Les frais sont nominaux."
+            }
+        }
+    ]
+}

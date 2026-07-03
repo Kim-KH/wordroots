@@ -1,0 +1,88 @@
+{
+    "root_info": {
+        "roots": "min: little, small",
+        "origin": "Latin, minuere (to lessen), minor (less)",
+        "meaning": {
+            "ko": "작은",
+            "en": "little, small",
+            "ja": "小さい、小",
+            "zh": "小的、小",
+            "fr": "petit, petite"
+        }
+    },
+    "words": [
+        {
+            "word": "diminish",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (de-)",
+                    "meaning": {
+                        "ko": "완전히",
+                        "en": "completely",
+                        "ja": "完全に",
+                        "zh": "完全地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "minu (minuere)",
+                    "meaning": {
+                        "ko": "작게 만들다",
+                        "en": "to make small",
+                        "ja": "小さくする",
+                        "zh": "使变小",
+                        "fr": "rendre petit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 작게 만들다'는 의미에서 '줄어들다', '약화시키다'는 뜻입니다.",
+                "en": "The meaning 'to make completely small' conveys 'to decrease', 'to weaken'",
+                "ja": "「完全に小さくする」という意味から「減少する」「弱める」という意味になります",
+                "zh": "「完全地使变小」的含义引申为「减少」「削弱」的意思",
+                "fr": "Le sens 'rendre complètement petit' signifie 'diminuer', 'affaiblir'"
+            },
+            "example": "Our resources are beginning to diminish.",
+            "translation": {
+                "ko": "우리의 자원이 줄어들기 시작하고 있다.",
+                "ja": "私たちの資源は減少し始めている。",
+                "zh": "我们的资源开始减少。",
+                "fr": "Nos ressources commencent à diminuer."
+            }
+        },
+        {
+            "word": "minute",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "minut (minutus)",
+                    "meaning": {
+                        "ko": "작은",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아주 작은'이라는 의미로, [maɪˈnjuːt]로 발음합니다. 시간 단위 '분'([ˈmɪnɪt])과는 발음과 뜻이 다릅니다.",
+                "en": "Meaning 'extremely small,' pronounced [maɪˈnjuːt]. Different in both pronunciation and meaning from the time unit 'minute' ([ˈmɪnɪt]).",
+                "ja": "「非常に小さい」という意味で、[maɪˈnjuːt]と発音します。時間単位の「分」([ˈmɪnɪt])とは発音と意味が異なります。",
+                "zh": "意为「非常小」，发音为[maɪˈnjuːt]。与时间单位「分钟」([ˈmɪnɪt])的发音和含义都不同。",
+                "fr": "Signifiant « extrêmement petit », prononcé [maɪˈnjuːt]. Différent en prononciation et en sens de l'unité de temps « minute » ([ˈmɪnɪt])."
+            },
+            "example": "There were minute traces of dust.",
+            "translation": {
+                "ko": "아주 작은 먼지 흔적이 있었다.",
+                "ja": "微かな塵の痕跡がありました。",
+                "zh": "有微小的灰尘痕迹。",
+                "fr": "Il y avait des traces minuscules de poussière."
+            }
+        }
+    ]
+}

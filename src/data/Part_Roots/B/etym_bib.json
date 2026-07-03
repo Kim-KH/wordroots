@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "bib(lio) (book) bibliography, bibliophile",
+        "origin": "Greek, biblion (book)",
+        "meaning": {
+            "ko": "책",
+            "en": "book",
+            "ja": "本",
+            "zh": "书",
+            "fr": "livre"
+        }
+    },
+    "words": [
+        {
+            "word": "bibliography",
+            "part_of_speech": "",
+            "origin": "Greek, bibliographia (book-writing)",
+            "meaning": {
+                "ko": "책에 대해 쓰기",
+                "en": "writing of books",
+                "ja": "本についての記述",
+                "zh": "关于书籍的著述",
+                "fr": "écriture sur les livres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "biblio (biblion)",
+                    "meaning": {
+                        "ko": "'책'",
+                        "en": "book",
+                        "ja": "本",
+                        "zh": "书籍",
+                        "fr": "livre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graphy (graphein)",
+                    "meaning": {
+                        "ko": "'쓰기'",
+                        "en": "to write",
+                        "ja": "書くこと",
+                        "zh": "撰写",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'책(biblio)에 대해 쓴 것(graphy)'이라는 의미로, 논문이나 책의 끝에 참고한 '문헌 목록' 또는 특정 주제에 대한 '서지 정보'를 의미합니다.",
+                "en": "A bibliography refers to a 'list of references' at the end of a paper or book, or 'bibliographic information' on a specific topic, literally meaning 'writing about books'.",
+                "ja": "書誌は、論文や書籍の末尾にある『参考文献リスト』、または特定のテーマに関する『書誌情報』を指し、文字通りには『本についての記述』という意味です。",
+                "zh": "书目是指论文或书籍末尾的『参考文献清单』，或特定主题的『书目信息』，字面意思是『关于书籍的著述』。",
+                "fr": "Une bibliographie désigne une 'liste de références' à la fin d'un article ou d'un livre, ou 'information bibliographique' sur un sujet spécifique, signifiant littéralement 'écriture sur les livres'."
+            },
+            "example": "A bibliography is included at the end of the chapter.",
+            "translation": {
+                "ko": "장의 마지막에 참고 문헌 목록이 포함되어 있다.",
+                "ja": "参考文献",
+                "zh": "参考文献",
+                "fr": "bibliographie"
+            }
+        },
+        {
+            "word": "bibliophile",
+            "part_of_speech": "",
+            "origin": "Greek, biblion (book) + philos (loving)",
+            "meaning": {
+                "ko": "책을 사랑하는 사람",
+                "en": "book-lover",
+                "ja": "本を愛する人",
+                "zh": "爱书的人",
+                "fr": "amoureux des livres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "biblio (biblion)",
+                    "meaning": {
+                        "ko": "'책'",
+                        "en": "book",
+                        "ja": "本",
+                        "zh": "书",
+                        "fr": "livre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phile (philos)",
+                    "meaning": {
+                        "ko": "'사랑하는'",
+                        "en": "loving",
+                        "ja": "愛する",
+                        "zh": "热爱",
+                        "fr": "aimer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'책(biblio)을 사랑하는(phile) 사람'이라는 의미로, '애서가', '서적 수집가'를 뜻합니다.",
+                "en": "Meaning book-lover; refers to a person who loves books, a book collector or bibliophile.",
+                "ja": "本を愛する人という意味で、愛書家や書籍収集家を指します。",
+                "zh": "表示热爱书籍的人，指爱书者或书籍收集家。",
+                "fr": "Signifie amoureux des livres; désigne une personne qui aime les livres, un collectionneur de livres."
+            },
+            "example": "As a bibliophile, he has a collection of over a thousand books.",
+            "translation": {
+                "ko": "애서가로서 그는 천 권이 넘는 책을 소장하고 있다.",
+                "ja": "愛書家として、彼は千冊以上の本を所有しています。",
+                "zh": "作为一个爱书者，他拥有超过一千本书的收藏。",
+                "fr": "En tant qu'amoureux des livres, il possède une collection de plus de mille livres."
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "mobil (movable) automobile, immobile, mobilize",
+        "origin": "Latin, movere, motus (to move)",
+        "meaning": {
+            "ko": "움직이다",
+            "en": "to move",
+            "ja": "動く",
+            "zh": "移动",
+            "fr": "bouger"
+        }
+    },
+    "words": [
+        {
+            "word": "automobile",
+            "part_of_speech": "",
+            "origin": "Greek, autos (self) + Latin, mobilis (movable)",
+            "meaning": {
+                "ko": "스스로 움직이는",
+                "en": "moving by itself",
+                "ja": "自動で動く乗り物",
+                "zh": "自己驱动的车辆",
+                "fr": "véhicule qui se meut seul"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "'스스로'",
+                        "en": "self",
+                        "ja": "自分自身で",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mobile",
+                    "meaning": {
+                        "ko": "'움직이는'",
+                        "en": "movable",
+                        "ja": "動く",
+                        "zh": "可移动的",
+                        "fr": "mobile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'스스로 움직이는 탈것'이라는 의미에서 '자동차'를 뜻합니다.",
+                "en": "Means automobile, derived from the concept of a vehicle that moves on its own",
+                "ja": "自動車を意味し、自分で動く乗り物という概念から派生した",
+                "zh": "意思是汽车，源自自动驱动车辆的概念",
+                "fr": "Signifie automobile, dérivé du concept d'un véhicule qui se meut seul"
+            },
+            "example": "The automobile revolutionized transportation.",
+            "translation": {
+                "ko": "자동차는 교통에 혁명을 일으켰다.",
+                "ja": "自動車",
+                "zh": "汽车",
+                "fr": "automobile"
+            }
+        },
+        {
+            "word": "immobile",
+            "part_of_speech": "",
+            "origin": "Latin, immobilis (immovable)",
+            "meaning": {
+                "ko": "움직일 수 없는",
+                "en": "unable to move",
+                "ja": "動かせない",
+                "zh": "不能移动",
+                "fr": "immobile"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "~ではない",
+                        "zh": "不是",
+                        "fr": "non"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mobile",
+                    "meaning": {
+                        "ko": "'움직일 수 있는'",
+                        "en": "movable",
+                        "ja": "動かせる",
+                        "zh": "可移动的",
+                        "fr": "mobile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직일 수 없는'이라는 의미에서 '고정된', '움직이지 않는'이라는 뜻입니다.",
+                "en": "Meaning fixed or stationary from the sense of unable to move",
+                "ja": "動かせないという意味から、固定された、動かない意味です",
+                "zh": "从不能移动的意义衍生出固定的、不动的意思",
+                "fr": "Signifie fixé ou stationnaire du sens d'être incapable de bouger"
+            },
+            "example": "The patient must remain immobile for several weeks.",
+            "translation": {
+                "ko": "그 환자는 몇 주 동안 움직이지 않아야 한다.",
+                "ja": "患者は数週間動かずにいる必要があります",
+                "zh": "患者必须保持静止不动数周",
+                "fr": "Le patient doit rester immobile pendant plusieurs semaines"
+            }
+        },
+        {
+            "word": "mobilize",
+            "part_of_speech": "",
+            "origin": "French, mobiliser",
+            "meaning": {
+                "ko": "동원하다",
+                "en": "to mobilize or rally",
+                "ja": "動員する",
+                "zh": "动员",
+                "fr": "mobiliser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mobil-",
+                    "meaning": {
+                        "ko": "'움직이는'",
+                        "en": "movable",
+                        "ja": "動く",
+                        "zh": "可动的",
+                        "fr": "mobile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람이나 자원을 움직이게 하다'는 의미에서 '동원하다'라는 뜻입니다.",
+                "en": "Means to put people or resources into action",
+                "ja": "人や資源を動かすという意味で動員するという意味です",
+                "zh": "通过使人员或资源移动来动员的意思",
+                "fr": "Signifie mettre les personnes ou ressources en action"
+            },
+            "example": "The government mobilized troops to the border.",
+            "translation": {
+                "ko": "정부는 국경으로 군대를 동원했다.",
+                "ja": "政府は国境に軍隊を動員した。",
+                "zh": "政府向边境调动了军队。",
+                "fr": "Le gouvernement a mobilisé les troupes à la frontière."
+            }
+        }
+    ]
+}

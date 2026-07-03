@@ -1,0 +1,340 @@
+{
+    "root_info": {
+        "roots": "path: feeling, disease",
+        "origin": "Greek, pathos",
+        "meaning": {
+            "ko": "감정, 질병",
+            "en": "feeling, disease",
+            "ja": "感情、病気",
+            "zh": "感情、疾病",
+            "fr": "sentiment, maladie"
+        }
+    },
+    "words": [
+        {
+            "word": "-path",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "path",
+                    "meaning": {
+                        "ko": "질병, 고통",
+                        "en": "disease, suffering",
+                        "ja": "病気、苦しみ",
+                        "zh": "疾病、痛苦",
+                        "fr": "maladie, souffrance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'~의 질병을 앓는 사람' 또는 '~의 질병을 치료하는 사람'을 의미하는 접미사로 쓰입니다. (예: psychopath)",
+                "en": "Suffix meaning 'a person suffering from ~disease' or 'a person treating ~disease'. (Example: psychopath)",
+                "ja": "~の病気に苦しむ人、または~の病気を治療する人を意味する接尾辞。(例:精神病質者)",
+                "zh": "表示患有~疾病的人或治疗~疾病的人的后缀。(例:精神病质者)",
+                "fr": "Suffixe signifiant 'une personne souffrant de ~maladie' ou 'une personne traitant ~maladie'. (Exemple: psychopathe)"
+            },
+            "example": "A sociopath lacks empathy.",
+            "translation": {
+                "ko": "소시오패스는 공감 능력이 부족하다.",
+                "ja": "社会病質者は共感性に欠ける。",
+                "zh": "反社会人格者缺乏同情心。",
+                "fr": "Un sociopathe manque d'empathie."
+            }
+        },
+        {
+            "word": "antipathy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "anti-",
+                    "meaning": {
+                        "ko": "반대",
+                        "en": "against",
+                        "ja": "反対",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "path",
+                    "meaning": {
+                        "ko": "감정",
+                        "en": "feeling",
+                        "ja": "感情",
+                        "zh": "感情",
+                        "fr": "sentiment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반대하는 감정'이라는 의미에서, 강한 '반감', '혐오'를 뜻합니다.",
+                "en": "From the meaning 'feeling against,' it signifies strong dislike or aversion.",
+                "ja": "「反対する感情」という意味から、強い反感、嫌悪を意味します。",
+                "zh": "从\"反对的感情\"的含义出发，表示强烈的厌恶或反感。",
+                "fr": "Du sens de « sentiment opposé », il désigne une forte aversion ou antipathie."
+            },
+            "example": "He felt a strong antipathy towards his rival.",
+            "translation": {
+                "ko": "그는 경쟁자에게 강한 반감을 느꼈다.",
+                "ja": "彼はライバルに対して強い反感を感じていた。",
+                "zh": "他对他的竞争对手感到强烈的反感。",
+                "fr": "Il ressentait une forte antipathie envers son rival."
+            }
+        },
+        {
+            "word": "pathogenic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "patho",
+                    "meaning": {
+                        "ko": "질병",
+                        "en": "disease",
+                        "ja": "病気",
+                        "zh": "疾病",
+                        "fr": "maladie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "만드는",
+                        "en": "producing",
+                        "ja": "生じさせる",
+                        "zh": "产生",
+                        "fr": "produisant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'질병을 만드는'이라는 의미에서 '병원성의', '발병시키는'이라는 뜻입니다.",
+                "en": "From Greek pathos (disease) + -genic (producing). Means capable of causing or producing disease.",
+                "ja": "ギリシャ語の「pathos」（病気）と「-genic」（生じさせる）から。病気を引き起こす、または生じさせることができるという意味です。",
+                "zh": "来自希腊语pathos（疾病）和-genic（产生）。意为能够引起或产生疾病。",
+                "fr": "Du grec pathos (maladie) et -genic (produisant). Signifie capable de causer ou de produire une maladie."
+            },
+            "example": "Some bacteria are pathogenic.",
+            "translation": {
+                "ko": "어떤 박테리아는 병원성이 있다.",
+                "ja": "ある種のバクテリアは病原性を持っている。",
+                "zh": "某些细菌具有致病性。",
+                "fr": "Certaines bactéries sont pathogènes."
+            }
+        },
+        {
+            "word": "empathy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "em- (en-)",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...里面",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "path",
+                    "meaning": {
+                        "ko": "감정",
+                        "en": "feeling",
+                        "ja": "感情",
+                        "zh": "感情",
+                        "fr": "sentiment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "다른 사람의 '감정 안으로 들어가는 것'이라는 의미에서, '공감', '감정 이입'을 뜻합니다.",
+                "en": "From the idea of 'entering into another person's feelings,' meaning empathy or emotional identification.",
+                "ja": "他人の『感情の中に入る』という意味から、『共感』『感情移入』を意味します。",
+                "zh": "从'进入他人感情世界'的概念，表示'同情'或'感情共鸣'。",
+                "fr": "De l'idée d'« entrer dans les sentiments d'autrui », signifiant empathie ou identification émotionnelle."
+            },
+            "example": "Empathy is the ability to understand others' feelings.",
+            "translation": {
+                "ko": "공감은 다른 사람의 감정을 이해하는 능력이다.",
+                "ja": "共感とは他者の感情を理解する能力である。",
+                "zh": "同情心是理解他人感受的能力。",
+                "fr": "L'empathie est la capacité à comprendre les sentiments d'autrui."
+            }
+        },
+        {
+            "word": "apathy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "없음",
+                        "en": "without",
+                        "ja": "なし",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "path",
+                    "meaning": {
+                        "ko": "감정",
+                        "en": "feeling",
+                        "ja": "感情",
+                        "zh": "感情",
+                        "fr": "sentiment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감정이 없는 상태'라는 의미에서 '무관심', '냉담'을 뜻합니다.",
+                "en": "Meaning indifference or lack of feeling; from Greek a- (without) + pathos (feeling)",
+                "ja": "感情がない状態を意味し、無関心や冷淡さを表します。",
+                "zh": "表示缺乏感情的状态，意为冷漠或无动于衷。",
+                "fr": "Signifie un manque de sentiment, exprimant l'indifférence ou l'apathie."
+            },
+            "example": "Voter apathy is a problem in many countries.",
+            "translation": {
+                "ko": "유권자들의 무관심은 많은 나라에서 문제이다.",
+                "ja": "投票者の無関心は多くの国で問題である。",
+                "zh": "选民的冷漠是许多国家的问题。",
+                "fr": "L'apathie électorale est un problème dans de nombreux pays."
+            }
+        },
+        {
+            "word": "pathology",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "patho",
+                    "meaning": {
+                        "ko": "질병",
+                        "en": "disease",
+                        "ja": "病気",
+                        "zh": "疾病",
+                        "fr": "maladie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-logy",
+                    "meaning": {
+                        "ko": "학문",
+                        "en": "study of",
+                        "ja": "研究",
+                        "zh": "学问",
+                        "fr": "étude de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'질병에 관한 학문' 즉, '병리학'을 의미합니다.",
+                "en": "The study of diseases and abnormal conditions in the body.",
+                "ja": "体の病気と異常な状態に関する学問、つまり「病理学」を意味します。",
+                "zh": "关于疾病的学问，即\"病理学\"之意。",
+                "fr": "L'étude des maladies et des conditions anormales du corps, c'est-à-dire la « pathologie »."
+            },
+            "example": "He is studying pathology at medical school.",
+            "translation": {
+                "ko": "그는 의과 대학에서 병리학을 공부하고 있다.",
+                "ja": "彼は医学部で病理学を勉強しています。",
+                "zh": "他在医学院学习病理学。",
+                "fr": "Il étudie la pathologie à la faculté de médecine."
+            }
+        },
+        {
+            "word": "sympathy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sym- (syn-)",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "path",
+                    "meaning": {
+                        "ko": "감정",
+                        "en": "feeling",
+                        "ja": "感情",
+                        "zh": "感情",
+                        "fr": "sentiment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "다른 사람과 '감정을 함께하는 것'이라는 의미에서 '동정', '연민' 또는 '공감', '지지'를 뜻합니다.",
+                "en": "Means 'pity', 'compassion' or 'empathy', 'support' from the sense of 'sharing feelings with another person'.",
+                "ja": "他の人と'感情を一緒にすること'という意味から、'同情'、'憐憫'または'共感'、'支持'を意味します。",
+                "zh": "从与他人'共同分享感情'的含义出发，意指'同情''怜悯'或'共鸣''支持'。",
+                "fr": "Signifie 'pitié', 'compassion' ou 'empathie', 'soutien' au sens de 'partager les sentiments d'une autre personne'."
+            },
+            "example": "I have no sympathy for him.",
+            "translation": {
+                "ko": "나는 그에게 동정심이 없다.",
+                "ja": "私は彼に同情心を持っていません。",
+                "zh": "我对他没有同情心。",
+                "fr": "Je n'ai aucune sympathie pour lui."
+            }
+        },
+        {
+            "word": "pathetic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "path",
+                    "meaning": {
+                        "ko": "감정, 고통",
+                        "en": "feeling, suffering",
+                        "ja": "感情、苦しみ",
+                        "zh": "感情、痛苦",
+                        "fr": "sentiment, souffrance"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-etic",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形式后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'연민의 감정을 불러일으키는'이라는 의미에서 '애처로운', '불쌍한'이라는 뜻입니다.",
+                "en": "From the sense of 'evoking sympathy' meaning pitiable, miserable",
+                "ja": "同情を呼び起こすという意味から、『哀れな』『かわいそうな』という意味です",
+                "zh": "从'引起同情'的含义而来，表示'可怜的'、'悲惨的'",
+                "fr": "Du sens d'«évoquer la compassion», signifiant pitoyable, misérable"
+            },
+            "example": "The wet kitten looked pathetic.",
+            "translation": {
+                "ko": "젖은 새끼 고양이는 애처로워 보였다.",
+                "ja": "濡れた子猫は哀れに見えた。",
+                "zh": "湿漉漉的小猫看起来很可怜。",
+                "fr": "Le chaton mouillé avait l'air pitoyable."
+            }
+        }
+    ]
+}

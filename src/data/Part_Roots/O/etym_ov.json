@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "ov(i) (egg) oval, ovary, ovoid, ovule",
+        "origin": "Latin, ovum (egg)",
+        "meaning": {
+            "ko": "알",
+            "en": "egg",
+            "ja": "卵",
+            "zh": "蛋",
+            "fr": "œuf"
+        }
+    },
+    "words": [
+        {
+            "word": "oval",
+            "part_of_speech": "",
+            "origin": "Latin, ovum (egg)",
+            "meaning": {
+                "ko": "알",
+                "en": "egg",
+                "ja": "楕円形の",
+                "zh": "椭圆形的",
+                "fr": "ovale"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ov-",
+                    "meaning": {
+                        "ko": "'알'",
+                        "en": "egg",
+                        "ja": "卵",
+                        "zh": "蛋",
+                        "fr": "œuf"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알 모양의'라는 의미에서 '타원형의'라는 뜻입니다.",
+                "en": "From the meaning of egg shape, it means elliptical",
+                "ja": "卵の形という意味から、楕円形という意味です",
+                "zh": "从蛋形的意思，表示椭圆形",
+                "fr": "De la signification de forme d'œuf, cela signifie elliptique"
+            },
+            "example": "The mirror has an oval shape.",
+            "translation": {
+                "ko": "그 거울은 타원형이다.",
+                "ja": "鏡は楕円形をしています",
+                "zh": "镜子有椭圆形的形状",
+                "fr": "Le miroir a une forme ovale"
+            }
+        },
+        {
+            "word": "ovary",
+            "part_of_speech": "",
+            "origin": "Latin, ovarium (egg-holder)",
+            "meaning": {
+                "ko": "알을 담는 곳",
+                "en": "place that holds eggs",
+                "ja": "卵を入れる場所",
+                "zh": "卵子所在的地方",
+                "fr": "lieu contenant les œufs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ov-",
+                    "meaning": {
+                        "ko": "'알'",
+                        "en": "egg",
+                        "ja": "卵",
+                        "zh": "卵子",
+                        "fr": "œuf"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알(난자)을 만드는 기관'인 '난소'를 뜻합니다.",
+                "en": "The ovary is an organ that produces eggs (ova)",
+                "ja": "卵(卵子)を作る器官である卵巣を意味します",
+                "zh": "指产生卵子(卵)的器官卵巢",
+                "fr": "L'ovaire est l'organe qui produit les œufs (ovules)"
+            },
+            "example": "The ovaries produce eggs and female hormones.",
+            "translation": {
+                "ko": "난소는 난자와 여성 호르몬을 생산한다.",
+                "ja": "卵巣",
+                "zh": "卵巢",
+                "fr": "ovaire"
+            }
+        },
+        {
+            "word": "ovoid",
+            "part_of_speech": "",
+            "origin": "Latin, ovum (egg) + Greek, -oeides (form)",
+            "meaning": {
+                "ko": "알 형태",
+                "en": "egg-shaped form",
+                "ja": "卵形の",
+                "zh": "卵形的",
+                "fr": "en forme d'œuf"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ov-",
+                    "meaning": {
+                        "ko": "'알'",
+                        "en": "egg",
+                        "ja": "卵",
+                        "zh": "蛋",
+                        "fr": "œuf"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oid",
+                    "meaning": {
+                        "ko": "'~을 닮은'",
+                        "en": "resembling",
+                        "ja": "~に似た",
+                        "zh": "像~的",
+                        "fr": "resemblant à~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알을 닮은 모양'이라는 의미에서 '달걀 모양의', '타원체의'라는 뜻입니다.",
+                "en": "Describes something shaped like an egg or ellipsoid",
+                "ja": "卵のような形状、楕円体のような形を示す",
+                "zh": "描述蛋形或椭圆体形状的东西",
+                "fr": "Décrit quelque chose en forme d'œuf ou d'ellipsoïde"
+            },
+            "example": "The pebbles on the beach were smooth and ovoid.",
+            "translation": {
+                "ko": "해변의 조약돌은 부드럽고 달걀 모양이었다.",
+                "ja": "浜の小石は滑らかで卵形だった。",
+                "zh": "海滩上的鹅卵石光滑且呈卵形。",
+                "fr": "Les galets sur la plage étaient lisses et en forme d'œuf."
+            }
+        },
+        {
+            "word": "ovule",
+            "part_of_speech": "",
+            "origin": "Latin, ovulum (a little egg)",
+            "meaning": {
+                "ko": "작은 알",
+                "en": "small egg",
+                "ja": "小さな卵",
+                "zh": "小卵",
+                "fr": "petit œuf"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ov-",
+                    "meaning": {
+                        "ko": "'알'",
+                        "en": "egg",
+                        "ja": "卵",
+                        "zh": "卵",
+                        "fr": "œuf"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ule",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さいもの",
+                        "zh": "小的东西",
+                        "fr": "petite chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'수정되어 씨가 되는 작은 알'이라는 의미에서 식물의 '밑씨'를 뜻합니다.",
+                "en": "In botany, refers to the ovule which develops into a seed after fertilization.",
+                "ja": "受精して種になる小さな卵という意味で、植物の胚珠を指します。",
+                "zh": "受精后发育成种子的小卵，指植物的胚珠。",
+                "fr": "Désigne l'ovule botanique qui se développe en graine après fécondation."
+            },
+            "example": "After fertilization, the ovule develops into a seed.",
+            "translation": {
+                "ko": "수정 후, 밑씨는 씨앗으로 발달한다.",
+                "ja": "胚珠",
+                "zh": "胚珠",
+                "fr": "ovule"
+            }
+        }
+    ]
+}

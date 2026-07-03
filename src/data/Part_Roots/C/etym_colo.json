@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "colo (colon) colon, colonoscopy, colitis",
+        "origin": "Greek, kolon (large intestine)",
+        "meaning": {
+            "ko": "대장",
+            "en": "large intestine",
+            "ja": "大腸",
+            "zh": "大肠",
+            "fr": "gros intestin"
+        }
+    },
+    "words": [
+        {
+            "word": "colon",
+            "part_of_speech": "",
+            "origin": "Greek, kolon (large intestine)",
+            "meaning": {
+                "ko": "대장",
+                "en": "large intestine",
+                "ja": "大腸",
+                "zh": "结肠",
+                "fr": "côlon"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "colon (kolon)",
+                    "meaning": {
+                        "ko": "'대장'",
+                        "en": "large intestine",
+                        "ja": "大腸",
+                        "zh": "大肠",
+                        "fr": "gros intestin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "그리스어 단어가 해부학 용어로 그대로 정착하여 소화기관의 일부인 '결장', '대장'을 의미합니다.",
+                "en": "Greek word established as anatomical term meaning the final part of the digestive system",
+                "ja": "ギリシャ語が解剖学用語として確立され、消化器官の最終部分を意味する",
+                "zh": "希腊词汇作为解剖学术语确立，指消化系统的最后部分",
+                "fr": "Mot grec établi comme terme anatomique désignant la dernière partie du système digestif"
+            },
+            "example": "The colon is the final part of the digestive system.",
+            "translation": {
+                "ko": "결장은 소화계의 마지막 부분이다.",
+                "ja": "結腸は消化器系の最終部分です。",
+                "zh": "结肠是消化系统的最后一部分。",
+                "fr": "Le côlon est la dernière partie du système digestif."
+            }
+        },
+        {
+            "word": "colonoscopy",
+            "part_of_speech": "",
+            "origin": "Greek, kolon (large intestine) + skopein (to look at)",
+            "meaning": {
+                "ko": "대장을 들여다보기",
+                "en": "examining the large intestine",
+                "ja": "大腸を観察する検査",
+                "zh": "结肠内窥镜检查",
+                "fr": "examen du côlon"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "colono (kolon)",
+                    "meaning": {
+                        "ko": "'대장'",
+                        "en": "colon",
+                        "ja": "大腸",
+                        "zh": "结肠",
+                        "fr": "côlon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scopy (skopein)",
+                    "meaning": {
+                        "ko": "'보다, 검사하다'",
+                        "en": "to look at, examine",
+                        "ja": "見る、調べる",
+                        "zh": "观察、检查",
+                        "fr": "regarder, examiner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대장(colono)을 내시경으로 들여다보는(scopy) 검사'라는 의미로, '대장 내시경 검사'를 뜻합니다.",
+                "en": "A medical procedure where an endoscope is inserted to examine the colon",
+                "ja": "内視鏡を使って大腸を検査する医学的手技",
+                "zh": "用内窥镜检查结肠的医学检查方法",
+                "fr": "procédure médicale d'examen du côlon par endoscope"
+            },
+            "example": "A colonoscopy can help detect colon cancer early.",
+            "translation": {
+                "ko": "대장 내시경 검사는 대장암을 조기에 발견하는 데 도움이 될 수 있다.",
+                "ja": "大腸内視鏡検査は大腸がんを早期に発見するのに役立ちます。",
+                "zh": "结肠镜检查有助于早期发现结肠癌。",
+                "fr": "Une coloscopie peut aider à détecter le cancer du côlon précocement."
+            }
+        },
+        {
+            "word": "colitis",
+            "part_of_speech": "",
+            "origin": "Greek, kolon (large intestine) + -itis (inflammation)",
+            "meaning": {
+                "ko": "대장염",
+                "en": "inflammation of the colon",
+                "ja": "大腸炎",
+                "zh": "结肠炎",
+                "fr": "colite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "col (kolon)",
+                    "meaning": {
+                        "ko": "'대장'",
+                        "en": "colon",
+                        "ja": "大腸",
+                        "zh": "结肠",
+                        "fr": "côlon"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대장(col)에 생긴 염증(-itis)'이라는 의미로 '대장염'을 가리키는 의학 용어입니다.",
+                "en": "Medical term referring to inflammation of the colon",
+                "ja": "大腸に生じた炎症を指す医学用語です",
+                "zh": "指大肠发生炎症的医学术语",
+                "fr": "Terme médical désignant l'inflammation du côlon"
+            },
+            "example": "Ulcerative colitis is a chronic inflammatory bowel disease.",
+            "translation": {
+                "ko": "궤양성 대장염은 만성 염증성 장 질환이다.",
+                "ja": "潰瘍性大腸炎は慢性炎症性腸疾患です。",
+                "zh": "溃疡性结肠炎是一种慢性炎症性肠病。",
+                "fr": "La colite ulcéreuse est une maladie inflammatoire chronique de l'intestin."
+            }
+        }
+    ]
+}

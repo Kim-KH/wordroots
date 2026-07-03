@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "intra",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "안에",
+            "en": "within, into",
+            "ja": "中に、内に",
+            "zh": "在...内、进入",
+            "fr": "dans, en dedans de"
+        }
+    },
+    "words": [
+        {
+            "word": "intranet",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intra-",
+                    "meaning": {
+                        "ko": "안",
+                        "en": "within",
+                        "ja": "内部",
+                        "zh": "内部",
+                        "fr": "à l'intérieur de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "net",
+                    "meaning": {
+                        "ko": "네트워크",
+                        "en": "network",
+                        "ja": "ネットワーク",
+                        "zh": "网络",
+                        "fr": "réseau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "특정 조직 '안에서만' 사용되는 네트워크 즉, '내부 통신망'을 뜻합니다.",
+                "en": "A network used only within a specific organization; an internal communication network.",
+                "ja": "特定の組織内でのみ使用されるネットワーク、つまり内部通信網を意味します。",
+                "zh": "指仅在特定组织内使用的网络，即内部通信网。",
+                "fr": "Un réseau utilisé exclusivement au sein d'une organisation spécifique ; un réseau de communication interne."
+            },
+            "example": "The memo was posted on the company intranet.",
+            "translation": {
+                "ko": "그 메모는 회사 내부 통신망에 게시되었다.",
+                "ja": "そのメモは社内イントラネットに掲載されました。",
+                "zh": "该备忘录被发布在公司内部网上。",
+                "fr": "Le mémorandum a été affiché sur l'intranet de l'entreprise."
+            }
+        },
+        {
+            "word": "intracranial",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intra-",
+                    "meaning": {
+                        "ko": "안",
+                        "en": "within",
+                        "ja": "内部",
+                        "zh": "内部",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cranial",
+                    "meaning": {
+                        "ko": "두개골의",
+                        "en": "of the skull",
+                        "ja": "頭蓋骨の",
+                        "zh": "颅骨的",
+                        "fr": "du crâne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두개골 안의'라는 뜻의 의학 용어입니다.",
+                "en": "Medical term meaning 'within the skull'",
+                "ja": "頭蓋骨内という意味の医学用語です",
+                "zh": "意为'颅骨内'的医学术语",
+                "fr": "Terme médical signifiant 'à l'intérieur du crâne'"
+            },
+            "example": "The patient had intracranial bleeding.",
+            "translation": {
+                "ko": "그 환자는 두개내 출혈이 있었다.",
+                "ja": "その患者は頭蓋内出血があった。",
+                "zh": "该患者有颅内出血。",
+                "fr": "Le patient avait une hémorragie intracrânienne."
+            }
+        },
+        {
+            "word": "intravenous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intra-",
+                    "meaning": {
+                        "ko": "안",
+                        "en": "within",
+                        "ja": "内部",
+                        "zh": "内部",
+                        "fr": "à l'intérieur de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "venous",
+                    "meaning": {
+                        "ko": "정맥의",
+                        "en": "of or relating to veins",
+                        "ja": "静脈の",
+                        "zh": "静脉的",
+                        "fr": "veineux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정맥 안으로'라는 뜻으로, '정맥 주사의'라는 의미입니다.",
+                "en": "Meaning 'into the vein', referring to intravenous injection",
+                "ja": "静脈内への注射を意味する",
+                "zh": "指静脉内注射的意思",
+                "fr": "Signifie injection intraveineuse"
+            },
+            "example": "He received an intravenous injection.",
+            "translation": {
+                "ko": "그는 정맥 주사를 맞았다.",
+                "ja": "静脈内注射",
+                "zh": "静脉注射",
+                "fr": "injection intraveineuse"
+            }
+        }
+    ]
+}

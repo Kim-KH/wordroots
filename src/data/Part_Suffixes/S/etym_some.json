@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "some (like, leading to) gruesome, lonesome, twosome",
+        "origin": "Old English, -sum",
+        "meaning": {
+            "ko": "…같은, …을 야기하는",
+            "en": "like, leading to",
+            "ja": "…のような、…を導く",
+            "zh": "…一样、导致…",
+            "fr": "…comme, conduisant à…"
+        }
+    },
+    "words": [
+        {
+            "word": "gruesome",
+            "part_of_speech": "",
+            "origin": "Middle English, gruen (to shudder)",
+            "meaning": {
+                "ko": "몸서리치다",
+                "en": "to shudder with horror",
+                "ja": "ぞっとする",
+                "zh": "令人毛骨悚然",
+                "fr": "horrifiant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grue-",
+                    "meaning": {
+                        "ko": "'몸서리치다'",
+                        "en": "to shudder with horror",
+                        "ja": "ぞっとする",
+                        "zh": "令人毛骨悚然",
+                        "fr": "horrifiant"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-some",
+                    "meaning": {
+                        "ko": "'~을 야기하는'",
+                        "en": "that causes or tells",
+                        "ja": "~について語る",
+                        "zh": "讲述~的",
+                        "fr": "qui raconte~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸서리치게 만드는'이라는 의미에서 '소름 끼치는', '섬뜩한'이라는 뜻입니다.",
+                "en": "Means causing shivers; describes something horrifying or disgusting",
+                "ja": "身震いさせるという意味で、ぞっとするような、不気味な",
+                "zh": "使人身体发抖的意思，令人恐惧的、令人厌恶的",
+                "fr": "Signifie donner des frissons; décrit quelque chose d'horrifiant ou de dégoûtant"
+            },
+            "example": "The movie was too gruesome for me.",
+            "translation": {
+                "ko": "그 영화는 나에게 너무 소름 끼쳤다.",
+                "ja": "その映画は私には不気味すぎた",
+                "zh": "这部电影对我来说太恐怖了",
+                "fr": "Le film était trop horrifiant pour moi"
+            }
+        },
+        {
+            "word": "lonesome",
+            "part_of_speech": "",
+            "origin": "English, lone + -some",
+            "meaning": {
+                "ko": "혼자 같은",
+                "en": "solitary and sad",
+                "ja": "寂しい、孤独な",
+                "zh": "孤独的、寂寞的",
+                "fr": "solitaire, mélancolique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lone",
+                    "meaning": {
+                        "ko": "'혼자인'",
+                        "en": "solitary",
+                        "ja": "一人の",
+                        "zh": "独自的、单独的",
+                        "fr": "seul"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-some",
+                    "meaning": {
+                        "ko": "'~같은'",
+                        "en": "like or resembling",
+                        "ja": "~のような",
+                        "zh": "~似的、~一样",
+                        "fr": "~comme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혼자인 것 같은'이라는 의미에서 '외로운', '쓸쓸한'이라는 뜻입니다.",
+                "en": "Means 'lonely' or 'desolate' from the sense of 'seeming to be alone'",
+                "ja": "一人でいるように見えるという意味から、'寂しい'、'物寂しい'という意味です",
+                "zh": "'似乎独自一人'的含义，表示'孤独的''凄凉的'",
+                "fr": "Signifie 'triste' ou 'désolé' du sens de 'sembler être seul'"
+            },
+            "example": "He felt lonesome after his friends left.",
+            "translation": {
+                "ko": "그는 친구들이 떠난 후 외로움을 느꼈다.",
+                "ja": "友人が去った後、彼は寂しさを感じた。",
+                "zh": "朋友离开后，他感到孤独。",
+                "fr": "Il se sentait seul après que ses amis soient partis."
+            }
+        },
+        {
+            "word": "twosome",
+            "part_of_speech": "",
+            "origin": "English, two + -some",
+            "meaning": {
+                "ko": "둘의 집합",
+                "en": "a group of two",
+                "ja": "二人の集合",
+                "zh": "两个人的集合",
+                "fr": "groupe de deux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "two",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二",
+                        "zh": "两",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-some",
+                    "meaning": {
+                        "ko": "'~의 집합'",
+                        "en": "a collection of",
+                        "ja": "~の集合",
+                        "zh": "~的集合",
+                        "fr": "~ensemble"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 사람으로 이루어진 그룹'인 '2인조'를 뜻합니다.",
+                "en": "A group consisting of two people, meaning a pair or duo",
+                "ja": "二人で構成されたグループ、ペアまたはコンビを意味します",
+                "zh": "由两个人组成的小组，指一对或二人组",
+                "fr": "Un groupe composé de deux personnes, signifiant une paire ou un duo"
+            },
+            "example": "They went out to dinner as a twosome.",
+            "translation": {
+                "ko": "그들은 2인조로 저녁을 먹으러 나갔다.",
+                "ja": "彼らは二人でディナーに出かけた",
+                "zh": "他们两个人一起去吃晚餐",
+                "fr": "Ils sont allés dîner en tant que couple"
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "arthr(o) (joint, jointed) arthritis, arthropod",
+        "origin": "Greek, arthron (a joint)",
+        "meaning": {
+            "ko": "관절",
+            "en": "joint",
+            "ja": "関節",
+            "zh": "关节",
+            "fr": "articulation"
+        }
+    },
+    "words": [
+        {
+            "word": "arthritis",
+            "part_of_speech": "",
+            "origin": "Greek, arthritis (gout)",
+            "meaning": {
+                "ko": "관절병",
+                "en": "disease of the joints",
+                "ja": "関節の病気",
+                "zh": "关节疾病",
+                "fr": "maladie des articulations"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arthr (arthron)",
+                    "meaning": {
+                        "ko": "'관절'",
+                        "en": "joint",
+                        "ja": "関節",
+                        "zh": "关节",
+                        "fr": "articulation"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'관절(arthr)에 생긴 염증(itis)'이라는 의미로, '관절염'을 가리키는 의학 용어입니다.",
+                "en": "Medical term referring to inflammation occurring in joints (arthr- means joint, -itis means inflammation)",
+                "ja": "関節(arthr)に生じた炎症(itis)という意味で、関節炎を指す医学用語です",
+                "zh": "医学术语,指发生在关节(arthr)上的炎症(itis),即关节炎",
+                "fr": "Terme médical désignant l'inflammation survenant dans les articulations (arthr- signifie articulation, -itis signifie inflammation)"
+            },
+            "example": "My grandmother suffers from arthritis in her hands.",
+            "translation": {
+                "ko": "우리 할머니는 손에 관절염을 앓고 계신다.",
+                "ja": "祖母は手の関節炎に苦しんでいます",
+                "zh": "我的祖母患有手部关节炎",
+                "fr": "Ma grand-mère souffre d'arthrite aux mains"
+            }
+        },
+        {
+            "word": "arthropod",
+            "part_of_speech": "",
+            "origin": "Greek, arthron (joint) + podos (foot)",
+            "meaning": {
+                "ko": "마디가 있는 발",
+                "en": "jointed foot",
+                "ja": "関節のある足",
+                "zh": "有关节的足",
+                "fr": "pied articulé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arthro (arthron)",
+                    "meaning": {
+                        "ko": "'관절, 마디'",
+                        "en": "joint",
+                        "ja": "関節、節",
+                        "zh": "关节、节",
+                        "fr": "articulation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod",
+                    "meaning": {
+                        "ko": "'발, 다리'",
+                        "en": "foot",
+                        "ja": "足、脚",
+                        "zh": "足、腿",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마디(arthro)가 있는 다리(pod)'를 가진 동물이라는 의미에서 곤충, 거미, 갑각류 등을 포함하는 '절지동물'을 뜻합니다.",
+                "en": "A jointed foot refers to animals with segmented limbs, including insects, spiders, and crustaceans, which are classified as arthropods.",
+                "ja": "節のある足を持つ動物、昆虫、クモ、甲殻類などを含む節足動物を意味します。",
+                "zh": "有分节肢体的动物，包括昆虫、蜘蛛、甲壳类等，属于节肢动物。",
+                "fr": "Les animaux aux membres segmentés, y compris les insectes, les araignées et les crustacés, sont classés comme arthropodes."
+            },
+            "example": "Insects, spiders, and crustaceans are all examples of arthropods.",
+            "translation": {
+                "ko": "곤충, 거미, 갑각류는 모두 절지동물의 예이다.",
+                "ja": "節足動物",
+                "zh": "节肢动物",
+                "fr": "arthropode"
+            }
+        }
+    ]
+}

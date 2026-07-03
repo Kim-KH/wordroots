@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "scala (ladder) scale, scalar, escalade, escalator",
+        "origin": "Latin, scala (a ladder)",
+        "meaning": {
+            "ko": "사다리",
+            "en": "a ladder",
+            "ja": "はしご",
+            "zh": "梯子",
+            "fr": "échelle"
+        }
+    },
+    "words": [
+        {
+            "word": "scale",
+            "part_of_speech": "",
+            "origin": "Latin, scala (ladder)",
+            "meaning": {
+                "ko": "사다리",
+                "en": "ladder",
+                "ja": "はしご",
+                "zh": "梯子",
+                "fr": "échelle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scal-",
+                    "meaning": {
+                        "ko": "'사다리'",
+                        "en": "ladder",
+                        "ja": "はしご",
+                        "zh": "梯子",
+                        "fr": "échelle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사다리의 눈금'처럼 등급을 나타내는 '규모', '척도', '저울' 또는 물고기의 '비늘' 등 다양한 뜻으로 쓰입니다.",
+                "en": "Used in various meanings such as 'magnitude', 'measure', 'weight' to indicate grades like 'ladder markings', or 'fish scales' etc.",
+                "ja": "はしごの目盛りのように等級を示す規模、척도、天秤、または魚の鱗など様々な意味で使われます。",
+                "zh": "像梯子的刻度一样表示等级的规模、尺度、天平或鱼的鳞片等多种含义。",
+                "fr": "Utilisé dans divers sens comme 'magnitude', 'mesure', 'poids' pour indiquer des grades comme 'graduations d'échelle', ou 'écailles de poisson' etc."
+            },
+            "example": "On a scale of 1 to 10, how would you rate the movie?",
+            "translation": {
+                "ko": "1점에서 10점까지의 척도로 그 영화를 어떻게 평가하시겠습니까?",
+                "ja": "1から10の段階で、その映画をどう評価しますか？",
+                "zh": "在1到10的等级上，你如何评价这部电影？",
+                "fr": "Sur une échelle de 1 à 10, comment évalueriez-vous le film ?"
+            }
+        },
+        {
+            "word": "scalar",
+            "part_of_speech": "",
+            "origin": "Latin, scalaris (like a ladder)",
+            "meaning": {
+                "ko": "사다리 같은",
+                "en": "like a ladder",
+                "ja": "はしご状の",
+                "zh": "梯形的",
+                "fr": "en forme d'échelle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scal-",
+                    "meaning": {
+                        "ko": "'사다리'",
+                        "en": "ladder",
+                        "ja": "はしご",
+                        "zh": "梯子",
+                        "fr": "échelle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사다리 눈금처럼 크기만 있고 방향은 없는 양'이라는 의미의 물리 용어 '스칼라'를 뜻합니다.",
+                "en": "Physics term 'scalar' meaning a quantity with magnitude only, no direction, like ladder rungs",
+                "ja": "はしごの目盛りのように大きさだけあり方向のない物理量を意味する",
+                "zh": "物理术语'标量'指只有大小没有方向的量，如梯子刻度",
+                "fr": "Terme physique 'scalaire' signifiant une quantité avec magnitude uniquement, pas de direction"
+            },
+            "example": "Temperature and mass are scalar quantities.",
+            "translation": {
+                "ko": "온도와 질량은 스칼라량이다.",
+                "ja": "スカラー量",
+                "zh": "标量",
+                "fr": "scalaire"
+            }
+        },
+        {
+            "word": "escalade",
+            "part_of_speech": "",
+            "origin": "Latin, scala (ladder)",
+            "meaning": {
+                "ko": "사다리",
+                "en": "ladder",
+                "ja": "梯子での登攻",
+                "zh": "用梯子攻城",
+                "fr": "escalade de mur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "escal- (scala)",
+                    "meaning": {
+                        "ko": "'사다리'",
+                        "en": "ladder",
+                        "ja": "梯子",
+                        "zh": "梯子",
+                        "fr": "échelle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사다리를 이용하여 성벽을 오르는' 공격을 뜻합니다.",
+                "en": "Attack using ladders to climb castle walls",
+                "ja": "梯子を使って城壁に登る攻撃を意味します",
+                "zh": "指用梯子攀登城墙进行的攻击",
+                "fr": "Attaque en escaladant les murs avec des échelles"
+            },
+            "example": "The soldiers attempted an escalade of the castle walls.",
+            "translation": {
+                "ko": "군인들은 성벽을 사다리로 오르려고 시도했다.",
+                "ja": "兵士たちは城壁への梯子による登攻を試みた",
+                "zh": "士兵们试图用梯子进攻城堡城墙",
+                "fr": "Les soldats ont tenté une escalade des murs du château"
+            }
+        },
+        {
+            "word": "escalator",
+            "part_of_speech": "",
+            "origin": "Latin, scala (ladder)",
+            "meaning": {
+                "ko": "사다리",
+                "en": "ladder",
+                "ja": "動く階段",
+                "zh": "自动扶梯",
+                "fr": "escalier roulant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "escal- (scala)",
+                    "meaning": {
+                        "ko": "'사다리'",
+                        "en": "ladder",
+                        "ja": "階段",
+                        "zh": "梯子",
+                        "fr": "échelle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직이는 사다리'라는 의미에서 '에스컬레이터'를 뜻합니다.",
+                "en": "Means 'escalator' from the sense of 'moving ladder'",
+                "ja": "動く階段という意味でエスカレーターを指す",
+                "zh": "从移动梯子的意思指代扶梯",
+                "fr": "Signifie escalier roulant du sens d'échelle mobile"
+            },
+            "example": "Let's take the escalator to the next floor.",
+            "translation": {
+                "ko": "다음 층으로 가는 에스컬레이터를 타자.",
+                "ja": "次の階に行くためにエスカレーターを使いましょう",
+                "zh": "让我们坐自动扶梯上到下一楼",
+                "fr": "Prenons l'escalier roulant pour aller à l'étage suivant"
+            }
+        }
+    ]
+}

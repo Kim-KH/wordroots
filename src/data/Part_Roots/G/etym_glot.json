@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "glot (tongue) glottal, glottis, polyglot",
+        "origin": "Greek, glotta (tongue, language)",
+        "meaning": {
+            "ko": "혀, 언어",
+            "en": "tongue, language",
+            "ja": "舌、言語",
+            "zh": "舌头，语言",
+            "fr": "langue, langage"
+        }
+    },
+    "words": [
+        {
+            "word": "glottal",
+            "part_of_speech": "",
+            "origin": "Greek, glottis",
+            "meaning": {
+                "ko": "성문",
+                "en": "glottis or vocal cords",
+                "ja": "声門の",
+                "zh": "声门的",
+                "fr": "glottal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "glott-",
+                    "meaning": {
+                        "ko": "'성문'",
+                        "en": "glottis",
+                        "ja": "声門",
+                        "zh": "声门",
+                        "fr": "glotte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'성문의'라는 뜻으로, '성문에서 나는 소리'를 의미합니다.",
+                "en": "Meaning 'of the glottis', referring to sounds produced at the glottis.",
+                "ja": "声門に関する意味で、声門で出される音を指します。",
+                "zh": "指与声门有关，由声门产生的声音。",
+                "fr": "Signifie 'de la glotte', désignant les sons produits à la glotte."
+            },
+            "example": "A glottal stop is a sound made by closing the glottis.",
+            "translation": {
+                "ko": "성문 파열음은 성문을 닫아서 내는 소리이다.",
+                "ja": "声門音は声門を閉じることで作られる音です。",
+                "zh": "声门塞音是通过关闭声门产生的声音。",
+                "fr": "Un coup de glotte est un son produit en fermant la glotte."
+            }
+        },
+        {
+            "word": "glottis",
+            "part_of_speech": "",
+            "origin": "Greek, glottis",
+            "meaning": {
+                "ko": "혀의 입",
+                "en": "opening of the tongue",
+                "ja": "声帯と声門",
+                "zh": "声带和声门",
+                "fr": "cordes vocales et glotte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "glott-",
+                    "meaning": {
+                        "ko": "'혀, 언어'",
+                        "en": "tongue",
+                        "ja": "舌、言語",
+                        "zh": "舌头、语言",
+                        "fr": "langue, langage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "후두의 성대와 그 사이의 공간인 '성문'을 뜻합니다.",
+                "en": "The glottis opens and closes during speech.",
+                "ja": "喉頭の声帯とその間の空間である声門を意味します。",
+                "zh": "指喉部声带及其之间的空间，即声门。",
+                "fr": "Désigne l'espace entre les cordes vocales du larynx, appelé glotte."
+            },
+            "example": "The glottis opens and closes during speech.",
+            "translation": {
+                "ko": "성문은 말하는 동안 열리고 닫힌다.",
+                "ja": "声門",
+                "zh": "声门",
+                "fr": "glotte"
+            }
+        },
+        {
+            "word": "polyglot",
+            "part_of_speech": "",
+            "origin": "Greek, polyglottos (many-tongued)",
+            "meaning": {
+                "ko": "많은 혀를 가진",
+                "en": "having many languages",
+                "ja": "多くの言語を話す人",
+                "zh": "说多种语言的人",
+                "fr": "personne parlant plusieurs langues"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "poly-",
+                    "meaning": {
+                        "ko": "'많은'",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多",
+                        "fr": "plusieurs"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "glot",
+                    "meaning": {
+                        "ko": "'혀, 언어'",
+                        "en": "many",
+                        "ja": "舌、言語",
+                        "zh": "舌头、语言",
+                        "fr": "langue, langage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'많은 언어를 할 줄 아는 사람'을 뜻합니다.",
+                "en": "A person who can speak multiple languages",
+                "ja": "複数の言語を話すことができる人",
+                "zh": "能够说多种语言的人",
+                "fr": "Une personne capable de parler plusieurs langues"
+            },
+            "example": "He is a polyglot who speaks six languages fluently.",
+            "translation": {
+                "ko": "그는 6개 국어를 유창하게 구사하는 다국어 구사자이다.",
+                "ja": "彼は6つの言語を流暢に話すポリグロットです。",
+                "zh": "他是一个能流利地说六种语言的多语言使用者。",
+                "fr": "Il est un polyglotte qui parle couramment six langues."
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "hect (hundred) hectare, hectogram, hectoliter, hectometer",
+        "origin": "Greek, hekaton (hundred)",
+        "meaning": {
+            "ko": "백",
+            "en": "hundred",
+            "ja": "百",
+            "zh": "百",
+            "fr": "cent"
+        }
+    },
+    "words": [
+        {
+            "word": "hectare",
+            "part_of_speech": "",
+            "origin": "Greek, hekaton (hundred) + French, are (unit of area)",
+            "meaning": {
+                "ko": "백 아르",
+                "en": "hundred ares",
+                "ja": "百アール",
+                "zh": "百公亩",
+                "fr": "cent ares"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hect-",
+                    "meaning": {
+                        "ko": "'백'",
+                        "en": "hundred",
+                        "ja": "百",
+                        "zh": "百",
+                        "fr": "cent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "are",
+                    "meaning": {
+                        "ko": "'아르'",
+                        "en": "unit of area",
+                        "ja": "面積単位",
+                        "zh": "面积单位",
+                        "fr": "unité de surface"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'100 아르'에 해당하는 면적 단위로, '헥타르'를 뜻합니다.",
+                "en": "A unit of area equal to 100 ares, meaning hectare.",
+                "ja": "100アールに相当する面積単位で、ヘクタールを意味します。",
+                "zh": "相当于100公亩的面积单位，即公顷。",
+                "fr": "Une unité de surface égale à 100 ares, signifiant hectare."
+            },
+            "example": "One hectare is equal to 10,000 square meters.",
+            "translation": {
+                "ko": "1헥타르는 10,000제곱미터와 같다.",
+                "ja": "1ヘクタールは10,000平方メートルに等しい。",
+                "zh": "一公顷等于10,000平方米。",
+                "fr": "Un hectare est égal à 10,000 mètres carrés."
+            }
+        },
+        {
+            "word": "hectogram",
+            "part_of_speech": "",
+            "origin": "Greek, hekaton (hundred) + French, gramme (gram)",
+            "meaning": {
+                "ko": "백 그램",
+                "en": "one hundred grams",
+                "ja": "百グラム",
+                "zh": "百克",
+                "fr": "hectogramme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hecto-",
+                    "meaning": {
+                        "ko": "'백'",
+                        "en": "hundred",
+                        "ja": "百",
+                        "zh": "百",
+                        "fr": "cent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "'그램'",
+                        "en": "gram",
+                        "ja": "グラム",
+                        "zh": "克",
+                        "fr": "gramme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'100 그램'을 나타내는 질량의 단위입니다.",
+                "en": "A unit of mass representing 100 grams.",
+                "ja": "100グラムを表す質量の単位です。",
+                "zh": "表示100克的质量单位。",
+                "fr": "Une unité de masse représentant 100 grammes."
+            },
+            "example": "She bought a hectogram of cheese.",
+            "translation": {
+                "ko": "그녀는 치즈 100그램을 샀다.",
+                "ja": "彼女はチーズを1ヘクトグラム買った。",
+                "zh": "她买了一百克奶酪。",
+                "fr": "Elle a acheté un hectogramme de fromage."
+            }
+        },
+        {
+            "word": "hectoliter",
+            "part_of_speech": "",
+            "origin": "Greek, hekaton (hundred) + French, litre (liter)",
+            "meaning": {
+                "ko": "백 리터",
+                "en": "one hundred liters",
+                "ja": "百リットル",
+                "zh": "百升",
+                "fr": "hectolitre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hecto-",
+                    "meaning": {
+                        "ko": "'백'",
+                        "en": "hundred",
+                        "ja": "百",
+                        "zh": "百",
+                        "fr": "cent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liter",
+                    "meaning": {
+                        "ko": "'리터'",
+                        "en": "liter",
+                        "ja": "リットル",
+                        "zh": "升",
+                        "fr": "litre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'100 리터'를 나타내는 부피의 단위입니다.",
+                "en": "A unit of volume representing 100 liters",
+                "ja": "100リットルを表す体積の単位です",
+                "zh": "表示100升的体积单位",
+                "fr": "Unité de volume représentant 100 litres"
+            },
+            "example": "The winery produces thousands of hectoliters of wine each year.",
+            "translation": {
+                "ko": "그 와이너리는 매년 수천 헥토리터의 와인을 생산한다.",
+                "ja": "ワイナリーは毎年何千ヘクトリットルのワインを生産しています",
+                "zh": "这家酒厂每年生产数千百升的葡萄酒",
+                "fr": "Le vignoble produit des milliers d'hectolitres de vin chaque année"
+            }
+        },
+        {
+            "word": "hectometer",
+            "part_of_speech": "",
+            "origin": "Greek, hekaton (hundred) + metron (measure)",
+            "meaning": {
+                "ko": "백 미터",
+                "en": "hundred meters",
+                "ja": "百メートル",
+                "zh": "百米",
+                "fr": "hectomètre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hecto-",
+                    "meaning": {
+                        "ko": "'백'",
+                        "en": "hundred",
+                        "ja": "百",
+                        "zh": "百",
+                        "fr": "cent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'미터'",
+                        "en": "meter",
+                        "ja": "メートル",
+                        "zh": "米",
+                        "fr": "mètre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'100 미터'를 나타내는 길이의 단위입니다.",
+                "en": "A unit of length representing 100 meters.",
+                "ja": "100メートルを表す長さの単位です。",
+                "zh": "表示100米的长度单位。",
+                "fr": "Une unité de longueur représentant 100 mètres."
+            },
+            "example": "The race was a 400-meter dash, which is four hectometers.",
+            "translation": {
+                "ko": "그 경주는 400미터 단거리 경주였는데, 이는 4헥토미터이다.",
+                "ja": "400メートル走は4ヘクトメートルです。",
+                "zh": "400米赛跑是4百米。",
+                "fr": "La course de 400 mètres est quatre hectomètres."
+            }
+        }
+    ]
+}

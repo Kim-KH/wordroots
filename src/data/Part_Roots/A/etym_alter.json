@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "alter (another) alter ego, alternative",
+        "origin": "Latin, alter (the other of two)",
+        "meaning": {
+            "ko": "다른",
+            "en": "other, another",
+            "ja": "他の、別の",
+            "zh": "其他、另一个",
+            "fr": "autre, un autre"
+        }
+    },
+    "words": [
+        {
+            "word": "alter ego",
+            "part_of_speech": "",
+            "origin": "Latin, alter ego (second I)",
+            "meaning": {
+                "ko": "또 다른 자아",
+                "en": "another self",
+                "ja": "もう一つの自我",
+                "zh": "另一个自我",
+                "fr": "un autre soi-même"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "alter",
+                    "meaning": {
+                        "ko": "'다른'",
+                        "en": "other, another",
+                        "ja": "他の、別の",
+                        "zh": "其他、另一个",
+                        "fr": "autre, différent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ego",
+                    "meaning": {
+                        "ko": "'나, 자아'",
+                        "en": "I, self",
+                        "ja": "私、自我",
+                        "zh": "我、自我",
+                        "fr": "moi, soi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'또 다른(alter) 나(ego)'라는 라틴어 표현 그대로, '또 다른 자아' 또는 절친한 친구를 의미합니다.",
+                "en": "From Latin 'alter ego' meaning 'another self', it refers to a different side of one's personality or a close friend.",
+                "ja": "ラテン語の'alter ego'から来た表現で、もう一つの自我、または親友を意味します。",
+                "zh": "源自拉丁语'alter ego'，意为'另一个自我'，指另一面性格或亲密的朋友。",
+                "fr": "Expression latine signifiant 'un autre soi-même', désignant un aspect différent de la personnalité ou un ami intime."
+            },
+            "example": "His witty and cynical blog persona is his alter ego.",
+            "translation": {
+                "ko": "그의 재치 있고 냉소적인 블로그 페르소나는 그의 또 다른 자아이다.",
+                "ja": "彼のユーモアで皮肉的なブログペルソナは、彼のもう一つの自我です。",
+                "zh": "他那机智而讽刺的博客人设是他的另一个自我。",
+                "fr": "Son persona de blog spirituel et cynique est son alter ego."
+            }
+        },
+        {
+            "word": "alternative",
+            "part_of_speech": "",
+            "origin": "Latin, alternativus (offering a choice)",
+            "meaning": {
+                "ko": "선택권을 제공하다",
+                "en": "to offer a choice",
+                "ja": "選択肢を提供する",
+                "zh": "提供选择",
+                "fr": "offrir un choix"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "alter",
+                    "meaning": {
+                        "ko": "'다른'",
+                        "en": "other",
+                        "ja": "異なる",
+                        "zh": "不同的",
+                        "fr": "autre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-native",
+                    "meaning": {
+                        "ko": "'~의 성질을 가진'",
+                        "en": "having the quality of",
+                        "ja": "~の性質を持つ",
+                        "zh": "具有~的性质",
+                        "fr": "avoir la nature de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른(alter) 것을 선택할 수 있는'이라는 의미에서 '대안', '선택 가능한 것' 또는 '대체의'라는 뜻을 가집니다.",
+                "en": "From alter (other) + -ative (having the quality of), meaning 'something else that can be chosen' or 'substitute'",
+                "ja": "alter(異なる)と-ative(~の性質)から、'選べる別のもの'または'代替案'という意味",
+                "zh": "来自alter(不同的)和-ative(具有~的性质)，意为'可以选择的另一个'或'替代品'",
+                "fr": "De alter (autre) + -ative (ayant la qualité de), signifiant 'quelque chose d'autre à choisir' ou 'substitut'"
+            },
+            "example": "We had no alternative but to cancel the event.",
+            "translation": {
+                "ko": "우리는 행사를 취소하는 것 외에 다른 대안이 없었다.",
+                "ja": "イベントをキャンセルする以外に選択肢がありませんでした。",
+                "zh": "我们别无选择，只能取消该活动。",
+                "fr": "Nous n'avions d'autre choix que d'annuler l'événement."
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "fuma (smoke) fumigate, fuming",
+        "origin": "Latin, fumus (smoke)",
+        "meaning": {
+            "ko": "연기",
+            "en": "smoke",
+            "ja": "煙",
+            "zh": "烟",
+            "fr": "fumée"
+        }
+    },
+    "words": [
+        {
+            "word": "fumigate",
+            "part_of_speech": "",
+            "origin": "Latin, fumigare (to smoke)",
+            "meaning": {
+                "ko": "연기를 피우다",
+                "en": "to emit smoke",
+                "ja": "煙で燻蒸する",
+                "zh": "用烟雾熏蒸",
+                "fr": "fumiger avec de la fumée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fum-",
+                    "meaning": {
+                        "ko": "'연기'",
+                        "en": "smoke",
+                        "ja": "煙",
+                        "zh": "烟",
+                        "fr": "fumée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'연기나 가스를 피워서 해충을 없애거나 소독하다'는 뜻입니다.",
+                "en": "To eliminate pests or disinfect by producing smoke or gas",
+                "ja": "煙やガスを発生させて害虫を駆除したり消毒したりすること",
+                "zh": "通过产生烟雾或气体来消灭害虫或消毒",
+                "fr": "Éliminer les parasites ou désinfecter en produisant de la fumée ou du gaz"
+            },
+            "example": "They had to fumigate the house to get rid of the termites.",
+            "translation": {
+                "ko": "그들은 흰개미를 없애기 위해 집에 훈증 소독을 해야 했다.",
+                "ja": "その家をシロアリを取り除くために燻蒸する必要がありました。",
+                "zh": "他们必须对房子进行熏蒸以消除白蚁。",
+                "fr": "Ils ont dû fumiger la maison pour se débarrasser des termites."
+            }
+        },
+        {
+            "word": "fuming",
+            "part_of_speech": "",
+            "origin": "Latin, fumare (to smoke)",
+            "meaning": {
+                "ko": "연기를 내다",
+                "en": "to emit smoke",
+                "ja": "怒って煙を出す",
+                "zh": "冒烟般愤怒",
+                "fr": "bouillonner de colère"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fum-",
+                    "meaning": {
+                        "ko": "'연기'",
+                        "en": "smoke",
+                        "ja": "煙",
+                        "zh": "烟",
+                        "fr": "fumée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리에서 연기가 날 정도로 화가 난' 상태를 묘사하여 '화가 나서 씩씩거리는'이라는 뜻입니다.",
+                "en": "Describes a state of intense anger, metaphorically likened to smoke coming from one's head",
+                "ja": "頭から煙が出るほど怒った状態を描写し、激怒していることを意味します",
+                "zh": "形容极其愤怒的状态，比喻头上冒烟般的愤怒",
+                "fr": "Décrit un état de colère intense, comparé métaphoriquement à de la fumée sortant de la tête"
+            },
+            "example": "He was fuming with anger.",
+            "translation": {
+                "ko": "그는 화가 나서 씩씩거리고 있었다.",
+                "ja": "彼は怒りで煙を立てていた",
+                "zh": "他怒火中烧",
+                "fr": "Il bouillonnait de colère"
+            }
+        }
+    ]
+}

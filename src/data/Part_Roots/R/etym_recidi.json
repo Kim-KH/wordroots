@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "recidi (backslide) recidivism, recidivist",
+        "origin": "Latin, recidere (to fall back)",
+        "meaning": {
+            "ko": "뒤로 떨어지다",
+            "en": "to fall back",
+            "ja": "後ろに落ちる",
+            "zh": "向后退",
+            "fr": "reculer"
+        }
+    },
+    "words": [
+        {
+            "word": "recidivism",
+            "part_of_speech": "",
+            "origin": "Latin, recidere (to fall back)",
+            "meaning": {
+                "ko": "뒤로 떨어지다",
+                "en": "to fall behind",
+                "ja": "再犯",
+                "zh": "再犯罪",
+                "fr": "récidive"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤로'",
+                        "en": "back",
+                        "ja": "後ろに",
+                        "zh": "向后",
+                        "fr": "arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cid- (cadere)",
+                    "meaning": {
+                        "ko": "'떨어지다'",
+                        "en": "to fall",
+                        "ja": "落ちる",
+                        "zh": "下降",
+                        "fr": "tomber"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'교도소에서 나온 후 다시 죄의 길로 되돌아가는 것'인 '상습적 범행'을 뜻합니다.",
+                "en": "Habitual reoffending; returning to crime after release from prison",
+                "ja": "刑務所から出た後、再び犯罪の道に戻ること。習慣的な犯行を意味します",
+                "zh": "出狱后再次回到犯罪道路的行为。指习惯性犯罪",
+                "fr": "Récidive criminelle; retour à la criminalité après libération de prison"
+            },
+            "example": "The high rate of recidivism is a major problem.",
+            "translation": {
+                "ko": "높은 재범률은 주요 문제이다.",
+                "ja": "再犯率が高いことは大きな問題です",
+                "zh": "再犯率高是一个主要问题",
+                "fr": "Le taux élevé de récidive est un problème majeur"
+            }
+        },
+        {
+            "word": "recidivist",
+            "part_of_speech": "",
+            "origin": "Latin, recidere (to fall back)",
+            "meaning": {
+                "ko": "뒤로 떨어지다",
+                "en": "to fall back or relapse",
+                "ja": "常習犯",
+                "zh": "惯犯",
+                "fr": "récidiviste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "recidiv-",
+                    "meaning": {
+                        "ko": "'재범'",
+                        "en": "reoffense or habitual crime",
+                        "ja": "再犯",
+                        "zh": "再犯",
+                        "fr": "récidive"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상습적으로 범행을 저지르는 사람'인 '상습범'을 뜻합니다.",
+                "en": "A person who habitually commits crimes",
+                "ja": "習慣的に犯罪を繰り返す人",
+                "zh": "经常犯罪的人",
+                "fr": "Personne qui commet habituellement des crimes"
+            },
+            "example": "He is a recidivist who has been in and out of prison his whole life.",
+            "translation": {
+                "ko": "그는 평생 감옥을 들락날락한 상습범이다.",
+                "ja": "彼は人生の大半を獄中で過ごしてきた常習犯です。",
+                "zh": "他是一个一生都在监狱进出的惯犯。",
+                "fr": "C'est un récidiviste qui a passé la majorité de sa vie en prison."
+            }
+        }
+    ]
+}

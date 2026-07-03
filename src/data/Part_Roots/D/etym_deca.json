@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "deca (ten) decade, December, dodecahedron",
+        "origin": "Greek, deka (ten)",
+        "meaning": {
+            "ko": "열",
+            "en": "ten",
+            "ja": "十",
+            "zh": "十",
+            "fr": "dix"
+        }
+    },
+    "words": [
+        {
+            "word": "decade",
+            "part_of_speech": "",
+            "origin": "Greek, dekas (a group of ten)",
+            "meaning": {
+                "ko": "열의 그룹",
+                "en": "group of ten",
+                "ja": "10個のグループ",
+                "zh": "十个的组",
+                "fr": "groupe de dix"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "deca-",
+                    "meaning": {
+                        "ko": "'열'",
+                        "en": "ten",
+                        "ja": "十",
+                        "zh": "十",
+                        "fr": "dix"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'10년'의 기간을 의미합니다.",
+                "en": "Refers to a period of 10 years",
+                "ja": "10年間の期間を意味します",
+                "zh": "指10年的时间段",
+                "fr": "Désigne une période de 10 ans"
+            },
+            "example": "The company has grown rapidly over the past decade.",
+            "translation": {
+                "ko": "그 회사는 지난 10년간 급속히 성장했다.",
+                "ja": "この10年間で企業は急速に成長しました。",
+                "zh": "在过去十年里，公司增长迅速。",
+                "fr": "L'entreprise a connu une croissance rapide au cours de la dernière décennie."
+            }
+        },
+        {
+            "word": "December",
+            "part_of_speech": "",
+            "origin": "Latin, decem (ten)",
+            "meaning": {
+                "ko": "열",
+                "en": "heat or passion",
+                "ja": "12月",
+                "zh": "十二月",
+                "fr": "décembre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Decem-",
+                    "meaning": {
+                        "ko": "'열'",
+                        "en": "ten",
+                        "ja": "10",
+                        "zh": "十",
+                        "fr": "dix"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마 달력에서 '열 번째 달'이었기 때문에 이 이름이 붙었으나, 현재는 열두 번째 달인 '12월'을 의미합니다.",
+                "en": "In the ancient Roman calendar, it was the tenth month, hence the name. However, it now refers to the twelfth month, December.",
+                "ja": "古代ローマ暦では10番目の月だったため、この名前が付けられましたが、現在は12月を意味します。",
+                "zh": "在古罗马历法中，它是第十个月，因此得名。但现在指的是十二月。",
+                "fr": "Dans le calendrier romain antique, c'était le dixième mois, d'où son nom. Cependant, il désigne maintenant décembre, le douzième mois."
+            },
+            "example": "Christmas is in December.",
+            "translation": {
+                "ko": "크리스마스는 12월에 있다.",
+                "ja": "クリスマスは12月にあります。",
+                "zh": "圣诞节在十二月。",
+                "fr": "Noël est en décembre."
+            }
+        },
+        {
+            "word": "dodecahedron",
+            "part_of_speech": "",
+            "origin": "Greek, dodeka (twelve) + hedra (base, face)",
+            "meaning": {
+                "ko": "열두 개의 면",
+                "en": "twelve faces",
+                "ja": "12個の面",
+                "zh": "十二个面",
+                "fr": "douze faces"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "do- (two) + deca- (ten)",
+                    "meaning": {
+                        "ko": "'둘 + 열 = 열둘'",
+                        "en": "twelve",
+                        "ja": "12",
+                        "zh": "十二",
+                        "fr": "douze"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hedron",
+                    "meaning": {
+                        "ko": "'면'",
+                        "en": "face",
+                        "ja": "面",
+                        "zh": "面",
+                        "fr": "face"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열두 개의 면을 가진 입체'라는 의미에서 '12면체'를 뜻합니다.",
+                "en": "A polyhedron with twelve flat faces",
+                "ja": "12個の平らな面を持つ立体図形",
+                "zh": "有十二个平面的立体图形",
+                "fr": "Un polyèdre à douze faces plates"
+            },
+            "example": "A dodecahedron has twelve flat faces.",
+            "translation": {
+                "ko": "12면체는 12개의 평평한 면을 가지고 있다.",
+                "ja": "12面体は12個の平らな面を持っています。",
+                "zh": "十二面体有十二个平面。",
+                "fr": "Un dodécaèdre a douze faces plates."
+            }
+        }
+    ]
+}

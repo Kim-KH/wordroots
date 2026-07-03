@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "rhiz(o) (root) rhizoid, rhizome, rhizosphere",
+        "origin": "Greek, rhiza (a root)",
+        "meaning": {
+            "ko": "뿌리",
+            "en": "root",
+            "ja": "根",
+            "zh": "根",
+            "fr": "racine"
+        }
+    },
+    "words": [
+        {
+            "word": "rhizoid",
+            "part_of_speech": "",
+            "origin": "Greek, rhiza (root) + -oeides (form)",
+            "meaning": {
+                "ko": "뿌리 형태",
+                "en": "root-like form",
+                "ja": "根状構造",
+                "zh": "根状结构",
+                "fr": "structure ressemblant à une racine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rhiz-",
+                    "meaning": {
+                        "ko": "'뿌리'",
+                        "en": "root",
+                        "ja": "根",
+                        "zh": "根",
+                        "fr": "racine"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oid",
+                    "meaning": {
+                        "ko": "'~을 닮은'",
+                        "en": "resembling",
+                        "ja": "似た",
+                        "zh": "类似的",
+                        "fr": "ressemblant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뿌리를 닮은' 구조물이라는 의미에서 이끼 등 하등 식물의 '헛뿌리'를 뜻합니다.",
+                "en": "A root-like structure found in lower plants such as mosses, serving as a false root.",
+                "ja": "コケなどの下等植物に見られる根に似た構造で、仮根として機能する。",
+                "zh": "在苔藓等低等植物中发现的类似根的结构，起假根的作用。",
+                "fr": "Structure ressemblant à une racine trouvée chez les plantes inférieures comme les mousses, fonctionnant comme une fausse racine."
+            },
+            "example": "Mosses anchor themselves to the ground with rhizoids.",
+            "translation": {
+                "ko": "이끼는 헛뿌리로 땅에 몸을 고정시킨다.",
+                "ja": "コケ類は根状体で地面に固着している。",
+                "zh": "苔藓用假根把自己固定在地面上。",
+                "fr": "Les mousses s'ancrent au sol avec des rhizoïdes."
+            }
+        },
+        {
+            "word": "rhizome",
+            "part_of_speech": "",
+            "origin": "Greek, rhizoma (a mass of roots)",
+            "meaning": {
+                "ko": "뿌리 덩어리",
+                "en": "underground stem or root mass",
+                "ja": "根茎",
+                "zh": "根状茎",
+                "fr": "rhizome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rhiz-",
+                    "meaning": {
+                        "ko": "'뿌리'",
+                        "en": "root",
+                        "ja": "根",
+                        "zh": "根",
+                        "fr": "racine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'땅속에서 뿌리처럼 옆으로 뻗어 나가는 줄기'인 '뿌리줄기', '근경'을 뜻합니다.",
+                "en": "A horizontal underground stem that grows sideways like a root",
+                "ja": "地下で根のように横に伸びる茎",
+                "zh": "地下横向生长的地下茎",
+                "fr": "Tige souterraine s'étendant horizontalement"
+            },
+            "example": "Ginger is a well-known rhizome.",
+            "translation": {
+                "ko": "생강은 잘 알려진 뿌리줄기이다.",
+                "ja": "ショウガはよく知られた根茎である。",
+                "zh": "生姜是众所周知的根状茎。",
+                "fr": "Le gingembre est un rhizome bien connu."
+            }
+        },
+        {
+            "word": "rhizosphere",
+            "part_of_speech": "",
+            "origin": "Greek, rhiza (root) + sphaira (sphere)",
+            "meaning": {
+                "ko": "뿌리 영역",
+                "en": "soil region around plant roots",
+                "ja": "根圏",
+                "zh": "根际",
+                "fr": "rhizosphère"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rhizo-",
+                    "meaning": {
+                        "ko": "'뿌리'",
+                        "en": "root",
+                        "ja": "根",
+                        "zh": "根",
+                        "fr": "racine"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sphere",
+                    "meaning": {
+                        "ko": "'권역'",
+                        "en": "region or zone",
+                        "ja": "領域",
+                        "zh": "区域",
+                        "fr": "sphère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물 뿌리 주변의 토양 환경'인 '근권'을 뜻합니다.",
+                "en": "The region of soil environment around plant roots",
+                "ja": "植物の根の周辺の土壌環境",
+                "zh": "植物根周围的土壤环境",
+                "fr": "L'environnement du sol autour des racines des plantes"
+            },
+            "example": "The rhizosphere is a region of intense microbial activity.",
+            "translation": {
+                "ko": "근권은 미생물 활동이 활발한 지역이다.",
+                "ja": "根圏は微生物活動が活発な領域である。",
+                "zh": "根际是微生物活动强烈的区域。",
+                "fr": "La rhizosphère est une région d'activité microbienne intense."
+            }
+        }
+    ]
+}

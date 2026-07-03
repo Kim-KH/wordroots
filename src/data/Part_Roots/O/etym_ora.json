@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "ora (mouth) oral, oracle, oration",
+        "origin": "Latin, os, oris (mouth)",
+        "meaning": {
+            "ko": "입",
+            "en": "mouth",
+            "ja": "口",
+            "zh": "嘴",
+            "fr": "bouche"
+        }
+    },
+    "words": [
+        {
+            "word": "oral",
+            "part_of_speech": "",
+            "origin": "Latin, os (mouth)",
+            "meaning": {
+                "ko": "입",
+                "en": "mouth",
+                "ja": "口頭の",
+                "zh": "口头的",
+                "fr": "oral"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "or-",
+                    "meaning": {
+                        "ko": "'입'",
+                        "en": "mouth",
+                        "ja": "口",
+                        "zh": "口",
+                        "fr": "bouche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'입의' 또는 '입으로 하는'이라는 의미에서 '구두의'라는 뜻입니다.",
+                "en": "Means 'of or by the mouth' or 'spoken'",
+                "ja": "口によるまたは口での意味",
+                "zh": "用口或通过口的意思",
+                "fr": "Signifie 'par ou de la bouche' ou 'parlé'"
+            },
+            "example": "He has to give an oral presentation tomorrow.",
+            "translation": {
+                "ko": "그는 내일 구두 발표를 해야 한다.",
+                "ja": "彼は明日、口頭発表をしなければなりません。",
+                "zh": "他明天必须做口头报告。",
+                "fr": "Il doit faire une présentation orale demain."
+            }
+        },
+        {
+            "word": "oracle",
+            "part_of_speech": "",
+            "origin": "Latin, oraculum (a divine announcement)",
+            "meaning": {
+                "ko": "신의 발표",
+                "en": "divine proclamation",
+                "ja": "神の啓示",
+                "zh": "神的启示",
+                "fr": "parole divine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ora- (orare 'to speak')",
+                    "meaning": {
+                        "ko": "'말하다'",
+                        "en": "to speak",
+                        "ja": "話す",
+                        "zh": "说话",
+                        "fr": "parler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신이 입을 통해 말해주는' 신탁을 받는 장소나 그 신탁 자체, 또는 신탁을 전하는 사람을 뜻합니다.",
+                "en": "A place where divine revelation is received through a deity's mouth, the revelation itself, or a person who conveys divine messages.",
+                "ja": "神が口を通じて語りかける神託を受ける場所、その神託そのもの、または神託を伝える人を意味します。",
+                "zh": "神通过口说出预言的地方、预言本身，或传达神的信息的人。",
+                "fr": "Un lieu où une révélation divine est reçue par la bouche d'une divinité, la révélation elle-même, ou une personne qui transmet les messages divins."
+            },
+            "example": "The Oracle of Delphi was famous in ancient Greece.",
+            "translation": {
+                "ko": "델포이의 신탁은 고대 그리스에서 유명했다.",
+                "ja": "デルフォイの神託は古代ギリシャで有名でした。",
+                "zh": "德尔斐的神谕在古代希腊很有名。",
+                "fr": "L'oracle de Delphes était célèbre dans la Grèce antique."
+            }
+        },
+        {
+            "word": "oration",
+            "part_of_speech": "",
+            "origin": "Latin, oratio (a speech)",
+            "meaning": {
+                "ko": "연설",
+                "en": "a formal speech",
+                "ja": "演説",
+                "zh": "演讲",
+                "fr": "discours"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ora- (orare 'to speak')",
+                    "meaning": {
+                        "ko": "'말하다'",
+                        "en": "to speak",
+                        "ja": "話す",
+                        "zh": "说话",
+                        "fr": "parler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공식적인 자리에서 하는 장엄한 연설'을 뜻합니다.",
+                "en": "A formal and solemn speech delivered at an official occasion",
+                "ja": "公式な場所で行われる厳粛な演説",
+                "zh": "在正式场合进行的庄严演讲",
+                "fr": "Un discours solennel prononcé lors d'une occasion officielle"
+            },
+            "example": "He delivered a powerful oration at the graduation ceremony.",
+            "translation": {
+                "ko": "그는 졸업식에서 힘 있는 연설을 했다.",
+                "ja": "彼は卒業式で力強い演説を行った。",
+                "zh": "他在毕业典礼上发表了有力的演讲。",
+                "fr": "Il a prononcé un discours puissant à la cérémonie de remise des diplômes."
+            }
+        }
+    ]
+}

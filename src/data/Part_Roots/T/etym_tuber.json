@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "tuber (swelling) tuber, tubercle, protuberant, tuberculosis",
+        "origin": "Latin, tuber (a lump, a swelling)",
+        "meaning": {
+            "ko": "부푼 것",
+            "en": "a swelling",
+            "ja": "腫れ",
+            "zh": "肿胀",
+            "fr": "un gonflement"
+        }
+    },
+    "words": [
+        {
+            "word": "tuber",
+            "part_of_speech": "",
+            "origin": "Latin, tuber (a lump)",
+            "meaning": {
+                "ko": "덩어리",
+                "en": "lump or mass",
+                "ja": "塊茎",
+                "zh": "块茎",
+                "fr": "tubercule"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tuber-",
+                    "meaning": {
+                        "ko": "'덩어리'",
+                        "en": "lump",
+                        "ja": "塊",
+                        "zh": "块",
+                        "fr": "masse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "감자나 고구마처럼 '땅속에서 부풀어 오른 덩어리 줄기나 뿌리'인 '덩이줄기', '괴경'을 뜻합니다.",
+                "en": "A swollen underground stem or root, like potatoes or sweet potatoes",
+                "ja": "ジャガイモやサツマイモのように、地下で膨らんだ茎や根を意味します",
+                "zh": "指像土豆或红薯那样在地下膨胀的茎或根",
+                "fr": "Tige ou racine souterraine gonflée, comme les pommes de terre ou patates douces"
+            },
+            "example": "A potato is a type of tuber.",
+            "translation": {
+                "ko": "감자는 덩이줄기의 한 종류이다.",
+                "ja": "ジャガイモは塊茎の一種です。",
+                "zh": "土豆是块茎的一种。",
+                "fr": "La pomme de terre est un type de tubercule."
+            }
+        },
+        {
+            "word": "tubercle",
+            "part_of_speech": "",
+            "origin": "Latin, tuberculum (a small swelling)",
+            "meaning": {
+                "ko": "작은 덩어리",
+                "en": "small lump or mass",
+                "ja": "小さな塊",
+                "zh": "小块",
+                "fr": "petite masse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tuber-",
+                    "meaning": {
+                        "ko": "'덩어리'",
+                        "en": "lump",
+                        "ja": "塊",
+                        "zh": "块",
+                        "fr": "masse"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-cle",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 덩어리'라는 의미에서 '결절'을 뜻합니다.",
+                "en": "From the meaning of small lump, it refers to nodule",
+                "ja": "小さな塊という意味から結節を指します",
+                "zh": "从小块的意思指结节",
+                "fr": "Du sens de petite masse, il fait référence à nodule"
+            },
+            "example": "The doctor found a small tubercle on his lung.",
+            "translation": {
+                "ko": "의사는 그의 폐에서 작은 결절을 발견했다.",
+                "ja": "医師は彼の肺に小さな結節を見つけました。",
+                "zh": "医生在他的肺上发现了一个小结节。",
+                "fr": "Le médecin a trouvé un petit nodule sur son poumon."
+            }
+        },
+        {
+            "word": "protuberant",
+            "part_of_speech": "",
+            "origin": "Latin, protuberare (to swell out)",
+            "meaning": {
+                "ko": "밖으로 부풀다",
+                "en": "to bulge outward",
+                "ja": "突き出た",
+                "zh": "隆起的",
+                "fr": "saillant"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞으로'",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "vers l'avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tuber-",
+                    "meaning": {
+                        "ko": "'부풀다'",
+                        "en": "to swell",
+                        "ja": "膨らむ",
+                        "zh": "肿胀",
+                        "fr": "enfler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 부풀어 오른'이라는 의미에서 '돌출한', '불룩한'이라는 뜻입니다.",
+                "en": "Meaning 'swollen forward', hence 'protruding' or 'bulging'",
+                "ja": "前に膨らむという意味から、突き出ている、隆起しているという意味です",
+                "zh": "从向前肿胀的意思，即突出、隆起的意思",
+                "fr": "Du sens de 'gonflé vers l'avant', d'où 'saillant' ou 'bombé'"
+            },
+            "example": "He had a protuberant belly.",
+            "translation": {
+                "ko": "그는 배가 불룩했다.",
+                "ja": "彼はお腹が突き出ていた。",
+                "zh": "他有一个隆起的肚子。",
+                "fr": "Il avait le ventre saillant."
+            }
+        },
+        {
+            "word": "tuberculosis",
+            "part_of_speech": "",
+            "origin": "Latin, tuberculum (a small swelling)",
+            "meaning": {
+                "ko": "작은 덩어리",
+                "en": "small lump or nodule",
+                "ja": "小さい結節",
+                "zh": "小结节",
+                "fr": "petits nodules"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tubercule",
+                    "meaning": {
+                        "ko": "'결절'",
+                        "en": "nodule or tubercle",
+                        "ja": "結節",
+                        "zh": "结节",
+                        "fr": "nodule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'폐에 작은 결절이 생기는' 병이라는 의미에서 '결핵'을 뜻합니다.",
+                "en": "The disease name derives from the small nodules that form in the lungs",
+                "ja": "肺に小さい結節が生じる病気という意味から結核を指します",
+                "zh": "从肺部形成小结节的疾病含义来指结核病",
+                "fr": "Désigne la tuberculose, du sens d'une maladie formant de petits nodules dans les poumons"
+            },
+            "example": "Tuberculosis is a serious infectious disease.",
+            "translation": {
+                "ko": "결핵은 심각한 전염병이다.",
+                "ja": "結核は深刻な感染症です",
+                "zh": "结核病是一种严重的传染病",
+                "fr": "La tuberculose est une maladie infectieuse grave"
+            }
+        }
+    ]
+}

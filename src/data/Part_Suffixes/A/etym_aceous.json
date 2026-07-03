@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "aceous (of the nature of) herbaceous, sebaceous",
+        "origin": "Latin, -aceus (of the nature of)",
+        "meaning": {
+            "ko": "…의 성질을 가진",
+            "en": "of the nature of",
+            "ja": "...の性質を持つ",
+            "zh": "具有...的性质",
+            "fr": "de la nature de..."
+        }
+    },
+    "words": [
+        {
+            "word": "herbaceous",
+            "part_of_speech": "",
+            "origin": "Latin, herbaceus (grassy)",
+            "meaning": {
+                "ko": "풀의",
+                "en": "of grass",
+                "ja": "草本性の",
+                "zh": "草本的",
+                "fr": "herbacé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "herb-",
+                    "meaning": {
+                        "ko": "'풀'",
+                        "en": "herb",
+                        "ja": "草",
+                        "zh": "草",
+                        "fr": "herbe"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-aceous",
+                    "meaning": {
+                        "ko": "'~의 성질을 가진'",
+                        "en": "having the quality of",
+                        "ja": "~の性質を持つ",
+                        "zh": "~的性质",
+                        "fr": "~de nature"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나무와 달리 줄기가 목질이 아닌 풀 같은 성질을 가진' 식물을 의미하여 '초본의'라고 합니다.",
+                "en": "Plants with herbaceous (non-woody) stems, unlike trees",
+                "ja": "木と異なり茎が木質ではない草のような性質を持つ植物",
+                "zh": "与树木不同，茎部非木质的草本植物",
+                "fr": "Plantes à tiges non ligneuses contrairement aux arbres"
+            },
+            "example": "The garden is filled with herbaceous flowers.",
+            "translation": {
+                "ko": "그 정원은 초본성 꽃들로 가득 차 있다.",
+                "ja": "庭は草本性の花でいっぱいです。",
+                "zh": "花园里满是草本花卉。",
+                "fr": "Le jardin est rempli de fleurs herbacées."
+            }
+        },
+        {
+            "word": "sebaceous",
+            "part_of_speech": "",
+            "origin": "Latin, sebum (tallow, grease)",
+            "meaning": {
+                "ko": "수지, 기름",
+                "en": "resin or oil",
+                "ja": "脂肪、油脂",
+                "zh": "油脂、脂肪",
+                "fr": "sébacé, gras"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "seb-",
+                    "meaning": {
+                        "ko": "'기름'",
+                        "en": "grease",
+                        "ja": "油脂、脂肪",
+                        "zh": "油脂、脂肪",
+                        "fr": "graisse, sébum"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-aceous",
+                    "meaning": {
+                        "ko": "'~의 성질을 가진'",
+                        "en": "having the quality of",
+                        "ja": "~の性質を持つ",
+                        "zh": "具有~的性质",
+                        "fr": "ayant la nature de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부 기름을 분비하는 성질을 가진'이라는 의미에서 '피지의'라는 뜻입니다.",
+                "en": "Refers to glands that secrete sebum (skin oil) on the skin.",
+                "ja": "皮膚の油を分泌する性質を持つという意味で、皮脂腺に関する語です。",
+                "zh": "指具有分泌皮肤油脂性质的意思，与皮脂腺相关。",
+                "fr": "Signifie ayant la nature de sécréter du sébum (huile cutanée) sur la peau."
+            },
+            "example": "The sebaceous glands produce oil to lubricate the skin.",
+            "translation": {
+                "ko": "피지선은 피부를 윤활하게 하기 위해 기름을 생산한다.",
+                "ja": "皮脂腺の、油を分泌する",
+                "zh": "皮脂的、分泌油脂的",
+                "fr": "sébacé, qui sécrète le sébum"
+            }
+        }
+    ]
+}

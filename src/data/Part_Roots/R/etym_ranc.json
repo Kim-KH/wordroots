@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "ranc (stink) rancid, rancor, rancorous",
+        "origin": "Latin, rancidus (stinking, rank)",
+        "meaning": {
+            "ko": "악취가 나는",
+            "en": "stinking",
+            "ja": "悪臭がする",
+            "zh": "散发恶臭的",
+            "fr": "puant"
+        }
+    },
+    "words": [
+        {
+            "word": "rancid",
+            "part_of_speech": "",
+            "origin": "Latin, rancidus (stinking)",
+            "meaning": {
+                "ko": "악취가 나는",
+                "en": "having a foul smell",
+                "ja": "腐った臭い",
+                "zh": "酸败的",
+                "fr": "rance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ranc-",
+                    "meaning": {
+                        "ko": "'악취가 나다'",
+                        "en": "to stink",
+                        "ja": "悪臭がする",
+                        "zh": "发出恶臭",
+                        "fr": "sentir mauvais"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기름 등이 오래되어 산패하여 불쾌한 냄새가 나는'이라는 뜻입니다.",
+                "en": "Describes oils and fats that have oxidized over time, producing an unpleasant smell.",
+                "ja": "油などが古くなり酸化して、不快な臭いが出ている状態を示します。",
+                "zh": "指油脂等长期存放后氧化变质，产生不快气味的状态。",
+                "fr": "Décrit les huiles et graisses qui se sont oxydées au fil du temps, produisant une odeur désagréable."
+            },
+            "example": "The butter smelled rancid.",
+            "translation": {
+                "ko": "그 버터는 산패한 냄새가 났다.",
+                "ja": "そのバターは腐った臭いがした。",
+                "zh": "那黄油闻起来酸败了。",
+                "fr": "Le beurre sentait rance."
+            }
+        },
+        {
+            "word": "rancor",
+            "part_of_speech": "",
+            "origin": "Latin, rancor (rancidness, bitterness)",
+            "meaning": {
+                "ko": "산패함, 쓴맛",
+                "en": "rancidness, bitter taste",
+                "ja": "深い恨み、苦味",
+                "zh": "深仇、怨恨",
+                "fr": "rancune profonde, amertume"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ranc-",
+                    "meaning": {
+                        "ko": "'악취, 원한'",
+                        "en": "foul smell, resentment",
+                        "ja": "悪臭、怨恨",
+                        "zh": "恶臭、怨恨",
+                        "fr": "mauvaise odeur, ressentiment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'오래된 원한에서 비롯된 깊은 증오심'을 뜻합니다.",
+                "en": "Deep hatred stemming from old grievances",
+                "ja": "古い恨みから生じた深い憎しみ",
+                "zh": "源于久怨的深仇",
+                "fr": "Haine profonde née de vieilles rancunes"
+            },
+            "example": "He felt a deep rancor towards his old enemy.",
+            "translation": {
+                "ko": "그는 오랜 적에게 깊은 원한을 느꼈다.",
+                "ja": "彼は昔の敵に対して深い恨みを感じていた。",
+                "zh": "他对旧日的仇敌感到深深的怨恨。",
+                "fr": "Il ressentait une profonde rancune envers son ancien ennemi."
+            }
+        },
+        {
+            "word": "rancorous",
+            "part_of_speech": "",
+            "origin": "Latin, rancor",
+            "meaning": {
+                "ko": "원한",
+                "en": "bitter resentment or ill will",
+                "ja": "恨みに満ちた",
+                "zh": "充满怨恨的",
+                "fr": "rempli de rancœur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rancor-",
+                    "meaning": {
+                        "ko": "'원한'",
+                        "en": "bitter resentment",
+                        "ja": "恨み",
+                        "zh": "怨恨",
+                        "fr": "ressentiment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원한에 가득 찬'이라는 뜻입니다.",
+                "en": "Means full of resentment or bitterness",
+                "ja": "恨みや苦々しさに満ちているという意味です",
+                "zh": "充满仇恨或苦涩之意",
+                "fr": "Signifie plein de ressentiment ou d'amertume"
+            },
+            "example": "It was a rancorous debate.",
+            "translation": {
+                "ko": "그것은 원한에 찬 토론이었다.",
+                "ja": "激しい議論だった",
+                "zh": "这是一场充满怨恨的辩论",
+                "fr": "C'était un débat rancunier"
+            }
+        }
+    ]
+}

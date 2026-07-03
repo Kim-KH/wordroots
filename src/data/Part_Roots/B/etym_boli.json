@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "boli (ball, throw) bolus, metabolism, parabola, parable",
+        "origin": "Greek, ballein (to throw), bōlos (lump)",
+        "meaning": {
+            "ko": "던지다, 덩어리",
+            "en": "to throw, lump",
+            "ja": "投げる、塊",
+            "zh": "投掷、块状物",
+            "fr": "jeter, morceau"
+        }
+    },
+    "words": [
+        {
+            "word": "bolus",
+            "part_of_speech": "",
+            "origin": "Greek, bōlos (lump, clod)",
+            "meaning": {
+                "ko": "덩어리",
+                "en": "lump",
+                "ja": "塊、団子状",
+                "zh": "团块、丸剂",
+                "fr": "masse, bolus"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bol (bōlos)",
+                    "meaning": {
+                        "ko": "'덩어리'",
+                        "en": "lump",
+                        "ja": "塊",
+                        "zh": "团块",
+                        "fr": "masse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 '흙덩이'를 의미하던 단어로, 의학에서는 삼키기 쉽도록 둥글게 뭉친 '음식물 덩어리'나, 약물을 한 번에 주입하는 '일시 주입량'을 의미합니다.",
+                "en": "Originally meant 'lump of earth'. In medicine, it refers to a rounded 'food bolus' easy to swallow, or a 'bolus injection' of medication administered at once.",
+                "ja": "もともと土の塊を意味する単語で、医学では飲み込みやすく丸められた食べ物の塊や、薬物を一度に注入する一時注入量を意味します。",
+                "zh": "原意为'土块'。在医学中指容易吞咽的圆形'食物团块'，或药物一次注射的'单次注射量'。",
+                "fr": "À l'origine, signifiait 'motte de terre'. En médecine, désigne une 'masse alimentaire' arrondie facile à avaler, ou une 'injection de bolus' de médicament administrée à la fois."
+            },
+            "example": "The snake swallowed the mouse in a single bolus.",
+            "translation": {
+                "ko": "뱀은 쥐를 한 덩어리로 삼켰다.",
+                "ja": "ヘビは1回で鼠を飲み込んだ。",
+                "zh": "蛇一次性吞下了老鼠。",
+                "fr": "Le serpent a avalé la souris en un seul bolus."
+            }
+        },
+        {
+            "word": "metabolism",
+            "part_of_speech": "",
+            "origin": "Greek, metabolē (change)",
+            "meaning": {
+                "ko": "변화",
+                "en": "change",
+                "ja": "変化",
+                "zh": "变化",
+                "fr": "changement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "meta-",
+                    "meaning": {
+                        "ko": "'변화'",
+                        "en": "change",
+                        "ja": "変化",
+                        "zh": "变化",
+                        "fr": "changement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bol (ballein)",
+                    "meaning": {
+                        "ko": "'던지다, 바꾸다'",
+                        "en": "to throw, to change",
+                        "ja": "投げる、変える",
+                        "zh": "扔、改变",
+                        "fr": "jeter, changer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ism",
+                    "meaning": {
+                        "ko": "'과정, 작용'",
+                        "en": "process, action",
+                        "ja": "過程、作用",
+                        "zh": "过程、作用",
+                        "fr": "processus, action"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "생물체 내에서 영양분을 '변화(meta)시켜' 에너지를 얻고 노폐물을 배출하는 일련의 화학 작용, 즉 '신진대사'를 의미합니다.",
+                "en": "In living organisms, nutrients are 'changed (meta)' to obtain energy and excrete waste products through a series of chemical reactions, meaning 'metabolism'.",
+                "ja": "生物体内で栄養分を'変化(meta)させて'エネルギーを得、老廃物を排出する一連の化学作用、つまり'新陳代謝'を意味します。",
+                "zh": "在生物体内，营养物质被'改变(meta)'以获取能量并排出废物的一系列化学反应，即'代谢'的意思。",
+                "fr": "Chez les organismes vivants, les nutriments sont 'changés (meta)' pour obtenir de l'énergie et excréter les déchets par une série de réactions chimiques, c'est-à-dire le 'métabolisme'."
+            },
+            "example": "Exercise can help to boost your metabolism.",
+            "translation": {
+                "ko": "운동은 신진대사를 촉진하는 데 도움이 될 수 있다.",
+                "ja": "運動は代謝を高めるのに役立ちます。",
+                "zh": "运动可以帮助促进你的代谢。",
+                "fr": "L'exercice peut aider à stimuler votre métabolisme."
+            }
+        },
+        {
+            "word": "parabola",
+            "part_of_speech": "",
+            "origin": "Greek, parabolē (comparison, a placing alongside)",
+            "meaning": {
+                "ko": "나란히 놓기",
+                "en": "a placing alongside",
+                "ja": "並べて置くこと",
+                "zh": "并排放置",
+                "fr": "placer côte à côte"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "para-",
+                    "meaning": {
+                        "ko": "'~옆에'",
+                        "en": "beside",
+                        "ja": "脇に",
+                        "zh": "在旁边",
+                        "fr": "à côté"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bola (ballein)",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "投掷",
+                        "fr": "lancer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "기하학에서 원뿔을 자를 때, 자르는 평면이 원뿔의 모선과 '나란하도록(para) 던져진(bola)' 곡선이라는 의미에서 '포물선'을 뜻하게 되었습니다.",
+                "en": "In geometry, when a plane cuts a cone at an angle parallel to the cone's generator line, it creates a curve called parabola, literally meaning 'thrown alongside'.",
+                "ja": "幾何学では、平面が円錐の母線と平行に交わるとき、円錐を切った曲線を放物線と呼びます。これは文字通り「並行に投げられた曲線」という意味です。",
+                "zh": "在几何学中，当平面与圆锥的母线平行相交时，得到的曲线称为抛物线，字面意思是「平行投掷的曲线」。",
+                "fr": "En géométrie, quand un plan coupe un cône parallèlement à sa génératrice, la courbe obtenue s'appelle parabole, ce qui signifie littéralement « courbe lancée parallèlement »."
+            },
+            "example": "The path of a thrown ball is a parabola.",
+            "translation": {
+                "ko": "던져진 공의 경로는 포물선이다.",
+                "ja": "投げたボールの軌跡は放物線です。",
+                "zh": "抛出的球的轨迹是抛物线。",
+                "fr": "La trajectoire d'une balle lancée est une parabole."
+            }
+        },
+        {
+            "word": "parable",
+            "part_of_speech": "",
+            "origin": "Greek, parabolē (comparison, a placing alongside)",
+            "meaning": {
+                "ko": "나란히 놓기",
+                "en": "a placing alongside",
+                "ja": "並べて置くこと",
+                "zh": "并列放置",
+                "fr": "placer côte à côte"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "para-",
+                    "meaning": {
+                        "ko": "'~옆에'",
+                        "en": "beside",
+                        "ja": "傍に",
+                        "zh": "旁边",
+                        "fr": "à côté"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "able (ballein)",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "投掷",
+                        "fr": "lancer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어떤 이야기를 교훈적인 진리 '옆에(para) 놓고' 비교하여 설명한다는 의미에서, 도덕적 또는 종교적 교훈을 담은 '우화'나 '비유'를 뜻합니다.",
+                "en": "A story that teaches a moral or religious lesson by placing an instructive truth 'alongside' a narrative for comparison and explanation, meaning an allegory or metaphor.",
+                "ja": "ある物語を教訓的な真理を傍に置いて比較説明することから、道徳的または宗教的な教訓を含む'寓話'や'比喩'を意味します。",
+                "zh": "通过将教导性的真理放在故事'旁边'进行对比说明，意为包含道德或宗教教训的'寓言'或'比喻'。",
+                "fr": "Une histoire qui enseigne une leçon morale ou religieuse en plaçant une vérité instructive 'à côté' d'un récit pour la comparaison, signifiant une allégorie ou une métaphore."
+            },
+            "example": "He told a parable about a farmer and his sons.",
+            "translation": {
+                "ko": "그는 농부와 그의 아들들에 대한 우화를 들려주었다.",
+                "ja": "彼は農夫と彼の息子たちについての寓話を語った。",
+                "zh": "他讲了一个关于农民和他儿子们的寓言。",
+                "fr": "Il a raconté une parabole sur un fermier et ses fils."
+            }
+        }
+    ]
+}

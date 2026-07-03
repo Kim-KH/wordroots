@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "putr (decay) putrefaction, putrefy, putrescent, putrid",
+        "origin": "Latin, puter, putris (rotten)",
+        "meaning": {
+            "ko": "썩은",
+            "en": "rotten",
+            "ja": "腐った",
+            "zh": "腐烂的",
+            "fr": "pourri"
+        }
+    },
+    "words": [
+        {
+            "word": "putrefaction",
+            "part_of_speech": "",
+            "origin": "Latin, putrefactio (a decaying)",
+            "meaning": {
+                "ko": "썩어감",
+                "en": "rotting or decaying",
+                "ja": "腐敗",
+                "zh": "腐烂",
+                "fr": "putréfaction"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "putre-",
+                    "meaning": {
+                        "ko": "'썩다'",
+                        "en": "to rot",
+                        "ja": "腐る",
+                        "zh": "腐烂",
+                        "fr": "pourrir"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "faction",
+                    "meaning": {
+                        "ko": "'만들기'",
+                        "en": "making or creation",
+                        "ja": "作成",
+                        "zh": "制造",
+                        "fr": "créer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유기물이 썩는 과정'인 '부패'를 뜻합니다.",
+                "en": "Process of organic matter rotting or decomposing",
+                "ja": "有機物が腐る過程を意味します",
+                "zh": "有机物腐烂的过程",
+                "fr": "Processus de décomposition de la matière organique"
+            },
+            "example": "The smell of putrefaction filled the air.",
+            "translation": {
+                "ko": "썩는 냄새가 공기 중에 가득했다.",
+                "ja": "腐敗の臭いが空気を満たした。",
+                "zh": "腐烂的气味充满了空气。",
+                "fr": "L'odeur de putréfaction remplissait l'air."
+            }
+        },
+        {
+            "word": "putrefy",
+            "part_of_speech": "",
+            "origin": "Latin, putrefacere (to make rotten)",
+            "meaning": {
+                "ko": "썩게 만들다",
+                "en": "to cause to rot",
+                "ja": "腐らせる",
+                "zh": "使腐烂",
+                "fr": "faire pourrir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "putre-",
+                    "meaning": {
+                        "ko": "'썩다'",
+                        "en": "to rot",
+                        "ja": "腐る",
+                        "zh": "腐烂",
+                        "fr": "pourrir"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~させる",
+                        "zh": "使~",
+                        "fr": "faire~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'썩게 만들다', '부패하다'라는 뜻입니다.",
+                "en": "Means 'to cause to rot' or 'to decay'",
+                "ja": "腐らせる、腐敗させるという意味です",
+                "zh": "表示'使腐烂'或'使腐败'的意思",
+                "fr": "Signifie 'faire pourrir' ou 'se décomposer'"
+            },
+            "example": "The meat began to putrefy in the heat.",
+            "translation": {
+                "ko": "그 고기는 더위 속에서 부패하기 시작했다.",
+                "ja": "肉は熱の中で腐り始めた。",
+                "zh": "肉在热中开始腐烂。",
+                "fr": "La viande a commencé à pourrir dans la chaleur."
+            }
+        },
+        {
+            "word": "putrescent",
+            "part_of_speech": "",
+            "origin": "Latin, putrescere (to begin to rot)",
+            "meaning": {
+                "ko": "썩기 시작하다",
+                "en": "to begin to rot",
+                "ja": "腐り始める",
+                "zh": "开始腐烂",
+                "fr": "commencer à pourrir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "putre-",
+                    "meaning": {
+                        "ko": "'썩다'",
+                        "en": "to rot",
+                        "ja": "腐る",
+                        "zh": "腐烂",
+                        "fr": "pourrir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'썩기 시작하는'이라는 뜻입니다.",
+                "en": "Meaning 'beginning to rot'",
+                "ja": "腐り始めるという意味です",
+                "zh": "意思是开始腐烂",
+                "fr": "Signifiant 'commençant à pourrir'"
+            },
+            "example": "The garbage had a putrescent smell.",
+            "translation": {
+                "ko": "그 쓰레기에서는 썩기 시작하는 냄새가 났다.",
+                "ja": "ゴミは腐り始める臭いがしていた。",
+                "zh": "垃圾散发出开始腐烂的臭味。",
+                "fr": "Les ordures avaient une odeur qui commençait à pourrir."
+            }
+        },
+        {
+            "word": "putrid",
+            "part_of_speech": "",
+            "origin": "Latin, putridus (rotten)",
+            "meaning": {
+                "ko": "썩은",
+                "en": "decayed or rotten",
+                "ja": "腐った",
+                "zh": "腐烂的",
+                "fr": "putride"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "putr-",
+                    "meaning": {
+                        "ko": "'썩다'",
+                        "en": "to rot",
+                        "ja": "腐る",
+                        "zh": "腐烂",
+                        "fr": "pourrir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'썩어서 악취가 나는'이라는 뜻입니다.",
+                "en": "Means rotten with a foul smell.",
+                "ja": "腐って悪臭がする意味です。",
+                "zh": "腐烂并散发恶臭的意思。",
+                "fr": "Signifie pourri avec une mauvaise odeur."
+            },
+            "example": "The putrid smell of rotting food was unbearable.",
+            "translation": {
+                "ko": "썩어가는 음식의 악취는 참을 수 없었다.",
+                "ja": "腐った食べ物の悪臭は耐えられなかった。",
+                "zh": "腐烂食物的恶臭令人难以忍受。",
+                "fr": "L'odeur putride de la nourriture en décomposition était insupportable."
+            }
+        }
+    ]
+}

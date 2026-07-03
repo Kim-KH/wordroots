@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "clima (region) climate, climatic climax",
+        "origin": "Greek, klima (slope, inclination, region)",
+        "meaning": {
+            "ko": "경사, 지역",
+            "en": "slope, region",
+            "ja": "傾斜、地域",
+            "zh": "斜坡，地区",
+            "fr": "pente, région"
+        }
+    },
+    "words": [
+        {
+            "word": "climate",
+            "part_of_speech": "",
+            "origin": "Greek, klima (slope, region)",
+            "meaning": {
+                "ko": "경사, 지역",
+                "en": "slope, region",
+                "ja": "気候",
+                "zh": "气候",
+                "fr": "climat"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clima (klima)",
+                    "meaning": {
+                        "ko": "'경사, 지역'",
+                        "en": "slope, region",
+                        "ja": "傾斜、地域",
+                        "zh": "倾斜、地区",
+                        "fr": "pente, région"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스인들이 지구의 '경사(klima)', 즉 위도에 따라 기후대가 달라진다고 생각한 것에서 유래하여 '기후'를 뜻하게 되었습니다.",
+                "en": "Ancient Greeks believed that Earth's 'slope (klima)', meaning latitude, determined different climate zones, which led to the word meaning 'climate'.",
+                "ja": "古代ギリシャ人は地球の『傾斜(klima)』つまり緯度により気候帯が異なると考え、『気候』を意味するようになりました。",
+                "zh": "古代希腊人认为地球的『倾斜(klima)』即纬度决定了不同气候带，由此演变为『气候』的含义。",
+                "fr": "Les anciens Grecs croyaient que la 'pente (klima)' de la Terre, c'est-à-dire la latitude, déterminait différentes zones climatiques, ce qui a donné le sens de 'climat'."
+            },
+            "example": "The climate in this region is hot and humid.",
+            "translation": {
+                "ko": "이 지역의 기후는 덥고 습하다.",
+                "ja": "この地域の気候は暑く湿っています。",
+                "zh": "这个地区的气候炎热潮湿。",
+                "fr": "Le climat dans cette région est chaud et humide."
+            }
+        },
+        {
+            "word": "climatic",
+            "part_of_speech": "",
+            "origin": "Greek, klimatikos (relating to climate)",
+            "meaning": {
+                "ko": "기후에 관련된",
+                "en": "relating to climate",
+                "ja": "気候に関する",
+                "zh": "气候相关的",
+                "fr": "relatif au climat"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "climat (klima)",
+                    "meaning": {
+                        "ko": "'기후'",
+                        "en": "climate",
+                        "ja": "気候",
+                        "zh": "气候",
+                        "fr": "climat"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~의, ~에 관련된'",
+                        "en": "of, relating to",
+                        "ja": "~の、~に関する",
+                        "zh": "~的、~相关的",
+                        "fr": "~de, ~relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기후(climate)의' 또는 '기후에 관한'이라는 뜻입니다.",
+                "en": "Means 'of climate' or 'relating to climate'",
+                "ja": "気候の、または気候に関するという意味です",
+                "zh": "意思是'气候的'或'与气候有关的'",
+                "fr": "Signifie 'du climat' ou 'relatif au climat'"
+            },
+            "example": "Climatic changes are affecting agriculture worldwide.",
+            "translation": {
+                "ko": "기후 변화는 전 세계 농업에 영향을 미치고 있다.",
+                "ja": "気候変動は世界中の農業に影響を与えています",
+                "zh": "气候变化正在影响世界各地的农业",
+                "fr": "Les changements climatiques affectent l'agriculture mondiale"
+            }
+        },
+        {
+            "word": "climax",
+            "part_of_speech": "",
+            "origin": "Greek, klimax (ladder, staircase)",
+            "meaning": {
+                "ko": "사다리",
+                "en": "ladder",
+                "ja": "絶頂、最高潮",
+                "zh": "高潮、顶点",
+                "fr": "apogée, point culminant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clima (klima)",
+                    "meaning": {
+                        "ko": "'경사'",
+                        "en": "slope",
+                        "ja": "傾斜",
+                        "zh": "斜坡",
+                        "fr": "pente"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "사다리처럼 '경사(clima)'를 따라 점차 올라가 도달하는 가장 높은 지점이라는 의미에서, 이야기나 사건의 '절정', '클라이맥스'를 뜻하게 되었습니다.",
+                "en": "Like climbing a ladder along a 'slope (clima)', it came to mean the highest point reached gradually, referring to the 'climax' or turning point of a story or event.",
+                "ja": "はしごのように'傾斜(clima)'に沿って徐々に登って到達する最も高い地点という意味から、物語や出来事の'絶頂'、'クライマックス'を意味するようになりました。",
+                "zh": "就像沿着'斜坡(clima)'爬梯子一样，逐渐登上到达的最高点的含义，因此指故事或事件的'高潮'、'顶点'。",
+                "fr": "Comme grimper une échelle le long d'une 'pente (clima)', cela signifiait le point le plus élevé atteint progressivement, désignant le 'climax' ou tournant d'une histoire ou d'un événement."
+            },
+            "example": "The climax of the movie was a spectacular car chase.",
+            "translation": {
+                "ko": "그 영화의 클라이맥스는 화려한 자동차 추격 장면이었다.",
+                "ja": "映画のクライマックスは壮観なカーチェイスでした。",
+                "zh": "电影的高潮是一场壮观的汽车追逐。",
+                "fr": "Le climax du film était une spectaculaire course-poursuite en voiture."
+            }
+        }
+    ]
+}

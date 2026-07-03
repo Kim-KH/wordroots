@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "therap (treatment, examine) therapy, therapist, therapeutic",
+        "origin": "Greek, therapeia (a waiting on, a service, a healing)",
+        "meaning": {
+            "ko": "치료",
+            "en": "treatment",
+            "ja": "治療",
+            "zh": "治疗",
+            "fr": "traitement"
+        }
+    },
+    "words": [
+        {
+            "word": "therapy",
+            "part_of_speech": "",
+            "origin": "Greek, therapeia (healing)",
+            "meaning": {
+                "ko": "치료",
+                "en": "treatment or cure",
+                "ja": "治療",
+                "zh": "治疗",
+                "fr": "thérapie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "therap-",
+                    "meaning": {
+                        "ko": "'치료'",
+                        "en": "treatment",
+                        "ja": "治療",
+                        "zh": "治疗",
+                        "fr": "traitement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'수술이나 약물이 아닌 다른 방법을 이용한 치료'인 '요법'을 뜻합니다.",
+                "en": "Refers to treatment method using approaches other than surgery or medication",
+                "ja": "手術や薬物以外の方法を用いた治療を意味します",
+                "zh": "指不用手术或药物的其他治疗方法",
+                "fr": "Désigne un traitement utilisant des méthodes autres que la chirurgie ou les médicaments"
+            },
+            "example": "He is receiving physical therapy for his injured knee.",
+            "translation": {
+                "ko": "그는 부상당한 무릎에 대해 물리 치료를 받고 있다.",
+                "ja": "彼は膝のけがに対して物理療法を受けています。",
+                "zh": "他正在接受膝盖损伤的物理治疗。",
+                "fr": "Il reçoit une thérapie physique pour son genou blessé."
+            }
+        },
+        {
+            "word": "therapist",
+            "part_of_speech": "",
+            "origin": "Greek, therapeutns (an attendant)",
+            "meaning": {
+                "ko": "시중드는 사람",
+                "en": "person who attends to someone",
+                "ja": "治療する人",
+                "zh": "治疗师",
+                "fr": "thérapeute"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "therap-",
+                    "meaning": {
+                        "ko": "'치료'",
+                        "en": "treatment",
+                        "ja": "治療",
+                        "zh": "治疗",
+                        "fr": "traitement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 요법을 통해 환자를 치료하는 사람'인 '치료사'를 뜻합니다.",
+                "en": "A therapist is a person who treats patients through specific therapeutic methods",
+                "ja": "特定の治療法を通じて患者を治療する人を意味します",
+                "zh": "指通过特定疗法治疗患者的人",
+                "fr": "Personne qui traite les patients par des méthodes thérapeutiques spécifiques"
+            },
+            "example": "She is seeing a therapist to help her deal with her anxiety.",
+            "translation": {
+                "ko": "그녀는 불안감을 다루는 데 도움을 받기 위해 치료사를 만나고 있다.",
+                "ja": "彼女は不安に対処するために治療師に診てもらっています",
+                "zh": "她正在看治疗师以帮助她处理焦虑",
+                "fr": "Elle consulte un thérapeute pour l'aider à gérer son anxiété"
+            }
+        },
+        {
+            "word": "therapeutic",
+            "part_of_speech": "",
+            "origin": "Greek, therapeutikos (attentive, helpful)",
+            "meaning": {
+                "ko": "도움이 되는",
+                "en": "helpful or beneficial",
+                "ja": "治療効果のある",
+                "zh": "有治疗效果的",
+                "fr": "ayant effet thérapeutique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "therap-",
+                    "meaning": {
+                        "ko": "'치료'",
+                        "en": "treatment",
+                        "ja": "治療",
+                        "zh": "治疗",
+                        "fr": "traitement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'치료의', '치료 효과가 있는'이라는 뜻입니다.",
+                "en": "Means 'related to treatment' or 'having therapeutic effect'",
+                "ja": "治療に関する、治療効果がある という意味です",
+                "zh": "意为与治疗相关、具有治疗效果",
+                "fr": "Signifie relatif au traitement ou ayant un effet thérapeutique"
+            },
+            "example": "The warm bath had a therapeutic effect on her sore muscles.",
+            "translation": {
+                "ko": "따뜻한 목욕은 그녀의 쑤시는 근육에 치료 효과가 있었다.",
+                "ja": "温かいお風呂は彼女の筋肉痛に治療効果があった。",
+                "zh": "温暖的浴水对她酸痛的肌肉有治疗效果。",
+                "fr": "Le bain chaud avait un effet thérapeutique sur ses muscles endoloris."
+            }
+        }
+    ]
+}

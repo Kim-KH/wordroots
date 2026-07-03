@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "germ (sprout, seed) germ, germicide, germinate",
+        "origin": "Latin, germen (sprout, bud)",
+        "meaning": {
+            "ko": "싹",
+            "en": "sprout",
+            "ja": "芽",
+            "zh": "芽",
+            "fr": "germe"
+        }
+    },
+    "words": [
+        {
+            "word": "germ",
+            "part_of_speech": "",
+            "origin": "Latin, germen (sprout)",
+            "meaning": {
+                "ko": "싹",
+                "en": "sprout or bud",
+                "ja": "芽、菌",
+                "zh": "萌芽、细菌",
+                "fr": "germe, microbe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "germ-",
+                    "meaning": {
+                        "ko": "'싹, 기원'",
+                        "en": "sprout",
+                        "ja": "芽、起源",
+                        "zh": "萌芽、起源",
+                        "fr": "germe, origine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것의 싹(시작)'이라는 의미에서 '세균', '병원균' 또는 '기원'을 뜻합니다.",
+                "en": "From the meaning of 'sprout' or 'beginning' of something, it means 'bacteria', 'pathogen', or 'origin'",
+                "ja": "あるものの芽(始まり)という意味から、『細菌』『病原菌』または『起源』を意味します",
+                "zh": "从某物的萌芽(开始)的含义，表示『细菌』『病原体』或『起源』",
+                "fr": "Du sens de 'germe' ou 'commencement' de quelque chose, il signifie 'bactérie', 'agent pathogène' ou 'origine'"
+            },
+            "example": "Wash your hands to get rid of germs.",
+            "translation": {
+                "ko": "세균을 없애기 위해 손을 씻으세요.",
+                "ja": "手を洗って細菌を除去してください。",
+                "zh": "洗手以清除细菌。",
+                "fr": "Lavez-vous les mains pour éliminer les germes."
+            }
+        },
+        {
+            "word": "germicide",
+            "part_of_speech": "",
+            "origin": "Latin, germen (sprout) + -cida (a killer)",
+            "meaning": {
+                "ko": "세균 살해",
+                "en": "substance that kills bacteria",
+                "ja": "殺菌剤",
+                "zh": "杀菌剂",
+                "fr": "germicide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "germi-",
+                    "meaning": {
+                        "ko": "'세균'",
+                        "en": "germ",
+                        "ja": "細菌",
+                        "zh": "细菌",
+                        "fr": "microbe"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cide",
+                    "meaning": {
+                        "ko": "'죽이기'",
+                        "en": "killer",
+                        "ja": "殺す",
+                        "zh": "杀死",
+                        "fr": "tueur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세균을 죽이는 약'이라는 의미에서 '살균제'를 뜻합니다.",
+                "en": "A substance that kills bacteria, used as a disinfectant",
+                "ja": "細菌を殺す薬という意味で、殺菌剤を意味します",
+                "zh": "表示杀死细菌的药物，意为杀菌剂",
+                "fr": "Une substance qui tue les germes, utilisée comme désinfectant"
+            },
+            "example": "The hospital uses a powerful germicide to clean the rooms.",
+            "translation": {
+                "ko": "그 병원은 방을 청소하기 위해 강력한 살균제를 사용한다.",
+                "ja": "病院は部屋を清潔にするために強力な殺菌剤を使用しています。",
+                "zh": "医院使用强力的杀菌剂来清洁房间。",
+                "fr": "L'hôpital utilise un germicide puissant pour nettoyer les salles."
+            }
+        },
+        {
+            "word": "germinate",
+            "part_of_speech": "",
+            "origin": "Latin, germinare (to sprout)",
+            "meaning": {
+                "ko": "싹트다",
+                "en": "to sprout or begin to grow",
+                "ja": "芽生える",
+                "zh": "发芽",
+                "fr": "germer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "germin-",
+                    "meaning": {
+                        "ko": "'싹'",
+                        "en": "sprout",
+                        "ja": "芽",
+                        "zh": "芽",
+                        "fr": "germe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'씨앗이 싹트다' 또는 아이디어가 '싹트다', '생겨나다'라는 뜻입니다.",
+                "en": "Seeds germinate or ideas germinate, meaning to sprout or emerge",
+                "ja": "種が芽生えたり、アイデアが芽生えたり、生まれたりすることを意味します",
+                "zh": "种子发芽或想法产生、出现的意思",
+                "fr": "Les graines germent ou les idées émergent, signifiant apparaître ou naître"
+            },
+            "example": "The seeds will germinate in a few days.",
+            "translation": {
+                "ko": "씨앗은 며칠 안에 싹이 틀 것이다.",
+                "ja": "種は数日で芽生えます。",
+                "zh": "种子将在几天内发芽。",
+                "fr": "Les graines germeront dans quelques jours."
+            }
+        }
+    ]
+}

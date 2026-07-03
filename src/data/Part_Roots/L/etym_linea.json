@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "linea (line) lineage, lineal, lineament",
+        "origin": "Latin, linea (a linen thread, a line)",
+        "meaning": {
+            "ko": "선",
+            "en": "line",
+            "ja": "線",
+            "zh": "线",
+            "fr": "ligne"
+        }
+    },
+    "words": [
+        {
+            "word": "lineage",
+            "part_of_speech": "",
+            "origin": "Old French, lignage (line of descent)",
+            "meaning": {
+                "ko": "혈통",
+                "en": "line of descent or ancestry",
+                "ja": "血統、家系",
+                "zh": "血统、家系",
+                "fr": "lignée, ascendance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "line-",
+                    "meaning": {
+                        "ko": "'선, 혈통'",
+                        "en": "line",
+                        "ja": "線、血統",
+                        "zh": "线、血统",
+                        "fr": "ligne, ascendance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈연으로 이어진 선'이라는 의미에서 '혈통', '가계'를 뜻합니다.",
+                "en": "Means bloodline or family ancestry, derived from the concept of a line connected by blood relations",
+                "ja": "血縁でつながった線という意味から、血統や家系を意味します",
+                "zh": "从血缘相连的线的含义引申，表示血统、家系",
+                "fr": "Signifie lignée ou ascendance familiale, dérivé du concept de ligne liée par des liens de sang"
+            },
+            "example": "He can trace his lineage back to a noble family.",
+            "translation": {
+                "ko": "그는 그의 혈통을 귀족 가문까지 거슬러 올라갈 수 있다.",
+                "ja": "彼は血統を貴族の家まで遡ることができます",
+                "zh": "他能将自己的血统追溯到贵族家族",
+                "fr": "Il peut retracer sa lignée jusqu'à une famille noble"
+            }
+        },
+        {
+            "word": "lineal",
+            "part_of_speech": "",
+            "origin": "Latin, linealis (of a line)",
+            "meaning": {
+                "ko": "선의",
+                "en": "good faith or goodwill",
+                "ja": "直系の",
+                "zh": "直系的",
+                "fr": "en ligne directe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "line-",
+                    "meaning": {
+                        "ko": "'선'",
+                        "en": "line",
+                        "ja": "線",
+                        "zh": "线",
+                        "fr": "ligne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'직계의', '직선으로 이어지는'이라는 뜻입니다.",
+                "en": "Meaning 'direct line' or 'in a straight line of descent'",
+                "ja": "直系の血筋、直線でつながる意味です",
+                "zh": "直系血脉、直线相连的意思",
+                "fr": "Signifie ascendance directe ou succession directe"
+            },
+            "example": "He is a lineal descendant of the king.",
+            "translation": {
+                "ko": "그는 왕의 직계 후손이다.",
+                "ja": "彼は王の直系の子孫です。",
+                "zh": "他是国王的直系后代。",
+                "fr": "Il est un descendant en ligne directe du roi."
+            }
+        },
+        {
+            "word": "lineament",
+            "part_of_speech": "",
+            "origin": "Latin, lineamentum (a line, feature)",
+            "meaning": {
+                "ko": "선, 특징",
+                "en": "line, distinctive feature",
+                "ja": "顔の線、容貌",
+                "zh": "脸部轮廓、容貌",
+                "fr": "trait du visage, physionomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "linea-",
+                    "meaning": {
+                        "ko": "'선'",
+                        "en": "line",
+                        "ja": "線",
+                        "zh": "线",
+                        "fr": "ligne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'얼굴의 선'이라는 의미에서 '얼굴 생김새', '용모'를 뜻합니다.",
+                "en": "Refers to the outline or distinctive features of a face; facial appearance or countenance",
+                "ja": "顔の線という意味から、顔の生まれつきの特徴、容貌を指します",
+                "zh": "从脸部轮廓的含义延伸，指脸部的天生特征和相貌",
+                "fr": "À partir du sens de trait du visage, désigne les contours et caractéristiques distinctives du visage"
+            },
+            "example": "The artist captured the fine lineaments of her face.",
+            "translation": {
+                "ko": "그 화가는 그녀 얼굴의 섬세한 이목구비를 포착했다.",
+                "ja": "芸術家は彼女の顔の細かい線を捉えた。",
+                "zh": "艺术家捕捉到了她脸部细致的轮廓。",
+                "fr": "L'artiste a capturé les fines lignes de son visage."
+            }
+        }
+    ]
+}

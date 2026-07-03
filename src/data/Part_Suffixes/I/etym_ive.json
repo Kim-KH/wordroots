@@ -1,0 +1,187 @@
+{
+    "root_info": {
+        "roots": "ive (tending toward) disruptive, expressive, pensive",
+        "origin": "Latin, -ivus",
+        "meaning": {
+            "ko": "…하는 경향이 있는",
+            "en": "tending toward",
+            "ja": "…する傾向がある",
+            "zh": "倾向于…",
+            "fr": "ayant tendance à…"
+        }
+    },
+    "words": [
+        {
+            "word": "disruptive",
+            "part_of_speech": "",
+            "origin": "Latin, disrumpere (to break apart)",
+            "meaning": {
+                "ko": "부수다",
+                "en": "to break or destroy",
+                "ja": "破壊的な",
+                "zh": "破坏性的",
+                "fr": "perturbateur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "apart",
+                        "ja": "離れて",
+                        "zh": "分开",
+                        "fr": "à part"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rupt-",
+                    "meaning": {
+                        "ko": "'깨뜨리다'",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "打破",
+                        "fr": "casser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ive",
+                    "meaning": {
+                        "ko": "'~하는 경향이 있는'",
+                        "en": "tending to be",
+                        "ja": "傾向がある",
+                        "zh": "有倾向于",
+                        "fr": "avoir tendance à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기존의 질서를 깨뜨리는' 경향이 있다는 의미에서 '파괴적인', '지장을 주는'이라는 뜻입니다.",
+                "en": "Means destructive or obstructive, referring to a tendency to break established order.",
+                "ja": "既存の秩序を壊す傾向がある意味で、破壊的、または支障をきたすという意味です。",
+                "zh": "指有破坏既有秩序的倾向，意思是破坏性的、妨碍性的。",
+                "fr": "Signifie destructeur ou gênant, se référant à une tendance à briser l'ordre établi."
+            },
+            "example": "His disruptive behavior was not tolerated in the classroom.",
+            "translation": {
+                "ko": "그의 파괴적인 행동은 교실에서 용납되지 않았다.",
+                "ja": "彼の破壊的な行動は教室で容認されなかった。",
+                "zh": "他破坏性的行为在教室里不被容忍。",
+                "fr": "Son comportement perturbateur n'a pas été toléré en classe."
+            }
+        },
+        {
+            "word": "expressive",
+            "part_of_speech": "",
+            "origin": "Latin, exprimere (to press out)",
+            "meaning": {
+                "ko": "밖으로 눌러내다",
+                "en": "to press out outward",
+                "ja": "表現力豊かな",
+                "zh": "富有表现力的",
+                "fr": "expressif"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "press-",
+                    "meaning": {
+                        "ko": "'누르다'",
+                        "en": "to press",
+                        "ja": "押し出す",
+                        "zh": "压出",
+                        "fr": "appuyer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ive",
+                    "meaning": {
+                        "ko": "'~하는 경향이 있는'",
+                        "en": "having tendency to",
+                        "ja": "傾向がある",
+                        "zh": "有倾向",
+                        "fr": "avoir tendance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감정을 밖으로 잘 드러내는'이라는 의미에서 '표현이 풍부한'이라는 뜻입니다.",
+                "en": "Means having rich expression, showing emotions well outward",
+                "ja": "感情を外に良く表す意味で、表現が豊かという意味です",
+                "zh": "指感情表现丰富，善于向外表达",
+                "fr": "Signifie avoir une expression riche, bien exprimer ses émotions"
+            },
+            "example": "She has a very expressive face.",
+            "translation": {
+                "ko": "그녀는 매우 표정이 풍부한 얼굴을 가지고 있다.",
+                "ja": "彼女はとても表現力豊かな顔をしている",
+                "zh": "她有一张很富有表现力的脸",
+                "fr": "Elle a un visage très expressif"
+            }
+        },
+        {
+            "word": "pensive",
+            "part_of_speech": "",
+            "origin": "Latin, pensare (to weigh, to consider)",
+            "meaning": {
+                "ko": "생각하다",
+                "en": "to think",
+                "ja": "思い込む傾向",
+                "zh": "深思熟虑的",
+                "fr": "pensif, rêveur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pens-",
+                    "meaning": {
+                        "ko": "'생각하다'",
+                        "en": "to think",
+                        "ja": "考える",
+                        "zh": "思考",
+                        "fr": "penser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ive",
+                    "meaning": {
+                        "ko": "'~하는 경향이 있는'",
+                        "en": "having tendency to",
+                        "ja": "~する傾向がある",
+                        "zh": "有~的倾向",
+                        "fr": "avoir tendance à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깊은 생각에 잠기는' 경향이 있다는 의미에서 '생각에 잠긴'이라는 뜻입니다.",
+                "en": "Implies a tendency to be absorbed in deep thought",
+                "ja": "深い思考に没頭する傾向を意味する",
+                "zh": "表示陷入深思的倾向",
+                "fr": "Indique une tendance à être absorbé dans une réflexion profonde"
+            },
+            "example": "She looked pensive.",
+            "translation": {
+                "ko": "그녀는 생각에 잠겨 보였다.",
+                "ja": "彼女は思い込んだ表情をしていた",
+                "zh": "她看起来若有所思",
+                "fr": "Elle avait l'air pensif"
+            }
+        }
+    ]
+}

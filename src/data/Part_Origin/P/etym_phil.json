@@ -1,0 +1,99 @@
+{
+    "root_info": {
+        "roots": "phil: love",
+        "origin": "Greek, philos",
+        "meaning": {
+            "ko": "사랑하는",
+            "en": "loving",
+            "ja": "愛する",
+            "zh": "热爱的",
+            "fr": "aimant"
+        }
+    },
+    "words": [
+        {
+            "word": "philosopher",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "philo",
+                    "meaning": {
+                        "ko": "사랑하는",
+                        "en": "loving",
+                        "ja": "愛する",
+                        "zh": "热爱",
+                        "fr": "aimant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "soph",
+                    "meaning": {
+                        "ko": "지혜",
+                        "en": "wisdom",
+                        "ja": "知恵",
+                        "zh": "智慧",
+                        "fr": "sagesse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지혜를 사랑하는 사람'이라는 의미에서 '철학자'를 뜻합니다.",
+                "en": "From Greek: 'one who loves wisdom.' Literally combines phil- (love) and -soph- (wisdom).",
+                "ja": "ギリシャ語由来：『知恵を愛する人』という意味です。",
+                "zh": "源自古希腊语：意为'热爱智慧的人'。",
+                "fr": "Du grec : 'celui qui aime la sagesse'. Combine phil- (amour) et -soph- (sagesse)."
+            },
+            "example": "Plato was a great philosopher.",
+            "translation": {
+                "ko": "플라톤은 위대한 철학자였다.",
+                "ja": "プラトンは偉大な哲学者でした。",
+                "zh": "柏拉图是伟大的哲学家。",
+                "fr": "Platon était un grand philosophe."
+            }
+        },
+        {
+            "word": "Philadelphia",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phil",
+                    "meaning": {
+                        "ko": "사랑",
+                        "en": "love",
+                        "ja": "愛",
+                        "zh": "爱",
+                        "fr": "amour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "adelphos",
+                    "meaning": {
+                        "ko": "형제",
+                        "en": "brother",
+                        "ja": "兄弟",
+                        "zh": "兄弟",
+                        "fr": "frère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'형제애'를 의미하는 그리스어에서 유래했으며, 미국 도시 필라델피아의 이름입니다.",
+                "en": "Derived from Greek meaning 'brotherly love', and is the name of the city Philadelphia in the United States.",
+                "ja": "兄弟愛を意味するギリシャ語に由来し、米国の都市フィラデルフィアの名前です。",
+                "zh": "源自意为'兄弟之爱'的希腊语，是美国城市费城的名称。",
+                "fr": "Dérivé du grec signifiant 'amour fraternel', et est le nom de la ville de Philadelphie aux États-Unis."
+            },
+            "example": "Philadelphia is known as the \"City of Brotherly Love.\"",
+            "translation": {
+                "ko": "필라델피아는 \"형제애의 도시\"로 알려져 있다.",
+                "ja": "フィラデルフィア",
+                "zh": "费城",
+                "fr": "Philadelphie"
+            }
+        }
+    ]
+}

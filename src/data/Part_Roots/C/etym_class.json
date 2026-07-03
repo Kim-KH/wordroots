@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "class (group) class, class-action, classification",
+        "origin": "Latin, classis (a class, division, fleet)",
+        "meaning": {
+            "ko": "계급, 집단",
+            "en": "class, division",
+            "ja": "クラス、分割",
+            "zh": "阶級，划分",
+            "fr": "classe, division"
+        }
+    },
+    "words": [
+        {
+            "word": "class",
+            "part_of_speech": "",
+            "origin": "Latin, classis (a class, division)",
+            "meaning": {
+                "ko": "계급, 집단",
+                "en": "rank or group",
+                "ja": "階級、集団",
+                "zh": "阶级、群体",
+                "fr": "classe, groupe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "class (classis)",
+                    "meaning": {
+                        "ko": "'집단'",
+                        "en": "group",
+                        "ja": "集団",
+                        "zh": "群体",
+                        "fr": "groupe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마 시민을 재산에 따라 나눈 '계급'에서 유래하여, '수업', '계층', '등급', '종류' 등 다양한 의미로 사용됩니다.",
+                "en": "Derived from the 'rank' that divided ancient Roman citizens by wealth, and is used with various meanings such as 'class', 'social stratum', 'grade', 'type', etc.",
+                "ja": "古代ローマ市民を財産に応じて分けた「階級」に由来し、「授業」「階層」「等級」「種類」など様々な意味で使われます。",
+                "zh": "源自古代罗马根据财产将市民分级的'等级'，现在用于'课程''阶层''等级''种类'等多种含义。",
+                "fr": "Dérivé du 'rang' qui divisait les citoyens romains antiques selon leur richesse, utilisé avec divers sens comme 'cours', 'couche sociale', 'grade', 'type', etc."
+            },
+            "example": "She is in my history class.",
+            "translation": {
+                "ko": "그녀는 내 역사 수업에 있다.",
+                "ja": "彼女は私の歴史の授業にいます。",
+                "zh": "她在我的历史课上。",
+                "fr": "Elle est dans mon cours d'histoire."
+            }
+        },
+        {
+            "word": "class-action",
+            "part_of_speech": "",
+            "origin": "class (group) + action (lawsuit)",
+            "meaning": {
+                "ko": "집단 소송",
+                "en": "collective lawsuit",
+                "ja": "集団訴訟",
+                "zh": "集体诉讼",
+                "fr": "action collective"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "class",
+                    "meaning": {
+                        "ko": "'집단'",
+                        "en": "group",
+                        "ja": "集団",
+                        "zh": "集团",
+                        "fr": "groupe"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "action",
+                    "meaning": {
+                        "ko": "'소송'",
+                        "en": "lawsuit",
+                        "ja": "訴訟",
+                        "zh": "诉讼",
+                        "fr": "procès"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "공통의 문제로 피해를 본 '집단(class)'이 함께 제기하는 '소송(action)'을 의미합니다.",
+                "en": "A lawsuit filed jointly by a group (class) that has suffered damages from a common issue (action).",
+                "ja": "共通の問題で被害を受けた集団(class)が一緒に提起する訴訟(action)を意味します。",
+                "zh": "由因共同问题而受害的群体(class)共同提起的诉讼(action)。",
+                "fr": "Un procès intenté conjointement par un groupe (class) ayant subi un préjudice d'une question commune (action)."
+            },
+            "example": "The victims filed a class-action lawsuit against the company.",
+            "translation": {
+                "ko": "피해자들은 그 회사를 상대로 집단 소송을 제기했다.",
+                "ja": "被害者たちは同社に対して集団訴訟を起こした。",
+                "zh": "受害者对公司提起了集体诉讼。",
+                "fr": "Les victimes ont intenté une action collective contre l'entreprise."
+            }
+        },
+        {
+            "word": "classification",
+            "part_of_speech": "",
+            "origin": "Latin, classis (class) + facere (to make)",
+            "meaning": {
+                "ko": "등급으로 만들기",
+                "en": "making into grades",
+                "ja": "分類する",
+                "zh": "分类",
+                "fr": "classification"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "classi (classis)",
+                    "meaning": {
+                        "ko": "'등급, 종류'",
+                        "en": "class",
+                        "ja": "等級、種類",
+                        "zh": "等级、类别",
+                        "fr": "classe, catégorie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fic (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造、创造",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "'과정'",
+                        "en": "process",
+                        "ja": "過程",
+                        "zh": "过程",
+                        "fr": "processus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'등급이나 종류(classi)로 만드는(fic) 과정'이라는 의미에서 '분류', '유형화'를 뜻합니다.",
+                "en": "The process of organizing things into classes or categories",
+                "ja": "ものを等級や種類に分ける過程",
+                "zh": "将事物组织成等级或类别的过程",
+                "fr": "processus d'organisation en classes ou catégories"
+            },
+            "example": "The classification of living things is a basic part of biology.",
+            "translation": {
+                "ko": "생물 분류는 생물학의 기본적인 부분이다.",
+                "ja": "生物の分類は生物学の基本的な部分です。",
+                "zh": "生物的分类是生物学的基本部分。",
+                "fr": "La classification des êtres vivants est une partie fondamentale de la biologie."
+            }
+        }
+    ]
+}

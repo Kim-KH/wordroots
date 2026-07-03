@@ -1,0 +1,254 @@
+{
+    "root_info": {
+        "roots": "tox(i) (poison) antitoxin, intoxicate, toxic, toxemia, toxicology",
+        "origin": "Greek, toxikon (poison for arrows)",
+        "meaning": {
+            "ko": "독",
+            "en": "poison",
+            "ja": "毒",
+            "zh": "毒",
+            "fr": "poison"
+        }
+    },
+    "words": [
+        {
+            "word": "antitoxin",
+            "part_of_speech": "",
+            "origin": "Greek, anti- (against) + toxikon (poison)",
+            "meaning": {
+                "ko": "독에 대항하는 것",
+                "en": "something that counteracts poison",
+                "ja": "毒素に対抗する物質",
+                "zh": "对抗毒素的物质",
+                "fr": "substance contre la toxine"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "anti-",
+                    "meaning": {
+                        "ko": "'대항하여'",
+                        "en": "against",
+                        "ja": "対抗して",
+                        "zh": "对抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "toxin",
+                    "meaning": {
+                        "ko": "'독소'",
+                        "en": "toxin",
+                        "ja": "毒素",
+                        "zh": "毒素",
+                        "fr": "toxine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'독소의 작용을 중화시키는' 물질인 '항독소'를 뜻합니다.",
+                "en": "An antitoxin is an antibody that counteracts a toxin",
+                "ja": "毒素の作用を中和する抗毒素を意味します",
+                "zh": "指中和毒素作用的抗毒素",
+                "fr": "Une antitoxine est un anticorps qui neutralise une toxine"
+            },
+            "example": "An antitoxin is an antibody that counteracts a toxin.",
+            "translation": {
+                "ko": "항독소는 독소에 대항하는 항체이다.",
+                "ja": "抗毒素",
+                "zh": "抗毒素",
+                "fr": "antitoxine"
+            }
+        },
+        {
+            "word": "intoxicate",
+            "part_of_speech": "",
+            "origin": "Latin, intoxicare (to poison)",
+            "meaning": {
+                "ko": "독을 바르다",
+                "en": "to apply poison",
+                "ja": "酔わせる",
+                "zh": "使醉",
+                "fr": "enivrer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在里面",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "toxic-",
+                    "meaning": {
+                        "ko": "'독'",
+                        "en": "poison",
+                        "ja": "毒",
+                        "zh": "毒",
+                        "fr": "poison"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸 안에 독(알코올 등)을 넣다'는 의미에서 '취하게 만들다'는 뜻입니다.",
+                "en": "From the meaning of putting poison (alcohol, etc.) into the body, it means to make drunk",
+                "ja": "体の中に毒(アルコールなど)を入れることから、酔わせることを意味します",
+                "zh": "从向体内放入毒物(酒精等)的含义引申为使人醉酒",
+                "fr": "Du sens de mettre du poison (alcool, etc.) dans le corps, cela signifie enivrer"
+            },
+            "example": "The wine was strong enough to intoxicate him.",
+            "translation": {
+                "ko": "그 와인은 그를 취하게 할 만큼 충분히 강했다.",
+                "ja": "そのワインは彼を酔わせるのに十分な強さがありました",
+                "zh": "那葡萄酒的酒精含量足以让他醉倒",
+                "fr": "Le vin était assez fort pour l'enivrer"
+            }
+        },
+        {
+            "word": "toxic",
+            "part_of_speech": "",
+            "origin": "Greek, toxikos (of a bow, for shooting)",
+            "meaning": {
+                "ko": "활의",
+                "en": "of a bow",
+                "ja": "有毒の",
+                "zh": "有毒的",
+                "fr": "toxique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tox-",
+                    "meaning": {
+                        "ko": "'독'",
+                        "en": "poison",
+                        "ja": "毒",
+                        "zh": "毒",
+                        "fr": "poison"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'독화살'에서 유래하여 '유독성의'라는 뜻이 되었습니다.",
+                "en": "Derived from poisoned arrows, meaning having toxic properties",
+                "ja": "毒矢に由来し、毒性を持つという意味になりました",
+                "zh": "源自毒箭，后来表示有毒性的意思",
+                "fr": "Dérivé des flèches empoisonnées, signifiant avoir des propriétés toxiques"
+            },
+            "example": "Some mushrooms are toxic.",
+            "translation": {
+                "ko": "일부 버섯은 독성이 있다.",
+                "ja": "いくつかのキノコは有毒です。",
+                "zh": "有些蘑菇是有毒的。",
+                "fr": "Certains champignons sont toxiques."
+            }
+        },
+        {
+            "word": "toxemia",
+            "part_of_speech": "",
+            "origin": "Greek, toxikon (poison) + haima (blood)",
+            "meaning": {
+                "ko": "피 속의 독",
+                "en": "poison in the blood",
+                "ja": "血中の毒",
+                "zh": "血液中的毒",
+                "fr": "poison dans le sang"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tox-",
+                    "meaning": {
+                        "ko": "'독'",
+                        "en": "poison",
+                        "ja": "毒",
+                        "zh": "毒",
+                        "fr": "poison"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emia",
+                    "meaning": {
+                        "ko": "'혈액 상태'",
+                        "en": "blood condition",
+                        "ja": "血液状態",
+                        "zh": "血液状态",
+                        "fr": "état sanguin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈액 속에 독소가 퍼진' 상태인 '독혈증'을 뜻합니다.",
+                "en": "A condition where toxins spread in the blood, also called blood poisoning",
+                "ja": "血液中に毒素が広がった状態を意味します",
+                "zh": "血液中毒素扩散的状态",
+                "fr": "État où les toxines se propagent dans le sang"
+            },
+            "example": "Toxemia during pregnancy can be very dangerous.",
+            "translation": {
+                "ko": "임신 중독증은 매우 위험할 수 있다.",
+                "ja": "妊娠中の毒血症は非常に危険な場合があります。",
+                "zh": "妊娠期间的血液中毒可能非常危险。",
+                "fr": "La toxémie pendant la grossesse peut être très dangereuse."
+            }
+        },
+        {
+            "word": "toxicology",
+            "part_of_speech": "",
+            "origin": "Greek, toxikon (poison) + logos (study)",
+            "meaning": {
+                "ko": "독 연구",
+                "en": "study of poisons",
+                "ja": "毒性学",
+                "zh": "毒理学",
+                "fr": "toxicologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "toxico-",
+                    "meaning": {
+                        "ko": "'독'",
+                        "en": "poison",
+                        "ja": "毒",
+                        "zh": "毒",
+                        "fr": "poison"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'독성 물질을 연구하는 학문'인 '독성학'을 뜻합니다.",
+                "en": "Toxicology refers to the study of toxic substances and their effects on living organisms.",
+                "ja": "毒性物質が生物に与える悪影響を研究する学問です",
+                "zh": "研究有毒物质对生物体有害影响的学科",
+                "fr": "Science étudiant les effets nocifs des substances toxiques sur les organismes vivants"
+            },
+            "example": "Toxicology is the study of the adverse effects of chemicals on living organisms.",
+            "translation": {
+                "ko": "독성학은 화학 물질이 살아있는 유기체에 미치는 부작용을 연구하는 학문이다.",
+                "ja": "毒性学",
+                "zh": "毒理学",
+                "fr": "toxicologie"
+            }
+        }
+    ]
+}

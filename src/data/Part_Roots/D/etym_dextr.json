@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "dextr (right) ambidextrous, dexterity, dextrose",
+        "origin": "Latin, dexter (on the right side)",
+        "meaning": {
+            "ko": "오른쪽의",
+            "en": "right",
+            "ja": "右",
+            "zh": "右",
+            "fr": "droit"
+        }
+    },
+    "words": [
+        {
+            "word": "ambidextrous",
+            "part_of_speech": "",
+            "origin": "Latin, ambi- (both) + dexter (right-handed)",
+            "meaning": {
+                "ko": "양쪽이 오른쪽인",
+                "en": "both sides are right",
+                "ja": "両手が器用",
+                "zh": "双手都灵巧",
+                "fr": "ambidextre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ambi-",
+                    "meaning": {
+                        "ko": "'양쪽의'",
+                        "en": "both",
+                        "ja": "両方の",
+                        "zh": "两个的",
+                        "fr": "les deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dextr-",
+                    "meaning": {
+                        "ko": "'오른쪽의, 능숙한'",
+                        "en": "right, skillful",
+                        "ja": "右の、巧みな",
+                        "zh": "右的、熟练的",
+                        "fr": "droit, adroit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양손이 모두 오른손처럼 능숙하다'는 의미에서 '양손을 똑같이 잘 쓰는'이라는 뜻입니다.",
+                "en": "Both hands are as skillful as the right hand",
+                "ja": "両手が右手のように巧みという意味から、両手を同等に上手に使う",
+                "zh": "从双手都如右手一样灵巧的意思出发，指双手使用同样熟练",
+                "fr": "Les deux mains aussi habiles que la main droite"
+            },
+            "example": "He was an ambidextrous pitcher, throwing with his right and left hands.",
+            "translation": {
+                "ko": "그는 오른손과 왼손으로 모두 던지는 양손잡이 투수였다.",
+                "ja": "彼は両手を器用に使う投手で、右手と左手の両方で投げることができた。",
+                "zh": "他是一位双手都灵巧的投手，可以用右手和左手投球。",
+                "fr": "C'était un lanceur ambidextre, pouvant lancer avec sa main droite et sa main gauche."
+            }
+        },
+        {
+            "word": "dexterity",
+            "part_of_speech": "",
+            "origin": "Latin, dexteritas (readiness, skill)",
+            "meaning": {
+                "ko": "능숙함",
+                "en": "skill and expertise",
+                "ja": "器用さ、巧みさ",
+                "zh": "灵巧、熟练",
+                "fr": "dextérité, adresse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dexter-",
+                    "meaning": {
+                        "ko": "'오른쪽의, 능숙한'",
+                        "en": "right, skillful",
+                        "ja": "右の、巧みな",
+                        "zh": "右边的、熟练的",
+                        "fr": "droit, habile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'오른손처럼 능숙함'이라는 의미에서 손이나 정신의 '재주', '솜씨'를 뜻합니다.",
+                "en": "Meaning skillfulness like the right hand; refers to manual or mental skill and ability",
+                "ja": "右手のような巧みさという意味から、手や心の技能や才能を指します",
+                "zh": "源自右手般的巧妙意思，指手部或心智的技能与才能",
+                "fr": "Signifie habileté comme la main droite; désigne les compétences et talents manuels ou mentaux"
+            },
+            "example": "The job requires manual dexterity.",
+            "translation": {
+                "ko": "그 일은 손재주를 필요로 한다.",
+                "ja": "この仕事は手の器用さが必要です",
+                "zh": "这项工作需要手部灵巧性",
+                "fr": "Ce travail nécessite une dextérité manuelle"
+            }
+        },
+        {
+            "word": "dextrose",
+            "part_of_speech": "",
+            "origin": "Latin, dexter (right)",
+            "meaning": {
+                "ko": "오른쪽",
+                "en": "right or rightward",
+                "ja": "右旋性ブドウ糖",
+                "zh": "右旋葡萄糖",
+                "fr": "dextrose sucre simple"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dextr-",
+                    "meaning": {
+                        "ko": "'오른쪽'",
+                        "en": "right",
+                        "ja": "右側",
+                        "zh": "右边",
+                        "fr": "droit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "(화학) 당을 나타내는 접미사",
+                        "en": "suffix indicating sugar or carbohydrate",
+                        "ja": "糖を示す接尾辞",
+                        "zh": "表示糖的后缀",
+                        "fr": "suffixe indiquant sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "편광면을 '오른쪽으로 회전시키는' 성질을 가진 당이라는 의미에서 '포도당(우선당)'을 뜻합니다.",
+                "en": "A sugar with the property of rotating the plane of polarization to the right, meaning grape sugar (dextrose)",
+                "ja": "偏光面を右側に回転させる性質を持つ糖という意味で、ブドウ糖を意味しています",
+                "zh": "具有将偏光面向右旋转性质的糖，意指葡萄糖",
+                "fr": "Sucre ayant la propriété de faire tourner le plan de polarisation vers la droite, signifiant glucose"
+            },
+            "example": "Dextrose is a simple sugar that is an important energy source in living organisms.",
+            "translation": {
+                "ko": "포도당은 살아있는 유기체의 중요한 에너지원인 단당류이다.",
+                "ja": "デキストロースは生物内で重要なエネルギー源となる単純糖です",
+                "zh": "葡萄糖是生物体内重要的能量来源的单糖",
+                "fr": "Le dextrose est un sucre simple qui est une source d'énergie importante dans les organismes vivants"
+            }
+        }
+    ]
+}

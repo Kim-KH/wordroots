@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "tele",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "멀리",
+            "en": "distance, from afar",
+            "ja": "遠く、遠方から",
+            "zh": "距离、从远处",
+            "fr": "distance, de loin"
+        }
+    },
+    "words": [
+        {
+            "word": "television",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tele",
+                    "meaning": {
+                        "ko": "멀리",
+                        "en": "far or distant",
+                        "ja": "遠く",
+                        "zh": "远处",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vision",
+                    "meaning": {
+                        "ko": "보는 것",
+                        "en": "seeing or viewing",
+                        "ja": "見ること",
+                        "zh": "看东西",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'먼 곳의 영상을 보는 장치' 즉, '텔레비전'을 뜻합니다.",
+                "en": "A device for watching images from distant places; that is, 'television'.",
+                "ja": "遠い場所の映像を見る装置、つまり『テレビジョン』を意味します。",
+                "zh": "观看远处画面的装置，即『电视』的意思。",
+                "fr": "Un appareil pour regarder des images d'endroits éloignés; c'est-à-dire, 'télévision'."
+            },
+            "example": "I like to watch television in the evening.",
+            "translation": {
+                "ko": "나는 저녁에 텔레비전 보는 것을 좋아한다.",
+                "ja": "私は夕方にテレビを見るのが好きです。",
+                "zh": "我喜欢在晚上看电视。",
+                "fr": "J'aime regarder la télévision en soirée."
+            }
+        },
+        {
+            "word": "telephone",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tele",
+                    "meaning": {
+                        "ko": "멀리",
+                        "en": "far or distant",
+                        "ja": "遠く",
+                        "zh": "远处",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phone",
+                    "meaning": {
+                        "ko": "소리",
+                        "en": "sound or voice",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'먼 곳의 소리를 전달하는 장치' 즉, '전화기'를 뜻합니다.",
+                "en": "Device that transmits sound from distant places; literally 'telephone'",
+                "ja": "遠い場所の音を伝える装置、つまり『電話機』を意味します",
+                "zh": "传送远处声音的装置，即'电话机'的意思",
+                "fr": "Appareil transmettant le son de lieux éloignés; littéralement 'téléphone'"
+            },
+            "example": "Can I use your telephone?",
+            "translation": {
+                "ko": "당신의 전화를 좀 써도 될까요?",
+                "ja": "あなたの電話を使ってもいいですか？",
+                "zh": "我能用你的电话吗？",
+                "fr": "Puis-je utiliser votre téléphone ?"
+            }
+        },
+        {
+            "word": "telegraph",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tele",
+                    "meaning": {
+                        "ko": "멀리",
+                        "en": "far or distant",
+                        "ja": "遠く",
+                        "zh": "远处",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "쓰다",
+                        "en": "to write",
+                        "ja": "書く",
+                        "zh": "写",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 글을 보내는 장치' 즉, '전신기'를 뜻합니다.",
+                "en": "A device that sends written messages over long distances, meaning telegraph machine",
+                "ja": "遠くに文字を送る装置、つまり電信機を意味します",
+                "zh": "一种向远处发送文字的装置，即电报机的意思",
+                "fr": "Un appareil qui envoie des messages écrits sur de longues distances, signifiant machine télégraphique"
+            },
+            "example": "The telegraph revolutionized communication.",
+            "translation": {
+                "ko": "전신기는 통신에 혁명을 일으켰다.",
+                "ja": "電信",
+                "zh": "电报",
+                "fr": "télégraphe"
+            }
+        },
+        {
+            "word": "telemetry",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tele",
+                    "meaning": {
+                        "ko": "멀리",
+                        "en": "far or distant",
+                        "ja": "遠く",
+                        "zh": "远处",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "metry",
+                    "meaning": {
+                        "ko": "측정",
+                        "en": "measurement",
+                        "ja": "測定",
+                        "zh": "测量",
+                        "fr": "mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리서 측정하는 기술' 즉, '원격 측정'을 뜻합니다.",
+                "en": "Technology for measuring from a distance, meaning 'remote measurement'",
+                "ja": "遠くから測定する技術、つまり『遠隔測定』を意味します",
+                "zh": "从远处进行测量的技术，即'远程测量'的意思",
+                "fr": "Technologie de mesure à distance, c'est-à-dire 'télémesure'"
+            },
+            "example": "Satellites use telemetry to send data.",
+            "translation": {
+                "ko": "위성은 데이터를 보내기 위해 원격 측정을 사용한다.",
+                "ja": "テレメトリー",
+                "zh": "遥测",
+                "fr": "télémétrie"
+            }
+        }
+    ]
+}

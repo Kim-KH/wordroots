@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "opsis (appearance) caryopsis, synopsis",
+        "origin": "Greek, opsis (a sight, appearance)",
+        "meaning": {
+            "ko": "외모, 모습",
+            "en": "appearance",
+            "ja": "外見、姿",
+            "zh": "外观、外貌",
+            "fr": "apparence, aspect"
+        }
+    },
+    "words": [
+        {
+            "word": "caryopsis",
+            "part_of_speech": "",
+            "origin": "Greek, karyon (nut) + opsis (appearance)",
+            "meaning": {
+                "ko": "견과 모습",
+                "en": "nutlet-like appearance",
+                "ja": "穀粒",
+                "zh": "谷粒",
+                "fr": "caryopse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cary-",
+                    "meaning": {
+                        "ko": "'견과'",
+                        "en": "nut",
+                        "ja": "堅果",
+                        "zh": "坚果",
+                        "fr": "noix"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opsis",
+                    "meaning": {
+                        "ko": "'모습'",
+                        "en": "appearance",
+                        "ja": "外観",
+                        "zh": "外观",
+                        "fr": "apparence"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'견과처럼 보이는' 벼과 식물의 열매인 '영과(穎果)'를 뜻합니다.",
+                "en": "A caryopsis is a type of simple dry fruit that resembles a nut, characteristic of grasses and cereals.",
+                "ja": "イネ科植物の果実で、堅果のように見える単純乾果である穎果のこと。",
+                "zh": "禾本科植物的果实，形似坚果的单果，称为颖果。",
+                "fr": "Fruit sec simple ressemblant à une noix, caractéristique des graminées et céréales."
+            },
+            "example": "A caryopsis is a type of simple dry fruit.",
+            "translation": {
+                "ko": "영과는 단과(單果) 중 건조과의 한 종류이다.",
+                "ja": "穎果は単純乾果の一種である。",
+                "zh": "颖果是一种简单的干果。",
+                "fr": "Une caryopse est un type de fruit sec simple."
+            }
+        },
+        {
+            "word": "synopsis",
+            "part_of_speech": "",
+            "origin": "Greek, synopsis (a comprehensive view)",
+            "meaning": {
+                "ko": "함께 보기",
+                "en": "viewing together",
+                "ja": "概要、あらすじ",
+                "zh": "概要、情节梗概",
+                "fr": "résumé, synopsis"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "syn-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opsis",
+                    "meaning": {
+                        "ko": "'보기'",
+                        "en": "view",
+                        "ja": "見る",
+                        "zh": "看、观看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전체를 함께 볼 수 있도록 요약한 것'이라는 의미에서 '개요', '줄거리'를 뜻합니다.",
+                "en": "Meaning overview or plot summary from the concept of viewing the whole together",
+                "ja": "全体を一緒に見られるように要約したもので、概要や筋書きを意味します",
+                "zh": "指能够一起看到整体的摘要，意思是概要或情节梗概",
+                "fr": "Signifie un résumé permettant de voir l'ensemble, c'est-à-dire un aperçu ou un résumé de l'intrigue"
+            },
+            "example": "Please provide a brief synopsis of the book.",
+            "translation": {
+                "ko": "그 책의 간략한 줄거리를 제공해 주세요.",
+                "ja": "本の概要を簡潔に説明してください。",
+                "zh": "请提供这本书的简要概述。",
+                "fr": "Veuillez fournir un bref résumé du livre."
+            }
+        }
+    ]
+}

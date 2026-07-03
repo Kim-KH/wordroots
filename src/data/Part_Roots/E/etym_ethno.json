@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "ethno (race) ethnic, ethnicity",
+        "origin": "Greek, ethnos (nation, people)",
+        "meaning": {
+            "ko": "민족",
+            "en": "nation, people",
+            "ja": "民族",
+            "zh": "民族",
+            "fr": "nation"
+        }
+    },
+    "words": [
+        {
+            "word": "ethnic",
+            "part_of_speech": "",
+            "origin": "Greek, ethnikos (of a nation)",
+            "meaning": {
+                "ko": "민족의",
+                "en": "of or relating to a people or nation",
+                "ja": "民族の、人種の",
+                "zh": "民族的、种族的",
+                "fr": "ethnique, relatif à un peuple"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ethn-",
+                    "meaning": {
+                        "ko": "'민족'",
+                        "en": "nation, race",
+                        "ja": "民族、人種",
+                        "zh": "民族、种族",
+                        "fr": "nation, peuple, race"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 민족이나 인종 집단의'이라는 뜻입니다.",
+                "en": "Describes characteristics related to a specific ethnic or racial group",
+                "ja": "特定の民族または人種集団に関連する特性を表します",
+                "zh": "描述与特定民族或种族群体相关的特征",
+                "fr": "Décrit les caractéristiques liées à un groupe ethnique ou racial spécifique"
+            },
+            "example": "The city has a diverse ethnic population.",
+            "translation": {
+                "ko": "그 도시는 다양한 민족 인구를 가지고 있다.",
+                "ja": "その都市は多様な民族構成を持っています",
+                "zh": "这座城市有多样化的民族人口",
+                "fr": "La ville a une population ethnique diverse"
+            }
+        },
+        {
+            "word": "ethnicity",
+            "part_of_speech": "",
+            "origin": "Greek, ethnikos (of a nation)",
+            "meaning": {
+                "ko": "민족의",
+                "en": "of or relating to ethnicity",
+                "ja": "民族性",
+                "zh": "民族性",
+                "fr": "ethnicité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ethn-",
+                    "meaning": {
+                        "ko": "'민족'",
+                        "en": "nation, race",
+                        "ja": "民族、人種",
+                        "zh": "民族、种族",
+                        "fr": "nation, race"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'민족적 배경' 또는 '민족성'을 뜻합니다.",
+                "en": "Refers to ethnic background or ethnicity",
+                "ja": "民族的背景または民族性を意味します",
+                "zh": "指民族背景或民族特征",
+                "fr": "Désigne l'origine ethnique ou l'appartenance ethnique"
+            },
+            "example": "The survey asked for information about age, gender, and ethnicity.",
+            "translation": {
+                "ko": "그 설문조사는 나이, 성별, 민족에 대한 정보를 물었다.",
+                "ja": "調査は年齢、性別、民族性についての情報を求めました。",
+                "zh": "调查询问了年龄、性别和民族性的信息。",
+                "fr": "L'enquête a demandé des informations sur l'âge, le sexe et l'ethnicité."
+            }
+        }
+    ]
+}

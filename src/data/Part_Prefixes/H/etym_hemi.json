@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "hemi (half) hemisphere, hemicycle, hemiplegia",
+        "origin": "Greek, hemi- (half)",
+        "meaning": {
+            "ko": "절반",
+            "en": "half",
+            "ja": "半分",
+            "zh": "一半",
+            "fr": "moitié"
+        }
+    },
+    "words": [
+        {
+            "word": "hemisphere",
+            "part_of_speech": "",
+            "origin": "Greek, hemisphairion (half a sphere)",
+            "meaning": {
+                "ko": "구의 절반",
+                "en": "half of a sphere",
+                "ja": "球の半分",
+                "zh": "球体的一半",
+                "fr": "moitié d'une sphère"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hemi-",
+                    "meaning": {
+                        "ko": "'절반'",
+                        "en": "half",
+                        "ja": "半分",
+                        "zh": "一半",
+                        "fr": "moitié"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sphere",
+                    "meaning": {
+                        "ko": "'구'",
+                        "en": "sphere",
+                        "ja": "球",
+                        "zh": "球体",
+                        "fr": "sphère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'구의 절반'이라는 의미로 지구의 '반구' 또는 뇌의 '반구'를 뜻합니다.",
+                "en": "Refers to half of a sphere, such as the hemispheres of Earth or brain",
+                "ja": "球体の半分を意味し、地球や脳の半球を指します",
+                "zh": "指球体的一半，如地球或大脑的半球",
+                "fr": "Désigne la moitié d'une sphère, comme les hémisphères terrestres ou cérébraux"
+            },
+            "example": "Australia is in the Southern Hemisphere.",
+            "translation": {
+                "ko": "호주는 남반구에 있다.",
+                "ja": "オーストラリアは南半球にあります",
+                "zh": "澳大利亚位于南半球",
+                "fr": "L'Australie est dans l'hémisphère sud"
+            }
+        },
+        {
+            "word": "hemicycle",
+            "part_of_speech": "",
+            "origin": "Greek, hemikyklion (semicircle)",
+            "meaning": {
+                "ko": "반원",
+                "en": "semicircle",
+                "ja": "半円",
+                "zh": "半圆",
+                "fr": "hémicycle"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hemi-",
+                    "meaning": {
+                        "ko": "'절반'",
+                        "en": "half",
+                        "ja": "半分",
+                        "zh": "一半",
+                        "fr": "moitié"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cycle (kyklos)",
+                    "meaning": {
+                        "ko": "'원'",
+                        "en": "circle",
+                        "ja": "円",
+                        "zh": "圆",
+                        "fr": "cercle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원의 절반'이라는 의미에서 '반원' 또는 '반원형의 건물(극장 등)'을 뜻합니다.",
+                "en": "A semicircle or a building shaped like a semicircle, such as a theater or parliament chamber",
+                "ja": "円の半分という意味で、半円または半円形の建物(劇場など)を意味します",
+                "zh": "指圆的一半或半圆形建筑物(如剧院等)",
+                "fr": "Un demi-cercle ou un bâtiment en forme de demi-cercle, comme un théâtre ou une chambre parlementaire"
+            },
+            "example": "The chairs in the council chamber were arranged in a hemicycle.",
+            "translation": {
+                "ko": "의회 회의장의 의자들은 반원형으로 배열되어 있었다.",
+                "ja": "評議会議場の椅子は半円形に配置されていました。",
+                "zh": "议会议室的椅子呈半圆形排列。",
+                "fr": "Les chaises dans la chambre du conseil étaient disposées en hémicycle."
+            }
+        },
+        {
+            "word": "hemiplegia",
+            "part_of_speech": "",
+            "origin": "Greek, hemiplegia (paralysis of one side of the body)",
+            "meaning": {
+                "ko": "몸 한쪽의 마비",
+                "en": "paralysis of one side of body",
+                "ja": "身体片側の麻痺",
+                "zh": "身体一侧的瘫痪",
+                "fr": "paralysie d'un côté du corps"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hemi-",
+                    "meaning": {
+                        "ko": "'절반'",
+                        "en": "half",
+                        "ja": "半分",
+                        "zh": "一半",
+                        "fr": "moitié"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plegia (plege)",
+                    "meaning": {
+                        "ko": "'타격, 마비'",
+                        "en": "a stroke, paralysis",
+                        "ja": "打撃、麻痺",
+                        "zh": "中风、瘫痪",
+                        "fr": "coup, paralysie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸의 절반이 마비된 상태'를 의미하는 의학 용어로 '편마비', '반신불수'를 뜻합니다.",
+                "en": "Medical term meaning paralysis of half the body, also called one-sided paralysis or hemiparalysis",
+                "ja": "身体の半分が麻痺した状態を意味する医学用語で、片側麻痺または半身不随を指します",
+                "zh": "医学术语，指身体一半瘫痪的状态，也称为片侧麻痹或半身不遂",
+                "fr": "Terme médical signifiant l'état de paralysie de la moitié du corps, également appelé paralysie unilatérale"
+            },
+            "example": "The stroke resulted in hemiplegia on his left side.",
+            "translation": {
+                "ko": "그 뇌졸중은 그의 왼쪽 몸에 편마비를 초래했다.",
+                "ja": "脳卒中により彼の左側に編麻痺が生じた",
+                "zh": "中风导致他左侧半身不遂",
+                "fr": "L'accident vasculaire cérébral a entraîné une hémiplégie du côté gauche"
+            }
+        }
+    ]
+}

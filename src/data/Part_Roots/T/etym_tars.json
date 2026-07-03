@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "tars (ankle) metatarsal, tarsier, tarsus",
+        "origin": "Greek, tarsos (a flat surface, sole of the foot)",
+        "meaning": {
+            "ko": "평평한 표면",
+            "en": "a flat surface",
+            "ja": "平らな表面",
+            "zh": "平坦的表面",
+            "fr": "une surface plane"
+        }
+    },
+    "words": [
+        {
+            "word": "metatarsal",
+            "part_of_speech": "",
+            "origin": "Greek, meta- (beyond) + tarsos (ankle)",
+            "meaning": {
+                "ko": "발목 너머",
+                "en": "beyond the ankle",
+                "ja": "中足骨の",
+                "zh": "跖骨的",
+                "fr": "métatarsien"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "meta-",
+                    "meaning": {
+                        "ko": "'~ 너머'",
+                        "en": "beyond",
+                        "ja": "超えて",
+                        "zh": "超越",
+                        "fr": "au-delà de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tarsal",
+                    "meaning": {
+                        "ko": "'발목의'",
+                        "en": "of the ankle",
+                        "ja": "足首の",
+                        "zh": "跗骨的",
+                        "fr": "du tarse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발목 너머에 있는' 발의 뼈라는 의미에서 '중족골의'라는 뜻입니다.",
+                "en": "Bone of the foot located beyond the ankle, meaning metatarsal",
+                "ja": "足首を超えた位置にある足の骨という意味で、中足骨を指します",
+                "zh": "位于脚踝之外的足部骨骼，意为跖骨",
+                "fr": "Os du pied situé au-delà de la cheville, signifiant métatarsien"
+            },
+            "example": "He suffered a metatarsal fracture.",
+            "translation": {
+                "ko": "그는 중족골 골절을 당했다.",
+                "ja": "彼は中足骨骨折に苦しんでいた",
+                "zh": "他患了跖骨骨折",
+                "fr": "Il a souffert d'une fracture métatarsienne"
+            }
+        },
+        {
+            "word": "tarsier",
+            "part_of_speech": "",
+            "origin": "Greek, tarsos (ankle)",
+            "meaning": {
+                "ko": "발목",
+                "en": "발목",
+                "ja": "眼鏡猿",
+                "zh": "眼镜猴",
+                "fr": "tarsier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tars-",
+                    "meaning": {
+                        "ko": "'발목'",
+                        "en": "ankle",
+                        "ja": "足首",
+                        "zh": "脚踝",
+                        "fr": "cheville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'긴 발목뼈'를 가진 것이 특징인 '안경원숭이'를 뜻합니다.",
+                "en": "A small primate characterized by having long tarsal bones",
+                "ja": "長い足根骨を持つことが特徴の小型霊長類",
+                "zh": "以拥有长足跗骨为特征的小型灵长类动物",
+                "fr": "Un petit primate caractérisé par de longs os tarsiens"
+            },
+            "example": "The tarsier is a small primate with enormous eyes.",
+            "translation": {
+                "ko": "안경원숭이는 거대한 눈을 가진 작은 영장류이다.",
+                "ja": "眼鏡猿は非常に大きな目を持つ小型の霊長類です。",
+                "zh": "眼镜猴是一种拥有巨大眼睛的小型灵长类动物。",
+                "fr": "Le tarsier est un petit primate aux yeux énormes."
+            }
+        },
+        {
+            "word": "tarsus",
+            "part_of_speech": "",
+            "origin": "Greek, tarsos (ankle)",
+            "meaning": {
+                "ko": "발목",
+                "en": "ankle bone",
+                "ja": "足根骨",
+                "zh": "跗骨",
+                "fr": "tarse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tars-",
+                    "meaning": {
+                        "ko": "'발목'",
+                        "en": "ankle",
+                        "ja": "足根骨",
+                        "zh": "跗骨",
+                        "fr": "tarse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발목' 또는 '발목뼈'를 뜻하는 해부학 용어입니다.",
+                "en": "Anatomical term meaning ankle or ankle bone.",
+                "ja": "足首または足首の骨を意味する解剖学用語です。",
+                "zh": "指脚踝或脚踝骨的解剖学术语。",
+                "fr": "Terme anatomique désignant la cheville ou l'os de la cheville."
+            },
+            "example": "The tarsus consists of seven bones.",
+            "translation": {
+                "ko": "족근골은 7개의 뼈로 구성된다.",
+                "ja": "足根骨は7つの骨から構成されています。",
+                "zh": "跗骨由七块骨头组成。",
+                "fr": "Le tarse se compose de sept os."
+            }
+        }
+    ]
+}

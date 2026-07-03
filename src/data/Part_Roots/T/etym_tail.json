@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "tail (cut) curtail, detail, retail, tailor",
+        "origin": "French, tailler (to cut)",
+        "meaning": {
+            "ko": "자르다",
+            "en": "to cut",
+            "ja": "切る",
+            "zh": "切割",
+            "fr": "couper"
+        }
+    },
+    "words": [
+        {
+            "word": "curtail",
+            "part_of_speech": "",
+            "origin": "Middle English, curtal (having a docked tail)",
+            "meaning": {
+                "ko": "꼬리가 잘린",
+                "en": "having tail cut short",
+                "ja": "短くする",
+                "zh": "缩短",
+                "fr": "raccourcir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curt- (curtus 'short')",
+                    "meaning": {
+                        "ko": "'짧은'",
+                        "en": "short",
+                        "ja": "短い",
+                        "zh": "短的",
+                        "fr": "court"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tail",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'꼬리를 잘라 짧게 만들다'는 의미에서 '축소하다', '삭감하다'라는 뜻이 되었습니다.",
+                "en": "From the sense of cutting a tail short, meaning to reduce or cut back",
+                "ja": "尾を短く切ることから、削減する、減らすという意味になりました",
+                "zh": "从切短尾巴的意思演变为减少、削减的含义",
+                "fr": "Du sens de raccourcir une queue, devenu réduire ou diminuer"
+            },
+            "example": "The government decided to curtail spending.",
+            "translation": {
+                "ko": "정부는 지출을 삭감하기로 결정했다.",
+                "ja": "政府は支出を削減することを決めた",
+                "zh": "政府决定削减支出",
+                "fr": "Le gouvernement a décidé de réduire les dépenses"
+            }
+        },
+        {
+            "word": "detail",
+            "part_of_speech": "",
+            "origin": "French, détailler (to cut into pieces)",
+            "meaning": {
+                "ko": "조각으로 자르다",
+                "en": "to cut into pieces",
+                "ja": "細部、詳細",
+                "zh": "细节、详情",
+                "fr": "détail, particularité"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "off, apart",
+                        "ja": "離れて、分離して",
+                        "zh": "离开、分开",
+                        "fr": "séparé, à part"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tail",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전체에서 잘라낸 작은 부분'이라는 의미에서 '세부 사항'을 뜻합니다.",
+                "en": "Meaning small parts cut from the whole, referring to specific details or particulars.",
+                "ja": "全体から切り取られた小さな部分という意味から、細部や詳細を指します。",
+                "zh": "从整体中切割出的小部分之意，指细节或具体内容。",
+                "fr": "Signifie petites parties coupées de l'ensemble, se référant aux détails ou aux spécificités."
+            },
+            "example": "Please give me all the details.",
+            "translation": {
+                "ko": "모든 세부 사항을 알려주세요.",
+                "ja": "すべての詳細を教えてください。",
+                "zh": "请告诉我所有细节。",
+                "fr": "Veuillez me donner tous les détails."
+            }
+        },
+        {
+            "word": "retail",
+            "part_of_speech": "",
+            "origin": "Old French, retailler (to cut off a piece)",
+            "meaning": {
+                "ko": "조각을 잘라내다",
+                "en": "to cut into pieces",
+                "ja": "小売、切り売りする",
+                "zh": "零售、分割出售",
+                "fr": "vente au détail"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tail",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'큰 덩어리에서 잘라내어 다시 팔다'는 의미에서 '소매'를 뜻합니다.",
+                "en": "Selling in small quantities cut from a large bulk",
+                "ja": "大量の塊から切り分けて再び販売することを意味します",
+                "zh": "从大量货物中切分后再次出售的意思",
+                "fr": "Vendre en petites quantités séparées d'un lot volumineux"
+            },
+            "example": "The retail price is much higher than the wholesale price.",
+            "translation": {
+                "ko": "소매가는 도매가보다 훨씬 높다.",
+                "ja": "小売価格は卸売価格よりもはるかに高い。",
+                "zh": "零售价格远高于批发价格。",
+                "fr": "Le prix de détail est beaucoup plus élevé que le prix de gros."
+            }
+        },
+        {
+            "word": "tailor",
+            "part_of_speech": "",
+            "origin": "Old French, tailleur (a cutter)",
+            "meaning": {
+                "ko": "자르는 사람",
+                "en": "person who cuts",
+                "ja": "洋服を仕立てる人",
+                "zh": "裁缝",
+                "fr": "tailleur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tail-",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'옷감을 잘라 옷을 만드는 사람'인 '재단사'를 뜻합니다.",
+                "en": "A person who cuts and makes clothes from fabric",
+                "ja": "布地を切って衣服を作る人",
+                "zh": "从布料裁剪并制作衣服的人",
+                "fr": "personne qui coupe et confectionne vêtements"
+            },
+            "example": "I need to take this suit to the tailor.",
+            "translation": {
+                "ko": "나는 이 정장을 재단사에게 가져가야 한다.",
+                "ja": "このスーツを仕立て屋に持っていく必要があります。",
+                "zh": "我需要把这套西装送到裁缝那里。",
+                "fr": "Je dois apporter ce costume chez le tailleur."
+            }
+        }
+    ]
+}

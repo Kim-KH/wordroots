@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "aqua (water) aquarium, aqueous, aquifer",
+        "origin": "Latin, aqua (water)",
+        "meaning": {
+            "ko": "물",
+            "en": "water",
+            "ja": "水",
+            "zh": "水",
+            "fr": "eau"
+        }
+    },
+    "words": [
+        {
+            "word": "aquarium",
+            "part_of_speech": "",
+            "origin": "Latin, aquarium (place for water)",
+            "meaning": {
+                "ko": "물을 위한 장소",
+                "en": "place for water",
+                "ja": "水のための場所",
+                "zh": "水的地方",
+                "fr": "lieu pour l'eau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aqua",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-arium",
+                    "meaning": {
+                        "ko": "'장소'",
+                        "en": "place for",
+                        "ja": "場所",
+                        "zh": "地方",
+                        "fr": "lieu pour"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물(aqua)을 위한 장소(arium)'라는 의미로, 물고기나 수중 생물을 기르고 전시하는 '수족관'을 뜻합니다.",
+                "en": "Aquarium means a facility where fish and aquatic creatures are bred and displayed, derived from aqua (water) and arium (place for).",
+                "ja": "アクアリウムは、水(aqua)のための場所(arium)という意味で、魚や水中生物を飼育・展示する施設を指します。",
+                "zh": "水族馆是由aqua（水）和arium（...的地方）组成，指饲养和展示鱼类及水生生物的设施。",
+                "fr": "L'aquarium signifie une installation où les poissons et créatures aquatiques sont élevés et exposés, dérivé d'aqua (eau) et arium (lieu pour)."
+            },
+            "example": "The children love to watch the colorful fish at the aquarium.",
+            "translation": {
+                "ko": "아이들은 수족관에서 형형색색의 물고기를 보는 것을 좋아한다.",
+                "ja": "その子どもたちは水族館でカラフルな魚を見るのが大好きです。",
+                "zh": "孩子们喜欢在水族馆里看彩色的鱼。",
+                "fr": "Les enfants adorent regarder les poissons colorés à l'aquarium."
+            }
+        },
+        {
+            "word": "aqueous",
+            "part_of_speech": "",
+            "origin": "Latin, aqueus (watery)",
+            "meaning": {
+                "ko": "물의",
+                "en": "watery",
+                "ja": "水性の",
+                "zh": "水性的",
+                "fr": "aqueux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aqua",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "'~으로 이루어진'",
+                        "en": "composed of, made of",
+                        "ja": "〜でできている",
+                        "zh": "由〜组成",
+                        "fr": "composé de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물(aqua)로 이루어진'이라는 뜻으로, '물의', '수성의', 또는 물에 녹는 '수용성의'라는 의미로 사용됩니다.",
+                "en": "Meaning 'made of water (aqua)', used to describe something watery, aquatic, or water-soluble.",
+                "ja": "水(aqua)でできているという意味で、水性の、水溶性のという意味で使われます。",
+                "zh": "意为由水(aqua)组成，用来描述水性的、可溶于水的性质。",
+                "fr": "Signifiant 'composé d'eau (aqua)', utilisé pour décrire quelque chose d'aqueux ou soluble dans l'eau."
+            },
+            "example": "An aqueous solution is a solution in which the solvent is water.",
+            "translation": {
+                "ko": "수용액은 물이 용매인 용액이다.",
+                "ja": "水溶液とは溶媒が水である溶液です。",
+                "zh": "水溶液是溶剂为水的溶液。",
+                "fr": "Une solution aqueuse est une solution dans laquelle le solvant est l'eau."
+            }
+        },
+        {
+            "word": "aquifer",
+            "part_of_speech": "",
+            "origin": "Latin, aqua (water) + ferre (to bear)",
+            "meaning": {
+                "ko": "물을 품고 있는",
+                "en": "water-bearing",
+                "ja": "帯水層",
+                "zh": "含水层",
+                "fr": "nappe phréatique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aqui (aqua)",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer (ferre)",
+                    "meaning": {
+                        "ko": "'품다, 나르다'",
+                        "en": "to bear, carry",
+                        "ja": "運ぶ、保つ",
+                        "zh": "承载、携带",
+                        "fr": "porter, supporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물(aqui)을 품고 있는(fer) 지층'이라는 의미로, 지하수를 함유한 '대수층'을 가리키는 지질학 용어입니다.",
+                "en": "A geological term referring to an underground layer of rock or sediment that contains groundwater, derived from Latin 'aqua' (water) and 'ferre' (to bear/carry).",
+                "ja": "地下水を含む地層を指す地質学用語で、ラテン語の'aqua'(水)と'ferre'(運ぶ)から派生している。",
+                "zh": "指含有地下水的地下岩石或沉积层，来自拉丁语'aqua'(水)和'ferre'(承载)。",
+                "fr": "Terme géologique désignant une couche souterraine de roche ou de sédiment contenant de l'eau souterraine, dérivé du latin 'aqua' (eau) et 'ferre' (porter)."
+            },
+            "example": "The town gets its drinking water from a large underground aquifer.",
+            "translation": {
+                "ko": "그 마을은 거대한 지하 대수층에서 식수를 얻는다.",
+                "ja": "その町は大きな地下帯水層から飲料水を得ている。",
+                "zh": "这个小镇从一个很大的地下含水层获取饮用水。",
+                "fr": "La ville obtient son eau potable d'une grande nappe phréatique souterraine."
+            }
+        }
+    ]
+}

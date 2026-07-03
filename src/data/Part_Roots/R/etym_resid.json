@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "resid (remain) reside, residual, residue, residence",
+        "origin": "Latin, residere (to remain behind)",
+        "meaning": {
+            "ko": "뒤에 남다",
+            "en": "to remain behind",
+            "ja": "後ろに残る",
+            "zh": "留在后面",
+            "fr": "rester en arrière"
+        }
+    },
+    "words": [
+        {
+            "word": "reside",
+            "part_of_speech": "",
+            "origin": "Latin, residere (to remain)",
+            "meaning": {
+                "ko": "남다",
+                "en": "to remain, to stay",
+                "ja": "住む",
+                "zh": "居住",
+                "fr": "résider"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤에'",
+                        "en": "back",
+                        "ja": "後ろに",
+                        "zh": "后面",
+                        "fr": "arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "side (sidere)",
+                    "meaning": {
+                        "ko": "'앉다'",
+                        "en": "to sit",
+                        "ja": "座る",
+                        "zh": "坐",
+                        "fr": "s'asseoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤에 앉아 머무르다'는 의미에서 '거주하다', '살다'라는 뜻입니다.",
+                "en": "Originally meant 'sit back and remain', now means 'to reside' or 'to live'",
+                "ja": "もともと「後ろに座って留まる」という意味から、「居住する」「住む」という意味になった",
+                "zh": "源自「坐在后面并停留」的含义，现指「居住」或「生活」",
+                "fr": "Signifiait à l'origine 's'asseoir à l'arrière et rester', maintenant signifie 'résider' ou 'vivre'"
+            },
+            "example": "He resides in a small town.",
+            "translation": {
+                "ko": "그는 작은 마을에 거주한다.",
+                "ja": "彼は小さな町に住んでいます。",
+                "zh": "他住在一个小镇上。",
+                "fr": "Il réside dans une petite ville."
+            }
+        },
+        {
+            "word": "residual",
+            "part_of_speech": "",
+            "origin": "Latin, residuum (a remainder)",
+            "meaning": {
+                "ko": "남은 것",
+                "en": "something remaining or left over",
+                "ja": "残された",
+                "zh": "残留的",
+                "fr": "résiduel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "resid-",
+                    "meaning": {
+                        "ko": "'남다'",
+                        "en": "to remain",
+                        "ja": "残る",
+                        "zh": "保留",
+                        "fr": "rester"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'처리 후에 남은'이라는 의미에서 '잔여의'라는 뜻입니다.",
+                "en": "Means 'remaining after processing'",
+                "ja": "処理後に残る意味で'残余の'という意味です",
+                "zh": "处理后保留下来的'剩余的'之意",
+                "fr": "Signifie 'subsistant après traitement'"
+            },
+            "example": "There was some residual smoke in the air.",
+            "translation": {
+                "ko": "공기 중에 약간의 잔여 연기가 있었다.",
+                "ja": "空気中に残った煙がありました",
+                "zh": "空气中有一些残留的烟雾",
+                "fr": "Il y avait de la fumée résiduelle dans l'air"
+            }
+        },
+        {
+            "word": "residue",
+            "part_of_speech": "",
+            "origin": "Latin, residuum (a remainder)",
+            "meaning": {
+                "ko": "남은 것",
+                "en": "something left remaining",
+                "ja": "残された物",
+                "zh": "剩余物",
+                "fr": "résidu"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "resid-",
+                    "meaning": {
+                        "ko": "'남다'",
+                        "en": "to remain",
+                        "ja": "残る",
+                        "zh": "保留",
+                        "fr": "rester"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 과정이 끝난 뒤에 남은 것'인 '잔여물'을 뜻합니다.",
+                "en": "Refers to a residue or remnant left after a process is completed",
+                "ja": "ある過程が終わった後に残ったもの",
+                "zh": "指某个过程结束后留下的残留物",
+                "fr": "Désigne un résidu laissé après un processus"
+            },
+            "example": "A sticky residue was left on the table.",
+            "translation": {
+                "ko": "끈적끈적한 잔여물이 테이블에 남았다.",
+                "ja": "テーブルの上に粘着性の残留物が残っていました",
+                "zh": "桌子上留下了粘性的残留物",
+                "fr": "Un résidu collant a été laissé sur la table"
+            }
+        },
+        {
+            "word": "residence",
+            "part_of_speech": "",
+            "origin": "Latin, residentia (a residing)",
+            "meaning": {
+                "ko": "거주",
+                "en": "residence or dwelling",
+                "ja": "住む場所",
+                "zh": "居住地",
+                "fr": "lieu de résidence"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "resid-",
+                    "meaning": {
+                        "ko": "'거주하다'",
+                        "en": "to reside",
+                        "ja": "住む",
+                        "zh": "居住",
+                        "fr": "résider"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사는 곳'인 '주택', '거주지'를 뜻합니다.",
+                "en": "Refers to a house or dwelling where someone lives",
+                "ja": "人が住んでいる家や住処を意味します",
+                "zh": "指某人居住的房子或住所",
+                "fr": "Désigne une maison ou un lieu où quelqu'un habite"
+            },
+            "example": "His official residence is in the capital city.",
+            "translation": {
+                "ko": "그의 공식 거주지는 수도에 있다.",
+                "ja": "彼の公式な住居は首都にあります",
+                "zh": "他的官方住所在首都",
+                "fr": "Sa résidence officielle se trouve dans la capitale"
+            }
+        }
+    ]
+}

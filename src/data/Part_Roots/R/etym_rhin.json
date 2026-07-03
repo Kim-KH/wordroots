@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "rhin(o) (nose) rhinoceros, rhinoplasty, rhinoscopy",
+        "origin": "Greek, rhis, rhinos (the nose)",
+        "meaning": {
+            "ko": "코",
+            "en": "nose",
+            "ja": "鼻",
+            "zh": "鼻",
+            "fr": "nez"
+        }
+    },
+    "words": [
+        {
+            "word": "rhinoceros",
+            "part_of_speech": "",
+            "origin": "Greek, rhinokeros",
+            "meaning": {
+                "ko": "코 뿔",
+                "en": "nose horn",
+                "ja": "鼻に角がある動物",
+                "zh": "鼻子上有角的动物",
+                "fr": "animal avec une corne sur le nez"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rhino-",
+                    "meaning": {
+                        "ko": "'코'",
+                        "en": "nose",
+                        "ja": "鼻",
+                        "zh": "鼻子",
+                        "fr": "nez"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceros",
+                    "meaning": {
+                        "ko": "'뿔'",
+                        "en": "horn",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "corne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'코에 뿔이 달린 동물'이라는 의미에서 '코뿔소'를 뜻합니다.",
+                "en": "A large mammal with a horn on its nose",
+                "ja": "鼻に角が生えた大きな哺乳動物という意味から、サイを指します",
+                "zh": "从鼻子上长角的大型哺乳动物的意思来看，指的是犀牛",
+                "fr": "Du sens d'un grand mammifère avec une corne sur le nez, cela désigne le rhinocéros"
+            },
+            "example": "The rhinoceros is a large, endangered mammal.",
+            "translation": {
+                "ko": "코뿔소는 크고 멸종 위기에 처한 포유동물이다.",
+                "ja": "サイは大きく絶滅危機にある哺乳動物です",
+                "zh": "犀牛是一种大型的濒危哺乳动物",
+                "fr": "Le rhinocéros est un grand mammifère en danger d'extinction"
+            }
+        },
+        {
+            "word": "rhinoplasty",
+            "part_of_speech": "",
+            "origin": "Greek, rhis (nose) + plastos (formed, molded)",
+            "meaning": {
+                "ko": "코 성형",
+                "en": "nose surgery",
+                "ja": "鼻形成術",
+                "zh": "鼻部整形术",
+                "fr": "rhinoplastie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rhino-",
+                    "meaning": {
+                        "ko": "'코'",
+                        "en": "nose",
+                        "ja": "鼻",
+                        "zh": "鼻",
+                        "fr": "nez"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plasty",
+                    "meaning": {
+                        "ko": "'성형술'",
+                        "en": "surgical repair",
+                        "ja": "外科的修復術",
+                        "zh": "外科修复术",
+                        "fr": "réparation chirurgicale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'코를 외과적으로 교정하는 수술'인 '코 성형 수술'을 뜻합니다.",
+                "en": "Surgical procedure to correct the shape of the nose",
+                "ja": "鼻の形を外科的に修正する手術",
+                "zh": "外科手术矫正鼻子的形状",
+                "fr": "Intervention chirurgicale pour corriger la forme du nez"
+            },
+            "example": "She had a rhinoplasty to change the shape of her nose.",
+            "translation": {
+                "ko": "그녀는 코 모양을 바꾸기 위해 코 성형 수술을 받았다.",
+                "ja": "彼女は鼻の形を変えるために鼻形成術を受けた。",
+                "zh": "她做了鼻部整形术来改变鼻子的形状。",
+                "fr": "Elle a subi une rhinoplastie pour changer la forme de son nez."
+            }
+        },
+        {
+            "word": "rhinoscopy",
+            "part_of_speech": "",
+            "origin": "Greek, rhis (nose) + skopein (to view)",
+            "meaning": {
+                "ko": "코를 보는 것",
+                "en": "examination of the nose",
+                "ja": "鼻腔検査",
+                "zh": "鼻腔检查",
+                "fr": "rhinoscopie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rhino-",
+                    "meaning": {
+                        "ko": "'코'",
+                        "en": "nose",
+                        "ja": "鼻",
+                        "zh": "鼻",
+                        "fr": "nez"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scopy",
+                    "meaning": {
+                        "ko": "'검사'",
+                        "en": "viewing",
+                        "ja": "検査",
+                        "zh": "检查",
+                        "fr": "examen"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'코의 내부를 검사하는' 의료 행위인 '비강 검사'를 뜻합니다.",
+                "en": "Rhinoscopy is a medical procedure that examines the interior of the nasal cavity",
+                "ja": "鼻の内部を検査する医療行為である鼻腔検査を意味します",
+                "zh": "指检查鼻腔内部的医疗行为",
+                "fr": "Procédure médicale pour examiner l'intérieur de la cavité nasale"
+            },
+            "example": "Rhinoscopy is used to diagnose problems in the nasal cavity.",
+            "translation": {
+                "ko": "비강 검사는 비강 내의 문제를 진단하는 데 사용된다.",
+                "ja": "鼻腔検査は鼻腔の問題を診断するために使用されます",
+                "zh": "鼻腔检查用于诊断鼻腔问题",
+                "fr": "La rhinoscopie est utilisée pour diagnostiquer les problèmes de la cavité nasale"
+            }
+        }
+    ]
+}

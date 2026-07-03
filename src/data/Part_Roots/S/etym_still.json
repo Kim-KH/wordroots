@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "still (drip) distill, instill, still",
+        "origin": "Latin, stillare (to drip)",
+        "meaning": {
+            "ko": "방울져 떨어지다",
+            "en": "to drip",
+            "ja": "したたる",
+            "zh": "滴落",
+            "fr": "goutter"
+        }
+    },
+    "words": [
+        {
+            "word": "distill",
+            "part_of_speech": "",
+            "origin": "Latin, destillare (to trickle down)",
+            "meaning": {
+                "ko": "방울져 떨어지다",
+                "en": "to drip or fall in drops",
+                "ja": "蒸留する",
+                "zh": "蒸馏",
+                "fr": "distiller"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'아래로'",
+                        "en": "down",
+                        "ja": "下へ",
+                        "zh": "向下",
+                        "fr": "vers le bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "still",
+                    "meaning": {
+                        "ko": "'방울져 떨어지다'",
+                        "en": "to drip",
+                        "ja": "したたり落ちる",
+                        "zh": "滴落",
+                        "fr": "goutter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'액체를 끓여서 나온 증기를 식혀 다시 방울로 떨어지게 하여' 순수한 액체를 얻는 '증류하다'는 뜻입니다.",
+                "en": "Distill means to purify liquid by boiling it to create vapor, then cooling and condensing it back into drops",
+                "ja": "液体を加熱して蒸気にし、冷却して再び液滴に凝縮させることで純粋な液体を得る方法",
+                "zh": "通过加热液体产生蒸气，冷却并重新凝聚成液滴来获得纯净液体的方法",
+                "fr": "Purifier un liquide en le chauffant pour créer de la vapeur, puis le refroidir et le condenser à nouveau en gouttes"
+            },
+            "example": "The factory distills water to purify it.",
+            "translation": {
+                "ko": "그 공장은 물을 정화하기 위해 증류한다.",
+                "ja": "工場は水を蒸留して浄化する。",
+                "zh": "工厂蒸馏水以净化它。",
+                "fr": "L'usine distille l'eau pour la purifier."
+            }
+        },
+        {
+            "word": "instill",
+            "part_of_speech": "",
+            "origin": "Latin, instillare (to put in by drops)",
+            "meaning": {
+                "ko": "방울로 안에 넣다",
+                "en": "to put in by drops",
+                "ja": "徐々に植え付ける",
+                "zh": "逐渐灌输",
+                "fr": "inculquer graduellement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在内部",
+                        "fr": "dedans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "still",
+                    "meaning": {
+                        "ko": "'방울져 떨어뜨리다'",
+                        "en": "to drip",
+                        "ja": "滴るように落とす",
+                        "zh": "像滴水一样滴落",
+                        "fr": "couler goutte à goutte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사상이나 감정을 한 방울씩 떨어뜨려 넣듯이' 서서히 '스며들게 하다', '주입하다'는 뜻입니다.",
+                "en": "Means to gradually infuse or inject ideas or emotions slowly, like dripping them drop by drop.",
+                "ja": "思想や感情を一滴ずつ落とすように、ゆっくり浸透させる、注入するという意味です。",
+                "zh": "像一滴滴落下一样，慢慢地渗透或注入思想和感情的意思。",
+                "fr": "Signifie infuser ou injecter lentement des idées ou des émotions, comme les verser goutte à goutte."
+            },
+            "example": "Teachers try to instill a love of learning in their students.",
+            "translation": {
+                "ko": "교사들은 학생들에게 배움에 대한 사랑을 심어주려고 노력한다.",
+                "ja": "教師は学生に学習への愛を徐々に植え付けようとする。",
+                "zh": "教师试图向学生逐渐灌输对学习的热爱。",
+                "fr": "Les enseignants cherchent à inculquer l'amour d'apprendre à leurs élèves."
+            }
+        },
+        {
+            "word": "still",
+            "part_of_speech": "",
+            "origin": "Latin, stillare (to drip)",
+            "meaning": {
+                "ko": "방울져 떨어지다",
+                "en": "to fall in drops",
+                "ja": "蒸留装置",
+                "zh": "蒸馏装置",
+                "fr": "alambic"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "still-",
+                    "meaning": {
+                        "ko": "'방울져 떨어지다'",
+                        "en": "to drip",
+                        "ja": "したたり落ちる",
+                        "zh": "滴落",
+                        "fr": "goutter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'액체를 증류하는 장치'인 '증류기'를 뜻합니다.",
+                "en": "A still is an apparatus used for distilling liquids",
+                "ja": "液体を蒸留するための装置を意味します",
+                "zh": "指用于蒸馏液体的装置",
+                "fr": "Un appareil utilisé pour distiller des liquides"
+            },
+            "example": "A still is used to produce distilled spirits like whiskey.",
+            "translation": {
+                "ko": "증류기는 위스키와 같은 증류주를 생산하는 데 사용된다.",
+                "ja": "蒸留器はウイスキーなどの蒸留酒を生産するために使用されます。",
+                "zh": "蒸馏装置用于生产威士忌等蒸馏酒。",
+                "fr": "Un alambic est utilisé pour produire des alcools distillés comme le whisky."
+            }
+        }
+    ]
+}

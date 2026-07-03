@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "via (road, through) deviate, devious, Via Dolorosa, viaduct",
+        "origin": "Latin, via (a way, a road)",
+        "meaning": {
+            "ko": "길",
+            "en": "a road",
+            "ja": "道",
+            "zh": "道路",
+            "fr": "route"
+        }
+    },
+    "words": [
+        {
+            "word": "deviate",
+            "part_of_speech": "",
+            "origin": "Latin, deviare (to turn from the straight road)",
+            "meaning": {
+                "ko": "길에서 벗어나다",
+                "en": "to depart from the path",
+                "ja": "道から外れる",
+                "zh": "偏离正道",
+                "fr": "s'écarter du chemin"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "away from",
+                        "ja": "離れて",
+                        "zh": "远离",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "via",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "way",
+                        "ja": "道",
+                        "zh": "道路",
+                        "fr": "chemin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정상적인 길에서 벗어나다'는 의미에서 '벗어나다', '일탈하다'는 뜻입니다.",
+                "en": "Means to depart from normal way; to deviate or go astray",
+                "ja": "正常な道から外れること。逸脱する、脱線する意味です。",
+                "zh": "从正常路径偏离。表示偏离、脱轨的意思。",
+                "fr": "S'écarter de la voie normale. Signifie dévier, s'égarer."
+            },
+            "example": "He never deviates from his routine.",
+            "translation": {
+                "ko": "그는 그의 일상에서 결코 벗어나지 않는다.",
+                "ja": "彼は日常から逸脱しない。",
+                "zh": "他从不偏离他的日常。",
+                "fr": "Il ne s'écarte jamais de sa routine."
+            }
+        },
+        {
+            "word": "devious",
+            "part_of_speech": "",
+            "origin": "Latin, devius (out of the way)",
+            "meaning": {
+                "ko": "길에서 벗어난",
+                "en": "departing from the path",
+                "ja": "道から外れた",
+                "zh": "偏离正路的",
+                "fr": "détourné du chemin droit"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "away from",
+                        "ja": "離れて",
+                        "zh": "远离",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vi- (via)",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "way",
+                        "ja": "道",
+                        "zh": "道路",
+                        "fr": "chemin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'곧은 길에서 벗어난'이라는 의미에서 '정직하지 못한', '기만적인'이라는 뜻입니다.",
+                "en": "From the sense of deviating from the straight path, meaning dishonest or deceptive",
+                "ja": "まっすぐな道から外れたという意味から、不誠実で欺瞞的という意味",
+                "zh": "从偏离正直之路的含义，表示不诚实、欺骗性的",
+                "fr": "Du sens de s'écarter du chemin droit, signifiant malhonnête ou trompeur"
+            },
+            "example": "He used devious means to get what he wanted.",
+            "translation": {
+                "ko": "그는 원하는 것을 얻기 위해 부정한 수단을 사용했다.",
+                "ja": "彼は自分が欲しい物を手に入れるために不正な手段を使った。",
+                "zh": "他用欺骗的手段来获得他想要的东西。",
+                "fr": "Il a utilisé des moyens détournés pour obtenir ce qu'il voulait."
+            }
+        },
+        {
+            "word": "Via Dolorosa",
+            "part_of_speech": "",
+            "origin": "Latin, Via Dolorosa (Sorrowful Way)",
+            "meaning": {
+                "ko": "슬픔의 길",
+                "en": "path of sorrow",
+                "ja": "苦しみの道",
+                "zh": "苦难之路",
+                "fr": "chemin de la souffrance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Via",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "way",
+                        "ja": "道",
+                        "zh": "道路",
+                        "fr": "chemin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Dolorosa",
+                    "meaning": {
+                        "ko": "'슬픔의'",
+                        "en": "of sorrow",
+                        "ja": "苦しみの",
+                        "zh": "苦难的",
+                        "fr": "douleur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "예수가 십자가를 지고 걸어간 '슬픔의 길'을 뜻합니다.",
+                "en": "The Via Dolorosa refers to the 'path of sorrow' that Jesus walked while carrying the cross.",
+                "ja": "ビア・ドロローサはイエスが十字架を背負って歩いた'苦しみの道'を意味します。",
+                "zh": "苦难之路是指耶稣背着十字架行走的'苦难之路'。",
+                "fr": "La Via Dolorosa désigne le 'chemin de la souffrance' que Jésus a parcouru en portant la croix."
+            },
+            "example": "The Via Dolorosa is a famous street in the Old City of Jerusalem.",
+            "translation": {
+                "ko": "비아 돌로로사는 예루살렘 구시가지의 유명한 거리이다.",
+                "ja": "ビア・ドロローサ",
+                "zh": "苦难之路",
+                "fr": "Via Dolorosa"
+            }
+        },
+        {
+            "word": "viaduct",
+            "part_of_speech": "",
+            "origin": "Latin, via (way) + ducere (to lead)",
+            "meaning": {
+                "ko": "길을 이끌다",
+                "en": "to lead the way",
+                "ja": "道を導く",
+                "zh": "引导道路",
+                "fr": "conduire la route"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "via",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "way",
+                        "ja": "道",
+                        "zh": "道路",
+                        "fr": "chemin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duct",
+                    "meaning": {
+                        "ko": "'이끌다'",
+                        "en": "to lead",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'계곡이나 도로 위로 길을 이어주는' 다리인 '육교'를 뜻합니다.",
+                "en": "A bridge that connects a road or path over a valley or another road, also known as an overpass.",
+                "ja": "谷や道路の上に道をつなぐ橋、陸橋を意味します。",
+                "zh": "跨越山谷或道路的桥梁，也称为高架桥。",
+                "fr": "Un pont qui relie une route ou un sentier au-dessus d'une vallée ou d'une autre route, également appelé viaduc."
+            },
+            "example": "A new viaduct is being built over the valley.",
+            "translation": {
+                "ko": "계곡 위에 새로운 육교가 건설되고 있다.",
+                "ja": "新しい陸橋が谷の上に建設されている。",
+                "zh": "一座新的高架桥正在山谷上方建造。",
+                "fr": "Un nouveau viaduc est en construction au-dessus de la vallée."
+            }
+        }
+    ]
+}

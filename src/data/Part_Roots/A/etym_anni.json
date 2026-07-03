@@ -1,0 +1,237 @@
+{
+    "root_info": {
+        "roots": "anni, annu, enni (year, segmented) annual, anniversary, annuity, centennial",
+        "origin": "Latin, annus (year)",
+        "meaning": {
+            "ko": "해, 년",
+            "en": "year",
+            "ja": "年",
+            "zh": "年",
+            "fr": "année"
+        }
+    },
+    "words": [
+        {
+            "word": "annual",
+            "part_of_speech": "",
+            "origin": "Latin, annualis (yearly)",
+            "meaning": {
+                "ko": "매년의",
+                "en": "yearly",
+                "ja": "毎年の",
+                "zh": "每年的",
+                "fr": "annuel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "annu (annus)",
+                    "meaning": {
+                        "ko": "'해, 년'",
+                        "en": "year",
+                        "ja": "年",
+                        "zh": "年",
+                        "fr": "année"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의, ~에 관련된'",
+                        "en": "of, relating to",
+                        "ja": "~の、~に関連した",
+                        "zh": "~的、~相关的",
+                        "fr": "~de, ~relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'해(annu)마다의'라는 의미에서 '매년의', '연간의'라는 뜻을 가집니다.",
+                "en": "From the meaning 'every year', it means 'yearly' or 'per year'",
+                "ja": "毎年という意味から、年ごと、年単位という意味を持ちます",
+                "zh": "从每年的意思来看，意为年度、按年计算",
+                "fr": "Du sens 'chaque année', il signifie 'annuel' ou 'par an'"
+            },
+            "example": "The company holds an annual conference for all its employees.",
+            "translation": {
+                "ko": "그 회사는 모든 직원을 대상으로 매년 컨퍼런스를 개최한다.",
+                "ja": "同社は全従業員のための年次会議を開催しています。",
+                "zh": "公司为所有员工举办年度会议。",
+                "fr": "L'entreprise tient une conférence annuelle pour tous ses employés."
+            }
+        },
+        {
+            "word": "anniversary",
+            "part_of_speech": "",
+            "origin": "Latin, anniversarius (returning yearly)",
+            "meaning": {
+                "ko": "매년 돌아오는",
+                "en": "yearly returning",
+                "ja": "毎年巡ってくる",
+                "zh": "每年轮回的",
+                "fr": "revenant chaque année"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anni (annus)",
+                    "meaning": {
+                        "ko": "'해, 년'",
+                        "en": "year",
+                        "ja": "年",
+                        "zh": "年",
+                        "fr": "année"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers (vertere)",
+                    "meaning": {
+                        "ko": "'돌다, 바꾸다'",
+                        "en": "to turn",
+                        "ja": "巡る、転じる",
+                        "zh": "转动、变化",
+                        "fr": "tourner, changer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ary",
+                    "meaning": {
+                        "ko": "'~에 관련된 것'",
+                        "en": "related to",
+                        "ja": "~に関連したもの",
+                        "zh": "与~有关的东西",
+                        "fr": "chose liée à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매년(anni) 돌아오는(vers) 날'이라는 의미에서 '기념일'을 뜻하게 되었습니다.",
+                "en": "Derived from the concept of 'a day that returns every year (anni-vers)', meaning a commemorative day",
+                "ja": "毎年(anni)巡ってくる(vers)日という意味から記念日を意味するようになりました",
+                "zh": "从每年(anni)轮回的(vers)日的概念演变而来，表示纪念日",
+                "fr": "Dérivé du concept de 'jour qui revient chaque année (anni-vers)', signifiant un jour commémoratif"
+            },
+            "example": "We celebrated our tenth wedding anniversary last week.",
+            "translation": {
+                "ko": "우리는 지난주에 결혼 10주년을 축하했다.",
+                "ja": "私たちは先週、結婚10周年を祝いました。",
+                "zh": "我们上周庆祝了结婚十周年。",
+                "fr": "Nous avons célébré notre dixième anniversaire de mariage la semaine dernière."
+            }
+        },
+        {
+            "word": "annuity",
+            "part_of_speech": "",
+            "origin": "Latin, annuitas (yearly payment)",
+            "meaning": {
+                "ko": "연간 지불",
+                "en": "yearly payment",
+                "ja": "年金",
+                "zh": "年金",
+                "fr": "rente annuelle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "annu (annus)",
+                    "meaning": {
+                        "ko": "'해, 년'",
+                        "en": "year",
+                        "ja": "年",
+                        "zh": "年",
+                        "fr": "année"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'상태, 성질'",
+                        "en": "state or quality",
+                        "ja": "状態、性質",
+                        "zh": "状态、性质",
+                        "fr": "état, qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매년 정기적으로 지급되는 것'이라는 의미에서 '연금' 또는 '연금 보험'을 의미합니다.",
+                "en": "Refers to 'annuity' or 'annuity insurance' meaning something paid regularly every year",
+                "ja": "毎年定期的に支払われるもので、年金または年金保険を意味します",
+                "zh": "指每年定期支付的内容，意为养老金或年金保险",
+                "fr": "Désigne une rente ou une assurance-rente payée régulièrement chaque année"
+            },
+            "example": "He receives a small annuity from his late wife's insurance policy.",
+            "translation": {
+                "ko": "그는 사망한 아내의 보험 증권으로부터 소액의 연금을 받는다.",
+                "ja": "彼は故妻の保険契約から少額の年金を受け取っています",
+                "zh": "他从已故妻子的保险单中获得少额年金",
+                "fr": "Il reçoit une petite rente de la police d'assurance de sa défunte épouse"
+            }
+        },
+        {
+            "word": "centennial",
+            "part_of_speech": "",
+            "origin": "Latin, centum (hundred) + annus (year)",
+            "meaning": {
+                "ko": "100년",
+                "en": "hundred years",
+                "ja": "百年",
+                "zh": "百年",
+                "fr": "centième anniversaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cent (centum)",
+                    "meaning": {
+                        "ko": "hundred",
+                        "en": "'100'",
+                        "ja": "百",
+                        "zh": "百",
+                        "fr": "cent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "enni (annus)",
+                    "meaning": {
+                        "ko": "'해, 년'",
+                        "en": "year",
+                        "ja": "年",
+                        "zh": "年",
+                        "fr": "année"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of, relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'100(cent)년(enni)의'라는 의미로, '100년마다의', '100주년'을 뜻합니다.",
+                "en": "Meaning '100(cent) years(enni) of(~의)', referring to 'every 100 years' or '100th anniversary'",
+                "ja": "100年ごとの、または100周年を意味します。",
+                "zh": "意为每100年一次或100周年纪念。",
+                "fr": "Signifie 'tous les 100 ans' ou 'centième anniversaire'."
+            },
+            "example": "The city is planning a huge centennial celebration.",
+            "translation": {
+                "ko": "그 도시는 성대한 100주년 기념 행사를 계획하고 있다.",
+                "ja": "その都市は大規模な百年祭を計画しています。",
+                "zh": "这座城市正在计划一场大型百年庆典。",
+                "fr": "La ville prévoit une grande célébration du centième anniversaire."
+            }
+        }
+    ]
+}

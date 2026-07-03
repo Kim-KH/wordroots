@@ -1,0 +1,904 @@
+{
+    "root_info": {
+        "roots": "vers, vert: turn, change",
+        "origin": "Latin, vertere (to turn)",
+        "meaning": {
+            "ko": "돌다, 바꾸다",
+            "en": "to turn",
+            "ja": "回す、変える",
+            "zh": "转、改变",
+            "fr": "tourner, changer"
+        }
+    },
+    "words": [
+        {
+            "word": "versed",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers",
+                    "meaning": {
+                        "ko": "돌다, 경험하다",
+                        "en": "to turn, be engaged in",
+                        "ja": "回る、従事する",
+                        "zh": "转动、从事",
+                        "fr": "tourner, s'engager dans"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어떤 분야에서 '자주 돌아보고 경험해 본' 상태라는 의미에서, '~에 정통한', '숙달한'이라는 뜻입니다.",
+                "en": "The state of having frequently reviewed and experienced in a certain field, meaning 'proficient in', 'skilled in'",
+                "ja": "ある分野で『頻繁に振り返り、経験した』状態という意味で、『~に精通した』、『熟達した』という意味です",
+                "zh": "在某个领域『经常回顾和亲身体验』的状态，意思是『精通~』、『熟练的』",
+                "fr": "L'état d'avoir fréquemment examiné et expérimenté dans un certain domaine, signifiant 'compétent en', 'maîtrisé'"
+            },
+            "example": "She is well versed in international law.",
+            "translation": {
+                "ko": "그녀는 국제법에 정통하다.",
+                "ja": "彼女は国際法に精通している",
+                "zh": "她精通国际法",
+                "fr": "Elle est très compétente en droit international"
+            }
+        },
+        {
+            "word": "tergiversation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tergi (tergum)",
+                    "meaning": {
+                        "ko": "등",
+                        "en": "the back",
+                        "ja": "背",
+                        "zh": "背",
+                        "fr": "le dos"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "向きを変える",
+                        "zh": "转身",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'등을 돌리는 행위'라는 의미에서, 자신의 신념이나 입장을 바꾸는 '변절' 또는 질문에 대한 '얼버무림', '핑계'를 뜻합니다.",
+                "en": "From 'turning one's back,' meaning evasion, equivocation, or abandoning one's principles.",
+                "ja": "「背を向ける行為」から、原則を放棄する、質問をはぐらかす、または言い訳を意味します。",
+                "zh": "从「转身背离」的意思，表示逃避、含糊其辞或背弃原则。",
+                "fr": "Du sens de « tourner le dos », désigne l'évasion, l'équivoque ou l'abandon de ses principes."
+            },
+            "example": "His speech was full of tergiversation.",
+            "translation": {
+                "ko": "그의 연설은 얼버무림으로 가득했다.",
+                "ja": "彼のスピーチは言い逃れで満ちていた。",
+                "zh": "他的演讲充满了模棱两可。",
+                "fr": "Son discours était rempli d'équivoques."
+            }
+        },
+        {
+            "word": "versus",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回転する",
+                        "zh": "转向",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'~를 향하여 돌아선'이라는 의미의 라틴어 vertere의 과거분사형에서 유래했습니다. '~대(對)'라는 의미로 쓰입니다.",
+                "en": "Derived from the past participle of Latin 'vertere' meaning 'turned toward ~'. Used to mean 'versus' or 'against'.",
+                "ja": "ラテン語の'vertere'の過去分詞形に由来し、'~に向かって回転した'という意味です。'~対'という意味で使われます。",
+                "zh": "源自拉丁语'vertere'的过去分词，意为'转向~'。用来表示'对'的意思。",
+                "fr": "Dérivé du participe passé du latin 'vertere' signifiant 'tourné vers ~'. Utilisé pour signifier 'contre' ou 'par rapport à'."
+            },
+            "example": "It's the Giants versus the Dodgers.",
+            "translation": {
+                "ko": "자이언츠 대 다저스의 경기입니다.",
+                "ja": "ジャイアンツ対ドジャース",
+                "zh": "巨人队对道奇队",
+                "fr": "Les Giants contre les Dodgers"
+            }
+        },
+        {
+            "word": "vertigo",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回転する",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세상이 빙빙 도는' 느낌이라는 의미에서 '현기증', '어지럼증'을 뜻합니다.",
+                "en": "From the sensation of the world spinning; means dizziness or vertigo.",
+                "ja": "世界が回転する感覚から；めまい、現기증を意味します。",
+                "zh": "来自世界旋转的感觉；意为眩晕、头晕。",
+                "fr": "De la sensation que le monde tourne ; signifie vertige ou étourdissement."
+            },
+            "example": "Looking down from the skyscraper gave me vertigo.",
+            "translation": {
+                "ko": "고층 빌딩에서 아래를 내려다보니 현기증이 났다.",
+                "ja": "高層ビルから下を見下ろすと、めまいがした。",
+                "zh": "从摩天大楼往下看，我感到眩晕。",
+                "fr": "Regarder vers le bas depuis le gratte-ciel m'a donné le vertige."
+            }
+        },
+        {
+            "word": "version",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers",
+                    "meaning": {
+                        "ko": "돌리다, 바꾸다",
+                        "en": "to turn",
+                        "ja": "回す、変える",
+                        "zh": "转动、改变",
+                        "fr": "tourner, changer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원본을 '다른 형태로 바꾼 것'이라는 의미에서, 책이나 소프트웨어의 '판(版)', '~버전' 또는 어떤 사건에 대한 '설명', '견해'를 뜻합니다.",
+                "en": "From the sense of 'changing the original into a different form,' it means a 'version' or 'edition' of a book or software, or an 'account' or 'perspective' of an event.",
+                "ja": "原本を「異なる形に変えたもの」という意味から、本やソフトウェアの「版」「バージョン」、または出来事に対する「説明」「見方」を意味します。",
+                "zh": "从「将原文改变成不同形式」的含义出发，指书籍或软件的「版本」，或对某一事件的「描述」「观点」。",
+                "fr": "Du sens de « transformer l'original sous une forme différente », il désigne une « version » ou « édition » d'un livre ou d'un logiciel, ou un « récit » ou « point de vue » sur un événement."
+            },
+            "example": "This is the latest version of the software.",
+            "translation": {
+                "ko": "이것이 그 소프트웨어의 최신 버전이다.",
+                "ja": "これはそのソフトウェアの最新バージョンです。",
+                "zh": "这是该软件的最新版本。",
+                "fr": "Ceci est la dernière version du logiciel."
+            }
+        },
+        {
+            "word": "obverse",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "~를 향하여",
+                        "en": "toward",
+                        "ja": "に向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verse",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "回転させる",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞을 향해 돌려놓은 면'이라는 의미에서, 동전이나 메달의 '앞면'을 뜻합니다.",
+                "en": "From the meaning 'the side turned to face forward', it refers to the 'front side' of a coin or medal.",
+                "ja": "'前を向いて回した面'という意味から、硬貨やメダルの'表面'を意味します。",
+                "zh": "从'转向前面的那一面'的含义来看，指硬币或奖章的'正面'。",
+                "fr": "Du sens 'le côté tourné vers l'avant', il désigne le 'côté face' d'une pièce ou d'une médaille."
+            },
+            "example": "The obverse of the coin has a portrait of the queen.",
+            "translation": {
+                "ko": "그 동전의 앞면에는 여왕의 초상이 있다.",
+                "ja": "コインの表面には女王の肖像があります。",
+                "zh": "硬币的正面有女王的肖像。",
+                "fr": "L'avers de la pièce porte un portrait de la reine."
+            }
+        },
+        {
+            "word": "adverse",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~를 향하여",
+                        "en": "toward",
+                        "ja": "に向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verse",
+                    "meaning": {
+                        "ko": "돌아서다",
+                        "en": "to turn",
+                        "ja": "向きを変える",
+                        "zh": "转身",
+                        "fr": "se tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반대 방향으로 돌아선'이라는 의미에서, '적대적인', '불리한'이라는 뜻입니다.",
+                "en": "From the sense of 'turned in opposite direction', meaning hostile or unfavorable",
+                "ja": "逆方向に向きを変えた意味から、敵対的な、不利なという意味",
+                "zh": "从向相反方向转身的意思，表示敌对的、不利的",
+                "fr": "Du sens de 'tourné dans la direction opposée', signifiant hostile ou défavorable"
+            },
+            "example": "The plan was cancelled due to adverse weather.",
+            "translation": {
+                "ko": "악천후 때문에 그 계획은 취소되었다.",
+                "ja": "悪影響を与える",
+                "zh": "不利的",
+                "fr": "défavorable"
+            }
+        },
+        {
+            "word": "transverse",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横向地",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verse",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回転する",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가로질러 놓인'이라는 의미에서 '가로의', '횡단하는'이라는 뜻입니다.",
+                "en": "From the sense of 'placed across,' meaning 'lateral' or 'crossing transversely'",
+                "ja": "「横に置かれた」という意味から、「横向きの」「横断する」という意味になりました。",
+                "zh": "从「横向放置」的意思引申为「横向的」、「横贯的」之意。",
+                "fr": "Du sens « placé en travers », signifiant « latéral » ou « qui traverse transversalement »."
+            },
+            "example": "A transverse beam supports the roof.",
+            "translation": {
+                "ko": "가로들보가 지붕을 받치고 있다.",
+                "ja": "横梁が屋根を支えている。",
+                "zh": "横梁支撑着屋顶。",
+                "fr": "Une poutre transversale soutient le toit."
+            }
+        },
+        {
+            "word": "revert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろに",
+                        "zh": "向后",
+                        "fr": "en arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌아가다",
+                        "en": "to turn",
+                        "ja": "回す",
+                        "zh": "转身",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래 상태로 되돌아가다'는 의미에서 '복귀하다', '회귀하다'는 뜻입니다.",
+                "en": "To return to an original state; to revert or return",
+                "ja": "元の状態に戻ることを意味し、復帰する、戻るという意味です",
+                "zh": "表示回到原始状态的意思，即恢复、回归",
+                "fr": "Signifie retourner à l'état original; revenir ou restaurer"
+            },
+            "example": "He reverted to his old habits.",
+            "translation": {
+                "ko": "그는 옛 습관으로 되돌아갔다.",
+                "ja": "彼は昔の習慣に戻った。",
+                "zh": "他回到了旧习惯。",
+                "fr": "Il est revenu à ses anciennes habitudes."
+            }
+        },
+        {
+            "word": "subvert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "아래에서",
+                        "en": "from under",
+                        "ja": "下から",
+                        "zh": "从下面",
+                        "fr": "par dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "ひっくり返す",
+                        "zh": "颠覆",
+                        "fr": "renverser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아래에서부터 뒤집어엎다'는 의미에서, 정부나 체제 등을 '전복시키다'는 뜻입니다.",
+                "en": "From the sense of 'overturn from below,' it means to undermine or overthrow a government or system.",
+                "ja": "下からひっくり返すという意味から、政府や体制などを『転覆させる』という意味になります。",
+                "zh": "从'从下面颠覆'的意义引申，表示'推翻'政府或制度等。",
+                "fr": "Du sens de 'renverser par dessous', il signifie 'renverser' un gouvernement ou un système."
+            },
+            "example": "They tried to subvert the government.",
+            "translation": {
+                "ko": "그들은 정부를 전복시키려 했다.",
+                "ja": "彼らは政府を転覆させようとした。",
+                "zh": "他们试图推翻政府。",
+                "fr": "Ils ont tenté de renverser le gouvernement."
+            }
+        },
+        {
+            "word": "anniversary",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anni (annus)",
+                    "meaning": {
+                        "ko": "해",
+                        "en": "year",
+                        "ja": "年",
+                        "zh": "年",
+                        "fr": "année"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回る",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'해가 다시 돌아오는 날'이라는 의미에서 '기념일'을 뜻합니다.",
+                "en": "From the concept of a year turning around again; refers to a commemorative day",
+                "ja": "「年が再び巡ってくる日」という意味から「記念日」を意味します。",
+                "zh": "源自「年份再次循环的日子」的概念，指纪念日。",
+                "fr": "Du concept d'une année qui revient; désigne un jour commémoratif."
+            },
+            "example": "Today is our wedding anniversary.",
+            "translation": {
+                "ko": "오늘은 우리의 결혼기념일이다.",
+                "ja": "今日は私たちの結婚記念日です。",
+                "zh": "今天是我们的结婚纪念日。",
+                "fr": "Aujourd'hui, c'est notre anniversaire de mariage."
+            }
+        },
+        {
+            "word": "convert",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께, 완전히",
+                        "en": "with, completely",
+                        "ja": "一緒に、完全に",
+                        "zh": "一起、完全地",
+                        "fr": "ensemble, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "回す、向きを変える",
+                        "zh": "转动、改变方向",
+                        "fr": "tourner, retourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 방향을 바꾸다'는 의미에서, 형태나 목적, 종교 등을 '전환하다', '개조하다', '개종시키다'는 뜻입니다.",
+                "en": "From the sense of 'completely changing direction': to transform or change the form, purpose, or religion of something.",
+                "ja": "「完全に方向を変える」という意味から、形態や目的、宗教などを「変換する」「改造する」「改宗させる」という意味になります。",
+                "zh": "从「完全改变方向」的含义出发，表示「转换」、「改造」、「改宗」的意思，涉及形式、目的或宗教的改变。",
+                "fr": "Du sens de « changer complètement de direction » : transformer ou changer la forme, le but ou la religion de quelque chose."
+            },
+            "example": "We need to convert the attic into a bedroom.",
+            "translation": {
+                "ko": "우리는 다락방을 침실로 개조해야 한다.",
+                "ja": "私たちは屋根裏部屋を寝室に改造する必要があります。",
+                "zh": "我们需要把阁楼改造成卧室。",
+                "fr": "Nous devons convertir le grenier en chambre à coucher."
+            }
+        },
+        {
+            "word": "extrovert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "extro-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "outward",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "回す",
+                        "zh": "转向",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "관심과 에너지를 '밖으로 돌리는' 사람이라는 의미에서 '외향적인 사람'을 뜻합니다.",
+                "en": "From the idea of turning one's interests and energy 'outward,' describing an outgoing person.",
+                "ja": "関心とエネルギーを『外へ向ける』人という意味から、外向的な人を指します。",
+                "zh": "从将兴趣和精力'向外转向'的人的含义，指外向的人。",
+                "fr": "Du sens de tourner ses intérêts et son énergie 'vers l'extérieur', décrivant une personne sociable."
+            },
+            "example": "My sister is a classic extrovert.",
+            "translation": {
+                "ko": "내 여동생은 전형적인 외향적인 사람이다.",
+                "ja": "私の妹は典型的な外向的な人だ。",
+                "zh": "我妹妹是典型的外向的人。",
+                "fr": "Ma sœur est une extravertie classique."
+            }
+        },
+        {
+            "word": "avert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a- (ab-)",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "向きを変える",
+                        "zh": "转向",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "시선이나 생각을 '다른 곳으로 돌리다'는 의미에서 '외면하다', 위험 등을 '피하다'는 뜻입니다.",
+                "en": "From the sense of turning one's gaze or thoughts 'elsewhere,' meaning to disregard or avoid dangers.",
+                "ja": "視線や思考を『別の方向に向ける』という意味から、『無視する』『危険を避ける』という意味になりました。",
+                "zh": "从将目光或思想「转向别处」的含义引申，表示「忽视」或「避免」危险。",
+                "fr": "Du sens de détourner son regard ou ses pensées « ailleurs », signifiant ignorer ou éviter les dangers."
+            },
+            "example": "She had to avert her eyes from the terrible sight.",
+            "translation": {
+                "ko": "그녀는 그 끔찍한 광경에서 눈을 돌려야 했다.",
+                "ja": "彼女はその恐ろしい光景から目をそらさなければならなかった。",
+                "zh": "她不得不把目光从那可怕的景象移开。",
+                "fr": "Elle a dû détourner son regard de ce spectacle horrible."
+            }
+        },
+        {
+            "word": "invert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로, 거꾸로",
+                        "en": "in, upside down",
+                        "ja": "中に、逆さまに",
+                        "zh": "向内、颠倒地",
+                        "fr": "dedans, sens dessus dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "回す、ひっくり返す",
+                        "zh": "转动、翻转",
+                        "fr": "tourner, retourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'거꾸로 뒤집다'는 의미에서, 순서나 위치를 '도치시키다', '거꾸로 하다'는 뜻입니다.",
+                "en": "Meaning 'flip upside down', to reverse or invert the order or position",
+                "ja": "『逆さまに返す』という意味から、順序や位置を『反転させる』、『逆にする』という意味です",
+                "zh": "从'颠倒翻转'的意思出发，指'改变顺序或位置'、'使之相反'的含义",
+                "fr": "Du sens 'retourner sens dessus dessous', signifie 'inverser ou renverser l'ordre ou la position'"
+            },
+            "example": "You need to invert the fraction to divide.",
+            "translation": {
+                "ko": "나누기를 하려면 분수를 거꾸로 뒤집어야 한다.",
+                "ja": "分数を逆さにして割る必要があります",
+                "zh": "你需要倒转这个分数来进行除法",
+                "fr": "Vous devez inverser la fraction pour diviser"
+            }
+        },
+        {
+            "word": "divert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "回す",
+                        "zh": "转向",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "길이나 방향을 '다른 쪽으로 돌리다'는 의미에서 '우회시키다', 주의를 '다른 데로 돌리다'는 뜻입니다.",
+                "en": "From the meaning of turning a path or direction 'to another side,' hence 'to reroute'; also means turning attention 'elsewhere.'",
+                "ja": "道や方向を『別の方向に回す』という意味から『迂回させる』、注意を『別の所に回す』という意味です。",
+                "zh": "从'把道路或方向转向另一侧'的含义引申为'改道'，也指'把注意力转向别处'。",
+                "fr": "Du sens de tourner un chemin ou une direction 'vers un autre côté', d'où 'détourner'; signifie aussi détourner l'attention 'ailleurs'."
+            },
+            "example": "The police diverted traffic.",
+            "translation": {
+                "ko": "경찰이 교통을 우회시켰다.",
+                "ja": "警察が交通を迂回させた。",
+                "zh": "警察改道了交通。",
+                "fr": "La police a dévié le trafic."
+            }
+        },
+        {
+            "word": "conversation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回す",
+                        "zh": "转",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 번갈아 가며' 말을 주고받는다는 의미에서 '대화', '회화'를 뜻합니다.",
+                "en": "From the idea of taking turns exchanging words back and forth, meaning 'dialogue' or 'conversation'.",
+                "ja": "互いに交互に言葉を交わすという意味から、「対話」「会話」を意味します。",
+                "zh": "从相互交替地交换言语的意思，表示「对话」「会话」。",
+                "fr": "De l'idée d'échanger des paroles à tour de rôle, signifiant 'dialogue' ou 'conversation'."
+            },
+            "example": "I had a long conversation with my friend.",
+            "translation": {
+                "ko": "나는 친구와 긴 대화를 나누었다.",
+                "ja": "友人と長い会話をしました。",
+                "zh": "我和朋友进行了一次长对话。",
+                "fr": "J'ai eu une longue conversation avec mon ami."
+            }
+        },
+        {
+            "word": "vortex",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vort (vert)",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回転する",
+                        "zh": "旋转",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빙빙 도는 것'이라는 의미에서, 물이나 공기의 '소용돌이'를 뜻합니다.",
+                "en": "From the meaning of 'spinning around,' it refers to a 'whirlpool' or 'whirlwind' in water or air.",
+                "ja": "「ぐるぐる回る」という意味から、水や空気の「渦巻き」を指します。",
+                "zh": "从「旋转」的含义出发，指水或空气中的「漩涡」。",
+                "fr": "Du sens de 'tourner en cercle', il désigne un 'tourbillon' dans l'eau ou l'air."
+            },
+            "example": "The boat was pulled into the vortex.",
+            "translation": {
+                "ko": "그 배는 소용돌이 속으로 빨려 들어갔다.",
+                "ja": "その船は渦巻きの中に吸い込まれた。",
+                "zh": "那艘船被吸入了漩涡。",
+                "fr": "Le bateau a été aspiré dans le tourbillon."
+            }
+        },
+        {
+            "word": "vertebra",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vertebr (vertere)",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回転する",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "몸을 '돌릴 수 있게 하는' 뼈라는 의미에서 '척추뼈', '등골뼈'를 의미합니다.",
+                "en": "From the meaning 'bone that allows the body to turn,' referring to a vertebra or backbone.",
+                "ja": "体を「回転させることができる」骨という意味から、椎骨や脊椎骨を指します。",
+                "zh": "从「使身体能够转动」的骨的含义引出，指椎骨或脊骨。",
+                "fr": "Du sens « os permettant au corps de tourner », désignant une vertèbre ou os épineux."
+            },
+            "example": "He injured a vertebra in his neck.",
+            "translation": {
+                "ko": "그는 목의 척추뼈를 다쳤다.",
+                "ja": "彼は首の椎骨を痛めた。",
+                "zh": "他伤了颈部的一根椎骨。",
+                "fr": "Il s'est blessé une vertèbre au cou."
+            }
+        },
+        {
+            "word": "prose",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "se (versa)",
+                    "meaning": {
+                        "ko": "돌려진",
+                        "en": "turned",
+                        "ja": "曲げられた",
+                        "zh": "转向的",
+                        "fr": "tourné"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 prosa oratio('직선적인 말')에서 유래했습니다. 줄을 바꾸지 않고 '앞으로 쭉 나아가는 글'이라는 의미에서 운문과 대비되는 '산문'을 뜻합니다.",
+                "en": "From Latin prosa oratio ('straightforward speech'). Refers to non-verse writing that flows forward continuously without line breaks, contrasting with poetry.",
+                "ja": "ラテン語のprosa oratio（『直線的な話』）に由来します。行を変えずに『前へ真っすぐ進む文章』という意味で、韻文と対比される『散文』を指します。",
+                "zh": "源自拉丁语 prosa oratio（'直线式的说话'）。指不换行、'向前持续进行的文章'，与韵文相对的'散文'。",
+                "fr": "Du latin prosa oratio (« discours direct »). Désigne l'écriture en continu sans changement de ligne, en contraste avec la poésie."
+            },
+            "example": "I prefer reading prose to poetry.",
+            "translation": {
+                "ko": "나는 시보다 산문 읽는 것을 더 좋아한다.",
+                "ja": "私は詩より散文を読むほうが好きです。",
+                "zh": "我更喜欢读散文而不是诗歌。",
+                "fr": "Je préfère lire de la prose plutôt que de la poésie."
+            }
+        },
+        {
+            "word": "verse",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vers",
+                    "meaning": {
+                        "ko": "돌다",
+                        "en": "to turn",
+                        "ja": "回す",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "밭을 갈 때 '고랑 끝에서 방향을 바꾸는 것'에 비유하여, 글의 '줄을 바꾸는 것'을 의미하게 되었습니다. 시의 '운문', '연' 또는 성경의 '절'을 뜻합니다.",
+                "en": "From the image of turning direction at the end of a furrow while plowing a field, metaphorically extended to changing lines in text. Refers to a line of poetry, a stanza, or a verse of scripture.",
+                "ja": "畑を耕すときに畝の終わりで方向を変えることに例えて、文章の行を変えることを意味するようになりました。詩の一行、連、または聖書の節を指します。",
+                "zh": "从耕田时在垄末改变方向的形象引申，比喻改变文本行。指诗的一行、诗节或圣经的经节。",
+                "fr": "Par analogie avec le changement de direction à la fin d'un sillon lors du labour, étendu métaphoriquement au changement de lignes dans un texte. Désigne une ligne de poésie, une strophe ou un verset biblique."
+            },
+            "example": "She wrote a beautiful verse of poetry.",
+            "translation": {
+                "ko": "그녀는 아름다운 시 한 구절을 썼다.",
+                "ja": "彼女は美しい詩の一節を書いた。",
+                "zh": "她写了一首美丽的诗句。",
+                "fr": "Elle a écrit un beau vers de poésie."
+            }
+        },
+        {
+            "word": "advertise",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to",
+                        "ja": "～へ",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "向ける",
+                        "zh": "转向",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "사람들의 주의를 상품 쪽으로 '돌리게 하다'는 의미에서, '광고하다', '알리다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'turning people's attention toward a product,' it came to mean 'to publicize' or 'to make known.'",
+                "ja": "人々の注意を商品の方へ『向けさせる』という意味から、『広告する』『知らせる』という意味になりました。",
+                "zh": "从'使人们的注意力转向产品'的含义演变而来，现在表示'做广告'或'告知'。",
+                "fr": "Du sens de 'tourner l'attention des gens vers un produit', il a pris le sens de 'faire de la publicité' ou 'faire connaître'."
+            },
+            "example": "The company will advertise its new product.",
+            "translation": {
+                "ko": "그 회사는 신제품을 광고할 것이다.",
+                "ja": "その企業は新製品を広告するつもりです。",
+                "zh": "那家公司将宣传其新产品。",
+                "fr": "L'entreprise fera la publicité de son nouveau produit."
+            }
+        },
+        {
+            "word": "pervert",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "완전히, 잘못되게",
+                        "en": "thoroughly, wrongly",
+                        "ja": "完全に、誤ったように",
+                        "zh": "彻底地、错误地",
+                        "fr": "complètement, mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "回す、向ける",
+                        "zh": "转动、改变",
+                        "fr": "tourner, détourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 잘못된 방향으로 돌려놓다'는 의미에서, 진실을 '왜곡하다' 또는 사람을 '타락시키다'는 뜻입니다.",
+                "en": "From the sense of 'turning completely in the wrong direction,' meaning to distort truth or corrupt someone.",
+                "ja": "完全に間違った方向に回すという意味から、真実を歪める、または人を堕落させるという意味になります。",
+                "zh": "从'完全向错误方向转动'的含义衍生，表示扭曲真实或腐蚀他人。",
+                "fr": "Du sens de 'tourner complètement dans la mauvaise direction', signifiant déformer la vérité ou corrompre quelqu'un."
+            },
+            "example": "He tried to pervert the course of justice.",
+            "translation": {
+                "ko": "그는 사법 절차를 왜곡하려고 했다.",
+                "ja": "彼は司法の過程を歪めようとした。",
+                "zh": "他试图歪曲司法程序。",
+                "fr": "Il a tenté de pervertir le cours de la justice."
+            }
+        }
+    ]
+}

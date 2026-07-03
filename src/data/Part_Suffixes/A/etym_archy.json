@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "archy (rule, leadership) anarchy, monarchy, oligarchy",
+        "origin": "Greek, arkhia (rule)",
+        "meaning": {
+            "ko": "통치, 지배",
+            "en": "rule",
+            "ja": "支配",
+            "zh": "统治",
+            "fr": "règne"
+        }
+    },
+    "words": [
+        {
+            "word": "anarchy",
+            "part_of_speech": "",
+            "origin": "Greek, anarkhia (lack of a leader)",
+            "meaning": {
+                "ko": "지도자의 부재",
+                "en": "absence of a leader",
+                "ja": "指導者の不在",
+                "zh": "领导者的缺失",
+                "fr": "absence de chef"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "an-",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "without",
+                        "ja": "～がない",
+                        "zh": "没有～",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "archy",
+                    "meaning": {
+                        "ko": "'지배'",
+                        "en": "rule",
+                        "ja": "支配",
+                        "zh": "统治",
+                        "fr": "règne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지배자가 없는' 무정부 상태를 뜻합니다.",
+                "en": "The country descended into anarchy after the revolution.",
+                "ja": "支配者がいない無政府状態を意味します。",
+                "zh": "指没有统治者的无政府状态。",
+                "fr": "État sans gouvernement où il n'y a pas de dirigeant."
+            },
+            "example": "The country descended into anarchy after the revolution.",
+            "translation": {
+                "ko": "그 나라는 혁명 이후 무정부 상태에 빠졌다.",
+                "ja": "革命後、その国は無政府状態に陥った。",
+                "zh": "革命后，这个国家陷入了无政府状态。",
+                "fr": "Après la révolution, le pays a sombré dans l'anarchie."
+            }
+        },
+        {
+            "word": "monarchy",
+            "part_of_speech": "",
+            "origin": "Greek, monarkhia (rule by one)",
+            "meaning": {
+                "ko": "한 사람에 의한 지배",
+                "en": "rule by one person",
+                "ja": "一人による支配",
+                "zh": "一人统治",
+                "fr": "gouvernement d'une personne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mon-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "archy",
+                    "meaning": {
+                        "ko": "'지배'",
+                        "en": "rule",
+                        "ja": "支配",
+                        "zh": "统治",
+                        "fr": "règne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 사람(군주)이 다스리는' 정치 체제인 '군주제'를 뜻합니다.",
+                "en": "A political system where a single person (monarch) rules.",
+                "ja": "一人の君主が統治する政治体制を意味します。",
+                "zh": "一个人（君主）统治的政治制度的意思。",
+                "fr": "Un système politique où une seule personne (monarque) gouverne."
+            },
+            "example": "The United Kingdom is a constitutional monarchy.",
+            "translation": {
+                "ko": "영국은 입헌 군주국이다.",
+                "ja": "君主制",
+                "zh": "君主制",
+                "fr": "monarchie"
+            }
+        },
+        {
+            "word": "oligarchy",
+            "part_of_speech": "",
+            "origin": "Greek, oligarkhia (government by the few)",
+            "meaning": {
+                "ko": "소수에 의한 정부",
+                "en": "government by the few",
+                "ja": "少数者による統治",
+                "zh": "少数人统治",
+                "fr": "gouvernement de quelques-uns"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "olig-",
+                    "meaning": {
+                        "ko": "'소수의'",
+                        "en": "few",
+                        "ja": "少数の",
+                        "zh": "少数的",
+                        "fr": "peu nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "archy",
+                    "meaning": {
+                        "ko": "'지배'",
+                        "en": "rule",
+                        "ja": "支配",
+                        "zh": "统治",
+                        "fr": "règne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소수의 사람이나 집단이 권력을 장악하고 통치하는' 정치 체제인 '과두 정치'를 뜻합니다.",
+                "en": "A political system where a small group of people or organizations holds power and governs, known as oligarchic rule.",
+                "ja": "少数の人々や集団が権力を握り統治する政治体制で、寡頭政治と呼ばれます。",
+                "zh": "少数人或集团掌握权力并进行统治的政治制度，称为寡头政治。",
+                "fr": "Un système politique où un petit groupe de personnes ou d'organisations détient le pouvoir et gouverne, appelé règle oligarchique."
+            },
+            "example": "The country was ruled by a corrupt oligarchy.",
+            "translation": {
+                "ko": "그 나라는 부패한 과두 정치에 의해 통치되었다.",
+                "ja": "腐敗した寡頭政治体制がその国を支配していた。",
+                "zh": "这个国家由腐败的寡头统治。",
+                "fr": "Le pays était gouverné par une oligarchie corrompue."
+            }
+        }
+    ]
+}

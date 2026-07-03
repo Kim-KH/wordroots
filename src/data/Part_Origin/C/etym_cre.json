@@ -1,0 +1,329 @@
+{
+    "root_info": {
+        "roots": "cre, cresc, cret: grow",
+        "origin": "Latin, crescere",
+        "meaning": {
+            "ko": "자라다",
+            "en": "to grow",
+            "ja": "成長する",
+            "zh": "生长",
+            "fr": "grandir"
+        }
+    },
+    "words": [
+        {
+            "word": "crescent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cresc",
+                    "meaning": {
+                        "ko": "자라다",
+                        "en": "to grow",
+                        "ja": "成長する",
+                        "zh": "生长",
+                        "fr": "croître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'점점 자라나는' 달이라는 의미에서 '초승달'을 뜻합니다.",
+                "en": "From the sense of a moon that grows gradually; refers to a crescent moon.",
+                "ja": "徐々に成長する月という意味から、三日月を指します。",
+                "zh": "从逐渐生长的月亮的含义，指新月。",
+                "fr": "Du sens d'une lune qui croît graduellement; désigne un croissant de lune."
+            },
+            "example": "The crescent moon was visible in the sky.",
+            "translation": {
+                "ko": "하늘에 초승달이 보였다.",
+                "ja": "空に三日月が見えた。",
+                "zh": "天空中可以看到新月。",
+                "fr": "Le croissant de lune était visible dans le ciel."
+            }
+        },
+        {
+            "word": "concrete",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cret (crescere)",
+                    "meaning": {
+                        "ko": "자라다",
+                        "en": "to grow",
+                        "ja": "成長する",
+                        "zh": "生长",
+                        "fr": "croître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 자라 굳어진'이라는 의미에서 '구체적인', '실체가 있는'이라는 뜻과, 건설 재료인 '콘크리트'를 의미합니다.",
+                "en": "From 'growing together and hardening': means both 'specific' or 'tangible' and the building material 'concrete'.",
+                "ja": "「一緒に成長して硬くなる」という意味から、「具体的な」「実体のある」という意味と、建設材料の「コンクリート」を意味します。",
+                "zh": "从「一起生长并变硬」的含义引申，既表示「具体的」「实质性的」，也指建筑材料「混凝土」。",
+                "fr": "Du sens « croître ensemble et durcir » : signifie à la fois « spécifique » ou « concret » et le matériau de construction « béton »."
+            },
+            "example": "I need a concrete example.",
+            "translation": {
+                "ko": "나는 구체적인 예시가 필요하다.",
+                "ja": "具体的な例が必要です。",
+                "zh": "我需要一个具体的例子。",
+                "fr": "J'ai besoin d'un exemple concret."
+            }
+        },
+        {
+            "word": "decrease",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "아래로, 반대",
+                        "en": "down, reverse",
+                        "ja": "下へ、反対",
+                        "zh": "向下、相反",
+                        "fr": "vers le bas, inverse"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cre (crescere)",
+                    "meaning": {
+                        "ko": "자라다",
+                        "en": "to grow",
+                        "ja": "成長する",
+                        "zh": "生长",
+                        "fr": "croître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자라나는 것의 반대'라는 의미에서 '감소하다', '줄이다'는 뜻입니다.",
+                "en": "Opposite of something growing; means to reduce or diminish",
+                "ja": "成長することの反対という意味から、『減少する』『減らす』という意味です。",
+                "zh": "从'生长事物的反面'这个意思延伸，表示'减少'、'降低'。",
+                "fr": "De l'idée contraire de la croissance; signifie réduire ou diminuer."
+            },
+            "example": "The population began to decrease.",
+            "translation": {
+                "ko": "인구가 감소하기 시작했다.",
+                "ja": "人口が減少し始めた。",
+                "zh": "人口开始减少了。",
+                "fr": "La population a commencé à diminuer."
+            }
+        },
+        {
+            "word": "accretion",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ac- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "向",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cret",
+                    "meaning": {
+                        "ko": "자라다",
+                        "en": "to grow",
+                        "ja": "成長する",
+                        "zh": "生长",
+                        "fr": "croître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것에 덧붙어 자라나는 것'이라는 의미에서 '증가', '첨가'를 뜻합니다.",
+                "en": "Something that grows by attaching to something else; means increase or addition",
+                "ja": "何かに付着して成長することから、『増加』『追加』を意味します",
+                "zh": "从'某物附着生长'的含义引申为'增加''添加'之意",
+                "fr": "Ce qui croît en s'attachant à quelque chose; signifie augmentation ou addition"
+            },
+            "example": "The accretion of dust formed a new planet.",
+            "translation": {
+                "ko": "먼지가 부착 성장하여 새로운 행성을 형성했다.",
+                "ja": "塵の付着成長により新しい惑星が形成された。",
+                "zh": "尘埃的增积形成了一颗新行星。",
+                "fr": "L'accrétion de poussière a formé une nouvelle planète."
+            }
+        },
+        {
+            "word": "increase",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "~안에서, ~위에",
+                        "en": "in, on",
+                        "ja": "中に、上に",
+                        "zh": "在...里、在...上",
+                        "fr": "dans, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cre (crescere)",
+                    "meaning": {
+                        "ko": "자라다",
+                        "en": "to grow",
+                        "ja": "成長する",
+                        "zh": "增长、生长",
+                        "fr": "croître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에서부터 자라나다'는 의미에서 '증가하다', '늘리다'는 뜻입니다.",
+                "en": "From the sense of 'growing within or upon,' meaning to grow larger, to augment.",
+                "ja": "「内部から成長する」という意味から、「増加する」「増やす」という意味になります。",
+                "zh": "从「从内部向外生长」的意思衍生出「增加」「增大」的含义。",
+                "fr": "Du sens de « croître de l'intérieur », signifiant augmenter, accroître."
+            },
+            "example": "The company's profits continue to increase.",
+            "translation": {
+                "ko": "그 회사의 이익은 계속해서 증가하고 있다.",
+                "ja": "その会社の利益は増え続けている。",
+                "zh": "那家公司的利润持续增长。",
+                "fr": "Les bénéfices de l'entreprise continuent d'augmenter."
+            }
+        },
+        {
+            "word": "excrescence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cresc",
+                    "meaning": {
+                        "ko": "자라다",
+                        "en": "to grow",
+                        "ja": "成長する",
+                        "zh": "生长",
+                        "fr": "croître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸 밖으로 자라난' 불필요한 것이라는 의미에서, 피부의 '혹', '사마귀'나 '군더더기'를 뜻합니다.",
+                "en": "Something unnecessary that grows outward from the body; refers to skin growths like warts or superfluous additions.",
+                "ja": "体の外に生えた不要なもの。皮膚の疣やいぼ、余計なものを意味します。",
+                "zh": "从体外生长的不必要的东西，指皮肤上的疣、瘊子或多余的附加物。",
+                "fr": "Chose inutile qui pousse vers l'extérieur du corps; désigne les excroissances cutanées comme les verrues ou les ajouts superflus."
+            },
+            "example": "The tree had a strange excrescence on its trunk.",
+            "translation": {
+                "ko": "그 나무의 줄기에는 이상한 혹이 있었다.",
+                "ja": "その木の幹には奇妙な瘤がありました。",
+                "zh": "那棵树的树干上有一个奇怪的瘤。",
+                "fr": "Le tronc de l'arbre avait une étrange excroissance."
+            }
+        },
+        {
+            "word": "recruit",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cruit (crescere)",
+                    "meaning": {
+                        "ko": "자라다",
+                        "en": "to grow",
+                        "ja": "成長する",
+                        "zh": "生长",
+                        "fr": "croître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새로 자라난 것'이라는 의미에서 '신병'을 뜻하게 되었고, 동사로는 '신병을 모집하다', '회원을 모집하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'newly grown,' it came to mean 'new soldier,' and as a verb means 'to enlist soldiers' or 'to enlist members.'",
+                "ja": "「新しく成長した」という意味から「新兵」を意味するようになり、動詞では「新兵を募集する」「会員を募集する」という意味になりました。",
+                "zh": "从「新生成长的」的含义演变为「新兵」的含义，作为动词表示「招募新兵」、「招募成员」。",
+                "fr": "Du sens de « nouvellement cultivé », il en est venu à signifier « nouvelle recrue », et comme verbe signifie « recruter des soldats » ou « recruter des membres »."
+            },
+            "example": "The company is trying to recruit new employees.",
+            "translation": {
+                "ko": "그 회사는 신입 사원을 모집하려고 노력 중이다.",
+                "ja": "その会社は新しい従業員を採用しようとしている。",
+                "zh": "那家公司正在努力招聘新员工。",
+                "fr": "L'entreprise essaie de recruter de nouveaux employés."
+            }
+        },
+        {
+            "word": "create",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cre",
+                    "meaning": {
+                        "ko": "만들다, 자라게 하다",
+                        "en": "to make, to grow",
+                        "ja": "作る、成長させる",
+                        "zh": "制造、使成长",
+                        "fr": "faire, cultiver"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자라나게 하다'는 의미에서 '창조하다', '만들어내다'는 뜻입니다.",
+                "en": "In the sense of 'to cause to grow', it means 'to create', 'to bring into being'",
+                "ja": "成長させるという意味において、創造する、作り出すという意味です",
+                "zh": "在使成长的意义上，意为创造、创造出来",
+                "fr": "Au sens de 'faire croître', cela signifie 'créer', 'produire'"
+            },
+            "example": "We can create a better future.",
+            "translation": {
+                "ko": "우리는 더 나은 미래를 만들 수 있다.",
+                "ja": "私たちはより良い未来を創造することができます。",
+                "zh": "我们可以创造一个更美好的未来。",
+                "fr": "Nous pouvons créer un meilleur avenir."
+            }
+        }
+    ]
+}

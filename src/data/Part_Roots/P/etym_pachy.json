@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "pachy (thick) pachyderm, pachytene",
+        "origin": "Greek, pachys (thick)",
+        "meaning": {
+            "ko": "두꺼운",
+            "en": "thick",
+            "ja": "厚い",
+            "zh": "厚",
+            "fr": "épais"
+        }
+    },
+    "words": [
+        {
+            "word": "pachyderm",
+            "part_of_speech": "",
+            "origin": "Greek, pachys (thick) + derma (skin)",
+            "meaning": {
+                "ko": "두꺼운 피부",
+                "en": "thick skin",
+                "ja": "厚い皮膚の動物",
+                "zh": "厚皮动物",
+                "fr": "animal à peau épaisse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pachy-",
+                    "meaning": {
+                        "ko": "'두꺼운'",
+                        "en": "thick",
+                        "ja": "厚い",
+                        "zh": "厚",
+                        "fr": "épais"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "derm",
+                    "meaning": {
+                        "ko": "'피부'",
+                        "en": "skin",
+                        "ja": "皮膚",
+                        "zh": "皮肤",
+                        "fr": "peau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부가 두꺼운 동물'이라는 의미에서 코끼리, 코뿔소 등의 '후피 동물'을 뜻합니다.",
+                "en": "Refers to thick-skinned animals such as elephants and rhinoceroses, meaning animals with thick skin.",
+                "ja": "象やサイなどの厚い皮膚を持つ動物を指します。",
+                "zh": "指象、犀牛等厚皮动物。",
+                "fr": "Désigne les animaux à peau épaisse comme les éléphants et les rhinocéros."
+            },
+            "example": "Elephants are well-known pachyderms.",
+            "translation": {
+                "ko": "코끼리는 잘 알려진 후피 동물이다.",
+                "ja": "象はよく知られた厚皮動物です。",
+                "zh": "大象是众所周知的厚皮动物。",
+                "fr": "Les éléphants sont des pachydermes bien connus."
+            }
+        },
+        {
+            "word": "pachytene",
+            "part_of_speech": "",
+            "origin": "Greek, pachys (thick) + tainia (band, ribbon)",
+            "meaning": {
+                "ko": "두꺼운 띠",
+                "en": "thick band",
+                "ja": "太い帯状期",
+                "zh": "厚带期",
+                "fr": "phase du ruban épais"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pachy-",
+                    "meaning": {
+                        "ko": "'두꺼운'",
+                        "en": "thick",
+                        "ja": "太い",
+                        "zh": "厚的",
+                        "fr": "épais"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tene",
+                    "meaning": {
+                        "ko": "'띠'",
+                        "en": "ribbon",
+                        "ja": "帯",
+                        "zh": "带",
+                        "fr": "ruban"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 감수분열 시 염색체가 '두꺼워지고 짧아지는' 시기인 '후기'를 뜻합니다.",
+                "en": "During meiosis, the pachytene stage is when chromosomes become thicker and shorter.",
+                "ja": "細胞減数分裂時に、染色体が太くなり短くなる時期を意味します。",
+                "zh": "在细胞减数分裂期间，染色体变厚变短的时期。",
+                "fr": "Pendant la méiose, le stade pachytène est quand les chromosomes deviennent plus épais et plus courts."
+            },
+            "example": "During the pachytene stage, homologous chromosomes pair up.",
+            "translation": {
+                "ko": "후기 단계 동안 상동 염색체가 쌍을 이룬다.",
+                "ja": "太い帯状期では、相同染色体が対合します。",
+                "zh": "在厚带期，同源染色体配对。",
+                "fr": "Au cours du stade pachytène, les chromosomes homologues s'apparient."
+            }
+        }
+    ]
+}

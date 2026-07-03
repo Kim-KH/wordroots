@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "trit (worn, frayed) attrition, trite, triturate",
+        "origin": "Latin, terere, tritus (to rub, to wear away)",
+        "meaning": {
+            "ko": "닳게 하다",
+            "en": "to wear away",
+            "ja": "すり減らす",
+            "zh": "磨损",
+            "fr": "user"
+        }
+    },
+    "words": [
+        {
+            "word": "attrition",
+            "part_of_speech": "",
+            "origin": "Latin, attritio (a rubbing against)",
+            "meaning": {
+                "ko": "마찰",
+                "en": "friction",
+                "ja": "摩耗",
+                "zh": "磨损",
+                "fr": "usure"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "at- (ad-)",
+                    "meaning": {
+                        "ko": "'~에 대항하여'",
+                        "en": "against",
+                        "ja": "に対抗して",
+                        "zh": "对抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trit-",
+                    "meaning": {
+                        "ko": "'문지르다'",
+                        "en": "to rub",
+                        "ja": "こする",
+                        "zh": "摩擦",
+                        "fr": "frotter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'계속된 마찰로 닳아 없어지는 것'이라는 의미에서 '마모', '(인력의) 자연 감소'를 뜻합니다.",
+                "en": "Means wear and tear from continued friction, or natural workforce reduction",
+                "ja": "継続的な摩擦による消耗、または人員の自然減少を意味する",
+                "zh": "表示持续摩擦导致的磨损，或人力的自然减少",
+                "fr": "Signifie l'usure par friction continue ou la réduction naturelle des effectifs"
+            },
+            "example": "The company has a high rate of attrition.",
+            "translation": {
+                "ko": "그 회사는 이직률이 높다.",
+                "ja": "同社は高い離職率を持っている。",
+                "zh": "该公司的员工流失率很高。",
+                "fr": "L'entreprise a un taux de départ élevé."
+            }
+        },
+        {
+            "word": "trite",
+            "part_of_speech": "",
+            "origin": "Latin, tritus (worn out)",
+            "meaning": {
+                "ko": "닳아빠진",
+                "en": "worn out",
+                "ja": "ありふれた、陳腐な",
+                "zh": "平凡的、陈旧的",
+                "fr": "banal, usé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trit-",
+                    "meaning": {
+                        "ko": "'닳다'",
+                        "en": "to wear out",
+                        "ja": "すり減る",
+                        "zh": "磨损",
+                        "fr": "s'user"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'너무 많이 써서 닳아빠진'이라는 의미에서 '진부한', '독창적이지 못한'이라는 뜻입니다.",
+                "en": "Meaning 'worn out from overuse', hence 'banal' or 'lacking originality'",
+                "ja": "過度に使用されて摩耗した状態から、'平凡な'、'独創性のない'という意味になります",
+                "zh": "从'由于过度使用而磨损'的含义衍生出'平凡的'、'缺乏原创性的'之意",
+                "fr": "Signifie 'usé par un usage excessif', d'où 'banal' ou 'manquant d'originalité'"
+            },
+            "example": "His speech was full of trite clichés.",
+            "translation": {
+                "ko": "그의 연설은 진부한 상투어로 가득했다.",
+                "ja": "彼のスピーチは陳腐な決まり文句で満ちていた。",
+                "zh": "他的演讲充满了平凡的陈词滥调。",
+                "fr": "Son discours était rempli de clichés banals."
+            }
+        },
+        {
+            "word": "triturate",
+            "part_of_speech": "",
+            "origin": "Latin, triturare (to thresh)",
+            "meaning": {
+                "ko": "탈곡하다",
+                "en": "to thresh",
+                "ja": "粉末に砕く",
+                "zh": "研磨成粉末",
+                "fr": "réduire en poudre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trit-",
+                    "meaning": {
+                        "ko": "'문지르다, 갈다'",
+                        "en": "to rub",
+                        "ja": "こする、ひく",
+                        "zh": "摩擦、研磨",
+                        "fr": "frotter, moudre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'곡식을 문질러 빻듯이' 단단한 물질을 '갈아서 가루로 만들다'는 뜻입니다.",
+                "en": "Hard substances are ground into powder by rubbing or grinding them like separating grain from chaff",
+                "ja": "穀物を文擦るように硬い物質を砕いて粉にすることです",
+                "zh": "像脱粒一样通过摩擦或研磨将硬物质磨成粉末",
+                "fr": "Broyer des substances dures en poudre en les frottant ou en les moulant comme le battage du grain"
+            },
+            "example": "The pharmacist had to triturate the pills into a fine powder.",
+            "translation": {
+                "ko": "약사는 알약을 고운 가루로 만들어야 했다.",
+                "ja": "薬剤師は錠剤を細かい粉末に砕く必要がありました",
+                "zh": "药剂师必须将药片研磨成细粉",
+                "fr": "Le pharmacien devait réduire les comprimés en poudre fine"
+            }
+        }
+    ]
+}

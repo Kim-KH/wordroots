@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "oligo (few) oligarch, oligarchy, Oligocene",
+        "origin": "Greek, oligos (few, little)",
+        "meaning": {
+            "ko": "소수의",
+            "en": "few",
+            "ja": "少数の",
+            "zh": "少数的",
+            "fr": "peu"
+        }
+    },
+    "words": [
+        {
+            "word": "oligarch",
+            "part_of_speech": "",
+            "origin": "Greek, oligos (few) + arkhein (to rule)",
+            "meaning": {
+                "ko": "소수가 다스리다",
+                "en": "ruled by the few",
+                "ja": "少数支配者",
+                "zh": "寡头",
+                "fr": "oligarque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "olig-",
+                    "meaning": {
+                        "ko": "'소수의'",
+                        "en": "few",
+                        "ja": "少数の",
+                        "zh": "少数的",
+                        "fr": "peu nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arch",
+                    "meaning": {
+                        "ko": "'지배자'",
+                        "en": "ruler",
+                        "ja": "支配者",
+                        "zh": "统治者",
+                        "fr": "dirigeant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소수 지배 체제의 지배자'라는 의미에서 '과두제 집권층의 한 사람'을 뜻합니다.",
+                "en": "A person in power within an oligarchic system where a few rule many",
+                "ja": "少数支配体制の権力者の一人",
+                "zh": "少数统治制度中的权力者",
+                "fr": "Un membre dirigeant d'un système oligarchique"
+            },
+            "example": "The country is run by a group of powerful oligarchs.",
+            "translation": {
+                "ko": "그 나라는 강력한 과두제 집권층에 의해 운영된다.",
+                "ja": "その国は強力な寡頭支配者のグループに支配されている。",
+                "zh": "该国由一群强大的寡头统治。",
+                "fr": "Le pays est dirigé par un groupe d'oligarques puissants."
+            }
+        },
+        {
+            "word": "oligarchy",
+            "part_of_speech": "",
+            "origin": "Greek, oligarkhia (government by the few)",
+            "meaning": {
+                "ko": "소수에 의한 정부",
+                "en": "government by the few",
+                "ja": "少数者による統治",
+                "zh": "少数人统治",
+                "fr": "gouvernement par quelques-uns"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "olig-",
+                    "meaning": {
+                        "ko": "'소수의'",
+                        "en": "few",
+                        "ja": "少ない",
+                        "zh": "少数的",
+                        "fr": "peu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "archy",
+                    "meaning": {
+                        "ko": "'지배'",
+                        "en": "rule",
+                        "ja": "支配",
+                        "zh": "统治",
+                        "fr": "règne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소수의 사람이나 집단이 권력을 장악하고 통치하는 정치 체제'인 '과두 정치'를 뜻합니다.",
+                "en": "A political system where a small group of people or organizations hold power and govern the state.",
+                "ja": "少数の人々または団体が権力を握り、国家を統治する政治体制です。",
+                "zh": "少数人或组织掌握权力并统治国家的政治制度。",
+                "fr": "Un système politique où un petit groupe de personnes ou d'organisations détient le pouvoir et gouverne l'État."
+            },
+            "example": "The ancient city-state was an oligarchy.",
+            "translation": {
+                "ko": "그 고대 도시 국가는 과두 정치 체제였다.",
+                "ja": "古代都市国家は寡頭制でした。",
+                "zh": "古代城邦是寡头统治。",
+                "fr": "La cité-État antique était une oligarchie."
+            }
+        },
+        {
+            "word": "Oligocene",
+            "part_of_speech": "",
+            "origin": "Greek, oligos (few) + kainos (new)",
+            "meaning": {
+                "ko": "약간 새로운",
+                "en": "somewhat new",
+                "ja": "やや新しい",
+                "zh": "略微新的",
+                "fr": "légèrement nouveau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Oligo-",
+                    "meaning": {
+                        "ko": "'약간의, 소수의'",
+                        "en": "few",
+                        "ja": "少ない、少数の",
+                        "zh": "少的、少数的",
+                        "fr": "peu, minorité"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cene",
+                    "meaning": {
+                        "ko": "'새로운'",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새로운 포유류가 약간만 나타난 시기'라는 의미의 지질 시대 '점신세'를 뜻합니다.",
+                "en": "A geological epoch meaning the period when few new mammals appeared",
+                "ja": "新しい哺乳類が少しだけ出現した時期という意味の地質時代",
+                "zh": "地质时代，意为新的哺乳动物出现较少的时期",
+                "fr": "Époque géologique signifiant la période où peu de nouveaux mammifères sont apparus"
+            },
+            "example": "The Oligocene epoch lasted from about 34 to 23 million years ago.",
+            "translation": {
+                "ko": "점신세는 약 3400만 년 전부터 2300만 년 전까지 지속되었다.",
+                "ja": "始新世",
+                "zh": "渐新世",
+                "fr": "Oligocène"
+            }
+        }
+    ]
+}

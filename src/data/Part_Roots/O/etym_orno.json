@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "orno (adorn) adorn, ornament, ornate",
+        "origin": "Latin, ornare (to equip, to adorn)",
+        "meaning": {
+            "ko": "장식하다",
+            "en": "to adorn",
+            "ja": "飾る",
+            "zh": "装饰",
+            "fr": "orner"
+        }
+    },
+    "words": [
+        {
+            "word": "adorn",
+            "part_of_speech": "",
+            "origin": "Latin, adornare (to decorate)",
+            "meaning": {
+                "ko": "장식하다",
+                "en": "to decorate or ornament",
+                "ja": "装飾する",
+                "zh": "装饰",
+                "fr": "orner"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "'~에'",
+                        "en": "to",
+                        "ja": "に",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "orn",
+                    "meaning": {
+                        "ko": "'장식하다'",
+                        "en": "to adorn",
+                        "ja": "装飾する",
+                        "zh": "装饰",
+                        "fr": "orner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아름답게 하기 위해 장식하다'는 뜻입니다.",
+                "en": "To decorate something to make it beautiful",
+                "ja": "美しくするために装飾すること",
+                "zh": "为了使其美丽而装饰",
+                "fr": "Décorer quelque chose pour le rendre beau"
+            },
+            "example": "The room was adorned with flowers.",
+            "translation": {
+                "ko": "그 방은 꽃으로 장식되어 있었다.",
+                "ja": "部屋は花で装飾されていた。",
+                "zh": "房间用花装饰了。",
+                "fr": "La pièce était ornée de fleurs."
+            }
+        },
+        {
+            "word": "ornament",
+            "part_of_speech": "",
+            "origin": "Latin, ornamentum (equipment, decoration)",
+            "meaning": {
+                "ko": "장비, 장식",
+                "en": "equipment or decoration",
+                "ja": "装飾品、飾り",
+                "zh": "装饰品、装饰",
+                "fr": "ornement, décoration"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "orna-",
+                    "meaning": {
+                        "ko": "'장식하다'",
+                        "en": "to adorn",
+                        "ja": "装飾する",
+                        "zh": "装饰、修饰",
+                        "fr": "orner, décorer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아름다움을 더하기 위한 장식품'을 뜻합니다.",
+                "en": "A decorative object added to enhance beauty",
+                "ja": "美しさを加えるための装飾品を意味します",
+                "zh": "为增加美感而添加的装饰品",
+                "fr": "Un objet décoratif ajouté pour améliorer la beauté"
+            },
+            "example": "The Christmas tree was covered with colorful ornaments.",
+            "translation": {
+                "ko": "크리스마스트리는 화려한 장식품들로 덮여 있었다.",
+                "ja": "クリスマスツリーはカラフルな装飾品で覆われていました",
+                "zh": "圣诞树被五彩缤纷的装饰品覆盖了",
+                "fr": "Le sapin de Noël était recouvert d'ornements colorés"
+            }
+        },
+        {
+            "word": "ornate",
+            "part_of_speech": "",
+            "origin": "Latin, ornatus (adorned)",
+            "meaning": {
+                "ko": "장식된",
+                "en": "decorated",
+                "ja": "装飾された",
+                "zh": "装饰的",
+                "fr": "orné"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "orn-",
+                    "meaning": {
+                        "ko": "'장식하다'",
+                        "en": "to adorn",
+                        "ja": "装飾する",
+                        "zh": "装饰",
+                        "fr": "orner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'복잡한 무늬로 화려하게 장식된'이라는 뜻입니다.",
+                "en": "Means elaborately decorated with complex patterns",
+                "ja": "複雑な模様で華やかに装飾された意味です",
+                "zh": "用复杂的图案华丽装饰的意思",
+                "fr": "Signifie décorer élaborément avec des motifs complexes"
+            },
+            "example": "The palace has an ornate interior.",
+            "translation": {
+                "ko": "그 궁전은 화려한 실내 장식을 하고 있다.",
+                "ja": "その宮殿は豪華な内装を持っています",
+                "zh": "这座宫殿有华丽的内部装饰",
+                "fr": "Le palais a un intérieur orné"
+            }
+        }
+    ]
+}

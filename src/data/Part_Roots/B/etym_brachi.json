@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "brachi (arm) brachia, embrace",
+        "origin": "Latin, bracchium (arm)",
+        "meaning": {
+            "ko": "팔",
+            "en": "arm",
+            "ja": "腕",
+            "zh": "手臂",
+            "fr": "bras"
+        }
+    },
+    "words": [
+        {
+            "word": "brachia",
+            "part_of_speech": "",
+            "origin": "Latin, bracchium (arm)",
+            "meaning": {
+                "ko": "팔",
+                "en": "arm",
+                "ja": "腕",
+                "zh": "手臂",
+                "fr": "bras"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "brachi (bracchium)",
+                    "meaning": {
+                        "ko": "'팔'",
+                        "en": "arm",
+                        "ja": "腕",
+                        "zh": "手臂",
+                        "fr": "bras"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'팔'을 의미하는 라틴어 'bracchium'의 복수형으로, 해부학 등에서 '팔' 또는 '팔 모양의 구조물'을 지칭할 때 사용됩니다.",
+                "en": "Plural of Latin 'bracchium (arm)'; used in anatomy to refer to arms or arm-like structures.",
+                "ja": "ラテン語「bracchium（腕）」の複数形で、解剖学などで「腕」や「腕状の構造物」を指す。",
+                "zh": "拉丁语「bracchium（手臂）」的复数形，解剖学中指「手臂」或「臂状结构」。",
+                "fr": "Pluriel de latin 'bracchium (bras)'; utilisé en anatomie pour désigner les bras ou les structures en forme de bras."
+            },
+            "example": "In zoology, brachia can refer to the arms of a starfish.",
+            "translation": {
+                "ko": "동물학에서, brachia는 불가사리의 팔을 지칭할 수 있다.",
+                "ja": "ヒトデの腕が外側に広がっていた。",
+                "zh": "海星的臂向外伸展。",
+                "fr": "Les bras de l'étoile de mer s'étendaient vers l'extérieur."
+            }
+        },
+        {
+            "word": "embrace",
+            "part_of_speech": "",
+            "origin": "Old French, embracer (to clasp in the arms)",
+            "meaning": {
+                "ko": "팔로 감싸다",
+                "en": "to clasp in the arms",
+                "ja": "腕に抱く",
+                "zh": "搂抱",
+                "fr": "serrer dans les bras"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "em- (in-)",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "brace (bracchium)",
+                    "meaning": {
+                        "ko": "'두 팔'",
+                        "en": "the two arms",
+                        "ja": "両腕",
+                        "zh": "双臂",
+                        "fr": "les deux bras"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 팔(brace) 안으로(em) 끌어안다'는 의미에서 '포옹하다'라는 뜻이 되었으며, 비유적으로 생각이나 사상 등을 '받아들이다', '포용하다'라는 의미로도 확장되었습니다.",
+                "en": "From 'pull into the arms (brace)'; to hug, or figuratively to accept or welcome an idea.",
+                "ja": "「腕(brace)の中に(em)引き寄せる」から「抱きしめる」、比喩的に考えや思想を「受け入れる」「受容する」。",
+                "zh": "意为「拉入手臂(brace)中(em)」，即「拥抱」；比喻意为「接受」「包容」想法或思想。",
+                "fr": "De 'tirer dans les bras (brace)'; étreindre, ou figurativement accepter ou accueillir une idée."
+            },
+            "example": "They embraced each other warmly.",
+            "translation": {
+                "ko": "그들은 서로를 따뜻하게 껴안았다.",
+                "ja": "彼女は何年ぶりかで友人を抱きしめた。",
+                "zh": "阔别多年后，她拥抱了朋友。",
+                "fr": "Elle a embrassé son ami après des années de séparation."
+            }
+        }
+    ]
+}

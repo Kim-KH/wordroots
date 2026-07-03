@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "mono (single) monochromatic, monogamy, monogram, monolith",
+        "origin": "Greek, monos (single, alone)",
+        "meaning": {
+            "ko": "하나의, 혼자의",
+            "en": "single, alone",
+            "ja": "一つの、ひとりの",
+            "zh": "单一的、独自的",
+            "fr": "seul, unique"
+        }
+    },
+    "words": [
+        {
+            "word": "monochromatic",
+            "part_of_speech": "",
+            "origin": "Greek, monokhromatos (of a single color)",
+            "meaning": {
+                "ko": "단일한 색의",
+                "en": "of a single color",
+                "ja": "単一色の",
+                "zh": "单色的",
+                "fr": "monochrome"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mono-",
+                    "meaning": {
+                        "ko": "'하나의'",
+                        "en": "single",
+                        "ja": "一つの",
+                        "zh": "单一的",
+                        "fr": "unique"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chromatic (khroma)",
+                    "meaning": {
+                        "ko": "'색'",
+                        "en": "color",
+                        "ja": "色",
+                        "zh": "颜色",
+                        "fr": "couleur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단 하나의 색으로 된'이라는 의미에서 '단색의'라는 뜻입니다.",
+                "en": "Meaning 'composed of a single color only'",
+                "ja": "ただ一つの色で構成された意味",
+                "zh": "仅由一种颜色组成的意思",
+                "fr": "Signifiant composé d'une seule couleur"
+            },
+            "example": "The artist is known for his monochromatic paintings.",
+            "translation": {
+                "ko": "그 화가는 단색 그림으로 유명하다.",
+                "ja": "このアーティストは単色の絵画で知られています。",
+                "zh": "这位艺术家以单色绘画而闻名。",
+                "fr": "L'artiste est connu pour ses peintures monochromes."
+            }
+        },
+        {
+            "word": "monogamy",
+            "part_of_speech": "",
+            "origin": "Greek, monogamia (marrying only once)",
+            "meaning": {
+                "ko": "한 번의 결혼",
+                "en": "marriage one time",
+                "ja": "一夫一婦制",
+                "zh": "一夫一妻制",
+                "fr": "monogamie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mono-",
+                    "meaning": {
+                        "ko": "'하나의'",
+                        "en": "single",
+                        "ja": "単一の",
+                        "zh": "单一的",
+                        "fr": "unique"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gamy (gamos)",
+                    "meaning": {
+                        "ko": "'결혼'",
+                        "en": "marriage",
+                        "ja": "結婚",
+                        "zh": "婚姻",
+                        "fr": "mariage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 번의 결혼' 또는 '한 명의 배우자만 두는' 제도라는 의미에서 '일부일처제'를 뜻합니다.",
+                "en": "Monogamy refers to the practice or custom of being married to one person at a time, or the system of having only one spouse.",
+                "ja": "一度に一人の配偶者だけを持つ制度または慣行を意味します。",
+                "zh": "指同一时间内只与一个人结婚或只有一个配偶的制度。",
+                "fr": "Désigne la pratique ou le système d'être marié à une seule personne à la fois."
+            },
+            "example": "Monogamy is the most common form of marriage in Western cultures.",
+            "translation": {
+                "ko": "일부일처제는 서양 문화에서 가장 흔한 결혼 형태이다.",
+                "ja": "一夫一婦制は西洋文化で最も一般的な結婚形態です。",
+                "zh": "一夫一妻制是西方文化中最常见的婚姻形式。",
+                "fr": "La monogamie est la forme de mariage la plus courante dans les cultures occidentales."
+            }
+        },
+        {
+            "word": "monogram",
+            "part_of_speech": "",
+            "origin": "Greek, monogrammon (consisting of a single letter)",
+            "meaning": {
+                "ko": "단일한 글자",
+                "en": "single letter",
+                "ja": "単一の文字",
+                "zh": "单一的字母",
+                "fr": "lettre unique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mono-",
+                    "meaning": {
+                        "ko": "'하나의'",
+                        "en": "single",
+                        "ja": "ひとつの",
+                        "zh": "单一的",
+                        "fr": "unique"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram (gramma)",
+                    "meaning": {
+                        "ko": "'글자'",
+                        "en": "letter",
+                        "ja": "文字",
+                        "zh": "字母",
+                        "fr": "lettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 글자를 합쳐 하나처럼 보이게 만든 도안'이라는 의미에서 '모노그램(이름의 첫 글자들을 합친 도안)'을 뜻합니다.",
+                "en": "A design made by combining multiple letters to appear as one, typically using initials of a name to create a monogram.",
+                "ja": "複数の文字を組み合わせてひとつのように見えるデザイン、通常は名前の頭文字を組み合わせたモノグラムを意味します。",
+                "zh": "将多个字母组合在一起形成一个统一的设计，通常是由名字的首字母组合而成的纹章。",
+                "fr": "Un dessin créé en combinant plusieurs lettres pour en former un seul, généralement les initiales d'un nom pour créer un monogramme."
+            },
+            "example": "His shirt had his monogram on the pocket.",
+            "translation": {
+                "ko": "그의 셔츠 주머니에는 그의 모노그램이 새겨져 있었다.",
+                "ja": "彼のシャツのポケットに彼のモノグラムがありました。",
+                "zh": "他的衬衫口袋上有他的名字首字母组合。",
+                "fr": "Sa chemise avait son monogramme sur la poche."
+            }
+        },
+        {
+            "word": "monolith",
+            "part_of_speech": "",
+            "origin": "Greek, monolithos (made of a single stone)",
+            "meaning": {
+                "ko": "하나의 돌로 만들어진",
+                "en": "made of a single stone",
+                "ja": "一つの石でできた",
+                "zh": "由单一石头制成",
+                "fr": "fait d'une seule pierre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mono-",
+                    "meaning": {
+                        "ko": "'하나의'",
+                        "en": "single",
+                        "ja": "単一の",
+                        "zh": "单一的",
+                        "fr": "unique"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lith (lithos)",
+                    "meaning": {
+                        "ko": "'돌'",
+                        "en": "stone",
+                        "ja": "石",
+                        "zh": "石头",
+                        "fr": "pierre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'통째로 된 하나의 큰 돌'이라는 의미에서 '거석', '독석'을 뜻합니다.",
+                "en": "Refers to a single large stone block or monolith as a whole",
+                "ja": "全体として一つの大きな石のブロック",
+                "zh": "指整体的单一大石块",
+                "fr": "désigne un seul grand bloc de pierre dans son ensemble"
+            },
+            "example": "The statue was carved from a single monolith.",
+            "translation": {
+                "ko": "그 조각상은 하나의 거석으로 조각되었다.",
+                "ja": "その像は一つの巨石から彫られていた。",
+                "zh": "这座雕像是从一块巨石雕刻而成的。",
+                "fr": "La statue a été sculptée à partir d'un seul monolithe."
+            }
+        }
+    ]
+}

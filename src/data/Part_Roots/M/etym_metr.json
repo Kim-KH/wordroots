@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "metr(o) (mother) metropolis, metropolitan",
+        "origin": "Greek, meter (mother)",
+        "meaning": {
+            "ko": "어머니",
+            "en": "mother",
+            "ja": "母",
+            "zh": "母亲",
+            "fr": "mère"
+        }
+    },
+    "words": [
+        {
+            "word": "metropolis",
+            "part_of_speech": "",
+            "origin": "Greek, metropolis (mother city)",
+            "meaning": {
+                "ko": "어머니 도시",
+                "en": "mother city",
+                "ja": "母都市、大都市",
+                "zh": "母城、大都市",
+                "fr": "métropole, grande ville"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "metro-",
+                    "meaning": {
+                        "ko": "'어머니'",
+                        "en": "mother",
+                        "ja": "母、母親",
+                        "zh": "母亲、母",
+                        "fr": "mère"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polis",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市、町",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식민지의 어머니가 되는 도시'라는 의미에서 '주요 도시', '대도시'를 뜻하게 되었습니다.",
+                "en": "Originally meant the mother city of colonies; came to mean major city or metropolis",
+                "ja": "植民地の母都市という意味から、主要都市や大都市を意味するようになりました",
+                "zh": "从殖民地的母城之意演变为主要城市或大都市的含义",
+                "fr": "Signifiait à l'origine la ville mère des colonies; est devenu synonyme de grande ville ou métropole"
+            },
+            "example": "New York is a bustling metropolis.",
+            "translation": {
+                "ko": "뉴욕은 붐비는 대도시이다.",
+                "ja": "ニューヨークは活気あふれる大都市です。",
+                "zh": "纽约是一座繁华的大都市。",
+                "fr": "New York est une métropole animée."
+            }
+        },
+        {
+            "word": "metropolitan",
+            "part_of_speech": "",
+            "origin": "Greek, metropolis (mother city)",
+            "meaning": {
+                "ko": "어머니 도시",
+                "en": "mother city",
+                "ja": "母都市の",
+                "zh": "母城市的",
+                "fr": "ville mère"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "metro-",
+                    "meaning": {
+                        "ko": "'어머니 도시'",
+                        "en": "mother city",
+                        "ja": "母都市",
+                        "zh": "母城市",
+                        "fr": "ville mère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대도시의'라는 뜻입니다.",
+                "en": "Means of a large city",
+                "ja": "大都市の意味です",
+                "zh": "大城市的意思",
+                "fr": "Signifie d'une grande ville"
+            },
+            "example": "The museum is located in the metropolitan area.",
+            "translation": {
+                "ko": "그 박물관은 대도시 지역에 위치해 있다.",
+                "ja": "博物館は都市圏に位置しています。",
+                "zh": "博物馆位于大都市地区。",
+                "fr": "Le musée est situé dans la région métropolitaine."
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "pleur (rib) pleura, pleuropneumonia, pleurisy",
+        "origin": "Greek, pleura (a rib, the side)",
+        "meaning": {
+            "ko": "갈비, 옆구리",
+            "en": "rib, side",
+            "ja": "肋骨、側面",
+            "zh": "肋骨、侧面",
+            "fr": "côte, flanc"
+        }
+    },
+    "words": [
+        {
+            "word": "pleura",
+            "part_of_speech": "",
+            "origin": "Greek, pleura (rib, side)",
+            "meaning": {
+                "ko": "갈비, 옆구리",
+                "en": "rib, side of body",
+                "ja": "胸膜、肋骨",
+                "zh": "胸膜、肋骨",
+                "fr": "plèvre, côte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pleur-",
+                    "meaning": {
+                        "ko": "'옆구리, 흉막'",
+                        "en": "side, pleura",
+                        "ja": "脇腹、胸膜",
+                        "zh": "肋骨、胸膜",
+                        "fr": "flanc, plèvre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가슴의 옆, 즉 폐를 감싸고 있는 막'인 '흉막', '늑막'을 뜻합니다.",
+                "en": "The pleura is a thin membrane that surrounds the lungs on the side of the chest, also called visceral pleura or pleural membrane",
+                "ja": "肺を包む胸の側の膜、つまり胸膜と呼ばれます",
+                "zh": "包围肺部的胸部两侧的膜，称为胸膜",
+                "fr": "La membrane fine qui entoure les poumons sur le côté de la poitrine, appelée plèvre"
+            },
+            "example": "The pleura is a thin membrane that lines the chest cavity.",
+            "translation": {
+                "ko": "흉막은 흉강을 둘러싸고 있는 얇은 막이다.",
+                "ja": "胸膜は肺を囲む薄い膜です",
+                "zh": "胸膜是包围肺部的薄膜",
+                "fr": "La plèvre est une fine membrane qui entoure les poumons"
+            }
+        },
+        {
+            "word": "pleuropneumonia",
+            "part_of_speech": "",
+            "origin": "Greek, pleura (side) + pneumon (lung)",
+            "meaning": {
+                "ko": "흉막과 폐",
+                "en": "pleura and lung",
+                "ja": "胸膜肺炎",
+                "zh": "胸膜肺炎",
+                "fr": "pleuropneumonie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pleuro-",
+                    "meaning": {
+                        "ko": "'흉막'",
+                        "en": "pleura",
+                        "ja": "胸膜",
+                        "zh": "胸膜",
+                        "fr": "plèvre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pneumonia",
+                    "meaning": {
+                        "ko": "'폐렴'",
+                        "en": "pneumonia",
+                        "ja": "肺炎",
+                        "zh": "肺炎",
+                        "fr": "pneumonie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'흉막과 폐에 동시에 염증이 생기는 병'인 '흉막 폐렴'을 뜻합니다.",
+                "en": "Pleuropneumonia refers to pleuropneumonia, a disease in which inflammation occurs simultaneously in the pleura and lungs.",
+                "ja": "胸膜と肺に同時に炎症が生じる病気である胸膜肺炎を意味します。",
+                "zh": "指胸膜和肺同时发生炎症的疾病胸膜肺炎。",
+                "fr": "Désigne la pleuropneumonie, une maladie où l'inflammation se produit simultanément dans la plèvre et les poumons."
+            },
+            "example": "Pleuropneumonia is a serious respiratory disease in pigs.",
+            "translation": {
+                "ko": "흉막 폐렴은 돼지에게 발생하는 심각한 호흡기 질환이다.",
+                "ja": "豚の重篤な呼吸器疾患である胸膜肺炎",
+                "zh": "猪的严重呼吸道疾病胸膜肺炎",
+                "fr": "La pleuropneumonie est une maladie respiratoire grave chez les porcs."
+            }
+        },
+        {
+            "word": "pleurisy",
+            "part_of_speech": "",
+            "origin": "Greek, pleuritis",
+            "meaning": {
+                "ko": "흉막염",
+                "en": "inflammation of the pleura",
+                "ja": "胸膜炎",
+                "zh": "胸膜炎",
+                "fr": "pleurésie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pleur-",
+                    "meaning": {
+                        "ko": "'흉막'",
+                        "en": "pleura",
+                        "ja": "胸膜",
+                        "zh": "胸膜",
+                        "fr": "plèvre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'흉막에 염증이 생기는 병'인 '흉막염', '늑막염'을 뜻합니다.",
+                "en": "Pleurisy, also called pleuritis, refers to inflammation of the pleura (the membrane surrounding the lungs).",
+                "ja": "胸膜に炎症が生じる病気である胸膜炎、肋膜炎を意味します。",
+                "zh": "胸膜发炎引起的疾病，称为胸膜炎。",
+                "fr": "Maladie caractérisée par une inflammation de la plèvre."
+            },
+            "example": "Pleurisy causes sharp chest pain that worsens with breathing.",
+            "translation": {
+                "ko": "흉막염은 숨 쉴 때 악화되는 날카로운 흉통을 유발한다.",
+                "ja": "胸膜炎は呼吸で悪化する鋭い胸痛を引き起こします。",
+                "zh": "胸膜炎引起随呼吸加重的胸痛。",
+                "fr": "La pleurésie provoque une douleur thoracique aiguë aggravée par la respiration."
+            }
+        }
+    ]
+}

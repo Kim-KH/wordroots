@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "cyan(o) (blue-green) cyan, cyanide, cyanobacteria",
+        "origin": "Greek, kyanos (dark blue)",
+        "meaning": {
+            "ko": "짙은 파랑",
+            "en": "dark blue",
+            "ja": "濃い青",
+            "zh": "深蓝",
+            "fr": "bleu foncé"
+        }
+    },
+    "words": [
+        {
+            "word": "cyan",
+            "part_of_speech": "",
+            "origin": "Greek, kyanos (dark blue)",
+            "meaning": {
+                "ko": "짙은 파랑",
+                "en": "dark blue",
+                "ja": "青緑色",
+                "zh": "青绿色",
+                "fr": "bleu cyan"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyan-",
+                    "meaning": {
+                        "ko": "'짙은 파랑, 청록'",
+                        "en": "dark blue",
+                        "ja": "濃い青、青緑",
+                        "zh": "深蓝、青绿",
+                        "fr": "bleu foncé, cyan"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "인쇄에 사용되는 기본 색상 중 하나인 '청록색'을 뜻합니다.",
+                "en": "One of the primary colors used in printing, referring to cyan color.",
+                "ja": "印刷に使用される基本色の一つである青緑色を意味します。",
+                "zh": "印刷中使用的基本色之一，指青绿色。",
+                "fr": "L'une des couleurs primaires utilisées dans l'impression, désignant la couleur cyan."
+            },
+            "example": "The printer is low on cyan ink.",
+            "translation": {
+                "ko": "프린터의 청록색 잉크가 부족하다.",
+                "ja": "プリンターのシアンインクが少なくなっています。",
+                "zh": "打印机的青色墨水不足。",
+                "fr": "L'imprimante manque d'encre cyan."
+            }
+        },
+        {
+            "word": "cyanide",
+            "part_of_speech": "",
+            "origin": "Greek, kyanos (dark blue)",
+            "meaning": {
+                "ko": "짙은 파랑",
+                "en": "deep blue",
+                "ja": "濃い青色",
+                "zh": "深蓝色",
+                "fr": "bleu foncé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyan-",
+                    "meaning": {
+                        "ko": "'청색'",
+                        "en": "blue",
+                        "ja": "青色",
+                        "zh": "蓝色",
+                        "fr": "bleu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "특정 '청색' 안료(프러시안 블루)에서 처음 분리되어 '청산가리', '시안화물'을 뜻하게 되었습니다.",
+                "en": "Originally isolated from a specific blue pigment (Prussian blue), leading to its meaning as cyanide or cyanide compound.",
+                "ja": "特定の青色顔料（プルシアンブルー）から最初に分離され、シアン化物を意味するようになりました。",
+                "zh": "最初从特定蓝色颜料（普鲁士蓝）中分离出来，因此得名为氰化物。",
+                "fr": "Initialement isolé d'un pigment bleu spécifique (bleu de Prusse), d'où son sens de cyanure."
+            },
+            "example": "Cyanide is a highly toxic chemical.",
+            "translation": {
+                "ko": "시안화물은 독성이 매우 강한 화학 물질이다.",
+                "ja": "シアン化物",
+                "zh": "氰化物",
+                "fr": "cyanure"
+            }
+        },
+        {
+            "word": "cyanobacteria",
+            "part_of_speech": "",
+            "origin": "Greek, kyanos (dark blue) + bakterion (staff, rod)",
+            "meaning": {
+                "ko": "청색 박테리아",
+                "en": "blue bacteria",
+                "ja": "青緑色の細菌",
+                "zh": "蓝绿色细菌",
+                "fr": "bactéries bleu-vert"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyano-",
+                    "meaning": {
+                        "ko": "'청록색'",
+                        "en": "blue-green",
+                        "ja": "青緑色",
+                        "zh": "蓝绿色",
+                        "fr": "bleu-vert"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bacteria",
+                    "meaning": {
+                        "ko": "'박테리아'",
+                        "en": "bacteria",
+                        "ja": "細菌",
+                        "zh": "细菌",
+                        "fr": "bactérie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'청록색을 띠는 박테리아'라는 의미에서 '남세균'을 뜻합니다.",
+                "en": "Cyanobacteria are photosynthetic bacteria with a blue-green color",
+                "ja": "青緑色を帯びる光合成細菌を意味します",
+                "zh": "指呈现蓝绿色的光合细菌",
+                "fr": "Bactéries photosynthétiques de couleur bleu-vert"
+            },
+            "example": "Cyanobacteria are photosynthetic organisms.",
+            "translation": {
+                "ko": "남세균은 광합성을 하는 유기체이다.",
+                "ja": "シアノバクテリア",
+                "zh": "蓝藻",
+                "fr": "cyanobactéries"
+            }
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "root_info": {
+        "roots": "tri (three) triangle, triceratops, tricuspid, triceps, triptych, trinity",
+        "origin": "Greek, treis / Latin, tres (three)",
+        "meaning": {
+            "ko": "셋",
+            "en": "three",
+            "ja": "3つ、3倍の",
+            "zh": "三",
+            "fr": "trois"
+        }
+    },
+    "words": [
+        {
+            "word": "triangle",
+            "part_of_speech": "",
+            "origin": "Latin, triangulum (three-cornered)",
+            "meaning": {
+                "ko": "세 개의 각",
+                "en": "three angles",
+                "ja": "3つの角",
+                "zh": "三个角",
+                "fr": "trois angles"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "3",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "angle",
+                    "meaning": {
+                        "ko": "'각'",
+                        "en": "corner, angle",
+                        "ja": "角、隅",
+                        "zh": "角、拐角",
+                        "fr": "angle, coin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세 개의 각을 가진 도형'이라는 의미에서 '삼각형'을 뜻합니다.",
+                "en": "Refers to a shape with three angles, meaning a polygon with three sides and three vertices.",
+                "ja": "3つの角を持つ図形という意味から三角形を指します。",
+                "zh": "指具有三个角的图形，即具有三条边和三个顶点的多边形。",
+                "fr": "Désigne une forme ayant trois angles, c'est-à-dire un polygone à trois côtés et trois sommets."
+            },
+            "example": "The sum of the angles in a triangle is 180 degrees.",
+            "translation": {
+                "ko": "삼각형의 내각의 합은 180도이다.",
+                "ja": "三角形の角の合計は180度です。",
+                "zh": "三角形的角度之和是180度。",
+                "fr": "La somme des angles dans un triangle est 180 degrés."
+            }
+        },
+        {
+            "word": "triceratops",
+            "part_of_speech": "",
+            "origin": "Greek, tri- (three) + keras (horn) + ops (face)",
+            "meaning": {
+                "ko": "세 개의 뿔이 있는 얼굴",
+                "en": "face with three horns",
+                "ja": "3本の角を持つ顔",
+                "zh": "有三个角的脸",
+                "fr": "visage à trois cornes"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "三",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cerat",
+                    "meaning": {
+                        "ko": "'뿔'",
+                        "en": "horn",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "corne"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ops",
+                    "meaning": {
+                        "ko": "'얼굴'",
+                        "en": "face",
+                        "ja": "顔",
+                        "zh": "脸",
+                        "fr": "visage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'얼굴에 세 개의 뿔이 달린 공룡'이라는 의미에서 '트리케라톱스'를 뜻합니다.",
+                "en": "Triceratops means 'dinosaur with three horns on its face'",
+                "ja": "トリケラトプスは「顔に3本の角がある恐竜」という意味です",
+                "zh": "三角龙是指脸上有三个角的恐龙",
+                "fr": "Triceratops signifie dinosaure avec trois cornes sur le visage"
+            },
+            "example": "Triceratops was a plant-eating dinosaur.",
+            "translation": {
+                "ko": "트리케라톱스는 초식 공룡이었다.",
+                "ja": "トリケラトプスは草食恐竜でした",
+                "zh": "三角龙是一种食草恐龙",
+                "fr": "Triceratops était un dinosaure herbivore"
+            }
+        },
+        {
+            "word": "tricuspid",
+            "part_of_speech": "",
+            "origin": "Latin, tri- (three) + cuspis (point)",
+            "meaning": {
+                "ko": "세 개의 뾰족한 끝",
+                "en": "three pointed tips",
+                "ja": "三つの尖った先端",
+                "zh": "三个尖端",
+                "fr": "trois pointes"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "三",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cuspid",
+                    "meaning": {
+                        "ko": "'첨두, 뾰족한 끝'",
+                        "en": "point",
+                        "ja": "尖った先端",
+                        "zh": "尖端",
+                        "fr": "pointe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세 개의 뾰족한 끝(첨판)을 가진'이라는 의미로, 심장의 '삼첨판'을 가리킵니다.",
+                "en": "Refers to the tricuspid valve of the heart, which has three cusps or pointed ends.",
+                "ja": "心臓の三尖弁を指し、三つの尖った先端（弁葉）を持つという意味です。",
+                "zh": "指心脏的三尖瓣，具有三个尖端（瓣叶）的意思。",
+                "fr": "Désigne la valve tricuspide du cœur, qui possède trois cuspides ou pointes."
+            },
+            "example": "The tricuspid valve is located between the right atrium and the right ventricle of the heart.",
+            "translation": {
+                "ko": "삼첨판은 심장의 우심방과 우심실 사이에 위치한다.",
+                "ja": "三尖弁は右心房と右心室の間に位置しています。",
+                "zh": "三尖瓣位于心脏的右心房和右心室之间。",
+                "fr": "La valve tricuspide est située entre l'oreillette droite et le ventricule droit du cœur."
+            }
+        },
+        {
+            "word": "triceps",
+            "part_of_speech": "",
+            "origin": "Latin, triceps (three-headed)",
+            "meaning": {
+                "ko": "세 개의 머리",
+                "en": "three heads",
+                "ja": "3つの頭",
+                "zh": "三个头",
+                "fr": "trois têtes"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "3つ",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceps (caput)",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头",
+                        "fr": "tête"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세 개의 머리(이는곳)를 가진 근육'이라는 의미에서 팔 위쪽 뒷부분의 '상완삼두근'을 뜻합니다.",
+                "en": "A muscle with three attachment points, referring to the triceps brachii on the back of the upper arm",
+                "ja": "3つの付着部を持つ筋肉で、上腕の後部にある上腕三頭筋を意味します",
+                "zh": "具有三个附着点的肌肉，指上臂后部的三头肌",
+                "fr": "Un muscle avec trois points d'attache, désignant le triceps brachial à l'arrière du bras"
+            },
+            "example": "He does exercises to strengthen his biceps and triceps.",
+            "translation": {
+                "ko": "그는 이두근과 삼두근을 강화하기 위해 운동한다.",
+                "ja": "彼は二頭筋と三頭筋を強化するために運動をしています。",
+                "zh": "他做运动来增强二头肌和三头肌。",
+                "fr": "Il fait des exercices pour renforcer ses biceps et triceps."
+            }
+        },
+        {
+            "word": "triptych",
+            "part_of_speech": "",
+            "origin": "Greek, triptychos (three-layered)",
+            "meaning": {
+                "ko": "세 겹의",
+                "en": "three layers or folds",
+                "ja": "三連画",
+                "zh": "三联画",
+                "fr": "triptyque"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "三つ",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ptych",
+                    "meaning": {
+                        "ko": "'접다, 겹'",
+                        "en": "fold",
+                        "ja": "折る、重ねる",
+                        "zh": "折叠、层",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세 개의 판으로 이루어져 접을 수 있는 그림이나 제단화'를 의미하는 '삼면화(三面畵)'를 뜻합니다.",
+                "en": "A picture or altarpiece consisting of three panels that can be folded together",
+                "ja": "三つのパネルで構成され、折りたたむことができる絵画または祭壇画",
+                "zh": "由三个面板组成的、可以折叠的绘画或祭坛画",
+                "fr": "Une peinture ou un retable composé de trois panneaux pouvant être repliés ensemble"
+            },
+            "example": "The museum acquired a famous medieval triptych.",
+            "translation": {
+                "ko": "그 박물관은 유명한 중세 삼면화를 구입했다.",
+                "ja": "博物館は中世の有名な三連画を買収した。",
+                "zh": "博物馆收购了一幅著名的中世纪三联画。",
+                "fr": "Le musée a acquis un célèbre triptyque médiéval."
+            }
+        },
+        {
+            "word": "trinity",
+            "part_of_speech": "",
+            "origin": "Latin, trinitas (threefoldness)",
+            "meaning": {
+                "ko": "세 겹임",
+                "en": "being threefold",
+                "ja": "三つの一体",
+                "zh": "三位一体",
+                "fr": "trinité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "三つ",
+                        "zh": "三个",
+                        "fr": "trois"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세 개가 하나를 이루는 것'이라는 의미로, 기독교의 '삼위일체'를 뜻합니다.",
+                "en": "Refers to the Christian concept of the Holy Trinity, where three entities form one whole.",
+                "ja": "キリスト教の三位一体を意味し、三つのものが一つになることです。",
+                "zh": "指基督教的三位一体，三个实体组成一个整体。",
+                "fr": "Désigne la Trinité chrétienne, où trois entités forment un seul ensemble."
+            },
+            "example": "The concept of the Holy Trinity is central to Christian belief.",
+            "translation": {
+                "ko": "성삼위일체 개념은 기독교 신앙의 핵심이다.",
+                "ja": "聖三位一体の概念はキリスト教信仰の中心です。",
+                "zh": "圣三位一体的概念是基督教信仰的核心。",
+                "fr": "Le concept de la Sainte-Trinité est au cœur de la croyance chrétienne."
+            }
+        }
+    ]
+}

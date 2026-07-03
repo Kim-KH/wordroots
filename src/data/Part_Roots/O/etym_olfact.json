@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "olfact (smell) olfaction, olfactory",
+        "origin": "Latin, olfacere (to smell)",
+        "meaning": {
+            "ko": "냄새를 맡다",
+            "en": "to smell",
+            "ja": "嗅ぐ",
+            "zh": "闻",
+            "fr": "sentir"
+        }
+    },
+    "words": [
+        {
+            "word": "olfaction",
+            "part_of_speech": "",
+            "origin": "Latin, olfactio (a smelling)",
+            "meaning": {
+                "ko": "냄새 맡기",
+                "en": "to smell or sense odor",
+                "ja": "嗅覚",
+                "zh": "嗅觉",
+                "fr": "olfaction"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "olfact-",
+                    "meaning": {
+                        "ko": "'냄새를 맡다'",
+                        "en": "to smell",
+                        "ja": "匂いを嗅ぐ",
+                        "zh": "闻到气味",
+                        "fr": "sentir une odeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'냄새를 맡는 행위'라는 의미에서 '후각'을 뜻합니다.",
+                "en": "The act of smelling",
+                "ja": "匂いを嗅ぐ行為",
+                "zh": "闻气味的行为",
+                "fr": "l'acte de sentir une odeur"
+            },
+            "example": "The sense of olfaction is closely linked to memory.",
+            "translation": {
+                "ko": "후각은 기억과 밀접하게 연결되어 있다.",
+                "ja": "嗅覚は記憶と密接に関連している。",
+                "zh": "嗅觉与记忆密切相关。",
+                "fr": "Le sens de l'olfaction est étroitement lié à la mémoire."
+            }
+        },
+        {
+            "word": "olfactory",
+            "part_of_speech": "",
+            "origin": "Latin, olfactorius (pertaining to smelling)",
+            "meaning": {
+                "ko": "냄새 맡는 것에 관한",
+                "en": "relating to the sense of smell",
+                "ja": "においを感じる",
+                "zh": "嗅觉的",
+                "fr": "relatif à l'odorat"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "olfact-",
+                    "meaning": {
+                        "ko": "'냄새를 맡다'",
+                        "en": "to smell",
+                        "ja": "においを感じる",
+                        "zh": "嗅气味",
+                        "fr": "sentir l'odeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'후각의'라는 뜻입니다.",
+                "en": "Means 'of or relating to the sense of smell'",
+                "ja": "嗅覚に関する意味です",
+                "zh": "表示与嗅觉有关",
+                "fr": "Signifie relatif à l'odorat"
+            },
+            "example": "The olfactory nerve transmits smell information to the brain.",
+            "translation": {
+                "ko": "후각 신경은 냄새 정보를 뇌로 전달한다.",
+                "ja": "嗅覚神経は脳に匂い情報を伝えます",
+                "zh": "嗅觉神经将气味信息传递到大脑",
+                "fr": "Le nerf olfactif transmet l'information olfactive au cerveau"
+            }
+        }
+    ]
+}

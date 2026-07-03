@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "acious (tending toward) gracious, rapacious, spacious",
+        "origin": "Latin, -ax, -acis (tending to)",
+        "meaning": {
+            "ko": "…하는 경향이 있는",
+            "en": "tending to",
+            "ja": "...する傾向がある",
+            "zh": "倾向于...",
+            "fr": "ayant tendance à..."
+        }
+    },
+    "words": [
+        {
+            "word": "gracious",
+            "part_of_speech": "",
+            "origin": "Latin, gratiosus (full of favor, kind)",
+            "meaning": {
+                "ko": "호의로 가득 찬, 친절한",
+                "en": "full of favor, kind",
+                "ja": "親切で上品な",
+                "zh": "亲切优雅的",
+                "fr": "bienveillant et élégant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grac- (gratia)",
+                    "meaning": {
+                        "ko": "'호의, 은총'",
+                        "en": "favor, grace",
+                        "ja": "好意、恵み",
+                        "zh": "恩惠、恩典",
+                        "fr": "faveur, grâce"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ious",
+                    "meaning": {
+                        "ko": "'~으로 가득한'",
+                        "en": "full of",
+                        "ja": "~に満ちた",
+                        "zh": "充满~的",
+                        "fr": "rempli de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'호의로 가득한'이라는 의미에서 '상냥한', '우아한'이라는 뜻입니다.",
+                "en": "Means 'kind and elegant' from the sense of 'full of favor'",
+                "ja": "'好意に満ちた'という意味から'親切で、優雅'という意味になります",
+                "zh": "'充满好意'的含义引申为'亲切优雅'的意思",
+                "fr": "Signifie 'gentil et élégant' à partir du sens de 'rempli de faveur'"
+            },
+            "example": "She is a gracious hostess.",
+            "translation": {
+                "ko": "그녀는 상냥한 여주인이다.",
+                "ja": "彼女は親切なホステスです",
+                "zh": "她是一位亲切的女主人",
+                "fr": "Elle est une hôtesse bienveillante"
+            }
+        },
+        {
+            "word": "rapacious",
+            "part_of_speech": "",
+            "origin": "Latin, rapax (grasping)",
+            "meaning": {
+                "ko": "움켜쥐는",
+                "en": "grasping or seizing greedily",
+                "ja": "貪欲な",
+                "zh": "贪婪的",
+                "fr": "vorace"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rap- (rapere)",
+                    "meaning": {
+                        "ko": "'강탈하다'",
+                        "en": "to seize",
+                        "ja": "奪い取る",
+                        "zh": "夺取",
+                        "fr": "saisir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-acious",
+                    "meaning": {
+                        "ko": "'~하는 경향이 있는'",
+                        "en": "having tendency to be",
+                        "ja": "~する傾向がある",
+                        "zh": "倾向于~",
+                        "fr": "tendance à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'욕심 많게 움켜쥐려는 경향이 있는'이라는 의미에서 '탐욕스러운'이라는 뜻입니다.",
+                "en": "Means greedy or predatory, describing a tendency to seize or grasp things eagerly",
+                "ja": "貪欲に物を奪い取ろうとする傾向を表し、搾取的な意味を持つ",
+                "zh": "表示贪心地夺取或掌握事物的倾向，具有掠夺性的含义",
+                "fr": "Signifie avide ou prédateur, décrivant une tendance à saisir ou prendre les choses avidement"
+            },
+            "example": "The rapacious landlord charged exorbitant rents.",
+            "translation": {
+                "ko": "그 탐욕스러운 집주인은 터무니없는 집세를 청구했다.",
+                "ja": "その貪欲な家主は法外な家賃を請求した",
+                "zh": "那个贪婪的房东收取了过高的租金",
+                "fr": "Le propriétaire vorace facturait des loyers exorbitants"
+            }
+        },
+        {
+            "word": "spacious",
+            "part_of_speech": "",
+            "origin": "Latin, spatiosus (roomy)",
+            "meaning": {
+                "ko": "공간이 많은",
+                "en": "having plenty of space",
+                "ja": "広い空間のある",
+                "zh": "空间宽敞的",
+                "fr": "spacieux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spa- (spatium)",
+                    "meaning": {
+                        "ko": "'공간'",
+                        "en": "space",
+                        "ja": "空間",
+                        "zh": "空间",
+                        "fr": "espace"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-cious",
+                    "meaning": {
+                        "ko": "'~으로 가득한'",
+                        "en": "full of",
+                        "ja": "~で満ちた",
+                        "zh": "充满~的",
+                        "fr": "rempli de~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공간이 많은'이라는 의미에서 '넓은'이라는 뜻입니다.",
+                "en": "Describes having plenty of space, meaning spacious or roomy",
+                "ja": "空間が多いという意味で、広いという意味です",
+                "zh": "表示有很多空间，意思是宽敞的",
+                "fr": "Signifie avoir beaucoup d'espace, spacieux ou vaste"
+            },
+            "example": "The house has a spacious living room.",
+            "translation": {
+                "ko": "그 집에는 넓은 거실이 있다.",
+                "ja": "その家は広いリビングルームを持っています。",
+                "zh": "这座房子有一个宽敞的客厅。",
+                "fr": "La maison a un salon spacieux."
+            }
+        }
+    ]
+}

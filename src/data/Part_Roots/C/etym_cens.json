@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "cens (judge) census, censor, consensus",
+        "origin": "Latin, censere (to assess, judge, estimate)",
+        "meaning": {
+            "ko": "판단하다, 평가하다",
+            "en": "to judge, assess",
+            "ja": "判断する、評価する",
+            "zh": "判断，评估",
+            "fr": "juger, évaluer"
+        }
+    },
+    "words": [
+        {
+            "word": "census",
+            "part_of_speech": "",
+            "origin": "Latin, census (a registering of citizens and property)",
+            "meaning": {
+                "ko": "시민 등록",
+                "en": "citizen registration",
+                "ja": "人口調査",
+                "zh": "人口普查",
+                "fr": "recensement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cens (censere)",
+                    "meaning": {
+                        "ko": "'평가하다'",
+                        "en": "to assess",
+                        "ja": "評価する",
+                        "zh": "评估",
+                        "fr": "évaluer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마에서 시민의 수와 재산을 '평가하여' 등록하던 제도에서 유래하여, 국가가 시행하는 '인구 조사'를 뜻하게 되었습니다.",
+                "en": "In ancient Rome, census referred to a system of assessing and registering the number and property of citizens. This evolved to mean a population survey conducted by the state.",
+                "ja": "古代ローマで市民の数と財産を'評価して'登録する制度に由来し、国家が実施する'人口調査'を意味するようになりました。",
+                "zh": "源自古罗马评估和登记公民数量及财产的制度，后来演变为国家进行的'人口普查'。",
+                "fr": "En ancien Rome, le système consistant à 'évaluer' et enregistrer le nombre et les biens des citoyens a donné naissance au sens moderne d'enquête démographique menée par l'État."
+            },
+            "example": "The country conducts a census every ten years.",
+            "translation": {
+                "ko": "그 나라는 10년마다 인구 조사를 실시한다.",
+                "ja": "その国は10年ごとに人口調査を実施しています。",
+                "zh": "该国每十年进行一次人口普查。",
+                "fr": "Le pays effectue un recensement tous les dix ans."
+            }
+        },
+        {
+            "word": "censor",
+            "part_of_speech": "",
+            "origin": "Latin, censor (a Roman magistrate)",
+            "meaning": {
+                "ko": "로마 감찰관",
+                "en": "Roman official censor",
+                "ja": "古代ローマの監察官",
+                "zh": "古代罗马监察官",
+                "fr": "censeur romain antique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cens (censere)",
+                    "meaning": {
+                        "ko": "'심판하다'",
+                        "en": "to judge",
+                        "ja": "判断する",
+                        "zh": "判断",
+                        "fr": "juger"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "one who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마에서 시민의 도덕과 행실을 '심판하던' 감찰관에서 유래하여, 책, 영화, 뉴스 등의 내용을 '검열하는 사람' 즉 '검열관'을 의미합니다.",
+                "en": "In ancient Rome, censors judged citizens' morality and conduct. The term evolved to mean a person who examines and restricts content in books, films, and news—a censor.",
+                "ja": "古代ローマで市民の道徳と行為を判断していた監察官に由来し、書籍、映画、ニュースなどの内容を検査して制限する人、つまり検閲官を意味します。",
+                "zh": "源自古代罗马对市民道德和行为进行'判断'的监察官，后来指对书籍、电影、新闻等内容进行'审查'的人，即检查官。",
+                "fr": "Dérivé du censeur romain antique qui jugeait la moralité des citoyens. Le terme a évolué pour désigner une personne qui examine et restreint le contenu des livres, films et actualités."
+            },
+            "example": "The movie was cut by the state censor.",
+            "translation": {
+                "ko": "그 영화는 국가 검열관에 의해 일부 삭제되었다.",
+                "ja": "映画は国家検閲官によって削除された。",
+                "zh": "这部电影被国家检查官删减了。",
+                "fr": "Le film a été coupé par le censeur d'État."
+            }
+        },
+        {
+            "word": "consensus",
+            "part_of_speech": "",
+            "origin": "Latin, consensus (agreement, accord)",
+            "meaning": {
+                "ko": "합의",
+                "en": "agreement or accord",
+                "ja": "合意、意見の一致",
+                "zh": "共识、一致意见",
+                "fr": "consensus, accord"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens (sentire)",
+                    "meaning": {
+                        "ko": "'느끼다, 생각하다'",
+                        "en": "to feel, think",
+                        "ja": "感じる、考える",
+                        "zh": "感受、认为",
+                        "fr": "sentir, penser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께(con) 느끼거나 생각함'이라는 의미에서, 집단 구성원들의 '의견 일치', '합의'를 뜻합니다. censere와 sentire는 같은 어원에서 파생되었습니다.",
+                "en": "From Latin con- (together) + censere/sentire (to feel, think). Refers to collective agreement or consensus among group members. Both censere and sentire derive from the same etymological root.",
+                "ja": "ラテン語のcon-(一緒に)とcensere/sentire(感じる、考える)から。グループメンバーの集団的な合意や見解の一致を意味します。censereとsentireは同じ語源から派生しています。",
+                "zh": "来自拉丁语con-(共同)和censere/sentire(感受、认为)。指群体成员的集体同意或共同见解。censere和sentire源自相同的词源。",
+                "fr": "Du latin con- (ensemble) + censere/sentire (sentir, penser). Désigne l'accord collectif ou le consensus parmi les membres d'un groupe. Censere et sentire dérivent de la même racine étymologique."
+            },
+            "example": "There is a growing consensus that the current policy needs to be changed.",
+            "translation": {
+                "ko": "현재의 정책이 바뀌어야 한다는 합의가 점점 커지고 있다.",
+                "ja": "現在の政策を変える必要があるという共識が高まっている。",
+                "zh": "对当前政策需要改变的共识在增长。",
+                "fr": "Il existe un consensus croissant selon lequel la politique actuelle doit être modifiée."
+            }
+        }
+    ]
+}

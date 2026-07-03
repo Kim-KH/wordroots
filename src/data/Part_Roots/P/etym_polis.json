@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "polis (city) acropolis, metropolis, megalopolis, necropolis",
+        "origin": "Greek, polis (city)",
+        "meaning": {
+            "ko": "도시",
+            "en": "city",
+            "ja": "都市",
+            "zh": "城市",
+            "fr": "ville"
+        }
+    },
+    "words": [
+        {
+            "word": "acropolis",
+            "part_of_speech": "",
+            "origin": "Greek, akropolis (upper city)",
+            "meaning": {
+                "ko": "높은 도시",
+                "en": "high city",
+                "ja": "高い都市",
+                "zh": "高城",
+                "fr": "ville haute"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "acro-",
+                    "meaning": {
+                        "ko": "'높은'",
+                        "en": "high",
+                        "ja": "高い",
+                        "zh": "高",
+                        "fr": "haut"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polis",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "cité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스 도시 국가에서 '가장 높은 곳에 위치한 도시' 또는 '성채'를 뜻합니다.",
+                "en": "In ancient Greek city-states, it refers to a 'city located at the highest point' or 'citadel'.",
+                "ja": "古代ギリシャの都市国家で、最も高い場所に位置する都市または城塞を意味します。",
+                "zh": "在古代希腊城邦中，指位于最高处的城市或堡垒。",
+                "fr": "Dans les cités-États de la Grèce antique, désigne une 'ville située au point le plus élevé' ou 'citadelle'."
+            },
+            "example": "The Acropolis of Athens is a famous landmark.",
+            "translation": {
+                "ko": "아테네의 아크로폴리스는 유명한 랜드마크이다.",
+                "ja": "アテナイのアクロポリスは有名なランドマークです。",
+                "zh": "雅典卫城是著名的地标。",
+                "fr": "L'Acropole d'Athènes est un célèbre monument."
+            }
+        },
+        {
+            "word": "metropolis",
+            "part_of_speech": "",
+            "origin": "Greek, metropolis (mother city)",
+            "meaning": {
+                "ko": "어머니 도시",
+                "en": "mother city",
+                "ja": "主要都市、大都市",
+                "zh": "主要城市、大都市",
+                "fr": "métropole, grande ville"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "metro-",
+                    "meaning": {
+                        "ko": "'어머니'",
+                        "en": "mother",
+                        "ja": "母、母親",
+                        "zh": "母亲、母",
+                        "fr": "mère"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polis",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市、町",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식민지의 어머니가 되는 도시'라는 의미에서 '주요 도시', '대도시'를 뜻하게 되었습니다.",
+                "en": "Originally meant the mother city of colonies, later came to mean major city or metropolis",
+                "ja": "植民地の母となる都市という意味から、主要都市や大都市を指すようになりました",
+                "zh": "源自殖民地母城的含义，后来指主要城市或大都市",
+                "fr": "Signifiait à l'origine la ville mère des colonies, devenu métropole ou grande ville"
+            },
+            "example": "Tokyo is a vast metropolis.",
+            "translation": {
+                "ko": "도쿄는 거대한 대도시이다.",
+                "ja": "東京は広大な大都市です",
+                "zh": "东京是一个广大的大都市",
+                "fr": "Tokyo est une vaste métropole"
+            }
+        },
+        {
+            "word": "megalopolis",
+            "part_of_speech": "",
+            "origin": "Greek, megalo- (great) + polis (city)",
+            "meaning": {
+                "ko": "큰 도시",
+                "en": "large city",
+                "ja": "巨大都市",
+                "zh": "巨大城市",
+                "fr": "mégalopole"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "megalo-",
+                    "meaning": {
+                        "ko": "'큰'",
+                        "en": "great",
+                        "ja": "大きい",
+                        "zh": "伟大的",
+                        "fr": "grand"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polis",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 도시가 연결된 거대한 도시 지역'인 '거대 도시'를 뜻합니다.",
+                "en": "A megalopolis refers to a huge urban area where multiple cities are connected together.",
+                "ja": "複数の都市が接続された巨大な都市地域を意味します。",
+                "zh": "指多个城市相连形成的巨大城市地区。",
+                "fr": "Une région urbaine géante où plusieurs villes sont connectées."
+            },
+            "example": "The Boston-Washington corridor is a megalopolis.",
+            "translation": {
+                "ko": "보스턴-워싱턴 회랑은 거대 도시이다.",
+                "ja": "ボストン・ワシントン回廊は巨大都市である。",
+                "zh": "波士顿-华盛顿走廊是一个巨大城市。",
+                "fr": "Le corridor Boston-Washington est une mégalopole."
+            }
+        },
+        {
+            "word": "necropolis",
+            "part_of_speech": "",
+            "origin": "Greek, nekropolis (city of the dead)",
+            "meaning": {
+                "ko": "죽은 자의 도시",
+                "en": "city of the dead",
+                "ja": "死者の都市",
+                "zh": "死者之城",
+                "fr": "ville des morts"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "necro-",
+                    "meaning": {
+                        "ko": "'죽은 자'",
+                        "en": "the dead",
+                        "ja": "死者",
+                        "zh": "死者",
+                        "fr": "les morts"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polis",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죽은 자들을 위한 도시'라는 의미에서 고대의 '대규모 공동묘지'를 뜻합니다.",
+                "en": "In the sense of 'a city for the dead', it refers to an ancient large-scale communal cemetery.",
+                "ja": "死者のための都市という意味で、古代の大規模共同墓地を指します。",
+                "zh": "指古代意义上的'为死者而建的城市'，即大规模公共墓地。",
+                "fr": "Au sens de 'ville pour les morts', il désigne une grande nécropole collective antique."
+            },
+            "example": "The ancient city of Thebes has a famous necropolis.",
+            "translation": {
+                "ko": "고대 도시 테베에는 유명한 공동묘지가 있다.",
+                "ja": "古代テーベ市には有名な死者の都市があります。",
+                "zh": "古代底比斯城有一个著名的死者之城。",
+                "fr": "L'ancienne ville de Thèbes possède une célèbre nécropole."
+            }
+        }
+    ]
+}

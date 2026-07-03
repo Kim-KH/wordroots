@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "hab, habit (live) cohabitate, habitat, inhabit",
+        "origin": "Latin, habere (to have), habitare (to live)",
+        "meaning": {
+            "ko": "가지다, 살다",
+            "en": "to have, to live",
+            "ja": "持つ、住む",
+            "zh": "有，住",
+            "fr": "avoir, vivre"
+        }
+    },
+    "words": [
+        {
+            "word": "cohabitate",
+            "part_of_speech": "",
+            "origin": "Latin, co- (together) + habitare (to live)",
+            "meaning": {
+                "ko": "함께 살다",
+                "en": "to live together",
+                "ja": "同棲する",
+                "zh": "同居",
+                "fr": "cohabiter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "co-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "habit",
+                    "meaning": {
+                        "ko": "'살다'",
+                        "en": "to live",
+                        "ja": "住む",
+                        "zh": "住",
+                        "fr": "vivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'결혼하지 않고 함께 살다'는 의미에서 '동거하다'라는 뜻입니다.",
+                "en": "Living together without being married",
+                "ja": "結婚せずに一緒に住むこと",
+                "zh": "未婚同居的意思",
+                "fr": "Vivre ensemble sans être marié"
+            },
+            "example": "They decided to cohabitate before getting married.",
+            "translation": {
+                "ko": "그들은 결혼하기 전에 동거하기로 결정했다.",
+                "ja": "彼らは結婚前に同棲することに決めた。",
+                "zh": "他们决定在结婚前同居。",
+                "fr": "Ils ont décidé de cohabiter avant de se marier."
+            }
+        },
+        {
+            "word": "habitat",
+            "part_of_speech": "",
+            "origin": "Latin, habitare (to live)",
+            "meaning": {
+                "ko": "살다",
+                "en": "to live",
+                "ja": "生息地",
+                "zh": "栖息地",
+                "fr": "habitat"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "habit-",
+                    "meaning": {
+                        "ko": "'살다'",
+                        "en": "to live",
+                        "ja": "生きる",
+                        "zh": "生活",
+                        "fr": "vivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동식물이 사는 장소'라는 의미에서 '서식지'를 뜻합니다.",
+                "en": "Refers to 'habitat' in the sense of a place where animals and plants live.",
+                "ja": "動植物が生きる場所という意味で、生息地を意味します。",
+                "zh": "指动植物生活的地方，意思是栖息地。",
+                "fr": "Désigne le lieu où vivent les animaux et les plantes, c'est-à-dire l'habitat."
+            },
+            "example": "The panda's natural habitat is the bamboo forests of China.",
+            "translation": {
+                "ko": "판다의 자연 서식지는 중국의 대나무 숲이다.",
+                "ja": "パンダの自然な生息地は中国の竹林です。",
+                "zh": "熊猫的自然栖息地是中国的竹林。",
+                "fr": "L'habitat naturel du panda est les forêts de bambous de Chine."
+            }
+        },
+        {
+            "word": "inhabit",
+            "part_of_speech": "",
+            "origin": "Latin, inhabitare (to dwell in)",
+            "meaning": {
+                "ko": "안에 살다",
+                "en": "to live inside",
+                "ja": "住む",
+                "zh": "居住",
+                "fr": "habiter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "habit",
+                    "meaning": {
+                        "ko": "'살다'",
+                        "en": "to live",
+                        "ja": "住む",
+                        "zh": "生活",
+                        "fr": "vivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 장소에 살다'는 의미입니다.",
+                "en": "To live in a certain place",
+                "ja": "ある場所に住むという意味です",
+                "zh": "在某个地方生活的意思",
+                "fr": "Vivre dans un certain endroit"
+            },
+            "example": "Various tribes inhabit the Amazon rainforest.",
+            "translation": {
+                "ko": "다양한 부족들이 아마존 열대우림에 서식한다.",
+                "ja": "様々な部族がアマゾン熱帯雨林に住んでいます。",
+                "zh": "各种部落居住在亚马逊热带雨林中。",
+                "fr": "Diverses tribus habitent la forêt tropicale de l'Amazonie."
+            }
+        }
+    ]
+}

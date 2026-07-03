@@ -1,0 +1,194 @@
+{
+    "root_info": {
+        "roots": "hypo",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "아래에, 보다 적은",
+            "en": "below, less than",
+            "ja": "下に、より少ない",
+            "zh": "下面，少于",
+            "fr": "au-dessous, moins que"
+        }
+    },
+    "words": [
+        {
+            "word": "hypotension",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hypo-",
+                    "meaning": {
+                        "ko": "아래",
+                        "en": "below",
+                        "ja": "下",
+                        "zh": "下方",
+                        "fr": "au-dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tension",
+                    "meaning": {
+                        "ko": "압력",
+                        "en": "pressure",
+                        "ja": "圧力",
+                        "zh": "压力",
+                        "fr": "pression"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정상보다 낮은 압력' 즉, '저혈압'을 뜻합니다.",
+                "en": "Abnormally low blood pressure",
+                "ja": "正常より低い血圧、つまり低血圧を意味します",
+                "zh": "低于正常的血压，即低血压",
+                "fr": "Pression artérielle anormalement basse, c'est-à-dire hypotension"
+            },
+            "example": "Hypotension can cause dizziness.",
+            "translation": {
+                "ko": "저혈압은 현기증을 유발할 수 있다.",
+                "ja": "低血圧はめまいを引き起こす可能性があります",
+                "zh": "低血压会导致头晕",
+                "fr": "L'hypotension peut causer des vertiges"
+            }
+        },
+        {
+            "word": "hypodermic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hypo-",
+                    "meaning": {
+                        "ko": "아래",
+                        "en": "under",
+                        "ja": "下",
+                        "zh": "下",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dermic",
+                    "meaning": {
+                        "ko": "피부",
+                        "en": "skin",
+                        "ja": "皮膚",
+                        "zh": "皮肤",
+                        "fr": "peau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부 아래의'라는 뜻으로, '피하 주사용의'라는 의미입니다.",
+                "en": "Means 'under the skin,' referring to injection administered beneath the skin surface.",
+                "ja": "「皮膚の下」という意味で、皮膚の下に注射する医療用語です。",
+                "zh": "意思是「皮肤下面」，指的是在皮肤下注射的医学用语。",
+                "fr": "Signifie « sous la peau », désignant une injection administrée sous la surface cutanée."
+            },
+            "example": "The doctor used a hypodermic needle.",
+            "translation": {
+                "ko": "의사는 피하 주사 바늘을 사용했다.",
+                "ja": "医者は皮下注射針を使用した。",
+                "zh": "医生使用了皮下注射针。",
+                "fr": "Le médecin a utilisé une aiguille hypodermique."
+            }
+        },
+        {
+            "word": "hypoglycemia",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hypo-",
+                    "meaning": {
+                        "ko": "보다 적은",
+                        "en": "less than",
+                        "ja": "より少ない",
+                        "zh": "少于",
+                        "fr": "moins que"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "glyc",
+                    "meaning": {
+                        "ko": "당",
+                        "en": "sugar",
+                        "ja": "糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emia",
+                    "meaning": {
+                        "ko": "피",
+                        "en": "blood",
+                        "ja": "血液",
+                        "zh": "血液",
+                        "fr": "sang"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈액 속의 당이 정상보다 적은 상태' 즉, '저혈당증'을 뜻합니다.",
+                "en": "A condition where blood sugar levels are lower than normal; literally 'low blood sugar'",
+                "ja": "血液中の糖が正常より少ない状態、つまり「低血糖症」を意味します。",
+                "zh": "血液中的糖低于正常水平的状态，即\"低血糖症\"。",
+                "fr": "Un état où la concentration de sucre dans le sang est inférieure à la normale ; littéralement \"hypoglycémie\"."
+            },
+            "example": "Hypoglycemia can be dangerous for diabetics.",
+            "translation": {
+                "ko": "저혈당증은 당뇨병 환자에게 위험할 수 있다.",
+                "ja": "低血糖症は糖尿病患者にとって危険である可能性があります。",
+                "zh": "低血糖症对糖尿病患者可能很危险。",
+                "fr": "L'hypoglycémie peut être dangereuse pour les diabétiques."
+            }
+        },
+        {
+            "word": "hypoallergenic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hypo-",
+                    "meaning": {
+                        "ko": "보다 적은",
+                        "en": "less",
+                        "ja": "より少ない",
+                        "zh": "较少",
+                        "fr": "moins"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "allergenic",
+                    "meaning": {
+                        "ko": "알레르기를 일으키는",
+                        "en": "causing allergic reactions",
+                        "ja": "アレルギーを引き起こす",
+                        "zh": "引起过敏反应",
+                        "fr": "provoquant une allergie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알레르기를 덜 일으키는'이라는 의미에서 '저자극성의'라는 뜻입니다.",
+                "en": "Meaning 'causing fewer allergic reactions' or 'low-irritant'",
+                "ja": "アレルギー反応をより少なく引き起こす、または低刺激性という意味です",
+                "zh": "意为'引起较少的过敏反应'或'低刺激性'",
+                "fr": "Signifiant 'provoquant moins de réactions allergiques' ou 'faible irritant'"
+            },
+            "example": "This lotion is hypoallergenic.",
+            "translation": {
+                "ko": "이 로션은 저자극성이다.",
+                "ja": "低刺激性の",
+                "zh": "低过敏性的",
+                "fr": "hypoallergénique"
+            }
+        }
+    ]
+}

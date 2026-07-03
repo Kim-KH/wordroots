@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "geri (old) geriatrics, gerontology",
+        "origin": "Greek, geras (old age)",
+        "meaning": {
+            "ko": "노년",
+            "en": "old age",
+            "ja": "老年",
+            "zh": "老年",
+            "fr": "vieillesse"
+        }
+    },
+    "words": [
+        {
+            "word": "geriatrics",
+            "part_of_speech": "",
+            "origin": "Greek, geras (old age) + iatros (physician)",
+            "meaning": {
+                "ko": "노년 의사",
+                "en": "elderly medicine doctor",
+                "ja": "老年医学",
+                "zh": "老年医学",
+                "fr": "gériatrie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "geri-",
+                    "meaning": {
+                        "ko": "'노인'",
+                        "en": "old age",
+                        "ja": "老人",
+                        "zh": "老年",
+                        "fr": "personne âgée"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "atrics",
+                    "meaning": {
+                        "ko": "'의술'",
+                        "en": "medical treatment",
+                        "ja": "医術",
+                        "zh": "医学",
+                        "fr": "traitement médical"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'노인들을 위한 의술'이라는 의미에서 '노인병학'을 뜻합니다.",
+                "en": "Medical specialty for elderly care",
+                "ja": "高齢者の医療を専門とする",
+                "zh": "针对老年人的医学专科",
+                "fr": "Spécialité médicale pour soins aux personnes âgées"
+            },
+            "example": "Geriatrics is a specialty that focuses on health care of elderly people.",
+            "translation": {
+                "ko": "노인병학은 노인들의 건강 관리에 초점을 맞추는 전문 분야이다.",
+                "ja": "老年医学は高齢者の医療に焦点を当てた専門分野です。",
+                "zh": "老年医学是专注于老年人健康护理的专科。",
+                "fr": "La gériatrie est une spécialité qui se concentre sur les soins de santé des personnes âgées."
+            }
+        },
+        {
+            "word": "gerontology",
+            "part_of_speech": "",
+            "origin": "Greek, geron (old man) + logos (study)",
+            "meaning": {
+                "ko": "노인 연구",
+                "en": "study of elderly people",
+                "ja": "老年学",
+                "zh": "老年学",
+                "fr": "gérontologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "geront-",
+                    "meaning": {
+                        "ko": "'노인'",
+                        "en": "old man",
+                        "ja": "老人",
+                        "zh": "老人",
+                        "fr": "vieillard"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'노화 과정과 노인 문제를 연구하는 학문'인 '노인학'을 뜻합니다.",
+                "en": "Studies the aging process and issues of elderly people",
+                "ja": "加齢過程と老人問題を研究する学問",
+                "zh": "研究衰老过程和老年问题的学科",
+                "fr": "Science étudiant le vieillissement et les problèmes des personnes âgées"
+            },
+            "example": "Gerontology studies the social, cultural, psychological, cognitive, and biological aspects of aging.",
+            "translation": {
+                "ko": "노인학은 노화의 사회적, 문화적, 심리적, 인지적, 생물학적 측면을 연구한다.",
+                "ja": "老年学は、加齢の社会的、文化的、心理的、認知的、および生物学的側面を研究する。",
+                "zh": "老年学研究衰老的社会、文化、心理、认知和生物学方面。",
+                "fr": "La gérontologie étudie les aspects sociaux, culturels, psychologiques, cognitifs et biologiques du vieillissement."
+            }
+        }
+    ]
+}

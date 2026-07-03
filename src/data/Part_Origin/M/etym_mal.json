@@ -1,0 +1,267 @@
+{
+    "root_info": {
+        "roots": "mal",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "나쁜, 나쁘게",
+            "en": "bad, badly",
+            "ja": "悪い、悪く",
+            "zh": "坏、坏地",
+            "fr": "mauvais, mal"
+        }
+    },
+    "words": [
+        {
+            "word": "malformation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mal",
+                    "meaning": {
+                        "ko": "나쁜",
+                        "en": "bad",
+                        "ja": "悪い",
+                        "zh": "坏的",
+                        "fr": "mauvais"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "formation",
+                    "meaning": {
+                        "ko": "형성",
+                        "en": "forming or creation",
+                        "ja": "形成",
+                        "zh": "形成",
+                        "fr": "formation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못 형성된 것'이라는 의미에서 신체 부위의 '기형'을 뜻합니다.",
+                "en": "Means a body part's 'deformity' from the sense of 'poorly formed'",
+                "ja": "『正しく形成されていない』という意味から、身体部位の『奇形』を意味します",
+                "zh": "从'形成不良'的意思引申，指身体部位的'畸形'",
+                "fr": "Signifie une 'malformation' d'une partie du corps, au sens de 'mal formée'"
+            },
+            "example": "The baby was born with a malformation of the heart.",
+            "translation": {
+                "ko": "그 아기는 심장 기형을 가지고 태어났다.",
+                "ja": "その赤ちゃんは心臓の奇形を持って生まれた。",
+                "zh": "这个婴儿生来就患有心脏畸形。",
+                "fr": "Le bébé est né avec une malformation du cœur."
+            }
+        },
+        {
+            "word": "maladjusted",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mal",
+                    "meaning": {
+                        "ko": "나쁘게",
+                        "en": "badly",
+                        "ja": "悪く",
+                        "zh": "坏地",
+                        "fr": "mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "adjusted",
+                    "meaning": {
+                        "ko": "적응된",
+                        "en": "adapted or adjusted",
+                        "ja": "適応した",
+                        "zh": "适应的",
+                        "fr": "adapté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못 적응한'이라는 의미에서, 환경에 '적응을 못하는'이라는 뜻입니다.",
+                "en": "Meaning 'poorly adapted': unable to adjust to one's environment.",
+                "ja": "「不適応」という意味で、環境に「適応できない」という意味です。",
+                "zh": "意为「适应不良」：指无法适应周围环境的状态。",
+                "fr": "Signifiant « mal adapté » : incapable de s'adapter à son environnement."
+            },
+            "example": "He is a maladjusted teenager.",
+            "translation": {
+                "ko": "그는 부적응 십대이다.",
+                "ja": "彼は不適応な十代だ。",
+                "zh": "他是一个适应不良的青少年。",
+                "fr": "C'est un adolescent inadapté."
+            }
+        },
+        {
+            "word": "malady",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mal",
+                    "meaning": {
+                        "ko": "나쁜",
+                        "en": "bad",
+                        "ja": "悪い",
+                        "zh": "坏的",
+                        "fr": "mauvais"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ady",
+                    "meaning": {
+                        "ko": "상태",
+                        "en": "condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나쁜 상태'라는 의미에서, '병', '심각한 문제'를 뜻합니다.",
+                "en": "From the sense of 'bad condition', meaning 'disease' or 'serious problem'.",
+                "ja": "「悪い状態」の意味から、「病気」「深刻な問題」を意味します。",
+                "zh": "从「坏状态」的含义，指「疾病」或「严重问题」。",
+                "fr": "Du sens de 'mauvais état', signifiant 'maladie' ou 'problème grave'."
+            },
+            "example": "The country suffers from a social malady.",
+            "translation": {
+                "ko": "그 나라는 사회적 병폐를 앓고 있다.",
+                "ja": "その国は社会的な病弊に苦しんでいる。",
+                "zh": "这个国家正饱受社会痼疾的困扰。",
+                "fr": "Le pays souffre d'un mal social."
+            }
+        },
+        {
+            "word": "malcontent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mal",
+                    "meaning": {
+                        "ko": "나쁜",
+                        "en": "badly",
+                        "ja": "悪く",
+                        "zh": "坏地",
+                        "fr": "mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "content",
+                    "meaning": {
+                        "ko": "만족한",
+                        "en": "satisfied",
+                        "ja": "満足した",
+                        "zh": "满足的",
+                        "fr": "content"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'만족하지 못하는'이라는 의미에서 '불평분자'를 뜻합니다.",
+                "en": "From Latin mal- (badly) + contentus (satisfied). Means a person dissatisfied with their circumstances.",
+                "ja": "不満足な状態を表し、現状に不平を言う人を意味します。",
+                "zh": "表示不满足的状态，指对现状不满的人。",
+                "fr": "Signifie une personne mécontent de sa situation ou des circonstances."
+            },
+            "example": "The group was full of malcontents.",
+            "translation": {
+                "ko": "그 그룹은 불평분자들로 가득했다.",
+                "ja": "そのグループは不平分子でいっぱいだった。",
+                "zh": "那个团体里满是不满分子。",
+                "fr": "Le groupe était plein de mécontents."
+            }
+        },
+        {
+            "word": "malfeasance",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mal",
+                    "meaning": {
+                        "ko": "나쁜",
+                        "en": "bad",
+                        "ja": "悪い",
+                        "zh": "坏的",
+                        "fr": "mauvais"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feasance",
+                    "meaning": {
+                        "ko": "행위",
+                        "en": "doing",
+                        "ja": "行為",
+                        "zh": "行为",
+                        "fr": "acte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나쁜 행위'라는 의미로, 특히 공무원의 '위법 행위', '부정'을 가리키는 법률 용어입니다.",
+                "en": "A legal term meaning 'wrongful conduct,' particularly referring to illegal or corrupt acts by public officials.",
+                "ja": "「悪い行為」という意味で、特に公務員の違法行為や不正を指す法律用語です。",
+                "zh": "意为「坏的行为」，特别是指公务员的违法行为或不当行为的法律术语。",
+                "fr": "Un terme juridique signifiant « mauvaise conduite », se référant particulièrement aux actes illégaux ou à la corruption des fonctionnaires."
+            },
+            "example": "The mayor was charged with malfeasance.",
+            "translation": {
+                "ko": "그 시장은 직권 남용으로 기소되었다.",
+                "ja": "その市長は職権乱用で起訴された。",
+                "zh": "那位市长因滥用职权而被起诉。",
+                "fr": "Le maire a été accusé de malversation."
+            }
+        },
+        {
+            "word": "maleficent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "male",
+                    "meaning": {
+                        "ko": "나쁘게",
+                        "en": "badly",
+                        "ja": "悪く",
+                        "zh": "坏地",
+                        "fr": "mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fic",
+                    "meaning": {
+                        "ko": "만드는",
+                        "en": "making",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나쁜 것을 만드는'이라는 의미에서 '해로운', '악의 있는'이라는 뜻입니다.",
+                "en": "From the meaning of 'making something bad', it means 'harmful' or 'malicious'",
+                "ja": "'悪いものを作る'という意味から、'有害な'、'悪意のある'という意味です",
+                "zh": "从'制造坏的东西'的意思，表示'有害的'、'恶意的'",
+                "fr": "Du sens de 'faire quelque chose de mauvais', cela signifie 'nuisible' ou 'malveillant'"
+            },
+            "example": "She gave him a maleficent glare.",
+            "translation": {
+                "ko": "그녀는 그에게 악의에 찬 눈초리를 보냈다.",
+                "ja": "彼女は彼に悪意のある睨みを送った。",
+                "zh": "她用恶意的目光瞪着他。",
+                "fr": "Elle lui a lancé un regard malveillant."
+            }
+        }
+    ]
+}

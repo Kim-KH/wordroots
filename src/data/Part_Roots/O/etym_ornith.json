@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ornith (bird) ornithology, ornithopod, ornithopter",
+        "origin": "Greek, ornis, ornithos (bird)",
+        "meaning": {
+            "ko": "새",
+            "en": "bird",
+            "ja": "鳥",
+            "zh": "鸟",
+            "fr": "oiseau"
+        }
+    },
+    "words": [
+        {
+            "word": "ornithology",
+            "part_of_speech": "",
+            "origin": "Greek, ornis (bird) + logos (study)",
+            "meaning": {
+                "ko": "새 연구",
+                "en": "study of birds",
+                "ja": "鳥類学",
+                "zh": "鸟类学",
+                "fr": "ornithologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ornitho-",
+                    "meaning": {
+                        "ko": "'새'",
+                        "en": "bird",
+                        "ja": "鳥",
+                        "zh": "鸟",
+                        "fr": "oiseau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새를 연구하는 학문'인 '조류학'을 뜻합니다.",
+                "en": "Ornithology means ornithology, the science that studies birds.",
+                "ja": "鳥を研究する学問である鳥類学を意味します。",
+                "zh": "意思是研究鸟类的学科鸟类学。",
+                "fr": "Signifie l'ornithologie, la science qui étudie les oiseaux."
+            },
+            "example": "Ornithology is the branch of zoology that deals with birds.",
+            "translation": {
+                "ko": "조류학은 새를 다루는 동물학의 한 분야이다.",
+                "ja": "鳥類学は動物学の一分野で、鳥を扱う学問である。",
+                "zh": "鸟类学是动物学的一个分支，研究鸟类。",
+                "fr": "L'ornithologie est la branche de la zoologie qui traite des oiseaux."
+            }
+        },
+        {
+            "word": "ornithopod",
+            "part_of_speech": "",
+            "origin": "Greek, ornis (bird) + podos (foot)",
+            "meaning": {
+                "ko": "새 발",
+                "en": "bird foot",
+                "ja": "鳥足恐竜",
+                "zh": "鸟脚恐龙",
+                "fr": "ornithopode"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ornitho-",
+                    "meaning": {
+                        "ko": "'새'",
+                        "en": "bird",
+                        "ja": "鳥",
+                        "zh": "鸟",
+                        "fr": "oiseau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발 모양이 새와 비슷한' 공룡이라는 의미에서 '조각류 공룡'을 뜻합니다.",
+                "en": "Refers to dinosaurs whose foot shape resembles that of birds, meaning ornithischian dinosaurs.",
+                "ja": "足の形が鳥に似ている恐竜という意味から、鳥脚類の恐竜を指します。",
+                "zh": "指足部形状类似鸟类的恐龙，意指鸟脚类恐龙。",
+                "fr": "Désigne les dinosaures dont la forme du pied ressemble à celle des oiseaux, signifiant dinosaures ornithischiens."
+            },
+            "example": "The iguanodon was a large ornithopod.",
+            "translation": {
+                "ko": "이구아노돈은 큰 조각류 공룡이었다.",
+                "ja": "イグアノドンは大型の鳥足恐竜だった。",
+                "zh": "禽龙是一种大型鸟脚恐龙。",
+                "fr": "L'iguanodon était un grand ornithopode."
+            }
+        },
+        {
+            "word": "ornithopter",
+            "part_of_speech": "",
+            "origin": "Greek, ornis (bird) + pteron (wing)",
+            "meaning": {
+                "ko": "새 날개",
+                "en": "bird wing",
+                "ja": "鳥のような羽ばたき飛行機",
+                "zh": "鸟翼飞行器",
+                "fr": "ornithoptère"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ornitho-",
+                    "meaning": {
+                        "ko": "'새'",
+                        "en": "bird",
+                        "ja": "鳥",
+                        "zh": "鸟",
+                        "fr": "oiseau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pter",
+                    "meaning": {
+                        "ko": "'날개'",
+                        "en": "wing",
+                        "ja": "翼",
+                        "zh": "翅膀",
+                        "fr": "aile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새처럼 날개를 쳐서 나는' 비행 장치인 '날개치기 비행기'를 뜻합니다.",
+                "en": "A flying device that flaps wings like a bird",
+                "ja": "鳥のように羽をはばたかせて飛ぶ飛行装置",
+                "zh": "像鸟一样拍打翅膀飞行的飞行装置",
+                "fr": "Un appareil volant qui bat les ailes comme un oiseau"
+            },
+            "example": "Leonardo da Vinci designed an ornithopter.",
+            "translation": {
+                "ko": "레오나르도 다빈치는 날개치기 비행기를 설계했다.",
+                "ja": "レオナルド・ダ・ヴィンチは鳥のような羽ばたき飛行機を設計した。",
+                "zh": "莱昂纳多·达·芬奇设计了一架鸟翼飞行器。",
+                "fr": "Léonard de Vinci a conçu un ornithoptère."
+            }
+        }
+    ]
+}

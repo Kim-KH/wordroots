@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "quadri (four) quadruped, quadrilateral, quadruplet, quatrain",
+        "origin": "Latin, quattuor (four)",
+        "meaning": {
+            "ko": "넷",
+            "en": "four",
+            "ja": "4つ、4倍の",
+            "zh": "四",
+            "fr": "quatre"
+        }
+    },
+    "words": [
+        {
+            "word": "quadruped",
+            "part_of_speech": "",
+            "origin": "Latin, quadrupes (four-footed)",
+            "meaning": {
+                "ko": "네 개의 발",
+                "en": "four legs",
+                "ja": "四本の足を持つ動物",
+                "zh": "四条腿的动物",
+                "fr": "animal à quatre pattes"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "quadru-",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "四",
+                        "zh": "四",
+                        "fr": "quatre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "腿",
+                        "fr": "patte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'네 개의 발을 가진 동물'이라는 의미에서 '네발짐승'을 뜻합니다.",
+                "en": "Means an animal with four feet",
+                "ja": "四本の足を持つ動物を意味します",
+                "zh": "指有四条腿的动物",
+                "fr": "Signifie un animal à quatre pattes"
+            },
+            "example": "Horses, dogs, and cats are all quadrupeds.",
+            "translation": {
+                "ko": "말, 개, 고양이는 모두 네발짐승이다.",
+                "ja": "馬、犬、猫はすべて四足動物です。",
+                "zh": "马、狗和猫都是四足动物。",
+                "fr": "Les chevaux, les chiens et les chats sont tous des quadrupèdes."
+            }
+        },
+        {
+            "word": "quadrilateral",
+            "part_of_speech": "",
+            "origin": "Latin, quadri- (four) + latus (side)",
+            "meaning": {
+                "ko": "네 개의 변",
+                "en": "four sides",
+                "ja": "4つの辺を持つ図形",
+                "zh": "四条边的图形",
+                "fr": "figure à quatre côtés"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "quadri-",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "4つ",
+                        "zh": "四",
+                        "fr": "quatre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lateral",
+                    "meaning": {
+                        "ko": "'측면의, 변의'",
+                        "en": "side",
+                        "ja": "辺、側面",
+                        "zh": "边",
+                        "fr": "côté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'네 개의 변을 가진 도형'이라는 의미에서 '4변형'을 뜻합니다.",
+                "en": "A quadrilateral is a geometric figure with four sides and four angles.",
+                "ja": "4つの辺と4つの角を持つ幾何学図形です。",
+                "zh": "具有四条边和四个角的几何图形。",
+                "fr": "Figure géométrique ayant quatre côtés et quatre angles."
+            },
+            "example": "A square is a type of quadrilateral.",
+            "translation": {
+                "ko": "정사각형은 사각형의 한 종류이다.",
+                "ja": "正方形は四辺形の一種です。",
+                "zh": "正方形是四边形的一种。",
+                "fr": "Un carré est un type de quadrilatère."
+            }
+        },
+        {
+            "word": "quadruplet",
+            "part_of_speech": "",
+            "origin": "Latin, quadru- (four) + -plus (fold)",
+            "meaning": {
+                "ko": "네 겹",
+                "en": "four layers",
+                "ja": "四つ子",
+                "zh": "四胞胎",
+                "fr": "quadruplés"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "quadru-",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "四つ",
+                        "zh": "四个",
+                        "fr": "quatre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "한 번에 태어난 '네 명의 아이'를 의미하여 '네 쌍둥이'를 뜻합니다.",
+                "en": "Refers to four children born at the same time, meaning four siblings born together",
+                "ja": "一度に生まれた4人の子どもを意味し、4つ子きょうだいを表します",
+                "zh": "指一次出生的四个孩子，意为四个同胞兄弟姐妹",
+                "fr": "Désigne quatre enfants nés au même moment, signifiant quatre frères et sœurs nés ensemble"
+            },
+            "example": "The couple had quadruplets, two boys and two girls.",
+            "translation": {
+                "ko": "그 부부는 아들 둘, 딸 둘인 네 쌍둥이를 낳았다.",
+                "ja": "そのカップルは四つ子を産みました、男の子2人と女の子2人です。",
+                "zh": "这对夫妇生了四胞胎，两个男孩和两个女孩。",
+                "fr": "Le couple a eu des quadruplés, deux garçons et deux filles."
+            }
+        },
+        {
+            "word": "quatrain",
+            "part_of_speech": "",
+            "origin": "Latin, quattuor (four)",
+            "meaning": {
+                "ko": "넷",
+                "en": "four",
+                "ja": "4行の詩連",
+                "zh": "四行诗节",
+                "fr": "quatrain poétique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quatr- (quattuor)",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "4つ",
+                        "zh": "四",
+                        "fr": "quatre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'네 개의 행으로 이루어진 시의 연'이라는 의미에서 '4행시'를 뜻합니다.",
+                "en": "A quatrain is a stanza of four lines, often used in sonnets and other poetic forms.",
+                "ja": "4行の詩行で構成される詩の連",
+                "zh": "由四行组成的诗歌段落",
+                "fr": "Strophe de quatre vers composant un poème"
+            },
+            "example": "A sonnet often consists of three quatrains and a final couplet.",
+            "translation": {
+                "ko": "소네트는 종종 세 개의 4행시와 마지막 2행 연구로 구성된다.",
+                "ja": "ソネットはしばしば3つの4行連と最終の対句で構成されている。",
+                "zh": "十四行诗通常由三个四行诗节和最后的对句组成。",
+                "fr": "Un sonnet se compose souvent de trois quatrains et d'un dernier distique."
+            }
+        }
+    ]
+}

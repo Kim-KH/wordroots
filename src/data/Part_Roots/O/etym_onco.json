@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "onco (cancer) oncological, oncologist, oncology",
+        "origin": "Greek, onkos (bulk, mass, tumor)",
+        "meaning": {
+            "ko": "종양",
+            "en": "tumor",
+            "ja": "腫瘍",
+            "zh": "肿瘤",
+            "fr": "tumeur"
+        }
+    },
+    "words": [
+        {
+            "word": "oncological",
+            "part_of_speech": "",
+            "origin": "Greek, onkos (tumor) + logos (study)",
+            "meaning": {
+                "ko": "종양 연구",
+                "en": "tumor research",
+                "ja": "腫瘍学的",
+                "zh": "肿瘤学的",
+                "fr": "oncologique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "onco-",
+                    "meaning": {
+                        "ko": "'종양'",
+                        "en": "tumor",
+                        "ja": "腫瘍",
+                        "zh": "肿瘤",
+                        "fr": "tumeur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logical",
+                    "meaning": {
+                        "ko": "'학문의'",
+                        "en": "of or relating to a field of study",
+                        "ja": "学問の",
+                        "zh": "学问的",
+                        "fr": "disciplinaire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'종양학의', '암의'라는 뜻입니다.",
+                "en": "Means oncology-related or cancer-related",
+                "ja": "腫瘍学に関する、またはがんに関する意味です",
+                "zh": "意思是与肿瘤学相关或与癌症相关",
+                "fr": "Signifie relatif à l'oncologie ou au cancer"
+            },
+            "example": "He is receiving oncological treatment.",
+            "translation": {
+                "ko": "그는 종양학적 치료를 받고 있다.",
+                "ja": "彼は腫瘍学的治療を受けています",
+                "zh": "他正在接受肿瘤学治疗",
+                "fr": "Il reçoit un traitement oncologique"
+            }
+        },
+        {
+            "word": "oncologist",
+            "part_of_speech": "",
+            "origin": "Greek, onkos (tumor) + logos (study)",
+            "meaning": {
+                "ko": "종양 연구가",
+                "en": "tumor researcher",
+                "ja": "腫瘍医",
+                "zh": "肿瘤医生",
+                "fr": "oncologue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "onco-",
+                    "meaning": {
+                        "ko": "'종양'",
+                        "en": "tumor",
+                        "ja": "腫瘍",
+                        "zh": "肿瘤",
+                        "fr": "tumeur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자, 전문가'",
+                        "en": "scholar, specialist",
+                        "ja": "学者、専門家",
+                        "zh": "学者、专家",
+                        "fr": "savant, expert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'암을 전문적으로 연구하고 치료하는 의사'인 '종양 전문의'를 뜻합니다.",
+                "en": "A doctor who specializes in researching and treating cancer",
+                "ja": "がんを専門的に研究し治療する医師を意味します",
+                "zh": "专门研究和治疗癌症的医生",
+                "fr": "Un médecin spécialisé dans l'étude et le traitement du cancer"
+            },
+            "example": "An oncologist specializes in diagnosing and treating cancer.",
+            "translation": {
+                "ko": "종양 전문의는 암을 진단하고 치료하는 것을 전문으로 한다.",
+                "ja": "腫瘍医",
+                "zh": "肿瘤医生",
+                "fr": "oncologue"
+            }
+        },
+        {
+            "word": "oncology",
+            "part_of_speech": "",
+            "origin": "Greek, onkos (tumor) + logos (study)",
+            "meaning": {
+                "ko": "종양 연구",
+                "en": "study of tumors",
+                "ja": "腫瘍学",
+                "zh": "肿瘤学",
+                "fr": "oncologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "onco-",
+                    "meaning": {
+                        "ko": "'종양'",
+                        "en": "tumor",
+                        "ja": "腫瘍",
+                        "zh": "肿瘤",
+                        "fr": "tumeur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'암을 연구하고 치료하는 의학 분야'인 '종양학'을 뜻합니다.",
+                "en": "Oncology is a medical field that researches and treats tumors/cancer.",
+                "ja": "腫瘍やがんを研究し治療する医学分野",
+                "zh": "研究和治疗肿瘤癌症的医学领域",
+                "fr": "Domaine médical étudiant et traitant les tumeurs"
+            },
+            "example": "Oncology is a branch of medicine that deals with tumors.",
+            "translation": {
+                "ko": "종양학은 종양을 다루는 의학의 한 분야이다.",
+                "ja": "腫瘍学",
+                "zh": "肿瘤学",
+                "fr": "oncologie"
+            }
+        }
+    ]
+}

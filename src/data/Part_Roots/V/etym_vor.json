@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "vor(e) (eat) carnivore, herbivore, omnivore, voracious",
+        "origin": "Latin, vorare (to devour, to swallow)",
+        "meaning": {
+            "ko": "게걸스럽게 먹다",
+            "en": "to devour",
+            "ja": "むさぼり食う",
+            "zh": "狼吞虎咽",
+            "fr": "dévorer"
+        }
+    },
+    "words": [
+        {
+            "word": "carnivore",
+            "part_of_speech": "",
+            "origin": "Latin, caro (flesh) + vorare (to devour)",
+            "meaning": {
+                "ko": "살을 먹는",
+                "en": "eating meat",
+                "ja": "肉を食べる動物",
+                "zh": "食肉动物",
+                "fr": "animal qui mange de la viande"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carni-",
+                    "meaning": {
+                        "ko": "'살, 고기'",
+                        "en": "flesh",
+                        "ja": "肉",
+                        "zh": "肉",
+                        "fr": "chair"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vore",
+                    "meaning": {
+                        "ko": "'먹는 동물'",
+                        "en": "meat-eating animal",
+                        "ja": "食べる動物",
+                        "zh": "食肉的动物",
+                        "fr": "animal qui mange"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'고기를 먹는 동물'인 '육식동물'을 뜻합니다.",
+                "en": "Refers to an animal that eats meat",
+                "ja": "肉を食べる動物である肉食動物を意味します",
+                "zh": "指以肉食为主的动物",
+                "fr": "Désigne un animal qui se nourrit de viande"
+            },
+            "example": "Lions and tigers are carnivores.",
+            "translation": {
+                "ko": "사자와 호랑이는 육식동물이다.",
+                "ja": "ライオンとトラは肉食動物です。",
+                "zh": "狮子和老虎是食肉动物。",
+                "fr": "Les lions et les tigres sont des carnivores."
+            }
+        },
+        {
+            "word": "herbivore",
+            "part_of_speech": "",
+            "origin": "Latin, herba (plant) + vorare (to devour)",
+            "meaning": {
+                "ko": "풀을 먹는",
+                "en": "eating grass",
+                "ja": "草を食べる動物",
+                "zh": "吃草的动物",
+                "fr": "animal qui mange des plantes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "herbi-",
+                    "meaning": {
+                        "ko": "'풀'",
+                        "en": "plant",
+                        "ja": "草",
+                        "zh": "草",
+                        "fr": "herbe"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vore",
+                    "meaning": {
+                        "ko": "'먹는 동물'",
+                        "en": "eating animal",
+                        "ja": "食べる動物",
+                        "zh": "吃的动物",
+                        "fr": "animal qui mange"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물을 먹고 사는 동물'인 '초식동물'을 뜻합니다.",
+                "en": "An animal that feeds on plants",
+                "ja": "植物を食べて生きる動物を意味します",
+                "zh": "指以植物为食的动物",
+                "fr": "Un animal qui se nourrit de plantes"
+            },
+            "example": "Cows and sheep are herbivores.",
+            "translation": {
+                "ko": "소와 양은 초식동물이다.",
+                "ja": "草食動物",
+                "zh": "草食动物",
+                "fr": "herbivore"
+            }
+        },
+        {
+            "word": "omnivore",
+            "part_of_speech": "",
+            "origin": "Latin, omnis (all) + vorare (to devour)",
+            "meaning": {
+                "ko": "모든 것을 먹는",
+                "en": "eating all things",
+                "ja": "すべてを食べる動物",
+                "zh": "吃所有东西的动物",
+                "fr": "animal qui mange tout"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "omni-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべて",
+                        "zh": "所有",
+                        "fr": "tout"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vore",
+                    "meaning": {
+                        "ko": "'먹는 동물'",
+                        "en": "eating animal",
+                        "ja": "食べる動物",
+                        "zh": "吃的动物",
+                        "fr": "animal qui mange"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동물이든 식물이든 모든 것을 먹는' '잡식동물'을 뜻합니다.",
+                "en": "Refers to animals that eat both animals and plants",
+                "ja": "動物も植物も食べるすべての生き物を指します",
+                "zh": "指既吃动物又吃植物的所有生物",
+                "fr": "Désigne les animaux qui mangent à la fois des animaux et des plantes"
+            },
+            "example": "Humans are omnivores.",
+            "translation": {
+                "ko": "인간은 잡식동물이다.",
+                "ja": "人間は雑食動物です",
+                "zh": "人类是杂食动物",
+                "fr": "Les humains sont omnivores"
+            }
+        },
+        {
+            "word": "voracious",
+            "part_of_speech": "",
+            "origin": "Latin, vorax (greedy to devour)",
+            "meaning": {
+                "ko": "게걸스럽게 먹는",
+                "en": "eating greedily and voraciously",
+                "ja": "貪欲に食べる",
+                "zh": "贪婪地吃",
+                "fr": "manger avec voracité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vor-",
+                    "meaning": {
+                        "ko": "'게걸스럽게 먹다'",
+                        "en": "to devour",
+                        "ja": "むさぼり食う",
+                        "zh": "狼吞虎咽",
+                        "fr": "dévorer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음식을 게걸스럽게 먹는' 또는 '(지식 등을) 왕성하게 탐하는'이라는 뜻입니다.",
+                "en": "Means eating food greedily or eagerly seeking knowledge and information",
+                "ja": "食べ物を貪欲に食べることか、知識などを熱心に求めることを意味します",
+                "zh": "表示贪婪地吃食物或积极追求知识等信息",
+                "fr": "Signifie manger avec avidité ou chercher avidement à acquérir des connaissances et des informations"
+            },
+            "example": "He has a voracious appetite for knowledge.",
+            "translation": {
+                "ko": "그는 지식에 대한 왕성한 욕구를 가지고 있다.",
+                "ja": "彼は知識への貪欲な欲望を持っている",
+                "zh": "他对知识有着贪婪的渴望",
+                "fr": "Il a un appétit vorace pour la connaissance"
+            }
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "doc, doct: teach, prove",
+        "origin": "Latin, docere",
+        "meaning": {
+            "ko": "가르치다",
+            "en": "to teach",
+            "ja": "教える",
+            "zh": "教",
+            "fr": "enseigner"
+        }
+    },
+    "words": [
+        {
+            "word": "docent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "doc",
+                    "meaning": {
+                        "ko": "가르치다",
+                        "en": "to teach",
+                        "ja": "教える",
+                        "zh": "教",
+                        "fr": "enseigner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ent",
+                    "meaning": {
+                        "ko": "사람",
+                        "en": "person who",
+                        "ja": "人",
+                        "zh": "人",
+                        "fr": "personne qui"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가르치는 사람'이라는 의미에서 박물관이나 대학 등에서 안내하거나 강의하는 사람을 지칭합니다.",
+                "en": "'Person who teaches' — refers to a guide or lecturer at museums, universities, etc.",
+                "ja": "'教える人'という意味から、博物館や大学などで案内や講義をする人を指します。",
+                "zh": "'教的人'的意思——指在博物馆、大学等地进行讲解或授课的人。",
+                "fr": "Signifie 'personne qui enseigne' — désigne un guide ou conférencier dans les musées, universités, etc."
+            },
+            "example": "A docent led the museum tour.",
+            "translation": {
+                "ko": "도슨트(안내원)가 박물관 관람을 이끌었다.",
+                "ja": "ドーセント(案内員)が博物館ツアーを案内した。",
+                "zh": "讲解员(docent)带领了博物馆参观。",
+                "fr": "Une docente a guidé la visite du musée."
+            }
+        },
+        {
+            "word": "docile",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "doc",
+                    "meaning": {
+                        "ko": "가르치다",
+                        "en": "to teach",
+                        "ja": "教える",
+                        "zh": "教导",
+                        "fr": "enseigner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ile",
+                    "meaning": {
+                        "ko": "~하기 쉬운",
+                        "en": "easy to",
+                        "ja": "しやすい",
+                        "zh": "容易的",
+                        "fr": "facile à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가르치기 쉬운' 성질을 의미하므로 '유순한', '고분고분한'이라는 뜻이 됩니다.",
+                "en": "Docile describes something easy to teach or manage, thus meaning obedient or compliant.",
+                "ja": "教えやすい性質を意味するため、'従順な'、'素直な'という意味になります。",
+                "zh": "表示容易教导的性质，因此意为'顺从的'、'驯服的'。",
+                "fr": "Docile décrit quelque chose de facile à enseigner ou à gérer, signifiant obéissant ou compliant."
+            },
+            "example": "The horse was very docile.",
+            "translation": {
+                "ko": "그 말은 매우 유순했다.",
+                "ja": "その馬はとても従順だった。",
+                "zh": "那匹马非常驯服。",
+                "fr": "Le cheval était très docile."
+            }
+        },
+        {
+            "word": "doctor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "doct",
+                    "meaning": {
+                        "ko": "가르치다",
+                        "en": "to teach",
+                        "ja": "教える",
+                        "zh": "教",
+                        "fr": "enseigner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "사람",
+                        "en": "person who",
+                        "ja": "人",
+                        "zh": "人",
+                        "fr": "personne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 '가르치는 사람', '학자'를 의미했습니다. 현재는 전문 지식으로 사람을 치료하는 '의사' 또는 학문적 권위자인 '박사'를 뜻합니다.",
+                "en": "Originally meant 'person who teaches' or 'scholar'. Now refers to a 'physician' who treats people with professional knowledge, or a 'doctorate holder' as an academic authority.",
+                "ja": "元々は'教える人'または'学者'を意味していました。現在は専門知識で人を治療する'医者'または学問的権威者である'博士'を意味します。",
+                "zh": "最初意思是'教人的人'或'学者'。现在指用专业知识治疗人的'医生'或具有学术权威的'博士'。",
+                "fr": "Signifiait à l'origine 'personne qui enseigne' ou 'savant'. Désigne maintenant un 'médecin' qui traite les gens avec des connaissances professionnelles, ou un 'titulaire de doctorat' comme autorité académique."
+            },
+            "example": "I need to see a doctor.",
+            "translation": {
+                "ko": "나는 의사의 진찰을 받아야 한다.",
+                "ja": "医者に診てもらう必要があります。",
+                "zh": "我需要看医生。",
+                "fr": "Je dois consulter un médecin."
+            }
+        },
+        {
+            "word": "document",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "docu (docere)",
+                    "meaning": {
+                        "ko": "가르치다, 증명하다",
+                        "en": "to teach, to prove",
+                        "ja": "教える、証明する",
+                        "zh": "教导、证明",
+                        "fr": "enseigner, prouver"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ment",
+                    "meaning": {
+                        "ko": "것, 결과물",
+                        "en": "thing, result",
+                        "ja": "もの、結果物",
+                        "zh": "东西、结果",
+                        "fr": "chose, résultat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가르침이나 증거가 되는 것'이라는 의미에서 '문서', '서류'라는 뜻으로 발전했습니다.",
+                "en": "Developed from the sense of 'something that teaches or serves as evidence' to mean 'document' or 'written record'.",
+                "ja": "「教えたり証拠となったりするもの」という意味から「文書」「書類」という意味に発展しました。",
+                "zh": "从\"教导或作为证据的东西\"的含义发展为\"文件\"或\"文献\"的意思。",
+                "fr": "Développé du sens de 'quelque chose qui enseigne ou sert de preuve' pour signifier 'document' ou 'écrit'."
+            },
+            "example": "Please read this document carefully.",
+            "translation": {
+                "ko": "이 서류를 주의 깊게 읽어주세요.",
+                "ja": "この書類を注意深くお読みください。",
+                "zh": "请仔细阅读这份文件。",
+                "fr": "Veuillez lire ce document attentivement."
+            }
+        }
+    ]
+}

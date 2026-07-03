@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "oid (resembling) anthropoid, humanoid, mongoloid, ovoid",
+        "origin": "Greek, -oeides (form, shape)",
+        "meaning": {
+            "ko": "…을 닮은",
+            "en": "resembling",
+            "ja": "に似た",
+            "zh": "类似于",
+            "fr": "ressemblant à"
+        }
+    },
+    "words": [
+        {
+            "word": "anthropoid",
+            "part_of_speech": "",
+            "origin": "Greek, anthropos (man) + -oeides (form)",
+            "meaning": {
+                "ko": "인간의 형태",
+                "en": "human form or shape",
+                "ja": "人間に似た",
+                "zh": "像人类的",
+                "fr": "resemblant à l'homme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anthrop-",
+                    "meaning": {
+                        "ko": "'인간'",
+                        "en": "human",
+                        "ja": "人間",
+                        "zh": "人类",
+                        "fr": "humain"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oid",
+                    "meaning": {
+                        "ko": "'~을 닮은'",
+                        "en": "resembling",
+                        "ja": "似ている",
+                        "zh": "相似的",
+                        "fr": "ressemblant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인간을 닮은'이라는 의미에서 '유인원'을 뜻합니다.",
+                "en": "Meaning ape-like creatures that resemble humans",
+                "ja": "人間に似た生き物である類人猿を意味する",
+                "zh": "指类似人类的类人猿生物",
+                "fr": "Désigne les singes anthropoïdes ressemblant aux humains"
+            },
+            "example": "Chimpanzees and gorillas are anthropoid apes.",
+            "translation": {
+                "ko": "침팬지와 고릴라는 유인원이다.",
+                "ja": "チンパンジーとゴリラは類人猿です。",
+                "zh": "黑猩猩和大猩猩是类人猿。",
+                "fr": "Les chimpanzés et les gorilles sont des singes anthropoïdes."
+            }
+        },
+        {
+            "word": "humanoid",
+            "part_of_speech": "",
+            "origin": "Latin, humanus (human) + Greek, -oeides (form)",
+            "meaning": {
+                "ko": "인간의 형태",
+                "en": "human form or shape",
+                "ja": "人間に似た",
+                "zh": "类似人类的",
+                "fr": "ressemblant à humain"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "human-",
+                    "meaning": {
+                        "ko": "'인간'",
+                        "en": "human",
+                        "ja": "人間",
+                        "zh": "人类",
+                        "fr": "humain"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oid",
+                    "meaning": {
+                        "ko": "'~을 닮은'",
+                        "en": "resembling",
+                        "ja": "似ている",
+                        "zh": "相似的",
+                        "fr": "ressemblant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인간을 닮은 존재'로, 주로 공상과학에서 '인간형 로봇'이나 '외계인'을 가리킵니다.",
+                "en": "A being that resembles a human form, commonly referring to 'humanoid robots' or 'aliens' in science fiction.",
+                "ja": "人間に似た存在で、主にSF作品で人型ロボットや宇宙人を指します。",
+                "zh": "类似人类的存在，主要在科幻作品中指人形机器人或外星人。",
+                "fr": "Un être qui ressemble à la forme humaine, se référant généralement aux 'robots humanoïdes' ou 'extraterrestres' dans la science-fiction."
+            },
+            "example": "The movie is about a humanoid robot that develops emotions.",
+            "translation": {
+                "ko": "그 영화는 감정을 갖게 되는 인간형 로봇에 관한 것이다.",
+                "ja": "映画は感情を発達させるヒューマノイドロボットについての話です。",
+                "zh": "这部电影讲述了一个能够发展情感的类人机器人的故事。",
+                "fr": "Le film parle d'un robot humanoïde qui développe des émotions."
+            }
+        },
+        {
+            "word": "mongoloid",
+            "part_of_speech": "",
+            "origin": "Mongol + Greek, -oeides (form)",
+            "meaning": {
+                "ko": "몽골인 형태",
+                "en": "Mongoloid form",
+                "ja": "モンゴロイド形態",
+                "zh": "蒙古人形态",
+                "fr": "morphologie mongoloïde"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Mongol-",
+                    "meaning": {
+                        "ko": "'몽골인'",
+                        "en": "Mongolian person",
+                        "ja": "モンゴル人",
+                        "zh": "蒙古人",
+                        "fr": "mongol"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oid",
+                    "meaning": {
+                        "ko": "'~을 닮은'",
+                        "en": "resembling",
+                        "ja": "~に似た",
+                        "zh": "类似于~",
+                        "fr": "ressemblant à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몽골 인종을 닮은'이라는 뜻으로, 현재는 인종차별적일 수 있어 잘 사용되지 않습니다.",
+                "en": "The term Mongoloid is now considered outdated and offensive.",
+                "ja": "モンゴロイドという用語は現在、時代遅れで差別的と見なされています。",
+                "zh": "蒙古人种这一术语现已被视为过时且具有冒犯性。",
+                "fr": "Le terme mongoloïde est maintenant considéré comme désuet et offensant."
+            },
+            "example": "The term Mongoloid is now considered outdated and offensive.",
+            "translation": {
+                "ko": "몽골로이드라는 용어는 현재 시대에 뒤떨어지고 모욕적인 것으로 간주된다.",
+                "ja": "その用語は蒙古人種を思わせるという意味で、現在は人種差別的とされ、ほとんど使用されていません。",
+                "zh": "这个术语意为类似蒙古人种，目前被认为具有种族歧视性，很少使用。",
+                "fr": "Le terme signifie ressemblant à la race mongole et est maintenant considéré comme potentiellement offensant et rarement utilisé."
+            }
+        },
+        {
+            "word": "ovoid",
+            "part_of_speech": "",
+            "origin": "Latin, ovum (egg) + Greek, -oeides (form)",
+            "meaning": {
+                "ko": "알 형태",
+                "en": "egg-shaped form",
+                "ja": "卵形の",
+                "zh": "卵形的",
+                "fr": "ovoïde"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ov-",
+                    "meaning": {
+                        "ko": "'알'",
+                        "en": "egg",
+                        "ja": "卵",
+                        "zh": "卵",
+                        "fr": "œuf"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oid",
+                    "meaning": {
+                        "ko": "'~을 닮은'",
+                        "en": "resembling",
+                        "ja": "似ている",
+                        "zh": "像似",
+                        "fr": "ressemblant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알을 닮은 모양'이라는 의미에서 '달걀 모양의', '타원체의'라는 뜻입니다.",
+                "en": "Meaning egg-shaped or ellipsoid, from resembling an egg's form",
+                "ja": "卵に似た形という意味で、卵形または楕円体を表します",
+                "zh": "意思是像卵一样的形状，表示卵形或椭圆体",
+                "fr": "Signifie en forme d'œuf ou ellipsoïde, de la ressemblance à la forme d'un œuf"
+            },
+            "example": "The stone was smooth and ovoid.",
+            "translation": {
+                "ko": "그 돌은 부드럽고 달걀 모양이었다.",
+                "ja": "その石は滑らかで卵形だった。",
+                "zh": "那块石头光滑且呈卵形。",
+                "fr": "La pierre était lisse et ovoïde."
+            }
+        }
+    ]
+}

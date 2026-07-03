@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "gyro (whirl) autogyro, gyration, gyroscope",
+        "origin": "Greek, gyros (a circle, ring)",
+        "meaning": {
+            "ko": "원",
+            "en": "circle",
+            "ja": "円",
+            "zh": "圆",
+            "fr": "cercle"
+        }
+    },
+    "words": [
+        {
+            "word": "autogyro",
+            "part_of_speech": "",
+            "origin": "Greek, autos (self) + gyros (circle)",
+            "meaning": {
+                "ko": "스스로 도는 것",
+                "en": "something that rotates by itself",
+                "ja": "自動回転する航空機",
+                "zh": "自动旋转飞行器",
+                "fr": "aéronef tournoyant automatiquement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "'스스로'",
+                        "en": "self",
+                        "ja": "自分自身で",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gyro",
+                    "meaning": {
+                        "ko": "'회전'",
+                        "en": "whirl",
+                        "ja": "回転する",
+                        "zh": "旋转",
+                        "fr": "tournoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "엔진 없이 '스스로 회전하는' 로터를 가진 항공기인 '오토자이로'를 뜻합니다.",
+                "en": "An aircraft with a rotor that spins on its own without an engine, called autogyro.",
+                "ja": "エンジンなしで自ら回転するロータを持つ航空機オートジャイロを意味します。",
+                "zh": "指没有引擎却能自行旋转的转子的飞行器自动陀螺仪。",
+                "fr": "Désigne un aéronef appelé autogire qui possède un rotor tournant de lui-même sans moteur."
+            },
+            "example": "An autogyro looks like a small helicopter.",
+            "translation": {
+                "ko": "오토자이로는 작은 헬리콥터처럼 생겼다.",
+                "ja": "オートジャイロは小型ヘリコプターのように見えます。",
+                "zh": "自动陀螺仪看起来像一架小型直升机。",
+                "fr": "Un autogire ressemble à un petit hélicoptère."
+            }
+        },
+        {
+            "word": "gyration",
+            "part_of_speech": "",
+            "origin": "Latin, gyratio (a revolving)",
+            "meaning": {
+                "ko": "회전",
+                "en": "rotation",
+                "ja": "回転、旋回",
+                "zh": "旋转、转圈",
+                "fr": "rotation, giration"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gyr- (gyros)",
+                    "meaning": {
+                        "ko": "'회전'",
+                        "en": "circle",
+                        "ja": "円、輪",
+                        "zh": "圆、环",
+                        "fr": "cercle, rotation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빙글빙글 도는 움직임'인 '회전'을 뜻합니다.",
+                "en": "Refers to rotation as in spinning round and round motion",
+                "ja": "ぐるぐる回る動きである回転を意味します",
+                "zh": "指的是转圈转动的运动，即旋转",
+                "fr": "Signifie une rotation ou un mouvement circulaire continu"
+            },
+            "example": "The dancer's gyrations were mesmerizing.",
+            "translation": {
+                "ko": "그 무용수의 선회 동작은 매혹적이었다.",
+                "ja": "ダンサーの回転は魅惑的でした。",
+                "zh": "舞者的旋转令人着迷。",
+                "fr": "Les gyrations de la danseuse étaient captivantes."
+            }
+        },
+        {
+            "word": "gyroscope",
+            "part_of_speech": "",
+            "origin": "Greek, gyros (circle) + skopein (to view)",
+            "meaning": {
+                "ko": "회전을 보는 것",
+                "en": "viewing rotation",
+                "ja": "回転を観察する装置",
+                "zh": "观察旋转的装置",
+                "fr": "appareil d'observation de rotation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gyro-",
+                    "meaning": {
+                        "ko": "'회전'",
+                        "en": "circle",
+                        "ja": "回転",
+                        "zh": "旋转",
+                        "fr": "rotation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "'보는 기구'",
+                        "en": "instrument for viewing",
+                        "ja": "観察する装置",
+                        "zh": "观察的装置",
+                        "fr": "appareil d'observation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'회전하는 바퀴를 이용하여 자세를 제어하는 장치'인 '자이로스코프'를 뜻합니다.",
+                "en": "A device that controls orientation using a rotating wheel",
+                "ja": "回転する車輪を利用して姿勢を制御する装置です",
+                "zh": "利用旋转轮子控制姿态的装置",
+                "fr": "Appareil qui contrôle l'orientation en utilisant une roue tournante"
+            },
+            "example": "A gyroscope is used to maintain orientation and angular velocity.",
+            "translation": {
+                "ko": "자이로스코프는 방향과 각속도를 유지하는 데 사용된다.",
+                "ja": "ジャイロスコープは方向と角速度を維持するために使用されます",
+                "zh": "陀螺仪用于保持方向和角速度",
+                "fr": "Un gyroscope est utilisé pour maintenir l'orientation et la vitesse angulaire"
+            }
+        }
+    ]
+}

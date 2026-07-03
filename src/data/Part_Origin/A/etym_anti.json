@@ -1,0 +1,267 @@
+{
+    "root_info": {
+        "roots": "anti, ant",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "반대하여",
+            "en": "against, opposite",
+            "ja": "反対に、対抗して",
+            "zh": "反对、对立",
+            "fr": "contre, opposé"
+        }
+    },
+    "words": [
+        {
+            "word": "antisocial",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "anti-",
+                    "meaning": {
+                        "ko": "반대하여",
+                        "en": "against",
+                        "ja": "に反して",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "social",
+                    "meaning": {
+                        "ko": "사회의",
+                        "en": "of society",
+                        "ja": "社会的な",
+                        "zh": "社会的",
+                        "fr": "social"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사회에 반하는'이라는 의미에서 '비사교적인', '반사회적인'이라는 뜻입니다.",
+                "en": "Meaning 'opposed to society'; describes behavior that is unsociable or hostile to social norms.",
+                "ja": "社会に反する意味で、非社交的、反社会的という意味です。",
+                "zh": "意为'对社会不利'；非社交性或敌视社会规范的行为。",
+                "fr": "Signifie 'contraire à la société'; décrit un comportement asocial ou hostile aux normes sociales."
+            },
+            "example": "He has antisocial tendencies.",
+            "translation": {
+                "ko": "그는 반사회적인 성향을 가지고 있다.",
+                "ja": "彼は反社会的な傾向を持っている。",
+                "zh": "他有反社会的倾向。",
+                "fr": "Il a des tendances antisociales."
+            }
+        },
+        {
+            "word": "antiseptic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "anti-",
+                    "meaning": {
+                        "ko": "반대하여",
+                        "en": "against",
+                        "ja": "に対して",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "septic",
+                    "meaning": {
+                        "ko": "부패",
+                        "en": "putrefaction",
+                        "ja": "腐敗",
+                        "zh": "腐烂",
+                        "fr": "putréfaction"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'부패(균)에 대항하는'이라는 의미에서 '소독제', '방부제'를 뜻합니다.",
+                "en": "Meaning 'substance that fights putrefaction'; refers to disinfectant or preservative",
+                "ja": "腐敗に対抗する物質の意で、消毒薬や防腐剤を意味します",
+                "zh": "意为'对抗腐烂的物质'，指消毒剂或防腐剂",
+                "fr": "Signifiant 'substance qui combat la putréfaction'; désigne un désinfectant ou conservateur"
+            },
+            "example": "Clean the wound with an antiseptic wipe.",
+            "translation": {
+                "ko": "소독용 물티슈로 상처를 닦으세요.",
+                "ja": "消毒用のウェットティッシュで傷を拭いてください。",
+                "zh": "用消毒湿巾擦拭伤口。",
+                "fr": "Nettoyez la plaie avec une lingette antiseptique."
+            }
+        },
+        {
+            "word": "antithesis",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "anti-",
+                    "meaning": {
+                        "ko": "반대",
+                        "en": "opposite",
+                        "ja": "反対",
+                        "zh": "相反",
+                        "fr": "opposé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thesis",
+                    "meaning": {
+                        "ko": "놓는 것",
+                        "en": "a placing",
+                        "ja": "置くこと",
+                        "zh": "放置",
+                        "fr": "un placement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반대편에 놓는 것'이라는 의미에서 '정반대', '대조'를 뜻합니다.",
+                "en": "From the sense of 'placing something in opposition': means complete contrast or juxtaposition of opposites.",
+                "ja": "「反対側に置くこと」という意味から、「正反対」「対照」を意味します。",
+                "zh": "从「置于对立面」的意思，表示「完全相反」「对比」。",
+                "fr": "Du sens de « placer en opposition » : signifie un contraste complet ou une juxtaposition des opposés."
+            },
+            "example": "Love is the antithesis of hatred.",
+            "translation": {
+                "ko": "사랑은 증오의 정반대이다.",
+                "ja": "愛は憎悪の正反対である。",
+                "zh": "爱是仇恨的完全对立。",
+                "fr": "L'amour est l'antithèse de la haine."
+            }
+        },
+        {
+            "word": "antibody",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "anti-",
+                    "meaning": {
+                        "ko": "반대하여",
+                        "en": "against",
+                        "ja": "に対して",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "body",
+                    "meaning": {
+                        "ko": "몸, 물체",
+                        "en": "body, physical form",
+                        "ja": "体、物質",
+                        "zh": "身体、物质",
+                        "fr": "corps, substance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "몸 안에 들어온 외부 물질(항원)에 '대항하는 물질'이라는 의미에서 '항체'를 뜻합니다.",
+                "en": "A substance that fights against foreign materials (antigens) that enter the body.",
+                "ja": "体内に侵入した外部物質(抗原)に対抗する物質という意味から「抗体」を意味します。",
+                "zh": "指对抗进入体内的外部物质(抗原)的物质,因此得名为\"抗体\"。",
+                "fr": "Une substance qui combat les matériaux étrangers (antigènes) qui pénètrent dans le corps."
+            },
+            "example": "Antibodies help fight infection.",
+            "translation": {
+                "ko": "항체는 감염과 싸우는 것을 돕는다.",
+                "ja": "抗体は感染と闘うのを助けます。",
+                "zh": "抗体有助于对抗感染。",
+                "fr": "Les anticorps aident à combattre l'infection."
+            }
+        },
+        {
+            "word": "antipathy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "anti-",
+                    "meaning": {
+                        "ko": "반대",
+                        "en": "against",
+                        "ja": "反対",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pathy",
+                    "meaning": {
+                        "ko": "감정",
+                        "en": "feeling",
+                        "ja": "感情",
+                        "zh": "感情",
+                        "fr": "sentiment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반대하는 감정'이라는 의미에서 강한 '반감', '혐오'를 뜻합니다.",
+                "en": "Meaning strong dislike or aversion from 'feeling against something'",
+                "ja": "「反対する感情」という意味から、強い「嫌悪感」を表します",
+                "zh": "从「反对的感情」的含义演变为表示强烈的「厌恶」",
+                "fr": "Du sens de 'sentiment contre quelque chose', exprimant une forte aversion ou dégoût"
+            },
+            "example": "I feel a strong antipathy towards spiders.",
+            "translation": {
+                "ko": "나는 거미에게 강한 반감을 느낀다.",
+                "ja": "私はクモに対して強い反感を感じています。",
+                "zh": "我对蜘蛛感到强烈的反感。",
+                "fr": "J'éprouve une forte antipathie envers les araignées."
+            }
+        },
+        {
+            "word": "antibiotic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "anti-",
+                    "meaning": {
+                        "ko": "반대하여",
+                        "en": "against",
+                        "ja": "に対して",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio",
+                    "meaning": {
+                        "ko": "생명",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생명체(박테리아)에 대항하는' 물질이라는 의미에서 '항생제'를 뜻합니다.",
+                "en": "A substance that works against microorganisms like bacteria.",
+                "ja": "細菌などの微生物に対抗する物質という意味で「抗生物質」を指します。",
+                "zh": "指对抗细菌等微生物的物质，意为「抗生素」。",
+                "fr": "Une substance qui combat les micro-organismes comme les bactéries, signifiant « antibiotique »."
+            },
+            "example": "The doctor prescribed an antibiotic.",
+            "translation": {
+                "ko": "의사가 항생제를 처방했다.",
+                "ja": "医者が抗生物質を処方した。",
+                "zh": "医生开了抗生素。",
+                "fr": "Le médecin a prescrit un antibiotique."
+            }
+        }
+    ]
+}

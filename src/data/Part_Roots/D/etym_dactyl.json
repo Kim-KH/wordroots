@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "dactyl (finger, toe) dactyl, polydactyl, pterodactyl",
+        "origin": "Greek, daktylos (finger, toe)",
+        "meaning": {
+            "ko": "손가락, 발가락",
+            "en": "finger, toe",
+            "ja": "指",
+            "zh": "手指，脚趾",
+            "fr": "doigt, orteil"
+        }
+    },
+    "words": [
+        {
+            "word": "dactyl",
+            "part_of_speech": "",
+            "origin": "Greek, daktylos (finger)",
+            "meaning": {
+                "ko": "손가락",
+                "en": "finger",
+                "ja": "指、手指",
+                "zh": "手指",
+                "fr": "doigt"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dactyl-",
+                    "meaning": {
+                        "ko": "'손가락'",
+                        "en": "finger",
+                        "ja": "指、手指",
+                        "zh": "手指",
+                        "fr": "doigt"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손가락 마디(장-단-단)와 같은 음보'라는 의미에서 시의 '강약약격'을 뜻합니다.",
+                "en": "From the resemblance between finger joints (long-short-short) and the metrical pattern (stressed-unstressed-unstressed) in poetry",
+                "ja": "指の関節（長-短-短）と詩の音韻パターン（強-弱-弱）の類似性から",
+                "zh": "源于手指关节（长-短-短）与诗歌音步模式（强-弱-弱）的相似性",
+                "fr": "De la ressemblance entre les phalanges (long-court-court) et le schéma métrique (accentué-inaccentué-inaccentué) en poésie"
+            },
+            "example": "The poem is written in dactyls.",
+            "translation": {
+                "ko": "그 시는 강약약격으로 쓰여졌다.",
+                "ja": "その詩はダクティルで書かれている。",
+                "zh": "这首诗是用扬抑扬格写的。",
+                "fr": "Le poème est écrit en dactyles."
+            }
+        },
+        {
+            "word": "polydactyl",
+            "part_of_speech": "",
+            "origin": "Greek, poly- (many) + daktylos (finger)",
+            "meaning": {
+                "ko": "많은 손가락",
+                "en": "many fingers",
+                "ja": "多くの指を持つ",
+                "zh": "多个手指",
+                "fr": "plusieurs doigts"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "poly-",
+                    "meaning": {
+                        "ko": "'많은'",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多",
+                        "fr": "beaucoup"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dactyl",
+                    "meaning": {
+                        "ko": "'손가락'",
+                        "en": "finger",
+                        "ja": "指",
+                        "zh": "手指",
+                        "fr": "doigt"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정상보다 많은 수의 손가락이나 발가락을 가진' 상태를 의미하여 '다지증의'라고 합니다.",
+                "en": "A condition of having more fingers or toes than normal, called polydactylism.",
+                "ja": "正常より多くの指や足の指を持つ状態を多指症と呼びます。",
+                "zh": "拥有比正常更多手指或脚趾的状况，称为多指症。",
+                "fr": "Condition d'avoir plus de doigts ou d'orteils que la normale, appelée polydactylie."
+            },
+            "example": "Polydactyl cats have extra toes.",
+            "translation": {
+                "ko": "다지증 고양이는 여분의 발가락을 가지고 있다.",
+                "ja": "多指症の猫は余分な足の指を持っています。",
+                "zh": "多指症猫有额外的脚趾。",
+                "fr": "Les chats polydactyles ont des orteils supplémentaires."
+            }
+        },
+        {
+            "word": "pterodactyl",
+            "part_of_speech": "",
+            "origin": "Greek, pteron (wing) + daktylos (finger)",
+            "meaning": {
+                "ko": "날개 손가락",
+                "en": "wing finger",
+                "ja": "翼指竜",
+                "zh": "翼指龙",
+                "fr": "ptérodactyle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ptero-",
+                    "meaning": {
+                        "ko": "'날개'",
+                        "en": "wing",
+                        "ja": "翼",
+                        "zh": "翼",
+                        "fr": "aile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dactyl",
+                    "meaning": {
+                        "ko": "'손가락'",
+                        "en": "finger",
+                        "ja": "指",
+                        "zh": "手指",
+                        "fr": "doigt"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'날개 달린 손가락을 가진 공룡'이라는 의미에서 익룡의 일종인 '프테로닥틸루스'를 뜻합니다.",
+                "en": "A type of pterosaur meaning 'winged finger dinosaur' referring to Pterodactylus",
+                "ja": "翼のある指を持つ恐竜という意味で、翼竜の一種プテロダクティルスを指します",
+                "zh": "指有翼的手指的恐龙，是翼龙的一种翼龙属",
+                "fr": "Un type de ptérosaure signifiant 'dinosaure aux doigts ailés', faisant référence à Pterodactylus"
+            },
+            "example": "The pterodactyl was a flying reptile from the late Jurassic period.",
+            "translation": {
+                "ko": "프테로닥틸루스는 후기 쥐라기 시대의 날아다니는 파충류였다.",
+                "ja": "プテロダクティルは後期ジュラ紀の飛行爬虫類でした",
+                "zh": "翼指龙是晚侏罗纪的飞行爬行动物",
+                "fr": "Le ptérodactyle était un reptile volant du Jurassique supérieur"
+            }
+        }
+    ]
+}

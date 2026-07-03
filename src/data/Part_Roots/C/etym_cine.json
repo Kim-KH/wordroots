@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "cine (movement) cinema, cinematic, cinematography",
+        "origin": "Greek, kinēma (movement)",
+        "meaning": {
+            "ko": "움직임",
+            "en": "movement",
+            "ja": "動き",
+            "zh": "运动",
+            "fr": "mouvement"
+        }
+    },
+    "words": [
+        {
+            "word": "cinema",
+            "part_of_speech": "",
+            "origin": "Greek, kinēma (movement)",
+            "meaning": {
+                "ko": "움직임",
+                "en": "movement",
+                "ja": "映画館",
+                "zh": "电影院",
+                "fr": "cinéma"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cine (kinēma)",
+                    "meaning": {
+                        "ko": "'움직임'",
+                        "en": "movement",
+                        "ja": "動き",
+                        "zh": "运动",
+                        "fr": "mouvement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직이는(kine) 그림'이라는 개념에서 유래하여 '영화' 또는 '영화관'을 뜻하게 되었습니다.",
+                "en": "Derived from the concept of 'moving (kine) pictures', it came to mean 'movie' or 'movie theater'.",
+                "ja": "動く(kine)絵という概念から由来し、映画または映画館を意味するようになりました。",
+                "zh": "源自运动(kine)图片的概念，后来表示电影或电影院。",
+                "fr": "Dérivé du concept d'images en mouvement (kine), il en est venu à signifier film ou cinéma."
+            },
+            "example": "We went to the cinema to watch the new movie.",
+            "translation": {
+                "ko": "우리는 새 영화를 보러 영화관에 갔다.",
+                "ja": "私たちは新しい映画を見るために映画館に行きました。",
+                "zh": "我们去电影院看新电影。",
+                "fr": "Nous sommes allés au cinéma pour regarder le nouveau film."
+            }
+        },
+        {
+            "word": "cinematic",
+            "part_of_speech": "",
+            "origin": "Greek, kinēmatikos (relating to movement)",
+            "meaning": {
+                "ko": "움직임에 관한",
+                "en": "relating to movement",
+                "ja": "映画的な",
+                "zh": "电影的",
+                "fr": "cinématique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cinema (kinēma)",
+                    "meaning": {
+                        "ko": "'움직임, 영화'",
+                        "en": "movement, cinema",
+                        "ja": "動き、映画",
+                        "zh": "运动、电影",
+                        "fr": "mouvement, cinéma"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의, ~에 관련된'",
+                        "en": "of, relating to",
+                        "ja": "〜の、〜に関連した",
+                        "zh": "～的、～相关的",
+                        "fr": "de, relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'영화(cinema)의' 또는 '영화적인'이라는 뜻으로 사용됩니다.",
+                "en": "Used to mean 'of cinema' or 'cinematic in nature'",
+                "ja": "映画の、または映画的という意味で使われます",
+                "zh": "用来表示电影的或电影般的意思",
+                "fr": "Signifie 'du cinéma' ou 'de nature cinématique'"
+            },
+            "example": "The film was praised for its stunning cinematic visuals.",
+            "translation": {
+                "ko": "그 영화는 놀라운 영화적 영상미로 찬사를 받았다.",
+                "ja": "その映画は素晴らしい映画的なビジュアルで称賛されました",
+                "zh": "这部电影因其惊人的电影般视觉效果而受到赞扬",
+                "fr": "Le film a été salué pour ses visuels cinématiques époustouflants"
+            }
+        },
+        {
+            "word": "cinematography",
+            "part_of_speech": "",
+            "origin": "Greek, kinēma (movement) + graphein (to write)",
+            "meaning": {
+                "ko": "움직임을 기록하기",
+                "en": "recording movement",
+                "ja": "動きを記録する技術",
+                "zh": "记录运动的技术",
+                "fr": "technique d'enregistrement du mouvement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cinemato (kinēma)",
+                    "meaning": {
+                        "ko": "'움직임'",
+                        "en": "movement",
+                        "ja": "動き",
+                        "zh": "运动",
+                        "fr": "mouvement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graphy (graphein)",
+                    "meaning": {
+                        "ko": "'기록, 기술'",
+                        "en": "writing, art",
+                        "ja": "記録、技術",
+                        "zh": "记录、艺术",
+                        "fr": "écriture, art"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직임(cinemato)을 기록하는(graphy) 기술'이라는 의미에서 '영화 촬영술'을 뜻합니다.",
+                "en": "The term means 'film cinematography technique' from the sense of 'technique of recording movement (cinemato) through writing (graphy)'.",
+                "ja": "動き(cinemato)を記録する(graphy)技術という意味から映画撮影技法を表します。",
+                "zh": "从'记录运动(cinemato)的写作(graphy)技术'的意义来表示电影摄影技术。",
+                "fr": "Le terme signifie 'technique de cinématographie' à partir du sens de 'technique d'enregistrement du mouvement (cinemato) par l'écriture (graphy)'."
+            },
+            "example": "He won an award for best cinematography.",
+            "translation": {
+                "ko": "그는 최우수 촬영상을 받았다.",
+                "ja": "彼は最優秀撮影賞を受賞した。",
+                "zh": "他获得了最佳摄影奖。",
+                "fr": "Il a remporté un prix pour la meilleure cinématographie."
+            }
+        }
+    ]
+}

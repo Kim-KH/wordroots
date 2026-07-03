@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "corn (horn) cornea, cornucopia, unicorn",
+        "origin": "Latin, cornu (horn)",
+        "meaning": {
+            "ko": "뿔",
+            "en": "horn",
+            "ja": "角",
+            "zh": "角",
+            "fr": "corne"
+        }
+    },
+    "words": [
+        {
+            "word": "cornea",
+            "part_of_speech": "",
+            "origin": "Latin, cornea tela (horny tissue)",
+            "meaning": {
+                "ko": "뿔 같은 조직",
+                "en": "horn-like tissue",
+                "ja": "角のような組織",
+                "zh": "角状组织",
+                "fr": "tissu en forme de corne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "corn (cornu)",
+                    "meaning": {
+                        "ko": "'뿔'",
+                        "en": "horn",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "corne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "눈의 가장 바깥쪽 투명한 막이 '뿔(corn)처럼 단단한 조직'이라고 생각했던 데서 유래하여 '각막'을 뜻하게 되었습니다.",
+                "en": "The cornea helps to focus light as it enters the eye.",
+                "ja": "眼の最も外側の透明な膜が、角(corn)のように硬い組織だと考えられたことから由来し、'角膜'を意味するようになりました。",
+                "zh": "眼睛最外层的透明膜因被认为是像角(corn)一样坚硬的组织而得名，因此产生了'角膜'的含义。",
+                "fr": "La membrane transparente la plus externe de l'œil tire son origine de la pensée qu'elle était un tissu dur comme une corne (corn), d'où le sens de 'cornée'."
+            },
+            "example": "The cornea helps to focus light as it enters the eye.",
+            "translation": {
+                "ko": "각막은 빛이 눈으로 들어올 때 초점을 맞추는 것을 돕는다.",
+                "ja": "角膜は目に入る光を焦点を合わせるのに役立ちます。",
+                "zh": "角膜有助于聚焦进入眼睛的光线。",
+                "fr": "La cornée aide à mettre au point la lumière qui entre dans l'œil."
+            }
+        },
+        {
+            "word": "cornucopia",
+            "part_of_speech": "",
+            "origin": "Latin, cornu copiae (horn of plenty)",
+            "meaning": {
+                "ko": "풍요의 뿔",
+                "en": "horn of plenty",
+                "ja": "豊かさの角",
+                "zh": "丰饶之角",
+                "fr": "corne d'abondance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cornu",
+                    "meaning": {
+                        "ko": "'뿔'",
+                        "en": "horn",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "corne"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "copia",
+                    "meaning": {
+                        "ko": "'풍요, 풍부함'",
+                        "en": "plenty, abundance",
+                        "ja": "豊かさ、豊富",
+                        "zh": "丰富、充裕",
+                        "fr": "abondance, profusion"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "제우스에게 젖을 먹인 염소의 뿔에서 과일과 곡식이 끊임없이 나왔다는 그리스 신화의 '풍요의 뿔(cornu copiae)'에서 유래하여, '풍요', '풍부함'을 상징하는 단어가 되었습니다.",
+                "en": "Derived from Greek mythology's 'cornucopia' (cornu copiae) - the horn of a goat that nursed Zeus, from which fruit and grain flowed endlessly. It became a symbol of abundance and plenty.",
+                "ja": "ゼウスに授乳した山羊の角から果物と穀物が絶え間なく流れ出たというギリシャ神話の『豊かさの角』に由来し、『豊かさ』『豊富さ』を象徴する言葉になった。",
+                "zh": "源自希腊神话中的'丰饶之角'，据说是哺育宙斯的山羊的角，水果和谷物源源不断地从中流出。后来成为丰富和充裕的象征。",
+                "fr": "Dérivé de la mythologie grecque 'cornucopia' (cornu copiae) - la corne de la chèvre qui allaita Zeus, d'où coulaient sans fin fruits et céréales. C'est devenu un symbole d'abondance et de profusion."
+            },
+            "example": "The festival was a cornucopia of music, dance, and food.",
+            "translation": {
+                "ko": "그 축제는 음악, 춤, 그리고 음식이 넘쳐나는 풍요의 장이었다.",
+                "ja": "このフェスティバルは音楽、ダンス、食べ物の豊かさだった。",
+                "zh": "这个节日是音乐、舞蹈和食物的丰富集合。",
+                "fr": "Le festival était une corne d'abondance de musique, de danse et de nourriture."
+            }
+        },
+        {
+            "word": "unicorn",
+            "part_of_speech": "",
+            "origin": "Latin, unicornis (one-horned)",
+            "meaning": {
+                "ko": "뿔이 하나인",
+                "en": "having one horn",
+                "ja": "一本の角を持つ伝説の生き物",
+                "zh": "拥有一只角的传说生物",
+                "fr": "créature mythique à une corne"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "uni-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "corn (cornu)",
+                    "meaning": {
+                        "ko": "'뿔'",
+                        "en": "horn",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "corne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하나(uni)의 뿔(corn)을 가진' 전설 속의 동물, '유니콘'을 의미합니다.",
+                "en": "A legendary animal characterized by having one (uni) horn (corn), meaning 'unicorn'",
+                "ja": "一つ(uni)の角(corn)を持つ伝説の動物を意味する'ユニコーン'",
+                "zh": "拥有一个(uni)角(corn)的传说动物,意为'独角兽'",
+                "fr": "Animal légendaire avec une (uni) corne (corn), signifiant 'licorne'"
+            },
+            "example": "The unicorn is a mythical creature with a single large horn on its forehead.",
+            "translation": {
+                "ko": "유니콘은 이마에 하나의 큰 뿔을 가진 신화 속의 생물이다.",
+                "ja": "ユニコーン",
+                "zh": "独角兽",
+                "fr": "licorne"
+            }
+        }
+    ]
+}

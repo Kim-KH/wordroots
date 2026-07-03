@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "fung (mushroom) fungus, fungicide",
+        "origin": "Latin, fungus (mushroom)",
+        "meaning": {
+            "ko": "버섯",
+            "en": "mushroom",
+            "ja": "キノコ",
+            "zh": "蘑菇",
+            "fr": "champignon"
+        }
+    },
+    "words": [
+        {
+            "word": "fungus",
+            "part_of_speech": "",
+            "origin": "Latin, fungus (mushroom)",
+            "meaning": {
+                "ko": "버섯",
+                "en": "fungal fruiting body",
+                "ja": "キノコ、菌類",
+                "zh": "蘑菇、真菌",
+                "fr": "champignon, fungus"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fung-",
+                    "meaning": {
+                        "ko": "'균류, 버섯'",
+                        "en": "mushroom",
+                        "ja": "キノコ、菌類",
+                        "zh": "蘑菇、真菌",
+                        "fr": "champignon, fungus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "버섯, 곰팡이, 효모 등을 포함하는 '균류'를 뜻합니다.",
+                "en": "Fungus refers to fungi including mushrooms, mold, and yeast.",
+                "ja": "キノコ、カビ、酵母などを含む菌類を意味します。",
+                "zh": "指包括蘑菇、霉菌和酵母等的真菌。",
+                "fr": "Fait référence aux champignons incluant les moisissures et les levures."
+            },
+            "example": "Mold is a type of fungus.",
+            "translation": {
+                "ko": "곰팡이는 균류의 일종이다.",
+                "ja": "カビは菌類の一種です。",
+                "zh": "霉菌是一种真菌。",
+                "fr": "La moisissure est un type de champignon."
+            }
+        },
+        {
+            "word": "fungicide",
+            "part_of_speech": "",
+            "origin": "Latin, fungus (mushroom) + -cida (a killer)",
+            "meaning": {
+                "ko": "균류 살해",
+                "en": "killing fungi",
+                "ja": "真菌を殺す薬",
+                "zh": "杀死真菌的药物",
+                "fr": "substance qui tue les champignons"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fungi-",
+                    "meaning": {
+                        "ko": "'균류'",
+                        "en": "fungus",
+                        "ja": "真菌",
+                        "zh": "真菌",
+                        "fr": "champignon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cide",
+                    "meaning": {
+                        "ko": "'죽이기'",
+                        "en": "killer",
+                        "ja": "殺す",
+                        "zh": "杀死",
+                        "fr": "tuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'균류를 죽이는 약'이라는 의미에서 '살균제'를 뜻합니다.",
+                "en": "A chemical substance used to kill or prevent fungal infections",
+                "ja": "真菌感染を殺すまたは防ぐために使用される化学物質",
+                "zh": "用于杀死或防止真菌感染的化学物质",
+                "fr": "Substance chimique utilisée pour tuer ou prévenir les infections fongiques"
+            },
+            "example": "The farmer sprayed fungicide on the crops.",
+            "translation": {
+                "ko": "그 농부는 농작물에 살균제를 뿌렸다.",
+                "ja": "農民は作物に殺菌剤を噴きかけた",
+                "zh": "农民在庄稼上喷洒了杀菌剂",
+                "fr": "L'agriculteur a pulvérisé du fongicide sur les cultures"
+            }
+        }
+    ]
+}

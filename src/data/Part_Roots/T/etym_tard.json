@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "tard (slow) tardy, tarry",
+        "origin": "Latin, tardus (slow)",
+        "meaning": {
+            "ko": "느린",
+            "en": "slow",
+            "ja": "遅い",
+            "zh": "慢",
+            "fr": "lent"
+        }
+    },
+    "words": [
+        {
+            "word": "tardy",
+            "part_of_speech": "",
+            "origin": "Latin, tardus (slow)",
+            "meaning": {
+                "ko": "느린",
+                "en": "slow",
+                "ja": "遅い",
+                "zh": "迟缓的",
+                "fr": "lent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tard-",
+                    "meaning": {
+                        "ko": "'느린'",
+                        "en": "slow",
+                        "ja": "遅い",
+                        "zh": "缓慢的",
+                        "fr": "lent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정해진 시간보다 느린'이라는 의미에서 '지각한', '더딘'이라는 뜻입니다.",
+                "en": "Means arriving or doing something slower than the scheduled time; late or sluggish",
+                "ja": "予定時間より遅れて到着すること、つまり遅刻や遅滞を意味します",
+                "zh": "比规定时间迟到或行动缓慢的意思，即迟到或迟钝",
+                "fr": "Signifie arriver ou faire quelque chose plus lentement que l'heure prévue; en retard ou lent"
+            },
+            "example": "He was tardy for school.",
+            "translation": {
+                "ko": "그는 학교에 지각했다.",
+                "ja": "彼は学校に遅刻した。",
+                "zh": "他上学迟到了。",
+                "fr": "Il était en retard pour l'école."
+            }
+        },
+        {
+            "word": "tarry",
+            "part_of_speech": "",
+            "origin": "Middle English, tarien (to delay)",
+            "meaning": {
+                "ko": "지체하다",
+                "en": "to delay or linger",
+                "ja": "遅れる、滞在する",
+                "zh": "延迟、逗留",
+                "fr": "tarder, rester"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tar- (tardus)",
+                    "meaning": {
+                        "ko": "'느린'",
+                        "en": "slow",
+                        "ja": "遅い",
+                        "zh": "缓慢",
+                        "fr": "lent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'느릿느릿하게 머무르다'는 의미에서 '지체하다', '머무르다'는 뜻입니다.",
+                "en": "Means to delay or remain; to stay slowly and leisurely.",
+                "ja": "ゆっくり滞在することから、遅れる、留まるという意味。",
+                "zh": "从缓慢逗留的意思引申为延迟、停留。",
+                "fr": "Signifie rester ou tarder; demeurer lentement et tranquillement."
+            },
+            "example": "Do not tarry, we must leave now.",
+            "translation": {
+                "ko": "지체하지 마세요, 우리는 지금 떠나야 합니다.",
+                "ja": "急いでください。今すぐ出発しなければなりません。",
+                "zh": "不要拖延，我们必须立即离开。",
+                "fr": "Ne tardez pas, nous devons partir maintenant."
+            }
+        }
+    ]
+}

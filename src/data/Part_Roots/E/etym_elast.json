@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "elast (regain shape) elastic, elasticity",
+        "origin": "Greek, elastos (ductile, flexible)",
+        "meaning": {
+            "ko": "연성이 있는, 유연한",
+            "en": "ductile",
+            "ja": "延性のある",
+            "zh": "延展性的",
+            "fr": "ductile"
+        }
+    },
+    "words": [
+        {
+            "word": "elastic",
+            "part_of_speech": "",
+            "origin": "Greek, elastikos (propulsive)",
+            "meaning": {
+                "ko": "추진력 있는",
+                "en": "having driving force",
+                "ja": "弾力のある",
+                "zh": "富有弹性的",
+                "fr": "élastique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "elast-",
+                    "meaning": {
+                        "ko": "'되튀다'",
+                        "en": "to drive, strike",
+                        "ja": "駆動する、打つ",
+                        "zh": "驱动、打击",
+                        "fr": "conduire, frapper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래 형태로 되돌아가는' 성질이 있다는 의미에서 '탄력 있는', '신축성 있는'이라는 뜻입니다.",
+                "en": "Describes the quality of returning to original form, meaning 'resilient' or 'flexible'",
+                "ja": "元の形に戻る性質があることを表し、'弾力のある'、'可塑性のある'という意味",
+                "zh": "表示回到原始形态的特性，意为'有弹性的'、'有柔韧性的'",
+                "fr": "Décrit la qualité de revenir à sa forme originale, signifiant 'résilient' ou 'flexible'"
+            },
+            "example": "This material is very elastic.",
+            "translation": {
+                "ko": "이 소재는 매우 탄력 있다.",
+                "ja": "この素材は非常に弾力性があります。",
+                "zh": "这种材料非常有弹性。",
+                "fr": "Ce matériau est très élastique."
+            }
+        },
+        {
+            "word": "elasticity",
+            "part_of_speech": "",
+            "origin": "Greek, elastikos (propulsive)",
+            "meaning": {
+                "ko": "추진력 있는",
+                "en": "having driving force or momentum",
+                "ja": "弾性、伸縮性",
+                "zh": "弹性、伸缩性",
+                "fr": "élasticité, flexibilité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "elast-",
+                    "meaning": {
+                        "ko": "'되튀다'",
+                        "en": "to drive, strike",
+                        "ja": "駆動する、打つ",
+                        "zh": "驱动、打击",
+                        "fr": "conduire, frapper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래 형태로 되돌아가려는 성질'이라는 의미에서 '탄성', '신축성'을 뜻합니다.",
+                "en": "The quality of returning to original form",
+                "ja": "元の形に戻ろうとする性質",
+                "zh": "返回原始形状的性质",
+                "fr": "Qualité de revenir à sa forme originale"
+            },
+            "example": "The elasticity of the rubber band allows it to stretch.",
+            "translation": {
+                "ko": "고무줄의 탄성 덕분에 늘어날 수 있다.",
+                "ja": "ゴムバンドの弾性により、それは伸びることができます。",
+                "zh": "橡皮筋的弹性使其能够伸展。",
+                "fr": "L'élasticité du bracelet en caoutchouc lui permet de s'étirer."
+            }
+        }
+    ]
+}

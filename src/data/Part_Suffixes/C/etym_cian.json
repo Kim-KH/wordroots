@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "cian (having a skill) clinician, musician, technician",
+        "origin": "Latin, -ianus (belonging to)",
+        "meaning": {
+            "ko": "기술을 가진 사람",
+            "en": "having a skill",
+            "ja": "スキルを持つ",
+            "zh": "拥有技能",
+            "fr": "ayant une compétence"
+        }
+    },
+    "words": [
+        {
+            "word": "clinician",
+            "part_of_speech": "",
+            "origin": "Greek, kline (a bed)",
+            "meaning": {
+                "ko": "침대",
+                "en": "bed",
+                "ja": "臨床医",
+                "zh": "临床医生",
+                "fr": "clinicien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clinic-",
+                    "meaning": {
+                        "ko": "'임상'",
+                        "en": "clinical",
+                        "ja": "臨床",
+                        "zh": "临床",
+                        "fr": "clinique"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ian",
+                    "meaning": {
+                        "ko": "'~전문가'",
+                        "en": "expert or specialist",
+                        "ja": "専門家",
+                        "zh": "专家",
+                        "fr": "spécialiste"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'환자의 침대 곁에서 직접 환자를 다루는' '임상 의사'를 뜻합니다.",
+                "en": "A clinician is a health care professional who works directly with patients at the bedside.",
+                "ja": "患者のベッドの側で直接患者を診察する臨床医を意味します",
+                "zh": "在患者床边直接治疗患者的临床医生的意思",
+                "fr": "Professionnel de santé qui traite directement les patients au chevet du lit"
+            },
+            "example": "A clinician is a health care professional who works directly with patients.",
+            "translation": {
+                "ko": "임상 의사는 환자와 직접 일하는 의료 전문가이다.",
+                "ja": "臨床医",
+                "zh": "临床医生",
+                "fr": "clinicien"
+            }
+        },
+        {
+            "word": "musician",
+            "part_of_speech": "",
+            "origin": "Latin, musica (music)",
+            "meaning": {
+                "ko": "음악",
+                "en": "music",
+                "ja": "音楽家",
+                "zh": "音乐家",
+                "fr": "musicien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "music",
+                    "meaning": {
+                        "ko": "'음악'",
+                        "en": "music",
+                        "ja": "音楽",
+                        "zh": "音乐",
+                        "fr": "musique"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ian",
+                    "meaning": {
+                        "ko": "'~전문가'",
+                        "en": "expert in",
+                        "ja": "専門家",
+                        "zh": "专家",
+                        "fr": "expert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음악에 기술이 있는 사람'인 '음악가'를 뜻합니다.",
+                "en": "A person skilled in music",
+                "ja": "音楽に技術がある人",
+                "zh": "在音乐上有技能的人",
+                "fr": "personne compétente en musique"
+            },
+            "example": "He is a talented musician.",
+            "translation": {
+                "ko": "그는 재능 있는 음악가이다.",
+                "ja": "彼は才能のある音楽家です。",
+                "zh": "他是一位才华横溢的音乐家。",
+                "fr": "C'est un musicien talentueux."
+            }
+        },
+        {
+            "word": "technician",
+            "part_of_speech": "",
+            "origin": "Greek, tekhne (art, skill)",
+            "meaning": {
+                "ko": "기술",
+                "en": "skill or technique",
+                "ja": "技術者",
+                "zh": "技术人员",
+                "fr": "technicien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "techn-",
+                    "meaning": {
+                        "ko": "'기술'",
+                        "en": "skill",
+                        "ja": "技術",
+                        "zh": "技术",
+                        "fr": "technique"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ician",
+                    "meaning": {
+                        "ko": "'~전문가'",
+                        "en": "expert or specialist in",
+                        "ja": "専門家",
+                        "zh": "专家",
+                        "fr": "expert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 분야의 기술을 가진 전문가'인 '기술자'를 뜻합니다.",
+                "en": "A specialist with skills in a specific field",
+                "ja": "特定分野の技術を持つ専門家",
+                "zh": "具有特定领域技术的专家",
+                "fr": "Un spécialiste ayant des compétences dans un domaine spécifique"
+            },
+            "example": "The technician repaired the broken machine.",
+            "translation": {
+                "ko": "그 기술자가 고장 난 기계를 수리했다.",
+                "ja": "その技術者は壊れた機械を修理した。",
+                "zh": "那位技术人员修理了坏掉的机器。",
+                "fr": "Le technicien a réparé la machine cassée."
+            }
+        }
+    ]
+}

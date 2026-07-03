@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "suspen (hang) suspend, suspense, suspension, suspender",
+        "origin": "Latin, suspendere (to hang up)",
+        "meaning": {
+            "ko": "매달다",
+            "en": "to hang up",
+            "ja": "掛ける",
+            "zh": "挂起",
+            "fr": "raccrocher"
+        }
+    },
+    "words": [
+        {
+            "word": "suspend",
+            "part_of_speech": "",
+            "origin": "Latin, suspendere (to hang up)",
+            "meaning": {
+                "ko": "매달다",
+                "en": "to hang down",
+                "ja": "吊る、一時中止する",
+                "zh": "悬挂、暂停",
+                "fr": "suspendre, interrompre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sus- (sub-)",
+                    "meaning": {
+                        "ko": "'아래에서'",
+                        "en": "from below",
+                        "ja": "下から",
+                        "zh": "从下面",
+                        "fr": "par dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend",
+                    "meaning": {
+                        "ko": "'매달다'",
+                        "en": "to hang",
+                        "ja": "吊る",
+                        "zh": "悬挂",
+                        "fr": "suspendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아래에서 위로 매달다'는 의미에서 '매달다' 또는 일시적으로 '중단하다', '정직/정학시키다'는 뜻이 되었습니다.",
+                "en": "From 'hang from below' to meanings of temporarily 'stop', 'dismiss/expel'",
+                "ja": "「下から吊る」という意味から、一時的に「中止する」または「停職させる」という意味になりました。",
+                "zh": "从「从下面悬挂」的含义演变为临时「暂停」或「停职」的含义。",
+                "fr": "Du sens 'suspendre par le bas' aux sens temporaires 'arrêter' ou 'révoquer'."
+            },
+            "example": "The meeting has been suspended until tomorrow.",
+            "translation": {
+                "ko": "회의는 내일까지 중단되었다.",
+                "ja": "会議は明日まで延期されている。",
+                "zh": "会议已暂停到明天。",
+                "fr": "La réunion a été suspendue jusqu'à demain."
+            }
+        },
+        {
+            "word": "suspense",
+            "part_of_speech": "",
+            "origin": "Latin, suspensus (hanging)",
+            "meaning": {
+                "ko": "매달린",
+                "en": "hanging or suspended",
+                "ja": "緊張感、サスペンス",
+                "zh": "悬念、紧张感",
+                "fr": "suspense, tension"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suspen-",
+                    "meaning": {
+                        "ko": "'매달다'",
+                        "en": "to hang",
+                        "ja": "掛ける",
+                        "zh": "悬挂",
+                        "fr": "suspendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'결말을 알 수 없어 마음이 매달려 있는' 상태라는 의미에서 '긴장감', '서스펜스'를 뜻합니다.",
+                "en": "From the state of one's mind being suspended without knowing the ending, meaning tension or suspense.",
+                "ja": "結末が不明な状態で心が掛かっている状態から、緊張感やサスペンスを意味します。",
+                "zh": "从心理因不知结局而处于悬挂状态的概念，表示紧张感或悬念。",
+                "fr": "De l'état où l'esprit reste suspendu sans connaître le dénouement, signifiant tension ou suspense."
+            },
+            "example": "The movie is full of suspense.",
+            "translation": {
+                "ko": "그 영화는 긴장감이 넘친다.",
+                "ja": "その映画はサスペンスに満ちている。",
+                "zh": "这部电影充满了悬念。",
+                "fr": "Le film est plein de suspense."
+            }
+        },
+        {
+            "word": "suspension",
+            "part_of_speech": "",
+            "origin": "Latin, suspensio (a hanging up)",
+            "meaning": {
+                "ko": "매달기",
+                "en": "hanging or suspending",
+                "ja": "吊り下げ",
+                "zh": "悬挂",
+                "fr": "suspension"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suspen-",
+                    "meaning": {
+                        "ko": "'매달다'",
+                        "en": "to hang",
+                        "ja": "吊る",
+                        "zh": "悬挂",
+                        "fr": "suspendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매달려 있는 상태' 또는 '일시적인 중단', '정직/정학'을 뜻합니다.",
+                "en": "Means hanging state or temporary stop, expulsion/suspension from school",
+                "ja": "吊り下がっている状態、または一時的な中断、停学/謹慎を意味します",
+                "zh": "表示悬挂状态或暂时停止、停学/禁学",
+                "fr": "État de suspension ou arrêt temporaire, renvoi/exclusion scolaire"
+            },
+            "example": "He received a suspension from school for fighting.",
+            "translation": {
+                "ko": "그는 싸움으로 인해 정학 처분을 받았다.",
+                "ja": "彼は喧嘩で学校から停学処分を受けた",
+                "zh": "他因为打架而被学校停学",
+                "fr": "Il a reçu une suspension de l'école pour s'être battu"
+            }
+        },
+        {
+            "word": "suspender",
+            "part_of_speech": "",
+            "origin": "Latin, suspendere (to hang up)",
+            "meaning": {
+                "ko": "매달다",
+                "en": "to hang or dangle",
+                "ja": "吊るす、掛ける",
+                "zh": "悬挂、吊起",
+                "fr": "suspendre, tenir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suspend-",
+                    "meaning": {
+                        "ko": "'매달다'",
+                        "en": "to hang",
+                        "ja": "吊るす、掛ける",
+                        "zh": "悬挂、吊起",
+                        "fr": "suspendre, tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바지를 어깨에 매다는' 멜빵을 뜻합니다.",
+                "en": "Refers to straps worn over shoulders to hold up trousers",
+                "ja": "ズボンを肩に掛ける紐",
+                "zh": "用来悬挂裤子的肩带",
+                "fr": "Bretelles pour tenir le pantalon"
+            },
+            "example": "He wore a pair of red suspenders.",
+            "translation": {
+                "ko": "그는 빨간 멜빵을 하고 있었다.",
+                "ja": "サスペンダー",
+                "zh": "背带裤",
+                "fr": "bretelles"
+            }
+        }
+    ]
+}

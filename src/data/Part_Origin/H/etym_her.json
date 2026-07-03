@@ -1,0 +1,216 @@
+{
+    "root_info": {
+        "roots": "her, hes: to stick",
+        "origin": "Latin, hærere",
+        "meaning": {
+            "ko": "달라붙다",
+            "en": "to stick",
+            "ja": "くっつく",
+            "zh": "粘住",
+            "fr": "coller"
+        }
+    },
+    "words": [
+        {
+            "word": "inherent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in",
+                        "ja": "内に",
+                        "zh": "在...内",
+                        "fr": "en dedans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "her",
+                    "meaning": {
+                        "ko": "달라붙다",
+                        "en": "to stick",
+                        "ja": "くっつく",
+                        "zh": "粘着",
+                        "fr": "coller"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ent",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에 달라붙어 있는'이라는 의미에서, 분리할 수 없는 '내재적인', '고유의'라는 뜻입니다.",
+                "en": "From the sense of 'stuck inside', meaning something that cannot be separated, inseparable, intrinsic, or inherent",
+                "ja": "内に付着しているという意味から、分離できない、本質的な、固有のという意味です",
+                "zh": "从'粘附在内部'的含义引申而来，表示不可分离的、本质的、固有的意思",
+                "fr": "Du sens de 'collé à l'intérieur', signifiant quelque chose qui ne peut pas être séparé, inséparable ou intrinsèque"
+            },
+            "example": "The desire for freedom is inherent in all people.",
+            "translation": {
+                "ko": "자유를 향한 갈망은 모든 사람에게 내재되어 있다.",
+                "ja": "固有の",
+                "zh": "内在的",
+                "fr": "inhérent"
+            }
+        },
+        {
+            "word": "adherent",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "～に",
+                        "zh": "到、向",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "her",
+                    "meaning": {
+                        "ko": "달라붙다",
+                        "en": "to stick",
+                        "ja": "くっつく",
+                        "zh": "粘着、附着",
+                        "fr": "coller"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ent",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词词尾",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어딘가에 달라붙는'이라는 의미에서 '점착성의'라는 뜻이며, 명사로는 특정 사상이나 정당에 '달라붙은 사람' 즉 '지지자'를 의미합니다.",
+                "en": "From Latin ad- (to) + haerere (to stick). Originally meant 'sticky' or 'adhesive' in physical sense; now also describes a person who sticks to or supports a cause, party, or belief.",
+                "ja": "ラテン語の「～に」と「くっつく」から。もともと物理的に『粘着性がある』という意味ですが、名詞として使うと『特定の思想や政党に固執する人』つまり『支持者』を意味します。",
+                "zh": "源自拉丁语ad-（到）和haerere（粘着）。原指物理上的「粘着性」，作为名词时指「坚持某种思想或政党的人」，即「支持者」。",
+                "fr": "Du latin ad- (à) + haerere (coller). Signifiait à l'origine 'collant' ou 'adhésif' au sens physique; désigne aussi une personne attachée à une cause, un parti ou une croyance."
+            },
+            "example": "The tape is not very adherent.",
+            "translation": {
+                "ko": "그 테이프는 점착성이 별로 좋지 않다.",
+                "ja": "そのテープは粘着性があまり良くない。",
+                "zh": "那个胶带的粘性不太好。",
+                "fr": "Ce ruban adhésif n'a pas beaucoup de pouvoir collant."
+            }
+        },
+        {
+            "word": "hesitation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hes (hærere)",
+                    "meaning": {
+                        "ko": "달라붙다",
+                        "en": "to stick",
+                        "ja": "貼り付く",
+                        "zh": "粘住",
+                        "fr": "coller"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominalization suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化词尾",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "생각이 한 곳에 '달라붙어' 앞으로 나아가지 못하는 상태를 의미하며, '주저', '망설임'을 뜻합니다.",
+                "en": "Thought sticks to one place, preventing forward progress; means indecision or hesitation.",
+                "ja": "思考が一箇所に『貼り付いて』前に進めない状態を意味し、『躊躇』『迷い』を表します。",
+                "zh": "思想'粘住'在一个地方，无法向前进行的状态，意为'犹豫'、'踌躇'。",
+                "fr": "La pensée 'colle' à un endroit, empêchant d'avancer; signifie indécision ou hésitation."
+            },
+            "example": "He answered without hesitation.",
+            "translation": {
+                "ko": "그는 망설임 없이 대답했다.",
+                "ja": "彼は躊躇なく答えた。",
+                "zh": "他毫不犹豫地回答了。",
+                "fr": "Il a répondu sans hésitation."
+            }
+        },
+        {
+            "word": "coherent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "co-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "her",
+                    "meaning": {
+                        "ko": "달라붙다",
+                        "en": "to stick",
+                        "ja": "くっつく",
+                        "zh": "粘住",
+                        "fr": "coller"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ent",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "생각이나 말의 부분들이 '함께 잘 달라붙어 있는' 상태를 의미하며, '일관성 있는', '논리 정연한'이라는 뜻입니다.",
+                "en": "The parts of thoughts or words are in a state of being 'stuck together well', meaning 'consistent' or 'logical'",
+                "ja": "考えや言葉の部分が『一緒によくくっついている』状態を意味し、『首尾一貫した』『論理的な』という意味です",
+                "zh": "思想或言语的部分处于'紧密粘合在一起'的状态，意为'一致的''逻辑清晰的'",
+                "fr": "Les parties des pensées ou des paroles sont dans un état d'être 'bien collées ensemble', signifiant 'cohérent' ou 'logique'"
+            },
+            "example": "He gave a coherent explanation.",
+            "translation": {
+                "ko": "그는 일관성 있는 설명을 했다.",
+                "ja": "論理的な",
+                "zh": "连贯的",
+                "fr": "cohérent"
+            }
+        }
+    ]
+}

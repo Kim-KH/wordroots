@@ -1,0 +1,351 @@
+{
+    "root_info": {
+        "roots": "pel, puls: drive, push",
+        "origin": "Latin, pellere",
+        "meaning": {
+            "ko": "몰다, 밀다",
+            "en": "to drive, to push",
+            "ja": "駆る、押す",
+            "zh": "驱赶、推动",
+            "fr": "conduire, pousser"
+        }
+    },
+    "words": [
+        {
+            "word": "expel",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pel",
+                    "meaning": {
+                        "ko": "몰다",
+                        "en": "to drive",
+                        "ja": "追い出す",
+                        "zh": "驱赶",
+                        "fr": "chasser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 몰아내다'는 의미에서, 학생을 '퇴학시키다' 또는 공기 등을 '내보내다'는 뜻입니다.",
+                "en": "Meaning 'to drive out', it refers to expelling a student from school or letting out air, etc.",
+                "ja": "『外へ追い出す』という意味で、学生を『退学させる』または空気などを『排出する』ことを意味します。",
+                "zh": "意为'驱赶出去'，指将学生'开除'或将空气等'排出'。",
+                "fr": "Signifiant 'chasser dehors', cela fait référence à l'expulsion d'un étudiant de l'école ou à l'évacuation d'air, etc."
+            },
+            "example": "He was expelled from school for cheating.",
+            "translation": {
+                "ko": "그는 부정행위로 학교에서 퇴학당했다.",
+                "ja": "彼は不正行為のため学校から退学させられた。",
+                "zh": "他因作弊而被开除出学校。",
+                "fr": "Il a été expulsé de l'école pour triche."
+            }
+        },
+        {
+            "word": "dispel",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 흩어지게",
+                        "en": "apart",
+                        "ja": "離れて",
+                        "zh": "分开",
+                        "fr": "apart"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pel",
+                    "meaning": {
+                        "ko": "몰다",
+                        "en": "to drive",
+                        "ja": "追い払う",
+                        "zh": "驱赶",
+                        "fr": "to drive"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'흩어지게 몰아내다'는 의미에서, 의심이나 소문 등을 '없애다', '쫓아버리다'는 뜻입니다.",
+                "en": "From the sense of 'driving apart', meaning to eliminate or disperse doubts, rumors, etc.",
+                "ja": "『追い払う』という意味から、疑いやうわさなどを『なくす』『払いのける』という意味です。",
+                "zh": "从'驱赶'的含义来看，指消除或驱散怀疑、谣言等。",
+                "fr": "Du sens de 'chasser loin', signifiant éliminer ou dissiper les doutes, les rumeurs, etc."
+            },
+            "example": "The good news will dispel your fears.",
+            "translation": {
+                "ko": "그 좋은 소식이 당신의 두려움을 없애줄 것이다.",
+                "ja": "良いニュースはあなたの恐れを払いのけるでしょう。",
+                "zh": "好消息会消除你的恐惧。",
+                "fr": "La bonne nouvelle dissipera vos peurs."
+            }
+        },
+        {
+            "word": "impel",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "~쪽으로",
+                        "en": "on, towards",
+                        "ja": "～へ、～の方へ",
+                        "zh": "朝向、指向",
+                        "fr": "vers, en direction de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pel",
+                    "meaning": {
+                        "ko": "몰다",
+                        "en": "to drive",
+                        "ja": "駆り立てる、押し進める",
+                        "zh": "驱动、推动",
+                        "fr": "pousser, chasser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 방향으로 몰아가다'는 의미에서, 어떤 행동을 하도록 '강요하다', '재촉하다'는 뜻입니다.",
+                "en": "From the sense of 'driving in a direction', meaning to force or urge someone to do something",
+                "ja": "ある方向に追い立てるという意味から転じて、ある行動をするよう『強制する』『促す』という意味になった",
+                "zh": "从'朝某个方向驱赶'的意思引申，表示'强迫'或'催促'某人做某事",
+                "fr": "Du sens de 'pousser dans une direction', signifie forcer ou presser quelqu'un à faire quelque chose"
+            },
+            "example": "Curiosity impelled him to open the box.",
+            "translation": {
+                "ko": "호기심이 그가 상자를 열도록 재촉했다.",
+                "ja": "好奇心が彼に箱を開けるよう駆り立てた。",
+                "zh": "好奇心促使他打开了盒子。",
+                "fr": "La curiosité l'a poussé à ouvrir la boîte."
+            }
+        },
+        {
+            "word": "pulsation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "puls",
+                    "meaning": {
+                        "ko": "두드리다",
+                        "en": "to beat",
+                        "ja": "叩く",
+                        "zh": "敲打",
+                        "fr": "frapper"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominal suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "심장이나 맥박이 '규칙적으로 두드리는 것' 즉, '고동', '맥동'을 의미합니다.",
+                "en": "Refers to the regular beating of the heart or pulse; the rhythmic throbbing sensation.",
+                "ja": "心臓や脈拍が「規則的に叩く」こと、つまり「鼓動」「脈動」を意味します。",
+                "zh": "指心脏或脉搏「有规律地跳动」，即「心跳」、「搏动」之意。",
+                "fr": "Désigne le battement régulier du cœur ou du pouls ; le mouvement de pulsation rhythmique."
+            },
+            "example": "He could feel the pulsation of his heart.",
+            "translation": {
+                "ko": "그는 자기 심장의 고동을 느낄 수 있었다.",
+                "ja": "彼は自分の心臓の鼓動を感じることができた。",
+                "zh": "他能感受到自己心脏的跳动。",
+                "fr": "Il pouvait sentir la pulsation de son cœur."
+            }
+        },
+        {
+            "word": "compel",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께, 강제로",
+                        "en": "together, with force",
+                        "ja": "一緒に、力ずくで",
+                        "zh": "一起，用力",
+                        "fr": "ensemble, avec force"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pel",
+                    "meaning": {
+                        "ko": "몰다",
+                        "en": "to drive",
+                        "ja": "駆り立てる",
+                        "zh": "驱赶",
+                        "fr": "chasser, pousser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'힘을 다해 몰아가다'는 의미에서, 어떤 일을 하도록 '강요하다', '강제하다'는 뜻입니다.",
+                "en": "From the sense of 'drive forward with all one's might', meaning to 'force' or 'coerce' someone to do something.",
+                "ja": "「全力で駆り立てる」という意味から、ある行為を強制する、強要するという意味になります。",
+                "zh": "源自「用全力驱赶」的含义，表示强制或迫使某人做某事。",
+                "fr": "Du sens de « pousser de toute sa force », signifiant « forcer » ou « contraindre » quelqu'un à faire quelque chose."
+            },
+            "example": "The law will compel them to pay.",
+            "translation": {
+                "ko": "법은 그들이 돈을 내도록 강제할 것이다.",
+                "ja": "法律は彼らに支払いを強制するだろう。",
+                "zh": "法律将强制他们付款。",
+                "fr": "La loi les obligera à payer."
+            }
+        },
+        {
+            "word": "propel",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pel",
+                    "meaning": {
+                        "ko": "밀다",
+                        "en": "to push",
+                        "ja": "押す",
+                        "zh": "推动",
+                        "fr": "pousser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 밀고 나아가게 하다'는 의미에서, '추진하다', '나아가게 하다'는 뜻입니다.",
+                "en": "To push forward; to drive or propel forward.",
+                "ja": "前に押し出すこと。推進する、前に進ませるという意味です。",
+                "zh": "向前推动；驱动或推进前进。",
+                "fr": "Pousser vers l'avant ; faire avancer ou propulser."
+            },
+            "example": "The engine propels the boat.",
+            "translation": {
+                "ko": "엔진이 보트를 추진한다.",
+                "ja": "エンジンがボートを推進する。",
+                "zh": "引擎推动船只。",
+                "fr": "Le moteur propulse le bateau."
+            }
+        },
+        {
+            "word": "appeal",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ap- (ad-)",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to",
+                        "ja": "～に向かって",
+                        "zh": "向着",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "peal (pellere)",
+                    "meaning": {
+                        "ko": "몰다, 부르다",
+                        "en": "to drive, to call upon",
+                        "ja": "駆り立てる、呼びかける",
+                        "zh": "驱赶、呼唤",
+                        "fr": "pousser, appeler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 대상을 향해 부르다'는 의미에서, '호소하다', '항소하다', '관심을 끌다'는 뜻으로 발전했습니다.",
+                "en": "From 'calling toward someone,' it developed to mean 'make a plea,' 'appeal a court decision,' or 'attract attention.'",
+                "ja": "「ある対象に向かって呼びかける」という意味から、「懇願する」「控訴する」「関心を引く」という意味に発展しました。",
+                "zh": "从\"向某人呼唤\"的意思发展为\"恳求\"、\"上诉\"、\"吸引注意\"的含义。",
+                "fr": "Du sens de 'crier vers quelqu'un', il a évolué pour signifier 'faire une demande', 'interjeter appel' ou 'attirer l'attention'."
+            },
+            "example": "The charity made an appeal for donations.",
+            "translation": {
+                "ko": "그 자선단체는 기부를 호소했다.",
+                "ja": "その慈善団体は寄付を呼びかけた。",
+                "zh": "那个慈善机构呼吁捐款。",
+                "fr": "L'organisation caritative a lancé un appel aux dons."
+            }
+        },
+        {
+            "word": "repel",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pel",
+                    "meaning": {
+                        "ko": "밀다",
+                        "en": "to push",
+                        "ja": "押す",
+                        "zh": "推",
+                        "fr": "pousser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 밀어내다'는 의미에서, 적을 '물리치다' 또는 불쾌한 것을 '쫓아버리다', 자석처럼 '밀어내다'는 뜻입니다.",
+                "en": "From 're-' (back) + 'pel' (to push). Means to drive back or force away, as enemies in battle, unpleasant things, or objects by magnetic force.",
+                "ja": "『後ろへ押す』という意味から、敵を『撃退する』、または不快なものを『追い払う』、磁石のように『押し出す』という意味です。",
+                "zh": "从'向后'和'推'的含义，意为'击退'敌人，'驱赶'令人厌恶的东西，或如磁铁般'推开'。",
+                "fr": "Du sens de 'pousser vers l'arrière', signifie 'repousser' l'ennemi, 'chasser' ce qui est désagréable, ou 'éloigner' comme un aimant."
+            },
+            "example": "This spray repels insects.",
+            "translation": {
+                "ko": "이 스프레이는 곤충을 쫓는다.",
+                "ja": "このスプレーは昆虫を寄せ付けない。",
+                "zh": "这种喷雾驱赶昆虫。",
+                "fr": "Ce spray repousse les insectes."
+            }
+        }
+    ]
+}

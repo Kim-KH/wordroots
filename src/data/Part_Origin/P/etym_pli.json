@@ -1,0 +1,477 @@
+{
+    "root_info": {
+        "roots": "pli, ply: fold",
+        "origin": "Latin, plicare",
+        "meaning": {
+            "ko": "접다",
+            "en": "to fold",
+            "ja": "折る",
+            "zh": "折",
+            "fr": "plier"
+        }
+    },
+    "words": [
+        {
+            "word": "duplicate",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "du",
+                    "meaning": {
+                        "ko": "둘",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plic",
+                    "meaning": {
+                        "ko": "접다",
+                        "en": "to fold",
+                        "ja": "折る",
+                        "zh": "折叠",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 겹으로 접은'이라는 의미에서, '똑같은', '사본의'라는 뜻입니다. 명사로는 '사본', 동사로는 '복사하다'는 뜻입니다.",
+                "en": "From 'folded in two': means identical or copy (noun: copy; verb: to copy)",
+                "ja": "「二つに折った」という意味から、「同じ」「コピーの」という意味になります。名詞では「写本」、動詞では「複写する」という意味です。",
+                "zh": "从「折成两层」的意思引申，表示「相同的」「副本的」。作为名词表示「副本」，作为动词表示「复制」。",
+                "fr": "Du sens « plié en deux » : signifie identique ou copie (nom : copie ; verbe : copier)"
+            },
+            "example": "I need a duplicate key.",
+            "translation": {
+                "ko": "나는 복제 열쇠가 필요하다.",
+                "ja": "私は複製の鍵が必要です。",
+                "zh": "我需要一把复制钥匙。",
+                "fr": "J'ai besoin d'une clé en double."
+            }
+        },
+        {
+            "word": "display",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "반대",
+                        "en": "opposite",
+                        "ja": "反対",
+                        "zh": "相反",
+                        "fr": "opposé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "play (plicare)",
+                    "meaning": {
+                        "ko": "접다",
+                        "en": "to fold",
+                        "ja": "折る",
+                        "zh": "折叠",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'접힌 것을 반대로 펴다'는 의미에서 '보여주다', '전시하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'unfolding what is folded in the opposite direction,' meaning 'to show' or 'to exhibit.'",
+                "ja": "「折られたものを反対に広げる」という意味から、「見せる」「展示する」という意味になりました。",
+                "zh": "从「把折叠的东西相反地展开」的含义演变为「展示」「陈列」的意思。",
+                "fr": "Du sens de « déplier dans la direction opposée ce qui est plié », il a acquis le sens de « montrer » ou « exposer »."
+            },
+            "example": "The museum displays ancient pottery.",
+            "translation": {
+                "ko": "그 박물관은 고대 도자기를 전시한다.",
+                "ja": "その博物館は古代の陶芸品を展示している。",
+                "zh": "那家博物馆展出古代陶器。",
+                "fr": "Le musée expose des poteries anciennes."
+            }
+        },
+        {
+            "word": "multiply",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "multi",
+                    "meaning": {
+                        "ko": "많은",
+                        "en": "many",
+                        "ja": "多い",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ply",
+                    "meaning": {
+                        "ko": "겹",
+                        "en": "fold",
+                        "ja": "折る",
+                        "zh": "折叠",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 겹으로 만들다'는 의미에서 '곱하다', '증가시키다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'making in multiple layers', it came to mean 'multiply' or 'increase'.",
+                "ja": "「複数の層を重ねて作る」という意味から、「掛ける」「増加させる」という意味になりました。",
+                "zh": "从「多层叠加」的含义演变为「相乘」「增加」的意思。",
+                "fr": "Du sens de « créer en plusieurs couches », il a pris le sens de « multiplier » ou « augmenter »."
+            },
+            "example": "Two multiplied by three is six.",
+            "translation": {
+                "ko": "2 곱하기 3은 6이다.",
+                "ja": "2掛ける3は6です。",
+                "zh": "2乘以3等于6。",
+                "fr": "Deux multiplié par trois égale six."
+            }
+        },
+        {
+            "word": "apply",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ap- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "～に",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ply",
+                    "meaning": {
+                        "ko": "접다, 붙이다",
+                        "en": "to fold, attach",
+                        "ja": "折る、貼る",
+                        "zh": "折叠、粘贴",
+                        "fr": "plier, coller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어딘가에 갖다 붙이다'는 의미에서, 규칙 등을 '적용하다', 연고를 '바르다', 일자리에 '지원하다' 등 다양한 뜻으로 쓰입니다.",
+                "en": "From the sense 'to attach to something', it extends to various meanings: 'apply rules', 'apply ointment', 'apply for a job', etc.",
+                "ja": "「どこかに貼り付ける」という意味から、ルールを「適用する」、軟膏を「塗る」、職に「応募する」など、様々な意味で使われます。",
+                "zh": "从「粘贴到某处」的含义延伸，表示「应用规则」、「涂抹软膏」、「申请工作」等多种意思。",
+                "fr": "Du sens 'attacher à quelque chose', il s'étend à divers sens : 'appliquer des règles', 'appliquer une pommade', 'postuler pour un emploi', etc."
+            },
+            "example": "You should apply for the job.",
+            "translation": {
+                "ko": "당신은 그 일자리에 지원해야 합니다.",
+                "ja": "あなたはその職に応募すべきです。",
+                "zh": "你应该申请那份工作。",
+                "fr": "Vous devriez postuler pour cet emploi."
+            }
+        },
+        {
+            "word": "explicit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外に",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plic",
+                    "meaning": {
+                        "ko": "접다",
+                        "en": "to fold",
+                        "ja": "折る",
+                        "zh": "折叠",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'접힌 것을 밖으로 펼쳐 놓은' 상태라는 의미에서, '명백한', '분명한'이라는 뜻입니다.",
+                "en": "Derives from the state of 'unfolded and spread out', meaning clear and obvious",
+                "ja": "折りたたまれたものを外に広げた状態から、明白で分かりやすいという意味になります",
+                "zh": "从折叠的东西向外展开的状态引申，表示明确、清晰的含义",
+                "fr": "Dérive de l'état de 'dépliage et étalement', signifiant clair et évident"
+            },
+            "example": "He gave me explicit instructions.",
+            "translation": {
+                "ko": "그는 나에게 명백한 지시를 내렸다.",
+                "ja": "彼は私に明確な指示をくれた。",
+                "zh": "他给了我明确的指示。",
+                "fr": "Il m'a donné des instructions explicites."
+            }
+        },
+        {
+            "word": "deploy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de- (dis-)",
+                    "meaning": {
+                        "ko": "반대",
+                        "en": "un-",
+                        "ja": "反対",
+                        "zh": "反对",
+                        "fr": "opposé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ploy (plicare)",
+                    "meaning": {
+                        "ko": "접다",
+                        "en": "to fold",
+                        "ja": "折る",
+                        "zh": "折叠",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'접힌 것을 펼치다'는 의미에서, 군대나 장비 등을 '배치하다', '전개하다'는 뜻으로 쓰입니다.",
+                "en": "From the meaning of 'unfolding what is folded', used to mean 'arrange', 'deploy' for troops or equipment.",
+                "ja": "折り畳まれたものを広げるという意味から、軍隊や装備などを配置する、展開するという意味で使われます。",
+                "zh": "从展开折叠物品的含义引申出来，用来表示军队或设备的部署、展开。",
+                "fr": "Du sens de 'dépiler ce qui est plié', utilisé pour signifier 'arranger', 'déployer' les troupes ou l'équipement."
+            },
+            "example": "The troops were deployed for battle.",
+            "translation": {
+                "ko": "군대가 전투를 위해 배치되었다.",
+                "ja": "部隊は戦闘のために展開された。",
+                "zh": "部队被部署用于战斗。",
+                "fr": "Les troupes ont été déployées pour la bataille."
+            }
+        },
+        {
+            "word": "implication",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...里面",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plic",
+                    "meaning": {
+                        "ko": "접다",
+                        "en": "to fold",
+                        "ja": "折る",
+                        "zh": "折叠",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에 접혀 있는' 숨은 의미라는 뜻에서, '함축', '암시'를 뜻합니다. 어떤 결정의 '영향', '결과'를 의미하기도 합니다.",
+                "en": "From 'hidden meaning folded within': means implication or suggestion. Also means the impact or consequence of a decision.",
+                "ja": "「中に折り畳まれた」隠れた意味から、「含蓄」「暗示」を意味します。ある決定の「影響」「結果」を意味することもあります。",
+                "zh": "从「折叠在内部的」隐含意义而来，意为含义、暗示。也可表示某个决定的「影响」、「后果」。",
+                "fr": "De 'sens caché replié dedans': signifie implication ou suggestion. Désigne aussi l'impact ou la conséquence d'une décision."
+            },
+            "example": "What are the implications of this decision?",
+            "translation": {
+                "ko": "이 결정이 암시하는 바는 무엇입니까?",
+                "ja": "この決定の含意は何ですか？",
+                "zh": "这个决定的含义是什么？",
+                "fr": "Quelles sont les implications de cette décision ?"
+            }
+        },
+        {
+            "word": "complication",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plic",
+                    "meaning": {
+                        "ko": "접다",
+                        "en": "to fold",
+                        "ja": "折る",
+                        "zh": "折叠",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 가지가 함께 얽히고설켜 접혀 있는' 상태라는 의미에서, '복잡한 문제' 또는 병의 '합병증'을 뜻합니다.",
+                "en": "From the sense of 'multiple things folded together in a tangled state', meaning a complex problem or medical complication.",
+                "ja": "「複数のものが絡み合い折り重なった状態」という意味から、「複雑な問題」または病気の「合併症」を意味します。",
+                "zh": "源自「多种事物纠缠折叠在一起的状态」，指「复杂问题」或疾病的「并发症」。",
+                "fr": "Du sens de 'plusieurs choses enchevêtrées et repliées ensemble', signifiant un problème complexe ou une complication médicale."
+            },
+            "example": "The surgery had a serious complication.",
+            "translation": {
+                "ko": "그 수술은 심각한 합병증이 있었다.",
+                "ja": "その手術は深刻な合併症がありました。",
+                "zh": "那次手术出现了严重的并发症。",
+                "fr": "La chirurgie a eu une complication grave."
+            }
+        },
+        {
+            "word": "multiple",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "multi",
+                    "meaning": {
+                        "ko": "많은",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ple (plicare)",
+                    "meaning": {
+                        "ko": "겹",
+                        "en": "fold",
+                        "ja": "折り重なった",
+                        "zh": "折叠",
+                        "fr": "plié"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 겹으로 된'이라는 의미에서 '다수의', '복합적인'이라는 뜻이며, 수학에서는 '배수'를 의미합니다.",
+                "en": "From the meaning 'made of multiple layers', it signifies 'multiple' or 'complex', and in mathematics means 'multiple'.",
+                "ja": "'複数の層で構成される'という意味から'複数の'、'複雑な'という意味であり、数学では'倍数'を意味します。",
+                "zh": "从'由多层构成'的含义出发，表示'多个'或'复杂的'，在数学中表示'倍数'。",
+                "fr": "Du sens 'composé de plusieurs couches', il signifie 'multiple' ou 'complexe', et en mathématiques signifie 'multiple'."
+            },
+            "example": "He suffered multiple injuries.",
+            "translation": {
+                "ko": "그는 다발성 부상을 입었다.",
+                "ja": "複数の",
+                "zh": "多个的",
+                "fr": "multiple"
+            }
+        },
+        {
+            "word": "reply",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろに",
+                        "zh": "向后",
+                        "fr": "en arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ply",
+                    "meaning": {
+                        "ko": "접다",
+                        "en": "to fold",
+                        "ja": "折る",
+                        "zh": "折叠",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "편지를 '다시 접어 뒤로 보내다'는 의미에서, 질문이나 말에 '대답하다', '응답하다'는 뜻이 되었습니다.",
+                "en": "Originally from the idea of 'folding back and sending a letter in return', it came to mean 'answer' or 'respond' to a question or statement.",
+                "ja": "手紙を『折り返して後ろに送る』という意味から、質問や言葉に『答える』『応答する』という意味になりました。",
+                "zh": "源于'折叠信件并向后发送'的含义,后来引申为'回答''应答'问题或陈述的意思。",
+                "fr": "Provenant de l'idée de 'plier et renvoyer une lettre en retour', il en vint à signifier 'répondre' ou 'donner une réponse' à une question ou un énoncé."
+            },
+            "example": "He did not reply to my question.",
+            "translation": {
+                "ko": "그는 내 질문에 대답하지 않았다.",
+                "ja": "返信する",
+                "zh": "回复",
+                "fr": "répondre"
+            }
+        },
+        {
+            "word": "employ",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "em- (in-)",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...里面",
+                        "fr": "dans, en"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ploy (plicare)",
+                    "meaning": {
+                        "ko": "접다, 얽히게 하다",
+                        "en": "to fold, involve",
+                        "ja": "折る、巻き込む",
+                        "zh": "折叠、使卷入",
+                        "fr": "plier, impliquer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 일 안에 얽히게 하다'는 의미에서, 사람을 '고용하다' 또는 기술 등을 '사용하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'involving someone in work', it came to mean 'to hire someone' or 'to use a skill'.",
+                "ja": "「ある仕事に人を巻き込む」という意味から、「人を雇用する」または「技能を使用する」という意味になりました。",
+                "zh": "从「让人卷入某项工作」的含义演变而来，后来表示「雇用某人」或「使用某种技能」。",
+                "fr": "Du sens d'« impliquer quelqu'un dans un travail », le mot est venu à signifier « embaucher quelqu'un » ou « utiliser une compétence »."
+            },
+            "example": "The company employs 500 people.",
+            "translation": {
+                "ko": "그 회사는 500명을 고용하고 있다.",
+                "ja": "その会社は500人を雇用している。",
+                "zh": "那家公司雇用了500人。",
+                "fr": "L'entreprise emploie 500 personnes."
+            }
+        }
+    ]
+}

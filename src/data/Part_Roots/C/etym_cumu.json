@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "cumu (mound) accumulate, cumulus, cumulative",
+        "origin": "Latin, cumulus (a heap, pile)",
+        "meaning": {
+            "ko": "더미",
+            "en": "heap",
+            "ja": "積み重ね",
+            "zh": "堆",
+            "fr": "tas"
+        }
+    },
+    "words": [
+        {
+            "word": "accumulate",
+            "part_of_speech": "",
+            "origin": "Latin, accumulare (to heap up)",
+            "meaning": {
+                "ko": "쌓아 올리다",
+                "en": "to pile up or gather together",
+                "ja": "積み重ねる",
+                "zh": "积累",
+                "fr": "accumuler"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ac- (ad-)",
+                    "meaning": {
+                        "ko": "'~에'",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cumul-",
+                    "meaning": {
+                        "ko": "'더미'",
+                        "en": "heap",
+                        "ja": "山積み",
+                        "zh": "堆",
+                        "fr": "tas"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make or cause to become",
+                        "ja": "させる",
+                        "zh": "使",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더미에 더하여 쌓다'는 의미에서 '모으다', '축적하다'라는 뜻이 되었습니다.",
+                "en": "From the sense of 'adding to a heap and stacking', it came to mean 'to gather' and 'to accumulate'.",
+                "ja": "ヒープに加えて積むという意味から、集める、蓄積するという意味になった。",
+                "zh": "从向堆积物添加并堆积的意思演变为收集、积累的意思。",
+                "fr": "Du sens d'ajouter à un tas et d'empiler, il a acquis les sens de rassembler et d'accumuler."
+            },
+            "example": "He accumulated a great fortune.",
+            "translation": {
+                "ko": "그는 큰 재산을 모았다.",
+                "ja": "彼は莫大な財産を積み重ねた。",
+                "zh": "他积累了巨大的财富。",
+                "fr": "Il a accumulé une grande fortune."
+            }
+        },
+        {
+            "word": "cumulus",
+            "part_of_speech": "",
+            "origin": "Latin, cumulus (a heap)",
+            "meaning": {
+                "ko": "더미",
+                "en": "pile or heap",
+                "ja": "積雲、むくむく雲",
+                "zh": "堆积云",
+                "fr": "cumulus, nuage de beau temps"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cumul-",
+                    "meaning": {
+                        "ko": "'더미'",
+                        "en": "heap",
+                        "ja": "堆積、積み重ね",
+                        "zh": "堆积、堆叠",
+                        "fr": "tas, amas"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'언덕처럼 쌓아 올린 모양의 구름'이라는 의미에서 '적운', '뭉게구름'을 뜻합니다.",
+                "en": "White cumulus clouds drifted across the blue sky.",
+                "ja": "丘のように積み重なった形の雲を意味し、積雲や綿菓子のような雲を指します。",
+                "zh": "指像小山一样堆积的云朵，意为积云或蓬松的云。",
+                "fr": "Nuages blancs en forme de monticule, caractérisés par leur aspect gonflé et cotonneux."
+            },
+            "example": "White cumulus clouds drifted across the blue sky.",
+            "translation": {
+                "ko": "하얀 뭉게구름이 파란 하늘을 가로질러 흘러갔다.",
+                "ja": "白い積雲が青い空を漂った。",
+                "zh": "白色堆积云飘过蓝色的天空。",
+                "fr": "Des nuages blancs et gonflés flottaient dans le ciel bleu."
+            }
+        },
+        {
+            "word": "cumulative",
+            "part_of_speech": "",
+            "origin": "Latin, cumulativus (heaped up)",
+            "meaning": {
+                "ko": "쌓아 올린",
+                "en": "piled up, accumulated",
+                "ja": "積み重ねた",
+                "zh": "堆积的",
+                "fr": "cumulatif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cumul-",
+                    "meaning": {
+                        "ko": "'더미'",
+                        "en": "heap",
+                        "ja": "山積み",
+                        "zh": "堆积",
+                        "fr": "accumulation"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ative",
+                    "meaning": {
+                        "ko": "'~하는 성질의'",
+                        "en": "having the quality of",
+                        "ja": "性質",
+                        "zh": "性质",
+                        "fr": "caractère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'점점 쌓여가는'이라는 의미에서 '누적되는', '누가적인'이라는 뜻입니다.",
+                "en": "Meaning gradually accumulated, accumulated, cumulative",
+                "ja": "徐々に積み重ねられ、蓄積される、累積的な意味",
+                "zh": "逐渐堆积、累积、累加的意思",
+                "fr": "Sens d'accumulation graduelle, cumulée, nature cumulative"
+            },
+            "example": "The cumulative effect of pollution is devastating.",
+            "translation": {
+                "ko": "오염의 누적 효과는 파괴적이다.",
+                "ja": "汚染の累積効果は壊滅的です",
+                "zh": "污染的累积效应是毁灭性的",
+                "fr": "L'effet cumulatif de la pollution est dévastateur"
+            }
+        }
+    ]
+}

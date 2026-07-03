@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "bulla (important) bullet, bulletin",
+        "origin": "Latin, bulla (bubble, knob, seal)",
+        "meaning": {
+            "ko": "거품, 봉인",
+            "en": "bubble, seal",
+            "ja": "泡、封印",
+            "zh": "气泡、密封",
+            "fr": "bulle, sceau"
+        }
+    },
+    "words": [
+        {
+            "word": "bullet",
+            "part_of_speech": "",
+            "origin": "French, boulette (a small ball)",
+            "meaning": {
+                "ko": "작은 공",
+                "en": "small ball",
+                "ja": "小さな球",
+                "zh": "小球",
+                "fr": "petite boule"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bull- (bulla)",
+                    "meaning": {
+                        "ko": "'공 모양의 것'",
+                        "en": "ball-shaped thing",
+                        "ja": "球形のもの",
+                        "zh": "球形物体",
+                        "fr": "objet sphérique"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-et",
+                    "meaning": {
+                        "ko": "'작은'",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작고 둥근 공'이라는 의미에서 '총알'을 뜻하게 되었습니다.",
+                "en": "Came to mean bullet from the sense of a small round ball",
+                "ja": "小さくて丸い球という意味から弾丸を意味するようになりました",
+                "zh": "从小而圆的球的意思演变为子弹的含义",
+                "fr": "Signifie balle du sens d'une petite boule ronde"
+            },
+            "example": "The bullet hit the target.",
+            "translation": {
+                "ko": "총알이 과녁에 명중했다.",
+                "ja": "銃弾は的に当たった。",
+                "zh": "子弹击中了目标。",
+                "fr": "La balle a frappé la cible."
+            }
+        },
+        {
+            "word": "bulletin",
+            "part_of_speech": "",
+            "origin": "Italian, bulletino (a notice)",
+            "meaning": {
+                "ko": "작은 통지서",
+                "en": "small notification",
+                "ja": "小さな通知書",
+                "zh": "小通知",
+                "fr": "petit avis"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bull- (bulla)",
+                    "meaning": {
+                        "ko": "'봉인된 문서'",
+                        "en": "sealed document",
+                        "ja": "封印された文書",
+                        "zh": "封闭文件",
+                        "fr": "document scellé"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-etin",
+                    "meaning": {
+                        "ko": "'작은'",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "교황의 칙서와 같이 '봉인된 중요한 공문서'에서 유래하여, 지금은 짧은 '공고', '뉴스 단신'을 뜻합니다.",
+                "en": "Derived from sealed important official documents like papal bulls, now means short notices or news briefs.",
+                "ja": "教皇の勅書のような'封印された重要な公文書'から派生し、現在は短い'公告'、'ニュース短信'を意味します。",
+                "zh": "源自教宗敕书等'封闭的重要公文书'，现在指短的'公告'、'新闻简讯'。",
+                "fr": "Dérivé de documents officiels scellés importants comme les bulles papales, signifie maintenant des avis courts ou des brèves d'actualité."
+            },
+            "example": "A bulletin was posted on the notice board.",
+            "translation": {
+                "ko": "게시판에 공고가 붙었다.",
+                "ja": "掲示板に掲示された通知書。",
+                "zh": "公告板上贴着一份通知。",
+                "fr": "Un bulletin a été affiché sur le tableau d'affichage."
+            }
+        }
+    ]
+}

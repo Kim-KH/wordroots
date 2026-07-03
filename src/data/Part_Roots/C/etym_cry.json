@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "cry(o) (extreme cold) cryogenic, cryonics, cryophilic",
+        "origin": "Greek, kryos (frost, ice-cold)",
+        "meaning": {
+            "ko": "극한의 추위",
+            "en": "extreme cold",
+            "ja": "極寒",
+            "zh": "极冷",
+            "fr": "froid extrême"
+        }
+    },
+    "words": [
+        {
+            "word": "cryogenic",
+            "part_of_speech": "",
+            "origin": "Greek, kryos (cold) + genos (birth, producing)",
+            "meaning": {
+                "ko": "추위를 만드는",
+                "en": "producing cold",
+                "ja": "極低温を生成する",
+                "zh": "产生极低温",
+                "fr": "produisant froid extrême"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cryo (kryos)",
+                    "meaning": {
+                        "ko": "'저온, 냉동'",
+                        "en": "cold",
+                        "ja": "低温、冷凍",
+                        "zh": "低温、冷冻",
+                        "fr": "froid, congélation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "genic (genos)",
+                    "meaning": {
+                        "ko": "'생성하는'",
+                        "en": "producing",
+                        "ja": "生成する",
+                        "zh": "产生、生成",
+                        "fr": "produisant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'극한의 추위(cryo)를 만들어내는(genic)' 기술이라는 의미로 '극저온의', '냉동의'라는 뜻입니다.",
+                "en": "Technology that produces extremely cold temperatures (cryo) for freezing (genic), meaning ultra-low temperature or freezing",
+                "ja": "極端な冷気(cryo)を作り出す(genic)技術という意味で、極低温の、冷凍のという意味です",
+                "zh": "指产生极端寒冷(cryo)和冷冻(genic)的技术，意思是极低温的、冷冻的",
+                "fr": "Technologie qui produit des températures extrêmement froides (cryo) et la congélation (genic), signifiant ultra-basse température ou congélation"
+            },
+            "example": "Cryogenic technology is used to preserve biological samples.",
+            "translation": {
+                "ko": "극저온 기술은 생물학적 샘플을 보존하는 데 사용된다.",
+                "ja": "極低温技術は生物試料の保存に使用されます",
+                "zh": "极低温技术用于保存生物样品",
+                "fr": "La technologie cryogénique est utilisée pour préserver les échantillons biologiques"
+            }
+        },
+        {
+            "word": "cryonics",
+            "part_of_speech": "",
+            "origin": "Greek, kryos (cold)",
+            "meaning": {
+                "ko": "추위",
+                "en": "extreme cold or freezing",
+                "ja": "人体冷凍保存術",
+                "zh": "人体冷冻保存术",
+                "fr": "cryonique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cryo (kryos)",
+                    "meaning": {
+                        "ko": "'저온, 냉동'",
+                        "en": "cold",
+                        "ja": "寒冷",
+                        "zh": "寒冷",
+                        "fr": "froid"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-nics",
+                    "meaning": {
+                        "ko": "'학문, 기술'",
+                        "en": "science or technology",
+                        "ja": "学問、技術",
+                        "zh": "学问、技术",
+                        "fr": "science, technique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'냉동(cryo) 기술'이라는 의미로, 미래에 되살릴 것을 기대하며 시신을 냉동 보존하는 '인체 냉동 보존술'을 가리킵니다.",
+                "en": "Cryonics refers to the practice of freezing and preserving human bodies with the hope of reviving them in the future using cold preservation technology.",
+                "ja": "冷凍（cryo）技術という意味で、将来復活させることを期待して遺体を冷凍保存する人体冷凍保存術を指します。",
+                "zh": "冷冻（cryo）技术的意思，指为了期待在未来复活而进行尸体冷冻保存的人体冷冻保存术。",
+                "fr": "La cryonique désigne la technique de préservation des corps humains par congélation dans l'espoir de les ressusciter dans le futur."
+            },
+            "example": "Cryonics is a controversial practice.",
+            "translation": {
+                "ko": "인체 냉동 보존술은 논란이 많은 행위이다.",
+                "ja": "人体冷凍保存術は物議をかもしている慣行です。",
+                "zh": "人体冷冻保存术是一种有争议的做法。",
+                "fr": "La cryonique est une pratique controversée."
+            }
+        },
+        {
+            "word": "cryophilic",
+            "part_of_speech": "",
+            "origin": "Greek, kryos (cold) + philos (loving)",
+            "meaning": {
+                "ko": "추위를 사랑하는",
+                "en": "loving or preferring cold",
+                "ja": "寒冷を愛する",
+                "zh": "喜爱寒冷",
+                "fr": "aimant le froid"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cryo (kryos)",
+                    "meaning": {
+                        "ko": "'저온'",
+                        "en": "cold",
+                        "ja": "低温",
+                        "zh": "低温",
+                        "fr": "froid"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "philic (philos)",
+                    "meaning": {
+                        "ko": "'사랑하는, 좋아하는'",
+                        "en": "loving",
+                        "ja": "愛する、好む",
+                        "zh": "喜爱、偏好",
+                        "fr": "aimant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'추위(cryo)를 좋아하는(philic)'이라는 의미로, 저온에서 잘 자라는 생물(호냉성 생물)을 묘사할 때 쓰는 생물학 용어입니다.",
+                "en": "A biological term describing organisms that thrive in low-temperature environments, composed of 'cold' (cryo) and 'loving' (philic).",
+                "ja": "低温環境で良く成長する生物(好冷性生物)を表現する生物学用語で、'寒冷'(cryo)と'愛する'(philic)で構成されています。",
+                "zh": "用于描述在低温环境下生长良好的生物(嗜冷生物)的生物学术语，由'寒冷'(cryo)和'喜爱'(philic)组成。",
+                "fr": "Terme biologique décrivant les organismes qui prospèrent dans les environnements froids, composé de 'froid' (cryo) et 'aimant' (philic)."
+            },
+            "example": "Cryophilic bacteria can thrive in icy environments.",
+            "translation": {
+                "ko": "호냉성 박테리아는 얼음 같은 환경에서도 번성할 수 있다.",
+                "ja": "好冷性の細菌は氷の多い環境で繁殖することができます。",
+                "zh": "嗜冷菌能在冰冷的环境中生存。",
+                "fr": "Les bactéries cryophiles peuvent prospérer dans les environnements glacés."
+            }
+        }
+    ]
+}

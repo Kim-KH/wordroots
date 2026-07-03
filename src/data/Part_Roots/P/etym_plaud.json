@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "plaud (praise) applaud, laud, plaudit",
+        "origin": "Latin, plaudere (to clap, to applaud)",
+        "meaning": {
+            "ko": "박수갈채를 보내다",
+            "en": "to applaud",
+            "ja": "拍手喝采を送る",
+            "zh": "鼓掌喝彩",
+            "fr": "applaudir"
+        }
+    },
+    "words": [
+        {
+            "word": "applaud",
+            "part_of_speech": "",
+            "origin": "Latin, applaudere (to clap the hands)",
+            "meaning": {
+                "ko": "박수를 치다",
+                "en": "to clap hands",
+                "ja": "拍手する",
+                "zh": "鼓掌",
+                "fr": "applaudir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ap- (ad-)",
+                    "meaning": {
+                        "ko": "'~을 향하여'",
+                        "en": "to",
+                        "ja": "～に向かって",
+                        "zh": "向着",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plaud",
+                    "meaning": {
+                        "ko": "'박수치다'",
+                        "en": "to clap",
+                        "ja": "手を叩く",
+                        "zh": "拍手",
+                        "fr": "frapper des mains"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공연자 등을 향해 손뼉을 치다'는 의미에서 '박수갈채를 보내다'라는 뜻입니다.",
+                "en": "Clapping hands towards performers etc. to show appreciation",
+                "ja": "パフォーマーなどに向かって手を叩き喝采を送ること",
+                "zh": "向演员等鼓掌以表示赞赏",
+                "fr": "Applaudir les artistes en frappant des mains pour montrer l'appréciation"
+            },
+            "example": "The audience applauded enthusiastically.",
+            "translation": {
+                "ko": "관객들은 열렬히 박수갈채를 보냈다.",
+                "ja": "観客は熱心に拍手した。",
+                "zh": "观众热烈地鼓掌。",
+                "fr": "Le public applaudissait avec enthousiasme."
+            }
+        },
+        {
+            "word": "laud",
+            "part_of_speech": "",
+            "origin": "Latin, laus, laudis (praise, glory)",
+            "meaning": {
+                "ko": "칭찬",
+                "en": "to praise",
+                "ja": "ほめる",
+                "zh": "称赞",
+                "fr": "louer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "laud-",
+                    "meaning": {
+                        "ko": "'칭찬하다'",
+                        "en": "to praise",
+                        "ja": "ほめる",
+                        "zh": "称赞",
+                        "fr": "louer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'칭찬하다', '찬양하다'는 뜻입니다.",
+                "en": "to praise or commend",
+                "ja": "ほめたたえる、賞賛する",
+                "zh": "表扬或赞美",
+                "fr": "faire l'éloge de"
+            },
+            "example": "The critics lauded his performance.",
+            "translation": {
+                "ko": "비평가들은 그의 연기를 칭송했다.",
+                "ja": "批評家たちは彼の演技をほめた。",
+                "zh": "评论家们称赞了他的表演。",
+                "fr": "Les critiques ont loué sa performance."
+            }
+        },
+        {
+            "word": "plaudit",
+            "part_of_speech": "",
+            "origin": "Latin, plaudite (applaud!, imperative of plaudere)",
+            "meaning": {
+                "ko": "박수쳐라!",
+                "en": "applaud",
+                "ja": "拍手喝采",
+                "zh": "掌声喝彩",
+                "fr": "applaudissements"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plaud-",
+                    "meaning": {
+                        "ko": "'박수치다'",
+                        "en": "to clap",
+                        "ja": "拍手する",
+                        "zh": "鼓掌",
+                        "fr": "applaudir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마 연극이 끝날 때 배우가 외치던 말에서 유래하여, '박수갈채', '칭찬'을 뜻합니다.",
+                "en": "Derived from a word shouted by actors at the end of ancient Roman plays, meaning applause and praise.",
+                "ja": "古代ローマの劇の終わりに役者が叫んだ言葉に由来し、拍手喝采と賞賛を意味します。",
+                "zh": "源自古代罗马戏剧结束时演员喊的词语，意为掌声和赞扬。",
+                "fr": "Dérivé d'un mot crié par les acteurs à la fin des pièces de théâtre romaines antiques, signifiant applaudissements et louanges."
+            },
+            "example": "His speech received the plaudits of the crowd.",
+            "translation": {
+                "ko": "그의 연설은 군중의 박수갈채를 받았다.",
+                "ja": "彼のスピーチは群衆から拍手喝采を受けました。",
+                "zh": "他的演讲获得了群众的掌声。",
+                "fr": "Son discours a reçu les applaudissements de la foule."
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "exo (outside) exoskeleton, exothermic",
+        "origin": "Greek, exo (outside)",
+        "meaning": {
+            "ko": "바깥의",
+            "en": "outside",
+            "ja": "外側の",
+            "zh": "外面的",
+            "fr": "extérieur"
+        }
+    },
+    "words": [
+        {
+            "word": "exoskeleton",
+            "part_of_speech": "",
+            "origin": "English, exo- + skeleton",
+            "meaning": {
+                "ko": "바깥 골격",
+                "en": "external skeleton",
+                "ja": "外骨格",
+                "zh": "外骨骼",
+                "fr": "exosquelette"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "exo-",
+                    "meaning": {
+                        "ko": "'바깥의'",
+                        "en": "outside",
+                        "ja": "外側の",
+                        "zh": "外部的",
+                        "fr": "extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "skeleton",
+                    "meaning": {
+                        "ko": "'골격'",
+                        "en": "skeleton",
+                        "ja": "骨格",
+                        "zh": "骨骼",
+                        "fr": "squelette"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸 바깥에 있는 골격'이라는 의미로 곤충이나 갑각류의 '외골격'을 뜻합니다.",
+                "en": "Refers to the external skeleton of insects and crustaceans, meaning a skeleton located outside the body.",
+                "ja": "体の外側にある骨格を意味し、昆虫や甲殻類の外骨格を指します。",
+                "zh": "指位于身体外部的骨骼，是昆虫和甲壳类动物的外骨骼。",
+                "fr": "Désigne le squelette externe des insectes et des crustacés, situé à l'extérieur du corps."
+            },
+            "example": "Insects have an exoskeleton made of chitin.",
+            "translation": {
+                "ko": "곤충은 키틴질로 된 외골격을 가지고 있다.",
+                "ja": "昆虫はキチンでできた外骨格を持っています。",
+                "zh": "昆虫具有由甲壳质组成的外骨骼。",
+                "fr": "Les insectes ont un exosquelette composé de chitine."
+            }
+        },
+        {
+            "word": "exothermic",
+            "part_of_speech": "",
+            "origin": "English, exo- + thermic",
+            "meaning": {
+                "ko": "바깥 열",
+                "en": "outer heat",
+                "ja": "外部に熱を放出する",
+                "zh": "向外放热",
+                "fr": "qui libère de la chaleur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "exo-",
+                    "meaning": {
+                        "ko": "'바깥으로'",
+                        "en": "outside",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thermic (therme)",
+                    "meaning": {
+                        "ko": "'열'",
+                        "en": "heat",
+                        "ja": "熱",
+                        "zh": "热",
+                        "fr": "chaleur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "화학 반응 시 '열을 바깥으로 방출하는'이라는 의미의 과학 용어로 '발열의'라고 합니다.",
+                "en": "A scientific term meaning 'releasing heat outward' during chemical reactions, also called 'heat-releasing'",
+                "ja": "化学反応で熱を外部に放出することを意味する科学用語で、発熱と呼ぶこともあります",
+                "zh": "科学术语，指化学反应时向外部放出热量，也称为'放热'",
+                "fr": "Terme scientifique signifiant 'libérer de la chaleur vers l'extérieur' lors de réactions chimiques, aussi appelé 'réaction exothermique'"
+            },
+            "example": "Burning wood is an exothermic reaction.",
+            "translation": {
+                "ko": "나무를 태우는 것은 발열 반응이다.",
+                "ja": "木を燃やすことは発熱反応です。",
+                "zh": "燃烧木头是一个放热反应。",
+                "fr": "La combustion du bois est une réaction exothermique."
+            }
+        }
+    ]
+}

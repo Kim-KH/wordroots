@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "immune (safe, exempt) immunity, immunology, immunotherapy",
+        "origin": "Latin, immunis (exempt from public service)",
+        "meaning": {
+            "ko": "공공 서비스에서 면제된",
+            "en": "public service",
+            "ja": "公共サービス",
+            "zh": "公共服务",
+            "fr": "service public"
+        }
+    },
+    "words": [
+        {
+            "word": "immunity",
+            "part_of_speech": "",
+            "origin": "Latin, immunitas (exemption)",
+            "meaning": {
+                "ko": "면제",
+                "en": "exemption or freedom from obligation",
+                "ja": "免除、免疫力",
+                "zh": "豁免、免疫力",
+                "fr": "immunité, exemption"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "immun-",
+                    "meaning": {
+                        "ko": "'면제된'",
+                        "en": "exempt",
+                        "ja": "免除された",
+                        "zh": "被豁免的",
+                        "fr": "exempté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'질병으로부터 면제된' 상태라는 의미에서 '면역력' 또는 법적인 '면책'을 뜻합니다.",
+                "en": "Refers to freedom from disease (immunity) or legal exemption from liability",
+                "ja": "病気からの免除状態を意味し、'免疫力'または法的な'免責'を表します",
+                "zh": "指从疾病中获得豁免的状态，表示'免疫力'或法律'豁免'",
+                "fr": "État d'exemption contre les maladies ('immunité') ou exemption légale"
+            },
+            "example": "Vaccination provides immunity against certain diseases.",
+            "translation": {
+                "ko": "예방 접종은 특정 질병에 대한 면역력을 제공한다.",
+                "ja": "ワクチン接種は特定の病気に対する免疫力を提供します",
+                "zh": "接种疫苗可以提供对某些疾病的免疫力",
+                "fr": "La vaccination confère l'immunité contre certaines maladies"
+            }
+        },
+        {
+            "word": "immunology",
+            "part_of_speech": "",
+            "origin": "Latin, immunis + Greek, logos (study)",
+            "meaning": {
+                "ko": "면역 연구",
+                "en": "study of immunity",
+                "ja": "免疫の研究",
+                "zh": "免疫研究",
+                "fr": "étude de l'immunité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "immuno-",
+                    "meaning": {
+                        "ko": "'면역'",
+                        "en": "immunity",
+                        "ja": "免疫",
+                        "zh": "免疫",
+                        "fr": "immunité"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science of",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "discipline scientifique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'면역 체계를 연구하는 학문'인 '면역학'을 뜻합니다.",
+                "en": "It refers to immunology, the science that studies the immune system.",
+                "ja": "免疫システムを研究する学問である免疫学を意味します。",
+                "zh": "指研究免疫系统的学科免疫学。",
+                "fr": "Il désigne l'immunologie, la science qui étudie le système immunitaire."
+            },
+            "example": "Immunology is a key area of medical research.",
+            "translation": {
+                "ko": "면역학은 의학 연구의 핵심 분야이다.",
+                "ja": "免疫学は医学研究の重要な分野です。",
+                "zh": "免疫学是医学研究的关键领域。",
+                "fr": "L'immunologie est un domaine clé de la recherche médicale."
+            }
+        },
+        {
+            "word": "immunotherapy",
+            "part_of_speech": "",
+            "origin": "Latin, immunis + Greek, therapeia (healing)",
+            "meaning": {
+                "ko": "면역 치료",
+                "en": "immune treatment",
+                "ja": "免疫療法",
+                "zh": "免疫疗法",
+                "fr": "immunothérapie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "immuno-",
+                    "meaning": {
+                        "ko": "'면역'",
+                        "en": "immunity",
+                        "ja": "免疫",
+                        "zh": "免疫",
+                        "fr": "immunité"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "therapy",
+                    "meaning": {
+                        "ko": "'치료'",
+                        "en": "treatment",
+                        "ja": "治療",
+                        "zh": "治疗",
+                        "fr": "thérapie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'면역 체계를 이용하여 질병을 치료하는' 방법인 '면역 요법'을 뜻합니다.",
+                "en": "A method of treating disease by utilizing the immune system, also known as immune therapy.",
+                "ja": "免疫システムを利用して病気を治療する方法である免疫療法を意味します。",
+                "zh": "利用免疫系统治疗疾病的方法，也称为免疫疗法。",
+                "fr": "Une méthode de traitement des maladies en utilisant le système immunitaire, également appelée thérapie immunitaire."
+            },
+            "example": "Immunotherapy is a promising new treatment for cancer.",
+            "translation": {
+                "ko": "면역 요법은 유망한 새로운 암 치료법이다.",
+                "ja": "免疫療法はがんの有望な新しい治療法です。",
+                "zh": "免疫疗法是一种很有前景的新型癌症治疗方法。",
+                "fr": "L'immunothérapie est un traitement prometteur et novateur du cancer."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ee (receiver of action) employee, payee, trainee",
+        "origin": "French, -é (past participle suffix)",
+        "meaning": {
+            "ko": "행위를 받는 사람",
+            "en": "receiver of action",
+            "ja": "行為を受ける人",
+            "zh": "接受行为的人",
+            "fr": "personne qui reçoit l'action"
+        }
+    },
+    "words": [
+        {
+            "word": "employee",
+            "part_of_speech": "",
+            "origin": "French, employer (to use)",
+            "meaning": {
+                "ko": "사용하다",
+                "en": "to use",
+                "ja": "従業員",
+                "zh": "员工",
+                "fr": "employé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "employ",
+                    "meaning": {
+                        "ko": "'고용하다'",
+                        "en": "to hire or employ",
+                        "ja": "雇用する",
+                        "zh": "雇用",
+                        "fr": "employer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ee",
+                    "meaning": {
+                        "ko": "'~을 당하는 사람'",
+                        "en": "person who undergoes",
+                        "ja": "~を受ける人",
+                        "zh": "受~的人",
+                        "fr": "personne qui subit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'고용을 당한 사람'인 '직원'을 뜻합니다.",
+                "en": "A person who is employed; a worker",
+                "ja": "雇用を受けた人、つまり職員を意味します",
+                "zh": "被雇用的人，即员工的意思",
+                "fr": "Une personne qui est employée, c'est-à-dire un salarié"
+            },
+            "example": "She is a new employee at the company.",
+            "translation": {
+                "ko": "그녀는 그 회사의 신입 직원이다.",
+                "ja": "彼女はその会社の新入社員です。",
+                "zh": "她是公司的新员工。",
+                "fr": "Elle est une nouvelle employée de l'entreprise."
+            }
+        },
+        {
+            "word": "payee",
+            "part_of_speech": "",
+            "origin": "English, pay + -ee",
+            "meaning": {
+                "ko": "지불을 받는 사람",
+                "en": "person who receives payment",
+                "ja": "支払を受ける人",
+                "zh": "收款人",
+                "fr": "bénéficiaire du paiement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pay",
+                    "meaning": {
+                        "ko": "'지불하다'",
+                        "en": "to pay",
+                        "ja": "支払う",
+                        "zh": "支付",
+                        "fr": "payer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ee",
+                    "meaning": {
+                        "ko": "'~을 받는 사람'",
+                        "en": "person who receives",
+                        "ja": "~を受ける人",
+                        "zh": "接收~的人",
+                        "fr": "personne qui reçoit ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'돈을 받는 사람'인 '수취인'을 뜻합니다.",
+                "en": "Refers to a person who receives money; the recipient of payment",
+                "ja": "お金を受け取る人、つまり受取人を意味します",
+                "zh": "指接收金钱的人，即收款人",
+                "fr": "Désigne une personne qui reçoit de l'argent, le destinataire du paiement"
+            },
+            "example": "Please write the name of the payee on the check.",
+            "translation": {
+                "ko": "수표에 수취인의 이름을 적어주세요.",
+                "ja": "小切手に受取人の名前を書いてください",
+                "zh": "请在支票上写下收款人的名字",
+                "fr": "Veuillez écrire le nom du bénéficiaire sur le chèque"
+            }
+        },
+        {
+            "word": "trainee",
+            "part_of_speech": "",
+            "origin": "English, train + -ee",
+            "meaning": {
+                "ko": "훈련을 받는 사람",
+                "en": "person undergoing training",
+                "ja": "訓練を受ける人",
+                "zh": "接受训练的人",
+                "fr": "personne en formation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "train",
+                    "meaning": {
+                        "ko": "'훈련시키다'",
+                        "en": "to train",
+                        "ja": "訓練する",
+                        "zh": "训练",
+                        "fr": "entraîner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ee",
+                    "meaning": {
+                        "ko": "'~을 받는 사람'",
+                        "en": "person who receives",
+                        "ja": "~を受ける人",
+                        "zh": "接受~的人",
+                        "fr": "personne qui reçoit ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'훈련을 받는 사람'인 '훈련생'을 뜻합니다.",
+                "en": "Refers to a trainee or person undergoing training",
+                "ja": "訓練を受けている人を意味します",
+                "zh": "指接受培训的人",
+                "fr": "Désigne une personne en cours de formation"
+            },
+            "example": "He is a management trainee.",
+            "translation": {
+                "ko": "그는 경영 훈련생이다.",
+                "ja": "彼は管理職研修生です",
+                "zh": "他是管理培训生",
+                "fr": "Il est stagiaire en management"
+            }
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+    "root_info": {
+        "roots": "verb, verv: word",
+        "origin": "Latin, verbum",
+        "meaning": {
+            "ko": "단어, 말",
+            "en": "word",
+            "ja": "言葉、単語",
+            "zh": "单词、词语",
+            "fr": "mot, parole"
+        }
+    },
+    "words": [
+        {
+            "word": "verbose",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verb",
+                    "meaning": {
+                        "ko": "말",
+                        "en": "word",
+                        "ja": "言葉",
+                        "zh": "词",
+                        "fr": "parole"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "~이 많은",
+                        "en": "full of",
+                        "ja": "~が多い",
+                        "zh": "充满~",
+                        "fr": "plein de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'말이 너무 많은'이라는 의미에서, '장황한', '말이 많은'이라는 뜻입니다.",
+                "en": "From Latin verbosus, meaning 'full of words' or 'wordy'; describes speech or writing with excessive words.",
+                "ja": "ラテン語の verbosus から派生し、『言葉で満ちた』または『言葉が多い』という意味で、過度な言葉を使う話し方や文章を表します。",
+                "zh": "源自拉丁语 verbosus，意为『充满言语』或『言语繁多』，用来形容过度冗长的讲话或文章。",
+                "fr": "Du latin verbosus, signifiant 'rempli de paroles' ou 'trop parlant'; décrit un discours ou une écriture avec un excès de mots."
+            },
+            "example": "His writing style is too verbose.",
+            "translation": {
+                "ko": "그의 글쓰기 스타일은 너무 장황하다.",
+                "ja": "彼の文体は冗長すぎる。",
+                "zh": "他的写作风格太冗长了。",
+                "fr": "Son style d'écriture est trop verbeux."
+            }
+        },
+        {
+            "word": "verve",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verv (verbum)",
+                    "meaning": {
+                        "ko": "말, 재능",
+                        "en": "word, talent",
+                        "ja": "言葉、才能",
+                        "zh": "言语、才能",
+                        "fr": "parole, talent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'말의 활기'라는 의미에서, 예술 작품이나 연기 등에서 느껴지는 '활력', '열정', '정열'을 뜻합니다.",
+                "en": "From 'liveliness of speech,' meaning the energy, passion, and enthusiasm felt in artistic works or performances.",
+                "ja": "「言葉の活気」から、芸術作品や演技などで感じられる「活力」「熱情」「情熱」を意味します。",
+                "zh": "源自「言语的活力」，指在艺术作品或表演中感受到的「生气」「热情」「激情」。",
+                "fr": "De « vivacité de la parole », signifiant l'énergie, la passion et l'enthousiasme ressentis dans les œuvres artistiques ou les performances."
+            },
+            "example": "She played the piano with great verve.",
+            "translation": {
+                "ko": "그녀는 대단한 열정을 담아 피아노를 연주했다.",
+                "ja": "彼女は素晴らしい熱情を込めてピアノを演奏した。",
+                "zh": "她以极大的热情演奏了钢琴。",
+                "fr": "Elle a joué du piano avec beaucoup de verve."
+            }
+        },
+        {
+            "word": "proverb",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞에, 공개적으로",
+                        "en": "before, public",
+                        "ja": "前に、公開的に",
+                        "zh": "在前面、公开地",
+                        "fr": "avant, public"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verb",
+                    "meaning": {
+                        "ko": "말",
+                        "en": "word",
+                        "ja": "言葉",
+                        "zh": "言葉",
+                        "fr": "parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람들 앞에서 널리 알려진 말'이라는 의미에서, '속담', '격언'을 뜻합니다.",
+                "en": "From the idea of words widely known before people, meaning a saying or maxim.",
+                "ja": "人々の前で広く知られた言葉という意味から、ことわざ、格言を意味します。",
+                "zh": "从在人们面前广为人知的言葉的概念，意思是谚语、格言。",
+                "fr": "De l'idée de paroles largement connues avant les gens, signifiant un dicton ou une maxime."
+            },
+            "example": "\"Haste makes waste\" is a common proverb.",
+            "translation": {
+                "ko": "\"서두르면 일을 그르친다\"는 흔한 속담이다.",
+                "ja": "ことわざ",
+                "zh": "谚语",
+                "fr": "proverbe"
+            }
+        },
+        {
+            "word": "verbal",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verb",
+                    "meaning": {
+                        "ko": "말",
+                        "en": "word",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'말의'라는 의미에서, '구두의', '언어의'라는 뜻입니다.",
+                "en": "From the sense of 'of words,' meaning 'spoken' or 'linguistic.'",
+                "ja": "「言葉の」という意味から、「口頭の」「言語の」という意味です。",
+                "zh": "从「言语的」之意，表示「口头的」、「语言的」。",
+                "fr": "Du sens « de parole », signifiant « oral » ou « linguistique »."
+            },
+            "example": "We have a verbal agreement.",
+            "translation": {
+                "ko": "우리는 구두 합의를 했다.",
+                "ja": "私たちは口頭での合意をしている。",
+                "zh": "我们有口头协议。",
+                "fr": "Nous avons un accord verbal."
+            }
+        },
+        {
+            "word": "verbiage",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verb",
+                    "meaning": {
+                        "ko": "말",
+                        "en": "word",
+                        "ja": "言葉",
+                        "zh": "词语",
+                        "fr": "parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "불필요한 말을 너무 많이 쓰는 '장황함' 또는 전문 분야의 '어려운 용어'를 뜻합니다.",
+                "en": "Excessive or needlessly wordy language; also refers to specialized or technical terminology that is difficult to understand.",
+                "ja": "不必要に多くの言葉を使う『冗長性』、または専門分野の『難しい用語』を意味します。",
+                "zh": "指过度冗长或不必要的言辞『啰嗦』，或专业领域的『难懂术语』。",
+                "fr": "Langage excessif ou inutilement verbeux ; désigne aussi la terminologie spécialisée ou technique difficile à comprendre."
+            },
+            "example": "The report was full of confusing verbiage.",
+            "translation": {
+                "ko": "그 보고서는 혼란스러운 전문 용어로 가득했다.",
+                "ja": "その報告書は混乱させるような冗長な言葉で満ちていた。",
+                "zh": "那份报告充满了令人困惑的专业术语。",
+                "fr": "Le rapport était rempli d'un verbiage déroutant."
+            }
+        },
+        {
+            "word": "verbatim",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verb",
+                    "meaning": {
+                        "ko": "말",
+                        "en": "word",
+                        "ja": "言葉",
+                        "zh": "言葉",
+                        "fr": "parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'말 그대로'라는 뜻의 라틴어 부사입니다. '말 한마디 한마디 똑같이', '축어적으로'라는 뜻입니다.",
+                "en": "Latin adverb meaning 'word for word' or 'literally.' Indicates exact reproduction of words without alteration.",
+                "ja": "「言葉通りに」という意味のラテン語副詞です。「一言一句そのままに」「字句通りに」という意味です。",
+                "zh": "表示「一字一句地」或「原文照搬」的拉丁语副词。表示逐字逐句地准确重复。",
+                "fr": "Adverbe latin signifiant « mot pour mot » ou « littéralement ». Indique la reproduction exacte des paroles sans modification."
+            },
+            "example": "She repeated his words verbatim.",
+            "translation": {
+                "ko": "그녀는 그의 말을 그대로 반복했다.",
+                "ja": "彼女は彼の言葉を言葉通りに繰り返した。",
+                "zh": "她一字不差地重复了他的话。",
+                "fr": "Elle a répété ses paroles mot pour mot."
+            }
+        },
+        {
+            "word": "adverb",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verb",
+                    "meaning": {
+                        "ko": "동사",
+                        "en": "verb",
+                        "ja": "動詞",
+                        "zh": "动词",
+                        "fr": "verbe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동사에 덧붙이는 말'이라는 의미에서 문법의 '부사'를 뜻합니다.",
+                "en": "Refers to the grammar term 'adverb', meaning 'words added to verbs'",
+                "ja": "動詞に付け加える言葉という意味から、文法の副詞を意味します",
+                "zh": "从'附加在动词上的词'的意义上，指语法中的副词",
+                "fr": "Désigne l'adverbe en grammaire, signifiant 'mots ajoutés aux verbes'"
+            },
+            "example": "\"Quickly\" is an adverb.",
+            "translation": {
+                "ko": "\"빨리\"는 부사이다.",
+                "ja": "副詞",
+                "zh": "副词",
+                "fr": "adverbe"
+            }
+        },
+        {
+            "word": "verb",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verb",
+                    "meaning": {
+                        "ko": "말",
+                        "en": "word",
+                        "ja": "言葉",
+                        "zh": "词语",
+                        "fr": "parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "문장에서 가장 핵심적인 '말'이라는 의미에서 문법의 '동사'를 뜻합니다.",
+                "en": "From the core meaning of 'word' in a sentence, referring to the grammatical 'verb'.",
+                "ja": "文の最も重要な「言葉」という意味から、文法上の「動詞」を指します。",
+                "zh": "从句子中最核心的\"词\"的含义，指语法上的\"动词\"。",
+                "fr": "Du sens fondamental de « parole » dans une phrase, désignant le « verbe » en grammaire."
+            },
+            "example": "A sentence needs a verb.",
+            "translation": {
+                "ko": "문장에는 동사가 필요하다.",
+                "ja": "文には動詞が必要です。",
+                "zh": "句子需要动词。",
+                "fr": "Une phrase a besoin d'un verbe."
+            }
+        },
+        {
+            "word": "verbalize",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verbal",
+                    "meaning": {
+                        "ko": "말의",
+                        "en": "of words",
+                        "ja": "言葉の",
+                        "zh": "言词的",
+                        "fr": "des mots"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ize",
+                    "meaning": {
+                        "ko": "동사형 어미",
+                        "en": "verb-forming suffix",
+                        "ja": "動詞化接尾辞",
+                        "zh": "动词化后缀",
+                        "fr": "suffixe de verbalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "생각이나 감정을 '말로 표현하다'는 뜻입니다.",
+                "en": "To express thoughts or feelings in words",
+                "ja": "考えや感情を『言葉で表現する』という意味です。",
+                "zh": "用言语表达思想或感情的意思。",
+                "fr": "Exprimer ses pensées ou ses sentiments par des paroles."
+            },
+            "example": "It's hard to verbalize my feelings.",
+            "translation": {
+                "ko": "내 감정을 말로 표현하기가 어렵다.",
+                "ja": "自分の気持ちを言葉で表現するのは難しい。",
+                "zh": "用言语表达我的感情是很困难的。",
+                "fr": "C'est difficile d'exprimer mes sentiments en paroles."
+            }
+        }
+    ]
+}

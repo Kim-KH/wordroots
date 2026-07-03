@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "cav (hollow) cave, cavity, concave",
+        "origin": "Latin, cavus (hollow)",
+        "meaning": {
+            "ko": "속이 빈",
+            "en": "hollow",
+            "ja": "空洞の",
+            "zh": "空的",
+            "fr": "creux"
+        }
+    },
+    "words": [
+        {
+            "word": "cave",
+            "part_of_speech": "",
+            "origin": "Latin, cavea (hollow place, cavity)",
+            "meaning": {
+                "ko": "빈 공간",
+                "en": "empty space",
+                "ja": "洞窟、空間",
+                "zh": "洞穴、空间",
+                "fr": "caverne, espace"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cav (cavus)",
+                    "meaning": {
+                        "ko": "'속이 빈'",
+                        "en": "hollow",
+                        "ja": "中が空いた",
+                        "zh": "内部空心的",
+                        "fr": "creux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "땅이나 산 속에 '움푹 파인(cav) 공간'이라는 의미에서 '동굴'을 뜻합니다.",
+                "en": "The word 'cave' refers to a 'hollow' space dug into the ground or mountain (cav).",
+                "ja": "洞窟は地面や山の中に掘られた'空いた'空間を意味します。",
+                "zh": "洞穴指的是在地面或山中挖出的'空心'空间。",
+                "fr": "Le mot 'cave' signifie un espace 'creusé' dans le sol ou la montagne."
+            },
+            "example": "Early humans lived in caves.",
+            "translation": {
+                "ko": "초기 인류는 동굴에서 살았다.",
+                "ja": "初期の人間は洞窟に住んでいました。",
+                "zh": "早期人类住在洞穴里。",
+                "fr": "Les premiers humains vivaient dans des cavernes."
+            }
+        },
+        {
+            "word": "cavity",
+            "part_of_speech": "",
+            "origin": "Latin, cavitas (hollowness)",
+            "meaning": {
+                "ko": "빈 공간",
+                "en": "empty space",
+                "ja": "空洞、穴",
+                "zh": "空洞、孔洞",
+                "fr": "cavité, trou"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cav (cavus)",
+                    "meaning": {
+                        "ko": "'속이 빈'",
+                        "en": "hollow",
+                        "ja": "中身が空の",
+                        "zh": "中空的",
+                        "fr": "creux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'상태, 성질'",
+                        "en": "state or quality",
+                        "ja": "状態、性質",
+                        "zh": "状态、性质",
+                        "fr": "état, qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'속이 빈(cav) 상태'라는 의미로, 신체나 치아에 생긴 '구멍'이나 '빈 공간', 즉 '충치' 등을 의미합니다.",
+                "en": "Meaning 'hollow state' (cav), referring to holes or empty spaces in the body or teeth, such as cavities.",
+                "ja": "中身が空（cav）の状態という意味で、身体や歯にできた穴や空洞、つまり虫歯などを指します。",
+                "zh": "意为'中空状态'（cav），指身体或牙齿中形成的孔洞或空隙，即蛀牙等。",
+                "fr": "Signifiant 'état creux' (cav), se référant aux trous ou espaces vides dans le corps ou les dents, comme les caries."
+            },
+            "example": "The dentist found a cavity in my tooth.",
+            "translation": {
+                "ko": "치과 의사가 내 이에서 충치를 발견했다.",
+                "ja": "虫歯が見つかりました。",
+                "zh": "牙医发现了我牙齿上的蛀牙。",
+                "fr": "Le dentiste a trouvé une carie dans ma dent."
+            }
+        },
+        {
+            "word": "concave",
+            "part_of_speech": "",
+            "origin": "Latin, concavus (hollowed out)",
+            "meaning": {
+                "ko": "움푹 파인",
+                "en": "deeply hollowed or indented",
+                "ja": "くぼんだ、凹んだ",
+                "zh": "凹陷的、凹面的",
+                "fr": "concave, creux"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께, 완전히'",
+                        "en": "together, thoroughly",
+                        "ja": "一緒に、完全に",
+                        "zh": "一起、彻底地",
+                        "fr": "ensemble, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cave (cavus)",
+                    "meaning": {
+                        "ko": "'속이 빈'",
+                        "en": "hollow",
+                        "ja": "中身が空の",
+                        "zh": "空心的、中空的",
+                        "fr": "creux, vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히(con) 속이 비어' 안으로 들어간 모양이라는 의미에서 '오목한'이라는 뜻을 가집니다.",
+                "en": "The word concave comes from the idea of being completely hollow or indented inward, describing something curved or sunken inward",
+                "ja": "concaveは完全に(con)空洞化した、または内側にくぼんだという意味から、内側に曲がったまたはくぼんだ状態を表します",
+                "zh": "concave一词源于完全(con)空心化或向内凹陷的概念，表示向内弯曲或凹陷的状态",
+                "fr": "Le mot concave provient de l'idée d'être complètement creux ou enfoncé vers l'intérieur, décrivant quelque chose de courbe ou d'enfoncé vers l'intérieur"
+            },
+            "example": "A concave lens is thinner in the center than at the edges.",
+            "translation": {
+                "ko": "오목 렌즈는 가장자리보다 중앙이 더 얇다.",
+                "ja": "凹面レンズは中心が縁より薄い。",
+                "zh": "凹透镜的中心比边缘更薄。",
+                "fr": "Une lentille concave est plus mince au centre qu'aux bords."
+            }
+        }
+    ]
+}

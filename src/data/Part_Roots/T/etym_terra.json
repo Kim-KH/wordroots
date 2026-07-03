@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "terra (earth) terrain, terrestrial, territory",
+        "origin": "Latin, terra (earth, land)",
+        "meaning": {
+            "ko": "땅",
+            "en": "earth",
+            "ja": "地球",
+            "zh": "地球",
+            "fr": "terre"
+        }
+    },
+    "words": [
+        {
+            "word": "terrain",
+            "part_of_speech": "",
+            "origin": "Latin, terrenum (land, ground)",
+            "meaning": {
+                "ko": "땅",
+                "en": "land",
+                "ja": "地形、地域",
+                "zh": "地形、地区",
+                "fr": "terrain, région"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terr-",
+                    "meaning": {
+                        "ko": "'땅'",
+                        "en": "earth",
+                        "ja": "土地、大地",
+                        "zh": "土地、地球",
+                        "fr": "terre, sol"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정한 지형적 특징을 가진 땅'인 '지형', '지역'을 뜻합니다.",
+                "en": "Refers to topography or region with specific geographical features",
+                "ja": "特定の地形的特徴を持つ土地の形状や地域を意味します",
+                "zh": "指具有特定地形特征的土地的地形或地区",
+                "fr": "Désigne la topographie ou la région avec des caractéristiques géographiques spécifiques"
+            },
+            "example": "The mountainous terrain was difficult to cross.",
+            "translation": {
+                "ko": "산악 지형은 건너기 어려웠다.",
+                "ja": "山岳地形は横断するのが困難でした",
+                "zh": "山地地形很难穿越",
+                "fr": "Le terrain montagneux était difficile à traverser"
+            }
+        },
+        {
+            "word": "terrestrial",
+            "part_of_speech": "",
+            "origin": "Latin, terrestris (of the earth)",
+            "meaning": {
+                "ko": "땅의",
+                "en": "of or relating to land",
+                "ja": "陸地の",
+                "zh": "陆地的",
+                "fr": "terrestre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terr-",
+                    "meaning": {
+                        "ko": "'땅'",
+                        "en": "earth",
+                        "ja": "土地",
+                        "zh": "土地",
+                        "fr": "terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하늘이나 바다가 아닌 땅에 사는'이라는 의미에서 '지구의', '육상의'라는 뜻입니다.",
+                "en": "Meaning 'of the earth' or 'land-based' in the sense of living on land rather than in the sky or sea.",
+                "ja": "空や海ではなく陸地に住む意味で、地球の、陸上の意味です。",
+                "zh": "在不是天空或海洋而是陆地上生活的意义上，意为地球的、陆地的。",
+                "fr": "Au sens de vivre sur la terre plutôt que dans le ciel ou la mer, cela signifie terrestre, basé sur la terre."
+            },
+            "example": "Humans are terrestrial beings.",
+            "translation": {
+                "ko": "인간은 지구상의 존재이다.",
+                "ja": "人間は陸上生物です。",
+                "zh": "人类是陆地生物。",
+                "fr": "Les humains sont des êtres terrestres."
+            }
+        },
+        {
+            "word": "territory",
+            "part_of_speech": "",
+            "origin": "Latin, territorium (land around a town)",
+            "meaning": {
+                "ko": "마을 주변 땅",
+                "en": "land around a village",
+                "ja": "領土、地域",
+                "zh": "领土、地区",
+                "fr": "territoire, région"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terr-",
+                    "meaning": {
+                        "ko": "'땅'",
+                        "en": "earth",
+                        "ja": "土地",
+                        "zh": "土地",
+                        "fr": "terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 국가나 개인이 소유한 땅'인 '영토', '지역'을 뜻합니다.",
+                "en": "Refers to 'territory' or 'region' owned by a specific country or individual.",
+                "ja": "特定の国家や個人が所有する土地である『領土』『地域』を意味します",
+                "zh": "指特定国家或个人拥有的土地『领土』『地区』的含义",
+                "fr": "Se réfère à un 'territoire' ou une 'région' possédés par un pays ou un individu spécifique."
+            },
+            "example": "The lion marked its territory.",
+            "translation": {
+                "ko": "그 사자는 자신의 영역을 표시했다.",
+                "ja": "ライオンは自分の領土に印をつけた。",
+                "zh": "狮子标记了它的领土。",
+                "fr": "Le lion a marqué son territoire."
+            }
+        }
+    ]
+}

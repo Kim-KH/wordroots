@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ible (capable of being) credible, mobile, risible, terrible",
+        "origin": "Latin, -ibilis (capable of being)",
+        "meaning": {
+            "ko": "…될 수 있는",
+            "en": "capable of being",
+            "ja": "...できる",
+            "zh": "...能够被",
+            "fr": "...capable de être"
+        }
+    },
+    "words": [
+        {
+            "word": "credible",
+            "part_of_speech": "",
+            "origin": "Latin, credibilis (believable)",
+            "meaning": {
+                "ko": "믿을 수 있는",
+                "en": "able to be believed",
+                "ja": "信じられる",
+                "zh": "可信的",
+                "fr": "crédible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cred- (credere)",
+                    "meaning": {
+                        "ko": "'믿다'",
+                        "en": "to believe",
+                        "ja": "信じる",
+                        "zh": "相信",
+                        "fr": "croire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "able to be",
+                        "ja": "できる",
+                        "zh": "能够",
+                        "fr": "pouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'믿을 수 있는'이라는 뜻입니다.",
+                "en": "Means believable or trustworthy",
+                "ja": "信じられるという意味です",
+                "zh": "表示可信任或值得相信的意思",
+                "fr": "Signifie digne de confiance ou fiable"
+            },
+            "example": "The police are looking for a credible witness.",
+            "translation": {
+                "ko": "경찰은 믿을 만한 목격자를 찾고 있다.",
+                "ja": "警察は信じられる証人を探しています。",
+                "zh": "警察正在寻找可信的证人。",
+                "fr": "La police recherche un témoin crédible."
+            }
+        },
+        {
+            "word": "mobile",
+            "part_of_speech": "",
+            "origin": "Latin, mobilis (movable)",
+            "meaning": {
+                "ko": "움직일 수 있는",
+                "en": "capable of moving",
+                "ja": "動かすことができる",
+                "zh": "可以移动的",
+                "fr": "capable de se déplacer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mov- (movere)",
+                    "meaning": {
+                        "ko": "'움직이다'",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "bouger"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-bile",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "capable of doing",
+                        "ja": "することができる",
+                        "zh": "能够",
+                        "fr": "capable de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직일 수 있는'이라는 의미에서 '이동성의'라는 뜻입니다.",
+                "en": "Meaning 'capable of moving', thus 'having mobility'",
+                "ja": "『動かすことができる』という意味で『移動性の』という意味です",
+                "zh": "从'可以移动'的意思，即'具有流动性'之意",
+                "fr": "Signifiant 'capable de bouger', donc 'ayant une mobilité'"
+            },
+            "example": "He has a mobile phone.",
+            "translation": {
+                "ko": "그는 휴대전화를 가지고 있다.",
+                "ja": "彼は携帯電話を持っています。",
+                "zh": "他有一部手机。",
+                "fr": "Il a un téléphone mobile."
+            }
+        },
+        {
+            "word": "risible",
+            "part_of_speech": "",
+            "origin": "Latin, risibilis (laughable)",
+            "meaning": {
+                "ko": "웃을 만한",
+                "en": "worthy of laughter",
+                "ja": "笑える、滑稽な",
+                "zh": "可笑的、荒唐的",
+                "fr": "risible、ridicule"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ris- (ridere)",
+                    "meaning": {
+                        "ko": "'웃다'",
+                        "en": "to laugh",
+                        "ja": "笑う",
+                        "zh": "笑",
+                        "fr": "rire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "able to be",
+                        "ja": "できる、可能な",
+                        "zh": "能够、可能",
+                        "fr": "capable de、possible"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'웃을 수 있을 만큼 우스꽝스러운'이라는 뜻입니다.",
+                "en": "Meaning 'absurd enough to laugh at'",
+                "ja": "笑えるほど不条理な意味",
+                "zh": "足够荒唐可笑的意思",
+                "fr": "Signifiant 'assez absurde pour faire rire'"
+            },
+            "example": "He made a risible attempt to lie.",
+            "translation": {
+                "ko": "그는 웃기는 거짓말 시도를 했다.",
+                "ja": "彼は嘘をつこうとする滑稽な試みをした。",
+                "zh": "他做了一个荒唐的谎言企图。",
+                "fr": "Il a fait une tentative ridicule de mentir."
+            }
+        },
+        {
+            "word": "terrible",
+            "part_of_speech": "",
+            "origin": "Latin, terribilis (frightful)",
+            "meaning": {
+                "ko": "무서운",
+                "en": "frightening or scary",
+                "ja": "ひどい",
+                "zh": "可怕的",
+                "fr": "terrible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terr- (terrere)",
+                    "meaning": {
+                        "ko": "'두렵게 하다'",
+                        "en": "to frighten",
+                        "ja": "怖がらせる",
+                        "zh": "使害怕",
+                        "fr": "effrayer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "able to be or capable of being",
+                        "ja": "できる",
+                        "zh": "能够",
+                        "fr": "pouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두려움을 일으킬 만큼 끔찍한'이라는 뜻입니다.",
+                "en": "Means something so dreadful as to cause fear",
+                "ja": "恐怖を起こすほどひどいという意味",
+                "zh": "意思是令人害怕的可怕之事",
+                "fr": "Signifie quelque chose de si affreux qu'il cause la peur"
+            },
+            "example": "The weather was terrible.",
+            "translation": {
+                "ko": "날씨가 끔찍했다.",
+                "ja": "天気はひどかった。",
+                "zh": "天气很可怕。",
+                "fr": "Le temps était terrible."
+            }
+        }
+    ]
+}

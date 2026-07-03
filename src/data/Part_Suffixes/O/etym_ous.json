@@ -1,0 +1,276 @@
+{
+    "root_info": {
+        "roots": "ous (containing, pertaining to) analogous, bulbous, dexterous, porous, rigorous",
+        "origin": "Latin, -osus (full of)",
+        "meaning": {
+            "ko": "…을 포함하는",
+            "en": "containing, pertaining to",
+            "ja": "…を含む、…に関する",
+            "zh": "包含的、与…有关的",
+            "fr": "contenant, se rapportant à"
+        }
+    },
+    "words": [
+        {
+            "word": "analogous",
+            "part_of_speech": "",
+            "origin": "Greek, analogos (proportionate)",
+            "meaning": {
+                "ko": "비례하는",
+                "en": "proportional or corresponding",
+                "ja": "比例する",
+                "zh": "成比例的",
+                "fr": "proportionnel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ana-",
+                    "meaning": {
+                        "ko": "'…에 따라서'",
+                        "en": "according to",
+                        "ja": "に従って",
+                        "zh": "根据",
+                        "fr": "selon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "log-",
+                    "meaning": {
+                        "ko": "'비율'",
+                        "en": "ratio",
+                        "ja": "比率",
+                        "zh": "比例",
+                        "fr": "rapport"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or having the quality of",
+                        "ja": "の",
+                        "zh": "的",
+                        "fr": "de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비율이 비슷한'이라는 의미에서 '유사한'이라는 뜻입니다.",
+                "en": "Meaning 'similar' from the sense of 'having similar ratios'",
+                "ja": "比率が似ているという意味から似ているという意味",
+                "zh": "从比例相似的意义延伸为相似",
+                "fr": "Signifie 'similaire' au sens de rapports semblables"
+            },
+            "example": "The two situations are analogous.",
+            "translation": {
+                "ko": "그 두 상황은 유사하다.",
+                "ja": "2つの状況は類似している。",
+                "zh": "这两种情况是类似的。",
+                "fr": "Les deux situations sont analogues."
+            }
+        },
+        {
+            "word": "bulbous",
+            "part_of_speech": "",
+            "origin": "Latin, bulbus (a bulb)",
+            "meaning": {
+                "ko": "구근",
+                "en": "bulb-like underground plant stem",
+                "ja": "球根状の",
+                "zh": "球根形的",
+                "fr": "bulbeux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bulb-",
+                    "meaning": {
+                        "ko": "'구근'",
+                        "en": "bulb",
+                        "ja": "球根",
+                        "zh": "球根",
+                        "fr": "bulbe"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "'~모양의'",
+                        "en": "having the quality of",
+                        "ja": "~のような",
+                        "zh": "~样的",
+                        "fr": "~en forme de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'구근처럼 둥글고 뚱뚱한'이라는 뜻입니다.",
+                "en": "Meaning round and swollen like a bulb",
+                "ja": "球根のように丸くて膨らんだという意味です",
+                "zh": "意思是像球根一样圆胖的",
+                "fr": "Signifie rond et gonflé comme un bulbe"
+            },
+            "example": "He has a bulbous nose.",
+            "translation": {
+                "ko": "그는 주먹코를 가지고 있다.",
+                "ja": "彼は球根状の鼻をしている。",
+                "zh": "他有一个球根形的鼻子。",
+                "fr": "Il a un nez bulbeux."
+            }
+        },
+        {
+            "word": "dexterous",
+            "part_of_speech": "",
+            "origin": "Latin, dexter (on the right side, skillful)",
+            "meaning": {
+                "ko": "오른쪽의, 능숙한",
+                "en": "right-handed, skillful",
+                "ja": "器用な、上手な",
+                "zh": "灵巧的、熟练的",
+                "fr": "adroit, habile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dexter-",
+                    "meaning": {
+                        "ko": "'능숙한'",
+                        "en": "skillful",
+                        "ja": "器用な",
+                        "zh": "灵巧的",
+                        "fr": "adroit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of, having",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'오른손처럼 능숙한'이라는 의미에서 '솜씨 좋은'이라는 뜻입니다.",
+                "en": "Meaning 'skillful like the right hand', hence 'skilled and dexterous'",
+                "ja": "右手のように器用という意味から、上手で器用という意味になります",
+                "zh": "从'像右手一样灵巧'的含义衍生出'熟练、灵巧'的意思",
+                "fr": "Du sens 'adroit comme la main droite', d'où 'compétent et habile'"
+            },
+            "example": "He is a dexterous craftsman.",
+            "translation": {
+                "ko": "그는 솜씨 좋은 장인이다.",
+                "ja": "彼は器用な職人です。",
+                "zh": "他是一位灵巧的工匠。",
+                "fr": "C'est un artisan adroit."
+            }
+        },
+        {
+            "word": "porous",
+            "part_of_speech": "",
+            "origin": "Greek, poros (a passage)",
+            "meaning": {
+                "ko": "통로",
+                "en": "passage or channel",
+                "ja": "多孔性の",
+                "zh": "多孔的",
+                "fr": "poreux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "por-",
+                    "meaning": {
+                        "ko": "'구멍'",
+                        "en": "hole",
+                        "ja": "穴",
+                        "zh": "孔",
+                        "fr": "trou"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "'~이 많은'",
+                        "en": "full of or having many",
+                        "ja": "~が多い",
+                        "zh": "~很多",
+                        "fr": "plein de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 구멍이 많아 액체나 공기가 통과할 수 있는'이라는 의미에서 '다공성의'라는 뜻입니다.",
+                "en": "Having many small holes allowing liquid or air to pass through; meaning porous or permeable",
+                "ja": "液体や空気が通過できるように小さな穴がたくさんある多孔性を意味します",
+                "zh": "具有许多小孔，允许液体或空气通过，意为多孔性或可渗透的",
+                "fr": "Ayant de nombreux petits trous permettant aux liquides ou à l'air de passer, signifiant poreux ou perméable"
+            },
+            "example": "The porous soil allows water to drain quickly.",
+            "translation": {
+                "ko": "다공성 토양은 물이 빨리 빠지게 한다.",
+                "ja": "多孔質の土は水が素早く排水されることを可能にします",
+                "zh": "多孔的土壤能使水快速排出",
+                "fr": "Le sol poreux permet à l'eau de s'échapper rapidement"
+            }
+        },
+        {
+            "word": "rigorous",
+            "part_of_speech": "",
+            "origin": "Latin, rigorosus",
+            "meaning": {
+                "ko": "엄격한",
+                "en": "strict and thorough",
+                "ja": "厳格な",
+                "zh": "严格的",
+                "fr": "rigoureux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rigor-",
+                    "meaning": {
+                        "ko": "'엄격함'",
+                        "en": "strictness or severity",
+                        "ja": "厳格さ",
+                        "zh": "严格性",
+                        "fr": "rigueur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "having the quality of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매우 엄격하고 철저한'이라는 뜻입니다.",
+                "en": "Means very strict and thorough",
+                "ja": "非常に厳格で徹底的という意味です",
+                "zh": "意思是非常严格和彻底的",
+                "fr": "Signifie très strict et approfondi"
+            },
+            "example": "The training program is very rigorous.",
+            "translation": {
+                "ko": "그 훈련 프로그램은 매우 엄격하다.",
+                "ja": "訓練プログラムは非常に厳格です。",
+                "zh": "培训课程非常严格。",
+                "fr": "Le programme de formation est très rigoureux."
+            }
+        }
+    ]
+}

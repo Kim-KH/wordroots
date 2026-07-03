@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "un",
+        "origin": "Old English",
+        "meaning": {
+            "ko": "아니다",
+            "en": "not",
+            "ja": "否定",
+            "zh": "否定",
+            "fr": "non"
+        }
+    },
+    "words": [
+        {
+            "word": "uncooked",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "un-",
+                    "meaning": {
+                        "ko": "아닌",
+                        "en": "not",
+                        "ja": "〜ではない",
+                        "zh": "不是",
+                        "fr": "non"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cooked",
+                    "meaning": {
+                        "ko": "요리된",
+                        "en": "cooked",
+                        "ja": "調理された",
+                        "zh": "烹饪的",
+                        "fr": "cuit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'요리되지 않은', '익히지 않은'이라는 뜻입니다.",
+                "en": "Not cooked or prepared by heat",
+                "ja": "加熱して調理されていない、生の状態",
+                "zh": "未经加热烹饪，生的状态",
+                "fr": "Non préparé ou cuit à la chaleur"
+            },
+            "example": "This fish is uncooked.",
+            "translation": {
+                "ko": "이 생선은 익히지 않았다.",
+                "ja": "この魚は火が通っていない。",
+                "zh": "这条鱼没有煮过。",
+                "fr": "Ce poisson n'est pas cuit."
+            }
+        },
+        {
+            "word": "unharmed",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "un-",
+                    "meaning": {
+                        "ko": "아닌",
+                        "en": "not",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "harmed",
+                    "meaning": {
+                        "ko": "다친",
+                        "en": "injured or damaged",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다치지 않은', '무사한'이라는 뜻입니다.",
+                "en": "Means 'not injured' or 'safe and unharmed'",
+                "ja": "「傷つかない」「無事な」という意味です",
+                "zh": "意思是「没有受伤」或「安然无恙」",
+                "fr": "Signifie « non blessé » ou « sain et sauf »"
+            },
+            "example": "He escaped from the fire unharmed.",
+            "translation": {
+                "ko": "그는 화재에서 무사히 탈출했다.",
+                "ja": "彼は火災から無傷で脱出した。",
+                "zh": "他安然无恙地从大火中逃脱了。",
+                "fr": "Il s'est échappé du feu indemne."
+            }
+        },
+        {
+            "word": "unintended",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "un-",
+                    "meaning": {
+                        "ko": "아닌",
+                        "en": "not",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "intended",
+                    "meaning": {
+                        "ko": "의도된",
+                        "en": "intended or planned",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의도하지 않은'이라는 뜻입니다.",
+                "en": "means 'not intended'",
+                "ja": "意図されていない意味",
+                "zh": "表示'非故意的'",
+                "fr": "signifie 'non intentionnel'"
+            },
+            "example": "There were some unintended consequences.",
+            "translation": {
+                "ko": "몇 가지 의도하지 않은 결과들이 있었다.",
+                "ja": "いくつかの予期しない結果がありました。",
+                "zh": "有一些意外的后果。",
+                "fr": "Il y avait des conséquences imprévues."
+            }
+        }
+    ]
+}

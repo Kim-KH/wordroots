@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "pinn (feather) pinna, pinion, pinnate",
+        "origin": "Latin, pinna (feather, wing)",
+        "meaning": {
+            "ko": "깃털, 날개",
+            "en": "feather, wing",
+            "ja": "羽、翼",
+            "zh": "羽毛、翅膀",
+            "fr": "plume, aile"
+        }
+    },
+    "words": [
+        {
+            "word": "pinna",
+            "part_of_speech": "",
+            "origin": "Latin, pinna (feather, wing)",
+            "meaning": {
+                "ko": "깃털, 날개",
+                "en": "feather, wing",
+                "ja": "羽、翼",
+                "zh": "羽毛、翅膀",
+                "fr": "plume, aile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pinn-",
+                    "meaning": {
+                        "ko": "'깃털, 날개'",
+                        "en": "feather, wing",
+                        "ja": "羽、翼",
+                        "zh": "羽毛、翅膀",
+                        "fr": "plume, aile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'날개 모양'으로 생긴 귓바퀴, 즉 '이개(耳介)'를 뜻합니다.",
+                "en": "The external part of the ear shaped like a wing, also called the auricle",
+                "ja": "翼のような形をした外耳の一部、耳介を意味する",
+                "zh": "形如翅膀的外耳部分，即耳廓",
+                "fr": "Partie externe de l'oreille en forme d'aile, également appelée auricule"
+            },
+            "example": "The pinna is the visible part of the outer ear.",
+            "translation": {
+                "ko": "귓바퀴는 바깥귀의 보이는 부분이다.",
+                "ja": "耳介は外耳の目に見える部分です。",
+                "zh": "耳廓是外耳的可见部分。",
+                "fr": "Le pavillon est la partie visible de l'oreille externe."
+            }
+        },
+        {
+            "word": "pinion",
+            "part_of_speech": "",
+            "origin": "Latin, pinna (feather)",
+            "meaning": {
+                "ko": "깃털",
+                "en": "feather or wing",
+                "ja": "羽、翼",
+                "zh": "羽毛、翅膀",
+                "fr": "plume, aile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pinn-",
+                    "meaning": {
+                        "ko": "'깃털, 날개'",
+                        "en": "feather, wing",
+                        "ja": "羽、翼",
+                        "zh": "羽毛、翅膀",
+                        "fr": "plume, aile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새 날개의 끝부분' 또는 '새의 날개를 묶어 날지 못하게 하다'는 뜻입니다.",
+                "en": "Refers to the outer flight feathers of a bird's wing, or the act of binding a bird's wings to prevent flight.",
+                "ja": "鳥の翼の先端部分、または鳥の翼を縛って飛べなくする行為を意味します。",
+                "zh": "指鸟翼末端的飞行羽毛，或束缚鸟的翅膀使其无法飞行的行为。",
+                "fr": "Fait référence aux plumes de vol externes de l'aile d'un oiseau, ou à l'acte de lier les ailes pour empêcher le vol."
+            },
+            "example": "The eagle's pinion was broken.",
+            "translation": {
+                "ko": "그 독수리의 날개 끝이 부러졌다.",
+                "ja": "鷲の翼が折れていました。",
+                "zh": "鹰的翅膀被折断了。",
+                "fr": "L'aile de l'aigle était cassée."
+            }
+        },
+        {
+            "word": "pinnate",
+            "part_of_speech": "",
+            "origin": "Latin, pinnatus (feathered)",
+            "meaning": {
+                "ko": "깃털이 있는",
+                "en": "having feathers",
+                "ja": "羽状の",
+                "zh": "羽状的",
+                "fr": "penné"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pinn-",
+                    "meaning": {
+                        "ko": "'깃털'",
+                        "en": "feather",
+                        "ja": "羽毛",
+                        "zh": "羽毛",
+                        "fr": "plume"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잎이 깃털 모양으로 배열된'이라는 뜻입니다.",
+                "en": "Leaves arranged in a feather-like pattern",
+                "ja": "葉が羽毛のような配列をしている",
+                "zh": "叶子呈羽毛状排列",
+                "fr": "Feuilles arrangées en motif de plume"
+            },
+            "example": "A fern leaf is a good example of a pinnate leaf.",
+            "translation": {
+                "ko": "양치류 잎은 깃꼴잎의 좋은 예이다.",
+                "ja": "シダの葉は羽状葉の良い例です。",
+                "zh": "蕨类植物的叶子是羽状叶的很好例子。",
+                "fr": "Une feuille de fougère est un bon exemple de feuille pennée."
+            }
+        }
+    ]
+}

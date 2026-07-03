@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "mural (wall) intramural, mural",
+        "origin": "Latin, murus (wall)",
+        "meaning": {
+            "ko": "벽",
+            "en": "wall",
+            "ja": "壁",
+            "zh": "墙",
+            "fr": "mur"
+        }
+    },
+    "words": [
+        {
+            "word": "intramural",
+            "part_of_speech": "",
+            "origin": "Latin, intra- (within) + murus (wall)",
+            "meaning": {
+                "ko": "벽 안의",
+                "en": "within the wall",
+                "ja": "壁の中の",
+                "zh": "墙内的",
+                "fr": "à l'intérieur des murs"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intra-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "within",
+                        "ja": "内に",
+                        "zh": "在...内",
+                        "fr": "à l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mur-",
+                    "meaning": {
+                        "ko": "'벽'",
+                        "en": "wall",
+                        "ja": "壁",
+                        "zh": "墙",
+                        "fr": "mur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하나의 학교나 기관의 벽 안에서' 이루어지는 활동이라는 의미에서 '교내의', '학내의'라는 뜻입니다.",
+                "en": "Activities conducted within the walls of a single school or institution, meaning school-based or institutional",
+                "ja": "一つの学校や機関の壁の中で行われる活動を意味し、校内の、学内のという意味です",
+                "zh": "在单一学校或机构的墙内进行的活动，意为校内的、机构内的",
+                "fr": "Activités menées dans les murs d'une seule école ou institution, signifiant intra-scolaire ou institutionnel"
+            },
+            "example": "He plays on the intramural basketball team.",
+            "translation": {
+                "ko": "그는 교내 농구팀에서 뛴다.",
+                "ja": "彼はインスクール・バスケットボール・チームでプレーしています",
+                "zh": "他在校内篮球队打球",
+                "fr": "Il joue dans l'équipe de basket-ball intra-murale"
+            }
+        },
+        {
+            "word": "mural",
+            "part_of_speech": "",
+            "origin": "Latin, muralis (of a wall)",
+            "meaning": {
+                "ko": "벽의",
+                "en": "of the wall",
+                "ja": "壁の",
+                "zh": "墙的",
+                "fr": "mural"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mur-",
+                    "meaning": {
+                        "ko": "'벽'",
+                        "en": "wall",
+                        "ja": "壁",
+                        "zh": "墙",
+                        "fr": "mur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'벽에 그린 그림'인 '벽화'를 뜻합니다.",
+                "en": "Refers to a mural, which is a picture painted on a wall",
+                "ja": "壁に描いた絵である壁画を意味します",
+                "zh": "指在墙上绘制的壁画",
+                "fr": "Désigne une peinture murale peinte sur un mur"
+            },
+            "example": "The artist is painting a large mural on the side of the building.",
+            "translation": {
+                "ko": "그 화가는 건물 측면에 커다란 벽화를 그리고 있다.",
+                "ja": "アーティストは建物の側面に大きな壁画を描いています",
+                "zh": "艺术家正在建筑物的侧面绘制大型壁画",
+                "fr": "L'artiste peint une grande fresque murale sur le côté du bâtiment"
+            }
+        }
+    ]
+}

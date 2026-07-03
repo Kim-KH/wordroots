@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "istics (science of) ballistics, linguistics, statistics",
+        "origin": "Greek, -istes + -ikos",
+        "meaning": {
+            "ko": "…의 학문",
+            "en": "science of",
+            "ja": "…の学問",
+            "zh": "…的学问",
+            "fr": "science de…"
+        }
+    },
+    "words": [
+        {
+            "word": "ballistics",
+            "part_of_speech": "",
+            "origin": "Greek, ballein (to throw)",
+            "meaning": {
+                "ko": "던지다",
+                "en": "to throw or propel",
+                "ja": "投射体の運動学",
+                "zh": "抛体运动学",
+                "fr": "balistique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ball-",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "投掷",
+                        "fr": "lancer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-istics",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "science or study of",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발사체의 운동을 연구하는 학문'인 '탄도학'을 뜻합니다.",
+                "en": "The science studying the motion of projectiles and firearms",
+                "ja": "発射体の運動を研究する学問",
+                "zh": "研究抛体运动的科学",
+                "fr": "Science étudiant le mouvement des projectiles"
+            },
+            "example": "Ballistics is the science of projectiles and firearms.",
+            "translation": {
+                "ko": "탄도학은 발사체와 화기에 관한 과학이다.",
+                "ja": "弾道学は発射体と銃火器の科学である。",
+                "zh": "弹道学是关于抛体和枪火的科学。",
+                "fr": "La balistique est la science des projectiles et des armes à feu."
+            }
+        },
+        {
+            "word": "linguistics",
+            "part_of_speech": "",
+            "origin": "Latin, lingua (language)",
+            "meaning": {
+                "ko": "언어",
+                "en": "language",
+                "ja": "言語学",
+                "zh": "语言学",
+                "fr": "linguistique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lingu-",
+                    "meaning": {
+                        "ko": "'언어'",
+                        "en": "language",
+                        "ja": "言語",
+                        "zh": "语言",
+                        "fr": "langue"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-istics",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study of",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'언어를 과학적으로 연구하는 학문'인 '언어학'을 뜻합니다.",
+                "en": "The study of language scientifically",
+                "ja": "言語を科学的に研究する学問",
+                "zh": "科学研究语言的学问",
+                "fr": "L'étude scientifique du langage"
+            },
+            "example": "He is a professor of linguistics.",
+            "translation": {
+                "ko": "그는 언어학 교수이다.",
+                "ja": "彼は言語学の教授です。",
+                "zh": "他是语言学教授。",
+                "fr": "Il est professeur de linguistique."
+            }
+        },
+        {
+            "word": "statistics",
+            "part_of_speech": "",
+            "origin": "Latin, status (state, position)",
+            "meaning": {
+                "ko": "상태",
+                "en": "state or condition",
+                "ja": "状態",
+                "zh": "状态",
+                "fr": "état"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stat-",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-istics",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science of",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상태(데이터)를 수집, 분석, 해석하는 학문'인 '통계학'을 뜻합니다.",
+                "en": "The science of collecting, analyzing, and interpreting state data",
+                "ja": "状態(データ)を収集、分析、解釈する学問である統計学を意味します",
+                "zh": "指收集、分析、解释状态(数据)的学问，即统计学",
+                "fr": "La science de collecter, analyser et interpréter les données d'état"
+            },
+            "example": "Statistics can help us to understand complex data.",
+            "translation": {
+                "ko": "통계학은 우리가 복잡한 데이터를 이해하는 데 도움을 줄 수 있다.",
+                "ja": "統計は複雑なデータを理解するのに役立つことができます",
+                "zh": "统计可以帮助我们理解复杂的数据",
+                "fr": "Les statistiques peuvent nous aider à comprendre les données complexes"
+            }
+        }
+    ]
+}

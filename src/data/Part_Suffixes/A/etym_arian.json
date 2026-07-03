@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "arian (age, sect, occupation) grammarian, librarian, octogenarian, vegetarian",
+        "origin": "Latin, -arius (connected with)",
+        "meaning": {
+            "ko": "…와 관련된 사람",
+            "en": "connected with",
+            "ja": "...に関連した",
+            "zh": "与...相关的",
+            "fr": "lié à"
+        }
+    },
+    "words": [
+        {
+            "word": "grammarian",
+            "part_of_speech": "",
+            "origin": "Latin, grammaticus (a scholar)",
+            "meaning": {
+                "ko": "학자",
+                "en": "scholar or expert",
+                "ja": "文法学者",
+                "zh": "语法学家",
+                "fr": "grammairien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grammar",
+                    "meaning": {
+                        "ko": "'문법'",
+                        "en": "grammar",
+                        "ja": "文法",
+                        "zh": "语法",
+                        "fr": "grammaire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ian",
+                    "meaning": {
+                        "ko": "'~전문가'",
+                        "en": "expert or specialist",
+                        "ja": "~専門家",
+                        "zh": "~专家",
+                        "fr": "~expert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'문법을 전문적으로 연구하는 사람'인 '문법학자'를 뜻합니다.",
+                "en": "A person who specializes in studying grammar",
+                "ja": "文法を専門的に研究する人",
+                "zh": "专门研究语法的人",
+                "fr": "personne étudiant spécialement la grammaire"
+            },
+            "example": "The grammarian explained the rules of sentence structure.",
+            "translation": {
+                "ko": "그 문법학자는 문장 구조의 규칙을 설명했다.",
+                "ja": "その文法学者は文の構造の規則を説明した。",
+                "zh": "那位语法学家解释了句子结构的规则。",
+                "fr": "Le grammairien a expliqué les règles de la structure de phrase."
+            }
+        },
+        {
+            "word": "librarian",
+            "part_of_speech": "",
+            "origin": "Latin, librarius (relating to books)",
+            "meaning": {
+                "ko": "책에 관한",
+                "en": "related to books",
+                "ja": "図書館司書",
+                "zh": "图书馆员",
+                "fr": "bibliothécaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "libr- (liber 'book')",
+                    "meaning": {
+                        "ko": "'책'",
+                        "en": "book",
+                        "ja": "本",
+                        "zh": "书",
+                        "fr": "livre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-arian",
+                    "meaning": {
+                        "ko": "'~와 관련된 사람'",
+                        "en": "person related to",
+                        "ja": "関連する人",
+                        "zh": "相关的人",
+                        "fr": "personne associée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'책을 다루는 사람'인 '사서'를 뜻합니다.",
+                "en": "A person who manages and organizes books in a library",
+                "ja": "図書館で本を管理する人",
+                "zh": "在图书馆管理书籍的人",
+                "fr": "Personne qui gère les livres à la bibliothèque"
+            },
+            "example": "The librarian helped me find the book I was looking for.",
+            "translation": {
+                "ko": "사서는 내가 찾고 있던 책을 찾는 것을 도와주었다.",
+                "ja": "図書館司書は私が探していた本を見つけるのを手伝ってくれた。",
+                "zh": "图书馆员帮我找到了我要找的书。",
+                "fr": "La bibliothécaire m'a aidé à trouver le livre que je cherchais."
+            }
+        },
+        {
+            "word": "octogenarian",
+            "part_of_speech": "",
+            "origin": "Latin, octogenarius (containing eighty)",
+            "meaning": {
+                "ko": "여든을 포함하는",
+                "en": "including eighty years old",
+                "ja": "80代の人",
+                "zh": "八十多岁的人",
+                "fr": "personne dans les quatre-vingts"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "octogen-",
+                    "meaning": {
+                        "ko": "'여든'",
+                        "en": "eighty",
+                        "ja": "80",
+                        "zh": "八十",
+                        "fr": "quatre-vingts"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-arian",
+                    "meaning": {
+                        "ko": "'~연령대의 사람'",
+                        "en": "person in age range",
+                        "ja": "~年代の人",
+                        "zh": "~年代的人",
+                        "fr": "personne dans les ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나이가 80대인 사람'을 뜻합니다.",
+                "en": "A person who is in their eighties",
+                "ja": "80代の年齢である人を意味します",
+                "zh": "指年龄在80多岁的人",
+                "fr": "Désigne une personne âgée de quatre-vingts à quatre-vingt-neuf ans"
+            },
+            "example": "He is an active octogenarian who still plays tennis.",
+            "translation": {
+                "ko": "그는 여전히 테니스를 치는 활동적인 80대 노인이다.",
+                "ja": "彼は活動的な80代の人で、まだテニスをしています。",
+                "zh": "他是一个活跃的八十多岁的人，仍然打网球。",
+                "fr": "C'est un octogénaire actif qui joue toujours au tennis."
+            }
+        },
+        {
+            "word": "vegetarian",
+            "part_of_speech": "",
+            "origin": "English, vegetable + -arian",
+            "meaning": {
+                "ko": "채소와 관련된 사람",
+                "en": "person who eats vegetables",
+                "ja": "野菜を食べる人",
+                "zh": "吃蔬菜的人",
+                "fr": "personne qui mange des légumes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "veget- (vegetable)",
+                    "meaning": {
+                        "ko": "'채소'",
+                        "en": "vegetable",
+                        "ja": "野菜",
+                        "zh": "蔬菜",
+                        "fr": "légumes"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-arian",
+                    "meaning": {
+                        "ko": "'~주의자'",
+                        "en": "advocate or practitioner",
+                        "ja": "~主義者",
+                        "zh": "~主义者",
+                        "fr": "~iste"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'채소 위주의 식사를 하는 사람'인 '채식주의자'를 뜻합니다.",
+                "en": "A person who eats mainly vegetable-based meals",
+                "ja": "野菜中心の食事をする人を意味します",
+                "zh": "指以蔬菜为主食的人",
+                "fr": "Désigne une personne qui mange principalement des aliments à base de légumes"
+            },
+            "example": "As a vegetarian, she does not eat meat or fish.",
+            "translation": {
+                "ko": "채식주의자로서, 그녀는 고기나 생선을 먹지 않는다.",
+                "ja": "菜食主義者",
+                "zh": "素食主义者",
+                "fr": "végétarien"
+            }
+        }
+    ]
+}

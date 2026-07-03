@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "less (without) hopeless, needless, timeless, worthless",
+        "origin": "Old English, -leas (without)",
+        "meaning": {
+            "ko": "…이 없는",
+            "en": "without",
+            "ja": "...なし",
+            "zh": "...没有",
+            "fr": "...sans"
+        }
+    },
+    "words": [
+        {
+            "word": "hopeless",
+            "part_of_speech": "",
+            "origin": "English, hope + -less",
+            "meaning": {
+                "ko": "희망이 없는",
+                "en": "without hope",
+                "ja": "希望がない",
+                "zh": "没有希望",
+                "fr": "sans espoir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hope",
+                    "meaning": {
+                        "ko": "'희망'",
+                        "en": "hope",
+                        "ja": "希望",
+                        "zh": "希望",
+                        "fr": "espoir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-less",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "without",
+                        "ja": "がない",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'희망이 없는'이라는 뜻입니다.",
+                "en": "Means having no hope or prospects",
+                "ja": "希望や見通しがないという意味です",
+                "zh": "表示没有希望或前景",
+                "fr": "Signifie sans espoir ou perspectives"
+            },
+            "example": "The situation seemed hopeless.",
+            "translation": {
+                "ko": "상황이 절망적으로 보였다.",
+                "ja": "その状況は希望がないように見えた。",
+                "zh": "这种情况似乎没有希望。",
+                "fr": "La situation semblait sans espoir."
+            }
+        },
+        {
+            "word": "needless",
+            "part_of_speech": "",
+            "origin": "English, need + -less",
+            "meaning": {
+                "ko": "필요가 없는",
+                "en": "not requiring or necessary",
+                "ja": "不要な",
+                "zh": "不必要的",
+                "fr": "inutile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "need",
+                    "meaning": {
+                        "ko": "'필요'",
+                        "en": "need",
+                        "ja": "必要",
+                        "zh": "需要",
+                        "fr": "besoin"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-less",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "without or lacking",
+                        "ja": "ない",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'필요 없는'이라는 의미에서 '불필요한'이라는 뜻입니다.",
+                "en": "Means unnecessary or not needed",
+                "ja": "必要がないという意味で、不要なことを表します",
+                "zh": "表示没有必要或不需要的意思",
+                "fr": "Signifie inutile ou non nécessaire"
+            },
+            "example": "It was a needless waste of money.",
+            "translation": {
+                "ko": "그것은 불필요한 돈 낭비였다.",
+                "ja": "それは無駄なお金の浪費でした",
+                "zh": "那是不必要的金钱浪费",
+                "fr": "C'était un gaspillage inutile d'argent"
+            }
+        },
+        {
+            "word": "timeless",
+            "part_of_speech": "",
+            "origin": "English, time + -less",
+            "meaning": {
+                "ko": "시간이 없는",
+                "en": "without time or temporal limitation",
+                "ja": "時間に左右されない",
+                "zh": "不受时间影响",
+                "fr": "intemporel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "time",
+                    "meaning": {
+                        "ko": "'시간'",
+                        "en": "time",
+                        "ja": "時間",
+                        "zh": "时间",
+                        "fr": "temps"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-less",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "without or lacking",
+                        "ja": "~がない",
+                        "zh": "没有~",
+                        "fr": "sans ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시간의 영향을 받지 않는'이라는 의미에서 '영원한', '세월이 흘러도 변치 않는'이라는 뜻입니다.",
+                "en": "Describes something unaffected by time; eternal and unchanging despite the passage of years",
+                "ja": "時間の影響を受けないという意味で、永遠の、時が経っても変わらないという意味です",
+                "zh": "表示不受时间影响，永恒的，岁月流逝也不改变的意思",
+                "fr": "Signifie non affecté par le temps, éternel et immuable malgré l'écoulement des années"
+            },
+            "example": "Her beauty is timeless.",
+            "translation": {
+                "ko": "그녀의 아름다움은 영원하다.",
+                "ja": "彼女の美しさは永遠だ",
+                "zh": "她的美貌永恒不变",
+                "fr": "Sa beauté est intemporelle"
+            }
+        },
+        {
+            "word": "worthless",
+            "part_of_speech": "",
+            "origin": "English, worth + -less",
+            "meaning": {
+                "ko": "가치가 없는",
+                "en": "having no value",
+                "ja": "価値がない",
+                "zh": "毫无价值",
+                "fr": "sans valeur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "worth",
+                    "meaning": {
+                        "ko": "'가치'",
+                        "en": "value",
+                        "ja": "価値",
+                        "zh": "价值",
+                        "fr": "valeur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-less",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "without or lacking",
+                        "ja": "~がない",
+                        "zh": "~没有",
+                        "fr": "sans ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아무런 가치가 없는'이라는 뜻입니다.",
+                "en": "Means having no value or worth whatsoever",
+                "ja": "何の価値もないという意味です",
+                "zh": "表示完全没有价值或意义",
+                "fr": "Signifie n'avoir aucune valeur ou utilité"
+            },
+            "example": "The old coins turned out to be worthless.",
+            "translation": {
+                "ko": "그 낡은 동전들은 가치가 없는 것으로 판명되었다.",
+                "ja": "古いコインは価値がないことが判明した。",
+                "zh": "那些旧硬币原来毫无价值。",
+                "fr": "Les vieilles pièces se sont avérées sans valeur."
+            }
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "root_info": {
+        "roots": "sens (experience) insensate, sense, sensation, sensible, sensual",
+        "origin": "Latin, sentire, sensus (to feel, to perceive)",
+        "meaning": {
+            "ko": "느끼다",
+            "en": "to feel",
+            "ja": "感じる",
+            "zh": "感受",
+            "fr": "sentir"
+        }
+    },
+    "words": [
+        {
+            "word": "insensate",
+            "part_of_speech": "",
+            "origin": "Latin, in- (not) + sensatus (endowed with sense)",
+            "meaning": {
+                "ko": "감각이 없는",
+                "en": "lacking sensation or feeling",
+                "ja": "感覚のない",
+                "zh": "无感觉的",
+                "fr": "insensible"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "〜ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens-",
+                    "meaning": {
+                        "ko": "'감각'",
+                        "en": "sense",
+                        "ja": "感覚",
+                        "zh": "感觉",
+                        "fr": "sens"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감각이나 감정이 없는'이라는 의미에서 '무감각한', '비정한'이라는 뜻입니다.",
+                "en": "Means lacking sensation or feeling; describes someone or something emotionally cold or cruel",
+                "ja": "感覚や感情がない意味で、無感覚な、冷酷なという意味です",
+                "zh": "表示缺乏感觉或感情；描述冷漠或残忍的状态",
+                "fr": "Signifie manquer de sensation ou de sentiment; décrit quelque chose d'émotionnellement froid ou cruel"
+            },
+            "example": "It was an act of insensate cruelty.",
+            "translation": {
+                "ko": "그것은 비정한 잔혹 행위였다.",
+                "ja": "それは無感覚な残酷な行為でした",
+                "zh": "这是一种无感觉的残忍行为",
+                "fr": "C'était un acte de cruauté insensée"
+            }
+        },
+        {
+            "word": "sense",
+            "part_of_speech": "",
+            "origin": "Latin, sensus (feeling, perception)",
+            "meaning": {
+                "ko": "느낌, 지각",
+                "en": "feeling, perception",
+                "ja": "感覚、知覚",
+                "zh": "感觉、知觉",
+                "fr": "sensation, perception"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens-",
+                    "meaning": {
+                        "ko": "'느끼다'",
+                        "en": "to feel",
+                        "ja": "感じる",
+                        "zh": "感受",
+                        "fr": "sentir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보고 듣고 느끼는' '감각' 또는 '분별력', '의미'를 뜻합니다.",
+                "en": "Means 'sensation' or 'perception' that is seen, heard, and felt; also means 'discernment' or 'meaning'.",
+                "ja": "見て、聞いて、感じる『感覚』または『分別力』『意味』を意味します。",
+                "zh": "指看到、听到、感受到的『感觉』或『分辨力』『意义』。",
+                "fr": "Signifie la 'sensation' ou la 'perception' qu'on voit, entend et ressent; aussi 'discernement' ou 'signification'."
+            },
+            "example": "Dogs have a keen sense of smell.",
+            "translation": {
+                "ko": "개는 후각이 예민하다.",
+                "ja": "犬は優れた嗅覚を持っている。",
+                "zh": "狗有敏锐的嗅觉。",
+                "fr": "Les chiens ont un odorat très développé."
+            }
+        },
+        {
+            "word": "sensation",
+            "part_of_speech": "",
+            "origin": "Latin, sensatio (perception)",
+            "meaning": {
+                "ko": "지각",
+                "en": "perception or sense perception",
+                "ja": "感覚、知覚",
+                "zh": "感觉、知觉",
+                "fr": "sensation, perception"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens-",
+                    "meaning": {
+                        "ko": "'느끼다'",
+                        "en": "to feel",
+                        "ja": "感じる",
+                        "zh": "感受、感觉",
+                        "fr": "ressentir, sentir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감각을 통해 느끼는 것'인 '느낌', '감각' 또는 '대사건', '선풍'을 뜻합니다.",
+                "en": "It means 'feeling' or 'sense' perceived through the senses, or a major event or sensation.",
+                "ja": "感覚を通じて感じる『感じ』『感覚』、または『大事件』『話題』を意味します。",
+                "zh": "指通过感官感受到的'感觉'或'知觉'，也指'重大事件'或'轰动'。",
+                "fr": "Signifie 'sensation' ou 'perception' ressentie par les sens, ou un événement majeur ou un engouement."
+            },
+            "example": "I had a strange sensation in my arm.",
+            "translation": {
+                "ko": "나는 팔에 이상한 감각을 느꼈다.",
+                "ja": "腕に奇妙な感覚を感じました。",
+                "zh": "我的手臂有一种奇怪的感觉。",
+                "fr": "J'ai ressenti une sensation étrange dans mon bras."
+            }
+        },
+        {
+            "word": "sensible",
+            "part_of_speech": "",
+            "origin": "Latin, sensibilis (perceptible by the senses)",
+            "meaning": {
+                "ko": "감각으로 인지할 수 있는",
+                "en": "perceivable by the senses",
+                "ja": "感覚で認識できる",
+                "zh": "能通过感官感知的",
+                "fr": "perceptible aux sens"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens-",
+                    "meaning": {
+                        "ko": "'느끼다, 분별하다'",
+                        "en": "to feel, perceive",
+                        "ja": "感じる、知覚する",
+                        "zh": "感受、感知",
+                        "fr": "sentir, percevoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'분별력이 있는'이라는 의미에서 '합리적인', '현명한'이라는 뜻입니다.",
+                "en": "From the meaning of 'having discernment', it means 'rational', 'wise'",
+                "ja": "分別がある意味から、合理的、賢明という意味です",
+                "zh": "从有分别力的含义，表示合理的、明智的",
+                "fr": "Du sens de 'avoir du jugement', cela signifie 'rationnel', 'sage'"
+            },
+            "example": "That was a very sensible decision.",
+            "translation": {
+                "ko": "그것은 매우 현명한 결정이었다.",
+                "ja": "それは非常に賢明な決断でした",
+                "zh": "那是一个非常明智的决定",
+                "fr": "C'était une décision très sensée"
+            }
+        },
+        {
+            "word": "sensual",
+            "part_of_speech": "",
+            "origin": "Latin, sensualis (endowed with feeling)",
+            "meaning": {
+                "ko": "느낌이 부여된",
+                "en": "endowed with feeling",
+                "ja": "官能的な",
+                "zh": "感官的",
+                "fr": "sensuel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sens-",
+                    "meaning": {
+                        "ko": "'감각'",
+                        "en": "sense",
+                        "ja": "感覚",
+                        "zh": "感觉",
+                        "fr": "sens"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'육체적 감각, 특히 성적인 쾌락과 관련된'이라는 의미에서 '관능적인'이라는 뜻입니다.",
+                "en": "Related to physical sensations, especially sexual pleasure",
+                "ja": "肉体的感覚、特に性的快感に関連する",
+                "zh": "与身体感觉有关，尤其是性快感",
+                "fr": "Relatif aux sensations physiques, en particulier au plaisir sexuel"
+            },
+            "example": "The painting has a sensual quality.",
+            "translation": {
+                "ko": "그 그림은 관능적인 특성을 가지고 있다.",
+                "ja": "この絵画は官能的な質感を持っています。",
+                "zh": "这幅画具有感官的品质。",
+                "fr": "La peinture a une qualité sensuelle."
+            }
+        }
+    ]
+}

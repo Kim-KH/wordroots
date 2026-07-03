@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "crypt (hidden) crypt, cryptic, encrypt",
+        "origin": "Greek, kryptos (hidden, secret)",
+        "meaning": {
+            "ko": "숨겨진",
+            "en": "hidden",
+            "ja": "隠された",
+            "zh": "隐藏的",
+            "fr": "caché"
+        }
+    },
+    "words": [
+        {
+            "word": "crypt",
+            "part_of_speech": "",
+            "origin": "Greek, kryptē (a vault, hidden place)",
+            "meaning": {
+                "ko": "숨겨진 장소",
+                "en": "hidden place",
+                "ja": "隠された場所",
+                "zh": "隐藏的地方",
+                "fr": "lieu caché"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crypt (kryptos)",
+                    "meaning": {
+                        "ko": "'숨겨진'",
+                        "en": "hidden",
+                        "ja": "隠された",
+                        "zh": "隐藏的",
+                        "fr": "caché"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숨겨진(crypt) 장소'라는 의미에서, 보통 교회 지하에 시신을 안치하는 '지하 묘소'를 뜻합니다.",
+                "en": "A crypt typically refers to an underground burial chamber, usually located beneath a church for entombing the dead.",
+                "ja": "地下墓所、教会の地下に遺体を安置する場所を指します",
+                "zh": "地下墓室，通常位于教堂下方用于埋葬死者",
+                "fr": "Chambre sépulcrale souterraine, généralement sous une église"
+            },
+            "example": "They discovered an ancient crypt beneath the church.",
+            "translation": {
+                "ko": "그들은 교회 아래에서 고대 지하 묘소를 발견했다.",
+                "ja": "彼らは教会の下に古い地下墓所を発見した",
+                "zh": "他们在教堂下面发现了一个古老的地下墓室",
+                "fr": "Ils ont découvert une ancienne crypte sous l'église"
+            }
+        },
+        {
+            "word": "cryptic",
+            "part_of_speech": "",
+            "origin": "Greek, kryptikos (fit for concealing)",
+            "meaning": {
+                "ko": "숨기기에 적합한",
+                "en": "suitable for hiding",
+                "ja": "謎めいた、不可解な",
+                "zh": "神秘的、难解的",
+                "fr": "énigmatique, mystérieux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crypt (kryptos)",
+                    "meaning": {
+                        "ko": "'숨겨진'",
+                        "en": "hidden",
+                        "ja": "隠された",
+                        "zh": "隐藏的",
+                        "fr": "caché"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~의, ~에 관련된'",
+                        "en": "of, related to",
+                        "ja": "~の、~に関連した",
+                        "zh": "~的、~相关的",
+                        "fr": "~de, ~relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "의미가 '숨겨져(crypt) 있는'이라는 의미에서 '수수께끼 같은', '아리송한'이라는 뜻으로 사용됩니다.",
+                "en": "The meaning derives from 'hidden (crypt)' and is used to mean 'enigmatic' or 'obscure'.",
+                "ja": "'隠された(crypt)という意味から'謎めいた'、'曖昧な'という意味で使用されます。",
+                "zh": "源自'隐藏(crypt)'的含义，用来表示'神秘的'、'令人费解的'意思。",
+                "fr": "Le sens provient de 'caché (crypt)' et est utilisé pour signifier 'énigmatique' ou 'obscur'."
+            },
+            "example": "He left a cryptic message before he disappeared.",
+            "translation": {
+                "ko": "그는 사라지기 전에 수수께끼 같은 메시지를 남겼다.",
+                "ja": "彼は消える前に謎めいたメッセージを残した。",
+                "zh": "他在消失前留下了一条神秘的信息。",
+                "fr": "Il a laissé un message énigmatique avant de disparaître."
+            }
+        },
+        {
+            "word": "encrypt",
+            "part_of_speech": "",
+            "origin": "English, en- + crypt",
+            "meaning": {
+                "ko": "숨기다",
+                "en": "to hide or conceal",
+                "ja": "暗号化する",
+                "zh": "加密",
+                "fr": "chiffrer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "'안에 넣다, ~로 만들다'",
+                        "en": "to put into",
+                        "ja": "中に入れる、~にする",
+                        "zh": "放入、变成",
+                        "fr": "mettre dans, rendre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crypt (kryptos)",
+                    "meaning": {
+                        "ko": "'숨겨진'",
+                        "en": "hidden",
+                        "ja": "隠された",
+                        "zh": "隐藏的",
+                        "fr": "caché"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "정보를 '숨겨진(crypt) 상태로 만들다(en-)'는 의미에서, 데이터를 '암호화하다'라는 뜻입니다.",
+                "en": "The word combines 'en-' (to put into) with 'crypt' (hidden), meaning to make data hidden/encrypted",
+                "ja": "情報を'隠された(crypt)状態にする(en-)'という意味で、データを'暗号化する'という意味です",
+                "zh": "结合'en-'(放入)和'crypt'(隐藏)，意思是将数据变为隐密状态",
+                "fr": "Combine 'en-' (mettre dans) avec 'crypt' (caché), signifiant rendre les données cachées/chiffrées"
+            },
+            "example": "You should encrypt sensitive files to protect your privacy.",
+            "translation": {
+                "ko": "사생활을 보호하기 위해 민감한 파일은 암호화해야 합니다.",
+                "ja": "機密ファイルを暗号化して、プライバシーを保護すべきです。",
+                "zh": "你应该加密敏感文件以保护你的隐私。",
+                "fr": "Vous devriez chiffrer les fichiers sensibles pour protéger votre vie privée."
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "vagin (cup) invaginate, vagina, vaginal",
+        "origin": "Latin, vagina (a sheath, a scabbard)",
+        "meaning": {
+            "ko": "칼집",
+            "en": "a sheath",
+            "ja": "鞘",
+            "zh": "鞘",
+            "fr": "fourreau"
+        }
+    },
+    "words": [
+        {
+            "word": "invaginate",
+            "part_of_speech": "",
+            "origin": "Latin, in- (in) + vagina (sheath)",
+            "meaning": {
+                "ko": "칼집 안에",
+                "en": "inside a sheath",
+                "ja": "内側に折り込む",
+                "zh": "向内褶皱",
+                "fr": "invaginer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in",
+                        "ja": "内側に",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vagin-",
+                    "meaning": {
+                        "ko": "'칼집'",
+                        "en": "sheath",
+                        "ja": "鞘",
+                        "zh": "鞘",
+                        "fr": "fourreau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'칼집처럼 안으로 접혀 들어가다'는 의미에서 '(세포 등이) 함입하다'라는 뜻입니다.",
+                "en": "Meaning to fold inward like a sheath; in biology, refers to cells undergoing invagination",
+                "ja": "鞘のように内側に折り込まれることを意味し、生物学では細胞が陥入することを指す",
+                "zh": "像鞘一样向内褶皱，在生物学中指细胞向内陷入",
+                "fr": "Signifie se replier vers l'intérieur comme une gaine; en biologie, désigne l'invagination cellulaire"
+            },
+            "example": "The cell membrane will invaginate to form a vesicle.",
+            "translation": {
+                "ko": "세포막은 함입하여 소포를 형성할 것이다.",
+                "ja": "細胞膜は小胞を形成するために陥入するだろう。",
+                "zh": "细胞膜将向内褶皱形成囊泡。",
+                "fr": "La membrane cellulaire s'invaginera pour former une vésicule."
+            }
+        },
+        {
+            "word": "vagina",
+            "part_of_speech": "",
+            "origin": "Latin, vagina (sheath)",
+            "meaning": {
+                "ko": "칼집",
+                "en": "sheath or scabbard for a sword",
+                "ja": "膣",
+                "zh": "阴道",
+                "fr": "vagin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vagin-",
+                    "meaning": {
+                        "ko": "'칼집'",
+                        "en": "sheath",
+                        "ja": "鞘",
+                        "zh": "鞘",
+                        "fr": "gaine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'칼집처럼 생긴' 여성의 생식 기관인 '질'을 뜻합니다.",
+                "en": "The female reproductive organ shaped like a sheath, meaning 'vagina'.",
+                "ja": "鞘のような形をした女性の生殖器官である膣を意味します。",
+                "zh": "像刀鞘一样的女性生殖器官，意为阴道。",
+                "fr": "L'organe reproducteur féminin en forme de gaine, signifiant le vagin."
+            },
+            "example": "The vagina connects the uterus to the outside of the body.",
+            "translation": {
+                "ko": "질은 자궁과 몸의 외부를 연결한다.",
+                "ja": "膣は子宮を体外につなぐ器官です。",
+                "zh": "阴道将子宫与体外相连接。",
+                "fr": "Le vagin relie l'utérus à l'extérieur du corps."
+            }
+        },
+        {
+            "word": "vaginal",
+            "part_of_speech": "",
+            "origin": "Latin, vagina (sheath)",
+            "meaning": {
+                "ko": "칼집",
+                "en": "sheath or scabbard",
+                "ja": "膣に関する",
+                "zh": "阴道的",
+                "fr": "vaginal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vagin-",
+                    "meaning": {
+                        "ko": "'질'",
+                        "en": "vagina",
+                        "ja": "膣",
+                        "zh": "阴道",
+                        "fr": "vagin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'질의'라는 뜻입니다.",
+                "en": "It means vaginal",
+                "ja": "膣に関連する意味です",
+                "zh": "表示与阴道相关",
+                "fr": "Cela signifie vaginal"
+            },
+            "example": "She has a vaginal infection.",
+            "translation": {
+                "ko": "그녀는 질 감염에 걸렸다.",
+                "ja": "彼女は膣感染症があります",
+                "zh": "她患有阴道感染",
+                "fr": "Elle a une infection vaginale"
+            }
+        }
+    ]
+}

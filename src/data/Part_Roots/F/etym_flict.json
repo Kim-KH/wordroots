@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "flict (strike) afflict, conflict, inflict",
+        "origin": "Latin, fligere (to strike)",
+        "meaning": {
+            "ko": "치다",
+            "en": "to strike",
+            "ja": "打つ",
+            "zh": "打击",
+            "fr": "frapper"
+        }
+    },
+    "words": [
+        {
+            "word": "afflict",
+            "part_of_speech": "",
+            "origin": "Latin, afflictare (to harass, distress)",
+            "meaning": {
+                "ko": "괴롭히다",
+                "en": "to trouble or cause pain",
+                "ja": "苦しめる",
+                "zh": "折磨",
+                "fr": "affliger"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "af- (ad-)",
+                    "meaning": {
+                        "ko": "'~에'",
+                        "en": "to",
+                        "ja": "～に",
+                        "zh": "向",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flict",
+                    "meaning": {
+                        "ko": "'치다'",
+                        "en": "to strike",
+                        "ja": "打つ",
+                        "zh": "打击",
+                        "fr": "frapper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'누군가에게 타격을 주다'는 의미에서 '(정신적, 육체적으로) 괴롭히다'라는 뜻입니다.",
+                "en": "From the meaning 'to strike someone' derives the sense of 'to torment (mentally or physically)'",
+                "ja": "『誰かに打撃を与える』という意味から『(精神的、肉体的に)苦しめる』という意味が生じた",
+                "zh": "'向某人打击'的含义引申出'(精神上、身体上)折磨'的意思",
+                "fr": "Du sens 'frapper quelqu'un' dérive le sens 'tourmenter (mentalement ou physiquement)'"
+            },
+            "example": "The country has been afflicted by famine.",
+            "translation": {
+                "ko": "그 나라는 기근으로 고통받고 있다.",
+                "ja": "その国は飢饉に苦しめられている。",
+                "zh": "这个国家受到饥荒的折磨。",
+                "fr": "Le pays a été affligé par la famine."
+            }
+        },
+        {
+            "word": "conflict",
+            "part_of_speech": "",
+            "origin": "Latin, conflictus (a striking together)",
+            "meaning": {
+                "ko": "함께 치기",
+                "en": "to strike together",
+                "ja": "衝突、対立",
+                "zh": "冲突、对立",
+                "fr": "conflit, opposition"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flict",
+                    "meaning": {
+                        "ko": "'치다'",
+                        "en": "to strike",
+                        "ja": "打つ、ぶつかる",
+                        "zh": "打击、碰撞",
+                        "fr": "frapper, heurter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 함께 부딪혀 치고받는 상황'이라는 의미에서 '갈등', '충돌'을 뜻합니다.",
+                "en": "Means conflict or collision in the sense of mutual clash and confrontation",
+                "ja": "相互に衝突し、対立する状況を意味する",
+                "zh": "表示相互冲突、对抗的情况",
+                "fr": "Signifie conflit ou collision dans le sens d'un choc mutuel"
+            },
+            "example": "There is a conflict of interest.",
+            "translation": {
+                "ko": "이해관계의 충돌이 있다.",
+                "ja": "利益相反がある",
+                "zh": "存在利益冲突",
+                "fr": "Il y a conflit d'intérêts"
+            }
+        },
+        {
+            "word": "inflict",
+            "part_of_speech": "",
+            "origin": "Latin, infligere (to strike on or against)",
+            "meaning": {
+                "ko": "~에 대항하여 치다",
+                "en": "to strike against",
+                "ja": "苦しみや損害を与える",
+                "zh": "造成痛苦或伤害",
+                "fr": "infliger souffrance ou dommage"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안에, 위에'",
+                        "en": "on",
+                        "ja": "上に、~に対して",
+                        "zh": "在...上，对...而言",
+                        "fr": "sur, contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flict",
+                    "meaning": {
+                        "ko": "'치다'",
+                        "en": "to strike",
+                        "ja": "打つ、与える",
+                        "zh": "打击、施加",
+                        "fr": "frapper, infliger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'누군가에게 고통이나 피해를 가하다'는 의미입니다.",
+                "en": "To cause pain or harm to someone",
+                "ja": "誰かに苦痛や損害を与えることを意味します",
+                "zh": "向某人造成痛苦或伤害的意思",
+                "fr": "Signifie causer de la souffrance ou des dommages à quelqu'un"
+            },
+            "example": "He inflicted a serious injury on his opponent.",
+            "translation": {
+                "ko": "그는 상대에게 심각한 부상을 입혔다.",
+                "ja": "彼は相手に深刻な怪我を負わせた。",
+                "zh": "他对对手造成了严重的伤害。",
+                "fr": "Il a infligé une blessure grave à son adversaire."
+            }
+        }
+    ]
+}

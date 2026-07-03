@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "wise (direction, regarding) clockwise, otherwise",
+        "origin": "Old English, -wis (manner, way)",
+        "meaning": {
+            "ko": "방향, 방식",
+            "en": "direction, regarding",
+            "ja": "方向、方法",
+            "zh": "方向、方式",
+            "fr": "direction, manière"
+        }
+    },
+    "words": [
+        {
+            "word": "clockwise",
+            "part_of_speech": "",
+            "origin": "English, clock + -wise",
+            "meaning": {
+                "ko": "시계 방향으로",
+                "en": "in the direction of clock hands",
+                "ja": "時計回りに",
+                "zh": "顺时针方向",
+                "fr": "dans le sens des aiguilles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clock",
+                    "meaning": {
+                        "ko": "'시계'",
+                        "en": "clock",
+                        "ja": "時計",
+                        "zh": "时钟",
+                        "fr": "horloge"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-wise",
+                    "meaning": {
+                        "ko": "'~방향으로'",
+                        "en": "in the direction of",
+                        "ja": "方向に",
+                        "zh": "方向地",
+                        "fr": "dans la direction de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시계 바늘이 도는 방향으로'라는 뜻입니다.",
+                "en": "Means in the direction that clock hands move",
+                "ja": "時計の針が回る方向という意味です",
+                "zh": "表示时钟指针转动的方向",
+                "fr": "Signifie dans la direction où tournent les aiguilles"
+            },
+            "example": "Turn the knob clockwise to tighten it.",
+            "translation": {
+                "ko": "그것을 조이려면 손잡이를 시계 방향으로 돌리세요.",
+                "ja": "ノブを時計回りに回して締めてください。",
+                "zh": "顺时针转动旋钮来拧紧它。",
+                "fr": "Tournez le bouton dans le sens des aiguilles pour le serrer."
+            }
+        },
+        {
+            "word": "otherwise",
+            "part_of_speech": "",
+            "origin": "English, other + -wise",
+            "meaning": {
+                "ko": "다른 방식으로",
+                "en": "in a different manner or way",
+                "ja": "別の方法で、さもなければ",
+                "zh": "不同的方式，否则",
+                "fr": "autrement, sinon"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "other",
+                    "meaning": {
+                        "ko": "'다른'",
+                        "en": "different",
+                        "ja": "異なる",
+                        "zh": "不同的",
+                        "fr": "différent"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-wise",
+                    "meaning": {
+                        "ko": "'~방식으로'",
+                        "en": "in the manner of",
+                        "ja": "方法で、様式で",
+                        "zh": "方式，方法",
+                        "fr": "de manière, façon"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 방식으로' 또는 '그렇지 않으면'이라는 뜻입니다.",
+                "en": "Means 'in a different way' or 'if not'",
+                "ja": "異なる方法で、またはそうでなければという意味です",
+                "zh": "意思是以不同的方式或否则",
+                "fr": "Signifie d'une autre manière ou sinon"
+            },
+            "example": "You must study hard, otherwise you will fail the exam.",
+            "translation": {
+                "ko": "당신은 열심히 공부해야 한다, 그렇지 않으면 시험에 떨어질 것이다.",
+                "ja": "勉強しなければならない。さもなければ試験に落ちるでしょう。",
+                "zh": "你必须努力学习，否则你会考试不及格。",
+                "fr": "Vous devez étudier dur, sinon vous échouerez l'examen."
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "velo (swift) velocity, velocipede, velociraptor",
+        "origin": "Latin, velox (swift)",
+        "meaning": {
+            "ko": "빠른",
+            "en": "swift",
+            "ja": "素早い",
+            "zh": "迅速的",
+            "fr": "rapide"
+        }
+    },
+    "words": [
+        {
+            "word": "velocity",
+            "part_of_speech": "",
+            "origin": "Latin, velocitas (swiftness)",
+            "meaning": {
+                "ko": "빠름",
+                "en": "quickness, fastness",
+                "ja": "速さと方向",
+                "zh": "速度和方向",
+                "fr": "rapidité avec direction"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "velo-",
+                    "meaning": {
+                        "ko": "'빠른'",
+                        "en": "swift",
+                        "ja": "速い",
+                        "zh": "迅速的",
+                        "fr": "rapide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'방향을 가진 빠르기'인 '속도'를 뜻합니다.",
+                "en": "Velocity means speed with direction",
+                "ja": "速度とは、方向を持つ速さのことです",
+                "zh": "速度是指具有方向的快速程度",
+                "fr": "La vélocité désigne la rapidité avec une direction"
+            },
+            "example": "The velocity of light is approximately 300,000 kilometers per second.",
+            "translation": {
+                "ko": "빛의 속도는 초당 약 30만 킬로미터이다.",
+                "ja": "光の速度は毎秒約30万キロメートルです",
+                "zh": "光的速度约为每秒300000公里",
+                "fr": "La vélocité de la lumière est d'environ 300000 kilomètres par seconde"
+            }
+        },
+        {
+            "word": "velocipede",
+            "part_of_speech": "",
+            "origin": "Latin, velox (swift) + pes (foot)",
+            "meaning": {
+                "ko": "빠른 발",
+                "en": "fast feet",
+                "ja": "速い足",
+                "zh": "快速的脚",
+                "fr": "pied rapide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "veloci-",
+                    "meaning": {
+                        "ko": "'빠른'",
+                        "en": "swift",
+                        "ja": "速い",
+                        "zh": "迅速的",
+                        "fr": "rapide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pede",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발로 빨리 가게 하는' 초창기 자전거를 뜻하는 옛말입니다.",
+                "en": "An archaic term for an early bicycle that propelled by foot power.",
+                "ja": "足で素早く動かす初期の自転車を意味する古い言葉です。",
+                "zh": "用脚快速驱动的早期自行车的旧词汇。",
+                "fr": "Un terme archaïque pour un vélo ancien propulsé par la force des pieds."
+            },
+            "example": "The velocipede was an early form of the bicycle.",
+            "translation": {
+                "ko": "벨로시피드는 자전거의 초기 형태였다.",
+                "ja": "ベロシペード",
+                "zh": "速行车",
+                "fr": "vélocipède"
+            }
+        },
+        {
+            "word": "velociraptor",
+            "part_of_speech": "",
+            "origin": "Latin, velox (swift) + raptor (robber, plunderer)",
+            "meaning": {
+                "ko": "빠른 약탈자",
+                "en": "swift predator",
+                "ja": "素早い捕食者",
+                "zh": "迅速的掠食者",
+                "fr": "prédateur rapide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "veloci-",
+                    "meaning": {
+                        "ko": "'빠른'",
+                        "en": "swift",
+                        "ja": "素早い",
+                        "zh": "迅速的",
+                        "fr": "rapide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "raptor",
+                    "meaning": {
+                        "ko": "'약탈자'",
+                        "en": "predator",
+                        "ja": "捕食者",
+                        "zh": "掠食者",
+                        "fr": "prédateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빠르게 움직이는 약탈자'라는 의미의 육식 공룡입니다.",
+                "en": "A carnivorous dinosaur meaning 'fast-moving predator'",
+                "ja": "素早く動く捕食者という意味の肉食恐竜です",
+                "zh": "意为快速移动的掠食者的肉食恐龙",
+                "fr": "Un dinosaure carnivore signifiant 'prédateur qui se déplace rapidement'"
+            },
+            "example": "The velociraptor was a small, fast-moving dinosaur.",
+            "translation": {
+                "ko": "벨로시랩터는 작고 빠르게 움직이는 공룡이었다.",
+                "ja": "ヴェロキラプトル",
+                "zh": "迅猛龙",
+                "fr": "vélociraptor"
+            }
+        }
+    ]
+}

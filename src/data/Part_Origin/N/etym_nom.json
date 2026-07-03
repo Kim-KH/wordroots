@@ -1,0 +1,57 @@
+{
+    "root_info": {
+        "roots": "nom, nym: name",
+        "origin": "Latin, nomen & Greek, onoma",
+        "meaning": {
+            "ko": "이름",
+            "en": "name",
+            "ja": "名前",
+            "zh": "名字",
+            "fr": "nom"
+        }
+    },
+    "words": [
+        {
+            "word": "nomenclature",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nom (nomen)",
+                    "meaning": {
+                        "ko": "이름",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "calare",
+                    "meaning": {
+                        "ko": "부르다",
+                        "en": "to call",
+                        "ja": "呼ぶ",
+                        "zh": "称呼",
+                        "fr": "appeler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이름을 부르는 체계'라는 의미로, 학술 분야 등에서 사용되는 '명명법'을 뜻합니다.",
+                "en": "A system of naming; refers to 'nomenclature' used in academic fields to name things systematically.",
+                "ja": "名前を呼ぶ体系という意味で、学術分野などで使用される『命名法』を指します。",
+                "zh": "'命名体系'的意思，指在学术领域等使用的'命名法'。",
+                "fr": "Un système de nomination; désigne la 'nomenclature' utilisée dans les domaines académiques pour nommer les choses systématiquement."
+            },
+            "example": "Biology uses a specific nomenclature for species.",
+            "translation": {
+                "ko": "생물학은 종에 대해 특정한 명명법을 사용한다.",
+                "ja": "生物学は種に対して特定の命名法を使用している。",
+                "zh": "生物学对物种使用特定的命名法。",
+                "fr": "La biologie utilise une nomenclature spécifique pour les espèces."
+            }
+        }
+    ]
+}

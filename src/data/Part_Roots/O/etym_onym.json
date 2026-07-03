@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "onym (name) anonymous, acronym, pseudonym",
+        "origin": "Greek, onyma (name)",
+        "meaning": {
+            "ko": "이름",
+            "en": "name",
+            "ja": "名前",
+            "zh": "名字",
+            "fr": "nom"
+        }
+    },
+    "words": [
+        {
+            "word": "anonymous",
+            "part_of_speech": "",
+            "origin": "Greek, an- (without) + onyma (name)",
+            "meaning": {
+                "ko": "이름 없이",
+                "en": "without a name",
+                "ja": "名前のない",
+                "zh": "无名的",
+                "fr": "sans nom"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "an-",
+                    "meaning": {
+                        "ko": "'~없이'",
+                        "en": "without",
+                        "ja": "~なしに",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "onym-",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이름이 없는'이라는 의미에서 '익명의'라는 뜻입니다.",
+                "en": "From the meaning 'without name', it means 'anonymous'",
+                "ja": "'名前がない'という意味から'匿名の'という意味です",
+                "zh": "从'没有名字'的含义引申为'匿名的'意思",
+                "fr": "Du sens 'sans nom', cela signifie 'anonyme'"
+            },
+            "example": "An anonymous donor gave a large sum of money to the charity.",
+            "translation": {
+                "ko": "익명의 기부자가 자선 단체에 거액을 기부했다.",
+                "ja": "匿名の寄付者が慈善団体に多額の寄付をした。",
+                "zh": "一位匿名捐赠者向慈善机构捐赠了一大笔钱。",
+                "fr": "Un donateur anonyme a fait un don important à l'organisation caritative."
+            }
+        },
+        {
+            "word": "acronym",
+            "part_of_speech": "",
+            "origin": "Greek, akron (end, tip) + onyma (name)",
+            "meaning": {
+                "ko": "끝 이름",
+                "en": "last name",
+                "ja": "頭字語",
+                "zh": "首字母缩写词",
+                "fr": "acronyme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "acr-",
+                    "meaning": {
+                        "ko": "'끝, 처음'",
+                        "en": "end, beginning",
+                        "ja": "終わり、始まり",
+                        "zh": "结束、开始",
+                        "fr": "fin, commencement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "onym",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名称",
+                        "fr": "nom"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 단어의 첫 글자를 따서 만든 이름'인 '두문자어'를 뜻합니다. (예: NASA)",
+                "en": "Refers to an abbreviation formed by taking the first letters of multiple words (e.g., NASA)",
+                "ja": "複数の単語の最初の文字を組み合わせた略語を意味します（例：NASA）",
+                "zh": "指由多个单词的首字母组合而成的缩略词（例如：NASA）",
+                "fr": "Désigne une abréviation formée par les initiales de plusieurs mots (ex : NASA)"
+            },
+            "example": "\"NASA\" is an acronym for \"National Aeronautics and Space Administration\".",
+            "translation": {
+                "ko": "\"NASA\"는 \"미국 항공 우주국\"의 두문자어이다.",
+                "ja": "頭字語",
+                "zh": "首字母缩写词",
+                "fr": "acronyme"
+            }
+        },
+        {
+            "word": "pseudonym",
+            "part_of_speech": "",
+            "origin": "Greek, pseudes (false) + onyma (name)",
+            "meaning": {
+                "ko": "거짓 이름",
+                "en": "false name",
+                "ja": "偽りの名前",
+                "zh": "假名字",
+                "fr": "faux nom"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pseudo-",
+                    "meaning": {
+                        "ko": "'거짓의'",
+                        "en": "false",
+                        "ja": "偽りの",
+                        "zh": "虚假的",
+                        "fr": "faux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nym",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'거짓으로 사용하는 이름'이라는 의미에서 작가 등이 본명 대신 사용하는 '필명', '가명'을 뜻합니다.",
+                "en": "A false name used by writers and others instead of their real name; refers to a pen name or alias.",
+                "ja": "作家などが本名の代わりに使う偽りの名前。ペンネームや仮名を意味します。",
+                "zh": "作家等用来代替真名的假名字；指笔名或化名。",
+                "fr": "Un faux nom utilisé par les écrivains et autres à la place de leur vrai nom ; désigne un nom de plume ou un alias."
+            },
+            "example": "George Eliot was the pseudonym of Mary Ann Evans.",
+            "translation": {
+                "ko": "조지 엘리엇은 메리 앤 에번스의 필명이었다.",
+                "ja": "ジョージ・エリオットはメアリー・アン・エヴァンスのペンネームでした。",
+                "zh": "乔治·艾略特是玛丽·安·埃文斯的笔名。",
+                "fr": "George Eliot était le pseudonyme de Mary Ann Evans."
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "posi (place) deposit, imposition, position, positive",
+        "origin": "Latin, ponere, positus (to put, place)",
+        "meaning": {
+            "ko": "놓다, 두다",
+            "en": "to put, to place",
+            "ja": "置く、置く",
+            "zh": "放置、放置",
+            "fr": "mettre, placer"
+        }
+    },
+    "words": [
+        {
+            "word": "deposit",
+            "part_of_speech": "",
+            "origin": "Latin, deponere (to put down)",
+            "meaning": {
+                "ko": "아래에 놓다",
+                "en": "to place below",
+                "ja": "預金、保証金",
+                "zh": "存款、保证金",
+                "fr": "dépôt, versement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'아래에'",
+                        "en": "down",
+                        "ja": "下に",
+                        "zh": "下方",
+                        "fr": "vers le bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "posit",
+                    "meaning": {
+                        "ko": "'놓다'",
+                        "en": "to place",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아래에 내려놓는 것'이라는 의미에서 '계약금', '보증금' 또는 '예금하다'라는 뜻이 되었습니다.",
+                "en": "Originally meant 'placing something down', evolved to mean 'down payment', 'security deposit', or 'to deposit money'",
+                "ja": "もともと『下に置く』という意味から、『頭金』『保証金』または『預金する』という意味に発展しました",
+                "zh": "从'向下放置'的含义演变为'定金''保证金'或'存款'的含义",
+                "fr": "Originellement 'placer vers le bas', devenu 'acompte', 'caution' ou 'faire un dépôt'"
+            },
+            "example": "I need to make a deposit at the bank.",
+            "translation": {
+                "ko": "나는 은행에 예금을 해야 한다.",
+                "ja": "銀行に預金する必要があります",
+                "zh": "我需要在银行存款",
+                "fr": "Je dois faire un dépôt à la banque"
+            }
+        },
+        {
+            "word": "imposition",
+            "part_of_speech": "",
+            "origin": "Latin, imponere (to place upon)",
+            "meaning": {
+                "ko": "위에 놓다",
+                "en": "to place on top",
+                "ja": "課せられた負担",
+                "zh": "强加的负担",
+                "fr": "charge imposée"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "'위에'",
+                        "en": "on",
+                        "ja": "上に",
+                        "zh": "在上面",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "posit",
+                    "meaning": {
+                        "ko": "'놓다'",
+                        "en": "to place",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람 위에 놓는 부담'이라는 의미에서 '(부담스러운) 부과', '부담'을 뜻합니다.",
+                "en": "Implies a burden placed on someone, meaning an unfair or unwelcome demand or tax",
+                "ja": "他人に課せられた不当な負担や税金を意味します",
+                "zh": "指加在他人身上的不公正的负担或税收",
+                "fr": "Signifie une charge injuste ou une taxe imposée à quelqu'un"
+            },
+            "example": "The new tax was an unfair imposition on the poor.",
+            "translation": {
+                "ko": "새로운 세금은 가난한 사람들에게 불공평한 부담이었다.",
+                "ja": "その新しい税金は貧困層への不公正な課税だった。",
+                "zh": "这项新税收是对穷人的不公正负担。",
+                "fr": "Le nouvel impôt était une charge injuste pour les pauvres."
+            }
+        },
+        {
+            "word": "position",
+            "part_of_speech": "",
+            "origin": "Latin, positio (a placing)",
+            "meaning": {
+                "ko": "놓음",
+                "en": "placing or putting",
+                "ja": "位置、姿勢、職位",
+                "zh": "位置、姿态、职位",
+                "fr": "position, posture, poste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "posit-",
+                    "meaning": {
+                        "ko": "'놓다'",
+                        "en": "to place",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것이 놓여 있는 곳'이라는 의미에서 '위치', '자세', '직책'을 뜻합니다.",
+                "en": "Derived from the meaning of 'a place where something is positioned', it refers to location, posture, or official position.",
+                "ja": "何かが置かれている場所という意味から、位置、姿勢、職位を意味します。",
+                "zh": "从'某物被放置的地方'的含义衍生，表示位置、姿态或职位。",
+                "fr": "Dérivé du sens 'un endroit où quelque chose est placé', il désigne la localisation, la posture ou le poste officiel."
+            },
+            "example": "Please show me your position on the map.",
+            "translation": {
+                "ko": "지도에서 당신의 위치를 보여주세요.",
+                "ja": "地図上のあなたの位置を教えてください。",
+                "zh": "请告诉我你在地图上的位置。",
+                "fr": "Veuillez me montrer votre position sur la carte."
+            }
+        },
+        {
+            "word": "positive",
+            "part_of_speech": "",
+            "origin": "Latin, positivus (settled by agreement, formal)",
+            "meaning": {
+                "ko": "정해진",
+                "en": "fixed or determined",
+                "ja": "肯定的な、明確な",
+                "zh": "明确的、积极的",
+                "fr": "positif, affirmatif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "posit-",
+                    "meaning": {
+                        "ko": "'놓다, 정하다'",
+                        "en": "to place, fix",
+                        "ja": "置く、定める",
+                        "zh": "放置、确定",
+                        "fr": "placer, fixer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'명확하게 정해진'이라는 의미에서 '확신하는', '긍정적인'이라는 뜻이 되었습니다.",
+                "en": "From the sense of 'clearly fixed or determined', it came to mean 'confident' or 'optimistic'",
+                "ja": "'明確に定められた'という意味から、'確信している'、'肯定的な'という意味へ変わりました",
+                "zh": "从'明确地确定'的含义演变为'自信的'、'乐观的'的意思",
+                "fr": "Du sens de 'clairement établi', il a évolué vers le sens de 'confiant' ou 'optimiste'"
+            },
+            "example": "She has a positive attitude towards her work.",
+            "translation": {
+                "ko": "그녀는 자신의 일에 대해 긍정적인 태도를 가지고 있다.",
+                "ja": "彼女は仕事に対して肯定的な態度を持っています",
+                "zh": "她对工作持有积极的态度",
+                "fr": "Elle a une attitude positive envers son travail"
+            }
+        }
+    ]
+}

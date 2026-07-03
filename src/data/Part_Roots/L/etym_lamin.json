@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "lamin (layer) laminar, laminate",
+        "origin": "Latin, lamina (thin plate, layer)",
+        "meaning": {
+            "ko": "층",
+            "en": "layer",
+            "ja": "層",
+            "zh": "层",
+            "fr": "couche"
+        }
+    },
+    "words": [
+        {
+            "word": "laminar",
+            "part_of_speech": "",
+            "origin": "Latin, lamina (layer)",
+            "meaning": {
+                "ko": "층",
+                "en": "layer",
+                "ja": "層状の",
+                "zh": "层状的",
+                "fr": "laminaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lamin-",
+                    "meaning": {
+                        "ko": "'층'",
+                        "en": "layer",
+                        "ja": "層",
+                        "zh": "层",
+                        "fr": "couche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'얇은 층으로 이루어진'이라는 뜻입니다.",
+                "en": "Means composed of thin layers",
+                "ja": "薄い層で構成される意味です",
+                "zh": "由薄层组成的意思",
+                "fr": "Signifie composé de couches minces"
+            },
+            "example": "Laminar flow is the smooth, orderly movement of a fluid.",
+            "translation": {
+                "ko": "층류는 유체의 부드럽고 질서 있는 움직임이다.",
+                "ja": "層流は流体の滑らかで秩序ある動きです",
+                "zh": "层流是流体光滑而有序的运动",
+                "fr": "L'écoulement laminaire est le mouvement fluide lisse et ordonné"
+            }
+        },
+        {
+            "word": "laminate",
+            "part_of_speech": "",
+            "origin": "Latin, lamina (layer)",
+            "meaning": {
+                "ko": "층",
+                "en": "layer",
+                "ja": "層を重ねる",
+                "zh": "层压",
+                "fr": "stratifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lamin-",
+                    "meaning": {
+                        "ko": "'층'",
+                        "en": "layer",
+                        "ja": "層",
+                        "zh": "层",
+                        "fr": "couche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 얇은 층을 겹쳐 붙이다'는 의미에서 '합판으로 만들다', '코팅하다'라는 뜻입니다. 명사로는 '합판', '코팅한 제품'을 뜻합니다.",
+                "en": "Meaning to bond multiple thin layers together, used as 'make plywood' or 'coat'. As a noun, refers to 'plywood' or 'coated product'.",
+                "ja": "複数の薄い層を重ねて貼り付けることから、合板を作る、コーティングするという意味。名詞では合板、コーティング製品を指す。",
+                "zh": "从将多个薄层粘合在一起的意义上，表示制作胶合板、涂覆。作为名词，指胶合板或涂覆产品。",
+                "fr": "Signifie coller plusieurs couches minces ensemble, utilisé comme 'fabriquer du contreplaqué' ou 'revêtir'. En tant que nom, désigne 'contreplaqué' ou 'produit revêtu'."
+            },
+            "example": "You should laminate your ID card to protect it.",
+            "translation": {
+                "ko": "당신의 신분증을 보호하기 위해 코팅해야 한다.",
+                "ja": "あなたはIDカードを保護するためにラミネート加工すべきです。",
+                "zh": "你应该对身份证进行层压以保护它。",
+                "fr": "Vous devriez stratifier votre carte d'identité pour la protéger."
+            }
+        }
+    ]
+}

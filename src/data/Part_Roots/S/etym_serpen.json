@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "serpen (crawling) serpent, serpentarium, serpentine",
+        "origin": "Latin, serpere (to creep, to crawl)",
+        "meaning": {
+            "ko": "기어가다",
+            "en": "to crawl",
+            "ja": "はう",
+            "zh": "爬行",
+            "fr": "ramper"
+        }
+    },
+    "words": [
+        {
+            "word": "serpent",
+            "part_of_speech": "",
+            "origin": "Latin, serpens (a creeping thing)",
+            "meaning": {
+                "ko": "기어가는 것",
+                "en": "a creeping thing",
+                "ja": "這う生き物",
+                "zh": "爬行的生物",
+                "fr": "créature qui rampe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "serp-",
+                    "meaning": {
+                        "ko": "'기어가다'",
+                        "en": "to creep",
+                        "ja": "這う",
+                        "zh": "爬行",
+                        "fr": "ramper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기어 다니는 동물'이라는 의미에서 '뱀' (특히 큰 뱀)을 뜻합니다.",
+                "en": "Refers to a snake (especially a large snake) from the meaning of a crawling animal",
+                "ja": "這い回る動物という意味からヘビ(特に大きなヘビ)を指します",
+                "zh": "从爬行动物的含义中指蛇(尤其是大蛇)",
+                "fr": "Désigne un serpent (particulièrement un grand serpent) du sens d'un animal rampant"
+            },
+            "example": "The serpent slithered through the grass.",
+            "translation": {
+                "ko": "그 뱀은 풀밭을 스르르 기어갔다.",
+                "ja": "蛇はくさむらを這って進んだ。",
+                "zh": "蛇在草丛中爬行。",
+                "fr": "Le serpent se glissait dans l'herbe."
+            }
+        },
+        {
+            "word": "serpentarium",
+            "part_of_speech": "",
+            "origin": "Latin, serpens (serpent) + -arium (a place for)",
+            "meaning": {
+                "ko": "뱀을 위한 장소",
+                "en": "place for snakes",
+                "ja": "蛇のための場所",
+                "zh": "蛇的场所",
+                "fr": "lieu pour les serpents"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "serpent-",
+                    "meaning": {
+                        "ko": "'뱀'",
+                        "en": "serpent",
+                        "ja": "蛇",
+                        "zh": "蛇",
+                        "fr": "serpent"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-arium",
+                    "meaning": {
+                        "ko": "'~하는 곳'",
+                        "en": "place where",
+                        "ja": "~する場所",
+                        "zh": "~的地方",
+                        "fr": "lieu de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뱀을 사육하고 전시하는 장소'를 뜻합니다.",
+                "en": "A place where snakes are bred and displayed",
+                "ja": "蛇を飼育し展示する場所",
+                "zh": "饲养和展示蛇的地方",
+                "fr": "Lieu d'élevage et d'exposition des serpents"
+            },
+            "example": "We visited the serpentarium at the zoo.",
+            "translation": {
+                "ko": "우리는 동물원의 뱀 사육장을 방문했다.",
+                "ja": "動物園の蛇舎を訪れました",
+                "zh": "我们参观了动物园的蛇馆",
+                "fr": "Nous avons visité la serpenterie du zoo"
+            }
+        },
+        {
+            "word": "serpentine",
+            "part_of_speech": "",
+            "origin": "Latin, serpentinus (like a serpent)",
+            "meaning": {
+                "ko": "뱀 같은",
+                "en": "resembling a snake",
+                "ja": "蛇のような",
+                "zh": "蛇形的",
+                "fr": "sinueux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "serpent-",
+                    "meaning": {
+                        "ko": "'뱀'",
+                        "en": "serpent",
+                        "ja": "蛇",
+                        "zh": "蛇",
+                        "fr": "serpent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뱀처럼 구불구불한'이라는 뜻입니다.",
+                "en": "Means winding and twisting like a snake",
+                "ja": "蛇のようにくねくねした意味です",
+                "zh": "意思是像蛇一样蜿蜒曲折的",
+                "fr": "Signifie sinueux et tortueux comme un serpent"
+            },
+            "example": "The car drove along the serpentine mountain road.",
+            "translation": {
+                "ko": "그 차는 구불구불한 산길을 따라 달렸다.",
+                "ja": "車は蛇行する山道を走った。",
+                "zh": "汽车沿着蜿蜒的山路行驶。",
+                "fr": "La voiture roulait sur la route de montagne sinueuse."
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "syllab (take together) syllable, syllabic, syllabus",
+        "origin": "Greek, syllabe (that which is held together)",
+        "meaning": {
+            "ko": "함께 잡는 것",
+            "en": "that which is held together",
+            "ja": "一緒に保たれるもの",
+            "zh": "共同保持的东西",
+            "fr": "ce qui est tenu ensemble"
+        }
+    },
+    "words": [
+        {
+            "word": "syllable",
+            "part_of_speech": "",
+            "origin": "Greek, syllabe",
+            "meaning": {
+                "ko": "함께 잡는 것",
+                "en": "to grasp together",
+                "ja": "音を一緒に束ねた単位",
+                "zh": "把声音一起束缚的单位",
+                "fr": "unité de sons groupés ensemble"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "syl- (syn-)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lab- (lambanein)",
+                    "meaning": {
+                        "ko": "'잡다'",
+                        "en": "to take",
+                        "ja": "つかむ",
+                        "zh": "抓住",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리를 함께 잡아 묶은' 단위라는 의미에서 '음절'을 뜻합니다.",
+                "en": "From the concept of sounds grouped and bundled together",
+                "ja": "音を一緒に束ねた単位という概念から",
+                "zh": "从把声音一起束缚的单位概念而来",
+                "fr": "Du concept de sons groupés et liés ensemble"
+            },
+            "example": "\"Water\" is a two-syllable word.",
+            "translation": {
+                "ko": "\"Water\"는 2음절 단어이다.",
+                "ja": "音節",
+                "zh": "音节",
+                "fr": "syllabe"
+            }
+        },
+        {
+            "word": "syllabic",
+            "part_of_speech": "",
+            "origin": "Greek, syllabikos",
+            "meaning": {
+                "ko": "음절의",
+                "en": "of or relating to syllables",
+                "ja": "音節の",
+                "zh": "音节的",
+                "fr": "syllabique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "syllab-",
+                    "meaning": {
+                        "ko": "'음절'",
+                        "en": "syllable",
+                        "ja": "音節",
+                        "zh": "音节",
+                        "fr": "syllabe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음절의', '음절로 이루어진'이라는 뜻입니다.",
+                "en": "Meaning 'of or composed of syllables'",
+                "ja": "音節で構成された",
+                "zh": "由音节组成的",
+                "fr": "composé de syllabes"
+            },
+            "example": "The poem has a regular syllabic structure.",
+            "translation": {
+                "ko": "그 시는 규칙적인 음절 구조를 가지고 있다.",
+                "ja": "このポエムは規則的な音節構造を持っています。",
+                "zh": "这首诗具有规则的音节结构。",
+                "fr": "Le poème a une structure syllabique régulière."
+            }
+        }
+    ]
+}

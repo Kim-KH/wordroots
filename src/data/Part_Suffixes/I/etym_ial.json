@@ -1,0 +1,226 @@
+{
+    "root_info": {
+        "roots": "ial (relating to) arterial, cranial, medial, pericardial",
+        "origin": "Latin, -ialis (relating to)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "relating to",
+            "ja": "…に関する",
+            "zh": "…有关的",
+            "fr": "…concernant"
+        }
+    },
+    "words": [
+        {
+            "word": "arterial",
+            "part_of_speech": "",
+            "origin": "Greek, arteria (windpipe, artery)",
+            "meaning": {
+                "ko": "동맥",
+                "en": "artery",
+                "ja": "動脈の",
+                "zh": "动脉的",
+                "fr": "artériel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arteri-",
+                    "meaning": {
+                        "ko": "'동맥'",
+                        "en": "artery",
+                        "ja": "動脈",
+                        "zh": "动脉",
+                        "fr": "artère"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동맥의'라는 뜻입니다.",
+                "en": "It means 'of the artery'",
+                "ja": "動脈に関する意味です",
+                "zh": "意思是'与动脉有关的'",
+                "fr": "Cela signifie 'relatif à l'artère'"
+            },
+            "example": "An arterial road is a major road.",
+            "translation": {
+                "ko": "간선 도로는 주요 도로이다.",
+                "ja": "動脈の道路は主要道路です",
+                "zh": "动脉道路是主干道",
+                "fr": "Une route artérielle est une route principale"
+            }
+        },
+        {
+            "word": "cranial",
+            "part_of_speech": "",
+            "origin": "Greek, kranion (skull)",
+            "meaning": {
+                "ko": "두개골",
+                "en": "skull",
+                "ja": "頭蓋骨の",
+                "zh": "颅骨的",
+                "fr": "crânien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crani-",
+                    "meaning": {
+                        "ko": "'두개골'",
+                        "en": "skull",
+                        "ja": "頭蓋骨",
+                        "zh": "颅骨",
+                        "fr": "crâne"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두개골의'라는 뜻입니다.",
+                "en": "It means 'of the skull'",
+                "ja": "頭蓋骨に関するという意味です",
+                "zh": "意思是与颅骨相关",
+                "fr": "Cela signifie relatif au crâne"
+            },
+            "example": "He suffered a cranial injury in the accident.",
+            "translation": {
+                "ko": "그는 그 사고로 두개골 부상을 입었다.",
+                "ja": "彼は事故で頭部外傷を負った。",
+                "zh": "他在事故中遭受了颅骨损伤。",
+                "fr": "Il a subi une blessure crânienne dans l'accident."
+            }
+        },
+        {
+            "word": "medial",
+            "part_of_speech": "",
+            "origin": "Latin, medius (middle)",
+            "meaning": {
+                "ko": "중간",
+                "en": "middle or intermediate",
+                "ja": "中央の",
+                "zh": "中间的",
+                "fr": "médial"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "medi-",
+                    "meaning": {
+                        "ko": "'중간'",
+                        "en": "middle",
+                        "ja": "中間",
+                        "zh": "中间",
+                        "fr": "milieu"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~的"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'중간에 위치한'이라는 뜻입니다.",
+                "en": "Located in the middle",
+                "ja": "中央に位置している",
+                "zh": "位于中间",
+                "fr": "Situé au milieu"
+            },
+            "example": "The medial side of the knee is the side closest to the other knee.",
+            "translation": {
+                "ko": "무릎의 내측은 다른 쪽 무릎에 가장 가까운 쪽이다.",
+                "ja": "膝の内側は他方の膝に最も近い側です。",
+                "zh": "膝盖的内侧是离另一条腿最近的一侧。",
+                "fr": "Le côté médial du genou est le côté le plus proche de l'autre genou."
+            }
+        },
+        {
+            "word": "pericardial",
+            "part_of_speech": "",
+            "origin": "Greek, peri- (around) + kardia (heart)",
+            "meaning": {
+                "ko": "심장 주위",
+                "en": "around the heart",
+                "ja": "心臓周囲の",
+                "zh": "心脏周围的",
+                "fr": "péricardique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "peri-",
+                    "meaning": {
+                        "ko": "'주위에'",
+                        "en": "around",
+                        "ja": "周囲に",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cardi-",
+                    "meaning": {
+                        "ko": "'심장'",
+                        "en": "heart",
+                        "ja": "心臓",
+                        "zh": "心脏",
+                        "fr": "cœur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장 주위를 감싸는 막'인 '심낭의'라는 뜻입니다.",
+                "en": "Relating to the membrane surrounding the heart",
+                "ja": "心臓を包む膜に関する",
+                "zh": "与包围心脏的膜有关",
+                "fr": "Relatif à la membrane entourant le cœur"
+            },
+            "example": "The pericardial sac contains the heart.",
+            "translation": {
+                "ko": "심낭은 심장을 담고 있다.",
+                "ja": "心膜嚢は心臓を含んでいます。",
+                "zh": "心包囊包含心脏。",
+                "fr": "Le sac péricardique contient le cœur."
+            }
+        }
+    ]
+}

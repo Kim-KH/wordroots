@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "surg (rise) insurgency, insurrection, surge",
+        "origin": "Latin, surgere (to rise)",
+        "meaning": {
+            "ko": "일어나다",
+            "en": "to rise",
+            "ja": "上がる",
+            "zh": "上升",
+            "fr": "se lever"
+        }
+    },
+    "words": [
+        {
+            "word": "insurgency",
+            "part_of_speech": "",
+            "origin": "Latin, insurgere (to rise up against)",
+            "meaning": {
+                "ko": "대항하여 일어나다",
+                "en": "to rise up in opposition",
+                "ja": "反乱、叛乱",
+                "zh": "叛乱、起义",
+                "fr": "insurrection, révolte"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~에 대항하여'",
+                        "en": "against",
+                        "ja": "に対抗して",
+                        "zh": "对抗、反对",
+                        "fr": "contre, opposé à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "surg-",
+                    "meaning": {
+                        "ko": "'일어나다'",
+                        "en": "to rise",
+                        "ja": "起き上がる",
+                        "zh": "起来、兴起",
+                        "fr": "se lever, se soulever"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정부 등에 대항하여 일어나는' '반란', '내란'을 뜻합니다.",
+                "en": "An armed rebellion against a government or established authority; typically characterized by organized resistance and armed conflict.",
+                "ja": "政府などに対抗して起きる武装反乱や叛乱を意味します。",
+                "zh": "指针对政府等权力机构发起的武装反抗或叛乱活动。",
+                "fr": "Rébellion armée contre un gouvernement ou une autorité établie; caractérisée par une résistance organisée et un conflit armé."
+            },
+            "example": "The country is facing a growing insurgency.",
+            "translation": {
+                "ko": "그 나라는 점점 커지는 내란에 직면해 있다.",
+                "ja": "その国は増大する反乱に直面している。",
+                "zh": "该国正面临日益增长的叛乱。",
+                "fr": "Le pays fait face à une insurrection croissante."
+            }
+        },
+        {
+            "word": "insurrection",
+            "part_of_speech": "",
+            "origin": "Latin, insurgere (to rise up against)",
+            "meaning": {
+                "ko": "대항하여 일어나다",
+                "en": "to rise up in opposition",
+                "ja": "反抗して起き上がること",
+                "zh": "反抗性起义",
+                "fr": "soulèvement contre l'autorité"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~에 대항하여'",
+                        "en": "against",
+                        "ja": "~に対抗して",
+                        "zh": "反抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "surrect-",
+                    "meaning": {
+                        "ko": "'일어나다'",
+                        "en": "to rise",
+                        "ja": "立ち上がる",
+                        "zh": "起义",
+                        "fr": "se lever"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정부에 대항하는 폭력적인 봉기'를 뜻합니다.",
+                "en": "Violent uprising against the government",
+                "ja": "政府に対抗する暴力的な反乱を意味します",
+                "zh": "指针对政府的暴力性起义",
+                "fr": "Soulèvement violent contre le gouvernement"
+            },
+            "example": "The government crushed the insurrection.",
+            "translation": {
+                "ko": "정부는 그 폭동을 진압했다.",
+                "ja": "政府は反乱を鎮圧した。",
+                "zh": "政府镇压了这场起义。",
+                "fr": "Le gouvernement a écrasé l'insurrection."
+            }
+        },
+        {
+            "word": "surge",
+            "part_of_speech": "",
+            "origin": "Latin, surgere (to rise)",
+            "meaning": {
+                "ko": "일어나다",
+                "en": "to rise up or occur",
+                "ja": "急増する、押し寄せる",
+                "zh": "急增、涌起",
+                "fr": "surgir, affluer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "surg-",
+                    "meaning": {
+                        "ko": "'일어나다'",
+                        "en": "to rise",
+                        "ja": "上昇する",
+                        "zh": "上升",
+                        "fr": "s'élever"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'파도가 솟아오르듯' 갑자기 '급증하다', '밀려들다'는 뜻입니다.",
+                "en": "Suddenly increases or rushes forward like waves",
+                "ja": "波が押し寄せるように急に増えたり、押し流れたりする意味です",
+                "zh": "像波浪涌起一样突然增加或蜂拥而来的意思",
+                "fr": "Signifie augmenter soudainement ou affluer comme des vagues"
+            },
+            "example": "A surge of anger washed over him.",
+            "translation": {
+                "ko": "분노의 감정이 그에게 밀려들었다.",
+                "ja": "彼に怒りの波が押し寄せた。",
+                "zh": "一股愤怒涌上他的心头。",
+                "fr": "Une vague de colère l'a submergé."
+            }
+        }
+    ]
+}

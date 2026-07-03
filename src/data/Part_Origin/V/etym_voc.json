@@ -1,0 +1,497 @@
+{
+    "root_info": {
+        "roots": "voc, vok: call, voice",
+        "origin": "Latin, vocare (to call), vox (voice)",
+        "meaning": {
+            "ko": "부르다, 목소리",
+            "en": "to call, voice",
+            "ja": "呼ぶ、声",
+            "zh": "呼唤、声音",
+            "fr": "appeler, voix"
+        }
+    },
+    "words": [
+        {
+            "word": "advocate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to, for",
+                        "ja": "～へ、～のために",
+                        "zh": "向、为",
+                        "fr": "vers, pour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "voc",
+                    "meaning": {
+                        "ko": "부르다",
+                        "en": "to call",
+                        "ja": "呼ぶ、声を上げる",
+                        "zh": "呼喊、说话",
+                        "fr": "appeler, crier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'누군가를 위해 목소리를 내다'는 의미에서, 어떤 의견을 '지지하다', '옹호하다'는 뜻과 '지지자', '변호사'를 뜻합니다.",
+                "en": "From the sense of 'raising one's voice for someone,' meaning to support or defend an opinion, and also one who supports or a lawyer.",
+                "ja": "「誰かのために声を上げる」という意味から、ある意見を「支持する」「擁護する」という意味と、「支持者」「弁護士」を意味します。",
+                "zh": "从「为某人发声」的意思出发，表示「支持」或「为...辩护」某一观点，也指「支持者」或「律师」。",
+                "fr": "Du sens de « lever la voix pour quelqu'un », signifiant soutenir ou défendre une opinion, et aussi celui qui soutient ou un avocat."
+            },
+            "example": "He is a strong advocate for human rights.",
+            "translation": {
+                "ko": "그는 인권의 강력한 옹호자이다.",
+                "ja": "彼は人権の強力な擁護者である。",
+                "zh": "他是人权的强有力倡导者。",
+                "fr": "Il est un ardent défenseur des droits humains."
+            }
+        },
+        {
+            "word": "equivocation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "equi",
+                    "meaning": {
+                        "ko": "같은",
+                        "en": "equal",
+                        "ja": "同じ",
+                        "zh": "相同",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "voc",
+                    "meaning": {
+                        "ko": "목소리, 말",
+                        "en": "voice, word",
+                        "ja": "声、言葉",
+                        "zh": "声音、言语",
+                        "fr": "voix, parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'같은 단어로 여러 뜻을 말하는 것'이라는 의미에서, '얼버무리기', '모호한 말'을 뜻합니다.",
+                "en": "From the idea of speaking with equal/same words but multiple meanings; refers to ambiguous or evasive speech.",
+                "ja": "同じ言葉で複数の意味を述べることから、『言葉を濁す』『曖昧な言い方』を意味します。",
+                "zh": "从用同一个词表达多种含义的概念出发，指『含糊其辞』或『模棱两可的说法』。",
+                "fr": "De l'idée de parler avec les mêmes mots mais plusieurs sens ; signifie un discours ambigu ou évasif."
+            },
+            "example": "His answer was full of equivocation.",
+            "translation": {
+                "ko": "그의 대답은 모호한 말로 가득했다.",
+                "ja": "彼の答えは曖昧な言い方でいっぱいだった。",
+                "zh": "他的回答充满了模棱两可的言辞。",
+                "fr": "Sa réponse était remplie d'équivoques."
+            }
+        },
+        {
+            "word": "avocation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a- (ab-)",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vocation",
+                    "meaning": {
+                        "ko": "부름, 직업",
+                        "en": "calling",
+                        "ja": "召し、職業",
+                        "zh": "召唤、职业",
+                        "fr": "appel, métier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "본래 직업(vocation)에서 '벗어나서 하는 일'이라는 의미에서 '취미', '부업'을 뜻합니다.",
+                "en": "Originally from vocation; means a hobby or side job done outside one's main profession.",
+                "ja": "本来の職業（vocation）から『それを離れて行う仕事』という意味で『趣味』『副業』を意味します。",
+                "zh": "源自职业（vocation）；指在主要工作之外进行的爱好或副业。",
+                "fr": "Originaire de vocation; signifie un loisir ou un emploi secondaire exercé en dehors de sa profession principale."
+            },
+            "example": "His avocation is painting.",
+            "translation": {
+                "ko": "그의 취미는 그림 그리기이다.",
+                "ja": "彼の趣味は絵画です。",
+                "zh": "他的业余爱好是绘画。",
+                "fr": "Son avocation est la peinture."
+            }
+        },
+        {
+            "word": "vocative",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "voc",
+                    "meaning": {
+                        "ko": "부르다",
+                        "en": "to call",
+                        "ja": "呼ぶ",
+                        "zh": "呼唤",
+                        "fr": "appeler"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ative",
+                    "meaning": {
+                        "ko": "~와 관련된",
+                        "en": "related to",
+                        "ja": "~に関連した",
+                        "zh": "与~相关",
+                        "fr": "~en rapport avec"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'부르는 것과 관련된'이라는 의미에서, 문법의 '호격'(부르는 격)을 뜻합니다.",
+                "en": "From the sense of 'related to calling,' referring to the grammatical case used when directly addressing someone.",
+                "ja": "「呼ぶことに関連した」という意味から、文法の「呼格」（相手を呼びかける格）を意味します。",
+                "zh": "从「与呼唤相关」的含义出发，指语法中的「呼格」（用于直接称呼的格）。",
+                "fr": "Du sens « en rapport avec l'appel », désignant le cas grammatical utilisé pour s'adresser directement à quelqu'un."
+            },
+            "example": "In \"John, come here,\" \"John\" is in the vocative case.",
+            "translation": {
+                "ko": "\"John, 이리 와\"에서 \"John\"은 호격이다.",
+                "ja": "「John、ここに来て」では、「John」は呼格である。",
+                "zh": "在\"John，来这儿\"中，\"John\"是呼格。",
+                "fr": "Dans « John, viens ici », « John » est au vocatif."
+            }
+        },
+        {
+            "word": "provoke",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forth",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vok",
+                    "meaning": {
+                        "ko": "부르다",
+                        "en": "to call",
+                        "ja": "呼ぶ",
+                        "zh": "召唤",
+                        "fr": "appeler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "감정이나 반응을 '앞으로 불러내다'는 의미에서, '화나게 하다', '유발하다'는 뜻입니다.",
+                "en": "From the sense of 'calling forth' emotions or reactions, meaning 'to anger' or 'to trigger'",
+                "ja": "感情や反応を『前に呼び出す』という意味から、『怒らせる』『引き起こす』という意味になりました。",
+                "zh": "从'向前召唤'情感或反应的含义引申，表示'激怒'或'引发'。",
+                "fr": "Du sens de 'susciter' des émotions ou des réactions, signifiant 'mettre en colère' ou 'déclencher'."
+            },
+            "example": "Don't provoke the dog.",
+            "translation": {
+                "ko": "그 개를 도발하지 마라.",
+                "ja": "その犬を挑発しないでください。",
+                "zh": "不要激怒那条狗。",
+                "fr": "Ne provoque pas le chien."
+            }
+        },
+        {
+            "word": "vouch",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vouch (vocare)",
+                    "meaning": {
+                        "ko": "부르다",
+                        "en": "to call",
+                        "ja": "呼ぶ",
+                        "zh": "呼唤",
+                        "fr": "appeler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "법정에서 증인을 '불러' 보증한다는 의미에서, '~을 보증하다', '보장하다'는 뜻이 되었습니다.",
+                "en": "In court, to 'call' a witness to vouch for someone; came to mean 'to guarantee' or 'to assure'",
+                "ja": "法廷で証人を『呼んで』保証するという意味から、『〜を保証する』『保障する』という意味になりました",
+                "zh": "在法庭上通过『呼唤』证人来担保某人，逐渐演变为『保证』『担保』的含义",
+                "fr": "À la cour, 'appeler' un témoin pour garantir quelqu'un; a acquis le sens de 'garantir' ou 'assurer'"
+            },
+            "example": "I can vouch for his honesty.",
+            "translation": {
+                "ko": "나는 그의 정직함을 보증할 수 있다.",
+                "ja": "私は彼の誠実さを保証できます",
+                "zh": "我可以为他的诚实担保",
+                "fr": "Je peux garantir son honnêteté"
+            }
+        },
+        {
+            "word": "evocation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "voc",
+                    "meaning": {
+                        "ko": "부르다",
+                        "en": "to call",
+                        "ja": "呼ぶ",
+                        "zh": "召唤",
+                        "fr": "appeler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "기억이나 감정을 '밖으로 불러내는 것'이라는 의미에서 '환기', '불러일으킴'을 뜻합니다.",
+                "en": "Calling forth memories or emotions from within; evoking or summoning.",
+                "ja": "記憶や感情を『外へ呼び出す』という意味から、『喚起』『呼び起こし』を意味します。",
+                "zh": "从'将记忆或情感向外召唤'的含义出发，表示'唤起'或'引发'。",
+                "fr": "Du sens d'appeler les souvenirs ou les émotions vers l'extérieur ; signifie évoquer ou susciter."
+            },
+            "example": "The smell was an evocation of his childhood.",
+            "translation": {
+                "ko": "그 냄새는 그의 어린 시절을 환기시켰다.",
+                "ja": "その匂いは彼の子ども時代を呼び起こした。",
+                "zh": "那种气味唤起了他童年的回忆。",
+                "fr": "Cette odeur évoquait son enfance."
+            }
+        },
+        {
+            "word": "invoke",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로, 위에",
+                        "en": "in, upon",
+                        "ja": "中に、上に",
+                        "zh": "在...内，在...上",
+                        "fr": "dans, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vok",
+                    "meaning": {
+                        "ko": "부르다",
+                        "en": "to call",
+                        "ja": "呼ぶ",
+                        "zh": "呼唤",
+                        "fr": "appeler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "도움을 구하기 위해 신이나 법 등을 '부르다'는 의미에서, 법이나 권위에 '호소하다', '기원하다'는 뜻입니다.",
+                "en": "From the sense of 'calling upon' gods or laws for help, meaning to appeal to or invoke the authority of law or a higher power.",
+                "ja": "神や法律などに助けを求めるために『呼びかける』という意味から、法律や権威に『訴える』『請願する』という意味になりました。",
+                "zh": "从为了寻求帮助而'呼唤'神灵或法律的含义，延伸为向法律或权威'诉求'、'祈求'的意思。",
+                "fr": "Du sens d'appeler les dieux ou la loi pour obtenir de l'aide, signifiant faire appel à ou invoquer l'autorité de la loi ou d'une puissance supérieure."
+            },
+            "example": "He invoked his right to remain silent.",
+            "translation": {
+                "ko": "그는 묵비권을 행사했다.",
+                "ja": "彼は沈黙する権利を行使した。",
+                "zh": "他援引了保持沉默的权利。",
+                "fr": "Il a invoqué son droit de garder le silence."
+            }
+        },
+        {
+            "word": "revoke",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろに",
+                        "zh": "向后",
+                        "fr": "en arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vok",
+                    "meaning": {
+                        "ko": "부르다",
+                        "en": "to call",
+                        "ja": "呼ぶ",
+                        "zh": "召唤",
+                        "fr": "appeler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 불러들이다'는 의미에서, 허가나 법률 등을 '취소하다', '폐지하다'는 뜻입니다.",
+                "en": "From the sense of 'calling back,' it means to cancel or annul a permission, license, or law.",
+                "ja": "「再び呼び戻す」という意味から、許可や法律などを「取消す」「廃止する」という意味です。",
+                "zh": "从「重新召回」的意思，引申为「撤销」或「废除」许可、法律等。",
+                "fr": "Du sens de « rappeler », il signifie « annuler » ou « abroger » une permission, une licence ou une loi."
+            },
+            "example": "The government revoked his license.",
+            "translation": {
+                "ko": "정부는 그의 면허를 취소했다.",
+                "ja": "政府は彼の免許を取り消した。",
+                "zh": "政府撤销了他的执照。",
+                "fr": "Le gouvernement a révoqué son permis."
+            }
+        },
+        {
+            "word": "convocation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "voc",
+                    "meaning": {
+                        "ko": "부르다",
+                        "en": "to call",
+                        "ja": "呼ぶ",
+                        "zh": "召唤",
+                        "fr": "appeler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 불러 모으는 것'이라는 의미에서, 공식적인 '회의', '집회'를 뜻합니다.",
+                "en": "From the idea of 'calling together,' it means an official meeting or assembly.",
+                "ja": "「一緒に呼び集める」という意味から、公式な「会議」「集会」を意味します。",
+                "zh": "从「召集在一起」的意思引申，表示正式的「会议」或「集会」。",
+                "fr": "De l'idée d'« appeler ensemble », il désigne une réunion ou assemblée officielle."
+            },
+            "example": "A convocation was held for all the faculty members.",
+            "translation": {
+                "ko": "모든 교직원들을 위한 집회가 열렸다.",
+                "ja": "すべての教職員のための集会が開催された。",
+                "zh": "为全体教职员工举行了一次集会。",
+                "fr": "Une convocation a été tenue pour tous les membres du corps enseignant."
+            }
+        },
+        {
+            "word": "voice",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "voice (vox)",
+                    "meaning": {
+                        "ko": "목소리",
+                        "en": "voice",
+                        "ja": "声",
+                        "zh": "声音",
+                        "fr": "voix"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 vox에서 직접 유래하여 '목소리', '의견'을 뜻합니다.",
+                "en": "Derived directly from Latin vox, meaning 'voice' or 'opinion'.",
+                "ja": "ラテン語のvoxから直接由来し、'声'、'意見'を意味します。",
+                "zh": "直接源自拉丁语vox，意思是'声音'或'意见'。",
+                "fr": "Dérivé directement du latin vox, signifiant 'voix' ou 'opinion'."
+            },
+            "example": "She has a beautiful singing voice.",
+            "translation": {
+                "ko": "그녀는 아름다운 노랫소리를 가졌다.",
+                "ja": "彼女は美しい歌声を持っています。",
+                "zh": "她有美妙的歌声。",
+                "fr": "Elle a une belle voix de chant."
+            }
+        },
+        {
+            "word": "vocal",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "voc",
+                    "meaning": {
+                        "ko": "목소리",
+                        "en": "voice",
+                        "ja": "声",
+                        "zh": "声音",
+                        "fr": "voix"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞語尾",
+                        "zh": "形容词词尾",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'목소리의'라는 의미에서 '목소리로 표현하는', '의견을 강하게 밝히는'이라는 뜻입니다.",
+                "en": "From the meaning of 'of voice' to 'expressed through voice' and 'openly expressing one's opinion strongly'",
+                "ja": "「声の」という意味から「声で表現する」「意見を強く述べる」という意味へ変わりました",
+                "zh": "从「关于声音的」意思延伸到「用声音表达」和「大声表明观点」",
+                "fr": "Du sens « de la voix » au sens « exprimé par la voix » et « exprimer fortement son opinion »"
+            },
+            "example": "He is a vocal critic of the government.",
+            "translation": {
+                "ko": "그는 정부에 대해 목소리를 높여 비판하는 사람이다.",
+                "ja": "彼は政府に対して積極的に批判する人だ。",
+                "zh": "他是政府的直言不讳的批评者。",
+                "fr": "Il est un critique vocal du gouvernement."
+            }
+        }
+    ]
+}

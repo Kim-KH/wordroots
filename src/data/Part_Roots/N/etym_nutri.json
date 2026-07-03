@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "nutri (food) nourish, nourishment, nutrient, nutrition",
+        "origin": "Latin, nutrire (to suckle, to nourish)",
+        "meaning": {
+            "ko": "영양을 공급하다",
+            "en": "to nourish",
+            "ja": "栄養を与える",
+            "zh": "提供营养",
+            "fr": "nourrir"
+        }
+    },
+    "words": [
+        {
+            "word": "nourish",
+            "part_of_speech": "",
+            "origin": "Latin, nutrire (to nourish)",
+            "meaning": {
+                "ko": "영양을 공급하다",
+                "en": "to supply nutrition",
+                "ja": "栄養を与える",
+                "zh": "提供营养",
+                "fr": "nourrir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nour- (nutrire)",
+                    "meaning": {
+                        "ko": "'영양을 주다'",
+                        "en": "to nourish",
+                        "ja": "栄養を与える",
+                        "zh": "提供营养",
+                        "fr": "nourrir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'성장이나 건강에 필요한 영양분을 공급하다'는 의미입니다.",
+                "en": "To supply nutrients necessary for growth or health",
+                "ja": "成長や健康に必要な栄養分を供給すること",
+                "zh": "提供生长或健康所需的营养物质",
+                "fr": "Fournir les nutriments nécessaires à la croissance ou à la santé"
+            },
+            "example": "The soil is rich enough to nourish a variety of plants.",
+            "translation": {
+                "ko": "그 토양은 다양한 식물에 영양을 공급할 만큼 풍부하다.",
+                "ja": "土壌は様々な植物を育てるのに十分な栄養がある。",
+                "zh": "土壤养分充足，足以滋养各种植物。",
+                "fr": "Le sol est assez riche pour nourrir une variété de plantes."
+            }
+        },
+        {
+            "word": "nourishment",
+            "part_of_speech": "",
+            "origin": "Latin, nutrire",
+            "meaning": {
+                "ko": "영양을 공급하다",
+                "en": "to supply nutrition",
+                "ja": "栄養を与える",
+                "zh": "提供营养",
+                "fr": "fournir la nutrition"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nourish-",
+                    "meaning": {
+                        "ko": "'영양분을 주다'",
+                        "en": "to give nutriment",
+                        "ja": "栄養分を与える",
+                        "zh": "给予营养",
+                        "fr": "donner les nutriments"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'건강한 삶을 위해 필요한 음식이나 영양'을 뜻합니다.",
+                "en": "Food or nutrition needed for a healthy life",
+                "ja": "健康な生活に必要な食物や栄養",
+                "zh": "健康生活所需的食物或营养",
+                "fr": "Nourriture ou nutrition nécessaire pour une vie saine"
+            },
+            "example": "The sick child was in need of proper nourishment.",
+            "translation": {
+                "ko": "그 아픈 아이는 적절한 영양 공급이 필요했다.",
+                "ja": "病気の子どもは適切な栄養が必要だった。",
+                "zh": "生病的孩子需要适当的营养。",
+                "fr": "L'enfant malade avait besoin d'une nutrition appropriée."
+            }
+        },
+        {
+            "word": "nutrient",
+            "part_of_speech": "",
+            "origin": "Latin, nutriens (nourishing)",
+            "meaning": {
+                "ko": "영양을 공급하는",
+                "en": "supplying nutrition",
+                "ja": "栄養を与える物質",
+                "zh": "提供营养的物质",
+                "fr": "substance qui nourrit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nutri-",
+                    "meaning": {
+                        "ko": "'영양을 주다'",
+                        "en": "to nourish",
+                        "ja": "栄養を与える",
+                        "zh": "提供营养",
+                        "fr": "nourrir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'성장과 건강에 필요한 물질'인 '영양소'를 뜻합니다.",
+                "en": "Refers to 'nutrients' - substances needed for growth and health",
+                "ja": "成長と健康に必要な物質である'栄養素'を意味します",
+                "zh": "指生长和健康所需的物质'营养物质'",
+                "fr": "Désigne les 'nutriments' - substances nécessaires à la croissance et à la santé"
+            },
+            "example": "The food is packed with essential nutrients.",
+            "translation": {
+                "ko": "그 음식은 필수 영양소로 가득 차 있다.",
+                "ja": "この食べ物は必須栄養素が豊富に含まれています",
+                "zh": "这种食物含有丰富的必需营养素",
+                "fr": "Cet aliment est riche en nutriments essentiels"
+            }
+        },
+        {
+            "word": "nutrition",
+            "part_of_speech": "",
+            "origin": "Latin, nutritio (a nourishing)",
+            "meaning": {
+                "ko": "영양 공급",
+                "en": "supply of nutrition",
+                "ja": "栄養補給",
+                "zh": "营养供给",
+                "fr": "nutrition"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nutri-",
+                    "meaning": {
+                        "ko": "'영양을 주다'",
+                        "en": "to nourish",
+                        "ja": "栄養を与える",
+                        "zh": "提供营养",
+                        "fr": "nourrir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음식을 섭취하고 이용하여 건강을 유지하는 과정'인 '영양' 또는 '영양학'을 뜻합니다.",
+                "en": "Refers to 'nutrition' or 'nutritional science' - the process of maintaining health through food intake and utilization.",
+                "ja": "食物を摂取し利用して健康を維持する過程である'栄養'または'栄養学'を意味します。",
+                "zh": "指通过摄取和利用食物来维持健康的过程，即'营养'或'营养学'。",
+                "fr": "Désigne la 'nutrition' ou 'science de la nutrition' - le processus de maintien de la santé par l'apport alimentaire."
+            },
+            "example": "Good nutrition is essential for growing children.",
+            "translation": {
+                "ko": "좋은 영양 섭취는 성장기 어린이들에게 필수적이다.",
+                "ja": "良い栄養は成長期の子どもに不可欠です。",
+                "zh": "良好的营养对成长中的儿童至关重要。",
+                "fr": "Une bonne nutrition est essentielle pour les enfants en croissance."
+            }
+        }
+    ]
+}

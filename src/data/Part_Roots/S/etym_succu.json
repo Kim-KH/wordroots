@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "succu (juice) succubus, succulent, succulence",
+        "origin": "Latin, succus (juice)",
+        "meaning": {
+            "ko": "즙",
+            "en": "juice",
+            "ja": "汁",
+            "zh": "汁",
+            "fr": "jus"
+        }
+    },
+    "words": [
+        {
+            "word": "succubus",
+            "part_of_speech": "",
+            "origin": "Latin, sub- (under) + cubare (to lie)",
+            "meaning": {
+                "ko": "아래에 눕다",
+                "en": "to lie beneath",
+                "ja": "女性の悪魔",
+                "zh": "女性恶魔",
+                "fr": "démon féminin"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "suc- (sub-)",
+                    "meaning": {
+                        "ko": "'아래에'",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "在下方",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cubus (cubare)",
+                    "meaning": {
+                        "ko": "'눕다'",
+                        "en": "to lie",
+                        "ja": "横たわる",
+                        "zh": "躺下",
+                        "fr": "se coucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'남자가 잘 때 그 아래에 눕는다고 알려진' 여자 악령, '서큐버스'를 뜻합니다. (succus '즙'과는 어원이 다릅니다.)",
+                "en": "A female demon known to lie beneath a sleeping man; unrelated to the etymology of succus meaning 'juice'.",
+                "ja": "眠っている男性の下に横たわると言われている女性の悪霊で、『succus(汁)』とは語源が異なります。",
+                "zh": "据说在睡眠中的男性下方躺下的女性恶灵，与意为'汁液'的succus无关。",
+                "fr": "Un esprit maléfique féminin censé se coucher sous un homme qui dort, d'une étymologie différente de succus signifiant 'jus'."
+            },
+            "example": "A succubus is a demon in female form from folklore.",
+            "translation": {
+                "ko": "서큐버스는 민속에 나오는 여성 형태의 악마다.",
+                "ja": "サキュバス（女性の悪魔）は民間伝承の悪魔です。",
+                "zh": "女性恶魔（萨克巴斯）是民间传说中的恶魔。",
+                "fr": "Un succube est un démon féminin du folklore."
+            }
+        },
+        {
+            "word": "succulent",
+            "part_of_speech": "",
+            "origin": "Latin, succulentus (juicy)",
+            "meaning": {
+                "ko": "즙이 많은",
+                "en": "full of juice",
+                "ja": "汁が多い",
+                "zh": "汁液丰富的",
+                "fr": "juteux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "succu-",
+                    "meaning": {
+                        "ko": "'즙'",
+                        "en": "juice",
+                        "ja": "汁",
+                        "zh": "汁液",
+                        "fr": "jus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'즙이 풍부한'이라는 뜻입니다. 식물에서는 '다육 식물'을 의미합니다.",
+                "en": "Meaning full of juice or moisture. For plants, refers to a succulent plant.",
+                "ja": "汁が豊富という意味です。植物では「多肉植物」を意味します。",
+                "zh": "意为汁液丰富的。对于植物，指的是多肉植物。",
+                "fr": "Signifie plein de jus ou d'humidité. Pour les plantes, désigne une plante succulente."
+            },
+            "example": "The steak was tender and succulent.",
+            "translation": {
+                "ko": "그 스테이크는 부드럽고 즙이 많았다.",
+                "ja": "ステーキはやわらかくてジューシーだった。",
+                "zh": "这块牛排又嫩又多汁。",
+                "fr": "Le steak était tendre et savoureux."
+            }
+        },
+        {
+            "word": "succulence",
+            "part_of_speech": "",
+            "origin": "Latin, succulentus (juicy)",
+            "meaning": {
+                "ko": "즙이 많은",
+                "en": "full of juice",
+                "ja": "汁が多い状態",
+                "zh": "多汁的性质",
+                "fr": "caractère juteux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "succu-",
+                    "meaning": {
+                        "ko": "'즙'",
+                        "en": "juice",
+                        "ja": "汁",
+                        "zh": "汁液",
+                        "fr": "jus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'즙이 많은 상태'를 뜻합니다.",
+                "en": "State of having abundant juice",
+                "ja": "豊富な汁を持つ状態",
+                "zh": "含有大量汁液的状态",
+                "fr": "État d'abondance de jus"
+            },
+            "example": "The succulence of the fruit was amazing.",
+            "translation": {
+                "ko": "그 과일의 풍부한 과즙은 놀라웠다.",
+                "ja": "その果物の汁々しさは素晴らしかった。",
+                "zh": "那个水果的多汁性很惊人。",
+                "fr": "La succulence du fruit était incroyable."
+            }
+        }
+    ]
+}

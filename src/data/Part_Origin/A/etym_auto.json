@@ -1,0 +1,225 @@
+{
+    "root_info": {
+        "roots": "auto",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "자신",
+            "en": "self",
+            "ja": "自分",
+            "zh": "自己",
+            "fr": "soi"
+        }
+    },
+    "words": [
+        {
+            "word": "automobile",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "자신",
+                        "en": "self",
+                        "ja": "自分自身",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mobile",
+                    "meaning": {
+                        "ko": "움직이는",
+                        "en": "moving",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "se mouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'스스로 움직이는' 탈 것이라는 의미에서 '자동차'를 뜻합니다.",
+                "en": "From Greek 'autos' (self) and Latin 'mobilis' (movable); literally 'self-moving vehicle'",
+                "ja": "「自分で動く」乗り物という意味から「自動車」を意味します。",
+                "zh": "意为「自己移动的」车辆，因此指「汽车」。",
+                "fr": "Signifie littéralement « véhicule qui se meut de lui-même », d'où le sens d'« automobile »."
+            },
+            "example": "We traveled by automobile.",
+            "translation": {
+                "ko": "우리는 자동차로 여행했다.",
+                "ja": "私たちは自動車で旅行した。",
+                "zh": "我们乘汽车旅行。",
+                "fr": "Nous avons voyagé en automobile."
+            }
+        },
+        {
+            "word": "automatic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "자신",
+                        "en": "self",
+                        "ja": "自分自身",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "matic",
+                    "meaning": {
+                        "ko": "움직이는",
+                        "en": "moving",
+                        "ja": "動く",
+                        "zh": "运动",
+                        "fr": "mouvement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'스스로 움직이는'이라는 의미에서 '자동의'라는 뜻입니다.",
+                "en": "From Greek autos (self) + kinesis (motion): 'moving by itself' gives the meaning 'automatic'",
+                "ja": "「自分で動く」という意味から「自動的な」という意味になります",
+                "zh": "从「自身运动」的含义衍生出「自动的」的意思",
+                "fr": "Du sens « se mouvoir par soi-même » vient le sens « automatique »"
+            },
+            "example": "This is an automatic door.",
+            "translation": {
+                "ko": "이것은 자동문이다.",
+                "ja": "これは自動ドアです。",
+                "zh": "这是一扇自动门。",
+                "fr": "C'est une porte automatique."
+            }
+        },
+        {
+            "word": "autograph",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "자신",
+                        "en": "self",
+                        "ja": "自分自身",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "쓰다",
+                        "en": "to write",
+                        "ja": "書く",
+                        "zh": "写",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자기 자신이 직접 쓴 것'이라는 의미에서 유명인의 '사인'이나 '자필 서명'을 뜻합니다.",
+                "en": "From 'something written by one's own hand,' it refers to a celebrity's signature or handwritten autograph.",
+                "ja": "「自分自身が直接書いたもの」という意味から、有名人の「署名」や「自筆署名」を指します。",
+                "zh": "从「自己亲笔写的东西」的意思演变而来，指名人的「签名」或「亲笔签名」。",
+                "fr": "Du sens « quelque chose écrit de sa propre main », il désigne la signature d'une célébrité ou sa signature manuscrite."
+            },
+            "example": "Can I have your autograph?",
+            "translation": {
+                "ko": "사인해 주시겠어요?",
+                "ja": "サインしてもらえますか？",
+                "zh": "能给我你的签名吗？",
+                "fr": "Pouvez-vous me donner votre autographe ?"
+            }
+        },
+        {
+            "word": "autonomous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "자신",
+                        "en": "self",
+                        "ja": "自分自身",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomous",
+                    "meaning": {
+                        "ko": "법",
+                        "en": "law",
+                        "ja": "法則",
+                        "zh": "法律",
+                        "fr": "loi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'스스로의 법으로 다스리는'이라는 의미에서 '자율적인', '자치의'라는 뜻입니다.",
+                "en": "From Greek autos (self) + nomos (law): self-governing or independent",
+                "ja": "ギリシャ語の「自分自身の法則で支配される」という意味から、「自律的な」「自治的な」という意味になりました。",
+                "zh": "源自希腊语，意为\"以自己的法律来统治\"，引申为\"自治的\"、\"自主的\"。",
+                "fr": "Du grec ancien : \"gouverné par ses propres lois\", signifie autonome ou indépendant."
+            },
+            "example": "The region is autonomous.",
+            "translation": {
+                "ko": "그 지역은 자치적이다.",
+                "ja": "その地域は自治的である。",
+                "zh": "该地区是自治的。",
+                "fr": "La région est autonome."
+            }
+        },
+        {
+            "word": "autoimmune",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "자신",
+                        "en": "self",
+                        "ja": "自分自身",
+                        "zh": "自身",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "immune",
+                    "meaning": {
+                        "ko": "면역",
+                        "en": "immunity",
+                        "ja": "免疫",
+                        "zh": "免疫",
+                        "fr": "immunité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "면역 체계가 '자기 자신의' 조직을 공격하는 것을 의미하며, '자가면역의'라는 뜻입니다.",
+                "en": "Refers to when the immune system attacks the body's own tissues; means 'self-immune.'",
+                "ja": "免疫システムが『自分自身の』組織を攻撃することを意味し、『自己免疫の』という意味です。",
+                "zh": "指免疫系统攻击身体自身组织的情况，意为'自身免疫的'。",
+                "fr": "Désigne le cas où le système immunitaire attaque les propres tissus du corps ; signifie 'auto-immun'."
+            },
+            "example": "She has an autoimmune disease.",
+            "translation": {
+                "ko": "그녀는 자가면역 질환을 앓고 있다.",
+                "ja": "彼女は自己免疫疾患を患っている。",
+                "zh": "她患有自身免疫病。",
+                "fr": "Elle souffre d'une maladie auto-immune."
+            }
+        }
+    ]
+}

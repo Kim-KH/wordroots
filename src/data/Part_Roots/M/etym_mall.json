@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "mall (hammer) malleable, mallet, malleus",
+        "origin": "Latin, malleus (a hammer)",
+        "meaning": {
+            "ko": "망치",
+            "en": "hammer",
+            "ja": "槌",
+            "zh": "锤子",
+            "fr": "marteau"
+        }
+    },
+    "words": [
+        {
+            "word": "malleable",
+            "part_of_speech": "",
+            "origin": "Latin, malleus (a hammer)",
+            "meaning": {
+                "ko": "망치",
+                "en": "hammer",
+                "ja": "延性のある、加工しやすい",
+                "zh": "可锻造的、易塑造的",
+                "fr": "malléable, ductile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mall-",
+                    "meaning": {
+                        "ko": "'망치'",
+                        "en": "hammer",
+                        "ja": "槌、ハンマー",
+                        "zh": "锤子、槌",
+                        "fr": "marteau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-able",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "able to be done",
+                        "ja": "できる、可能である",
+                        "zh": "能够、可以",
+                        "fr": "pouvoir faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'망치로 두드려 모양을 만들 수 있는'이라는 의미에서 '펴 늘일 수 있는', '유순한'이라는 뜻입니다.",
+                "en": "From the sense of being able to shape by hammering into form, meaning extensible, stretchable, or compliant",
+                "ja": "槌で叩いて形を作ることができるという意味から、伸ばしたり広げたり、従順であるという意味です",
+                "zh": "源于用槌锤打造型的含义，引申为可延展、易伸缩或温顺的",
+                "fr": "Du sens de pouvoir être façonné en frappant, signifiant extensible, malléable ou docile"
+            },
+            "example": "Gold is a very malleable metal.",
+            "translation": {
+                "ko": "금은 매우 펴 늘일 수 있는 금속이다.",
+                "ja": "金は非常に延性のある金属です",
+                "zh": "金是一种非常易锻造的金属",
+                "fr": "L'or est un métal très malléable"
+            }
+        },
+        {
+            "word": "mallet",
+            "part_of_speech": "",
+            "origin": "Latin, malleus (a hammer)",
+            "meaning": {
+                "ko": "망치",
+                "en": "a hammer or mallet",
+                "ja": "木槌",
+                "zh": "木槌",
+                "fr": "maillet"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mall-",
+                    "meaning": {
+                        "ko": "'망치'",
+                        "en": "hammer",
+                        "ja": "槌",
+                        "zh": "锤子",
+                        "fr": "marteau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "나무나 고무로 만든 '작은 망치'를 뜻합니다.",
+                "en": "A small hammer made of wood or rubber",
+                "ja": "木や rubber で作られた小さい槌",
+                "zh": "由木材或橡胶制成的小槌",
+                "fr": "Petit marteau fait de bois ou de caoutchouc"
+            },
+            "example": "He used a mallet to assemble the furniture.",
+            "translation": {
+                "ko": "그는 가구를 조립하기 위해 나무망치를 사용했다.",
+                "ja": "彼は家具を組み立てるのに木槌を使った。",
+                "zh": "他用木槌组装了家具。",
+                "fr": "Il a utilisé un maillet pour assembler le meuble."
+            }
+        },
+        {
+            "word": "malleus",
+            "part_of_speech": "",
+            "origin": "Latin, malleus (a hammer)",
+            "meaning": {
+                "ko": "망치",
+                "en": "hammer",
+                "ja": "槌骨",
+                "zh": "锤骨",
+                "fr": "marteau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mall-",
+                    "meaning": {
+                        "ko": "'망치'",
+                        "en": "hammer",
+                        "ja": "槌、ハンマー",
+                        "zh": "锤子、榔头",
+                        "fr": "marteau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'망치 모양'을 하고 있는 귀속의 뼈, 즉 '추골(망치뼈)'을 뜻합니다.",
+                "en": "The malleus is the outermost and largest of the three small bones in the middle ear.",
+                "ja": "槌の形をした耳の骨で、中耳の三つの小さな骨の最も外側で最大のもの",
+                "zh": "形如锤子的耳骨，即中耳三块小骨中最外侧最大的骨",
+                "fr": "Os en forme de marteau dans l'oreille, le plus externe et le plus grand des trois petits osselets de l'oreille moyenne"
+            },
+            "example": "The malleus is the outermost and largest of the three small bones in the middle ear.",
+            "translation": {
+                "ko": "추골은 중이에 있는 세 개의 작은 뼈 중 가장 바깥쪽에 있고 가장 크다.",
+                "ja": "槌骨は中耳の三つの小骨の中で最も外側にあり最大である",
+                "zh": "锤骨是中耳三块小骨中最外侧且最大的骨",
+                "fr": "Le marteau est le plus externe et le plus grand des trois petits osselets de l'oreille moyenne"
+            }
+        }
+    ]
+}

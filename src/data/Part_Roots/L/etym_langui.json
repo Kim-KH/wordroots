@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "langui (faint) languid, languish, languor",
+        "origin": "Latin, languere (to be weak, faint)",
+        "meaning": {
+            "ko": "기운이 없다",
+            "en": "to be faint",
+            "ja": "気力がない",
+            "zh": "虚弱无力",
+            "fr": "être faible"
+        }
+    },
+    "words": [
+        {
+            "word": "languid",
+            "part_of_speech": "",
+            "origin": "Latin, languidus (faint, weak)",
+            "meaning": {
+                "ko": "기운 없는",
+                "en": "lacking energy or vigor",
+                "ja": "元気がない",
+                "zh": "无力的",
+                "fr": "mou"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "langu-",
+                    "meaning": {
+                        "ko": "'기운이 없다'",
+                        "en": "to be faint",
+                        "ja": "弱い",
+                        "zh": "虚弱",
+                        "fr": "être faible"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'힘이나 활기가 없는'이라는 의미에서 '나른한', '기운 없는'이라는 뜻입니다.",
+                "en": "Means lacking energy or vigor; sluggish and weak",
+                "ja": "力や活気がない状態を意味し、だるい、元気がない",
+                "zh": "表示缺乏精力或活力；懒散且虚弱",
+                "fr": "Signifie manquer d'énergie ou de vigueur; mou et faible"
+            },
+            "example": "He gave a languid wave of his hand.",
+            "translation": {
+                "ko": "그는 나른하게 손을 흔들었다.",
+                "ja": "彼は手をだらりと振った。",
+                "zh": "他无力地挥了挥手。",
+                "fr": "Il fit un geste mou de la main."
+            }
+        },
+        {
+            "word": "languish",
+            "part_of_speech": "",
+            "origin": "Latin, languere (to be weak)",
+            "meaning": {
+                "ko": "약하다",
+                "en": "to become weak or feeble",
+                "ja": "衰える、活気を失う",
+                "zh": "衰弱、失去活力",
+                "fr": "dépérir, perdre vigueur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "langu-",
+                    "meaning": {
+                        "ko": "'약해지다'",
+                        "en": "to be weak",
+                        "ja": "弱くなる",
+                        "zh": "变得虚弱",
+                        "fr": "devenir faible"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'점점 약해지거나 활기를 잃다'는 의미입니다.",
+                "en": "Means to gradually weaken or lose vitality",
+                "ja": "徐々に弱くなったり活気を失ったりすること",
+                "zh": "逐渐变弱或失去活力的意思",
+                "fr": "Signifie s'affaiblir progressivement ou perdre sa vitalité"
+            },
+            "example": "The plants began to languish in the hot sun.",
+            "translation": {
+                "ko": "식물들은 뜨거운 햇볕 아래서 시들기 시작했다.",
+                "ja": "植物は日差しの中で衰え始めた。",
+                "zh": "植物在烈日下开始衰弱。",
+                "fr": "Les plantes ont commencé à dépérir au soleil brûlant."
+            }
+        },
+        {
+            "word": "languor",
+            "part_of_speech": "",
+            "origin": "Latin, languor (faintness, listlessness)",
+            "meaning": {
+                "ko": "나른함",
+                "en": "sluggishness, lethargy",
+                "ja": "だるさ、無気力",
+                "zh": "懒散、无力感",
+                "fr": "langueur, apathie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "langu-",
+                    "meaning": {
+                        "ko": "'기운이 없다'",
+                        "en": "to be faint",
+                        "ja": "弱々しい、衰弱した",
+                        "zh": "虚弱、无力",
+                        "fr": "être faible, s'affaiblir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸이 나른하고 편안한 상태' 또는 '무기력'을 뜻합니다.",
+                "en": "A state of physical lassitude and ease, or lethargy",
+                "ja": "身体がだるく快適な状態、または無気力さを意味します",
+                "zh": "指身体懒散舒适的状态，或精神萎靡",
+                "fr": "Un état de lassitude physique et de bien-être, ou l'apathie"
+            },
+            "example": "A feeling of languor washed over him.",
+            "translation": {
+                "ko": "나른한 느낌이 그를 덮쳤다.",
+                "ja": "彼を無気力感が襲った。",
+                "zh": "一种懒散的感觉笼罩了他。",
+                "fr": "Une sensation de langueur l'envahit."
+            }
+        }
+    ]
+}

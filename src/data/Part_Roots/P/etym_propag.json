@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "propag (multiply) propaganda, propagate",
+        "origin": "Latin, propagare (to set forward, to multiply)",
+        "meaning": {
+            "ko": "늘리다",
+            "en": "to multiply",
+            "ja": "増やす",
+            "zh": "增加",
+            "fr": "multiplier"
+        }
+    },
+    "words": [
+        {
+            "word": "propaganda",
+            "part_of_speech": "",
+            "origin": "Latin, propaganda (things to be propagated)",
+            "meaning": {
+                "ko": "전파되어야 할 것들",
+                "en": "things that should be disseminated",
+                "ja": "宣伝されるべき事柄",
+                "zh": "应该传播的东西",
+                "fr": "choses à propager"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "propag-",
+                    "meaning": {
+                        "ko": "'전파하다'",
+                        "en": "to spread",
+                        "ja": "広める",
+                        "zh": "传播",
+                        "fr": "propager"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 가톨릭에서 '신앙을 전파하기 위한' 위원회 이름에서 유래하여, 지금은 정치적 목적을 위한 '선전'을 뜻합니다.",
+                "en": "Originally derived from the name of a Catholic committee for 'spreading faith,' now means 'propaganda' for political purposes.",
+                "ja": "もともとカトリック教会の信仰を広めるための委員会名に由来し、現在は政治目的の宣伝を意味します。",
+                "zh": "最初源自天主教会传播信仰的委员会名称，现在指政治目的的宣传。",
+                "fr": "Originaire du nom d'un comité catholique pour 'propager la foi', signifie maintenant 'propagande' à des fins politiques."
+            },
+            "example": "The government used propaganda to win support for the war.",
+            "translation": {
+                "ko": "정부는 전쟁에 대한 지지를 얻기 위해 선전을 이용했다.",
+                "ja": "政府は戦争への支持を得るために宣伝を使用しました。",
+                "zh": "政府利用宣传来争取对战争的支持。",
+                "fr": "Le gouvernement a utilisé la propagande pour obtenir le soutien à la guerre."
+            }
+        },
+        {
+            "word": "propagate",
+            "part_of_speech": "",
+            "origin": "Latin, propagare (to multiply)",
+            "meaning": {
+                "ko": "늘리다",
+                "en": "to increase or extend",
+                "ja": "増やす、繁殖させる",
+                "zh": "繁殖、传播",
+                "fr": "multiplier, propager"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞으로'",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pag- (pangere)",
+                    "meaning": {
+                        "ko": "'고정시키다'",
+                        "en": "to fasten",
+                        "ja": "固定させる",
+                        "zh": "固定",
+                        "fr": "attacher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물을 땅에 고정시켜 앞으로 번식시키다'는 의미에서 '번식시키다' 또는 사상이나 정보를 '전파하다'는 뜻이 되었습니다.",
+                "en": "Originally meant to fasten plants to the ground and reproduce them forward, later became to mean 'breed' or 'spread ideas and information'",
+                "ja": "元々は植物を地面に固定させて前に繁殖させるという意味から、後に『繁殖させる』または思想や情報を『伝播させる』という意味になりました",
+                "zh": "原本指将植物固定在地上向前繁殖的意思，后来演变为'繁殖'或'传播思想和信息'的含义",
+                "fr": "Signifiait à l'origine fixer des plantes au sol et les reproduire, devint ensuite 'reproduire' ou 'diffuser des idées et informations'"
+            },
+            "example": "You can propagate this plant from cuttings.",
+            "translation": {
+                "ko": "이 식물은 꺾꽂이로 번식시킬 수 있다.",
+                "ja": "この植物は挿し木から増やすことができます",
+                "zh": "你可以用插条来繁殖这种植物",
+                "fr": "Vous pouvez multiplier cette plante à partir de boutures"
+            }
+        }
+    ]
+}

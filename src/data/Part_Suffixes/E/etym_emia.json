@@ -1,0 +1,226 @@
+{
+    "root_info": {
+        "roots": "emia (blood issue) anemia, hypoglycemia, leukemia, toxemia",
+        "origin": "Greek, haima (blood) + -ia",
+        "meaning": {
+            "ko": "혈액 상태",
+            "en": "blood condition",
+            "ja": "血液状態",
+            "zh": "血液状况",
+            "fr": "état sanguin"
+        }
+    },
+    "words": [
+        {
+            "word": "anemia",
+            "part_of_speech": "",
+            "origin": "Greek, anaimia (want of blood)",
+            "meaning": {
+                "ko": "피의 부족",
+                "en": "lack of blood",
+                "ja": "血液の不足",
+                "zh": "血液不足",
+                "fr": "manque de sang"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "an-",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "without",
+                        "ja": "ない",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emia",
+                    "meaning": {
+                        "ko": "'혈액 상태'",
+                        "en": "blood condition",
+                        "ja": "血液の状態",
+                        "zh": "血液状态",
+                        "fr": "état du sang"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피가 부족한' 상태인 '빈혈'을 뜻합니다.",
+                "en": "A condition where there is insufficient blood or red blood cells",
+                "ja": "血が不足している貧血の状態を意味します",
+                "zh": "意思是血液不足的贫血状态",
+                "fr": "État d'anémie caractérisé par insuffisance sanguine"
+            },
+            "example": "Iron deficiency can cause anemia.",
+            "translation": {
+                "ko": "철분 결핍은 빈혈을 유발할 수 있다.",
+                "ja": "鉄分不足は貧血を引き起こすことがあります",
+                "zh": "缺铁可能导致贫血",
+                "fr": "La carence en fer peut causer l'anémie"
+            }
+        },
+        {
+            "word": "hypoglycemia",
+            "part_of_speech": "",
+            "origin": "Greek, hypo- (under) + glykys (sweet) + haima (blood)",
+            "meaning": {
+                "ko": "혈액 속의 당이 낮은 상태",
+                "en": "low blood sugar condition",
+                "ja": "血糖値が低い状態",
+                "zh": "血糖过低状态",
+                "fr": "taux de sucre sanguin bas"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hypo-",
+                    "meaning": {
+                        "ko": "'아래'",
+                        "en": "under",
+                        "ja": "下",
+                        "zh": "下",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "glyc-",
+                    "meaning": {
+                        "ko": "'당'",
+                        "en": "sugar",
+                        "ja": "糖",
+                        "zh": "糖",
+                        "fr": "sucre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emia",
+                    "meaning": {
+                        "ko": "'혈액 상태'",
+                        "en": "blood condition",
+                        "ja": "血液状態",
+                        "zh": "血液状态",
+                        "fr": "état sanguin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈액 속의 당 수치가 정상보다 낮은' 상태인 '저혈당증'을 뜻합니다.",
+                "en": "A condition where blood glucose levels are lower than normal",
+                "ja": "血液中の糖濃度が正常より低い状態を意味します",
+                "zh": "血液中的糖浓度低于正常水平的状态",
+                "fr": "État où la concentration de glucose dans le sang est inférieure à la normale"
+            },
+            "example": "He has diabetes and sometimes suffers from hypoglycemia.",
+            "translation": {
+                "ko": "그는 당뇨병이 있어서 때때로 저혈당증으로 고통받는다.",
+                "ja": "彼は糖尿病があり、時々低血糖症に苦しみます",
+                "zh": "他患有糖尿病，有时会遭受低血糖症",
+                "fr": "Il a le diabète et souffre parfois d'hypoglycémie"
+            }
+        },
+        {
+            "word": "leukemia",
+            "part_of_speech": "",
+            "origin": "Greek, leukos (white) + haima (blood)",
+            "meaning": {
+                "ko": "흰 피",
+                "en": "white blood",
+                "ja": "白い血液",
+                "zh": "白色血液",
+                "fr": "sang blanc"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leuk-",
+                    "meaning": {
+                        "ko": "'흰색'",
+                        "en": "white",
+                        "ja": "白色",
+                        "zh": "白色",
+                        "fr": "blanc"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emia",
+                    "meaning": {
+                        "ko": "'혈액 상태'",
+                        "en": "blood condition",
+                        "ja": "血液状態",
+                        "zh": "血液状态",
+                        "fr": "état sanguin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비정상적인 백혈구가 과도하게 증식하는' 혈액암의 일종인 '백혈병'을 뜻합니다.",
+                "en": "A type of blood cancer characterized by excessive proliferation of abnormal white blood cells.",
+                "ja": "異常な白血球が過度に増殖する血液がんの一種です。",
+                "zh": "一种血液癌症，特征是异常白细胞过度增殖。",
+                "fr": "Type de cancer sanguin caractérisé par prolifération excessive de globules blancs anormaux."
+            },
+            "example": "Leukemia is a cancer of the blood-forming tissues.",
+            "translation": {
+                "ko": "백혈병은 조혈 조직의 암이다.",
+                "ja": "白血病",
+                "zh": "白血病",
+                "fr": "leucémie"
+            }
+        },
+        {
+            "word": "toxemia",
+            "part_of_speech": "",
+            "origin": "Greek, toxikon (poison) + haima (blood)",
+            "meaning": {
+                "ko": "피 속의 독",
+                "en": "poison in the blood",
+                "ja": "血液中の毒",
+                "zh": "血液中的毒素",
+                "fr": "poison dans le sang"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tox-",
+                    "meaning": {
+                        "ko": "'독'",
+                        "en": "poison",
+                        "ja": "毒",
+                        "zh": "毒素",
+                        "fr": "poison"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emia",
+                    "meaning": {
+                        "ko": "'혈액 상태'",
+                        "en": "blood condition",
+                        "ja": "血液状態",
+                        "zh": "血液状态",
+                        "fr": "état du sang"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈액 속에 독소가 퍼진' 상태인 '독혈증'을 뜻합니다.",
+                "en": "A condition where toxins spread in the bloodstream",
+                "ja": "血液中に毒素が拡散した状態",
+                "zh": "血液中毒素扩散的状态",
+                "fr": "état où les toxines se propagent dans le sang"
+            },
+            "example": "Toxemia of pregnancy is a serious condition.",
+            "translation": {
+                "ko": "임신 중독증은 심각한 상태이다.",
+                "ja": "妊娠中毒症は深刻な状態です。",
+                "zh": "妊娠毒血症是一种严重的疾病。",
+                "fr": "La toxémie gravidique est une condition grave."
+            }
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "root_info": {
+        "roots": "polar (opposed) dipolar, polarity, polarization, polarize, pole",
+        "origin": "Greek, polos (a pivot, an axis)",
+        "meaning": {
+            "ko": "축",
+            "en": "a pivot, an axis",
+            "ja": "軸、回転の中心",
+            "zh": "轴、中心轴",
+            "fr": "un pivot, un axe"
+        }
+    },
+    "words": [
+        {
+            "word": "dipolar",
+            "part_of_speech": "",
+            "origin": "Greek, di- (two) + polos (pole)",
+            "meaning": {
+                "ko": "두 개의 극",
+                "en": "having two poles",
+                "ja": "二つの極を持つ",
+                "zh": "具有两个极",
+                "fr": "ayant deux pôles"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polar",
+                    "meaning": {
+                        "ko": "'극의'",
+                        "en": "of the pole",
+                        "ja": "極の",
+                        "zh": "极的",
+                        "fr": "polaire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개의 극을 가진'이라는 의미에서 '쌍극자의'라는 뜻입니다.",
+                "en": "Meaning having two poles or electrical charges at opposite ends",
+                "ja": "対極性の、双極子を持つという意味です",
+                "zh": "具有两个相反电荷端点的含义",
+                "fr": "Signifiant avoir deux pôles ou charges électriques aux extrémités opposées"
+            },
+            "example": "A water molecule is dipolar.",
+            "translation": {
+                "ko": "물 분자는 쌍극자이다.",
+                "ja": "水分子は双極性です。",
+                "zh": "水分子是偶极的。",
+                "fr": "Une molécule d'eau est dipolaire."
+            }
+        },
+        {
+            "word": "polarity",
+            "part_of_speech": "",
+            "origin": "Greek, polos (pole)",
+            "meaning": {
+                "ko": "극",
+                "en": "pole or extreme",
+                "ja": "極性、二極化",
+                "zh": "极性、两极化",
+                "fr": "polarité, bipolarisation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polar-",
+                    "meaning": {
+                        "ko": "'극'",
+                        "en": "pole",
+                        "ja": "極、端",
+                        "zh": "极、两端",
+                        "fr": "pôle, extrémité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양극과 음극처럼 서로 정반대되는 성질'인 '극성' 또는 '양극화'를 뜻합니다.",
+                "en": "Refers to polarity or polarization, meaning properties that are opposite to each other like positive and negative poles.",
+                "ja": "正極と負極のように相互に正反対の性質を意味する極性または両極化を指します。",
+                "zh": "指如正极和负极一样相互相反的性质，意为极性或两极分化。",
+                "fr": "Désigne la polarité ou la polarisation, c'est-à-dire les propriétés opposées comme les pôles positif et négatif."
+            },
+            "example": "The polarity of a magnet refers to its north and south poles.",
+            "translation": {
+                "ko": "자석의 극성은 북극과 남극을 가리킨다.",
+                "ja": "磁石の極性はその北極と南極を指します。",
+                "zh": "磁铁的极性是指其北极和南极。",
+                "fr": "La polarité d'un aimant fait référence à ses pôles nord et sud."
+            }
+        },
+        {
+            "word": "polarization",
+            "part_of_speech": "",
+            "origin": "Greek, polos (pole)",
+            "meaning": {
+                "ko": "극",
+                "en": "pole or extreme",
+                "ja": "二極化、分極",
+                "zh": "两极分化",
+                "fr": "polarisation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polar-",
+                    "meaning": {
+                        "ko": "'극'",
+                        "en": "pole",
+                        "ja": "極、両端",
+                        "zh": "极点",
+                        "fr": "pôle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의견이나 세력이 양극단으로 나뉘는' 현상인 '양극화', '분극'을 뜻합니다.",
+                "en": "Phenomenon where opinions or forces divide into two extremes",
+                "ja": "意見や勢力が両極端に分かれる現象",
+                "zh": "意见或力量分裂成两个极端的现象",
+                "fr": "Phénomène où les opinions ou forces se divisent en deux extrêmes"
+            },
+            "example": "The political polarization in the country is getting worse.",
+            "translation": {
+                "ko": "그 나라의 정치적 양극화가 심해지고 있다.",
+                "ja": "その国の政治的分極は悪化している。",
+                "zh": "该国的政治两极分化正在恶化。",
+                "fr": "La polarisation politique du pays s'aggrave."
+            }
+        },
+        {
+            "word": "polarize",
+            "part_of_speech": "",
+            "origin": "Greek, polos (pole)",
+            "meaning": {
+                "ko": "극",
+                "en": "pole or extreme",
+                "ja": "両極に分ける",
+                "zh": "分成两极",
+                "fr": "diviser en deux pôles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polar-",
+                    "meaning": {
+                        "ko": "'극'",
+                        "en": "pole",
+                        "ja": "極",
+                        "zh": "极",
+                        "fr": "pôle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양극단으로 나뉘게 만들다'는 의미입니다.",
+                "en": "To divide into two opposite groups",
+                "ja": "二つの対立する側に分ける意味です",
+                "zh": "分成两个对立的立场",
+                "fr": "diviser en deux positions opposées"
+            },
+            "example": "The issue has polarized the nation.",
+            "translation": {
+                "ko": "그 문제는 국가를 양극화시켰다.",
+                "ja": "この問題は国家を分裂させた",
+                "zh": "这个问题使国家分裂",
+                "fr": "Cette question a polarisé la nation"
+            }
+        },
+        {
+            "word": "pole",
+            "part_of_speech": "",
+            "origin": "Greek, polos (axis)",
+            "meaning": {
+                "ko": "축",
+                "en": "axis or shaft",
+                "ja": "軸、極",
+                "zh": "轴、极",
+                "fr": "axe, pôle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pol-",
+                    "meaning": {
+                        "ko": "'축, 극'",
+                        "en": "axis, pole",
+                        "ja": "軸、極",
+                        "zh": "轴、极",
+                        "fr": "axe, pôle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지구의 자전축이 지표면과 만나는 양쪽 끝'인 '극(지방)' 또는 자석의 '극'을 뜻합니다.",
+                "en": "Refers to the 'pole' (extreme region) where Earth's rotation axis meets the surface, or the 'pole' of a magnet.",
+                "ja": "地球の自転軸が地表と交わる両端の'極'、または磁石の'極'を意味します。",
+                "zh": "指地球自转轴与地表相交的两端的'极'，或磁铁的'极'。",
+                "fr": "Désigne le 'pôle' où l'axe de rotation terrestre rencontre la surface, ou le 'pôle' d'un aimant."
+            },
+            "example": "The North Pole is the northernmost point on Earth.",
+            "translation": {
+                "ko": "북극은 지구상의 최북단 지점이다.",
+                "ja": "北極は地球で最も北にある点です。",
+                "zh": "北极是地球最北端的点。",
+                "fr": "Le pôle Nord est le point le plus septentrional de la Terre."
+            }
+        }
+    ]
+}

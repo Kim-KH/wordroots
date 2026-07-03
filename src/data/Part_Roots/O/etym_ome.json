@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ome (biological entity) biome, chromosome, cytosome, genome",
+        "origin": "Greek, -oma (result of action, entity)",
+        "meaning": {
+            "ko": "실체",
+            "en": "entity",
+            "ja": "実体",
+            "zh": "实体",
+            "fr": "entité"
+        }
+    },
+    "words": [
+        {
+            "word": "biome",
+            "part_of_speech": "",
+            "origin": "Greek, bios (life) + -ome (group)",
+            "meaning": {
+                "ko": "생명 그룹",
+                "en": "group of living organisms",
+                "ja": "生命群集",
+                "zh": "生物群落",
+                "fr": "biome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ome",
+                    "meaning": {
+                        "ko": "'전체, 집단'",
+                        "en": "whole, collection",
+                        "ja": "全体、集団",
+                        "zh": "整体、群体",
+                        "fr": "ensemble, groupe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 기후 환경에 사는 생물 군계 전체'를 뜻합니다.",
+                "en": "A community of organisms living in a specific climate environment",
+                "ja": "特定の気候環境に生息する生物群落全体を意味します",
+                "zh": "指生活在特定气候环境中的整个生物群落",
+                "fr": "Communauté d'organismes vivant dans un environnement climatique spécifique"
+            },
+            "example": "The tundra is a cold biome with very little precipitation.",
+            "translation": {
+                "ko": "툰드라는 강수량이 매우 적은 추운 생물 군계이다.",
+                "ja": "ツンドラは降水量が非常に少ない寒冷バイオーム地帯です",
+                "zh": "苔原是降水极少的寒冷生物群落",
+                "fr": "La toundra est un biome froid avec très peu de précipitations"
+            }
+        },
+        {
+            "word": "chromosome",
+            "part_of_speech": "",
+            "origin": "Greek, khroma (color) + soma (body)",
+            "meaning": {
+                "ko": "색깔 있는 몸체",
+                "en": "colored body",
+                "ja": "色のある体",
+                "zh": "有色的体",
+                "fr": "corps coloré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chromo-",
+                    "meaning": {
+                        "ko": "'색'",
+                        "en": "color",
+                        "ja": "色",
+                        "zh": "颜色",
+                        "fr": "couleur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "some",
+                    "meaning": {
+                        "ko": "'몸체'",
+                        "en": "body",
+                        "ja": "体",
+                        "zh": "身体",
+                        "fr": "corps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 분열 시 '염색약에 의해 색깔을 띠는 작은 몸체'라는 의미에서 '염색체'를 뜻하게 되었습니다.",
+                "en": "During cell division, the term 'chromosome' came to mean 'a small body that becomes colored by staining dye'",
+                "ja": "細胞分裂時に『染色薬によって色を帯びる小さな体』という意味から『染色体』を意味するようになりました。",
+                "zh": "在细胞分裂时，由于『被染料染成有色的微小体』的含义而产生了『染色体』的词义。",
+                "fr": "Lors de la division cellulaire, le terme 'chromosome' est devenu signifier 'un petit corps devenant coloré par le colorant de teinture'."
+            },
+            "example": "Humans have 23 pairs of chromosomes.",
+            "translation": {
+                "ko": "인간은 23쌍의 염색체를 가지고 있다.",
+                "ja": "人間は23対の染色体を持っています。",
+                "zh": "人类有23对染色体。",
+                "fr": "Les humains ont 23 paires de chromosomes."
+            }
+        },
+        {
+            "word": "cytosome",
+            "part_of_speech": "",
+            "origin": "Greek, kytos (hollow, cell) + soma (body)",
+            "meaning": {
+                "ko": "세포체",
+                "en": "cell body",
+                "ja": "細胞体",
+                "zh": "细胞体",
+                "fr": "cytosoma"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyto-",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "some",
+                    "meaning": {
+                        "ko": "'몸체'",
+                        "en": "body",
+                        "ja": "身体",
+                        "zh": "身体",
+                        "fr": "corps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포의 몸체 부분', 즉 핵을 제외한 '세포질'을 뜻합니다.",
+                "en": "The body part of a cell, meaning cytoplasm excluding the nucleus.",
+                "ja": "細胞の身体部分、つまり核を除いた細胞質を意味します。",
+                "zh": "细胞的身体部分，即除去细胞核的细胞质。",
+                "fr": "La partie corporelle d'une cellule, signifiant le cytoplasme sans le noyau."
+            },
+            "example": "The cytosome contains various organelles.",
+            "translation": {
+                "ko": "세포질은 다양한 세포 소기관을 포함한다.",
+                "ja": "細胞体はさまざまな細胞小器官を含んでいます。",
+                "zh": "细胞体包含各种细胞器。",
+                "fr": "Le cytosome contient diverses organelles."
+            }
+        },
+        {
+            "word": "genome",
+            "part_of_speech": "",
+            "origin": "gene + chromosome",
+            "meaning": {
+                "ko": "유전자와 염색체",
+                "en": "genes and chromosomes",
+                "ja": "遺伝子と染色体",
+                "zh": "基因和染色体",
+                "fr": "gène et chromosome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen-",
+                    "meaning": {
+                        "ko": "'유전자'",
+                        "en": "gene",
+                        "ja": "遺伝子",
+                        "zh": "基因",
+                        "fr": "gène"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ome",
+                    "meaning": {
+                        "ko": "'전체'",
+                        "en": "whole",
+                        "ja": "全体",
+                        "zh": "全部",
+                        "fr": "totalité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 생물체가 가진 모든 유전 정보의 총체'인 '유전체'를 뜻합니다.",
+                "en": "Refers to the genome (genotype), which is the totality of all genetic information possessed by a single organism.",
+                "ja": "1つの生物が持つすべての遺伝情報の総体である遺伝体を意味します",
+                "zh": "指单个生物体拥有的所有遗传信息的总和，即基因组",
+                "fr": "Désigne le génome, l'ensemble de toutes les informations génétiques qu'un organisme possède"
+            },
+            "example": "The Human Genome Project mapped the entire human genome.",
+            "translation": {
+                "ko": "인간 게놈 프로젝트는 전체 인간 유전체의 지도를 만들었다.",
+                "ja": "ゲノム",
+                "zh": "基因组",
+                "fr": "génome"
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "mira (wondrous) miracle, miraculous, mirage",
+        "origin": "Latin, mirari (to wonder at)",
+        "meaning": {
+            "ko": "경이로워하다",
+            "en": "to wonder at",
+            "ja": "驚嘆する",
+            "zh": "惊叹于",
+            "fr": "s'émerveiller"
+        }
+    },
+    "words": [
+        {
+            "word": "miracle",
+            "part_of_speech": "",
+            "origin": "Latin, miraculum (an object of wonder)",
+            "meaning": {
+                "ko": "경이로운 것",
+                "en": "something wonderful",
+                "ja": "奇跡",
+                "zh": "奇迹",
+                "fr": "miracle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mira-",
+                    "meaning": {
+                        "ko": "'놀라다'",
+                        "en": "to wonder",
+                        "ja": "驚く",
+                        "zh": "惊奇",
+                        "fr": "s'étonner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상식적으로 설명할 수 없는 놀라운 일'인 '기적'을 뜻합니다.",
+                "en": "It means 'miracle' — an astonishing event that cannot be explained by common sense.",
+                "ja": "常識では説明できない驚くべき出来事である'奇跡'を意味します。",
+                "zh": "意思是'奇迹'——无法用常识解释的惊人事件。",
+                "fr": "Signifie 'miracle' — un événement étonnant inexplicable par le bon sens."
+            },
+            "example": "It's a miracle that he survived the accident.",
+            "translation": {
+                "ko": "그가 그 사고에서 살아남은 것은 기적이다.",
+                "ja": "彼が事故から生き残ったことは奇跡です。",
+                "zh": "他从事故中活下来是个奇迹。",
+                "fr": "C'est un miracle qu'il ait survécu à l'accident."
+            }
+        },
+        {
+            "word": "miraculous",
+            "part_of_speech": "",
+            "origin": "Latin, miraculum",
+            "meaning": {
+                "ko": "경이로운 것",
+                "en": "something wonderful",
+                "ja": "奇跡的な",
+                "zh": "奇迹般的",
+                "fr": "miraculeux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mira-",
+                    "meaning": {
+                        "ko": "'놀라다'",
+                        "en": "to wonder",
+                        "ja": "驚く",
+                        "zh": "惊奇",
+                        "fr": "s'émerveiller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기적과 같은', '놀라운'이라는 뜻입니다.",
+                "en": "Meaning like a miracle or surprising",
+                "ja": "奇跡のような、驚くべき意味です",
+                "zh": "意思是像奇迹一样、令人惊讶",
+                "fr": "Signifie comme un miracle ou surprenant"
+            },
+            "example": "He made a miraculous recovery from his illness.",
+            "translation": {
+                "ko": "그는 병에서 기적적으로 회복했다.",
+                "ja": "彼は病気から奇跡的に回復した",
+                "zh": "他从疾病中奇迹般地恢复了",
+                "fr": "Il s'est rétabli miraculeusement de sa maladie"
+            }
+        },
+        {
+            "word": "mirage",
+            "part_of_speech": "",
+            "origin": "French, mirage (an optical illusion)",
+            "meaning": {
+                "ko": "광학적 환상",
+                "en": "optical illusion",
+                "ja": "光学的な幻想",
+                "zh": "光学错觉",
+                "fr": "illusion optique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mira- (mirer)",
+                    "meaning": {
+                        "ko": "'바라보다, 비추다'",
+                        "en": "to look at, to be reflected",
+                        "ja": "見る、映る",
+                        "zh": "看、映射",
+                        "fr": "regarder, se refléter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신기루'처럼 '실체가 없는데 있는 것처럼 보이는' 현상을 뜻합니다.",
+                "en": "A phenomenon where something that does not actually exist appears to exist, like a mirage.",
+                "ja": "実体がないのに存在するように見える現象のこと。蜃気楼のような現象を意味します。",
+                "zh": "指虽然不存在但看起来存在的现象。类似蜃景这样的现象。",
+                "fr": "Phénomène où quelque chose qui n'existe pas réellement semble exister, comme un mirage."
+            },
+            "example": "The oasis in the desert was just a mirage.",
+            "translation": {
+                "ko": "사막의 오아시스는 단지 신기루였다.",
+                "ja": "砂漠のオアシスは単なる蜃気楼でした。",
+                "zh": "沙漠中的绿洲只是海市蜃楼。",
+                "fr": "L'oasis du désert n'était qu'un mirage."
+            }
+        }
+    ]
+}

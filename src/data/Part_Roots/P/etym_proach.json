@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "proach (near) approach, rapprochement, reproach",
+        "origin": "Latin, prope (near)",
+        "meaning": {
+            "ko": "가까이",
+            "en": "near",
+            "ja": "近い",
+            "zh": "近",
+            "fr": "près"
+        }
+    },
+    "words": [
+        {
+            "word": "approach",
+            "part_of_speech": "",
+            "origin": "Latin, appropiare (to draw near)",
+            "meaning": {
+                "ko": "가까이 다가가다",
+                "en": "to come near",
+                "ja": "近づく",
+                "zh": "接近",
+                "fr": "s'approcher"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ap- (ad-)",
+                    "meaning": {
+                        "ko": "'~으로'",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "proach (prope)",
+                    "meaning": {
+                        "ko": "'가까이'",
+                        "en": "near",
+                        "ja": "近い",
+                        "zh": "近",
+                        "fr": "près"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가까이 다가가다'는 의미에서 '접근하다' 또는 '접근법'을 뜻합니다.",
+                "en": "The word 'approach' means to come near or get close to something, often used as 'approach' (method) or 'approach' (verb of getting near).",
+                "ja": "接近するという意味で、何かに近づくまたは接近すること。方法としての接近法、または近づく動詞として使われます。",
+                "zh": "接近的意思是靠近或走近某事物，通常用作接近法或接近的动词。",
+                "fr": "Le mot approche signifie s'approcher ou se rapprocher de quelque chose, souvent utilisé comme approche (méthode) ou approche (verbe de se rapprocher)."
+            },
+            "example": "Winter is approaching.",
+            "translation": {
+                "ko": "겨울이 다가오고 있다.",
+                "ja": "冬が近づいている。",
+                "zh": "冬天正在接近。",
+                "fr": "L'hiver s'approche."
+            }
+        },
+        {
+            "word": "rapprochement",
+            "part_of_speech": "",
+            "origin": "French, rapprochement (a bringing together)",
+            "meaning": {
+                "ko": "다시 가까워짐",
+                "en": "becoming close again",
+                "ja": "再び近づくこと",
+                "zh": "重新接近",
+                "fr": "rapprochement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "approach",
+                    "meaning": {
+                        "ko": "'가까워지다'",
+                        "en": "to become close",
+                        "ja": "近づく",
+                        "zh": "接近",
+                        "fr": "s'approcher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'(관계가 나빴던 국가 간의) 화해', '관계 회복'을 뜻합니다.",
+                "en": "Reconciliation or restoration of relations between countries or groups that had poor relations",
+                "ja": "関係が悪かった国家間の和解、関係の回復を意味します",
+                "zh": "指关系不好的国家之间的和解或关系修复",
+                "fr": "Réconciliation ou restauration des relations entre pays ou groupes qui avaient de mauvaises relations"
+            },
+            "example": "The two countries are working towards a rapprochement.",
+            "translation": {
+                "ko": "두 나라는 관계 회복을 위해 노력하고 있다.",
+                "ja": "2つの国家は関係改善に向けて取り組んでいる",
+                "zh": "两个国家正在努力实现和解",
+                "fr": "Les deux pays s'efforcent de parvenir à un rapprochement"
+            }
+        },
+        {
+            "word": "reproach",
+            "part_of_speech": "",
+            "origin": "Latin, repropiare (to bring back near, to show)",
+            "meaning": {
+                "ko": "다시 가까이 가져오다",
+                "en": "to bring close again",
+                "ja": "非難する、責める",
+                "zh": "责备、指责",
+                "fr": "reprocher, blâmer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "back",
+                        "ja": "再び、戻す",
+                        "zh": "再次、回到",
+                        "fr": "de nouveau, retour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "proach (prope)",
+                    "meaning": {
+                        "ko": "'가까이'",
+                        "en": "near",
+                        "ja": "近い、目前に",
+                        "zh": "接近、眼前",
+                        "fr": "près, devant les yeux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못을 다시 눈앞에 가져와 보여주다'는 의미에서 '비난하다', '책망하다'라는 뜻입니다.",
+                "en": "Means to bring faults back before one's eyes to show them; hence 'to rebuke' or 'to censure'",
+                "ja": "過ちを再び目の前に持ってきて見せるという意味から、非難する、叱責するという意味です",
+                "zh": "从将过错重新呈现在眼前的意思衍生而来，表示责备、指责的意思",
+                "fr": "Signifie ramener les fautes devant les yeux pour les montrer; d'où 'reprocher' ou 'critiquer'"
+            },
+            "example": "He looked at her with reproach in his eyes.",
+            "translation": {
+                "ko": "그는 비난의 눈초리로 그녀를 바라보았다.",
+                "ja": "彼は非難の色を瞳に宿して彼女を見た",
+                "zh": "他用责备的眼神看着她",
+                "fr": "Il la regarda avec du reproche dans les yeux"
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "tacit (silent) tacit, tacitly, taciturn",
+        "origin": "Latin, tacere (to be silent)",
+        "meaning": {
+            "ko": "침묵하다",
+            "en": "to be silent",
+            "ja": "沈黙する",
+            "zh": "保持沉默",
+            "fr": "être silencieux"
+        }
+    },
+    "words": [
+        {
+            "word": "tacit",
+            "part_of_speech": "",
+            "origin": "Latin, tacitus (silent)",
+            "meaning": {
+                "ko": "침묵하는",
+                "en": "silent or refraining from speech",
+                "ja": "暗黙の、無言の",
+                "zh": "沉默的、默认的",
+                "fr": "tacite, implicite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tac-",
+                    "meaning": {
+                        "ko": "'침묵하다'",
+                        "en": "to be silent",
+                        "ja": "沈黙する",
+                        "zh": "保持沉默",
+                        "fr": "être silencieux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'직접 말로 하지 않고 조용히 이루어지는'이라는 의미에서 '암묵적인', '무언의'라는 뜻입니다.",
+                "en": "Meaning implied or understood without being directly stated; something done quietly without explicit words",
+                "ja": "直接言葉で述べられず、静かに行われることを意味し、『暗黙的な』『無言の』という意味です",
+                "zh": "表示没有直接用言语表达，而是默认或暗示的意思，意为『隐含的』『无声的』",
+                "fr": "Signifie quelque chose d'implicite ou d'entendu sans être explicitement énoncé"
+            },
+            "example": "We have a tacit agreement not to talk about the subject.",
+            "translation": {
+                "ko": "우리는 그 주제에 대해 이야기하지 않기로 암묵적인 합의를 했다.",
+                "ja": "私たちはその主題について話さないという暗黙の合意があります",
+                "zh": "我们有一个不谈论这个话题的默认协议",
+                "fr": "Nous avons un accord tacite de ne pas parler du sujet"
+            }
+        },
+        {
+            "word": "tacitly",
+            "part_of_speech": "",
+            "origin": "Latin, tacitus (silent)",
+            "meaning": {
+                "ko": "침묵하는",
+                "en": "being silent or not speaking",
+                "ja": "暗黙のうちに",
+                "zh": "默认地",
+                "fr": "tacitement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tacit-",
+                    "meaning": {
+                        "ko": "'암묵적인'",
+                        "en": "implicit or unspoken",
+                        "ja": "暗黙的な",
+                        "zh": "隐含的",
+                        "fr": "implicite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'암묵적으로', '조용히'라는 뜻입니다.",
+                "en": "It means 'silently' or 'implicitly' without being stated directly.",
+                "ja": "明確に述べられずに暗黙のうちに示される意味です。",
+                "zh": "以隐含或无声的方式表示，未明确说明。",
+                "fr": "De manière silencieuse ou implicite, sans être exprimé directement."
+            },
+            "example": "He tacitly approved of the plan.",
+            "translation": {
+                "ko": "그는 그 계획을 암묵적으로 승인했다.",
+                "ja": "彼は暗黙のうちにその計画を承認した。",
+                "zh": "他默认地同意了这个计划。",
+                "fr": "Il a tacitement approuvé le plan."
+            }
+        },
+        {
+            "word": "taciturn",
+            "part_of_speech": "",
+            "origin": "Latin, taciturnus (not talkative)",
+            "meaning": {
+                "ko": "말이 없는",
+                "en": "silent, not talkative",
+                "ja": "寡黙な",
+                "zh": "沉默寡言的",
+                "fr": "taciturne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tacit-",
+                    "meaning": {
+                        "ko": "'침묵하는'",
+                        "en": "silent, keeping quiet",
+                        "ja": "沈黙する",
+                        "zh": "沉默",
+                        "fr": "silencieux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'성격이 과묵하고 말이 없는'이라는 뜻입니다.",
+                "en": "Character trait of being reserved and not speaking much",
+                "ja": "性格が寡黙で言葉が少ないという意味です",
+                "zh": "性格沉默寡言，很少说话的意思",
+                "fr": "Signifie avoir un caractère réservé et peu bavard"
+            },
+            "example": "He is a reserved and taciturn man.",
+            "translation": {
+                "ko": "그는 내성적이고 과묵한 남자이다.",
+                "ja": "彼は控えめで寡黙な男です",
+                "zh": "他是一个保留且沉默寡言的男人",
+                "fr": "C'est un homme réservé et taciturne"
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "nema (thread, round) nematode, nematocyst",
+        "origin": "Greek, nema (thread)",
+        "meaning": {
+            "ko": "실",
+            "en": "thread",
+            "ja": "糸",
+            "zh": "线",
+            "fr": "fil"
+        }
+    },
+    "words": [
+        {
+            "word": "nematode",
+            "part_of_speech": "",
+            "origin": "Greek, nema (thread) + -oeides (form, shape)",
+            "meaning": {
+                "ko": "실 모양의 것",
+                "en": "thread-like thing",
+                "ja": "糸状の生物",
+                "zh": "线状生物",
+                "fr": "organisme filamenteux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nema-",
+                    "meaning": {
+                        "ko": "'실'",
+                        "en": "thread",
+                        "ja": "糸",
+                        "zh": "线",
+                        "fr": "fil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸이 실처럼 가늘고 둥근 벌레'인 '선충'을 뜻합니다.",
+                "en": "Nematodes are one of the most abundant animals on Earth.",
+                "ja": "体が糸のように細く丸い虫である線虫を意味します",
+                "zh": "身体像线一样细长圆形的蠕虫，即线虫",
+                "fr": "Désigne un ver dont le corps est fin et rond comme un fil, appelé nématode"
+            },
+            "example": "Nematodes are one of the most abundant animals on Earth.",
+            "translation": {
+                "ko": "선충은 지구상에서 가장 풍부한 동물 중 하나이다.",
+                "ja": "線虫は地球上で最も豊富な動物の1つです。",
+                "zh": "线虫是地球上数量最多的动物之一。",
+                "fr": "Les nématodes sont l'un des animaux les plus abondants sur Terre."
+            }
+        },
+        {
+            "word": "nematocyst",
+            "part_of_speech": "",
+            "origin": "Greek, nema (thread) + kystis (bladder, sac)",
+            "meaning": {
+                "ko": "실 주머니",
+                "en": "thread sac",
+                "ja": "刺胞",
+                "zh": "刺细胞",
+                "fr": "nématocyste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nemato-",
+                    "meaning": {
+                        "ko": "'실'",
+                        "en": "thread",
+                        "ja": "糸",
+                        "zh": "线",
+                        "fr": "fil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyst",
+                    "meaning": {
+                        "ko": "'주머니'",
+                        "en": "sac",
+                        "ja": "袋",
+                        "zh": "囊",
+                        "fr": "sac"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "해파리 등이 먹이를 잡거나 방어할 때 사용하는 '실이 들어있는 독 주머니'인 '자포'를 뜻합니다.",
+                "en": "A stinging organelle in jellyfish and other cnidarians used to capture prey or defend; contains a coiled thread-like structure with venom.",
+                "ja": "クラゲなどが捕食や防御に使う毒液を含む糸状の構造を持つ刺胞を指します。",
+                "zh": "海蜇等动物用于捕捉猎物或防御的含有毒液的线状结构细胞器。",
+                "fr": "Organite urticant chez les méduses et autres cnidaires utilisé pour capturer les proies ou se défendre; contient une structure filamenteuse enroulée avec du venin."
+            },
+            "example": "The sting of a jellyfish is caused by nematocysts.",
+            "translation": {
+                "ko": "해파리의 쏘임은 자포에 의해 발생한다.",
+                "ja": "クラゲの刺傷は刺胞によって引き起こされます。",
+                "zh": "海蜇的刺痛是由刺细胞引起的。",
+                "fr": "La piqûre d'une méduse est causée par les nématocystes."
+            }
+        }
+    ]
+}

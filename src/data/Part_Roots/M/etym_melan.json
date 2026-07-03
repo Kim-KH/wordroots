@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "melan (black) melancholy, melanin, melanoma",
+        "origin": "Greek, melas, melanos (black, dark)",
+        "meaning": {
+            "ko": "검은",
+            "en": "black",
+            "ja": "黒い",
+            "zh": "黑色",
+            "fr": "noir"
+        }
+    },
+    "words": [
+        {
+            "word": "melancholy",
+            "part_of_speech": "",
+            "origin": "Greek, melankholia (black bile)",
+            "meaning": {
+                "ko": "검은 담즙",
+                "en": "black bile",
+                "ja": "憂鬱感、悲しみ",
+                "zh": "忧郁、悲伤",
+                "fr": "mélancolie, tristesse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "melan-",
+                    "meaning": {
+                        "ko": "'검은'",
+                        "en": "black",
+                        "ja": "黒い",
+                        "zh": "黑色",
+                        "fr": "noir"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "choly (khole)",
+                    "meaning": {
+                        "ko": "'담즙'",
+                        "en": "bile",
+                        "ja": "胆汁",
+                        "zh": "胆汁",
+                        "fr": "bile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스에서 '검은 담즙이 많으면 우울해진다'고 믿었던 데서 유래하여 '우울감', '비애'를 뜻하게 되었습니다.",
+                "en": "In ancient Greece, it was believed that an excess of black bile caused depression, leading to the meaning of 'sadness' and 'sorrow'.",
+                "ja": "古代ギリシャでは、黒い胆汁が多いと憂鬱になると信じられており、そこから『憂鬱感』『悲しみ』という意味になった。",
+                "zh": "古代希腊人认为黑胆汁过多会导致抑郁，因此产生了『忧郁』『悲伤』的含义。",
+                "fr": "En Grèce antique, on croyait qu'un excès de bile noire causait la dépression, d'où le sens de 'tristesse' et 'chagrin'."
+            },
+            "example": "He was in a state of deep melancholy.",
+            "translation": {
+                "ko": "그는 깊은 우울감에 빠져 있었다.",
+                "ja": "彼は深い憂鬱感の状態にあった。",
+                "zh": "他处于深深的忧郁状态。",
+                "fr": "Il était dans un état de mélancolie profonde."
+            }
+        },
+        {
+            "word": "melanin",
+            "part_of_speech": "",
+            "origin": "Greek, melas (black)",
+            "meaning": {
+                "ko": "검은",
+                "en": "black",
+                "ja": "黒い色素",
+                "zh": "黑色色素",
+                "fr": "pigment noir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "melan-",
+                    "meaning": {
+                        "ko": "'검은'",
+                        "en": "black",
+                        "ja": "黒い",
+                        "zh": "黑色的",
+                        "fr": "noir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부, 머리카락, 눈 등의 색을 결정하는 검은 색소'인 '멜라닌'을 뜻합니다.",
+                "en": "Melanin is a dark pigment that determines the color of skin, hair, eyes and other parts of the body.",
+                "ja": "メラニンは、皮膚、髪、目などの色を決定する黒い色素です。",
+                "zh": "黑色素是决定皮肤、头发、眼睛等部位颜色的黑色色素。",
+                "fr": "La mélanine est le pigment noir qui détermine la couleur de la peau, des cheveux, des yeux et d'autres parties du corps."
+            },
+            "example": "Melanin protects the skin from the sun's harmful rays.",
+            "translation": {
+                "ko": "멜라닌은 태양의 해로운 광선으로부터 피부를 보호한다.",
+                "ja": "メラニンは太陽の有害な光線から肌を保護します。",
+                "zh": "黑色素保护皮肤免受太阳有害射线的伤害。",
+                "fr": "La mélanine protège la peau des rayons nuisibles du soleil."
+            }
+        },
+        {
+            "word": "melanoma",
+            "part_of_speech": "",
+            "origin": "Greek, melas (black) + -oma (tumor)",
+            "meaning": {
+                "ko": "검은 종양",
+                "en": "black tumor",
+                "ja": "黒色腫瘍",
+                "zh": "黑色素瘤",
+                "fr": "mélanome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "melan-",
+                    "meaning": {
+                        "ko": "'검은 색소'",
+                        "en": "melanin",
+                        "ja": "メラニン",
+                        "zh": "黑色素",
+                        "fr": "mélanine"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-oma",
+                    "meaning": {
+                        "ko": "'종양'",
+                        "en": "tumor",
+                        "ja": "腫瘍",
+                        "zh": "肿瘤",
+                        "fr": "tumeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멜라닌 세포가 악성 종양으로 변한' 피부암의 일종인 '흑색종'을 뜻합니다.",
+                "en": "Melanoma is a type of skin cancer that occurs when melanin-producing cells become malignant tumors.",
+                "ja": "メラニン細胞が悪性腫瘍に変わった皮膚がんの一種である黒色腫を意味します。",
+                "zh": "指黑色素细胞恶性肿瘤化的皮肤癌一种，称为黑色素瘤。",
+                "fr": "Un type de cancer de la peau où les cellules productrices de mélanine deviennent des tumeurs malignes."
+            },
+            "example": "Melanoma is the most serious type of skin cancer.",
+            "translation": {
+                "ko": "흑색종은 가장 심각한 종류의 피부암이다.",
+                "ja": "メラノーマは最も深刻な皮膚がんの一種です。",
+                "zh": "黑色素瘤是最严重的皮肤癌类型。",
+                "fr": "Le mélanome est le type de cancer de la peau le plus grave."
+            }
+        }
+    ]
+}

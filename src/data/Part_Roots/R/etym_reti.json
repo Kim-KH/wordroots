@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "reti (web) reticulate, retina, retinaculum",
+        "origin": "Latin, rete (a net)",
+        "meaning": {
+            "ko": "그물",
+            "en": "a net",
+            "ja": "網",
+            "zh": "网",
+            "fr": "filet"
+        }
+    },
+    "words": [
+        {
+            "word": "reticulate",
+            "part_of_speech": "",
+            "origin": "Latin, reticulatus (made like a net)",
+            "meaning": {
+                "ko": "그물처럼 만들어진",
+                "en": "made like a network",
+                "ja": "網目状の",
+                "zh": "网状的",
+                "fr": "réticulé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "reti-",
+                    "meaning": {
+                        "ko": "'그물'",
+                        "en": "net",
+                        "ja": "網",
+                        "zh": "网",
+                        "fr": "réseau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'그물 모양으로 된'이라는 뜻입니다.",
+                "en": "Meaning 'arranged in a net-like pattern'",
+                "ja": "網目のような模様という意味です",
+                "zh": "意思是'呈网状排列'",
+                "fr": "Signifie 'arrangé en motif réticulé'"
+            },
+            "example": "The leaf has a reticulate pattern of veins.",
+            "translation": {
+                "ko": "그 잎은 그물 모양의 잎맥 패턴을 가지고 있다.",
+                "ja": "その葉は網目状の葉脈模様を持っています。",
+                "zh": "这片叶子有网状的叶脉图案。",
+                "fr": "La feuille a un motif réticulé de veines."
+            }
+        },
+        {
+            "word": "retina",
+            "part_of_speech": "",
+            "origin": "Latin, rete (a net)",
+            "meaning": {
+                "ko": "그물",
+                "en": "net",
+                "ja": "網膜",
+                "zh": "视网膜",
+                "fr": "rétine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "reti-",
+                    "meaning": {
+                        "ko": "'그물'",
+                        "en": "net",
+                        "ja": "網",
+                        "zh": "网",
+                        "fr": "filet"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'눈 뒤쪽에 있는 그물 모양의 신경 조직'인 '망막'을 뜻합니다.",
+                "en": "The retina is a mesh-like neural tissue at the back of the eye",
+                "ja": "目の後ろにある網目状の神経組織である網膜を意味します",
+                "zh": "指眼睛后部呈网状的神经组织视网膜",
+                "fr": "Tissu neural réticulé à l'arrière de l'œil"
+            },
+            "example": "The retina converts light into neural signals.",
+            "translation": {
+                "ko": "망막은 빛을 신경 신호로 변환한다.",
+                "ja": "網膜は光を神経信号に変換します",
+                "zh": "视网膜将光转化为神经信号",
+                "fr": "La rétine convertit la lumière en signaux nerveux"
+            }
+        },
+        {
+            "word": "retinaculum",
+            "part_of_speech": "",
+            "origin": "Latin, retinere (to hold back)",
+            "meaning": {
+                "ko": "뒤로 잡다",
+                "en": "to hold back",
+                "ja": "腱を保持する帯状組織",
+                "zh": "保持肌腱的带状组织",
+                "fr": "tissu en bande retenant les tendons"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "retin- (rete)",
+                    "meaning": {
+                        "ko": "'그물, 잡는 것'",
+                        "en": "net, thing that holds",
+                        "ja": "網、捕捉するもの",
+                        "zh": "网、捕捉的东西",
+                        "fr": "filet, chose qui capture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'힘줄을 그물처럼 잡아주는' 띠 모양의 조직인 '지지띠'를 뜻합니다.",
+                "en": "A band-like tissue that holds tendons in place like a net, called a retaining band.",
+                "ja": "腱を網のように保持する帯状組織で、支持帯と呼ばれます。",
+                "zh": "像网一样固定肌腱的带状组织，称为支持带。",
+                "fr": "Tissu en bande qui retient les tendons comme un filet, appelé bande de soutien."
+            },
+            "example": "The retinaculum helps to keep the tendons in place.",
+            "translation": {
+                "ko": "지지띠는 힘줄을 제자리에 유지하는 데 도움이 된다.",
+                "ja": "網状保持帯",
+                "zh": "网状保持带",
+                "fr": "bande de retenue en filet"
+            }
+        }
+    ]
+}

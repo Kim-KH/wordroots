@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "hal (salt) halide, halite, halophile, halophyte",
+        "origin": "Greek, hals (salt)",
+        "meaning": {
+            "ko": "소금",
+            "en": "salt",
+            "ja": "塩",
+            "zh": "盐",
+            "fr": "sel"
+        }
+    },
+    "words": [
+        {
+            "word": "halide",
+            "part_of_speech": "",
+            "origin": "Greek, hals (salt)",
+            "meaning": {
+                "ko": "소금",
+                "en": "salt",
+                "ja": "ハロゲン化物",
+                "zh": "卤化物",
+                "fr": "halogénure"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hal-",
+                    "meaning": {
+                        "ko": "'소금, 할로겐'",
+                        "en": "salt",
+                        "ja": "塩、ハロゲン",
+                        "zh": "盐、卤素",
+                        "fr": "sel, halogène"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'할로겐 원소와 다른 원소의 화합물'을 뜻합니다.",
+                "en": "A compound of a halogen element and another element",
+                "ja": "ハロゲン元素と他の元素の化合物",
+                "zh": "卤素元素与其他元素的化合物",
+                "fr": "Composé d'un élément halogène et d'un autre élément"
+            },
+            "example": "Silver bromide is a type of halide.",
+            "translation": {
+                "ko": "브롬화은은 할로겐화물의 일종이다.",
+                "ja": "臭化銀はハロゲン化物の一種です。",
+                "zh": "溴化银是卤化物的一种。",
+                "fr": "Le bromure d'argent est un type de halogénure."
+            }
+        },
+        {
+            "word": "halite",
+            "part_of_speech": "",
+            "origin": "Greek, hals (salt)",
+            "meaning": {
+                "ko": "소금",
+                "en": "salt",
+                "ja": "岩塩",
+                "zh": "岩盐",
+                "fr": "halite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hal-",
+                    "meaning": {
+                        "ko": "'소금'",
+                        "en": "salt",
+                        "ja": "塩",
+                        "zh": "盐",
+                        "fr": "sel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'암염', 즉 돌소금을 뜻하는 광물학 용어입니다.",
+                "en": "A mineralogical term referring to halite, or rock salt.",
+                "ja": "岩塩、つまり石の塩を意味する鉱物学用語です。",
+                "zh": "一个矿物学术语，指的是岩盐或石盐。",
+                "fr": "Terme minéralogique désignant l'halite, ou sel gemme."
+            },
+            "example": "Halite is the mineral form of sodium chloride.",
+            "translation": {
+                "ko": "암염은 염화나트륨의 광물 형태이다.",
+                "ja": "ハライトは塩化ナトリウムの鉱物形態です。",
+                "zh": "岩盐是氯化钠的矿物形式。",
+                "fr": "L'halite est la forme minérale du chlorure de sodium."
+            }
+        },
+        {
+            "word": "halophile",
+            "part_of_speech": "",
+            "origin": "Greek, hals (salt) + philos (loving)",
+            "meaning": {
+                "ko": "소금을 사랑하는",
+                "en": "salt-loving",
+                "ja": "塩を好む微生物",
+                "zh": "喜盐微生物",
+                "fr": "organisme aimant le sel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "halo-",
+                    "meaning": {
+                        "ko": "'소금'",
+                        "en": "salt",
+                        "ja": "塩",
+                        "zh": "盐",
+                        "fr": "sel"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phile",
+                    "meaning": {
+                        "ko": "'사랑하는'",
+                        "en": "loving",
+                        "ja": "好む",
+                        "zh": "喜爱",
+                        "fr": "aimer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소금 농도가 높은 환경에서 잘 자라는 미생물'인 '호염균'을 뜻합니다.",
+                "en": "Refers to microorganisms that thrive in high-salinity environments",
+                "ja": "高い塩濃度環境で よく成長する微生物を指します",
+                "zh": "指在高盐浓度环境中生长良好的微生物",
+                "fr": "Désigne les microorganismes qui prospèrent dans les environnements à haute salinité"
+            },
+            "example": "Halophiles thrive in environments like salt lakes.",
+            "translation": {
+                "ko": "호염균은 소금 호수와 같은 환경에서 번성한다.",
+                "ja": "好塩菌",
+                "zh": "嗜盐菌",
+                "fr": "halophile"
+            }
+        },
+        {
+            "word": "halophyte",
+            "part_of_speech": "",
+            "origin": "Greek, hals (salt) + phyton (plant)",
+            "meaning": {
+                "ko": "소금 식물",
+                "en": "salt-tolerant plant",
+                "ja": "塩生植物",
+                "zh": "盐生植物",
+                "fr": "plante halophyte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "halo-",
+                    "meaning": {
+                        "ko": "'소금'",
+                        "en": "salt",
+                        "ja": "塩",
+                        "zh": "盐",
+                        "fr": "sel"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyte",
+                    "meaning": {
+                        "ko": "'식물'",
+                        "en": "plant",
+                        "ja": "植物",
+                        "zh": "植物",
+                        "fr": "plante"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'염분이 많은 땅에서 자라는 식물'인 '염생 식물'을 뜻합니다.",
+                "en": "A plant that grows in salt-rich soils, also called a salt-tolerant plant.",
+                "ja": "塩分の多い土地で育つ植物、つまり耐塩性植物を意味します。",
+                "zh": "生长在盐分丰富的土壤中的植物，也称为耐盐植物。",
+                "fr": "Une plante qui pousse dans les sols riches en sel, aussi appelée plante halotolérante."
+            },
+            "example": "Mangroves are a type of halophyte.",
+            "translation": {
+                "ko": "맹그로브는 염생 식물의 일종이다.",
+                "ja": "マングローブは塩生植物の一種です。",
+                "zh": "红树林是一种盐生植物。",
+                "fr": "Les palétuviers sont un type de plante halophyte."
+            }
+        }
+    ]
+}

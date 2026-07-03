@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "am (love) amateur, amoretto, amour propre",
+        "origin": "Latin, amare (to love), amor (love)",
+        "meaning": {
+            "ko": "사랑하다",
+            "en": "to love",
+            "ja": "愛する",
+            "zh": "爱",
+            "fr": "aimer"
+        }
+    },
+    "words": [
+        {
+            "word": "amateur",
+            "part_of_speech": "",
+            "origin": "French, amateur (lover of)",
+            "meaning": {
+                "ko": "사랑하는 사람",
+                "en": "lover of",
+                "ja": "愛好者",
+                "zh": "爱好者",
+                "fr": "amateur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "am (amare)",
+                    "meaning": {
+                        "ko": "'사랑하다'",
+                        "en": "to love",
+                        "ja": "愛する",
+                        "zh": "热爱",
+                        "fr": "aimer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ateur (Latin -ator)",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어떤 일을 돈벌이가 아닌 '사랑(am)해서 하는 사람'이라는 의미에서 '아마추어', '비전문가'를 뜻하게 되었습니다.",
+                "en": "The word 'amateur' comes from the meaning of 'a person who does something for love (am) rather than for money', which led to the meanings of 'amateur' and 'non-professional'.",
+                "ja": "ある仕事をお金稼ぎではなく'愛(am)してする人'という意味から、'アマチュア'、'非専門家'を意味するようになりました。",
+                "zh": "从'为了热爱(am)而做某项工作的人'的含义发展而来，而非为了赚钱，因此有了'业余爱好者'和'非专业人士'的含义。",
+                "fr": "Le mot 'amateur' vient du sens 'personne qui fait quelque chose par amour (am) plutôt que pour l'argent', ce qui a conduit aux significations 'amateur' et 'non-professionnel'."
+            },
+            "example": "He is an amateur photographer in his spare time.",
+            "translation": {
+                "ko": "그는 여가 시간에 아마추어 사진작가로 활동한다.",
+                "ja": "彼は余暇時間に写真の愛好家です。",
+                "zh": "他是业余摄影爱好者。",
+                "fr": "Il est un amateur de photographie dans ses loisirs."
+            }
+        },
+        {
+            "word": "amoretto",
+            "part_of_speech": "",
+            "origin": "Italian, amoretto (diminutive of amore \"love\")",
+            "meaning": {
+                "ko": "작은 사랑",
+                "en": "little love",
+                "ja": "小さな愛",
+                "zh": "小爱",
+                "fr": "petit amour"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "amor (amore)",
+                    "meaning": {
+                        "ko": "'사랑'",
+                        "en": "love",
+                        "ja": "愛",
+                        "zh": "爱",
+                        "fr": "amour"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-etto",
+                    "meaning": {
+                        "ko": "'작은'",
+                        "en": "diminutive suffix",
+                        "ja": "小さい接尾辞",
+                        "zh": "小的后缀",
+                        "fr": "suffixe diminutif"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "이탈리아어 'amore(사랑)'에 '작다'는 의미의 접미사 '-etto'가 붙은 형태로, 미술에서 아기 천사나 큐피드 상을 의미하는 '아모레토'로 사용됩니다.",
+                "en": "From Italian 'amore' (love) with the diminutive suffix '-etto' meaning small. In art, 'amoretto' refers to depictions of baby angels or Cupid figures.",
+                "ja": "イタリア語の'amore(愛)'に'小さい'という意味の接尾辞'-etto'が付いた形で、美術ではアモレットは赤ちゃん天使やキューピッド像を意味します。",
+                "zh": "由意大利语'amore(爱)'加上表示'小'的后缀'-etto'组成，在艺术中'amoretto'指婴儿天使或丘比特形象。",
+                "fr": "Du mot italien 'amore' (amour) avec le suffixe diminutif '-etto' signifiant petit. En art, 'amoretto' désigne les représentations d'anges bébés ou de figures de Cupidon."
+            },
+            "example": "The fountain was decorated with several amoretti.",
+            "translation": {
+                "ko": "그 분수는 여러 개의 아모레토로 장식되어 있었다.",
+                "ja": "噴水池は��数のアモレットで装飾されていました。",
+                "zh": "喷泉被几个小爱神像装饰。",
+                "fr": "La fontaine était décorée de plusieurs amoretti."
+            }
+        },
+        {
+            "word": "amour propre",
+            "part_of_speech": "",
+            "origin": "French, amour-propre (self-love)",
+            "meaning": {
+                "ko": "자기애",
+                "en": "self-love",
+                "ja": "自尊心",
+                "zh": "自尊心",
+                "fr": "amour-propre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "amour (amor)",
+                    "meaning": {
+                        "ko": "'사랑'",
+                        "en": "love",
+                        "ja": "愛",
+                        "zh": "爱",
+                        "fr": "amour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "propre (proprius)",
+                    "meaning": {
+                        "ko": "'자신의'",
+                        "en": "one's own",
+                        "ja": "自分自身の",
+                        "zh": "自己的",
+                        "fr": "propre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "프랑스어로 '자기 자신(propre)에 대한 사랑(amour)'을 의미하며, '자존심', '자부심'이라는 뜻으로 쓰입니다.",
+                "en": "French term meaning love for oneself; used to express pride or self-respect",
+                "ja": "フランス語で自分自身への愛を意味し、自尊心や誇りの意味で使われる",
+                "zh": "法语术语，意为对自身的爱；用来表达自尊心或自豪感",
+                "fr": "Terme français signifiant l'amour de soi; exprime l'estime de soi ou la fierté"
+            },
+            "example": "His amour propre was wounded by her criticism.",
+            "translation": {
+                "ko": "그의 자존심은 그녀의 비판에 상처를 입었다.",
+                "ja": "彼女の批判は彼の自尊心を傷つけた。",
+                "zh": "她的批评伤害了他的自尊心。",
+                "fr": "Sa critique a blessé son amour-propre."
+            }
+        }
+    ]
+}

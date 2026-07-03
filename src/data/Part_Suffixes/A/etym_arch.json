@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "arch (ruler) patriarch, matriarch, monarch",
+        "origin": "Greek, arkhos (a ruler)",
+        "meaning": {
+            "ko": "지배자",
+            "en": "a ruler",
+            "ja": "支配者",
+            "zh": "统治者",
+            "fr": "un dirigeant"
+        }
+    },
+    "words": [
+        {
+            "word": "patriarch",
+            "part_of_speech": "",
+            "origin": "Greek, patriarkhes (father of a race)",
+            "meaning": {
+                "ko": "종족의 아버지",
+                "en": "father of a tribe",
+                "ja": "一族の父",
+                "zh": "族长",
+                "fr": "chef de famille"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "patri-",
+                    "meaning": {
+                        "ko": "'아버지'",
+                        "en": "father",
+                        "ja": "父",
+                        "zh": "父亲",
+                        "fr": "père"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arch",
+                    "meaning": {
+                        "ko": "'우두머리'",
+                        "en": "ruler",
+                        "ja": "統治者",
+                        "zh": "首领",
+                        "fr": "chef"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가족이나 부족의 남자 우두머리'인 '가부장'을 뜻합니다.",
+                "en": "Refers to the male leader of a family or tribe, a patriarch",
+                "ja": "家族や部族の男性の指導者を意味する",
+                "zh": "指家族或部落的男性首领",
+                "fr": "Désigne le chef masculin d'une famille ou d'une tribu"
+            },
+            "example": "The patriarch of the family made all the important decisions.",
+            "translation": {
+                "ko": "그 가족의 가부장이 모든 중요한 결정을 내렸다.",
+                "ja": "その家族の族長はすべての重要な決定を下した。",
+                "zh": "这个家族的族长做出了所有重要决定。",
+                "fr": "Le patriarche de la famille prenait toutes les décisions importantes."
+            }
+        },
+        {
+            "word": "matriarch",
+            "part_of_speech": "",
+            "origin": "Greek, matriarkhes",
+            "meaning": {
+                "ko": "종족의 어머니",
+                "en": "mother of a tribe",
+                "ja": "一族の母",
+                "zh": "家族的母亲",
+                "fr": "mère de famille"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "matri-",
+                    "meaning": {
+                        "ko": "'어머니'",
+                        "en": "mother",
+                        "ja": "母",
+                        "zh": "母亲",
+                        "fr": "mère"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arch",
+                    "meaning": {
+                        "ko": "'우두머리'",
+                        "en": "ruler",
+                        "ja": "指導者",
+                        "zh": "统治者",
+                        "fr": "chef"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가족이나 부족의 여자 우두머리'인 '가모장'을 뜻합니다.",
+                "en": "Refers to a female leader of a family or tribe",
+                "ja": "家族や部族の女性指導者を意味します",
+                "zh": "指家族或部落的女性领导者",
+                "fr": "Désigne le chef femelle d'une famille ou tribu"
+            },
+            "example": "The elephant herd is led by an old matriarch.",
+            "translation": {
+                "ko": "그 코끼리 떼는 늙은 암컷 우두머리가 이끈다.",
+                "ja": "象の群れは年老いた一族の母に率いられている。",
+                "zh": "象群由一位年迈的族母领导。",
+                "fr": "Le troupeau d'éléphants est dirigé par une vieille matriarche."
+            }
+        },
+        {
+            "word": "monarch",
+            "part_of_speech": "",
+            "origin": "Greek, monarkhes (a sole ruler)",
+            "meaning": {
+                "ko": "단독 지배자",
+                "en": "sole ruler",
+                "ja": "唯一の支配者",
+                "zh": "唯一的统治者",
+                "fr": "souverain unique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mon-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arch",
+                    "meaning": {
+                        "ko": "'지배자'",
+                        "en": "ruler",
+                        "ja": "支配者",
+                        "zh": "统治者",
+                        "fr": "souverain"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혼자서 나라를 다스리는' 통치자인 '군주'를 뜻합니다.",
+                "en": "A ruler who governs a country alone; a sovereign or king/queen.",
+                "ja": "一人で国を統治する統治者である君主を意味します。",
+                "zh": "独自统治国家的统治者，即君主的含义。",
+                "fr": "Un souverain qui gouverne seul un pays, c'est-à-dire un monarque."
+            },
+            "example": "The monarch has ruled for over fifty years.",
+            "translation": {
+                "ko": "그 군주는 50년 넘게 통치해왔다.",
+                "ja": "その君主は50年以上統治している。",
+                "zh": "那位君主已统治超过50年。",
+                "fr": "Le monarque a régné pendant plus de cinquante ans."
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "opia (vision) myopia, presbyopia",
+        "origin": "Greek, ops (eye, face)",
+        "meaning": {
+            "ko": "눈, 시력",
+            "en": "eye, vision",
+            "ja": "目、視力",
+            "zh": "眼睛、视力",
+            "fr": "œil, vision"
+        }
+    },
+    "words": [
+        {
+            "word": "myopia",
+            "part_of_speech": "",
+            "origin": "Greek, myops (short-sighted)",
+            "meaning": {
+                "ko": "눈을 가늘게 뜨는",
+                "en": "to narrow one's eyes",
+                "ja": "近視",
+                "zh": "近视",
+                "fr": "myopie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "my- (myein)",
+                    "meaning": {
+                        "ko": "'닫다'",
+                        "en": "to shut",
+                        "ja": "閉じる",
+                        "zh": "关闭",
+                        "fr": "fermer"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opia",
+                    "meaning": {
+                        "ko": "'시력'",
+                        "en": "vision",
+                        "ja": "視力",
+                        "zh": "视力",
+                        "fr": "vision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 있는 것을 보기 위해 눈을 가늘게 뜨는' 모습에서 유래하여 '근시'를 뜻합니다.",
+                "en": "Derived from the appearance of squinting to see distant objects, meaning short-sightedness",
+                "ja": "遠くのものを見るために目を細める様子から由来し、近視を意味します",
+                "zh": "源自为了看清远处物体而眯眼的样子，意为近视",
+                "fr": "Dérivé de l'apparence de plisser les yeux pour voir les objets éloignés, signifiant myopie"
+            },
+            "example": "Myopia is a common vision condition in which you can see objects near to you clearly, but objects farther away are blurry.",
+            "translation": {
+                "ko": "근시는 가까이 있는 물체는 선명하게 볼 수 있지만 멀리 있는 물체는 흐릿하게 보이는 흔한 시력 상태이다.",
+                "ja": "近視は一般的な視覚障害で、近くの物は明確に見えますが、遠くの物はぼやけて見えます",
+                "zh": "近视是常见的视觉问题，能清楚看到近处物体，但远处物体模糊不清",
+                "fr": "La myopie est un trouble visuel courant où vous voyez clairement les objets proches, mais les objets éloignés sont flous"
+            }
+        },
+        {
+            "word": "presbyopia",
+            "part_of_speech": "",
+            "origin": "Greek, presbys (old man) + ops (eye)",
+            "meaning": {
+                "ko": "늙은 눈",
+                "en": "old eye",
+                "ja": "老眼",
+                "zh": "老花眼",
+                "fr": "presbytie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "presby-",
+                    "meaning": {
+                        "ko": "'늙은'",
+                        "en": "old",
+                        "ja": "老いた",
+                        "zh": "老的",
+                        "fr": "vieux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opia",
+                    "meaning": {
+                        "ko": "'시력'",
+                        "en": "vision",
+                        "ja": "視力",
+                        "zh": "视力",
+                        "fr": "vision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나이가 들면서 눈의 조절력이 떨어져 가까운 곳이 잘 보이지 않는' 증상인 '노안'을 뜻합니다.",
+                "en": "Presbyopia is a natural part of the aging process where the eye's focusing ability declines, making it difficult to see nearby objects clearly.",
+                "ja": "加齢とともに眼の調節力が低下し、近くが見えにくくなる症状を意味します。",
+                "zh": "随着年龄增长，眼睛的调节能力下降，近处难以看清的症状。",
+                "fr": "Condition où la capacité de mise au point de l'œil diminue avec l'âge, rendant difficile la vision rapprochée."
+            },
+            "example": "Presbyopia is a natural part of the aging process.",
+            "translation": {
+                "ko": "노안은 노화 과정의 자연스러운 부분이다.",
+                "ja": "老眼は老化プロセスの自然な部分です。",
+                "zh": "老花眼是衰老过程的自然部分。",
+                "fr": "La presbytie est une partie naturelle du processus de vieillissement."
+            }
+        }
+    ]
+}

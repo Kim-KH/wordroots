@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "iatric (treatment) geriatric, pediatric, psychiatric",
+        "origin": "Greek, iatrikos (of a physician)",
+        "meaning": {
+            "ko": "의사의",
+            "en": "of a physician",
+            "ja": "医師の",
+            "zh": "医生的",
+            "fr": "d'un médecin"
+        }
+    },
+    "words": [
+        {
+            "word": "geriatric",
+            "part_of_speech": "",
+            "origin": "Greek, geras (old age) + iatros (physician)",
+            "meaning": {
+                "ko": "노년 의사",
+                "en": "physician for elderly people",
+                "ja": "老年医学",
+                "zh": "老年医学",
+                "fr": "gériatrie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "geri-",
+                    "meaning": {
+                        "ko": "'노인'",
+                        "en": "old age",
+                        "ja": "老人",
+                        "zh": "老人",
+                        "fr": "personne âgée"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-iatric",
+                    "meaning": {
+                        "ko": "'의술의'",
+                        "en": "of medical practice",
+                        "ja": "医学の",
+                        "zh": "医学的",
+                        "fr": "médical"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'노인들을 위한 의술'이라는 의미에서 '노인병학의'라는 뜻입니다.",
+                "en": "Medicine for elderly people",
+                "ja": "高齢者のための医学",
+                "zh": "为老年人的医学",
+                "fr": "Médecine pour personnes âgées"
+            },
+            "example": "He is a geriatric specialist.",
+            "translation": {
+                "ko": "그는 노인병 전문의이다.",
+                "ja": "彼は老年医学の専門家です。",
+                "zh": "他是老年医学专家。",
+                "fr": "Il est un spécialiste en gériatrie."
+            }
+        },
+        {
+            "word": "pediatric",
+            "part_of_speech": "",
+            "origin": "Greek, pais (child) + iatros (physician)",
+            "meaning": {
+                "ko": "아이 의사",
+                "en": "child doctor",
+                "ja": "小児科の",
+                "zh": "儿科的",
+                "fr": "pédiatrique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped-",
+                    "meaning": {
+                        "ko": "'아이'",
+                        "en": "child",
+                        "ja": "子ども",
+                        "zh": "儿童",
+                        "fr": "enfant"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-iatric",
+                    "meaning": {
+                        "ko": "'의술의'",
+                        "en": "of medical practice",
+                        "ja": "医学の",
+                        "zh": "医学的",
+                        "fr": "médical"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어린이를 위한 의술'이라는 의미에서 '소아과의'라는 뜻입니다.",
+                "en": "Relating to medical care for children",
+                "ja": "子どもを対象とした医療を示す",
+                "zh": "指针对儿童的医疗护理",
+                "fr": "Relatif aux soins médicaux des enfants"
+            },
+            "example": "She works in the pediatric ward of the hospital.",
+            "translation": {
+                "ko": "그녀는 그 병원의 소아과 병동에서 일한다.",
+                "ja": "彼女は病院の小児科病棟で働いている。",
+                "zh": "她在医院的儿科病房工作。",
+                "fr": "Elle travaille dans le service de pédiatrie de l'hôpital."
+            }
+        },
+        {
+            "word": "psychiatric",
+            "part_of_speech": "",
+            "origin": "Greek, psykhe (mind) + iatros (physician)",
+            "meaning": {
+                "ko": "정신 의사",
+                "en": "mental doctor or psychiatrist",
+                "ja": "精神医学の",
+                "zh": "精神科的",
+                "fr": "psychiatrique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psych-",
+                    "meaning": {
+                        "ko": "'정신'",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-iatric",
+                    "meaning": {
+                        "ko": "'의술의'",
+                        "en": "of medical practice or healing art",
+                        "ja": "医学的な",
+                        "zh": "医学的",
+                        "fr": "médical"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신을 치료하는' '정신과의'라는 뜻입니다.",
+                "en": "Relating to mental health treatment and psychiatric medicine",
+                "ja": "精神の治療に関する精神科医学的な意味です",
+                "zh": "与精神健康治疗相关的精神医学含义",
+                "fr": "Relatif au traitement de la santé mentale et la médecine psychiatrique"
+            },
+            "example": "He is receiving psychiatric treatment.",
+            "translation": {
+                "ko": "그는 정신과 치료를 받고 있다.",
+                "ja": "彼は精神科治療を受けています",
+                "zh": "他正在接受精神科治疗",
+                "fr": "Il reçoit un traitement psychiatrique"
+            }
+        }
+    ]
+}

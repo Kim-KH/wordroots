@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "obver (turn) obverse, obversely",
+        "origin": "Latin, obvertere (to turn toward or against)",
+        "meaning": {
+            "ko": "…쪽으로 돌리다",
+            "en": "to turn toward",
+            "ja": "...の方に向く",
+            "zh": "转向...",
+            "fr": "se tourner vers..."
+        }
+    },
+    "words": [
+        {
+            "word": "obverse",
+            "part_of_speech": "",
+            "origin": "Latin, obversus (turned toward)",
+            "meaning": {
+                "ko": "…쪽으로 돌려진",
+                "en": "turned toward one side",
+                "ja": "表面、正面",
+                "zh": "正面、币面",
+                "fr": "face, avers"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "'~을 향하여'",
+                        "en": "toward",
+                        "ja": "に向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verse",
+                    "meaning": {
+                        "ko": "'돌리다'",
+                        "en": "to turn",
+                        "ja": "回す",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보는 사람 쪽으로 돌려진 면'이라는 의미에서 동전이나 메달의 '앞면'을 뜻합니다. 반대는 'reverse'입니다.",
+                "en": "Refers to the front side of a coin or medal that faces the viewer, opposite of reverse",
+                "ja": "見る人に向かって回した面という意味から、コインやメダルの『表面』を意味します。反対は『reverse』です。",
+                "zh": "从面向观看者的一面的含义来看，指硬币或奖章的'正面'。相反的是'reverse'。",
+                "fr": "Désigne le côté face du spectateur d'une pièce ou d'une médaille. Le contraire est 'reverse'."
+            },
+            "example": "The obverse of the coin shows the head of the queen.",
+            "translation": {
+                "ko": "그 동전의 앞면에는 여왕의 두상이 있다.",
+                "ja": "そのコインの表面には女王の顔が描かれています。",
+                "zh": "这枚硬币的正面显示了女王的头像。",
+                "fr": "L'avers de la pièce montre la tête de la reine."
+            }
+        },
+        {
+            "word": "obversely",
+            "part_of_speech": "",
+            "origin": "Latin, obversus",
+            "meaning": {
+                "ko": "…쪽으로 돌려진",
+                "en": "turned toward the opposite side",
+                "ja": "逆に、反対側に",
+                "zh": "反面地、相反地",
+                "fr": "inversement, du côté opposé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "obverse-",
+                    "meaning": {
+                        "ko": "'반대의'",
+                        "en": "opposite",
+                        "ja": "反対の",
+                        "zh": "相反的",
+                        "fr": "opposé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반대로', '이면으로는'이라는 뜻입니다.",
+                "en": "Means 'conversely' or 'on the other hand'; refers to the opposite side or reverse aspect",
+                "ja": "反対に、裏返しという意味です",
+                "zh": "表示相反地、从另一个角度来说",
+                "fr": "Signifie 'inversement' ou 'du côté opposé'"
+            },
+            "example": "He is very outgoing, but obversely, he can be quite shy in new situations.",
+            "translation": {
+                "ko": "그는 매우 외향적이지만, 반대로 새로운 상황에서는 꽤 수줍어할 수 있다.",
+                "ja": "彼は非常に社交的ですが、反対に新しい状況ではかなり内気になることができます。",
+                "zh": "他非常外向，但反面在新情况下可能相当害羞。",
+                "fr": "Il est très extraverti, mais inversement, il peut être assez timide dans les nouvelles situations."
+            }
+        }
+    ]
+}

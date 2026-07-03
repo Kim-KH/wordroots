@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "phas (speech) aphasia, aphasic, dysphasia",
+        "origin": "Greek, phasis (speech)",
+        "meaning": {
+            "ko": "말",
+            "en": "speech",
+            "ja": "言葉",
+            "zh": "言语",
+            "fr": "parole"
+        }
+    },
+    "words": [
+        {
+            "word": "aphasia",
+            "part_of_speech": "",
+            "origin": "Greek, a- (not) + phasis (speech)",
+            "meaning": {
+                "ko": "말이 없음",
+                "en": "absence of speech",
+                "ja": "言葉がない",
+                "zh": "没有言语",
+                "fr": "absence de parole"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "not, without",
+                        "ja": "ない、なし",
+                        "zh": "没有、无",
+                        "fr": "sans, pas de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phas-",
+                    "meaning": {
+                        "ko": "'말'",
+                        "en": "speech",
+                        "ja": "言葉、会話",
+                        "zh": "言语、说话",
+                        "fr": "parole, langage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "뇌 손상으로 인해 '말하는 능력을 상실하는' 증상인 '실어증'을 뜻합니다.",
+                "en": "A condition resulting from brain damage that causes loss of speech ability, known as aphasia.",
+                "ja": "脳損傷により'言語能力を失う'症状である'失語症'を意味します。",
+                "zh": "由脑损伤引起'失去说话能力'的症状，称为'失语症'。",
+                "fr": "Une condition résultant de lésions cérébrales causant une perte de la capacité à parler, connue sous le nom d'aphasie."
+            },
+            "example": "Aphasia is a communication disorder.",
+            "translation": {
+                "ko": "실어증은 의사소통 장애이다.",
+                "ja": "失語症は言語障害です。",
+                "zh": "失语症是一种沟通障碍。",
+                "fr": "L'aphasie est un trouble de la communication."
+            }
+        },
+        {
+            "word": "aphasic",
+            "part_of_speech": "",
+            "origin": "Greek, a- (not) + phasis (speech)",
+            "meaning": {
+                "ko": "말이 없음",
+                "en": "without speech or utterance",
+                "ja": "失語症の",
+                "zh": "失语症的",
+                "fr": "aphasique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aphas-",
+                    "meaning": {
+                        "ko": "'실어증'",
+                        "en": "aphasia or speech loss",
+                        "ja": "失語症",
+                        "zh": "失语症",
+                        "fr": "aphasie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실어증을 앓는' 또는 '실어증 환자'를 뜻합니다.",
+                "en": "Describes a person with aphasia or relating to aphasia",
+                "ja": "失語症を患う、または失語症患者を意味します",
+                "zh": "指患有失语症的人或与失语症相关",
+                "fr": "Décrit une personne atteinte d'aphasie ou relative à l'aphasie"
+            },
+            "example": "The aphasic patient struggled to find the right words.",
+            "translation": {
+                "ko": "그 실어증 환자는 올바른 단어를 찾기 위해 애썼다.",
+                "ja": "失語症患者は適切な言葉を見つけるのに苦労しました",
+                "zh": "失语症患者很难找到合适的词语",
+                "fr": "Le patient aphasique avait du mal à trouver les bons mots"
+            }
+        },
+        {
+            "word": "dysphasia",
+            "part_of_speech": "",
+            "origin": "Greek, dys- (bad, difficult) + phasis (speech)",
+            "meaning": {
+                "ko": "어려운 말",
+                "en": "difficult speech",
+                "ja": "言語障害",
+                "zh": "语言障碍",
+                "fr": "trouble du langage"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dys-",
+                    "meaning": {
+                        "ko": "'어려움'",
+                        "en": "difficulty",
+                        "ja": "困難",
+                        "zh": "困难",
+                        "fr": "difficulté"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phas-",
+                    "meaning": {
+                        "ko": "'말'",
+                        "en": "speech",
+                        "ja": "言語",
+                        "zh": "言语",
+                        "fr": "parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'언어 사용에 어려움이 있는' 증상인 '언어 장애'를 뜻합니다.",
+                "en": "A condition affecting language use ability; language disorder symptom",
+                "ja": "言語使用能力に支障がある症状を意味する言語障害",
+                "zh": "指言语使用困难的症状，属于语言障碍",
+                "fr": "Trouble affectant la capacité à utiliser le langage; symptôme de trouble du langage"
+            },
+            "example": "Dysphasia can affect both speech and comprehension.",
+            "translation": {
+                "ko": "언어 장애는 말하기와 이해 모두에 영향을 미칠 수 있다.",
+                "ja": "失語症は発話と理解の両方に影響を及ぼす可能性があります。",
+                "zh": "失语症可能影响言语和理解能力。",
+                "fr": "La dysphasia peut affecter à la fois la parole et la compréhension."
+            }
+        }
+    ]
+}

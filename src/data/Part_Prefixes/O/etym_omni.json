@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "omni (all) omnipotence, omnipresence, omniscience, omnivorous",
+        "origin": "Latin, omnis (all, every)",
+        "meaning": {
+            "ko": "모든",
+            "en": "all, every",
+            "ja": "すべて、毎〜",
+            "zh": "全、每",
+            "fr": "tout, chaque"
+        }
+    },
+    "words": [
+        {
+            "word": "omnipotence",
+            "part_of_speech": "",
+            "origin": "Latin, omnipotentia (all-powerful)",
+            "meaning": {
+                "ko": "모든 힘을 가진",
+                "en": "having all power",
+                "ja": "全能、すべての力",
+                "zh": "全能、无所不能",
+                "fr": "toute-puissance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "omni-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべて、あらゆる",
+                        "zh": "所有、一切",
+                        "fr": "tout"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "potence (potentia)",
+                    "meaning": {
+                        "ko": "'힘, 능력'",
+                        "en": "power",
+                        "ja": "力、能力",
+                        "zh": "力量、能力",
+                        "fr": "puissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 것을 할 수 있는 힘'이라는 의미에서 '전능'을 뜻합니다.",
+                "en": "Means absolute power capable of doing anything",
+                "ja": "あらゆることができる絶対的な力という意味から、全能を表します",
+                "zh": "表示能够做任何事情的绝对力量",
+                "fr": "Signifie la puissance absolue capable de faire n'importe quoi"
+            },
+            "example": "The belief in God's omnipotence is a central tenet of many religions.",
+            "translation": {
+                "ko": "신의 전능함에 대한 믿음은 많은 종교의 중심 교리이다.",
+                "ja": "神の全能さへの信念は多くの宗教の中心的教義です。",
+                "zh": "对上帝全能的信念是许多宗教的核心教义。",
+                "fr": "La croyance en la toute-puissance de Dieu est un principe central de nombreuses religions."
+            }
+        },
+        {
+            "word": "omnipresence",
+            "part_of_speech": "",
+            "origin": "Medieval Latin, omnipraesentia",
+            "meaning": {
+                "ko": "모든 곳에 존재함",
+                "en": "existence in all places",
+                "ja": "あらゆる場所に存在すること",
+                "zh": "无处不在",
+                "fr": "présence partout"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "omni-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべての",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "presence",
+                    "meaning": {
+                        "ko": "'존재, 있음'",
+                        "en": "presence",
+                        "ja": "存在、いること",
+                        "zh": "存在、有",
+                        "fr": "présence"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 곳에 동시에 존재함'을 의미합니다.",
+                "en": "Means existing everywhere simultaneously",
+                "ja": "同時にあらゆる場所に存在することを意味します",
+                "zh": "意为同时存在于所有地方",
+                "fr": "Signifie exister partout à la fois"
+            },
+            "example": "God's omnipresence means He is everywhere at once.",
+            "translation": {
+                "ko": "신의 편재(omnipresence)는 그가 동시에 모든 곳에 존재함을 의미한다.",
+                "ja": "遍在",
+                "zh": "全能性",
+                "fr": "omniscience"
+            }
+        },
+        {
+            "word": "omniscience",
+            "part_of_speech": "",
+            "origin": "Medieval Latin, omniscientia",
+            "meaning": {
+                "ko": "모든 것을 앎",
+                "en": "knowing all things",
+                "ja": "すべてを知ること",
+                "zh": "知道一切",
+                "fr": "connaître tout"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "omni-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべての",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "science (scientia)",
+                    "meaning": {
+                        "ko": "'지식'",
+                        "en": "knowledge",
+                        "ja": "知識",
+                        "zh": "知识",
+                        "fr": "connaissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 것을 아는 지식'이라는 의미에서 '전지'를 뜻합니다.",
+                "en": "Means all-knowing knowledge, referring to omniscience",
+                "ja": "すべてを知る知識という意味で、全知を意味します",
+                "zh": "知道一切的知识，指全知",
+                "fr": "Signifie connaissance de tout, se référant à l'omniscience"
+            },
+            "example": "To be omniscient is to know everything.",
+            "translation": {
+                "ko": "모든 것을 안다는 것은 모든 것을 아는 것이다.",
+                "ja": "全知であることはすべてを知ることである",
+                "zh": "全知就是知道一切",
+                "fr": "Être omniscient, c'est connaître tout"
+            }
+        },
+        {
+            "word": "omnivorous",
+            "part_of_speech": "",
+            "origin": "Latin, omnivorus (all-devouring)",
+            "meaning": {
+                "ko": "모든 것을 먹는",
+                "en": "eating everything",
+                "ja": "すべてを食べる",
+                "zh": "什么都吃的",
+                "fr": "qui mange de tout"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "omni-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべて",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vorous (vorare)",
+                    "meaning": {
+                        "ko": "'삼키다, 먹다'",
+                        "en": "to devour",
+                        "ja": "飲み込む、食べる",
+                        "zh": "吞咽、进食",
+                        "fr": "dévorer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동물이든 식물이든 모든 것을 먹는'이라는 의미에서 '잡식성의'라는 뜻이 되었습니다.",
+                "en": "From the meaning 'eating everything, whether animals or plants', it came to mean omnivorous.",
+                "ja": "動物でも植物でもすべてを食べるという意味から、雑食性という意味になりました。",
+                "zh": "从'无论是动物还是植物都吃'的意思演变而来，表示杂食性的意思。",
+                "fr": "Du sens 'manger de tout, qu'il s'agisse d'animaux ou de plantes', le terme est devenu synonyme de l'omnivore."
+            },
+            "example": "Humans are generally omnivorous.",
+            "translation": {
+                "ko": "인간은 일반적으로 잡식성이다.",
+                "ja": "人間は一般的に雑食です。",
+                "zh": "人类通常是杂食动物。",
+                "fr": "Les humains sont généralement omnivores."
+            }
+        }
+    ]
+}

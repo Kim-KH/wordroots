@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "sagac (wisdom) sage, sagacious, sagacity",
+        "origin": "Latin, sagax (wise)",
+        "meaning": {
+            "ko": "현명한",
+            "en": "wise",
+            "ja": "賢い",
+            "zh": "聪慧的",
+            "fr": "sage"
+        }
+    },
+    "words": [
+        {
+            "word": "sage",
+            "part_of_speech": "",
+            "origin": "Latin, sapere (to be wise)",
+            "meaning": {
+                "ko": "현명하다",
+                "en": "wise and prudent",
+                "ja": "賢い人",
+                "zh": "聪慧的人",
+                "fr": "personne sage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sag- (sapere)",
+                    "meaning": {
+                        "ko": "'현명한'",
+                        "en": "wise",
+                        "ja": "賢い",
+                        "zh": "聪慧的",
+                        "fr": "sage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깊은 지혜와 경험을 가진 사람'인 '현자'를 뜻합니다.",
+                "en": "Refers to 'a sage' - a person with deep wisdom and experience",
+                "ja": "深い知恵と経験を持つ人である'賢者'を意味します",
+                "zh": "指具有深刻智慧和经验的人'智者'",
+                "fr": "Désigne un 'sage' - une personne ayant une profonde sagesse et expérience"
+            },
+            "example": "The old man was revered as a sage.",
+            "translation": {
+                "ko": "그 노인은 현자로서 존경받았다.",
+                "ja": "その老人は賢者として敬われていた。",
+                "zh": "那位老人被尊为智者。",
+                "fr": "Le vieil homme était révéré comme un sage."
+            }
+        },
+        {
+            "word": "sagacious",
+            "part_of_speech": "",
+            "origin": "Latin, sagax (wise)",
+            "meaning": {
+                "ko": "현명한",
+                "en": "wise and discerning",
+                "ja": "賢明な",
+                "zh": "聪慧的",
+                "fr": "sage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sagac-",
+                    "meaning": {
+                        "ko": "'현명한'",
+                        "en": "wise",
+                        "ja": "賢い",
+                        "zh": "聪明",
+                        "fr": "sage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'현명하고 총명한'이라는 뜻입니다.",
+                "en": "Wise and intelligent",
+                "ja": "賢明で聡慧な",
+                "zh": "聪慧且睿智",
+                "fr": "Sage et intelligent"
+            },
+            "example": "He made a sagacious decision.",
+            "translation": {
+                "ko": "그는 현명한 결정을 내렸다.",
+                "ja": "彼は聡明な決断をした。",
+                "zh": "他做了一个聪慧的决定。",
+                "fr": "Il a pris une décision sage."
+            }
+        },
+        {
+            "word": "sagacity",
+            "part_of_speech": "",
+            "origin": "Latin, sagacitas (wisdom)",
+            "meaning": {
+                "ko": "현명함",
+                "en": "wisdom and good judgment",
+                "ja": "賢明さ",
+                "zh": "聪慧",
+                "fr": "sagacité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sagac-",
+                    "meaning": {
+                        "ko": "'현명한'",
+                        "en": "wise",
+                        "ja": "賢い",
+                        "zh": "聪慧的",
+                        "fr": "sage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'현명함', '총명함'을 뜻합니다.",
+                "en": "Means wisdom and intelligence",
+                "ja": "知恵と聡明さを意味します",
+                "zh": "意思是智慧和聪慧",
+                "fr": "Signifie sagesse et intelligence"
+            },
+            "example": "He is known for his sagacity.",
+            "translation": {
+                "ko": "그는 현명함으로 유명하다.",
+                "ja": "彼は賢明さで知られています。",
+                "zh": "他因聪慧而闻名。",
+                "fr": "Il est connu pour sa sagacité."
+            }
+        }
+    ]
+}

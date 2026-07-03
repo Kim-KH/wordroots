@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "odon (tooth) iguanodon, orthodontic, mastodon",
+        "origin": "Greek, odon (tooth)",
+        "meaning": {
+            "ko": "이, 치아",
+            "en": "tooth",
+            "ja": "歯",
+            "zh": "牙齿",
+            "fr": "dent"
+        }
+    },
+    "words": [
+        {
+            "word": "iguanodon",
+            "part_of_speech": "",
+            "origin": "Spanish, iguana + Greek, odon (tooth)",
+            "meaning": {
+                "ko": "이구아나 이빨",
+                "en": "iguana tooth",
+                "ja": "イグアナの歯",
+                "zh": "鬣蜥的牙齿",
+                "fr": "dent d'iguane"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "iguana",
+                    "meaning": {
+                        "ko": "'이구아나'",
+                        "en": "iguana",
+                        "ja": "イグアナ",
+                        "zh": "鬣蜥",
+                        "fr": "iguane"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "odon",
+                    "meaning": {
+                        "ko": "'이빨'",
+                        "en": "tooth",
+                        "ja": "歯",
+                        "zh": "牙齿",
+                        "fr": "dent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "발견된 이빨 화석이 이구아나의 이빨과 비슷하게 생겨 '이구아나의 이빨'이라는 뜻으로 이름 붙여진 공룡입니다.",
+                "en": "Iguanodon was named because its discovered tooth fossils resembled the teeth of an iguana, meaning 'iguana tooth'.",
+                "ja": "発見された歯の化石がイグアナの歯に似ていたため、『イグアナの歯』という意味で名付けられた恐竜です。",
+                "zh": "因为发现的牙齿化石与鬣蜥的牙齿相似，所以以'鬣蜥的牙齿'之意命名的恐龙。",
+                "fr": "Nommé ainsi car ses fossiles de dents ressemblaient aux dents d'iguane, signifiant 'dent d'iguane'."
+            },
+            "example": "Iguanodon was a large herbivorous dinosaur.",
+            "translation": {
+                "ko": "이구아노돈은 큰 초식 공룡이었다.",
+                "ja": "イグアノドン",
+                "zh": "禽龙",
+                "fr": "Iguanodon"
+            }
+        },
+        {
+            "word": "orthodontic",
+            "part_of_speech": "",
+            "origin": "Greek, orthos (straight) + odon (tooth)",
+            "meaning": {
+                "ko": "곧은 이빨",
+                "en": "straight teeth",
+                "ja": "歯列矯正の",
+                "zh": "牙齿矫正的",
+                "fr": "orthodontique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ortho-",
+                    "meaning": {
+                        "ko": "'곧은, 바른'",
+                        "en": "straight",
+                        "ja": "まっすぐな",
+                        "zh": "直的",
+                        "fr": "droit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dont-",
+                    "meaning": {
+                        "ko": "'이빨'",
+                        "en": "tooth",
+                        "ja": "歯",
+                        "zh": "牙齿",
+                        "fr": "dent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'치아를 바르게 만드는' 것과 관련된 분야라는 의미에서 '치과 교정의'라는 뜻입니다.",
+                "en": "Field related to straightening teeth",
+                "ja": "歯を正しく並べることに関連する分野の意味です",
+                "zh": "与使牙齿排列整齐相关的领域之意",
+                "fr": "Domaine lié au redressement des dents"
+            },
+            "example": "He is receiving orthodontic treatment.",
+            "translation": {
+                "ko": "그는 치과 교정 치료를 받고 있다.",
+                "ja": "彼は歯列矯正治療を受けています。",
+                "zh": "他正在接受牙齿矫正治疗。",
+                "fr": "Il reçoit un traitement orthodontique."
+            }
+        },
+        {
+            "word": "mastodon",
+            "part_of_speech": "",
+            "origin": "Greek, mastos (breast) + odon (tooth)",
+            "meaning": {
+                "ko": "젖꼭지 이빨",
+                "en": "breast tooth",
+                "ja": "乳首の歯",
+                "zh": "乳头牙",
+                "fr": "dent de sein"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "masto-",
+                    "meaning": {
+                        "ko": "'가슴, 젖꼭지'",
+                        "en": "breast",
+                        "ja": "乳房、乳首",
+                        "zh": "乳房、乳头",
+                        "fr": "sein, mamelon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "odon",
+                    "meaning": {
+                        "ko": "'이빨'",
+                        "en": "tooth",
+                        "ja": "歯",
+                        "zh": "牙齿",
+                        "fr": "dent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어금니의 돌기가 젖꼭지 모양으로 생겨서 붙여진 이름으로, 멸종한 코끼리과 포유류인 '마스토돈'을 뜻합니다.",
+                "en": "The mastodon is named after the breast-like bumps on its molars. It refers to an extinct mammal of the elephant family.",
+                "ja": "奥歯の隆起が乳首のような形をしていることから名付けられた、絶滅した象科の哺乳動物マストドンを意味します。",
+                "zh": "因臼齿的突起呈乳头状而得名，指已灭绝的象科哺乳动物乳齿象。",
+                "fr": "Nommé d'après les protubérances en forme de sein sur ses molaires, il désigne un mammifère éléphantidé éteint."
+            },
+            "example": "The mastodon is an extinct relative of the elephant.",
+            "translation": {
+                "ko": "마스토돈은 코끼리의 멸종한 친척이다.",
+                "ja": "マストドン（絶滅した象科動物）",
+                "zh": "乳齿象（已灭绝的象科动物）",
+                "fr": "Mastodonte（mammifère éléphantidé éteint）"
+            }
+        }
+    ]
+}

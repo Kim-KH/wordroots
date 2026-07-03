@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ly (manner) chronologically, happily, publicly, quickly",
+        "origin": "Old English, -lic (like)",
+        "meaning": {
+            "ko": "방식",
+            "en": "manner",
+            "ja": "やり方",
+            "zh": "方式",
+            "fr": "manière"
+        }
+    },
+    "words": [
+        {
+            "word": "chronologically",
+            "part_of_speech": "",
+            "origin": "Greek, khronos (time) + logos (study)",
+            "meaning": {
+                "ko": "시간 연구",
+                "en": "in the order of time",
+                "ja": "時間順に",
+                "zh": "按时间顺序",
+                "fr": "par ordre chronologique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chronological",
+                    "meaning": {
+                        "ko": "'연대순의'",
+                        "en": "in order of dates",
+                        "ja": "年代順の",
+                        "zh": "年代顺序的",
+                        "fr": "ordre chronologique"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ly",
+                    "meaning": {
+                        "ko": "'~하게'",
+                        "en": "in manner of",
+                        "ja": "~のように",
+                        "zh": "~地",
+                        "fr": "~ement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시간 순서대로'라는 뜻입니다.",
+                "en": "Arranged in the order of time",
+                "ja": "時間の順序に並べられたという意味です",
+                "zh": "按时间顺序排列的意思",
+                "fr": "Arrangé dans l'ordre du temps"
+            },
+            "example": "The events are arranged chronologically.",
+            "translation": {
+                "ko": "사건들은 연대순으로 배열되어 있다.",
+                "ja": "イベントは時間順に配置されています。",
+                "zh": "这些事件按时间顺序排列。",
+                "fr": "Les événements sont arrangés par ordre chronologique."
+            }
+        },
+        {
+            "word": "happily",
+            "part_of_speech": "",
+            "origin": "English, happy + -ly",
+            "meaning": {
+                "ko": "행복하게",
+                "en": "in a happy manner",
+                "ja": "幸せに",
+                "zh": "幸福地",
+                "fr": "heureux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "happy",
+                    "meaning": {
+                        "ko": "'행복한'",
+                        "en": "happy",
+                        "ja": "幸せな",
+                        "zh": "幸福的",
+                        "fr": "heureux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ly",
+                    "meaning": {
+                        "ko": "'~하게'",
+                        "en": "in a manner of",
+                        "ja": "~のように",
+                        "zh": "~地",
+                        "fr": "~ment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'행복한 방식으로'라는 뜻입니다.",
+                "en": "In a happy manner",
+                "ja": "幸せな方法で",
+                "zh": "以幸福的方式",
+                "fr": "d'une manière heureuse"
+            },
+            "example": "They lived happily ever after.",
+            "translation": {
+                "ko": "그들은 그 후로 행복하게 살았다.",
+                "ja": "彼らはその後幸せに暮らした。",
+                "zh": "他们从此幸福地生活在一起。",
+                "fr": "Ils ont vécu heureux pour toujours."
+            }
+        },
+        {
+            "word": "publicly",
+            "part_of_speech": "",
+            "origin": "Latin, publicus (of the people)",
+            "meaning": {
+                "ko": "사람들의",
+                "en": "of people",
+                "ja": "公開的に",
+                "zh": "公开地",
+                "fr": "publiquement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "public",
+                    "meaning": {
+                        "ko": "'공개의'",
+                        "en": "open or public",
+                        "ja": "公開の",
+                        "zh": "公开的",
+                        "fr": "public"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ly",
+                    "meaning": {
+                        "ko": "'~하게'",
+                        "en": "in such a manner",
+                        "ja": "~するように",
+                        "zh": "~地",
+                        "fr": "~ment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공개적으로', '공공연하게'라는 뜻입니다.",
+                "en": "Means publicly or openly",
+                "ja": "公開的に、公然と という意味です",
+                "zh": "意思是公开地、公然地",
+                "fr": "Signifie publiquement, ouvertement"
+            },
+            "example": "He publicly apologized for his mistake.",
+            "translation": {
+                "ko": "그는 자신의 실수에 대해 공개적으로 사과했다.",
+                "ja": "彼は自分の過ちを公開的に謝罪した。",
+                "zh": "他公开地为自己的错误道歉。",
+                "fr": "Il s'est excusé publiquement pour son erreur."
+            }
+        },
+        {
+            "word": "quickly",
+            "part_of_speech": "",
+            "origin": "Old English, cwic (alive, quick)",
+            "meaning": {
+                "ko": "살아있는, 빠른",
+                "en": "alive, fast",
+                "ja": "速く、素早く",
+                "zh": "快速地、迅速地",
+                "fr": "rapidement, vite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quick",
+                    "meaning": {
+                        "ko": "'빠른'",
+                        "en": "fast",
+                        "ja": "速い",
+                        "zh": "快速的",
+                        "fr": "rapide"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ly",
+                    "meaning": {
+                        "ko": "'~하게'",
+                        "en": "in the manner of",
+                        "ja": "~のように",
+                        "zh": "~地",
+                        "fr": "~ment"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빠른 방식으로'라는 뜻입니다.",
+                "en": "means in a fast manner",
+                "ja": "速い方法で",
+                "zh": "以快速的方式",
+                "fr": "d'une manière rapide"
+            },
+            "example": "Please finish your work quickly.",
+            "translation": {
+                "ko": "당신의 일을 빨리 끝내주세요.",
+                "ja": "あなたの仕事を速く終わらせてください。",
+                "zh": "请快速完成你的工作。",
+                "fr": "Veuillez terminer votre travail rapidement."
+            }
+        }
+    ]
+}

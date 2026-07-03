@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "mid (middle) midday, midnight, midpoint, midsummer",
+        "origin": "Old English, mid (middle)",
+        "meaning": {
+            "ko": "중간",
+            "en": "middle",
+            "ja": "真ん中",
+            "zh": "中间",
+            "fr": "milieu"
+        }
+    },
+    "words": [
+        {
+            "word": "midday",
+            "part_of_speech": "",
+            "origin": "Old English, middæg",
+            "meaning": {
+                "ko": "중간의 날",
+                "en": "middle of the day",
+                "ja": "正午、昼間",
+                "zh": "正午、中午",
+                "fr": "midi, milieu du jour"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mid-",
+                    "meaning": {
+                        "ko": "'중간의'",
+                        "en": "middle",
+                        "ja": "中間の",
+                        "zh": "中间的",
+                        "fr": "milieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "day",
+                    "meaning": {
+                        "ko": "'날'",
+                        "en": "day",
+                        "ja": "日、昼",
+                        "zh": "日、天",
+                        "fr": "jour"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하루의 중간'이라는 의미에서 '정오', '한낮'을 뜻합니다.",
+                "en": "Means noon or midday, referring to the middle of the day",
+                "ja": "一日の中間という意味で、正午や昼間を指します",
+                "zh": "指一天中间的时间，即正午或午间",
+                "fr": "Signifie midi ou l'après-midi, se référant au milieu de la journée"
+            },
+            "example": "The sun is at its highest point at midday.",
+            "translation": {
+                "ko": "해는 정오에 가장 높이 뜬다.",
+                "ja": "太陽は正午に最も高い位置にあります。",
+                "zh": "太阳在正午时到达最高点。",
+                "fr": "Le soleil est à son point le plus haut à midi."
+            }
+        },
+        {
+            "word": "midnight",
+            "part_of_speech": "",
+            "origin": "Old English, midniht",
+            "meaning": {
+                "ko": "중간의 밤",
+                "en": "middle of the night",
+                "ja": "夜中",
+                "zh": "午夜",
+                "fr": "minuit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mid-",
+                    "meaning": {
+                        "ko": "'중간의'",
+                        "en": "middle",
+                        "ja": "中間の",
+                        "zh": "中间的",
+                        "fr": "milieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "night",
+                    "meaning": {
+                        "ko": "'밤'",
+                        "en": "night",
+                        "ja": "夜",
+                        "zh": "夜",
+                        "fr": "nuit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밤의 한가운데'라는 의미에서 '자정', '한밤중'을 뜻합니다.",
+                "en": "Refers to the middle of the night, meaning the exact moment when the day changes from one calendar day to the next.",
+                "ja": "夜の中央という意味から、正確には昼から夜に変わる瞬間を指します。",
+                "zh": "从夜晚的中间之意，指一天从白天变为夜晚的确切时刻。",
+                "fr": "Du milieu de la nuit, désignant le moment exact où le jour change d'un jour calendaire à l'autre."
+            },
+            "example": "The clock struck midnight.",
+            "translation": {
+                "ko": "시계가 자정을 쳤다.",
+                "ja": "時計は真夜中を打った。",
+                "zh": "时钟敲响了午夜。",
+                "fr": "L'horloge a sonné minuit."
+            }
+        },
+        {
+            "word": "midpoint",
+            "part_of_speech": "",
+            "origin": "English, mid- + point",
+            "meaning": {
+                "ko": "중간 지점",
+                "en": "middle point or location",
+                "ja": "中間地点",
+                "zh": "中点",
+                "fr": "point médian"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mid-",
+                    "meaning": {
+                        "ko": "'중간의'",
+                        "en": "middle",
+                        "ja": "中間の",
+                        "zh": "中间的",
+                        "fr": "milieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "point",
+                    "meaning": {
+                        "ko": "'점'",
+                        "en": "point",
+                        "ja": "点",
+                        "zh": "点",
+                        "fr": "point"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것의 정확히 중간에 있는 지점'이라는 의미에서 '중점'을 뜻합니다.",
+                "en": "Refers to a point located exactly in the middle of something",
+                "ja": "あるものの正確に中間にある地点という意味で、中点を意味します",
+                "zh": "指位于某物正中间的地点，意为中点",
+                "fr": "Désigne un point situé exactement au milieu de quelque chose"
+            },
+            "example": "We agreed to meet at the midpoint between our two houses.",
+            "translation": {
+                "ko": "우리는 우리 두 집의 중간 지점에서 만나기로 합의했다.",
+                "ja": "私たちは2つの家の中間地点で会うことに同意しました",
+                "zh": "我们同意在两所房子的中点相见",
+                "fr": "Nous avons convenu de nous rencontrer au point médian entre nos deux maisons"
+            }
+        },
+        {
+            "word": "midsummer",
+            "part_of_speech": "",
+            "origin": "Old English, midsumor",
+            "meaning": {
+                "ko": "중간의 여름",
+                "en": "middle of summer",
+                "ja": "夏至の頃",
+                "zh": "仲夏",
+                "fr": "milieu de l'été"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mid-",
+                    "meaning": {
+                        "ko": "'중간의'",
+                        "en": "middle",
+                        "ja": "中間の",
+                        "zh": "中间的",
+                        "fr": "du milieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "summer",
+                    "meaning": {
+                        "ko": "'여름'",
+                        "en": "summer",
+                        "ja": "夏",
+                        "zh": "夏天",
+                        "fr": "été"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여름의 한가운데'라는 의미에서 '한여름' 또는 '하지'를 뜻합니다.",
+                "en": "Refers to the middle of summer, meaning the summer solstice period or peak summer",
+                "ja": "夏の真ん中を意味し、夏至の時期または盛夏を指します",
+                "zh": "意为夏天的中间，指夏至时期或盛夏",
+                "fr": "Signifie le milieu de l'été, référant au solstice d'été ou au cœur de l'été"
+            },
+            "example": "Shakespeare's play \"A Midsummer Night's Dream\" is very famous.",
+            "translation": {
+                "ko": "셰익스피어의 희곡 \"한여름 밤의 꿈\"은 매우 유명하다.",
+                "ja": "真夏",
+                "zh": "仲夏",
+                "fr": "milieu de l'été"
+            }
+        }
+    ]
+}

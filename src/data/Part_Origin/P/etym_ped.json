@@ -1,0 +1,309 @@
+{
+    "root_info": {
+        "roots": "ped, pod: foot",
+        "origin": "Latin, pedis, pedem (foot) & Greek, podos (foot)",
+        "meaning": {
+            "ko": "발",
+            "en": "foot",
+            "ja": "足",
+            "zh": "脚",
+            "fr": "pied"
+        }
+    },
+    "words": [
+        {
+            "word": "expedite",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped",
+                    "meaning": {
+                        "ko": "발",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발을 족쇄나 덫에서 밖으로 빼내다'는 의미에서, 장애물을 제거하여 일을 '신속히 처리하다', '진척시키다'는 뜻이 되었습니다.",
+                "en": "From 'remove foot from shackle or trap' → 'remove obstacles and handle work swiftly'",
+                "ja": "『足を足枷や罠から外に出す』という意味から、障害物を取り除いて仕事を『迅速に処理する』『進める』という意味になりました。",
+                "zh": "从'把脚从枷锁或陷阱中拔出来'的意思演变为，通过消除障碍来'迅速处理''推进'工作的含义。",
+                "fr": "Du sens 'libérer le pied de la chaîne ou du piège', il a évolué vers 'traiter rapidement le travail', 'accélérer en supprimant les obstacles'."
+            },
+            "example": "We need to expedite the delivery.",
+            "translation": {
+                "ko": "우리는 배송을 신속히 처리해야 한다.",
+                "ja": "配送を迅速に処理する必要があります。",
+                "zh": "我们需要加快交付速度。",
+                "fr": "Nous devons accélérer la livraison."
+            }
+        },
+        {
+            "word": "impediment",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped",
+                    "meaning": {
+                        "ko": "발",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ment",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形后缀",
+                        "fr": "suffixe nominal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발에 족쇄를 채우는 것'이라는 의미에서, 진행을 막는 '방해물', '장애물'을 뜻합니다.",
+                "en": "From the sense of 'shackling the foot,' meaning an obstacle or hindrance to progress.",
+                "ja": "「足に足かせをつける」という意味から、進行を妨げる「障害物」を意味します。",
+                "zh": "从「给脚上枷锁」的意思引申，指阻碍进展的「障碍物」。",
+                "fr": "Du sens de « mettre des entraves au pied », désignant un obstacle ou une entrave au progrès."
+            },
+            "example": "His speech impediment made communication difficult.",
+            "translation": {
+                "ko": "그의 언어 장애는 의사소통을 어렵게 만들었다.",
+                "ja": "彼の言語障害はコミュニケーションを困難にした。",
+                "zh": "他的言语障碍使沟通变得困难。",
+                "fr": "Son trouble de la parole rendait la communication difficile."
+            }
+        },
+        {
+            "word": "impeach",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...里面",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "peach (pedica)",
+                    "meaning": {
+                        "ko": "족쇄",
+                        "en": "fetter",
+                        "ja": "足かせ",
+                        "zh": "脚镣",
+                        "fr": "entrave"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발에 족쇄를 채우다'는 라틴어 impedicare에서 유래했습니다. 물리적 방해에서 의미가 확장되어, 공직자를 '고발하다', '탄핵하다'는 법적 의미로 발전했습니다.",
+                "en": "From Latin impedicare meaning 'to shackle the feet.' The meaning expanded from physical obstruction to the legal sense of 'accuse' or 'impeach' a public official.",
+                "ja": "足を足かせで縛るというラテン語のimpedicareに由来します。物理的な妨害から意味が拡張され、公職者を告発する、弾劾するという法的意味に発展しました。",
+                "zh": "源自拉丁语impedicare，意为\"用脚镣束缚\"。含义从物理上的阻碍扩展到对公职人员的\"指控\"或\"弹劾\"的法律意义。",
+                "fr": "Du latin impedicare signifiant « entraver les pieds ». Le sens s'est étendu d'une obstruction physique au sens juridique d'« accuser » ou de « destituer » un officiel public."
+            },
+            "example": "The congress decided to impeach the president.",
+            "translation": {
+                "ko": "의회는 대통령을 탄핵하기로 결정했다.",
+                "ja": "議会は大統領を弾劾することを決定した。",
+                "zh": "议会决定对总统进行弹劾。",
+                "fr": "Le congrès a décidé de destituer le président."
+            }
+        },
+        {
+            "word": "pedal",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped",
+                    "meaning": {
+                        "ko": "발",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "~에 관련된 것",
+                        "en": "related to",
+                        "ja": "~に関連したもの",
+                        "zh": "与~相关的东西",
+                        "fr": "~lié à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발과 관련된 장치'라는 의미에서, 자전거나 피아노 등의 '페달'을 의미합니다.",
+                "en": "From the meaning 'device related to the foot,' referring to the 'pedal' on bicycles, pianos, and other devices.",
+                "ja": "足に関連した装置という意味から、自転車やピアノなどの「ペダル」を意味します。",
+                "zh": "从\"与脚相关的装置\"的意思引申，指自行车、钢琴等的\"踏板\"。",
+                "fr": "Du sens de « dispositif lié au pied », désignant la « pédale » des vélos, pianos et autres appareils."
+            },
+            "example": "Press the pedal to go faster.",
+            "translation": {
+                "ko": "더 빨리 가려면 페달을 밟으세요.",
+                "ja": "より速く進むためにペダルを踏んでください。",
+                "zh": "踩踏板以加快速度。",
+                "fr": "Appuyez sur la pédale pour aller plus vite."
+            }
+        },
+        {
+            "word": "pedestrian",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pedester",
+                    "meaning": {
+                        "ko": "걸어서 가는",
+                        "en": "on foot",
+                        "ja": "徒歩で行く",
+                        "zh": "步行",
+                        "fr": "à pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발로 걸어 다니는'이라는 의미에서 '보행자의'라는 뜻이 되었고, '평범하고 상상력 없는'이라는 비유적인 의미로도 쓰입니다.",
+                "en": "From the sense of 'traveling on foot' it came to mean 'of a pedestrian,' and is also used metaphorically to mean 'ordinary and unimaginative.'",
+                "ja": "「徒歩で移動する」という意味から「歩行者の」という意味になり、「凡庸で想像力がない」という比喩的な意味でも使われます。",
+                "zh": "从「步行」的含义演变为「行人的」，也用于比喻「平凡且缺乏想象力」的意思。",
+                "fr": "Du sens de « se déplacer à pied » il est devenu « du piéton », et s'utilise aussi au sens figuré pour signifier « ordinaire et sans imagination »."
+            },
+            "example": "The city needs more pedestrian crossings.",
+            "translation": {
+                "ko": "그 도시는 더 많은 보행자 횡단보도가 필요하다.",
+                "ja": "その都市はより多くの歩行者横断歩道が必要です。",
+                "zh": "这座城市需要更多的人行横道。",
+                "fr": "La ville a besoin de plus de passages pour piétons."
+            }
+        },
+        {
+            "word": "polyp",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "poly",
+                    "meaning": {
+                        "ko": "많은",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod",
+                    "meaning": {
+                        "ko": "발",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "足",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "그리스어 polypous('발이 많은')에서 유래했으며, 문어 같은 동물을 가리켰습니다. 현재는 주로 인체 내 점막에 생기는 '용종(茸腫)'을 의미합니다.",
+                "en": "From Greek polypous ('many-footed'), originally referred to octopus-like creatures. Now primarily means a growth on mucous membranes in the human body.",
+                "ja": "ギリシャ語のpolypous（『足が多い』）に由来し、もともとはタコのような動物を指していました。現在は主に人体の粘膜に生じる腫瘍『ポリープ』を意味します。",
+                "zh": "源自希腊语polypous（'多足的'），最初指章鱼等动物。现在主要指人体粘膜上的增生物'息肉'。",
+                "fr": "Du grec polypous ('aux nombreux pieds'), désignait à l'origine une créature ressemblant à une pieuvre. Désigne maintenant principalement une excroissance sur les muqueuses du corps humain."
+            },
+            "example": "The doctor removed a polyp from his colon.",
+            "translation": {
+                "ko": "의사는 그의 결장에서 용종을 제거했다.",
+                "ja": "医者は彼の結腸からポリープを除去した。",
+                "zh": "医生从他的结肠中切除了息肉。",
+                "fr": "Le médecin a retiré un polype de son côlon."
+            }
+        },
+        {
+            "word": "tripod",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "셋",
+                        "en": "three",
+                        "ja": "三つ",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod",
+                    "meaning": {
+                        "ko": "발",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발이 세 개 달린 것'이라는 의미에서, 카메라 등을 올려놓는 '삼각대'를 뜻합니다.",
+                "en": "A stand with three legs, originally used to support cameras and other equipment.",
+                "ja": "三本の足がついた物という意味から、カメラなどを載せる三脚を意味します。",
+                "zh": "从\"有三条腿的东西\"的含义引申，指用于放置相机等设备的三脚架。",
+                "fr": "Du sens de « chose à trois pieds », désigne un trépied utilisé pour supporter des appareils photo et autres équipements."
+            },
+            "example": "I need a tripod for my camera.",
+            "translation": {
+                "ko": "나는 카메라용 삼각대가 필요하다.",
+                "ja": "私は自分のカメラ用三脚が必要です。",
+                "zh": "我需要一个相机三脚架。",
+                "fr": "J'ai besoin d'un trépied pour mon appareil photo."
+            }
+        }
+    ]
+}

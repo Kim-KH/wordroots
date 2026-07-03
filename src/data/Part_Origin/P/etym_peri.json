@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "peri",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "주위에",
+            "en": "around",
+            "ja": "周囲",
+            "zh": "周围",
+            "fr": "autour"
+        }
+    },
+    "words": [
+        {
+            "word": "periscope",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "peri-",
+                    "meaning": {
+                        "ko": "주위",
+                        "en": "around",
+                        "ja": "周囲",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "보는 기구",
+                        "en": "viewing instrument",
+                        "ja": "見る道具",
+                        "zh": "观看装置",
+                        "fr": "appareil de vision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주위를 둘러보는 기구'라는 의미에서, 잠수함 등에 쓰이는 '잠망경'을 뜻합니다.",
+                "en": "An instrument for looking around; refers to a periscope used in submarines.",
+                "ja": "周囲を見る機器という意味から、潜水艦などで使用される潜望鏡を指します。",
+                "zh": "从「观察周围」的意思出发，指潜水艇等使用的潜望镜。",
+                "fr": "Instrument permettant d'observer autour; désigne le périscope utilisé sur les sous-marins."
+            },
+            "example": "The submarine raised its periscope.",
+            "translation": {
+                "ko": "잠수함이 잠망경을 올렸다.",
+                "ja": "潜水艦が潜望鏡を上げた。",
+                "zh": "潜水艇升起了潜望镜。",
+                "fr": "Le sous-marin a levé son périscope."
+            }
+        },
+        {
+            "word": "perimeter",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "peri-",
+                    "meaning": {
+                        "ko": "주위",
+                        "en": "around",
+                        "ja": "周り",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "측정",
+                        "en": "measurement",
+                        "ja": "測定",
+                        "zh": "测量",
+                        "fr": "mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주위를 잰 길이' 즉, 도형의 '둘레'를 의미합니다.",
+                "en": "The distance around the outer edge of a shape or area",
+                "ja": "図形または領域の外側の辺の周りの距離を意味します",
+                "zh": "指图形或区域外边周围的距离",
+                "fr": "La distance autour du bord extérieur d'une forme ou d'une zone"
+            },
+            "example": "The fence marks the perimeter of the property.",
+            "translation": {
+                "ko": "그 울타리는 그 부지의 둘레를 표시한다.",
+                "ja": "そのフェンスはその敷地の周囲を示しています",
+                "zh": "那道栅栏标示了该地产的周界",
+                "fr": "La clôture marque le périmètre de la propriété"
+            }
+        },
+        {
+            "word": "perigee",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "peri-",
+                    "meaning": {
+                        "ko": "주위, 가까이",
+                        "en": "around, near",
+                        "ja": "周り、近く",
+                        "zh": "周围、接近",
+                        "fr": "autour, près"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gee",
+                    "meaning": {
+                        "ko": "지구",
+                        "en": "Earth",
+                        "ja": "地球",
+                        "zh": "地球",
+                        "fr": "Terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "달이나 인공위성이 궤도상에서 '지구에 가장 가까워지는 지점' 즉, '근지점'을 뜻합니다.",
+                "en": "The point in a celestial orbit closest to Earth; the nearest point of an orbiting body to Earth.",
+                "ja": "月や人工衛星が軌道上で地球に最も接近する地点を意味します。",
+                "zh": "指月球或人工卫星在轨道上距地球最近的点。",
+                "fr": "Le point de l'orbite d'un corps céleste le plus proche de la Terre."
+            },
+            "example": "The satellite is at its perigee.",
+            "translation": {
+                "ko": "그 위성은 근지점에 있다.",
+                "ja": "その衛星は近地点にある。",
+                "zh": "该卫星处于近地点。",
+                "fr": "Le satellite est à son périgée."
+            }
+        },
+        {
+            "word": "periodontal",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "peri-",
+                    "meaning": {
+                        "ko": "주위",
+                        "en": "around",
+                        "ja": "周囲",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "odont",
+                    "meaning": {
+                        "ko": "이",
+                        "en": "tooth",
+                        "ja": "歯",
+                        "zh": "牙齿",
+                        "fr": "dent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'치아 주위의'라는 의미에서 '치주의'라는 뜻입니다.",
+                "en": "Means 'around the tooth' in the sense of tissues surrounding the tooth",
+                "ja": "歯の周囲の組織という意味で、歯周病などに関連する医学用語です",
+                "zh": "指围绕牙齿的组织，与牙周病等医学术语相关",
+                "fr": "Signifie 'autour de la dent' en référence aux tissus entourant la dent"
+            },
+            "example": "He has periodontal disease.",
+            "translation": {
+                "ko": "그는 치주 질환을 앓고 있다.",
+                "ja": "彼は歯周病です。",
+                "zh": "他患有牙周病。",
+                "fr": "Il a une maladie parodontale."
+            }
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "root_info": {
+        "roots": "fuse (melt, combine) confuse, fuse, fusion, infuse, transfuse",
+        "origin": "Latin, fundere, fusus (to pour, to melt)",
+        "meaning": {
+            "ko": "붓다, 녹이다",
+            "en": "to pour, to melt",
+            "ja": "注ぐ、溶かす",
+            "zh": "倒，融化",
+            "fr": "verser, fondre"
+        }
+    },
+    "words": [
+        {
+            "word": "confuse",
+            "part_of_speech": "",
+            "origin": "Latin, confundere (to mix together)",
+            "meaning": {
+                "ko": "함께 섞다",
+                "en": "to mix together",
+                "ja": "混乱させる",
+                "zh": "混淆",
+                "fr": "confondre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fuse (fundere)",
+                    "meaning": {
+                        "ko": "'붓다, 섞다'",
+                        "en": "to pour",
+                        "ja": "注ぐ、混ぜる",
+                        "zh": "倒、混合",
+                        "fr": "verser, mélanger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 가지를 함께 섞어 뒤죽박죽으로 만들다'는 의미에서 '혼란시키다', '혼동하다'라는 뜻이 되었습니다.",
+                "en": "From the sense of mixing various things together into a jumbled state, it came to mean to throw into confusion or cause misunderstanding.",
+                "ja": "複数のものを一緒に混ぜてごちゃごちゃにするという意味から、混乱させる、勘違いさせるという意味になりました。",
+                "zh": "从将各种东西混合在一起形成混乱的意义，演变为使困惑、造成误解的含义。",
+                "fr": "Du sens de mélanger diverses choses ensemble dans un état confus, il en vint à signifier jeter dans la confusion ou causer une incompréhension."
+            },
+            "example": "Don't confuse me with your complicated questions.",
+            "translation": {
+                "ko": "복잡한 질문으로 나를 혼란스럽게 하지 마세요.",
+                "ja": "あなたの複雑な質問で私を混乱させないでください。",
+                "zh": "不要用你复杂的问题使我困惑。",
+                "fr": "Ne me confondez pas avec vos questions compliquées."
+            }
+        },
+        {
+            "word": "fuse",
+            "part_of_speech": "",
+            "origin": "Latin, fundere (to melt)",
+            "meaning": {
+                "ko": "녹이다",
+                "en": "to melt",
+                "ja": "溶かす、融合させる",
+                "zh": "熔融、融合",
+                "fr": "fondre, fusionner"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fus-",
+                    "meaning": {
+                        "ko": "'녹이다'",
+                        "en": "to melt",
+                        "ja": "溶かす",
+                        "zh": "熔化",
+                        "fr": "faire fondre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열로 녹여서 하나로 합치다'는 의미에서 '융합하다', '녹다'라는 뜻이며, 전기 회로를 보호하는 '퓨즈'를 뜻하기도 합니다.",
+                "en": "Means 'to melt and combine into one through heat' or 'to fuse', and also refers to a 'fuse' that protects electrical circuits.",
+                "ja": "熱で溶かして一つに合わせることを意味し、『融合する』『溶ける』という意味で、電気回路を保護する『ヒューズ』を意味することもあります。",
+                "zh": "指通过加热熔化并合并为一体，意为'融合''溶化'，也指保护电路的'保险丝'。",
+                "fr": "Signifie 'fondre et combiner en un par la chaleur' ou 'fusionner', et désigne aussi un 'fusible' qui protège les circuits électriques."
+            },
+            "example": "The two metals were fused together.",
+            "translation": {
+                "ko": "두 금속은 함께 융합되었다.",
+                "ja": "二つの金属が融合した。",
+                "zh": "两种金属被熔融在一起。",
+                "fr": "Les deux métaux ont été fondus ensemble."
+            }
+        },
+        {
+            "word": "fusion",
+            "part_of_speech": "",
+            "origin": "Latin, fusio (a pouring out, a melting)",
+            "meaning": {
+                "ko": "쏟아부음, 녹임",
+                "en": "pouring out, melting",
+                "ja": "融合、溶け合い",
+                "zh": "融合、熔合",
+                "fr": "fusion, combinaison"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fus-",
+                    "meaning": {
+                        "ko": "'녹이다, 합치다'",
+                        "en": "to melt, combine",
+                        "ja": "溶かす、合わせる",
+                        "zh": "熔化、结合",
+                        "fr": "fondre, combiner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'녹여서 하나로 합치는 것'이라는 의미에서 '융합', '결합'을 뜻하며, 특히 원자핵이 합쳐지는 '핵융합'을 의미합니다.",
+                "en": "Meaning to combine by melting together into one; refers to 'fusion' or 'combination', particularly 'nuclear fusion' where atomic nuclei merge.",
+                "ja": "溶かして一つに合わせることから、融合、結合を意味し、特に原子核が合わさる核融合を意味します。",
+                "zh": "从熔合成一体的意思，表示融合、结合，特别是指原子核结合的核融合。",
+                "fr": "Signifie combiner en fondant ensemble en un seul; désigne 'fusion' ou 'combinaison', particulièrement 'fusion nucléaire' où les noyaux atomiques se fusionnent."
+            },
+            "example": "Fusion cuisine combines elements of different culinary traditions.",
+            "translation": {
+                "ko": "퓨전 요리는 서로 다른 요리 전통의 요소들을 결합한다.",
+                "ja": "フュージョン料理は異なる料理の伝統の要素を組み合わせます。",
+                "zh": "融合美食结合了不同烹饪传统的元素。",
+                "fr": "La cuisine fusion combine les éléments de différentes traditions culinaires."
+            }
+        },
+        {
+            "word": "infuse",
+            "part_of_speech": "",
+            "origin": "Latin, infundere (to pour in)",
+            "meaning": {
+                "ko": "안에 붓다",
+                "en": "to pour inside",
+                "ja": "中に注ぐ",
+                "zh": "注入",
+                "fr": "verser dans"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...中",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fuse (fundere)",
+                    "meaning": {
+                        "ko": "'붓다'",
+                        "en": "to pour",
+                        "ja": "注ぐ",
+                        "zh": "倒",
+                        "fr": "verser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'액체를 부어 성분을 우려내다' 또는 사상이나 감정을 '불어넣다'는 뜻입니다.",
+                "en": "To pour liquid and extract components, or to infuse ideas and emotions",
+                "ja": "液体を注いで成分を抽出する、または思想や感情を吹き込む意味",
+                "zh": "倾倒液体以提取成分，或注入思想和情感的意思",
+                "fr": "Verser un liquide pour extraire les composants ou insuffler des idées et des émotions"
+            },
+            "example": "She infused the drink with herbs.",
+            "translation": {
+                "ko": "그녀는 허브를 넣어 음료를 우려냈다.",
+                "ja": "彼女は飲み物にハーブを注入した",
+                "zh": "她用草药冲泡饮料",
+                "fr": "Elle a infusé la boisson avec des herbes"
+            }
+        },
+        {
+            "word": "transfuse",
+            "part_of_speech": "",
+            "origin": "Latin, transfundere (to pour from one vessel to another)",
+            "meaning": {
+                "ko": "한 용기에서 다른 용기로 붓다",
+                "en": "pour from one container to another",
+                "ja": "輸血する、注入する",
+                "zh": "输血、注入",
+                "fr": "transfuser, injecter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "'가로질러, 다른 쪽으로'",
+                        "en": "across",
+                        "ja": "横切って、別の側へ",
+                        "zh": "横过、另一边",
+                        "fr": "à travers, de l'autre côté"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fuse (fundere)",
+                    "meaning": {
+                        "ko": "'붓다'",
+                        "en": "to pour",
+                        "ja": "注ぐ",
+                        "zh": "倒",
+                        "fr": "verser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 곳에서 다른 곳으로 액체를 옮겨 붓다'는 의미에서 '수혈하다', '주입하다'라는 뜻이 되었습니다.",
+                "en": "Originally meaning 'to pour liquid from one place to another', it came to mean 'to transfuse blood' and 'to infuse'.",
+                "ja": "液体をある場所から別の場所へ注ぐという意味から、血を輸血することと注入することを意味するようになりました。",
+                "zh": "最初表示从一个地方向另一个地方倒液体，后来引申为输血和注入的意思。",
+                "fr": "Originellement signifiant 'verser un liquide d'un endroit à un autre', il en est venu à signifier 'transfuser du sang' et 'infuser'."
+            },
+            "example": "The patient needed to be transfused with two pints of blood.",
+            "translation": {
+                "ko": "그 환자는 2파인트의 피를 수혈받아야 했다.",
+                "ja": "患者は2パイントの血液を輸血される必要がありました。",
+                "zh": "患者需要输入两品脱的血液。",
+                "fr": "Le patient devait recevoir une transfusion de deux pintes de sang."
+            }
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "fin (final) finial, finish, finitude, infinite",
+        "origin": "Latin, finis (end, limit)",
+        "meaning": {
+            "ko": "끝",
+            "en": "end",
+            "ja": "終わり",
+            "zh": "结束",
+            "fr": "fin"
+        }
+    },
+    "words": [
+        {
+            "word": "finial",
+            "part_of_speech": "",
+            "origin": "Latin, finis (end)",
+            "meaning": {
+                "ko": "끝",
+                "en": "end",
+                "ja": "先端の装飾",
+                "zh": "顶端装饰",
+                "fr": "ornement terminal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fin-",
+                    "meaning": {
+                        "ko": "'끝'",
+                        "en": "end",
+                        "ja": "終わり",
+                        "zh": "结束",
+                        "fr": "fin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "기둥이나 지붕 등의 '맨 끝에 달린 장식'을 뜻합니다.",
+                "en": "Refers to a decorative ornament attached to the end of pillars or roofs.",
+                "ja": "柱や屋根などの先端に付けられた装飾を意味します。",
+                "zh": "指柱子或屋顶等末端的装饰物。",
+                "fr": "Désigne un ornement décoratif attaché à l'extrémité de piliers ou de toits."
+            },
+            "example": "The bedpost had a decorative wooden finial.",
+            "translation": {
+                "ko": "침대 기둥에는 장식적인 나무 끝 장식이 있었다.",
+                "ja": "ベッドの支柱には装飾的な木製の先端飾りが付いていた。",
+                "zh": "床柱的顶端有一个装饰性的木制饰品。",
+                "fr": "Le montant du lit avait un finial en bois décoratif."
+            }
+        },
+        {
+            "word": "finish",
+            "part_of_speech": "",
+            "origin": "Latin, finire (to end, to limit)",
+            "meaning": {
+                "ko": "끝내다",
+                "en": "to end or complete something",
+                "ja": "終わらせる",
+                "zh": "完成",
+                "fr": "terminer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fin-",
+                    "meaning": {
+                        "ko": "'끝'",
+                        "en": "end",
+                        "ja": "終わり",
+                        "zh": "结束",
+                        "fr": "fin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 일을 끝마치다'라는 뜻입니다.",
+                "en": "It means to complete or end some task",
+                "ja": "何らかの作業を完了させるという意味です",
+                "zh": "表示完成或结束某项工作",
+                "fr": "Cela signifie accomplir ou terminer une tâche"
+            },
+            "example": "I need to finish my homework.",
+            "translation": {
+                "ko": "나는 숙제를 끝내야 한다.",
+                "ja": "私は宿題を終わらせる必要があります",
+                "zh": "我需要完成我的家庭作业",
+                "fr": "Je dois terminer mes devoirs"
+            }
+        },
+        {
+            "word": "finitude",
+            "part_of_speech": "",
+            "origin": "Latin, finitus (limited, finished)",
+            "meaning": {
+                "ko": "유한한",
+                "en": "finite or limited in nature",
+                "ja": "有限性",
+                "zh": "有限性",
+                "fr": "finitude"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fin-",
+                    "meaning": {
+                        "ko": "'끝'",
+                        "en": "end, limit",
+                        "ja": "終わり、限界",
+                        "zh": "结束、限制",
+                        "fr": "fin, limite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'끝이 있는 상태'라는 의미에서 '유한성'을 뜻합니다.",
+                "en": "Means 'finitude' in the sense of having an end or limit",
+                "ja": "終わりがある状態という意味で有限性を表します",
+                "zh": "表示有终点或界限的状态意义上的有限性",
+                "fr": "Signifie finitude au sens d'avoir une fin ou une limite"
+            },
+            "example": "We must accept the finitude of our own lives.",
+            "translation": {
+                "ko": "우리는 우리 자신의 삶의 유한성을 받아들여야 한다.",
+                "ja": "私たちは自分たちの生命の有限性を受け入れなければなりません",
+                "zh": "我们必须接受我们自己生命的有限性",
+                "fr": "Nous devons accepter la finitude de nos propres vies"
+            }
+        },
+        {
+            "word": "infinite",
+            "part_of_speech": "",
+            "origin": "Latin, infinitus (unbounded)",
+            "meaning": {
+                "ko": "끝이 없는",
+                "en": "having no end",
+                "ja": "終わりのない",
+                "zh": "无尽的",
+                "fr": "sans fin"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "〜ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fin-",
+                    "meaning": {
+                        "ko": "'끝'",
+                        "en": "end",
+                        "ja": "終わり",
+                        "zh": "结束",
+                        "fr": "fin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'끝이 없는'이라는 의미에서 '무한한'이라는 뜻입니다.",
+                "en": "Meaning 'without end', it signifies 'infinite'",
+                "ja": "終わりがないという意味で無限を表す",
+                "zh": "表示没有终点，意为无限",
+                "fr": "Signifie 'sans fin', exprime l'infini"
+            },
+            "example": "The universe seems infinite.",
+            "translation": {
+                "ko": "우주는 무한해 보인다.",
+                "ja": "宇宙は無限に見える。",
+                "zh": "宇宙似乎是无限的。",
+                "fr": "L'univers semble infini."
+            }
+        }
+    ]
+}

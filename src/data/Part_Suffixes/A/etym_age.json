@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "age (state) blockage, heritage, marriage, sewage",
+        "origin": "Latin, -aticum (belonging to, related to)",
+        "meaning": {
+            "ko": "상태, 집합",
+            "en": "state",
+            "ja": "状態",
+            "zh": "状态",
+            "fr": "état"
+        }
+    },
+    "words": [
+        {
+            "word": "blockage",
+            "part_of_speech": "",
+            "origin": "English, block + -age",
+            "meaning": {
+                "ko": "막힌 상태",
+                "en": "state of being blocked",
+                "ja": "塞がった状態",
+                "zh": "堵塞状态",
+                "fr": "état obstrué"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "block",
+                    "meaning": {
+                        "ko": "'막다'",
+                        "en": "to block",
+                        "ja": "塞ぐ",
+                        "zh": "阻挡",
+                        "fr": "bloquer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-age",
+                    "meaning": {
+                        "ko": "'상태, 결과물'",
+                        "en": "state or result",
+                        "ja": "状態、結果物",
+                        "zh": "状态、结果物",
+                        "fr": "état, résultat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'막혀 있는 상태' 또는 '막고 있는 것'인 '장애물'을 뜻합니다.",
+                "en": "Means an obstacle or obstruction that blocks or is blocked.",
+                "ja": "塞がっている状態または塞いでいる物である障害物を意味します。",
+                "zh": "指阻挡或被阻挡的障碍物或阻碍。",
+                "fr": "Désigne un obstacle ou une obstruction qui bloque ou est bloqué."
+            },
+            "example": "A blockage in the pipe caused the sink to overflow.",
+            "translation": {
+                "ko": "파이프가 막혀 싱크대가 넘쳤다.",
+                "ja": "パイプの詰まりがシンクの水あふれを引き起こした。",
+                "zh": "管道中的堵塞导致水槽溢出。",
+                "fr": "Une obstruction dans le tuyau a causé le débordement de l'évier."
+            }
+        },
+        {
+            "word": "heritage",
+            "part_of_speech": "",
+            "origin": "Old French, heritage",
+            "meaning": {
+                "ko": "상속 재산",
+                "en": "inherited property",
+                "ja": "遺産",
+                "zh": "遗产",
+                "fr": "patrimoine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "herit- (heres 'heir')",
+                    "meaning": {
+                        "ko": "'상속인'",
+                        "en": "heir",
+                        "ja": "継承人",
+                        "zh": "继承人",
+                        "fr": "héritier"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-age",
+                    "meaning": {
+                        "ko": "'집합'",
+                        "en": "collection",
+                        "ja": "集合",
+                        "zh": "集合",
+                        "fr": "ensemble"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'조상으로부터 물려받은 것들의 총체'라는 의미에서 '유산'을 뜻합니다.",
+                "en": "Means inheritance or legacy in the sense of the totality of things passed down from ancestors",
+                "ja": "祖先から受け継いだもの全体の意味で、遺産を意味します",
+                "zh": "指从祖先那里传承下来的全部事物的总和",
+                "fr": "Signifie héritage au sens de la totalité des choses transmises par les ancêtres"
+            },
+            "example": "The country is proud of its rich cultural heritage.",
+            "translation": {
+                "ko": "그 나라는 풍부한 문화유산을 자랑스러워한다.",
+                "ja": "この国は豊かな文化遺産を誇りにしている。",
+                "zh": "该国为其丰富的文化遗产感到骄傲。",
+                "fr": "Le pays est fier de son riche patrimoine culturel."
+            }
+        },
+        {
+            "word": "marriage",
+            "part_of_speech": "",
+            "origin": "Old French, mariage",
+            "meaning": {
+                "ko": "결혼",
+                "en": "union of two people",
+                "ja": "結婚",
+                "zh": "婚姻",
+                "fr": "mariage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "marry",
+                    "meaning": {
+                        "ko": "'결혼하다'",
+                        "en": "to marry",
+                        "ja": "結婚する",
+                        "zh": "结婚",
+                        "fr": "se marier"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-age",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'결혼한 상태'를 뜻합니다.",
+                "en": "It means the state of being married",
+                "ja": "結婚した状態を意味します",
+                "zh": "表示已婚的状态",
+                "fr": "Signifie l'état du mariage"
+            },
+            "example": "They have a happy marriage.",
+            "translation": {
+                "ko": "그들은 행복한 결혼 생활을 하고 있다.",
+                "ja": "彼らは幸せな結婚生活を送っています。",
+                "zh": "他们有幸福的婚姻。",
+                "fr": "Ils ont un mariage heureux."
+            }
+        },
+        {
+            "word": "sewage",
+            "part_of_speech": "",
+            "origin": "Old French, esseweir (to drain off)",
+            "meaning": {
+                "ko": "물을 빼내다",
+                "en": "to drain out water",
+                "ja": "汚水を排出する",
+                "zh": "排出污水",
+                "fr": "évacuer les eaux usées"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sew- (ex- 'out' + aqua 'water')",
+                    "meaning": {
+                        "ko": "'물을 밖으로'",
+                        "en": "to discharge water outward",
+                        "ja": "水を外へ",
+                        "zh": "将水排出去",
+                        "fr": "eau vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-age",
+                    "meaning": {
+                        "ko": "'집합'",
+                        "en": "collection or aggregate",
+                        "ja": "集合",
+                        "zh": "集合",
+                        "fr": "collection"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 빼낸 더러운 물'이라는 의미에서 '하수', '오물'을 뜻합니다.",
+                "en": "Meaning sewage and wastewater from the sense of 'dirty water removed outside'",
+                "ja": "外に排出された汚い水という意味から下水と廃水を意味します",
+                "zh": "从'排出到外面的脏水'的含义中表示污水和废水",
+                "fr": "Signifie eaux usées et eaux d'égout du sens 'eau sale évacuée vers l'extérieur'"
+            },
+            "example": "The city's sewage is treated before being released into the river.",
+            "translation": {
+                "ko": "그 도시의 하수는 강으로 방류되기 전에 처리된다.",
+                "ja": "この都市の下水は河川に放出される前に処理されます",
+                "zh": "这个城市的污水在排入河流前经过处理",
+                "fr": "Les eaux usées de la ville sont traitées avant d'être rejetées dans la rivière"
+            }
+        }
+    ]
+}

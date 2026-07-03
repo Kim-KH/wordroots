@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "topo (surface) topic, topical, topographic, topology",
+        "origin": "Greek, topos (a place)",
+        "meaning": {
+            "ko": "장소",
+            "en": "a place",
+            "ja": "場所",
+            "zh": "地方",
+            "fr": "un lieu"
+        }
+    },
+    "words": [
+        {
+            "word": "topic",
+            "part_of_speech": "",
+            "origin": "Greek, ta topika (things concerning commonplaces)",
+            "meaning": {
+                "ko": "평범한 장소에 관한 것들",
+                "en": "things about ordinary places",
+                "ja": "話題、主題",
+                "zh": "话题、主题",
+                "fr": "sujet, thème"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "top-",
+                    "meaning": {
+                        "ko": "'장소, 주제'",
+                        "en": "place",
+                        "ja": "場所、主題",
+                        "zh": "地点、主题",
+                        "fr": "lieu, sujet"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이야기가 벌어지는 장소'라는 의미에서 '화제', '주제'를 뜻하게 되었습니다.",
+                "en": "The meaning evolved from 'place where a story takes place' to mean 'topic' or 'subject'",
+                "ja": "物語が起こる場所という意味から、話題や主題を意味するようになりました",
+                "zh": "从故事发生的地点的含义演变为话题或主题",
+                "fr": "Le sens a évolué de 'lieu où se déroule une histoire' à 'sujet' ou 'thème'"
+            },
+            "example": "What is the main topic of your presentation?",
+            "translation": {
+                "ko": "당신의 발표의 주요 주제는 무엇입니까?",
+                "ja": "あなたのプレゼンテーションの主なテーマは何ですか？",
+                "zh": "你的演讲的主要话题是什么？",
+                "fr": "Quel est le sujet principal de votre présentation?"
+            }
+        },
+        {
+            "word": "topical",
+            "part_of_speech": "",
+            "origin": "Greek, topikos (of a place, local)",
+            "meaning": {
+                "ko": "장소의",
+                "en": "relating to a place or location",
+                "ja": "場所の、主題の",
+                "zh": "地方的、话题的",
+                "fr": "local, thématique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "top-",
+                    "meaning": {
+                        "ko": "'장소, 주제'",
+                        "en": "place",
+                        "ja": "場所、主題",
+                        "zh": "地方、主题",
+                        "fr": "lieu, sujet"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 장소(주제)에 관한'이라는 의미에서 '시사적인' 또는 '특정 부위에 바르는'이라는 의미에서 '국소의'라는 뜻입니다.",
+                "en": "Means 'related to a specific place or topic' (current/timely), or 'applied to a specific area' (local application).",
+                "ja": "特定の場所または主題に関する、または特定の部位に塗布する局所的という意味です。",
+                "zh": "指与特定地方或话题相关的，或涂抹于特定部位的局部应用的意思。",
+                "fr": "Signifie 'relatif à un lieu ou sujet spécifique' ou 'appliqué sur une zone spécifique'."
+            },
+            "example": "The cream is for topical use only.",
+            "translation": {
+                "ko": "그 크림은 국소용으로만 사용된다.",
+                "ja": "クリームは局所使用のみです。",
+                "zh": "这种乳膏仅供局部使用。",
+                "fr": "La crème est à usage local uniquement."
+            }
+        },
+        {
+            "word": "topographic",
+            "part_of_speech": "",
+            "origin": "Greek, topographia (a description of a place)",
+            "meaning": {
+                "ko": "장소에 대한 기술",
+                "en": "description of a place",
+                "ja": "地形に関する",
+                "zh": "地形的",
+                "fr": "relatif à la topographie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "topo-",
+                    "meaning": {
+                        "ko": "'장소'",
+                        "en": "place",
+                        "ja": "場所",
+                        "zh": "地点",
+                        "fr": "lieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graphic",
+                    "meaning": {
+                        "ko": "'기술(記述)의'",
+                        "en": "of description",
+                        "ja": "記述の",
+                        "zh": "描述的",
+                        "fr": "relatif à la description"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지표면의 모양을 나타내는'이라는 의미에서 '지형의'라는 뜻입니다.",
+                "en": "Means 'relating to landform' in the sense of describing the shape of the earth's surface",
+                "ja": "地表面の形状を表す意味で、地形のという意味です",
+                "zh": "表示地表形状的意思，即地形的含义",
+                "fr": "Signifie 'relatif à la forme du terrain' au sens de décrire la topographie de la surface terrestre"
+            },
+            "example": "A topographic map shows the elevation of the land.",
+            "translation": {
+                "ko": "지형도는 땅의 고도를 보여준다.",
+                "ja": "地形図は土地の標高を示します",
+                "zh": "地形图显示了土地的海拔",
+                "fr": "Une carte topographique montre l'élévation du terrain"
+            }
+        },
+        {
+            "word": "topology",
+            "part_of_speech": "",
+            "origin": "Greek, topos (place) + logos (study)",
+            "meaning": {
+                "ko": "장소 연구",
+                "en": "study of place",
+                "ja": "位置空間の研究",
+                "zh": "位置空间的研究",
+                "fr": "étude de l'espace"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "topo-",
+                    "meaning": {
+                        "ko": "'장소, 공간'",
+                        "en": "place",
+                        "ja": "場所、空間",
+                        "zh": "地点、空间",
+                        "fr": "lieu, espace"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science of",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공간의 성질을 연구하는' 수학의 한 분야인 '위상 수학'을 뜻합니다.",
+                "en": "Topology is a branch of mathematics that studies the properties of spaces that are preserved under continuous deformations.",
+                "ja": "連続変形で保存される空間の性質を研究する数学の一分野です。",
+                "zh": "这是数学的一个分支，研究在连续变形下保持不变的空间性质。",
+                "fr": "C'est une branche des mathématiques qui étudie les propriétés des espaces préservées sous déformations continues."
+            },
+            "example": "Topology is the study of geometric properties that are preserved under continuous deformations.",
+            "translation": {
+                "ko": "위상 수학은 연속적인 변형 하에서도 보존되는 기하학적 속성을 연구하는 학문이다.",
+                "ja": "位相数学",
+                "zh": "拓扑学",
+                "fr": "topologie"
+            }
+        }
+    ]
+}

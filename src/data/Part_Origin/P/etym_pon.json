@@ -1,0 +1,727 @@
+{
+    "root_info": {
+        "roots": "pon, pos: put, place",
+        "origin": "Latin, ponere",
+        "meaning": {
+            "ko": "두다, 놓다",
+            "en": "to put, to place",
+            "ja": "置く、置く",
+            "zh": "放、摆放",
+            "fr": "mettre, placer"
+        }
+    },
+    "words": [
+        {
+            "word": "posit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pos (ponere)",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어떤 생각이나 사실을 논의의 기반으로 '두다'는 의미에서, '(사실로) 상정하다', '가정하다'는 뜻입니다.",
+                "en": "From the sense of 'putting' something as a basis for discussion: to assume or hypothesize something as fact.",
+                "ja": "議論の基盤として何かの考えや事実を「置く」という意味から、「（事実として）仮定する」、「想定する」という意味になります。",
+                "zh": "从「放置」某一想法或事实作为讨论基础的含义引申，表示「假定」或「假设」某事为事实。",
+                "fr": "Du sens de « placer » une idée ou un fait comme fondement de la discussion : supposer ou assumer quelque chose comme vrai."
+            },
+            "example": "Let's posit that the theory is true.",
+            "translation": {
+                "ko": "그 이론이 사실이라고 가정해 봅시다.",
+                "ja": "その理論が真実だと仮定してみましょう。",
+                "zh": "让我们假设这个理论是真实的。",
+                "fr": "Supposons que la théorie soit vraie."
+            }
+        },
+        {
+            "word": "apposite",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ap- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "に",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pos",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 상황에 딱 맞게 놓인'이라는 의미에서, '아주 적절한'이라는 뜻입니다. opposite(반대의)과 혼동하지 않도록 주의해야 합니다.",
+                "en": "Do not confuse with 'opposite' (meaning contrary). 'Apposite' means highly appropriate or suitable, derived from the sense of 'placed exactly right for a situation'.",
+                "ja": "'opposite'(反対の)と混同しないよう注意。'apposite'は'ある状況にぴったり合わせて置かれた'という意味から、'非常に適切な'という意味になります。",
+                "zh": "不要与'opposite'(相反的)混淆。'apposite'源自'被恰当地放置在某种情况中'的意思，表示'非常恰当的'。",
+                "fr": "Ne pas confondre avec 'opposite' (contraire). 'Apposite' signifie très approprié ou convenable, dérivé du sens de 'placé exactement juste pour une situation'."
+            },
+            "example": "His remark was very apposite.",
+            "translation": {
+                "ko": "그의 발언은 매우 적절했다.",
+                "ja": "彼の発言はとても適切だった。",
+                "zh": "他的言论非常恰当。",
+                "fr": "Sa remarque était très appropriée."
+            }
+        },
+        {
+            "word": "postpone",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "post",
+                    "meaning": {
+                        "ko": "뒤에",
+                        "en": "after",
+                        "ja": "後に",
+                        "zh": "之后",
+                        "fr": "après"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pone",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나중으로 두다'는 의미에서, 약속이나 행사를 '연기하다', '미루다'는 뜻입니다.",
+                "en": "From the meaning of 'put for later', it means to 'delay' or 'put off' an appointment or event.",
+                "ja": "「後のために置く」という意味から、約束や行事を「延期する」「先延ばしにする」という意味です。",
+                "zh": "从「放在之后」的意思，指延期或推迟约定或活动。",
+                "fr": "Du sens de 'mettre pour plus tard', cela signifie 'reporter' ou 'ajourner' un rendez-vous ou un événement."
+            },
+            "example": "They decided to postpone the meeting.",
+            "translation": {
+                "ko": "그들은 회의를 연기하기로 결정했다.",
+                "ja": "彼らは会議を延期することにした。",
+                "zh": "他们决定延期会议。",
+                "fr": "Ils ont décidé de reporter la réunion."
+            }
+        },
+        {
+            "word": "preposition",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "前面",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "position",
+                    "meaning": {
+                        "ko": "놓인 것",
+                        "en": "a placing",
+                        "ja": "置かれたもの",
+                        "zh": "放置的东西",
+                        "fr": "une mise"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "명사나 대명사 '앞에 놓이는' 단어라는 의미에서, 문법의 '전치사'를 뜻합니다.",
+                "en": "A word placed before nouns or pronouns in grammar, meaning 'preposition'",
+                "ja": "名詞や代名詞の前に置かれる単語という意味から、文法の「前置詞」を指します。",
+                "zh": "从放在名词或代词前面的词的意思来说，指语法中的「前置词」。",
+                "fr": "Un mot placé avant les noms ou pronoms, d'où le sens grammatical de « préposition »."
+            },
+            "example": "\"In,\" \"on,\" and \"at\" are prepositions.",
+            "translation": {
+                "ko": "\"In\", \"on\", \"at\"은 전치사이다.",
+                "ja": "「In」「on」「at」は前置詞である。",
+                "zh": "「in」「on」「at」是前置词。",
+                "fr": "« In », « on » et « at » sont des prépositions."
+            }
+        },
+        {
+            "word": "opponent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "op- (ob-)",
+                    "meaning": {
+                        "ko": "~에 맞서",
+                        "en": "against",
+                        "ja": "に対して",
+                        "zh": "对抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pon",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'맞서서 자신을 두는 사람'이라는 의미에서, 경기나 논쟁의 '상대', '적수'를 뜻합니다.",
+                "en": "From the sense of 'a person who puts themselves against,' meaning an 'opponent' or 'rival' in competition or debate.",
+                "ja": "「自分を対抗させる人」という意味から、競技や議論の「相手」「対手」を意味します。",
+                "zh": "从「与自己对抗的人」的含义出发，指竞争或辩论中的「对手」。",
+                "fr": "Du sens de « personne qui se met en opposition », désignant un « adversaire » ou « rival » en compétition ou débat."
+            },
+            "example": "He defeated his opponent.",
+            "translation": {
+                "ko": "그는 상대를 이겼다.",
+                "ja": "彼は相手を倒した。",
+                "zh": "他击败了对手。",
+                "fr": "Il a vaincu son adversaire."
+            }
+        },
+        {
+            "word": "propound",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前に",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pound (ponere)",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "다른 사람들이 고려하도록 생각이나 이론을 '앞에 내놓다'는 의미에서, '(이론 등을) 제기하다'는 뜻입니다.",
+                "en": "To put forward a thought or theory for others to consider; to propose or advance an idea",
+                "ja": "他の人が検討するように、考えや理論を『前に出す』という意味から、『(理論など)を提唱する』という意味です。",
+                "zh": "从'将思想或理论'放在前面'供他人考虑'的意思引申而来，表示'提出（理论等）'。",
+                "fr": "Du sens de 'mettre en avant une pensée ou une théorie' pour que d'autres la considèrent, d'où le sens de 'proposer ou avancer une idée'."
+            },
+            "example": "He propounded a new theory of evolution.",
+            "translation": {
+                "ko": "그는 새로운 진화론을 제기했다.",
+                "ja": "彼は進化論の新しい学説を提唱した。",
+                "zh": "他提出了一个新的进化论。",
+                "fr": "Il a proposé une nouvelle théorie de l'évolution."
+            }
+        },
+        {
+            "word": "expound",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pound (ponere)",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자세히 밖으로 내어놓다'는 의미에서, 어떤 주제에 대해 '자세히 설명하다'는 뜻입니다.",
+                "en": "From the sense of 'putting out in detail,' meaning to explain a topic in detail",
+                "ja": "「詳しく外に出す」という意味から、あるテーマについて「詳しく説明する」という意味になります。",
+                "zh": "从「详细地展现出来」的含义出发，指「详细解释某个话题」。",
+                "fr": "Du sens de 'mettre dehors en détail', signifiant expliquer un sujet en détail."
+            },
+            "example": "The professor will expound on the topic.",
+            "translation": {
+                "ko": "교수님이 그 주제에 대해 자세히 설명할 것이다.",
+                "ja": "教授がそのテーマについて詳しく説明するでしょう。",
+                "zh": "教授将详细阐述这个话题。",
+                "fr": "Le professeur va expliquer le sujet en détail."
+            }
+        },
+        {
+            "word": "transpose",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "가로질러, 바꾸어",
+                        "en": "across",
+                        "ja": "横切って、交換して",
+                        "zh": "横越、交换",
+                        "fr": "à travers, échanger"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pose",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자리를 바꾸어 두다'는 의미에서, 순서나 위치를 '바꾸다' 또는 음악을 '이조(移調)하다'는 뜻입니다.",
+                "en": "From 'to put in exchanged positions': to change the order or position, or in music, to shift to a different key",
+                "ja": "「位置を交換して置く」という意味から、順序や位置を「入れ替える」、また音楽を「調子を変える」という意味です",
+                "zh": "从「交换位置放置」的意思，表示「改变顺序或位置」，或在音乐中「移调」",
+                "fr": "Du sens de « mettre en positions échangées » : changer l'ordre ou la position, ou en musique, transposer à une autre tonalité"
+            },
+            "example": "You can transpose the two numbers.",
+            "translation": {
+                "ko": "당신은 그 두 숫자의 위치를 바꿀 수 있다.",
+                "ja": "あなたはその2つの数字の位置を入れ替えることができます。",
+                "zh": "你可以交换这两个数字的位置。",
+                "fr": "Vous pouvez échanger la position de ces deux chiffres."
+            }
+        },
+        {
+            "word": "deposit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "아래에",
+                        "en": "down",
+                        "ja": "下へ",
+                        "zh": "向下",
+                        "fr": "vers le bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "posit",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아래에 두다'는 의미에서 돈을 은행에 '예금하다'는 뜻과, 쌓여서 생긴 '퇴적물'이나 거래 시의 '보증금'을 의미합니다.",
+                "en": "'Down' + 'to put' refers to depositing money in a bank, sedimentary deposits, or security deposits in transactions.",
+                "ja": "「下に置く」という意味から、銀行に金銭を「預金する」という意味と、堆積した「堆積物」や取引での「保証金」を意味します。",
+                "zh": "从\"向下放置\"的含义衍生，既表示在银行\"存钱\"，也表示堆积形成的\"沉积物\"或交易中的\"押金\"。",
+                "fr": "De 'vers le bas' + 'mettre' : signifie verser de l'argent à la banque, les dépôts sédimentaires, ou les dépôts de garantie dans les transactions."
+            },
+            "example": "I need to deposit this check.",
+            "translation": {
+                "ko": "나는 이 수표를 예금해야 한다.",
+                "ja": "私はこの小切手を預金する必要があります。",
+                "zh": "我需要存入这张支票。",
+                "fr": "Je dois déposer ce chèque."
+            }
+        },
+        {
+            "word": "composite",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pos",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 두어 만들어진'이라는 의미에서, '합성의', '합성물'을 뜻합니다.",
+                "en": "From the sense of 'put together to make', meaning 'composite' or 'compound'.",
+                "ja": "「一緒に置いて作られた」という意味から、「合成の」「合成物」を意味します。",
+                "zh": "从\"一起放在一起制成\"的含义来看，表示\"合成的\"或\"合成物\"。",
+                "fr": "Du sens de 'mis ensemble pour faire', signifiant 'composite' ou 'composé'."
+            },
+            "example": "The material is a composite of plastic and glass.",
+            "translation": {
+                "ko": "그 재료는 플라스틱과 유리의 합성물이다.",
+                "ja": "その材料はプラスチックとガラスの複合材料である。",
+                "zh": "该材料是塑料和玻璃的复合材料。",
+                "fr": "Le matériau est un composite de plastique et de verre."
+            }
+        },
+        {
+            "word": "compose",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pose",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "여러 부분을 '함께 두어' 하나의 전체를 만들다는 의미에서, 글이나 음악을 '작곡하다', '작성하다' 또는 어떤 것을 '구성하다'는 뜻입니다.",
+                "en": "From the idea of putting multiple parts together to create a unified whole, meaning to compose music or writing, or to constitute something.",
+                "ja": "複数の部分を『一緒に置いて』一つの全体を作るという意味から、音楽や文章を『作曲する』『作成する』、または何かを『構成する』という意味になります。",
+                "zh": "从将多个部分'放在一起'创造一个统一整体的含义出发，表示'作曲'、'写作'或'构成'某物。",
+                "fr": "De l'idée de mettre ensemble plusieurs parties pour créer un tout unifié, signifiant composer de la musique ou de l'écriture, ou constituer quelque chose."
+            },
+            "example": "He composed a beautiful song.",
+            "translation": {
+                "ko": "그는 아름다운 노래를 작곡했다.",
+                "ja": "彼は美しい歌を作曲した。",
+                "zh": "他创作了一首美妙的歌曲。",
+                "fr": "Il a composé une belle chanson."
+            }
+        },
+        {
+            "word": "imposition",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "위에",
+                        "en": "on",
+                        "ja": "上に",
+                        "zh": "在...上面",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "position",
+                    "meaning": {
+                        "ko": "두는 것",
+                        "en": "placing",
+                        "ja": "置くこと",
+                        "zh": "放置",
+                        "fr": "placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "다른 사람에게 부담을 '위에 올려놓는 것'이라는 의미에서, '부담', '폐' 또는 세금 등의 '부과'를 뜻합니다.",
+                "en": "From the idea of 'placing a burden on top of' someone else, it means 'burden', 'inconvenience', or 'levy' such as taxes.",
+                "ja": "他の人に負担を『上に置く』という意味から、『負担』、『迷惑』、または税金などの『課税』を意味します。",
+                "zh": "从'在他人身上放置负担'的概念出发，意思是'负担'、'麻烦'或税款等的'征税'。",
+                "fr": "De l'idée de 'placer un fardeau sur' quelqu'un d'autre, cela signifie 'charge', 'inconvénient' ou 'imposition' comme les impôts."
+            },
+            "example": "I hope my visit isn't an imposition.",
+            "translation": {
+                "ko": "저의 방문이 폐가 되지 않았으면 합니다.",
+                "ja": "迷惑、負担、課税",
+                "zh": "麻烦，负担，征税",
+                "fr": "imposition, charge, gêne"
+            }
+        },
+        {
+            "word": "posture",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pos (ponere)",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "몸을 '특정 방식으로 두는 것'이라는 의미에서 '자세'를 뜻하며, 어떤 문제에 대한 '태도'를 의미하기도 합니다.",
+                "en": "From the idea of 'placing the body in a specific way,' meaning 'posture' or body position, and also extending to 'attitude' toward an issue.",
+                "ja": "体を『特定の方法で置く』という意味から『姿勢』を意味し、ある問題に対する『態度』を意味することもあります。",
+                "zh": "从『以特定方式放置身体』的含义引申出『姿态』，也可指对某一问题的『态度』。",
+                "fr": "Du concept de 'placer le corps d'une certaine manière', signifiant 'posture' ou position corporelle, et s'étendant aussi à l'«attitude» envers une question."
+            },
+            "example": "Good posture is important for your back.",
+            "translation": {
+                "ko": "좋은 자세는 허리에 중요하다.",
+                "ja": "良い姿勢は背中に重要です。",
+                "zh": "良好的姿态对你的背部很重要。",
+                "fr": "Une bonne posture est importante pour votre dos."
+            }
+        },
+        {
+            "word": "impostor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im- (in-)",
+                    "meaning": {
+                        "ko": "~위에",
+                        "en": "upon",
+                        "ja": "～の上に",
+                        "zh": "在～之上",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "positor",
+                    "meaning": {
+                        "ko": "두는 사람",
+                        "en": "placer",
+                        "ja": "置く人",
+                        "zh": "放置者",
+                        "fr": "celui qui place"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "다른 사람의 이름 위에 '자신을 올려놓는 사람' 즉, '남의 이름을 사칭하는 사람', '사기꾼'을 의미합니다.",
+                "en": "One who places himself upon another's name; a person who fraudulently assumes another's identity",
+                "ja": "他人の名前の上に自分を置く者、つまり他人になりすまして詐欺を働く者を意味します",
+                "zh": "将自己置于他人名字之上的人，即冒充他人身份进行欺诈的人",
+                "fr": "Celui qui se place sur le nom d'autrui; une personne qui usurpe l'identité d'une autre"
+            },
+            "example": "He was revealed to be an impostor.",
+            "translation": {
+                "ko": "그는 사기꾼으로 밝혀졌다.",
+                "ja": "彼は詐欺師であることが明かされた。",
+                "zh": "他被揭露是一个骗子。",
+                "fr": "Il a été révélé qu'il était un imposteur."
+            }
+        },
+        {
+            "word": "dispose",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 따로",
+                        "en": "apart",
+                        "ja": "離れて、別に",
+                        "zh": "分开、分离",
+                        "fr": "à part, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pose",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く、置く",
+                        "zh": "放置、放",
+                        "fr": "mettre, placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'따로따로 두다'는 의미에서 '배치하다'는 뜻과, '멀리 치워두다'는 의미에서 '처리하다', '처분하다'는 뜻이 있습니다.",
+                "en": "From 'putting separately' → arranging/ordering; from 'putting away' → dealing with/discarding",
+                "ja": "「別々に置く」という意味から「配置する」という意味と、「遠くに片付ける」という意味から「処理する」「処分する」という意味があります。",
+                "zh": "从「分别放置」的意思引申为「安排、排列」；从「丢弃、放在一边」引申为「处理、处置」。",
+                "fr": "Du sens de « placer séparément » → arranger/organiser ; du sens de « mettre de côté » → traiter/se débarrasser"
+            },
+            "example": "How do you dispose of your old batteries?",
+            "translation": {
+                "ko": "낡은 건전지를 어떻게 처리하나요?",
+                "ja": "古い電池をどのように処理しますか？",
+                "zh": "你如何处理旧电池？",
+                "fr": "Comment éliminez-vous vos vieilles piles ?"
+            }
+        },
+        {
+            "word": "positive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pos",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to place",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'확고하게 놓인' 상태라는 의미에서, '확신하는', '긍정적인', 수학에서는 '양수(陽數)의'라는 뜻으로 발전했습니다.",
+                "en": "From the sense of 'firmly placed,' it developed to mean 'confident,' 'affirmative,' and in mathematics 'positive number.'",
+                "ja": "「確固として置かれた」という意味から、「確信する」「肯定的な」、そして数学では「正数の」という意味に発展しました。",
+                "zh": "从\"牢固地放置\"的含义发展而来，引申为\"确信的\"\"积极的\"，在数学中表示\"正数的\"。",
+                "fr": "Du sens de 'solidement placé', il a évolué pour signifier 'confiant', 'affirmatif', et en mathématiques 'nombre positif'."
+            },
+            "example": "Try to have a positive attitude.",
+            "translation": {
+                "ko": "긍정적인 태도를 가지도록 노력하세요.",
+                "ja": "前向きな態度を持つよう努力してください。",
+                "zh": "努力保持积极的态度。",
+                "fr": "Essayez d'avoir une attitude positive."
+            }
+        },
+        {
+            "word": "position",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pos",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to place",
+                        "ja": "置く、配置する",
+                        "zh": "放置、摆放",
+                        "fr": "placer, mettre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ition",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形式后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'놓여 있는 곳'이라는 의미에서 '위치', '자리', '직책' 또는 어떤 문제에 대한 '입장'을 뜻합니다.",
+                "en": "From the meaning 'a place where something is placed', it means location, place, job title, or one's stance on an issue",
+                "ja": "置かれている場所という意味から、位置、場所、職責、または何かの問題に対する立場を意味します",
+                "zh": "从放置的地方这个含义引申，表示位置、地点、职务或对某个问题的立场",
+                "fr": "Du sens 'lieu où quelque chose est placé', il signifie emplacement, endroit, poste ou point de vue sur une question"
+            },
+            "example": "What is your position on this issue?",
+            "translation": {
+                "ko": "이 문제에 대한 당신의 입장은 무엇입니까?",
+                "ja": "位置、立場、職務",
+                "zh": "位置、立场、职位",
+                "fr": "position, lieu, poste"
+            }
+        },
+        {
+            "word": "pose",
+            "part_of_speech": "v.1",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pos",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "몸을 특정 방식으로 '두다'는 의미에서 '자세를 취하다'는 뜻과, 문제 등을 '제기하다'는 뜻이 있습니다.",
+                "en": "From the sense of 'placing the body in a specific way,' meaning both 'to assume a posture' and 'to raise or present (a problem, question, etc.)'",
+                "ja": "身体を特定の方法で『置く』という意味から、『姿勢を取る』という意味と、問題などを『提起する』という意味があります。",
+                "zh": "源自'以特定方式放置身体'的含义，既表示'摆出姿态'，也表示'提出（问题等）'。",
+                "fr": "Du sens de 'placer le corps d'une certaine manière', signifiant à la fois 'adopter une posture' et 'soulever ou présenter (un problème, une question, etc.)'"
+            },
+            "example": "She posed for the camera.",
+            "translation": {
+                "ko": "그녀는 카메라를 향해 포즈를 취했다.",
+                "ja": "彼女はカメラに向かってポーズを取った。",
+                "zh": "她摆出姿势面向相机。",
+                "fr": "Elle a posé pour l'appareil photo."
+            }
+        }
+    ]
+}

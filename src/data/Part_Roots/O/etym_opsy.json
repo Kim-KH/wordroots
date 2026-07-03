@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "opsy (examination) autopsy, biopsy",
+        "origin": "Greek, opsis (a sight, view)",
+        "meaning": {
+            "ko": "보기, 검사",
+            "en": "view, examination",
+            "ja": "見方、検査",
+            "zh": "观看、检查",
+            "fr": "vue, examen"
+        }
+    },
+    "words": [
+        {
+            "word": "autopsy",
+            "part_of_speech": "",
+            "origin": "Greek, autopsia (a seeing with one's own eyes)",
+            "meaning": {
+                "ko": "직접 보기",
+                "en": "to see directly",
+                "ja": "死因を調べる検査",
+                "zh": "查明死因的检查",
+                "fr": "examen pour déterminer la cause du décès"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aut- (autos)",
+                    "meaning": {
+                        "ko": "'자신'",
+                        "en": "self",
+                        "ja": "自身",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opsy",
+                    "meaning": {
+                        "ko": "'보기, 검사'",
+                        "en": "view, examination",
+                        "ja": "見ること、検査",
+                        "zh": "查看、检查",
+                        "fr": "voir, examiner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죽음의 원인을 알기 위해 직접 눈으로 보는 검사'라는 의미에서 '부검', '시체 해부'를 뜻합니다.",
+                "en": "An examination where the body of a deceased person is directly observed to determine the cause of death",
+                "ja": "死亡の原因を調べるため、直接死体を見て検査すること",
+                "zh": "为了查明死亡原因，直接观察和检查尸体的过程",
+                "fr": "Examen direct d'un cadavre pour déterminer la cause du décès"
+            },
+            "example": "An autopsy was performed to determine the cause of death.",
+            "translation": {
+                "ko": "사인을 밝히기 위해 부검이 실시되었다.",
+                "ja": "剖検",
+                "zh": "尸检",
+                "fr": "autopsie"
+            }
+        },
+        {
+            "word": "biopsy",
+            "part_of_speech": "",
+            "origin": "Greek, bios (life) + opsis (sight)",
+            "meaning": {
+                "ko": "생명을 보다",
+                "en": "to observe life",
+                "ja": "生体組織検査",
+                "zh": "活体组织检查",
+                "fr": "biopsie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio-",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opsy",
+                    "meaning": {
+                        "ko": "'보기, 검사'",
+                        "en": "view, examination",
+                        "ja": "見る、検査",
+                        "zh": "看、检查",
+                        "fr": "voir, examen"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'질병 진단을 위해 살아있는 조직을 떼어내 검사하는 것'이라는 의미에서 '생체 조직 검사'를 뜻합니다.",
+                "en": "A medical procedure where living tissue is removed and examined to diagnose disease",
+                "ja": "病気の診断のため生きた組織を採取して検査する医療行為",
+                "zh": "为诊断疾病而取出活体组织进行检查的医疗程序",
+                "fr": "Procédure médicale où on prélève un tissu vivant pour l'examiner et diagnostiquer une maladie"
+            },
+            "example": "The doctor performed a biopsy to check for cancer.",
+            "translation": {
+                "ko": "의사는 암 여부를 확인하기 위해 생체 조직 검사를 시행했다.",
+                "ja": "医者は癌をチェックするために生検を行いました",
+                "zh": "医生进行了活体组织检查以检查癌症",
+                "fr": "Le médecin a effectué une biopsie pour vérifier la présence de cancer"
+            }
+        }
+    ]
+}

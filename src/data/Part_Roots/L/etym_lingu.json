@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "lingu (tongue) bilingual, lingo, lingual, linguistics",
+        "origin": "Latin, lingua (tongue, language)",
+        "meaning": {
+            "ko": "혀, 언어",
+            "en": "tongue",
+            "ja": "舌、言語",
+            "zh": "舌头、语言",
+            "fr": "langue, langage"
+        }
+    },
+    "words": [
+        {
+            "word": "bilingual",
+            "part_of_speech": "",
+            "origin": "Latin, bi- (two) + lingua (tongue)",
+            "meaning": {
+                "ko": "두 개의 혀",
+                "en": "two tongues",
+                "ja": "2つの言語を話す",
+                "zh": "两种语言",
+                "fr": "deux langues"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "2つ、二",
+                        "zh": "两个、二",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lingu-",
+                    "meaning": {
+                        "ko": "'혀, 언어'",
+                        "en": "tongue, language",
+                        "ja": "舌、言語",
+                        "zh": "舌头、语言",
+                        "fr": "langue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개의 언어를 할 줄 아는'이라는 뜻입니다.",
+                "en": "Able to speak two languages fluently",
+                "ja": "2つの言語を流暢に話すことができる",
+                "zh": "能流利地使用两种语言的人",
+                "fr": "Capable de parler couramment deux langues"
+            },
+            "example": "She is bilingual in English and Spanish.",
+            "translation": {
+                "ko": "그녀는 영어와 스페인어 2개 국어를 구사한다.",
+                "ja": "彼女は英語とスペイン語のバイリンガルです。",
+                "zh": "她能用英语和西班牙语进行双语交流。",
+                "fr": "Elle est bilingue en anglais et en espagnol."
+            }
+        },
+        {
+            "word": "lingo",
+            "part_of_speech": "",
+            "origin": "Latin, lingua (language)",
+            "meaning": {
+                "ko": "언어",
+                "en": "language",
+                "ja": "専門用語・隠語",
+                "zh": "行话、专业术语",
+                "fr": "jargon, argot"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ling-",
+                    "meaning": {
+                        "ko": "'언어'",
+                        "en": "language",
+                        "ja": "言語",
+                        "zh": "语言",
+                        "fr": "langage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "특정 집단이 사용하는 '알아듣기 힘든 전문 용어나 은어'를 뜻합니다.",
+                "en": "Refers to difficult-to-understand specialized terminology or slang used by specific groups.",
+                "ja": "特定の集団が使う、理解しにくい専門用語や隠語を意味します。",
+                "zh": "指特定群体使用的难以理解的专业术语或俚语。",
+                "fr": "Désigne le jargon spécialisé ou l'argot difficile à comprendre utilisé par des groupes particuliers."
+            },
+            "example": "I don't understand all the technical lingo.",
+            "translation": {
+                "ko": "나는 그 모든 전문 용어를 이해하지 못한다.",
+                "ja": "私はすべての技術用語を理解していません。",
+                "zh": "我不理解所有的技术行话。",
+                "fr": "Je ne comprends pas tout le jargon technique."
+            }
+        },
+        {
+            "word": "lingual",
+            "part_of_speech": "",
+            "origin": "Latin, lingua (tongue)",
+            "meaning": {
+                "ko": "혀",
+                "en": "tongue",
+                "ja": "舌の",
+                "zh": "舌的",
+                "fr": "lingual"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lingu-",
+                    "meaning": {
+                        "ko": "'혀'",
+                        "en": "tongue",
+                        "ja": "舌",
+                        "zh": "舌头",
+                        "fr": "langue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혀의', '혀에서 나는 소리의'라는 뜻입니다.",
+                "en": "Means 'of the tongue' or 'relating to sounds from the tongue'",
+                "ja": "舌に関する、舌から発せられる音に関する意味です",
+                "zh": "与舌头有关或与舌头发出的声音有关的意思",
+                "fr": "Signifie 'relatif à la langue' ou 'sons produits par la langue'"
+            },
+            "example": "The lingual artery supplies blood to the tongue.",
+            "translation": {
+                "ko": "설동맥은 혀에 혈액을 공급한다.",
+                "ja": "舌動脈は舌に血液を供給します",
+                "zh": "舌动脉为舌头供血",
+                "fr": "L'artère linguale alimente le sang à la langue"
+            }
+        },
+        {
+            "word": "linguistics",
+            "part_of_speech": "",
+            "origin": "Latin, lingua (language)",
+            "meaning": {
+                "ko": "언어",
+                "en": "language",
+                "ja": "言語学",
+                "zh": "语言学",
+                "fr": "linguistique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lingu-",
+                    "meaning": {
+                        "ko": "'언어'",
+                        "en": "language",
+                        "ja": "言語",
+                        "zh": "语言",
+                        "fr": "langue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'언어를 과학적으로 연구하는 학문'인 '언어학'을 뜻합니다.",
+                "en": "The study of language conducted scientifically",
+                "ja": "言語を科学的に研究する学問",
+                "zh": "科学地研究语言的学科",
+                "fr": "Étude scientifique du langage"
+            },
+            "example": "He is a professor of linguistics.",
+            "translation": {
+                "ko": "그는 언어학 교수이다.",
+                "ja": "彼は言語学の教授です。",
+                "zh": "他是语言学教授。",
+                "fr": "Il est professeur de linguistique."
+            }
+        }
+    ]
+}

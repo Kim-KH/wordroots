@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "rig (stiff) rigid, rigor, rigorous",
+        "origin": "Latin, rigere (to be stiff)",
+        "meaning": {
+            "ko": "뻣뻣하다",
+            "en": "to be stiff",
+            "ja": "硬い",
+            "zh": "僵硬",
+            "fr": "être rigide"
+        }
+    },
+    "words": [
+        {
+            "word": "rigid",
+            "part_of_speech": "",
+            "origin": "Latin, rigidus (stiff)",
+            "meaning": {
+                "ko": "뻣뻣한",
+                "en": "stiff and unbending",
+                "ja": "硬い、柔軟性がない",
+                "zh": "僵硬的、不灵活的",
+                "fr": "rigide, inflexible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rig-",
+                    "meaning": {
+                        "ko": "'뻣뻣하다'",
+                        "en": "to be stiff",
+                        "ja": "硬い、堅い",
+                        "zh": "僵硬的、坚硬的",
+                        "fr": "être rigide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'구부러지지 않고 뻣뻣한'이라는 의미에서 '엄격한', '융통성 없는'이라는 뜻으로도 쓰입니다.",
+                "en": "Beyond physical stiffness, it also means strict or inflexible in rules and behavior",
+                "ja": "物理的な硬さから、ルールや行動が厳格で融通性がないという意味でも使われます",
+                "zh": "除了物理上的僵硬，还可表示规则和行为严格、不灵活",
+                "fr": "Au-delà de la rigidité physique, cela signifie aussi strict ou inflexible dans les règles et le comportement"
+            },
+            "example": "The rules are very rigid.",
+            "translation": {
+                "ko": "규칙이 매우 엄격하다.",
+                "ja": "そのルールはとても厳格だ。",
+                "zh": "这些规则非常僵硬。",
+                "fr": "Les règles sont très rigides."
+            }
+        },
+        {
+            "word": "rigor",
+            "part_of_speech": "",
+            "origin": "Latin, rigor (stiffness)",
+            "meaning": {
+                "ko": "뻣뻣함",
+                "en": "stiffness",
+                "ja": "厳格さ、厳密さ",
+                "zh": "严格、严密",
+                "fr": "rigueur, sévérité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rig-",
+                    "meaning": {
+                        "ko": "'뻣뻣하다'",
+                        "en": "to be stiff",
+                        "ja": "硬い、こわばった",
+                        "zh": "僵硬的、僵直的",
+                        "fr": "être raide, être rigide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뻣뻣하고 엄격함'을 의미하며, 특히 시체가 뻣뻣하게 굳는 '사후 경직(rigor mortis)'을 가리킵니다.",
+                "en": "Means stiffness and strictness, particularly referring to rigor mortis where a corpse becomes stiff after death",
+                "ja": "硬直と厳格さを意味し、特に死後に遺体が硬くなる死後硬直(rigor mortis)を指します",
+                "zh": "表示僵硬和严格，特别指尸体死后变硬的尸僵现象(rigor mortis)",
+                "fr": "Signifie rigidité et sévérité, en particulier la rigidité cadavérique (rigor mortis) où le corps se raidit après la mort"
+            },
+            "example": "The full rigor of the law was applied.",
+            "translation": {
+                "ko": "법의 완전한 엄격함이 적용되었다.",
+                "ja": "法律の完全な厳格さが適用された。",
+                "zh": "法律的完全严格性被应用了。",
+                "fr": "La pleine rigueur de la loi a été appliquée."
+            }
+        },
+        {
+            "word": "rigorous",
+            "part_of_speech": "",
+            "origin": "Latin, rigorosus",
+            "meaning": {
+                "ko": "엄격한",
+                "en": "strict and thorough",
+                "ja": "厳格な",
+                "zh": "严格的",
+                "fr": "rigoureux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rigor-",
+                    "meaning": {
+                        "ko": "'엄격함'",
+                        "en": "strictness",
+                        "ja": "厳格さ",
+                        "zh": "严格性",
+                        "fr": "rigueur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매우 엄격하고 철저한'이라는 뜻입니다.",
+                "en": "Very strict and thorough",
+                "ja": "非常に厳格で徹底的",
+                "zh": "非常严格和彻底",
+                "fr": "Très strict et approfondi"
+            },
+            "example": "The selection process is very rigorous.",
+            "translation": {
+                "ko": "선발 과정은 매우 엄격하다.",
+                "ja": "選抜プロセスは非常に厳格です。",
+                "zh": "选拔过程非常严格。",
+                "fr": "Le processus de sélection est très rigoureux."
+            }
+        }
+    ]
+}

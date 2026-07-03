@@ -1,0 +1,226 @@
+{
+    "root_info": {
+        "roots": "an, ian (belonging to, resembling) arcadian, Canadian, Hadean, hydrozoan",
+        "origin": "Latin, -anus (belonging to)",
+        "meaning": {
+            "ko": "…에 속하는",
+            "en": "belonging to",
+            "ja": "...に属する",
+            "zh": "属于...",
+            "fr": "appartenant à..."
+        }
+    },
+    "words": [
+        {
+            "word": "arcadian",
+            "part_of_speech": "",
+            "origin": "Greek, Arkadia (a region in ancient Greece)",
+            "meaning": {
+                "ko": "아르카디아",
+                "en": "Arcadia",
+                "ja": "牧歌的な",
+                "zh": "田园诗般的",
+                "fr": "arcadien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Arcad-",
+                    "meaning": {
+                        "ko": "'아르카디아'",
+                        "en": "Arcadia",
+                        "ja": "アルカディア",
+                        "zh": "阿卡迪亚",
+                        "fr": "Arcadie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ian",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이상적인 목가적 풍경으로 알려진 아르카디아 지방의'라는 의미에서 '목가적인'이라는 뜻입니다.",
+                "en": "From Arcadia, known for idealized pastoral landscapes, meaning 'pastoral or idyllic'",
+                "ja": "理想的な牧歌的風景で知られるアルカディア地方から、牧歌的という意味",
+                "zh": "源自以理想化田园风景著称的阿卡迪亚地区，意为牧歌式的",
+                "fr": "D'Arcadie, connue pour ses paysages pastoraux idéalisés, signifiant bucolique"
+            },
+            "example": "They lived a simple, Arcadian life in the countryside.",
+            "translation": {
+                "ko": "그들은 시골에서 소박하고 목가적인 삶을 살았다.",
+                "ja": "彼らは田舎で素朴な牧歌的生活を送っていた。",
+                "zh": "他们在乡村过着简朴的田园诗般的生活。",
+                "fr": "Ils vivaient une vie arcadienne simple à la campagne."
+            }
+        },
+        {
+            "word": "Canadian",
+            "part_of_speech": "",
+            "origin": "Canada + -ian",
+            "meaning": {
+                "ko": "캐나다에 속하는",
+                "en": "belonging to Canada",
+                "ja": "カナダに属する",
+                "zh": "属于加拿大的",
+                "fr": "appartenant au Canada"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Canada",
+                    "meaning": {
+                        "ko": "'캐나다'",
+                        "en": "Canada",
+                        "ja": "カナダ",
+                        "zh": "加拿大",
+                        "fr": "Canada"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ian",
+                    "meaning": {
+                        "ko": "'~의, ~사람'",
+                        "en": "of, person from",
+                        "ja": "〜の、〜人",
+                        "zh": "〜的、〜人",
+                        "fr": "~de, ~personne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'캐나다의' 또는 '캐나다 사람'을 뜻합니다.",
+                "en": "Means 'of Canada' or 'Canadian person'",
+                "ja": "カナダの、またはカナダ人を意味します",
+                "zh": "意为'加拿大的'或'加拿大人'",
+                "fr": "Signifie 'du Canada' ou 'personne canadienne'"
+            },
+            "example": "She is a Canadian citizen.",
+            "translation": {
+                "ko": "그녀는 캐나다 시민이다.",
+                "ja": "彼女はカナダの市民です。",
+                "zh": "她是加拿大公民。",
+                "fr": "Elle est une citoyenne canadienne."
+            }
+        },
+        {
+            "word": "Hadean",
+            "part_of_speech": "",
+            "origin": "Greek, Haides (the underworld)",
+            "meaning": {
+                "ko": "하데스",
+                "en": "Hades",
+                "ja": "冥王星のような",
+                "zh": "冥王星般的",
+                "fr": "semblable à Hadès"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Hade-",
+                    "meaning": {
+                        "ko": "'하데스'",
+                        "en": "Hades",
+                        "ja": "ハデス",
+                        "zh": "哈迪斯",
+                        "fr": "Hadès"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-an",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지옥(하데스)처럼 뜨거운 초기 지구의 상태'를 묘사하는 지질 시대인 '명왕누대'를 뜻합니다.",
+                "en": "The Hadean eon is the earliest period in Earth's history, named after the underworld, describing Earth's hellishly hot early state",
+                "ja": "地獄(ハデス)のように灼熱した初期地球の状態を描く地質時代の冥王代を意味します",
+                "zh": "描述初期地球像地狱(哈迪斯)一样炽热状态的地质时代冥王宙的意思",
+                "fr": "Décrit l'Hadéen, une ère géologique décrivant l'état brûlant de la jeune Terre comme l'enfer"
+            },
+            "example": "The Hadean eon is the earliest period in Earth's history.",
+            "translation": {
+                "ko": "명왕누대는 지구 역사상 가장 이른 시기이다.",
+                "ja": "冥王代",
+                "zh": "冥王宙",
+                "fr": "Hadéen"
+            }
+        },
+        {
+            "word": "hydrozoan",
+            "part_of_speech": "",
+            "origin": "Greek, hydor (water) + zoion (animal)",
+            "meaning": {
+                "ko": "물 동물",
+                "en": "aquatic animal",
+                "ja": "ヒドロ虫綱動物",
+                "zh": "水螅纲动物",
+                "fr": "hydrozoaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hydro-",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "zo-",
+                    "meaning": {
+                        "ko": "'동물'",
+                        "en": "animal",
+                        "ja": "動物",
+                        "zh": "动物",
+                        "fr": "animal"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-an",
+                    "meaning": {
+                        "ko": "'~에 속하는'",
+                        "en": "belonging to",
+                        "ja": "~に属する",
+                        "zh": "属于~",
+                        "fr": "appartenant à ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물에 사는' 히드라, 해파리 등의 '히드라충강에 속하는 동물'을 뜻합니다.",
+                "en": "Animals belonging to Hydrozoa class that live in water, such as hydra and jellyfish",
+                "ja": "水に住むヒドラ、クラゲなどのヒドロ虫綱に属する動物を意味します",
+                "zh": "指生活在水中的水螅、海蜇等属于水螅纲的动物",
+                "fr": "Animaux appartenant à la classe des Hydozoaires vivant dans l'eau, comme l'hydre et les méduses"
+            },
+            "example": "A jellyfish is a type of hydrozoan.",
+            "translation": {
+                "ko": "해파리는 히드라충강 동물의 한 종류이다.",
+                "ja": "クラゲはヒドロ虫綱動物の一種です",
+                "zh": "水母是水螅纲动物的一种",
+                "fr": "Une méduse est un type d'hydrozoaire"
+            }
+        }
+    ]
+}

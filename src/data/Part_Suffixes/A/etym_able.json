@@ -1,0 +1,176 @@
+{
+    "root_info": {
+        "roots": "able (capable of, able) inflammable, notable, reliable",
+        "origin": "Latin, -abilis (capable of being)",
+        "meaning": {
+            "ko": "…될 수 있는",
+            "en": "capable of being",
+            "ja": "…できる",
+            "zh": "…能够…",
+            "fr": "…capable de…"
+        }
+    },
+    "words": [
+        {
+            "word": "inflammable",
+            "part_of_speech": "",
+            "origin": "Latin, inflammare (to set on fire)",
+            "meaning": {
+                "ko": "불을 붙이다",
+                "en": "to set on fire",
+                "ja": "火をつける",
+                "zh": "点火",
+                "fr": "s'enflammer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "into",
+                        "ja": "内へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flamm- (flamma)",
+                    "meaning": {
+                        "ko": "'불꽃'",
+                        "en": "flame",
+                        "ja": "炎",
+                        "zh": "火焰",
+                        "fr": "flamme"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-able",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "capable of",
+                        "ja": "できる",
+                        "zh": "能够",
+                        "fr": "capable de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'불꽃 안으로 들어갈 수 있는'이라는 의미에서 '불이 붙기 쉬운', '가연성의'라는 뜻입니다. flammable과 같은 의미이며, 반의어는 nonflammable입니다.",
+                "en": "Meaning 'easily catches fire' or 'combustible' from the concept of entering into flame. Same meaning as flammable; antonym is nonflammable.",
+                "ja": "'炎の中に入ることができる'という意味から'燃えやすい''可燃性の'という意味です。flammableと同じ意味で、反対語はnonflammableです。",
+                "zh": "从'能进入火焰'的概念衍生出'易燃的''可燃性的'之意。与flammable意思相同，反义词是nonflammable。",
+                "fr": "Du concept d'entrer dans la flamme signifiant 'facilement inflammable' ou 'combustible'. Même sens que flammable; l'antonyme est nonflammable."
+            },
+            "example": "This liquid is highly inflammable.",
+            "translation": {
+                "ko": "이 액체는 인화성이 매우 높다.",
+                "ja": "この液体は非常に燃えやすい。",
+                "zh": "这种液体极易燃烧。",
+                "fr": "Ce liquide est hautement inflammable."
+            }
+        },
+        {
+            "word": "notable",
+            "part_of_speech": "",
+            "origin": "Latin, notabilis (worthy of note)",
+            "meaning": {
+                "ko": "주목할 가치가 있는",
+                "en": "worthy of note",
+                "ja": "注目に値する",
+                "zh": "值得注意的",
+                "fr": "digne de remarque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "not- (notare)",
+                    "meaning": {
+                        "ko": "'주목하다'",
+                        "en": "to note",
+                        "ja": "注目する",
+                        "zh": "注意",
+                        "fr": "noter"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-able",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "capable of",
+                        "ja": "できる",
+                        "zh": "能够",
+                        "fr": "capable de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주목할 수 있는'이라는 의미에서 '주목할 만한', '눈에 띄는'이라는 뜻입니다.",
+                "en": "Means worthy of attention or striking to the eye",
+                "ja": "注目に値する、目立つという意味",
+                "zh": "值得关注，引人注目的意思",
+                "fr": "Signifie digne d'attention ou remarquable"
+            },
+            "example": "He is a notable figure in the art world.",
+            "translation": {
+                "ko": "그는 미술계에서 주목할 만한 인물이다.",
+                "ja": "彼は美術界の著名人である。",
+                "zh": "他是艺术界的杰出人物。",
+                "fr": "Il est une figure remarquable dans le monde de l'art."
+            }
+        },
+        {
+            "word": "reliable",
+            "part_of_speech": "",
+            "origin": "English, rely + -able",
+            "meaning": {
+                "ko": "의지할 수 있는",
+                "en": "capable of being relied on",
+                "ja": "頼りになる",
+                "zh": "可以依靠的",
+                "fr": "digne de confiance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rely",
+                    "meaning": {
+                        "ko": "'의지하다'",
+                        "en": "to depend on",
+                        "ja": "頼る",
+                        "zh": "依靠",
+                        "fr": "compter sur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-able",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "able to be done",
+                        "ja": "できる",
+                        "zh": "能够",
+                        "fr": "pouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의지할 수 있는'이라는 의미에서 '믿을 수 있는', '신뢰할 수 있는'이라는 뜻입니다.",
+                "en": "Capable of being relied on; trustworthy and dependable",
+                "ja": "信頼できる、頼りになるという意味",
+                "zh": "意为可以相信、值得信赖",
+                "fr": "Signifie digne de confiance et fiable"
+            },
+            "example": "She is a reliable and trustworthy employee.",
+            "translation": {
+                "ko": "그녀는 믿을 수 있고 신뢰할 수 있는 직원이다.",
+                "ja": "彼女は信頼できて誠実な従業員です。",
+                "zh": "她是一位可靠和值得信赖的员工。",
+                "fr": "Elle est une employée fiable et digne de confiance."
+            }
+        }
+    ]
+}

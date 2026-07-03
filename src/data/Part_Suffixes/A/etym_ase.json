@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ase (enzyme) lactase, lipase, sucrase",
+        "origin": "from diastase",
+        "meaning": {
+            "ko": "효소 이름에 붙이는 접미사",
+            "en": "",
+            "ja": "酵素の名前に付ける接尾辞",
+            "zh": "附加在酶名称上的后缀",
+            "fr": "suffixe ajouté aux noms d'enzymes"
+        }
+    },
+    "words": [
+        {
+            "word": "lactase",
+            "part_of_speech": "",
+            "origin": "lactose + -ase",
+            "meaning": {
+                "ko": "유당 효소",
+                "en": "lactose enzyme",
+                "ja": "乳糖分解酵素",
+                "zh": "乳糖酶",
+                "fr": "lactase"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lact-",
+                    "meaning": {
+                        "ko": "'유당'",
+                        "en": "lactose",
+                        "ja": "乳糖",
+                        "zh": "乳糖",
+                        "fr": "lactose"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ase",
+                    "meaning": {
+                        "ko": "'효소'",
+                        "en": "enzyme",
+                        "ja": "酵素",
+                        "zh": "酶",
+                        "fr": "enzyme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유당(lactose)을 분해하는 효소'를 뜻합니다.",
+                "en": "Lactase is an enzyme that breaks down lactose",
+                "ja": "乳糖を分解する酵素を意味します",
+                "zh": "分解乳糖的酶",
+                "fr": "enzyme qui décompose le lactose"
+            },
+            "example": "Lactase is an enzyme that breaks down lactose.",
+            "translation": {
+                "ko": "락타아제는 유당을 분해하는 효소이다.",
+                "ja": "ラクターゼは乳糖を分解する酵素です",
+                "zh": "乳糖酶是分解乳糖的酶",
+                "fr": "La lactase est une enzyme qui décompose le lactose"
+            }
+        },
+        {
+            "word": "lipase",
+            "part_of_speech": "",
+            "origin": "Greek, lipos (fat) + -ase",
+            "meaning": {
+                "ko": "지방 효소",
+                "en": "fat enzyme",
+                "ja": "脂肪分解酵素",
+                "zh": "脂肪酶",
+                "fr": "lipase"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lip-",
+                    "meaning": {
+                        "ko": "'지방'",
+                        "en": "fat",
+                        "ja": "脂肪",
+                        "zh": "脂肪",
+                        "fr": "graisse"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ase",
+                    "meaning": {
+                        "ko": "'효소'",
+                        "en": "enzyme",
+                        "ja": "酵素",
+                        "zh": "酶",
+                        "fr": "enzyme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지방(lipid)을 분해하는 효소'를 뜻합니다.",
+                "en": "An enzyme that breaks down lipids (fats)",
+                "ja": "脂肪(リピド)を分解する酵素",
+                "zh": "分解脂肪(脂质)的酶",
+                "fr": "Une enzyme qui décompose les lipides"
+            },
+            "example": "Lipase helps the body to digest fats.",
+            "translation": {
+                "ko": "리파아제는 신체가 지방을 소화하는 것을 돕는다.",
+                "ja": "リパーゼは体が脂肪を消化するのを助けます。",
+                "zh": "脂肪酶帮助身体消化脂肪。",
+                "fr": "La lipase aide le corps à digérer les graisses."
+            }
+        },
+        {
+            "word": "sucrase",
+            "part_of_speech": "",
+            "origin": "sucrose + -ase",
+            "meaning": {
+                "ko": "자당 효소",
+                "en": "enzyme that breaks down sucrose",
+                "ja": "ショ糖分解酵素",
+                "zh": "蔗糖酶",
+                "fr": "saccharase"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sucr-",
+                    "meaning": {
+                        "ko": "'자당'",
+                        "en": "sucrose",
+                        "ja": "ショ糖",
+                        "zh": "蔗糖",
+                        "fr": "saccharose"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ase",
+                    "meaning": {
+                        "ko": "'효소'",
+                        "en": "enzyme",
+                        "ja": "酵素",
+                        "zh": "酶",
+                        "fr": "enzyme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자당(sucrose)을 분해하는 효소'를 뜻합니다.",
+                "en": "Enzyme that breaks down sucrose",
+                "ja": "ショ糖を分解する酵素",
+                "zh": "分解蔗糖的酶",
+                "fr": "Enzyme qui décompose le saccharose"
+            },
+            "example": "Sucrase is found in the small intestine.",
+            "translation": {
+                "ko": "수크라아제는 소장에서 발견된다.",
+                "ja": "ショ糖分解酵素は小腸に存在します。",
+                "zh": "蔗糖酶存在于小肠中。",
+                "fr": "La saccharase se trouve dans l'intestin grêle."
+            }
+        }
+    ]
+}

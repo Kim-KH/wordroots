@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "nox (harm) noxious, noxiousness, obnoxious",
+        "origin": "Latin, noxa (harm, injury)",
+        "meaning": {
+            "ko": "해로움",
+            "en": "harm",
+            "ja": "害",
+            "zh": "伤害",
+            "fr": "préjudice"
+        }
+    },
+    "words": [
+        {
+            "word": "noxious",
+            "part_of_speech": "",
+            "origin": "Latin, noxius (harmful)",
+            "meaning": {
+                "ko": "해로운",
+                "en": "harmful or poisonous",
+                "ja": "有害な",
+                "zh": "有害的",
+                "fr": "nuisible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nox-",
+                    "meaning": {
+                        "ko": "'해로움'",
+                        "en": "harm",
+                        "ja": "害",
+                        "zh": "伤害",
+                        "fr": "nuisance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'해로운', '유독한'이라는 뜻입니다.",
+                "en": "Means harmful or toxic",
+                "ja": "有害な、有毒なという意味です",
+                "zh": "意思是有害的、有毒的",
+                "fr": "Signifie nuisible ou toxique"
+            },
+            "example": "Noxious fumes were coming from the factory.",
+            "translation": {
+                "ko": "공장에서 유독 가스가 나오고 있었다.",
+                "ja": "工場から有害なガスが出ていました。",
+                "zh": "有害气体从工厂排放出来。",
+                "fr": "Des fumées nocives provenaient de l'usine."
+            }
+        },
+        {
+            "word": "noxiousness",
+            "part_of_speech": "",
+            "origin": "Latin, noxius (harmful)",
+            "meaning": {
+                "ko": "해로운",
+                "en": "harmful or injurious",
+                "ja": "有害性",
+                "zh": "有害性",
+                "fr": "nocivité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "noxious",
+                    "meaning": {
+                        "ko": "'해로운'",
+                        "en": "harmful",
+                        "ja": "有害な",
+                        "zh": "有害的",
+                        "fr": "nuisible"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'해로운 상태'를 의미하여 '유해함'을 뜻합니다.",
+                "en": "Refers to the state of being harmful, meaning toxicity or harmfulness",
+                "ja": "有害な状態を意味し、毒性または害をもたらす性質を表します",
+                "zh": "指有害的状态，表示毒性或有害的特性",
+                "fr": "Fait référence à l'état d'être nuisible, signifiant toxicité ou caractère dommageable"
+            },
+            "example": "The noxiousness of the chemical was well-known.",
+            "translation": {
+                "ko": "그 화학 물질의 유해성은 잘 알려져 있었다.",
+                "ja": "その化学物質の有害性はよく知られていました",
+                "zh": "该化学物质的有害性是众所周知的",
+                "fr": "La nocivité du produit chimique était bien connue"
+            }
+        },
+        {
+            "word": "obnoxious",
+            "part_of_speech": "",
+            "origin": "Latin, obnoxiosus (hurtful, liable)",
+            "meaning": {
+                "ko": "해로운, 책임이 있는",
+                "en": "harmful, responsible",
+                "ja": "不快な、有害な",
+                "zh": "令人厌烦的、有害的",
+                "fr": "désagréable, nuisible"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "'~을 향하여'",
+                        "en": "toward",
+                        "ja": "~に向かって",
+                        "zh": "朝向、针对",
+                        "fr": "vers, contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nox-",
+                    "meaning": {
+                        "ko": "'해로움'",
+                        "en": "harm",
+                        "ja": "害、危害",
+                        "zh": "伤害、危害",
+                        "fr": "nuisance, mal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람에게 해를 끼칠 정도로 불쾌한'이라는 의미에서 '아주 불쾌한', '밉살스러운'이라는 뜻입니다.",
+                "en": "From the meaning of 'causing harm to others, extremely unpleasant', it now means 'very displeasing' or 'detestable'.",
+                "ja": "他人に害を及ぼすほど不快であるという意味から、非常に不快な、不愉快なという意味になった。",
+                "zh": "从\"对他人造成伤害那样令人不快\"的意思衍生出\"非常令人厌烦的\"、\"令人厌恶的\"之意。",
+                "fr": "Du sens de 'causant du tort à autrui, extrêmement désagréable', il signifie maintenant 'très désagréable' ou 'détestable'."
+            },
+            "example": "He is an obnoxious and arrogant man.",
+            "translation": {
+                "ko": "그는 밉살스럽고 거만한 남자이다.",
+                "ja": "彼は不快で傲慢な男だ。",
+                "zh": "他是一个令人厌烦且傲慢的人。",
+                "fr": "C'est un homme désagréable et arrogant."
+            }
+        }
+    ]
+}

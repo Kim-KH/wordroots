@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "frigi (cold) frigid, frigidity, frigorific, refrigerate",
+        "origin": "Latin, frigus (cold)",
+        "meaning": {
+            "ko": "추운",
+            "en": "cold",
+            "ja": "寒い",
+            "zh": "冷",
+            "fr": "froid"
+        }
+    },
+    "words": [
+        {
+            "word": "frigid",
+            "part_of_speech": "",
+            "origin": "Latin, frigidus (cold)",
+            "meaning": {
+                "ko": "추운",
+                "en": "cold",
+                "ja": "非常に寒い",
+                "zh": "极其寒冷的",
+                "fr": "extrêmement froid"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frig-",
+                    "meaning": {
+                        "ko": "'추운'",
+                        "en": "cold",
+                        "ja": "寒い",
+                        "zh": "寒冷",
+                        "fr": "froid"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매우 추운' 또는 감정이 '냉담한'이라는 뜻입니다.",
+                "en": "Means very cold or emotionally aloof/indifferent",
+                "ja": "非常に寒い、または感情が冷淡であることを意味します",
+                "zh": "表示非常寒冷，或感情冷漠",
+                "fr": "Signifie très froid ou une attitude émotionnelle froide"
+            },
+            "example": "The weather is frigid in the Arctic.",
+            "translation": {
+                "ko": "북극의 날씨는 몹시 춥다.",
+                "ja": "北極では天気が非常に寒い。",
+                "zh": "北极的天气极其寒冷。",
+                "fr": "Le temps est extrêmement froid dans l'Arctique."
+            }
+        },
+        {
+            "word": "frigidity",
+            "part_of_speech": "",
+            "origin": "Latin, frigiditas (coldness)",
+            "meaning": {
+                "ko": "추위",
+                "en": "coldness or lack of warmth",
+                "ja": "極度の寒冷",
+                "zh": "极度的寒冷",
+                "fr": "froideur extrême"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frigid-",
+                    "meaning": {
+                        "ko": "'추운'",
+                        "en": "cold",
+                        "ja": "寒い",
+                        "zh": "寒冷的",
+                        "fr": "froid"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매우 추운 상태' 또는 '냉담함'을 뜻합니다.",
+                "en": "Means extremely cold state or emotional coldness",
+                "ja": "非常に寒い状態または冷淡さを意味します",
+                "zh": "表示极度寒冷的状态或冷漠的态度",
+                "fr": "Signifie un état de froideur extrême ou une attitude distante"
+            },
+            "example": "The frigidity of the water made it impossible to swim.",
+            "translation": {
+                "ko": "물의 차가움 때문에 수영하는 것이 불가능했다.",
+                "ja": "水の極度の寒冷さは泳ぐことを不可能にしました。",
+                "zh": "水的极度寒冷使得游泳成为不可能。",
+                "fr": "La froideur extrême de l'eau rendait la baignade impossible."
+            }
+        },
+        {
+            "word": "frigorific",
+            "part_of_speech": "",
+            "origin": "Latin, frigus (cold) + facere (to make)",
+            "meaning": {
+                "ko": "춥게 만드는",
+                "en": "making cold",
+                "ja": "冷たくする",
+                "zh": "使寒冷的",
+                "fr": "qui refroidit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frigor-",
+                    "meaning": {
+                        "ko": "'추위'",
+                        "en": "cold",
+                        "ja": "寒冷",
+                        "zh": "寒冷",
+                        "fr": "froid"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fic (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'춥게 만드는'이라는 뜻입니다.",
+                "en": "A frigorific mixture is used to create low temperatures.",
+                "ja": "冷却混合物は低温を生成するために使用されます。",
+                "zh": "冷却混合物用于产生低温。",
+                "fr": "Un mélange frigorifique est utilisé pour créer des basses températures."
+            },
+            "example": "A frigorific mixture is used to create low temperatures.",
+            "translation": {
+                "ko": "냉각 혼합물은 낮은 온도를 만드는 데 사용된다.",
+                "ja": "冷却混合物は低温を生成するために使用されます。",
+                "zh": "冷却混合物用于产生低温。",
+                "fr": "Un mélange frigorifique est utilisé pour créer des basses températures."
+            }
+        },
+        {
+            "word": "refrigerate",
+            "part_of_speech": "",
+            "origin": "Latin, refrigerare (to make cool)",
+            "meaning": {
+                "ko": "시원하게 만들다",
+                "en": "to make cool",
+                "ja": "冷やして保存する",
+                "zh": "冷藏保存",
+                "fr": "conserver au froid"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시, 뒤로'",
+                        "en": "again, back",
+                        "ja": "再び、後ろに",
+                        "zh": "再次、向后",
+                        "fr": "à nouveau, en arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "friger- (frigus)",
+                    "meaning": {
+                        "ko": "'추위'",
+                        "en": "cold",
+                        "ja": "冷たさ、寒冷",
+                        "zh": "寒冷、冷",
+                        "fr": "froid, froideur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 차갑게 만들다'는 의미에서 음식을 '냉장 보관하다'라는 뜻이 되었습니다.",
+                "en": "Originally meant 'make cold again', which evolved to mean 'store food by refrigeration'.",
+                "ja": "元々は'再び冷たくする'という意味でしたが、食品を'冷蔵保管する'という意味に進化しました。",
+                "zh": "原意为'再次冷却'，后来演变为'冷藏食物'的意思。",
+                "fr": "Signifiait à l'origine 'refroidir à nouveau', ce qui a évolué vers 'conserver les aliments par réfrigération'."
+            },
+            "example": "You should refrigerate the milk after opening it.",
+            "translation": {
+                "ko": "우유는 개봉 후에 냉장 보관해야 한다.",
+                "ja": "牛乳は開封後に冷蔵保存すべきです。",
+                "zh": "打开后应该冷藏牛奶。",
+                "fr": "Vous devriez conserver le lait au réfrigérateur après l'avoir ouvert."
+            }
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "root_info": {
+        "roots": "ation (act of, condition of) intimation, perspiration, recitation, specialization",
+        "origin": "Latin, -atio (the act of)",
+        "meaning": {
+            "ko": "…하는 행위",
+            "en": "the act of",
+            "ja": "〜する行為",
+            "zh": "〜的行为",
+            "fr": "l'action de"
+        }
+    },
+    "words": [
+        {
+            "word": "intimation",
+            "part_of_speech": "",
+            "origin": "Latin, intimare (to make known)",
+            "meaning": {
+                "ko": "알리다",
+                "en": "to inform or hint",
+                "ja": "暗に知らせること",
+                "zh": "暗示、提示",
+                "fr": "indication discrète"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "intim-",
+                    "meaning": {
+                        "ko": "'친밀한, 알리다'",
+                        "en": "intimate or inform",
+                        "ja": "親密な、知らせる",
+                        "zh": "亲密的、告知",
+                        "fr": "intime, informer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "'행위'",
+                        "en": "act or process",
+                        "ja": "行為",
+                        "zh": "行为",
+                        "fr": "action"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'넌지시 알리는 행위'인 '암시'를 뜻합니다.",
+                "en": "The act of subtly hinting or suggesting something",
+                "ja": "さりげなく知らせる行為、暗示を意味します",
+                "zh": "暗示或暗中透露的行为",
+                "fr": "L'acte de suggérer quelque chose subtilement"
+            },
+            "example": "He gave no intimation that he was planning to resign.",
+            "translation": {
+                "ko": "그는 사임할 계획이라는 암시를 전혀 주지 않았다.",
+                "ja": "彼が辞任する計画であることを何ら暗示しなかった。",
+                "zh": "他没有给出任何他计划辞职的迹象。",
+                "fr": "Il n'a donné aucune indication qu'il prévoyait de démissionner."
+            }
+        },
+        {
+            "word": "perspiration",
+            "part_of_speech": "",
+            "origin": "Latin, perspirare (to breathe through)",
+            "meaning": {
+                "ko": "통하여 숨 쉬다",
+                "en": "to breathe through",
+                "ja": "発汗、汗をかくこと",
+                "zh": "出汗、排汗",
+                "fr": "transpiration, sudation"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "'통하여'",
+                        "en": "through",
+                        "ja": "通して",
+                        "zh": "通过、经过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spir- (spirare)",
+                    "meaning": {
+                        "ko": "'숨 쉬다'",
+                        "en": "to breathe",
+                        "ja": "呼吸する",
+                        "zh": "呼吸",
+                        "fr": "respirer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "'행위'",
+                        "en": "action or process",
+                        "ja": "行為、作用",
+                        "zh": "行为、作用",
+                        "fr": "action, acte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부를 통해 숨 쉬듯이 수분이 나오는' 현상인 '땀 흘리기', '땀'을 뜻합니다.",
+                "en": "Perspiration refers to the phenomenon of moisture being released through the skin like breathing, meaning sweating or sweat.",
+                "ja": "皮膚を通して呼吸するように水分が出る現象である'汗をかくこと'、'汗'を意味します。",
+                "zh": "透过皮肤像呼吸一样释放水分的现象，指'出汗''汗液'。",
+                "fr": "Phénomène où l'humidité s'échappe à travers la peau comme une respiration, signifiant transpiration ou sueur."
+            },
+            "example": "Perspiration helps to cool the body.",
+            "translation": {
+                "ko": "땀은 몸을 식히는 데 도움이 된다.",
+                "ja": "発汗",
+                "zh": "出汗",
+                "fr": "transpiration"
+            }
+        },
+        {
+            "word": "recitation",
+            "part_of_speech": "",
+            "origin": "Latin, recitare (to read out)",
+            "meaning": {
+                "ko": "소리 내어 읽다",
+                "en": "read aloud",
+                "ja": "暗唱、朗読",
+                "zh": "背诵、朗诵",
+                "fr": "récitation, déclamation"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "back, again",
+                        "ja": "再び、もう一度",
+                        "zh": "再次、重新",
+                        "fr": "de nouveau, encore"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cit- (citare)",
+                    "meaning": {
+                        "ko": "'부르다'",
+                        "en": "to call",
+                        "ja": "呼ぶ、召し上がる",
+                        "zh": "呼唤、召唤",
+                        "fr": "appeler, invoquer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "'행위'",
+                        "en": "act or process",
+                        "ja": "行為、動作",
+                        "zh": "行为、动作",
+                        "fr": "action, acte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기억나는 것을 다시 불러내어 말하는' 행위인 '암송', '낭독'을 뜻합니다.",
+                "en": "The act of recalling from memory and repeating aloud, meaning 'memorized recitation' or 'oral reading'.",
+                "ja": "記憶から呼び起こして声に出して言う行為で、『暗唱』『朗読』を意味します。",
+                "zh": "从记忆中召唤并大声说出的行为，意味着'背诵'或'朗读'。",
+                "fr": "L'acte de rappeler de mémoire et de répéter à haute voix, signifiant 'récitation mémorisée' ou 'lecture orale'."
+            },
+            "example": "The students gave a recitation of the poem.",
+            "translation": {
+                "ko": "학생들은 그 시를 암송했다.",
+                "ja": "生徒たちは詩の暗唱を行った。",
+                "zh": "学生们进行了诗歌背诵。",
+                "fr": "Les élèves ont donné une récitation du poème."
+            }
+        },
+        {
+            "word": "specialization",
+            "part_of_speech": "",
+            "origin": "Latin, specialis (particular)",
+            "meaning": {
+                "ko": "특별한",
+                "en": "special or distinctive",
+                "ja": "特定分野の専門化",
+                "zh": "特定领域专业化",
+                "fr": "spécialisation dans un domaine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "special",
+                    "meaning": {
+                        "ko": "'특별한'",
+                        "en": "special or distinctive",
+                        "ja": "特別な",
+                        "zh": "特别的",
+                        "fr": "particulier"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ization",
+                    "meaning": {
+                        "ko": "'~화'",
+                        "en": "process of becoming or making",
+                        "ja": "~化",
+                        "zh": "~化",
+                        "fr": "~isation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 분야를 전문으로 하는 것'인 '전문화'를 뜻합니다.",
+                "en": "Refers to specialization meaning focusing on specific field professionally",
+                "ja": "特定分野を専門とすることを意味します",
+                "zh": "指专注于特定领域的专业化",
+                "fr": "Signifie se concentrer professionnellement sur un domaine spécifique"
+            },
+            "example": "The company encourages specialization among its employees.",
+            "translation": {
+                "ko": "그 회사는 직원들 간의 전문화를 장려한다.",
+                "ja": "会社は従業員の専門化を奨励している",
+                "zh": "公司鼓励员工的专业化",
+                "fr": "L'entreprise encourage la spécialisation parmi ses employés"
+            }
+        }
+    ]
+}

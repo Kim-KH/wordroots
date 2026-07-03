@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "matic (relating to) automatic, mathematical, plasmatic, somatic",
+        "origin": "Greek, -matikos (willing to)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "relating to",
+            "ja": "…に関する",
+            "zh": "…有关的",
+            "fr": "…concernant"
+        }
+    },
+    "words": [
+        {
+            "word": "automatic",
+            "part_of_speech": "",
+            "origin": "Greek, automatos (acting of itself)",
+            "meaning": {
+                "ko": "스스로 움직이는",
+                "en": "moving by itself",
+                "ja": "自動的な",
+                "zh": "自动的",
+                "fr": "automatique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "auto-",
+                    "meaning": {
+                        "ko": "'스스로'",
+                        "en": "self",
+                        "ja": "自ら",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "matic",
+                    "meaning": {
+                        "ko": "'~하는'",
+                        "en": "doing or performing",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "bouger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'스스로 움직이는'이라는 의미에서 '자동의'라는 뜻이 되었습니다.",
+                "en": "From the meaning 'moving by itself' came the sense 'automatic'",
+                "ja": "自ら動くという意味から自動的という意味になりました",
+                "zh": "从'自己移动'的含义演变为'自动的'之意",
+                "fr": "Du sens 'se mouvoir soi-même' est venu le sens 'automatique'"
+            },
+            "example": "This car has an automatic transmission.",
+            "translation": {
+                "ko": "이 차는 자동 변속기를 가지고 있다.",
+                "ja": "このクルマは自動変速機を備えている",
+                "zh": "这辆车配备了自动变速器",
+                "fr": "Cette voiture a une transmission automatique"
+            }
+        },
+        {
+            "word": "mathematical",
+            "part_of_speech": "",
+            "origin": "Greek, mathematikos (fond of learning)",
+            "meaning": {
+                "ko": "배우기를 좋아하는",
+                "en": "fond of learning",
+                "ja": "数学的な",
+                "zh": "数学的",
+                "fr": "mathématique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mathemat-",
+                    "meaning": {
+                        "ko": "'수학'",
+                        "en": "mathematics",
+                        "ja": "数学",
+                        "zh": "数学",
+                        "fr": "mathématiques"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ical",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'수학의', '수학적인'이라는 뜻입니다.",
+                "en": "Means 'of mathematics' or 'mathematical'",
+                "ja": "数学の、数学的という意味です",
+                "zh": "意思是'数学的'、'数学的'",
+                "fr": "Signifie 'de mathématiques' ou 'mathématique'"
+            },
+            "example": "He solved the problem with mathematical precision.",
+            "translation": {
+                "ko": "그는 수학적인 정확성으로 그 문제를 풀었다.",
+                "ja": "彼は数学的な正確さで問題を解いた。",
+                "zh": "他用数学的精确性解决了这个问题。",
+                "fr": "Il a résolu le problème avec une précision mathématique."
+            }
+        },
+        {
+            "word": "plasmatic",
+            "part_of_speech": "",
+            "origin": "Greek, plasma (something molded)",
+            "meaning": {
+                "ko": "형성된 것",
+                "en": "formed or constituted",
+                "ja": "血漿の、原形質の",
+                "zh": "血浆的、原生质的",
+                "fr": "plasmatique, du plasma"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plasma-",
+                    "meaning": {
+                        "ko": "'혈장, 원형질'",
+                        "en": "blood plasma, protoplasm",
+                        "ja": "血漿、原形質",
+                        "zh": "血浆、原生质",
+                        "fr": "plasma, protoplasme"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "de, du"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈장의' 또는 '원형질의'라는 뜻입니다.",
+                "en": "Means 'of or relating to blood plasma or cytoplasm'",
+                "ja": "血漿または原形質に関する意味",
+                "zh": "与血浆或原生质有关的意思",
+                "fr": "Signifie relatif au plasma ou au cytoplasme"
+            },
+            "example": "The plasmatic membrane surrounds the cell.",
+            "translation": {
+                "ko": "원형질막은 세포를 둘러싸고 있다.",
+                "ja": "形成されたもの",
+                "zh": "形成的东西",
+                "fr": "chose formée"
+            }
+        },
+        {
+            "word": "somatic",
+            "part_of_speech": "",
+            "origin": "Greek, somatikos (of the body)",
+            "meaning": {
+                "ko": "몸의",
+                "en": "of the body",
+                "ja": "身体の",
+                "zh": "身体的",
+                "fr": "somatique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "soma-",
+                    "meaning": {
+                        "ko": "'몸'",
+                        "en": "body",
+                        "ja": "身体",
+                        "zh": "身体",
+                        "fr": "corps"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신이 아닌 신체의'라는 뜻입니다.",
+                "en": "Meaning of the body, not the mind",
+                "ja": "心ではなく身体に関する意味",
+                "zh": "与身体有关，而非精神",
+                "fr": "Relatif au corps, non à l'esprit"
+            },
+            "example": "The illness has a somatic cause.",
+            "translation": {
+                "ko": "그 질병에는 신체적인 원인이 있다.",
+                "ja": "この病気は身体的な原因があります。",
+                "zh": "这种疾病有身体上的原因。",
+                "fr": "La maladie a une cause somatique."
+            }
+        }
+    ]
+}

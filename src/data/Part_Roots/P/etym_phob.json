@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "phob (fear) arachnophobia, claustrophobia, hydrophobia, phobia",
+        "origin": "Greek, phobos (fear)",
+        "meaning": {
+            "ko": "두려움",
+            "en": "fear",
+            "ja": "恐れ",
+            "zh": "害怕",
+            "fr": "peur"
+        }
+    },
+    "words": [
+        {
+            "word": "arachnophobia",
+            "part_of_speech": "",
+            "origin": "Greek, arakhne (spider) + phobos (fear)",
+            "meaning": {
+                "ko": "거미 공포",
+                "en": "fear of spiders",
+                "ja": "蜘蛛恐怖症",
+                "zh": "蜘蛛恐惧症",
+                "fr": "arachnophobie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arachno-",
+                    "meaning": {
+                        "ko": "'거미'",
+                        "en": "spider",
+                        "ja": "蜘蛛",
+                        "zh": "蜘蛛",
+                        "fr": "araignée"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phobia",
+                    "meaning": {
+                        "ko": "'공포증'",
+                        "en": "fear",
+                        "ja": "恐怖症",
+                        "zh": "恐惧症",
+                        "fr": "phobie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'거미에 대한 비정상적인 공포'인 '거미 공포증'을 뜻합니다.",
+                "en": "An abnormal fear of spiders",
+                "ja": "蜘蛛に対する異常な恐怖",
+                "zh": "对蜘蛛的异常恐惧",
+                "fr": "Peur anormale des araignées"
+            },
+            "example": "He suffers from severe arachnophobia.",
+            "translation": {
+                "ko": "그는 심한 거미 공포증을 앓고 있다.",
+                "ja": "彼は重度のクモ恐怖症に苦しんでいます。",
+                "zh": "他患有严重的蜘蛛恐惧症。",
+                "fr": "Il souffre d'une grave arachnophobie."
+            }
+        },
+        {
+            "word": "claustrophobia",
+            "part_of_speech": "",
+            "origin": "Latin, claustrum (a confined place) + Greek, phobos (fear)",
+            "meaning": {
+                "ko": "갇힌 장소 공포",
+                "en": "fear of confined spaces",
+                "ja": "閉所恐怖症",
+                "zh": "幽闭恐怖症",
+                "fr": "claustrophobie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "claustro-",
+                    "meaning": {
+                        "ko": "'갇힌 곳'",
+                        "en": "confined place",
+                        "ja": "閉じ込められた場所",
+                        "zh": "被限制的地方",
+                        "fr": "lieu confiné"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phobia",
+                    "meaning": {
+                        "ko": "'공포증'",
+                        "en": "fear",
+                        "ja": "恐怖症",
+                        "zh": "恐惧症",
+                        "fr": "phobie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'좁고 막힌 공간에 대한 공포'인 '폐소 공포증'을 뜻합니다.",
+                "en": "Fear of narrow and enclosed spaces",
+                "ja": "狭く閉ざされた空間への恐怖",
+                "zh": "对狭小密闭空间的恐惧",
+                "fr": "peur des espaces étroits fermés"
+            },
+            "example": "Claustrophobia can be a very distressing condition.",
+            "translation": {
+                "ko": "폐소 공포증은 매우 고통스러운 상태일 수 있다.",
+                "ja": "閉所恐怖症は非常に苦痛な状態になることができます。",
+                "zh": "幽闭恐怖症可能是一种非常痛苦的状况。",
+                "fr": "La claustrophobie peut être une condition très angoissante."
+            }
+        },
+        {
+            "word": "hydrophobia",
+            "part_of_speech": "",
+            "origin": "Greek, hydor (water) + phobos (fear)",
+            "meaning": {
+                "ko": "물 공포",
+                "en": "fear of water",
+                "ja": "水恐怖症",
+                "zh": "恐水症",
+                "fr": "hydrophobie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hydro-",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phobia",
+                    "meaning": {
+                        "ko": "'공포증'",
+                        "en": "fear",
+                        "ja": "恐怖症",
+                        "zh": "恐惧症",
+                        "fr": "phobie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물을 두려워하는' 증상이라는 의미에서 '공수병(광견병)'을 뜻합니다.",
+                "en": "Hydrophobia is one of the classic symptoms of rabies in humans.",
+                "ja": "水を恐れるという症状の意味で、狂犬病を意味します。",
+                "zh": "害怕水的症状意义上，指的是狂犬病。",
+                "fr": "La peur de l'eau signifie la rage chez l'homme."
+            },
+            "example": "Hydrophobia is one of the classic symptoms of rabies in humans.",
+            "translation": {
+                "ko": "공수병은 인간에게 나타나는 광견병의 고전적인 증상 중 하나이다.",
+                "ja": "恐水症は人間の狂犬病の古典的な症状の1つです。",
+                "zh": "恐水症是人类狂犬病的经典症状之一。",
+                "fr": "L'hydrophobie est l'un des symptômes classiques de la rage chez l'homme."
+            }
+        },
+        {
+            "word": "phobia",
+            "part_of_speech": "",
+            "origin": "Greek, phobos (fear)",
+            "meaning": {
+                "ko": "두려움",
+                "en": "fear or dread",
+                "ja": "恐怖症",
+                "zh": "恐惧症",
+                "fr": "phobie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phob-",
+                    "meaning": {
+                        "ko": "'두려움'",
+                        "en": "fear",
+                        "ja": "恐れ",
+                        "zh": "恐惧",
+                        "fr": "peur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 대상이나 상황에 대한 비정상적인 공포'인 '공포증'을 뜻합니다.",
+                "en": "An irrational or extreme fear of a specific object or situation",
+                "ja": "特定の対象や状況に対する非常に強い、または不合理な恐れ",
+                "zh": "对特定对象或情况的非常强烈或不合理的恐惧",
+                "fr": "Peur extrême ou irrationnelle d'un objet ou d'une situation spécifique"
+            },
+            "example": "She has a phobia of flying.",
+            "translation": {
+                "ko": "그녀는 비행 공포증이 있다.",
+                "ja": "彼女は飛行機に乗ることが恐怖症です。",
+                "zh": "她害怕坐飞机。",
+                "fr": "Elle a une phobie de voler."
+            }
+        }
+    ]
+}

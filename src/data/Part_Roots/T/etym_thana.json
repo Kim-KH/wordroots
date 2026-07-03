@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "thana (death) euthanasia, thanatology, Thanatos",
+        "origin": "Greek, thanatos (death)",
+        "meaning": {
+            "ko": "죽음",
+            "en": "death",
+            "ja": "死",
+            "zh": "死亡",
+            "fr": "mort"
+        }
+    },
+    "words": [
+        {
+            "word": "euthanasia",
+            "part_of_speech": "",
+            "origin": "Greek, eu- (good) + thanatos (death)",
+            "meaning": {
+                "ko": "좋은 죽음",
+                "en": "good death",
+                "ja": "良い死",
+                "zh": "好的死亡",
+                "fr": "bonne mort"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eu-",
+                    "meaning": {
+                        "ko": "'좋은'",
+                        "en": "good",
+                        "ja": "良い",
+                        "zh": "好的",
+                        "fr": "bon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thana-",
+                    "meaning": {
+                        "ko": "'죽음'",
+                        "en": "death",
+                        "ja": "死",
+                        "zh": "死亡",
+                        "fr": "mort"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'고통 없는 편안한 죽음'이라는 의미에서 '안락사'를 뜻합니다.",
+                "en": "Means painless and comfortable death without suffering",
+                "ja": "苦痛のない穏やかな死を意味し、安楽死を指します",
+                "zh": "指无痛苦的舒适死亡，意为安乐死",
+                "fr": "Signifie une mort sans souffrance et confortable, appelée mort douce"
+            },
+            "example": "The debate over euthanasia is a complex ethical issue.",
+            "translation": {
+                "ko": "안락사에 대한 논쟁은 복잡한 윤리적 문제이다.",
+                "ja": "安楽死についての議論は複雑な倫理的問題です。",
+                "zh": "关于安乐死的辩论是一个复杂的伦理问题。",
+                "fr": "Le débat sur l'euthanasie est une question éthique complexe."
+            }
+        },
+        {
+            "word": "thanatology",
+            "part_of_speech": "",
+            "origin": "Greek, thanatos (death) + logos (study)",
+            "meaning": {
+                "ko": "죽음 연구",
+                "en": "study of death",
+                "ja": "死亡学",
+                "zh": "死亡学",
+                "fr": "thanatologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thanato-",
+                    "meaning": {
+                        "ko": "'죽음'",
+                        "en": "death",
+                        "ja": "死",
+                        "zh": "死亡",
+                        "fr": "mort"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'죽음과 그 과정을 연구하는 학문'인 '사망학'을 뜻합니다.",
+                "en": "The study of death and the dying process",
+                "ja": "死と死亡過程を研究する学問",
+                "zh": "研究死亡及其过程的学科",
+                "fr": "Étude de la mort et du processus de mourir"
+            },
+            "example": "Thanatology explores the social and psychological aspects of death.",
+            "translation": {
+                "ko": "사망학은 죽음의 사회적, 심리적 측면을 탐구한다.",
+                "ja": "死亡学は、死の社会的および心理的側面を探求します。",
+                "zh": "死亡学探讨死亡的社会和心理方面。",
+                "fr": "La thanatologie explore les aspects sociaux et psychologiques de la mort."
+            }
+        },
+        {
+            "word": "Thanatos",
+            "part_of_speech": "",
+            "origin": "Greek, Thanatos (death)",
+            "meaning": {
+                "ko": "죽음",
+                "en": "death",
+                "ja": "死",
+                "zh": "死亡",
+                "fr": "mort"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Thanat-",
+                    "meaning": {
+                        "ko": "'죽음'",
+                        "en": "death",
+                        "ja": "死",
+                        "zh": "死亡",
+                        "fr": "mort"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "그리스 신화에 나오는 '죽음의 신'의 이름입니다.",
+                "en": "In Greek mythology, Thanatos is the personification of death.",
+                "ja": "ギリシャ神話に登場する'死の神'の名前です。",
+                "zh": "这是希腊神话中'死神'的名字。",
+                "fr": "C'est le nom du dieu de la mort dans la mythologie grecque."
+            },
+            "example": "In Greek mythology, Thanatos is the personification of death.",
+            "translation": {
+                "ko": "그리스 신화에서 타나토스는 죽음의 의인화이다.",
+                "ja": "ギリシャ神話では、タナトスは死の擬人化です。",
+                "zh": "在希腊神话中，塔那托斯是死亡的拟人化。",
+                "fr": "Dans la mythologie grecque, Thanatos est la personnification de la mort."
+            }
+        }
+    ]
+}

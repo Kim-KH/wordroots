@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "acr(o) (high, hill, top) acrobat, acropolis",
+        "origin": "Greek, akros (topmost, at the end)",
+        "meaning": {
+            "ko": "가장 높은",
+            "en": "topmost",
+            "ja": "最も高い",
+            "zh": "最高的",
+            "fr": "le plus haut"
+        }
+    },
+    "words": [
+        {
+            "word": "acrobat",
+            "part_of_speech": "",
+            "origin": "Greek, akrobatēs (rope dancer, gymnastic performer)",
+            "meaning": {
+                "ko": "발끝으로 걷다",
+                "en": "to walk on tiptoe",
+                "ja": "つま先で歩く",
+                "zh": "用脚尖走路",
+                "fr": "marcher sur la pointe des pieds"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "acro-",
+                    "meaning": {
+                        "ko": "'높은 곳'",
+                        "en": "topmost, high",
+                        "ja": "最も高い、高い",
+                        "zh": "最高的、高的",
+                        "fr": "le plus haut, élevé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bat (bainein)",
+                    "meaning": {
+                        "ko": "'걷다'",
+                        "en": "to walk, go",
+                        "ja": "歩く、進む",
+                        "zh": "走路、行走",
+                        "fr": "marcher, aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'높은(acro) 곳을 걷는(bat) 사람'이라는 의미에서, 줄타기나 공중그네를 타는 '곡예사'를 뜻하게 되었습니다.",
+                "en": "From the meaning 'a person who walks (bat) in high places (acro)', it came to mean an acrobat or trapeze artist who performs stunts.",
+                "ja": "『高い(acro)場所を歩く(bat)人』という意味から、綱渡りや空中ブランコをする『曲芸師』を意味するようになりました。",
+                "zh": "从『走(bat)在高的(acro)地方的人』的意思，演变为指进行走钢丝或空中秋千表演的『杂技演员』。",
+                "fr": "Du sens 'personne qui marche (bat) dans des endroits élevés (acro)', il est devenu le terme pour un acrobate ou un artiste qui fait des acrobaties."
+            },
+            "example": "The acrobat performed a daring stunt on the high wire.",
+            "translation": {
+                "ko": "그 곡예사는 고공 와이어에서 대담한 묘기를 선보였다.",
+                "ja": "そのアクロバットは綱の上で大胆なスタントを演じました。",
+                "zh": "那个杂技演员在高空钢丝上表演了大胆的特技。",
+                "fr": "L'acrobate a réalisé une cascade audacieuse sur le fil."
+            }
+        },
+        {
+            "word": "acropolis",
+            "part_of_speech": "",
+            "origin": "Greek, akropolis (highest city)",
+            "meaning": {
+                "ko": "가장 높은 도시",
+                "en": "highest city",
+                "ja": "最高の都市",
+                "zh": "最高的城市",
+                "fr": "ville la plus haute"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "acro-",
+                    "meaning": {
+                        "ko": "'가장 높은'",
+                        "en": "highest",
+                        "ja": "最も高い",
+                        "zh": "最高的",
+                        "fr": "le plus haut"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "polis",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스 도시에서 '가장 높은(acro) 곳에 위치한 도시(polis)'라는 의미로, 방어 요새나 종교적 중심지 역할을 하던 '아크로폴리스'를 지칭합니다.",
+                "en": "In ancient Greek cities, the term acropolis refers to 'the city (polis) located at the highest (acro) point', which served as a defensive fortress or religious center.",
+                "ja": "古代ギリシャの都市で、最も高い場所(acro)に位置する都市(polis)という意味で、防御要塞または宗教的中心地として機能した『アクロポリス』を指します。",
+                "zh": "在古代希腊城市中，术语卫城指的是'位于最高点(acro)的城市(polis)'，它曾作为防御堡垒或宗教中心。",
+                "fr": "Dans les villes grecques antiques, le terme acropole désigne 'la ville (polis) située au point le plus haut (acro)', qui servait de forteresse défensive ou centre religieux."
+            },
+            "example": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city.",
+            "translation": {
+                "ko": "아테네의 아크로폴리스는 도시 위쪽의 바위 노두에 위치한 고대 성채입니다.",
+                "ja": "アクロポリス",
+                "zh": "卫城",
+                "fr": "acropole"
+            }
+        }
+    ]
+}

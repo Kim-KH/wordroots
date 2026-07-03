@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "repta (creep) reptile, reptilian",
+        "origin": "Latin, repere, reptus (to creep)",
+        "meaning": {
+            "ko": "기어가다",
+            "en": "to creep",
+            "ja": "忍び寄る",
+            "zh": "爬行",
+            "fr": "ramper"
+        }
+    },
+    "words": [
+        {
+            "word": "reptile",
+            "part_of_speech": "",
+            "origin": "Latin, reptile (a creeping animal)",
+            "meaning": {
+                "ko": "기어가는 동물",
+                "en": "crawling animal",
+                "ja": "爬虫類",
+                "zh": "爬行动物",
+                "fr": "reptile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rept-",
+                    "meaning": {
+                        "ko": "'기어가다'",
+                        "en": "to creep",
+                        "ja": "這う",
+                        "zh": "爬行",
+                        "fr": "ramper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'배를 땅에 대고 기어 다니는 동물'이라는 의미에서 '파충류'를 뜻합니다.",
+                "en": "Meaning an animal that crawls on its belly on the ground, hence reptile",
+                "ja": "腹を地面につけて這って歩く動物という意味から爬虫類を意味します",
+                "zh": "从腹部贴地爬行的动物的意思来说表示爬行动物",
+                "fr": "Signifie un animal qui rampe le ventre sur le sol, d'où le terme reptile"
+            },
+            "example": "Snakes, lizards, and crocodiles are all reptiles.",
+            "translation": {
+                "ko": "뱀, 도마뱀, 악어는 모두 파충류이다.",
+                "ja": "爬虫類",
+                "zh": "爬行动物",
+                "fr": "reptile"
+            }
+        },
+        {
+            "word": "reptilian",
+            "part_of_speech": "",
+            "origin": "Latin, reptile",
+            "meaning": {
+                "ko": "파충류",
+                "en": "cold-blooded vertebrate animals",
+                "ja": "爬虫類のような",
+                "zh": "爬虫类的",
+                "fr": "reptilien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "reptil-",
+                    "meaning": {
+                        "ko": "'파충류'",
+                        "en": "reptile",
+                        "ja": "爬虫類",
+                        "zh": "爬虫类",
+                        "fr": "reptile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'파충류의' 또는 '파충류 같은'이라는 뜻입니다.",
+                "en": "Means 'of or resembling reptiles'",
+                "ja": "爬虫類のまたは爬虫類のような意味",
+                "zh": "表示爬虫类的或像爬虫类的",
+                "fr": "Signifie 'de ou ressemblant aux reptiles'"
+            },
+            "example": "He has a cold, reptilian stare.",
+            "translation": {
+                "ko": "그는 차갑고 파충류 같은 시선을 가지고 있다.",
+                "ja": "彼は冷たく爬虫類のような視線を持っている。",
+                "zh": "他有着冷酷的爬虫类般的凝视。",
+                "fr": "Il a un regard froid et reptilien."
+            }
+        }
+    ]
+}

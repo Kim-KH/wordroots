@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ence (process, state) emergence, luminescence, science",
+        "origin": "Latin, -entia (state, quality)",
+        "meaning": {
+            "ko": "과정, 상태",
+            "en": "process, state",
+            "ja": "過程、状態",
+            "zh": "过程、状态",
+            "fr": "processus, état"
+        }
+    },
+    "words": [
+        {
+            "word": "emergence",
+            "part_of_speech": "",
+            "origin": "Latin, emergere (to rise out)",
+            "meaning": {
+                "ko": "밖으로 나오다",
+                "en": "to come out",
+                "ja": "出現、浮かび上がること",
+                "zh": "出现、浮现",
+                "fr": "émergence, apparition"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emerge",
+                    "meaning": {
+                        "ko": "'나타나다'",
+                        "en": "to appear",
+                        "ja": "現れる",
+                        "zh": "出现",
+                        "fr": "apparaître"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ence",
+                    "meaning": {
+                        "ko": "'과정'",
+                        "en": "process",
+                        "ja": "過程",
+                        "zh": "过程",
+                        "fr": "processus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 나타나는 과정'인 '출현'을 뜻합니다.",
+                "en": "The process of appearing or coming out from a hidden state",
+                "ja": "隠れた状態から外に現れる過程を意味する出現",
+                "zh": "指从隐藏状态中出现的过程",
+                "fr": "Le processus d'apparition ou d'émergence d'un état caché"
+            },
+            "example": "We are witnessing the emergence of a new political party.",
+            "translation": {
+                "ko": "우리는 새로운 정당의 출현을 목격하고 있다.",
+                "ja": "私たちは新しい政党の出現を目撃しています。",
+                "zh": "我们正在见证一个新政党的出现。",
+                "fr": "Nous assistons à l'émergence d'un nouveau parti politique."
+            }
+        },
+        {
+            "word": "luminescence",
+            "part_of_speech": "",
+            "origin": "Latin, lumen (light) + -escentia (beginning state)",
+            "meaning": {
+                "ko": "빛이 나기 시작함",
+                "en": "beginning to emit light",
+                "ja": "光を放つ現象",
+                "zh": "发光现象",
+                "fr": "émission de lumière"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lumin-",
+                    "meaning": {
+                        "ko": "'빛'",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-escence",
+                    "meaning": {
+                        "ko": "'발광'",
+                        "en": "emission of light",
+                        "ja": "発光",
+                        "zh": "发光",
+                        "fr": "émission lumineuse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열을 내지 않고 빛을 내는' 현상인 '발광'을 뜻합니다.",
+                "en": "A phenomenon of emitting light without producing heat",
+                "ja": "熱を出さずに光を出す現象を意味します",
+                "zh": "不产生热而产生光的现象",
+                "fr": "Phénomène d'émission de lumière sans production de chaleur"
+            },
+            "example": "Fireflies produce light through luminescence.",
+            "translation": {
+                "ko": "반딧불이는 생물 발광을 통해 빛을 생산한다.",
+                "ja": "ホタルは発光によって光を生み出します",
+                "zh": "萤火虫通过发光产生光",
+                "fr": "Les lucioles produisent de la lumière par luminescence"
+            }
+        },
+        {
+            "word": "science",
+            "part_of_speech": "",
+            "origin": "Latin, scientia (knowledge)",
+            "meaning": {
+                "ko": "지식",
+                "en": "knowledge",
+                "ja": "知識、学問",
+                "zh": "知识、学问",
+                "fr": "connaissance, savoir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scien- (scire)",
+                    "meaning": {
+                        "ko": "'알다'",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "savoir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ence",
+                    "meaning": {
+                        "ko": "'지식, 학문'",
+                        "en": "knowledge, learning",
+                        "ja": "知識、学問",
+                        "zh": "知识、学问",
+                        "fr": "connaissance, discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자연 세계에 대한 체계적인 지식'인 '과학'을 뜻합니다.",
+                "en": "Refers to 'science', which is systematic knowledge about the natural world.",
+                "ja": "自然界についての体系的な知識である'科学'を意味します。",
+                "zh": "指'科学'，即关于自然世界的系统知识。",
+                "fr": "Désigne la 'science', connaissance systématique du monde naturel."
+            },
+            "example": "Science has made great advances in the last century.",
+            "translation": {
+                "ko": "과학은 지난 세기에 큰 발전을 이루었다.",
+                "ja": "科学は過去100年間で大きな進歩を遂げました。",
+                "zh": "科学在过去一个世纪取得了巨大进步。",
+                "fr": "La science a fait de grands progrès au cours du dernier siècle."
+            }
+        }
+    ]
+}

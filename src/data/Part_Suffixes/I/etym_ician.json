@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ician (specialist) magician, musician, physician, technician",
+        "origin": "Latin, -ianus (belonging to) + -icus",
+        "meaning": {
+            "ko": "전문가",
+            "en": "specialist",
+            "ja": "専門家",
+            "zh": "专家",
+            "fr": "spécialiste"
+        }
+    },
+    "words": [
+        {
+            "word": "magician",
+            "part_of_speech": "",
+            "origin": "Latin, magus (a wise man, a magician)",
+            "meaning": {
+                "ko": "현자, 마술사",
+                "en": "wise person, magician",
+                "ja": "奇術師、魔法使い",
+                "zh": "魔术师、魔法师",
+                "fr": "magicien, illusionniste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "magic",
+                    "meaning": {
+                        "ko": "'마술'",
+                        "en": "magic",
+                        "ja": "奇術",
+                        "zh": "魔术",
+                        "fr": "magie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ian",
+                    "meaning": {
+                        "ko": "'~전문가'",
+                        "en": "expert in",
+                        "ja": "専門家",
+                        "zh": "专家",
+                        "fr": "expert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마술을 전문으로 하는 사람'인 '마술사'를 뜻합니다.",
+                "en": "Refers to a magician who specializes in magic tricks",
+                "ja": "奇術を専門とする人を意味します",
+                "zh": "指专门从事魔术的人",
+                "fr": "Désigne une personne spécialisée dans la magie"
+            },
+            "example": "The magician performed some amazing tricks.",
+            "translation": {
+                "ko": "그 마술사는 몇 가지 놀라운 마술을 선보였다.",
+                "ja": "奇術師は驚くべきトリックを演じました。",
+                "zh": "魔术师表演了一些令人惊奇的把戏。",
+                "fr": "Le magicien a exécuté des tours étonnants."
+            }
+        },
+        {
+            "word": "musician",
+            "part_of_speech": "",
+            "origin": "Latin, musica (music)",
+            "meaning": {
+                "ko": "음악",
+                "en": "music",
+                "ja": "音楽家",
+                "zh": "音乐家",
+                "fr": "musicien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "music",
+                    "meaning": {
+                        "ko": "'음악'",
+                        "en": "music",
+                        "ja": "音楽",
+                        "zh": "音乐",
+                        "fr": "musique"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ian",
+                    "meaning": {
+                        "ko": "'~전문가'",
+                        "en": "expert or specialist",
+                        "ja": "専門家",
+                        "zh": "专家",
+                        "fr": "expert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음악을 전문으로 하는 사람'인 '음악가'를 뜻합니다.",
+                "en": "Refers to a 'musician' who specializes in music professionally.",
+                "ja": "音楽を専門とする人を意味します。",
+                "zh": "指专业从事音乐的人。",
+                "fr": "Désigne une personne qui se consacre professionnellement à la musique."
+            },
+            "example": "He is a professional musician.",
+            "translation": {
+                "ko": "그는 전문 음악가이다.",
+                "ja": "彼は専門の音楽家です。",
+                "zh": "他是一位专业音乐家。",
+                "fr": "Il est un musicien professionnel."
+            }
+        },
+        {
+            "word": "physician",
+            "part_of_speech": "",
+            "origin": "Greek, physikos (natural)",
+            "meaning": {
+                "ko": "자연의",
+                "en": "of nature",
+                "ja": "医師",
+                "zh": "医生",
+                "fr": "médecin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "physic-",
+                    "meaning": {
+                        "ko": "'자연, 의술'",
+                        "en": "nature, medicine",
+                        "ja": "自然、医術",
+                        "zh": "自然、医术",
+                        "fr": "nature, médecine"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ian",
+                    "meaning": {
+                        "ko": "'~전문가'",
+                        "en": "expert in specialized field",
+                        "ja": "~専門家",
+                        "zh": "~专家",
+                        "fr": "~spécialiste"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자연의 이치를 연구하여 병을 고치는 사람'이라는 의미에서 '의사', 특히 '내과 의사'를 뜻합니다.",
+                "en": "Originally meant someone who studies the principles of nature to cure diseases, referring to a physician or especially an internist",
+                "ja": "自然の原理を研究して病気を治す人という意味から、医師、特に内科医を指します",
+                "zh": "源于研究自然原理来治疗疾病的人，指医生，尤其是内科医生",
+                "fr": "Originellement, une personne qui étudie les principes de la nature pour guérir les maladies, désignant un médecin ou spécialement un interniste"
+            },
+            "example": "You should see a physician for a check-up.",
+            "translation": {
+                "ko": "당신은 건강 검진을 위해 의사에게 가야 한다.",
+                "ja": "定期検診のために医師の診察を受けるべきです",
+                "zh": "你应该去看医生进行检查",
+                "fr": "Vous devriez consulter un médecin pour un bilan de santé"
+            }
+        },
+        {
+            "word": "technician",
+            "part_of_speech": "",
+            "origin": "Greek, tekhne (art, skill)",
+            "meaning": {
+                "ko": "기술",
+                "en": "skill or technique",
+                "ja": "技術者",
+                "zh": "技术员",
+                "fr": "technicien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "techn-",
+                    "meaning": {
+                        "ko": "'기술'",
+                        "en": "skill",
+                        "ja": "技能",
+                        "zh": "技能",
+                        "fr": "compétence"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ician",
+                    "meaning": {
+                        "ko": "'~전문가'",
+                        "en": "expert or specialist",
+                        "ja": "専門家",
+                        "zh": "专家",
+                        "fr": "expert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 분야의 기술을 가진 전문가'인 '기술자'를 뜻합니다.",
+                "en": "A specialist with technical skills in a specific field",
+                "ja": "特定分野の技術を持つ専門家を意味します",
+                "zh": "指在特定领域拥有技术的专家",
+                "fr": "Un spécialiste ayant des compétences techniques dans un domaine particulier"
+            },
+            "example": "We need to call a technician to fix the computer.",
+            "translation": {
+                "ko": "우리는 컴퓨터를 고치기 위해 기술자를 불러야 한다.",
+                "ja": "コンピュータを修理するために技術者を呼ぶ必要があります",
+                "zh": "我们需要打电话给技术员来修理电脑",
+                "fr": "Nous devons appeler un technicien pour réparer l'ordinateur"
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "medic (heal) medicine, medical, medicate",
+        "origin": "Latin, medicus (physician), mederi (to heal)",
+        "meaning": {
+            "ko": "치료하다",
+            "en": "to heal",
+            "ja": "治す",
+            "zh": "治疗",
+            "fr": "guérir"
+        }
+    },
+    "words": [
+        {
+            "word": "medicine",
+            "part_of_speech": "",
+            "origin": "Latin, medicina (the art of healing)",
+            "meaning": {
+                "ko": "치료 기술",
+                "en": "therapeutic technique",
+                "ja": "治療技術または薬",
+                "zh": "治疗技术或药物",
+                "fr": "technique de soin ou médicament"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "medic-",
+                    "meaning": {
+                        "ko": "'치료하다'",
+                        "en": "to heal",
+                        "ja": "治療する",
+                        "zh": "治疗",
+                        "fr": "guérir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'병을 치료하는 기술' 또는 '약'을 뜻합니다.",
+                "en": "Refers to the technique of treating disease or medicine itself",
+                "ja": "病気を治療する技術または薬を意味します",
+                "zh": "指治疗疾病的技术或药物本身",
+                "fr": "Fait référence à la technique de traiter une maladie ou au médicament lui-même"
+            },
+            "example": "Have you taken your medicine?",
+            "translation": {
+                "ko": "약 먹었어요?",
+                "ja": "あなたは薬を飲みましたか?",
+                "zh": "你吃过你的药吗?",
+                "fr": "Avez-vous pris votre médicament?"
+            }
+        },
+        {
+            "word": "medical",
+            "part_of_speech": "",
+            "origin": "Latin, medicus (physician)",
+            "meaning": {
+                "ko": "의사",
+                "en": "doctor or physician",
+                "ja": "医学の",
+                "zh": "医学的",
+                "fr": "médical"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "medic-",
+                    "meaning": {
+                        "ko": "'의술'",
+                        "en": "healing",
+                        "ja": "治療",
+                        "zh": "治疗",
+                        "fr": "guérison"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의학의', '의료의'라는 뜻입니다.",
+                "en": "Means medical science or medical treatment",
+                "ja": "医学と医療という意味です",
+                "zh": "意思是医学和医疗",
+                "fr": "Signifie science médicale ou traitement médical"
+            },
+            "example": "He needs urgent medical attention.",
+            "translation": {
+                "ko": "그는 긴급한 의료 조치가 필요하다.",
+                "ja": "彼は緊急の医学的治療が必要です",
+                "zh": "他需要紧急医疗护理",
+                "fr": "Il a besoin d'une attention médicale urgente"
+            }
+        },
+        {
+            "word": "medicate",
+            "part_of_speech": "",
+            "origin": "Latin, medicare (to heal, to cure)",
+            "meaning": {
+                "ko": "치료하다",
+                "en": "to treat medically",
+                "ja": "薬で治療する",
+                "zh": "用药物治疗",
+                "fr": "traiter par médicament"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "medic-",
+                    "meaning": {
+                        "ko": "'치료하다'",
+                        "en": "to heal",
+                        "ja": "治す",
+                        "zh": "治愈",
+                        "fr": "guérir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'약을 써서 치료하다', '약물을 투여하다'라는 뜻입니다.",
+                "en": "Means to treat or heal using medicine or drugs",
+                "ja": "薬を使って治療する、薬物を投与するという意味です",
+                "zh": "用药物治疗，给予药物治疗的意思",
+                "fr": "Cela signifie traiter ou guérir en utilisant des médicaments"
+            },
+            "example": "The doctor decided to medicate the patient for his anxiety.",
+            "translation": {
+                "ko": "의사는 그의 불안 증세를 치료하기 위해 약물을 투여하기로 결정했다.",
+                "ja": "医者は患者の不安を薬で治療することにした",
+                "zh": "医生决定用药物治疗患者的焦虑症",
+                "fr": "Le médecin a décidé de traiter l'anxiété du patient par médicament"
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "sublim (lofty) sublimate, sublime, subliminal",
+        "origin": "Latin, sublimis (uplifted, lofty)",
+        "meaning": {
+            "ko": "높은",
+            "en": "lofty",
+            "ja": "高い",
+            "zh": "崇高的",
+            "fr": "élevé"
+        }
+    },
+    "words": [
+        {
+            "word": "sublimate",
+            "part_of_speech": "",
+            "origin": "Latin, sublimare (to raise)",
+            "meaning": {
+                "ko": "높이다",
+                "en": "to raise or elevate",
+                "ja": "昇華させる",
+                "zh": "升华",
+                "fr": "sublimer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sublim-",
+                    "meaning": {
+                        "ko": "'높은'",
+                        "en": "lofty",
+                        "ja": "高い",
+                        "zh": "高的",
+                        "fr": "élevé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'낮은 수준의 욕망을 더 높은 수준의 것으로 끌어올리다'는 의미에서 '승화시키다'라는 뜻이며, 화학에서는 고체가 기체로 변하는 현상을 의미합니다.",
+                "en": "In psychology, it means channeling lower desires into higher pursuits; in chemistry, it refers to the phenomenon of a solid transforming directly into a gas.",
+                "ja": "心理学では低い欲望を高い水準のものに昇華させること、化学では固体が直接気体に変わる現象を意味します。",
+                "zh": "在心理学中，指将低层次的欲望转化为高层次的追求；在化学中，指固体直接转变为气体的现象。",
+                "fr": "En psychologie, cela signifie transformer des désirs inférieurs en aspirations supérieures; en chimie, cela désigne le phénomène d'un solide se transformant directement en gaz."
+            },
+            "example": "She sublimated her anger into her art.",
+            "translation": {
+                "ko": "그녀는 자신의 분노를 예술로 승화시켰다.",
+                "ja": "彼女は自分の怒りを芸術に昇華させた。",
+                "zh": "她把愤怒升华为艺术创作。",
+                "fr": "Elle a sublimé sa colère dans son art."
+            }
+        },
+        {
+            "word": "sublime",
+            "part_of_speech": "",
+            "origin": "Latin, sublimis (uplifted)",
+            "meaning": {
+                "ko": "들어 올려진",
+                "en": "lifted up",
+                "ja": "荘厳な、崇高な",
+                "zh": "崇高的、壮严的",
+                "fr": "sublime, grandiose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "'~까지'",
+                        "en": "up to",
+                        "ja": "まで、~に至る",
+                        "zh": "直到、达到",
+                        "fr": "jusqu'à, jusqu'au"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "limen",
+                    "meaning": {
+                        "ko": "'문지방, 한계'",
+                        "en": "threshold",
+                        "ja": "敷居、限界",
+                        "zh": "门槛、极限",
+                        "fr": "seuil, limite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'최고의 한계까지 올라간'이라는 의미에서 '숭고한', '장엄한'이라는 뜻입니다.",
+                "en": "The term conveys being elevated to the highest threshold, meaning 'noble' or 'magnificent'",
+                "ja": "最高の限界まで上昇した意味から、崇高で荘厳という意味です",
+                "zh": "从上升到最高限界的意思延伸出崇高、庄严的含义",
+                "fr": "Signifie élevé jusqu'au seuil suprême, d'où 'noble' ou 'majestueux'"
+            },
+            "example": "The view from the mountaintop was sublime.",
+            "translation": {
+                "ko": "산 정상에서 바라본 경치는 숭고했다.",
+                "ja": "山頂からの景色は荘厳だった。",
+                "zh": "从山顶看到的景色令人惊叹。",
+                "fr": "La vue du sommet de la montagne était sublime."
+            }
+        },
+        {
+            "word": "subliminal",
+            "part_of_speech": "",
+            "origin": "Latin, sub- (below) + limen (threshold)",
+            "meaning": {
+                "ko": "문지방 아래",
+                "en": "below the threshold",
+                "ja": "閾値以下の",
+                "zh": "阈值以下的",
+                "fr": "subliminal"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "'아래에'",
+                        "en": "below",
+                        "ja": "下に",
+                        "zh": "下面",
+                        "fr": "au-dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "limin-",
+                    "meaning": {
+                        "ko": "'문지방'",
+                        "en": "threshold",
+                        "ja": "閾値",
+                        "zh": "阈值",
+                        "fr": "seuil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의식의 문지방 아래에 있어 감지하기 어려운'이라는 의미에서 '잠재의식의'라는 뜻입니다.",
+                "en": "Below the threshold of conscious awareness; difficult to perceive",
+                "ja": "意識の閾値以下にあり、知覚しにくい",
+                "zh": "位于意识阈值以下，难以感知",
+                "fr": "Sous le seuil de conscience; difficile à percevoir"
+            },
+            "example": "Subliminal messages can influence our behavior.",
+            "translation": {
+                "ko": "잠재의식적인 메시지는 우리의 행동에 영향을 줄 수 있다.",
+                "ja": "潜在意識的なメッセージは行動に影響を与えることができます",
+                "zh": "潜意识信息可以影响我们的行为",
+                "fr": "Les messages subliminaux peuvent influencer notre comportement"
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "onoma (name) onomatomania, onomatopoeia",
+        "origin": "Greek, onoma (name)",
+        "meaning": {
+            "ko": "이름",
+            "en": "name",
+            "ja": "名前",
+            "zh": "名字",
+            "fr": "nom"
+        }
+    },
+    "words": [
+        {
+            "word": "onomatomania",
+            "part_of_speech": "",
+            "origin": "Greek, onoma (name) + mania (madness)",
+            "meaning": {
+                "ko": "이름에 대한 광기",
+                "en": "obsession with names",
+                "ja": "名前への執着",
+                "zh": "对名字的执念",
+                "fr": "obsession des noms"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "onomato-",
+                    "meaning": {
+                        "ko": "'이름, 단어'",
+                        "en": "name, word",
+                        "ja": "名前、言葉",
+                        "zh": "名字、词语",
+                        "fr": "nom, mot"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mania",
+                    "meaning": {
+                        "ko": "'광기, 집착'",
+                        "en": "madness, obsession",
+                        "ja": "狂気、執着",
+                        "zh": "疯狂、执着",
+                        "fr": "folie, obsession"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 단어나 이름을 기억해내려고 강박적으로 애쓰는 증상'을 뜻합니다.",
+                "en": "A symptom of compulsively struggling to recall specific words or names.",
+                "ja": "特定の単語や名前を思い出そうと強迫的に努力する症状",
+                "zh": "强迫性地努力回忆特定词语或名字的症状",
+                "fr": "Symptôme consistant à s'efforcer compulsivement de se souvenir de mots ou noms spécifiques."
+            },
+            "example": "Onomatomania can be a frustrating experience.",
+            "translation": {
+                "ko": "단어 회상 강박증은 좌절스러운 경험이 될 수 있다.",
+                "ja": "オノマトマニアはイライラさせられる経験になり得る。",
+                "zh": "对名字的执念可能是一种令人沮丧的经历。",
+                "fr": "L'onomatomanie peut être une expérience frustrante."
+            }
+        },
+        {
+            "word": "onomatopoeia",
+            "part_of_speech": "",
+            "origin": "Greek, onomatopoiia (the making of a name or word)",
+            "meaning": {
+                "ko": "이름 만들기",
+                "en": "making a name",
+                "ja": "擬音語を作ること",
+                "zh": "拟声词的创造",
+                "fr": "création de mots imitatifs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "onomato-",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "poeia",
+                    "meaning": {
+                        "ko": "'만들기'",
+                        "en": "making",
+                        "ja": "作ること",
+                        "zh": "制造",
+                        "fr": "création"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리를 흉내 내어 이름을 만들다'는 의미에서 '의성어'를 뜻합니다.",
+                "en": "Onomatopoeia means creating words by imitating sounds",
+                "ja": "音を真似て名前を作ることを意味する擬音語",
+                "zh": "通过模仿声音来创造词汇的拟声词",
+                "fr": "Créer des mots en imitant les sons, signifiant mot onomatopéique"
+            },
+            "example": "\"Buzz\" and \"hiss\" are examples of onomatopoeia.",
+            "translation": {
+                "ko": "\"윙윙\"과 \"쉿\"은 의성어의 예이다.",
+                "ja": "擬音語",
+                "zh": "拟声词",
+                "fr": "onomatopée"
+            }
+        }
+    ]
+}

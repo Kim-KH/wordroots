@@ -1,0 +1,130 @@
+{
+    "root_info": {
+        "roots": "therm, thermo",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "열",
+            "en": "heat",
+            "ja": "熱",
+            "zh": "热",
+            "fr": "chaleur"
+        }
+    },
+    "words": [
+        {
+            "word": "thermal",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "therm",
+                    "meaning": {
+                        "ko": "열",
+                        "en": "heat",
+                        "ja": "熱",
+                        "zh": "热",
+                        "fr": "chaleur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열의', '온도의'라는 뜻입니다.",
+                "en": "Relating to heat or temperature",
+                "ja": "熱や温度に関する意味です",
+                "zh": "表示与热或温度相关的意思",
+                "fr": "Signifie relatif à la chaleur ou à la température"
+            },
+            "example": "This jacket provides good thermal insulation.",
+            "translation": {
+                "ko": "이 재킷은 보온 단열이 잘 된다.",
+                "ja": "このジャケットは優れた保温断熱性を提供します",
+                "zh": "这件夹克提供了很好的保温隔热效果",
+                "fr": "Cette veste offre une bonne isolation thermique"
+            }
+        },
+        {
+            "word": "thermometer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thermo",
+                    "meaning": {
+                        "ko": "열",
+                        "en": "heat",
+                        "ja": "熱",
+                        "zh": "热",
+                        "fr": "chaleur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "측정기",
+                        "en": "measuring instrument",
+                        "ja": "測定器",
+                        "zh": "测量仪",
+                        "fr": "appareil de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열(온도)을 재는 기구' 즉, '온도계'를 뜻합니다.",
+                "en": "An instrument that measures heat (temperature); a thermometer.",
+                "ja": "「熱（温度）を測る器具」つまり、「温度計」を意味します。",
+                "zh": "\"测量热（温度）的仪器\"，即\"温度计\"的意思。",
+                "fr": "Un instrument qui mesure la chaleur (température); un thermomètre."
+            },
+            "example": "The thermometer shows it is 30 degrees.",
+            "translation": {
+                "ko": "온도계는 30도를 가리키고 있다.",
+                "ja": "温度計は30度を示している。",
+                "zh": "温度计显示30度。",
+                "fr": "Le thermomètre indique 30 degrés."
+            }
+        },
+        {
+            "word": "thermodynamic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thermo",
+                    "meaning": {
+                        "ko": "열",
+                        "en": "heat",
+                        "ja": "熱",
+                        "zh": "热",
+                        "fr": "chaleur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dynamic",
+                    "meaning": {
+                        "ko": "힘",
+                        "en": "force",
+                        "ja": "力",
+                        "zh": "力",
+                        "fr": "force"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열과 힘(에너지)의 관계에 관한' 즉, '열역학의'라는 뜻입니다.",
+                "en": "Relating to the relationship between heat and energy (force); meaning 'of thermodynamics.'",
+                "ja": "「熱と力（エネルギー）の関係に関する」つまり「熱力学の」という意味です。",
+                "zh": "关于「热和力（能量）的关系」，即「热力学的」之意。",
+                "fr": "Relatif à la relation entre la chaleur et la force (énergie); signifiant « de la thermodynamique »."
+            },
+            "example": "This is a fundamental law of thermodynamics.",
+            "translation": {
+                "ko": "이것은 열역학의 기본 법칙이다.",
+                "ja": "これは熱力学の基本法則です。",
+                "zh": "这是热力学的基本定律。",
+                "fr": "C'est une loi fondamentale de la thermodynamique."
+            }
+        }
+    ]
+}

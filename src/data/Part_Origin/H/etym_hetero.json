@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "hetero",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "다른",
+            "en": "other",
+            "ja": "他の",
+            "zh": "其他",
+            "fr": "autre"
+        }
+    },
+    "words": [
+        {
+            "word": "heterodox",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hetero",
+                    "meaning": {
+                        "ko": "다른",
+                        "en": "other",
+                        "ja": "異なる",
+                        "zh": "不同的",
+                        "fr": "autre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dox",
+                    "meaning": {
+                        "ko": "의견",
+                        "en": "opinion",
+                        "ja": "意見",
+                        "zh": "意见",
+                        "fr": "opinion"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정통과는 다른 의견'이라는 의미에서 '이단의', '비정통적인'이라는 뜻입니다.",
+                "en": "From Greek hetero- (other) and -dox (opinion); means unorthodox or unconventional belief",
+                "ja": "正統派とは異なる意見という意味から、異端的、非正統的という意味です",
+                "zh": "源于正统观点不同的意见，意为异端的、非正统的",
+                "fr": "Signifie 'opinion différente de l'orthodoxie', d'où le sens d'hérétique ou non-conformiste"
+            },
+            "example": "He was known for his heterodox views.",
+            "translation": {
+                "ko": "그는 비정통적인 견해로 알려져 있었다.",
+                "ja": "彼は異端的な見方で知られていた。",
+                "zh": "他因非正统的观点而闻名。",
+                "fr": "Il était connu pour ses idées hétérodoxes."
+            }
+        },
+        {
+            "word": "heterogeneous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hetero",
+                    "meaning": {
+                        "ko": "다른",
+                        "en": "different",
+                        "ja": "異なる",
+                        "zh": "不同的",
+                        "fr": "différent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen",
+                    "meaning": {
+                        "ko": "종류",
+                        "en": "kind",
+                        "ja": "種類",
+                        "zh": "种类",
+                        "fr": "sorte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 종류의 것들로 이루어진'이라는 의미에서 '이질적인'이라는 뜻입니다.",
+                "en": "Composed of different kinds of things; heterogeneous or diverse in nature.",
+                "ja": "異なる種類のもので構成されている意味から、『異質的な』という意味です。",
+                "zh": "由不同种类的事物组成，意为「性质不同的」或「异质的」。",
+                "fr": "Composé de choses de sortes différentes ; signifie « hétérogène » ou « de nature diverse »."
+            },
+            "example": "New York has a heterogeneous population.",
+            "translation": {
+                "ko": "뉴욕은 이질적인 인구를 가지고 있다.",
+                "ja": "ニューヨークは多様な人口を持っている。",
+                "zh": "纽约拥有多样化的人口。",
+                "fr": "New York a une population hétérogène."
+            }
+        },
+        {
+            "word": "heterosexual",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hetero",
+                    "meaning": {
+                        "ko": "다른",
+                        "en": "other",
+                        "ja": "異なる",
+                        "zh": "不同的",
+                        "fr": "autre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sexual",
+                    "meaning": {
+                        "ko": "성의",
+                        "en": "of sex",
+                        "ja": "性的な",
+                        "zh": "性的",
+                        "fr": "sexuel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 성에게 끌리는'이라는 의미에서 '이성애의'라는 뜻입니다.",
+                "en": "Attracted to the opposite sex; meaning of heterosexual",
+                "ja": "異なる性に惹かれるという意味で、異性愛の",
+                "zh": "被异性吸引的意思，指异性恋的",
+                "fr": "Attiré par le sexe opposé; sens de hétérosexuel"
+            },
+            "example": "He is a heterosexual man.",
+            "translation": {
+                "ko": "그는 이성애자 남성이다.",
+                "ja": "彼は異性愛者の男性です。",
+                "zh": "他是一个异性恋男性。",
+                "fr": "Il est un homme hétérosexuel."
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "pulmo (lung) pulmonary, pulmonology",
+        "origin": "Latin, pulmo (lung)",
+        "meaning": {
+            "ko": "폐",
+            "en": "lung",
+            "ja": "肺",
+            "zh": "肺",
+            "fr": "poumon"
+        }
+    },
+    "words": [
+        {
+            "word": "pulmonary",
+            "part_of_speech": "",
+            "origin": "Latin, pulmonarius (of the lungs)",
+            "meaning": {
+                "ko": "폐의",
+                "en": "of the lungs",
+                "ja": "肺に関する",
+                "zh": "肺相关的",
+                "fr": "relatif aux poumons"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pulmo-",
+                    "meaning": {
+                        "ko": "'폐'",
+                        "en": "lung",
+                        "ja": "肺",
+                        "zh": "肺",
+                        "fr": "poumon"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'폐의' 또는 '폐와 관련된'이라는 뜻입니다.",
+                "en": "Means 'of the lung' or 'related to the lung'",
+                "ja": "肺に関する、または肺と関連するという意味です",
+                "zh": "表示与肺相关或肺的含义",
+                "fr": "Signifie 'du poumon' ou 'relatif au poumon'"
+            },
+            "example": "He has a pulmonary disease.",
+            "translation": {
+                "ko": "그는 폐 질환을 앓고 있다.",
+                "ja": "彼は肺疾患を患っています。",
+                "zh": "他患有肺病。",
+                "fr": "Il a une maladie pulmonaire."
+            }
+        },
+        {
+            "word": "pulmonology",
+            "part_of_speech": "",
+            "origin": "Latin, pulmo (lung) + Greek, logos (study)",
+            "meaning": {
+                "ko": "폐 연구",
+                "en": "study of lungs",
+                "ja": "肺の研究",
+                "zh": "肺部研究",
+                "fr": "étude des poumons"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pulmono-",
+                    "meaning": {
+                        "ko": "'폐'",
+                        "en": "lung",
+                        "ja": "肺",
+                        "zh": "肺",
+                        "fr": "poumon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'폐와 호흡기 계통을 연구하는 의학 분야'인 '호흡기학'을 뜻합니다.",
+                "en": "Pulmonology is the medical specialty that deals with diseases involving the respiratory tract.",
+                "ja": "肺と呼吸器系を研究する医学分野である呼吸器学を意味します",
+                "zh": "指研究肺和呼吸系统的医学领域即呼吸科学",
+                "fr": "Discipline médicale étudiant les maladies pulmonaires et respiratoires"
+            },
+            "example": "Pulmonology is the medical specialty that deals with diseases involving the respiratory tract.",
+            "translation": {
+                "ko": "호흡기학은 호흡기를 포함하는 질병을 다루는 의학 전문 분야이다.",
+                "ja": "呼吸器学",
+                "zh": "呼吸科学",
+                "fr": "pneumologie"
+            }
+        }
+    ]
+}

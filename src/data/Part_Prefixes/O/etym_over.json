@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "over (above, exceed) overestimate, overpay, overwhelm",
+        "origin": "Old English, ofer (over, above)",
+        "meaning": {
+            "ko": "~위에, 초과하여",
+            "en": "over, above",
+            "ja": "上に、上方に / 超過して",
+            "zh": "在...上方 / 超过",
+            "fr": "au-dessus de / en excès"
+        }
+    },
+    "words": [
+        {
+            "word": "overestimate",
+            "part_of_speech": "",
+            "origin": "English, over- + estimate",
+            "meaning": {
+                "ko": "과하게 평가하다",
+                "en": "to evaluate excessively",
+                "ja": "過度に評価する",
+                "zh": "过度评估",
+                "fr": "surévaluer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "over-",
+                    "meaning": {
+                        "ko": "'과도하게'",
+                        "en": "too much",
+                        "ja": "過度に",
+                        "zh": "过度地",
+                        "fr": "trop"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "estimate",
+                    "meaning": {
+                        "ko": "'추정하다, 평가하다'",
+                        "en": "to estimate or evaluate",
+                        "ja": "推定する、評価する",
+                        "zh": "估计、评估",
+                        "fr": "estimer, évaluer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'필요 이상으로 높게 평가하다'는 의미에서 '과대평가하다'라는 뜻입니다.",
+                "en": "To assess something as more important or valuable than it actually is",
+                "ja": "必要以上に高く評価すること",
+                "zh": "高估某事物的价值或重要性",
+                "fr": "Évaluer quelque chose comme plus important qu'il ne l'est réellement"
+            },
+            "example": "They overestimated the cost of the project.",
+            "translation": {
+                "ko": "그들은 프로젝트 비용을 과대평가했다.",
+                "ja": "彼らはプロジェクトの費用を過度に評価した。",
+                "zh": "他们过度评估了该项目的成本。",
+                "fr": "Ils ont surévalué le coût du projet."
+            }
+        },
+        {
+            "word": "overpay",
+            "part_of_speech": "",
+            "origin": "English, over- + pay",
+            "meaning": {
+                "ko": "과하게 지불하다",
+                "en": "to pay excessively",
+                "ja": "過剰に支払う",
+                "zh": "过度支付",
+                "fr": "payer trop"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "over-",
+                    "meaning": {
+                        "ko": "'과도하게'",
+                        "en": "too much",
+                        "ja": "過度に",
+                        "zh": "过度地",
+                        "fr": "trop"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pay",
+                    "meaning": {
+                        "ko": "'지불하다'",
+                        "en": "to pay",
+                        "ja": "支払う",
+                        "zh": "支付",
+                        "fr": "payer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'내야 할 돈보다 더 많이 지불하다'는 의미에서 '초과 지불하다'라는 뜻입니다.",
+                "en": "To pay more money than what should be paid",
+                "ja": "支払うべき金額より多く支払うこと",
+                "zh": "支付超过应付金额的钱",
+                "fr": "Payer plus que le montant requis"
+            },
+            "example": "She realized she had overpaid for the taxi.",
+            "translation": {
+                "ko": "그녀는 택시 요금을 초과 지불했다는 것을 깨달았다.",
+                "ja": "彼女はタクシーに過剰に支払ったことに気づいた。",
+                "zh": "她意识到她为出租车付了过多的钱。",
+                "fr": "Elle a réalisé qu'elle avait trop payé le taxi."
+            }
+        },
+        {
+            "word": "overwhelm",
+            "part_of_speech": "",
+            "origin": "Middle English, overwhelmen (to turn upside down)",
+            "meaning": {
+                "ko": "뒤집어엎다",
+                "en": "to overturn and upset",
+                "ja": "圧倒する、押しつぶす",
+                "zh": "压倒、淹没",
+                "fr": "accabler, submerger"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "over-",
+                    "meaning": {
+                        "ko": "'~위로'",
+                        "en": "over",
+                        "ja": "上に、越えて",
+                        "zh": "在...上方、超过",
+                        "fr": "par-dessus, au-delà"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "whelm",
+                    "meaning": {
+                        "ko": "'뒤덮다, 압도하다'",
+                        "en": "to cover over",
+                        "ja": "覆う、圧倒する",
+                        "zh": "覆盖、压倒",
+                        "fr": "couvrir, dominer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'위에서 덮어 뒤집어엎다'는 의미에서 감당하기 힘든 감정이나 일에 '압도당하다' 또는 상대를 '압도하다'라는 뜻으로 쓰입니다.",
+                "en": "The term originates from the literal meaning of 'covering and overturning from above'. It is used to describe being 'overpowered by' difficult emotions or tasks, or 'overpowering' others.",
+                "ja": "文字通りには『上から覆って転す』という意味から、感情や仕事に『圧倒される』または相手を『圧倒する』という意味で使われます。",
+                "zh": "字面意思为『从上面覆盖并推翻』，用来表示被困难的情感或工作『压倒』，或『压倒』他人。",
+                "fr": "Le terme provient du sens littéral de 'couvrir et renverser de dessus'. Il est utilisé pour décrire être 'submergé par' des émotions ou des tâches difficiles, ou 'dominer' les autres."
+            },
+            "example": "I was overwhelmed with gratitude.",
+            "translation": {
+                "ko": "나는 감사한 마음에 어쩔 줄 몰랐다.",
+                "ja": "感謝の気持ちに圧倒されていた。",
+                "zh": "我被感谢的情感所淹没。",
+                "fr": "J'étais submergé par la gratitude."
+            }
+        }
+    ]
+}

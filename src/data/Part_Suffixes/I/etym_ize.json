@@ -1,0 +1,226 @@
+{
+    "root_info": {
+        "roots": "ize (cause to be) idealize, ionize, metastasize, realize",
+        "origin": "Greek, -izein",
+        "meaning": {
+            "ko": "…하게 만들다",
+            "en": "cause to be",
+            "ja": "～させる",
+            "zh": "使～",
+            "fr": "faire être"
+        }
+    },
+    "words": [
+        {
+            "word": "idealize",
+            "part_of_speech": "",
+            "origin": "Greek, idea (form, pattern)",
+            "meaning": {
+                "ko": "형태, 이상",
+                "en": "form, ideal",
+                "ja": "理想化する",
+                "zh": "理想化",
+                "fr": "idéaliser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ideal",
+                    "meaning": {
+                        "ko": "'이상적인'",
+                        "en": "ideal",
+                        "ja": "理想的な",
+                        "zh": "理想的",
+                        "fr": "idéal"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ize",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make, to cause to be",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실제보다 더 이상적으로 만들다'는 의미에서 '이상화하다'라는 뜻입니다.",
+                "en": "To make something more ideal than reality",
+                "ja": "実際より理想的にすること",
+                "zh": "将某物理想化处理",
+                "fr": "Rendre quelque chose plus idéal que la réalité"
+            },
+            "example": "We tend to idealize the past.",
+            "translation": {
+                "ko": "우리는 과거를 이상화하는 경향이 있다.",
+                "ja": "私たちは過去を理想化する傾向があります",
+                "zh": "我们往往会将过去理想化",
+                "fr": "Nous avons tendance à idéaliser le passé"
+            }
+        },
+        {
+            "word": "ionize",
+            "part_of_speech": "",
+            "origin": "Greek, ion (going)",
+            "meaning": {
+                "ko": "가는 것",
+                "en": "to become ionized",
+                "ja": "イオン化する",
+                "zh": "电离",
+                "fr": "ioniser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ion",
+                    "meaning": {
+                        "ko": "'이온'",
+                        "en": "ion",
+                        "ja": "イオン",
+                        "zh": "离子",
+                        "fr": "ion"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ize",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make or cause to become",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원자나 분자를 이온으로 만들다'는 뜻입니다.",
+                "en": "To convert atoms or molecules into ions",
+                "ja": "原子や分子をイオンにすること",
+                "zh": "将原子或分子转化为离子",
+                "fr": "Convertir les atomes ou molécules en ions"
+            },
+            "example": "Radiation can ionize atoms.",
+            "translation": {
+                "ko": "방사선은 원자를 이온화할 수 있다.",
+                "ja": "放射線は原子をイオン化できます。",
+                "zh": "辐射可以使原子电离。",
+                "fr": "Le rayonnement peut ioniser les atomes."
+            }
+        },
+        {
+            "word": "metastasize",
+            "part_of_speech": "",
+            "origin": "Greek, metastasis (a change of state)",
+            "meaning": {
+                "ko": "상태의 변화",
+                "en": "change of state",
+                "ja": "転移する",
+                "zh": "转移",
+                "fr": "métastaser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meta-",
+                    "meaning": {
+                        "ko": "'변화, 이동'",
+                        "en": "change, beyond",
+                        "ja": "変化、移動",
+                        "zh": "变化、移动",
+                        "fr": "changement, au-delà"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sta-",
+                    "meaning": {
+                        "ko": "'서다, 위치하다'",
+                        "en": "to stand",
+                        "ja": "立つ、位置する",
+                        "zh": "站立、位置",
+                        "fr": "se tenir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-size",
+                    "meaning": {
+                        "ko": "'~하게 되다'",
+                        "en": "become",
+                        "ja": "~になる",
+                        "zh": "变成~",
+                        "fr": "devenir~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'암세포가 다른 곳으로 이동하여 자리를 잡다'는 의미에서 '전이되다'라는 뜻입니다.",
+                "en": "Cancer cells move to another location and establish themselves, meaning they metastasize",
+                "ja": "がん細胞が別の場所に移動して根付くことを意味し、転移するという意味です",
+                "zh": "癌细胞移动到另一位置并扎根，意为转移",
+                "fr": "Les cellules cancéreuses se déplacent vers un autre endroit et s'y établissent, signifiant métastaser"
+            },
+            "example": "The cancer had metastasized to his liver.",
+            "translation": {
+                "ko": "그 암은 그의 간으로 전이되었다.",
+                "ja": "がんが肝臓に転移していた。",
+                "zh": "癌症已转移到他的肝脏。",
+                "fr": "Le cancer s'était métastasé au foie."
+            }
+        },
+        {
+            "word": "realize",
+            "part_of_speech": "",
+            "origin": "Latin, realis (real)",
+            "meaning": {
+                "ko": "실제의",
+                "en": "actual or real",
+                "ja": "実現する、気づく",
+                "zh": "实现、意识到",
+                "fr": "réaliser, prendre conscience"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "real",
+                    "meaning": {
+                        "ko": "'실제의'",
+                        "en": "actual or real",
+                        "ja": "実際の",
+                        "zh": "实际的",
+                        "fr": "réel, concret"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ize",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make or cause to be",
+                        "ja": "〜させる",
+                        "zh": "使〜",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머릿속의 생각을 실제적인 것으로 만들다'는 의미에서 '깨닫다', '실현하다'라는 뜻입니다.",
+                "en": "The meaning comes from turning thoughts in one's mind into something actual, thus meaning 'to understand' or 'to achieve'.",
+                "ja": "頭の中の考えを実際的なものにするという意味から、気づく、実現するという意味になります。",
+                "zh": "从将脑子里的想法变成实际的东西的含义而来，意为认识到、实现。",
+                "fr": "Le sens vient de transformer les pensées de son esprit en quelque chose de réel, d'où les significations 'comprendre' ou 'réaliser'."
+            },
+            "example": "I finally realized my mistake.",
+            "translation": {
+                "ko": "나는 마침내 내 실수를 깨달았다.",
+                "ja": "ついに私は自分の間違いに気づいた。",
+                "zh": "我终于意识到我的错误。",
+                "fr": "J'ai finalement réalisé mon erreur."
+            }
+        }
+    ]
+}

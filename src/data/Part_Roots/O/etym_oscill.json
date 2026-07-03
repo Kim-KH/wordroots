@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "oscill (swing) oscillate, oscillograph, oscilloscope",
+        "origin": "Latin, oscillum (a little mask of Bacchus that swung in the wind)",
+        "meaning": {
+            "ko": "흔들리다",
+            "en": "swing",
+            "ja": "揺れる",
+            "zh": "摇摆",
+            "fr": "balancer"
+        }
+    },
+    "words": [
+        {
+            "word": "oscillate",
+            "part_of_speech": "",
+            "origin": "Latin, oscillare (to swing)",
+            "meaning": {
+                "ko": "흔들리다",
+                "en": "to sway or swing back and forth",
+                "ja": "揺れ動く",
+                "zh": "摇摆",
+                "fr": "osciller"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oscill-",
+                    "meaning": {
+                        "ko": "'흔들리다'",
+                        "en": "to swing",
+                        "ja": "揺れ動く",
+                        "zh": "摇摆",
+                        "fr": "osciller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 지점 사이를 규칙적으로 왔다 갔다 하며 흔들리다'는 의미에서 '진동하다'라는 뜻입니다.",
+                "en": "Means to swing back and forth regularly between two points; to vibrate",
+                "ja": "2つの地点の間を規則的に往復して揺れ動くこと、振動する",
+                "zh": "在两点之间有规律地摇摆，表示振动",
+                "fr": "Osciller régulièrement entre deux points; vibrer d'avant en arrière"
+            },
+            "example": "The fan began to oscillate.",
+            "translation": {
+                "ko": "선풍기가 회전하기 시작했다.",
+                "ja": "扇風機が揺れ始めた",
+                "zh": "风扇开始摇摆",
+                "fr": "Le ventilateur a commencé à osciller"
+            }
+        },
+        {
+            "word": "oscillograph",
+            "part_of_speech": "",
+            "origin": "Latin, oscillare (to swing) + Greek, graphein (to write)",
+            "meaning": {
+                "ko": "진동을 기록하는 것",
+                "en": "device that records vibrations",
+                "ja": "振動を記録する装置",
+                "zh": "记录振动的装置",
+                "fr": "appareil enregistrant les oscillations"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oscillo-",
+                    "meaning": {
+                        "ko": "'진동'",
+                        "en": "swing",
+                        "ja": "振動",
+                        "zh": "振动",
+                        "fr": "oscillation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "'기록 장치'",
+                        "en": "recording device",
+                        "ja": "記録装置",
+                        "zh": "记录装置",
+                        "fr": "appareil enregistreur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전기적 진동을 기록하는 장치'인 '오실로그래프'를 뜻합니다.",
+                "en": "An oscillograph is a device that records electrical oscillations.",
+                "ja": "電気的振動を記録する装置のオシロスコープを意味します。",
+                "zh": "指记录电气振动的装置，称为示波器。",
+                "fr": "Un oscillographe est un appareil qui enregistre les oscillations électriques."
+            },
+            "example": "An oscillograph is used to record electrical oscillations.",
+            "translation": {
+                "ko": "오실로그래프는 전기 진동을 기록하는 데 사용된다.",
+                "ja": "オシロスコープは電気的振動を記録するために使用されます。",
+                "zh": "示波器用于记录电气振动。",
+                "fr": "Un oscillographe est utilisé pour enregistrer les oscillations électriques."
+            }
+        },
+        {
+            "word": "oscilloscope",
+            "part_of_speech": "",
+            "origin": "Latin, oscillare (to swing) + Greek, skopein (to view)",
+            "meaning": {
+                "ko": "진동을 보는 것",
+                "en": "viewing oscillations",
+                "ja": "振動を見る装置",
+                "zh": "振动观测仪器",
+                "fr": "appareil d'observation des vibrations"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oscillo-",
+                    "meaning": {
+                        "ko": "'진동'",
+                        "en": "swing",
+                        "ja": "振動",
+                        "zh": "振动",
+                        "fr": "oscillation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "'보는 기구'",
+                        "en": "instrument for viewing",
+                        "ja": "見る機器",
+                        "zh": "观测装置",
+                        "fr": "instrument d'observation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전기적 진동을 눈으로 볼 수 있도록 화면에 보여주는 장치'인 '오실로스코프'를 뜻합니다.",
+                "en": "An oscilloscope is a device that displays electrical oscillations on a screen so they can be seen with the naked eye.",
+                "ja": "電気的な振動を目で見えるように画面に表示する装置のことです。",
+                "zh": "将电气振动显示在屏幕上以便用肉眼观察的装置。",
+                "fr": "Appareil qui affiche les oscillations électriques sur un écran pour les observer à l'œil nu."
+            },
+            "example": "The engineer used an oscilloscope to analyze the circuit.",
+            "translation": {
+                "ko": "그 엔지니어는 회로를 분석하기 위해 오실로스코프를 사용했다.",
+                "ja": "エンジニアは回路を分析するためにオシロスコープを使用しました。",
+                "zh": "工程师使用示波器来分析电路。",
+                "fr": "L'ingénieur a utilisé un oscilloscope pour analyser le circuit."
+            }
+        }
+    ]
+}

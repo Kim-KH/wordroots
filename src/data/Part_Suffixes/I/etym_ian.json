@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ian (skilled in, resembling) comedian, librarian, reptilian",
+        "origin": "Latin, -ianus (belonging to)",
+        "meaning": {
+            "ko": "…에 능숙한",
+            "en": "skilled in",
+            "ja": "…に熟練した",
+            "zh": "…に熟練した",
+            "fr": "doué en"
+        }
+    },
+    "words": [
+        {
+            "word": "comedian",
+            "part_of_speech": "",
+            "origin": "Greek, komoidos (comic actor)",
+            "meaning": {
+                "ko": "희극 배우",
+                "en": "comic actor or performer",
+                "ja": "喜劇俳優",
+                "zh": "喜剧演员",
+                "fr": "acteur comique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "comedy",
+                    "meaning": {
+                        "ko": "'희극'",
+                        "en": "comedy",
+                        "ja": "喜劇",
+                        "zh": "喜剧",
+                        "fr": "comédie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ian",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'희극에 능숙한 사람'인 '코미디언'을 뜻합니다.",
+                "en": "A person skilled at comedy; a comedian",
+                "ja": "喜劇に熟練した人を指します",
+                "zh": "指擅长喜剧的人",
+                "fr": "Personne douée pour la comédie"
+            },
+            "example": "He is a famous stand-up comedian.",
+            "translation": {
+                "ko": "그는 유명한 스탠드업 코미디언이다.",
+                "ja": "彼は有名なスタンダップコメディアンです。",
+                "zh": "他是著名的脱口秀喜剧演员。",
+                "fr": "Il est un célèbre comédien de stand-up."
+            }
+        },
+        {
+            "word": "librarian",
+            "part_of_speech": "",
+            "origin": "Latin, librarius (relating to books)",
+            "meaning": {
+                "ko": "책에 관한",
+                "en": "related to books",
+                "ja": "図書館に関する",
+                "zh": "与图书馆有关的",
+                "fr": "relatif à la bibliothèque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "libr- (liber 'book')",
+                    "meaning": {
+                        "ko": "'책'",
+                        "en": "book",
+                        "ja": "本",
+                        "zh": "书",
+                        "fr": "livre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-arian",
+                    "meaning": {
+                        "ko": "'~와 관련된 사람'",
+                        "en": "person related to",
+                        "ja": "~に関連する人",
+                        "zh": "与~相关的人",
+                        "fr": "personne liée à ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'책을 다루는 사람'인 '사서'를 뜻합니다.",
+                "en": "Refers to a librarian, a person who handles books",
+                "ja": "本を扱う人である図書館司書を意味します",
+                "zh": "指处理书籍的人，即图书馆员",
+                "fr": "Désigne un bibliothécaire, une personne qui gère les livres"
+            },
+            "example": "The librarian can help you find what you need.",
+            "translation": {
+                "ko": "사서는 당신이 필요한 것을 찾는 데 도움을 줄 수 있다.",
+                "ja": "図書館司書",
+                "zh": "图书馆员",
+                "fr": "bibliothécaire"
+            }
+        },
+        {
+            "word": "reptilian",
+            "part_of_speech": "",
+            "origin": "Latin, reptile",
+            "meaning": {
+                "ko": "파충류",
+                "en": "cold-blooded scaled animal",
+                "ja": "爬虫類のような",
+                "zh": "爬虫类的",
+                "fr": "reptilien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "reptil-",
+                    "meaning": {
+                        "ko": "'파충류'",
+                        "en": "reptile",
+                        "ja": "爬虫類",
+                        "zh": "爬虫类",
+                        "fr": "reptile"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ian",
+                    "meaning": {
+                        "ko": "'~같은'",
+                        "en": "like or resembling",
+                        "ja": "~のような",
+                        "zh": "~的",
+                        "fr": "~comme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'파충류의' 또는 '파충류 같은'이라는 뜻입니다.",
+                "en": "Means 'of reptiles' or 'like reptiles'",
+                "ja": "爬虫類に属する、または爬虫類に似ているという意味です。",
+                "zh": "表示属于爬虫类或像爬虫类一样的意思。",
+                "fr": "Signifie 'appartenant aux reptiles' ou 'semblable aux reptiles'."
+            },
+            "example": "The villain had cold, reptilian eyes.",
+            "translation": {
+                "ko": "그 악당은 차갑고 파충류 같은 눈을 가지고 있었다.",
+                "ja": "その悪役は冷たく爬虫類のような目をしていた。",
+                "zh": "那个恶棍有着冷漠的爬虫类般的眼睛。",
+                "fr": "Le méchant avait des yeux froids et reptiliens."
+            }
+        }
+    ]
+}

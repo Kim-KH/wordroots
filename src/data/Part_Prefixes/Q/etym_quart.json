@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "quart (four) quart, quarter, quartet, quartile",
+        "origin": "Latin, quartus (fourth)",
+        "meaning": {
+            "ko": "네 번째",
+            "en": "fourth",
+            "ja": "4番目",
+            "zh": "第四",
+            "fr": "quatrième"
+        }
+    },
+    "words": [
+        {
+            "word": "quart",
+            "part_of_speech": "",
+            "origin": "Latin, quarta pars (fourth part)",
+            "meaning": {
+                "ko": "네 번째 부분",
+                "en": "fourth part",
+                "ja": "4分の1の部分",
+                "zh": "四分之一的部分",
+                "fr": "un quart de partie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quart-",
+                    "meaning": {
+                        "ko": "'네 번째'",
+                        "en": "fourth",
+                        "ja": "4番目",
+                        "zh": "第四个",
+                        "fr": "quatrième"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'갤런(gallon)의 4분의 1에 해당하는 부분'이라는 의미에서 부피 단위인 '쿼트'를 뜻합니다.",
+                "en": "A unit of volume equal to one quarter of a gallon",
+                "ja": "ガロンの4分の1に相当する体積単位",
+                "zh": "等于加仑四分之一的体积单位",
+                "fr": "unité de volume égale à un quart de gallon"
+            },
+            "example": "A quart is equal to two pints.",
+            "translation": {
+                "ko": "1쿼트는 2파인트와 같다.",
+                "ja": "1クォートは2パイントに等しい",
+                "zh": "1夸脱等于2品脱",
+                "fr": "Un quart est égal à deux pintes"
+            }
+        },
+        {
+            "word": "quarter",
+            "part_of_speech": "",
+            "origin": "Latin, quartarius (fourth part)",
+            "meaning": {
+                "ko": "네 번째 부분",
+                "en": "fourth part",
+                "ja": "4分の1",
+                "zh": "四分之一",
+                "fr": "quart"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quart-",
+                    "meaning": {
+                        "ko": "'네 번째'",
+                        "en": "fourth",
+                        "ja": "4番目の",
+                        "zh": "第四个",
+                        "fr": "quatrième"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전체의 4분의 1 부분'이라는 의미에서 '4분의 1', '15분', '25센트 동전' 등 다양한 뜻으로 쓰입니다.",
+                "en": "From the meaning of 'one fourth of a whole', it is used in various ways such as 'one quarter', '15 minutes', 'a 25-cent coin', etc.",
+                "ja": "全体の4分の1という意味から、4分の1、15分、25セント硬貨など様々な意味で使われます。",
+                "zh": "从'整体的四分之一'的含义出发，用于各种含义，如'四分之一'、'15分钟'、'25美分硬币'等。",
+                "fr": "Du sens de 'un quart d'un tout', il est utilisé de diverses manières telles que 'un quart', '15 minutes', 'une pièce de 25 cents', etc."
+            },
+            "example": "I'll meet you in a quarter of an hour.",
+            "translation": {
+                "ko": "15분 후에 만나요.",
+                "ja": "4分の1時間で会いましょう。",
+                "zh": "我将在四分之一小时后见你。",
+                "fr": "Je te rencontrerai dans un quart d'heure."
+            }
+        },
+        {
+            "word": "quartet",
+            "part_of_speech": "",
+            "origin": "Italian, quartetto",
+            "meaning": {
+                "ko": "네 개로 된 것",
+                "en": "something made of four",
+                "ja": "4人の演奏団",
+                "zh": "四人乐队",
+                "fr": "groupe de quatre musiciens"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quart-",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "4つの",
+                        "zh": "四个",
+                        "fr": "quatre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'네 명으로 이루어진 연주단'이라는 의미에서 '4중주단' 또는 '4중주곡'을 뜻합니다.",
+                "en": "A group of four performers or a musical composition for four instruments/voices",
+                "ja": "4人の演奏者で構成される音楽グループ、または4つの楽器・声部のための作曲",
+                "zh": "由四位演奏者组成的音乐团体，或为四件乐器创作的乐曲",
+                "fr": "Groupe de quatre musiciens ou composition musicale pour quatre instruments"
+            },
+            "example": "The string quartet played a piece by Mozart.",
+            "translation": {
+                "ko": "현악 4중주단이 모차르트 곡을 연주했다.",
+                "ja": "弦楽四重奏団がモーツァルトの曲を演奏した。",
+                "zh": "弦乐四重奏团演奏了莫扎特的作品。",
+                "fr": "Le quatuor à cordes a joué une pièce de Mozart."
+            }
+        }
+    ]
+}

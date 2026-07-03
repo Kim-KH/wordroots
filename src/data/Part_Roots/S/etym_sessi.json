@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "sessi (sit, attached) séance, sessile, session",
+        "origin": "Latin, sedere, sessus (to sit)",
+        "meaning": {
+            "ko": "앉다",
+            "en": "to sit",
+            "ja": "座る",
+            "zh": "坐",
+            "fr": "s'asseoir"
+        }
+    },
+    "words": [
+        {
+            "word": "séance",
+            "part_of_speech": "",
+            "origin": "French, séance (a sitting)",
+            "meaning": {
+                "ko": "앉아 있음",
+                "en": "sitting",
+                "ja": "座る集まり",
+                "zh": "坐在一起的集会",
+                "fr": "réunion où on s'assoit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sé- (sedere)",
+                    "meaning": {
+                        "ko": "'앉다'",
+                        "en": "to sit",
+                        "ja": "座る",
+                        "zh": "坐",
+                        "fr": "s'asseoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람들이 함께 앉아 있는 모임'이라는 의미에서 '회의' 또는 '죽은 자의 영혼을 부르기 위한 모임'인 '강령회'를 뜻합니다.",
+                "en": "A meeting where people sit together, or a spiritualist gathering to contact the dead",
+                "ja": "人々が一緒に座る集まり、または死者の霊を呼ぶための降霊会を意味します",
+                "zh": "人们一起坐着的聚集，或者是召唤死者灵魂的降灵会",
+                "fr": "Une réunion où les gens s'assoient ensemble, ou une séance spirituelle pour contacter les morts"
+            },
+            "example": "They held a séance to contact the spirit of their deceased grandmother.",
+            "translation": {
+                "ko": "그들은 돌아가신 할머니의 영혼과 접촉하기 위해 강령회를 열었다.",
+                "ja": "彼らは亡くなった祖母の霊と接触するために降霊会を開きました。",
+                "zh": "他们举行了一次降灵会来与已故祖母的灵魂接触。",
+                "fr": "Ils ont tenu une séance pour contacter l'esprit de leur grand-mère décédée."
+            }
+        },
+        {
+            "word": "sessile",
+            "part_of_speech": "",
+            "origin": "Latin, sessilis (low, fit for sitting)",
+            "meaning": {
+                "ko": "앉기에 적합한",
+                "en": "suitable for sitting",
+                "ja": "座るのに適した",
+                "zh": "适于坐着的",
+                "fr": "approprié pour s'asseoir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sess-",
+                    "meaning": {
+                        "ko": "'앉다'",
+                        "en": "to sit",
+                        "ja": "座る",
+                        "zh": "坐",
+                        "fr": "s'asseoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자리에 붙어 앉아 움직이지 않는'이라는 의미로, 생물학에서 '고착성의', '자루가 없는'이라는 뜻으로 쓰입니다.",
+                "en": "In biology, means 'attached to a surface without a stalk or peduncle; sessile organisms remain fixed in one place without movement'",
+                "ja": "生物学では、茎や柄がなく一か所に固着している、動かない状態を意味します",
+                "zh": "在生物学中，指没有茎或柄，固着在一处不动的状态",
+                "fr": "En biologie, signifie attaché à une surface sans tige ou pédoncule; les organismes sessiles restent fixes"
+            },
+            "example": "Barnacles are sessile creatures.",
+            "translation": {
+                "ko": "따개비는 고착성 생물이다.",
+                "ja": "フジツボは座性の生物です",
+                "zh": "藤壶是无柄的生物",
+                "fr": "Les balanes sont des créatures sessiles"
+            }
+        },
+        {
+            "word": "session",
+            "part_of_speech": "",
+            "origin": "Latin, sessio (a sitting)",
+            "meaning": {
+                "ko": "앉아 있음",
+                "en": "sitting or being seated",
+                "ja": "座って行う時間",
+                "zh": "坐着进行的时间",
+                "fr": "période de réunion"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sess-",
+                    "meaning": {
+                        "ko": "'앉다'",
+                        "en": "to sit",
+                        "ja": "座る",
+                        "zh": "坐",
+                        "fr": "s'asseoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 활동을 위해 함께 앉아 있는 시간'이라는 의미에서 '회의', '회기', '(수업) 시간' 등을 뜻합니다.",
+                "en": "Refers to a period of time when people sit together for a specific activity, meaning 'meeting', 'session', 'class time', etc.",
+                "ja": "特定の活動のために一緒に座っている時間という意味から、'会議'、'会期'、'授業時間'などを意味します。",
+                "zh": "从共同坐着进行特定活动的时间这个意思，指'会议'、'会期'、'课堂时间'等。",
+                "fr": "Désigne une période où les gens s'assoient ensemble pour une activité spécifique, signifiant 'réunion', 'séance', 'cours', etc."
+            },
+            "example": "The court is now in session.",
+            "translation": {
+                "ko": "지금 재판이 진행 중입니다.",
+                "ja": "法廷は現在開廷中です。",
+                "zh": "法庭现在正在开庭。",
+                "fr": "Le tribunal est maintenant en séance."
+            }
+        }
+    ]
+}

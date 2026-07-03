@@ -1,0 +1,371 @@
+{
+    "root_info": {
+        "roots": "strain, strict, string, stige: bind, pull",
+        "origin": "Latin, stringere",
+        "meaning": {
+            "ko": "묶다, 팽팽하게 당기다",
+            "en": "to bind, to pull tight",
+            "ja": "縛る、ぴんと張る",
+            "zh": "捆绑、紧紧拉扯",
+            "fr": "lier, tirer fort"
+        }
+    },
+    "words": [
+        {
+            "word": "stricture",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strict",
+                    "meaning": {
+                        "ko": "조이다",
+                        "en": "to draw tight",
+                        "ja": "きつく締める",
+                        "zh": "紧紧束缚",
+                        "fr": "serrer étroitement"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形式后缀",
+                        "fr": "suffixe de formation nominale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'엄격하게 옥죄는 것'이라는 의미에서, 행동에 대한 '제한', '구속' 또는 '혹평'을 뜻합니다. 의학에서는 '협착'을 의미합니다.",
+                "en": "From the sense of 'tightly constricting,' it means 'restriction,' 'constraint,' or 'harsh criticism' of actions. In medicine, it refers to 'narrowing of a passage.'",
+                "ja": "「厳しく締め付ける」という意味から、行動に対する「制限」「拘束」または「厳しい批判」を意味します。医学では「狭窄」を意味します。",
+                "zh": "从\"严格束缚\"的含义引申，指行动上的\"限制\"、\"约束\"或\"严厉批评\"。医学中表示\"狭窄\"。",
+                "fr": "Du sens de 'serrer étroitement', il signifie 'restriction', 'contrainte' ou 'critique sévère' des actions. En médecine, il désigne le 'rétrécissement d'un passage'."
+            },
+            "example": "He faced severe strictures from the critics.",
+            "translation": {
+                "ko": "그는 비평가들로부터 심한 혹평에 직면했다.",
+                "ja": "彼は批評家からの厳しい批判に直面した。",
+                "zh": "他面临来自评论家的严厉批评。",
+                "fr": "Il a fait face à de sévères critiques de la part des critiques."
+            }
+        },
+        {
+            "word": "stringent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "string",
+                    "meaning": {
+                        "ko": "조이다",
+                        "en": "to draw tight",
+                        "ja": "きつく締める",
+                        "zh": "紧紧拉扯",
+                        "fr": "serrer étroitement"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ent",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞形接尾辞",
+                        "zh": "形容词形后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'엄격하게 옥죄는'이라는 의미에서, 규칙이나 조건이 '엄격한', '엄중한'이라는 뜻입니다.",
+                "en": "From the sense of 'tightly constraining,' it means rules or conditions are 'strict' or 'severe.'",
+                "ja": "'厳しく締め付ける'という意味から、規則や条件が'厳格な'、'厳重な'という意味になります。",
+                "zh": "从'严格地束缚'的含义出发，指规则或条件是'严格的'、'严厉的'。",
+                "fr": "Du sens de 'contraindre étroitement', cela signifie que les règles ou conditions sont 'strictes' ou 'rigoureuses'."
+            },
+            "example": "The company has stringent safety regulations.",
+            "translation": {
+                "ko": "그 회사는 엄격한 안전 규정을 가지고 있다.",
+                "ja": "その会社は厳格な安全規定を持っている。",
+                "zh": "那家公司有严格的安全规定。",
+                "fr": "L'entreprise a des règlements de sécurité rigoureux."
+            }
+        },
+        {
+            "word": "strict",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strict",
+                    "meaning": {
+                        "ko": "조여진",
+                        "en": "drawn tight",
+                        "ja": "引き締められた",
+                        "zh": "拉紧的",
+                        "fr": "tiré serré"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'팽팽하게 당겨진' 상태라는 의미에서, 규칙 등이 '엄격한', '엄한'이라는 뜻으로 발전했습니다.",
+                "en": "From the sense of 'tightly drawn,' it evolved to mean 'strict' or 'severe' regarding rules and standards.",
+                "ja": "'ぴんと張られた'という意味から、ルールなどが'厳格な'という意味に発展しました。",
+                "zh": "从'拉紧的'这一含义出发，发展为规则等'严格的''严厉的'之意。",
+                "fr": "Du sens de 'tiré serré', il a évolué pour signifier 'sévère' ou 'rigoureux' concernant les règles."
+            },
+            "example": "My parents were very strict.",
+            "translation": {
+                "ko": "우리 부모님은 매우 엄격했다.",
+                "ja": "私の両親はとても厳格でした。",
+                "zh": "我的父母非常严格。",
+                "fr": "Mes parents étaient très stricts."
+            }
+        },
+        {
+            "word": "constrain",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strain (stringere)",
+                    "meaning": {
+                        "ko": "조이다",
+                        "en": "to draw tight",
+                        "ja": "きつく締める",
+                        "zh": "紧紧束缚",
+                        "fr": "serrer étroitement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 묶어 조이다'는 의미에서, 어떤 행동을 하도록 '강요하다', '제약하다'는 뜻입니다.",
+                "en": "From 'bind together tightly': means to force or restrict someone's actions",
+                "ja": "「一緒にきつく縛る」という意味から、ある行動を強制する、制限するという意味になります",
+                "zh": "从「一起紧紧束缚」的意思引申，表示强迫或限制某人的行为",
+                "fr": "Du sens « lier étroitement ensemble » : signifie forcer ou restreindre les actions de quelqu'un"
+            },
+            "example": "I felt constrained to act politely.",
+            "translation": {
+                "ko": "나는 공손하게 행동해야 한다고 느꼈다.",
+                "ja": "私は丁寧に行動することを強いられていると感じた",
+                "zh": "我感到被迫要礼貌地行动",
+                "fr": "J'ai senti que j'étais obligé d'agir poliment"
+            }
+        },
+        {
+            "word": "astringent",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a- (ad-)",
+                    "meaning": {
+                        "ko": "~로",
+                        "en": "to",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "string",
+                    "meaning": {
+                        "ko": "조이다",
+                        "en": "to draw tight",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "피부 조직을 '수축시키고 조이는' 성질이 있다는 의미에서, '수렴성의'라는 뜻입니다. 화장품의 '아스트린젠트'가 여기서 왔습니다.",
+                "en": "From the sense of 'drawing tight and contracting skin tissue,' meaning 'having a contracting property.' The cosmetic term 'astringent' comes from this.",
+                "ja": "皮膚組織を『引き締めて収縮させる』性質があるという意味から、『収斂性の』という意味です。化粧品の『アストリンジェント』はここから来ました。",
+                "zh": "从'收紧和收缩皮肤组织'的含义引申，意为'具有收敛性质的'。化妆品术语'收敛剂'源自于此。",
+                "fr": "Du sens de 'resserrer et contracter le tissu cutané', signifiant 'ayant une propriété astringente'. Le terme cosmétique 'astringent' en est issu."
+            },
+            "example": "The lotion has an astringent effect.",
+            "translation": {
+                "ko": "그 로션은 수렴 효과가 있다.",
+                "ja": "そのローションは収斂効果がある。",
+                "zh": "那种乳液具有收敛效果。",
+                "fr": "Cette lotion a un effet astringent."
+            }
+        },
+        {
+            "word": "distress",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 반대",
+                        "en": "apart, negative",
+                        "ja": "離れて、否定",
+                        "zh": "分开、否定",
+                        "fr": "séparé, négatif"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stress (stringere)",
+                    "meaning": {
+                        "ko": "조이다",
+                        "en": "to draw tight",
+                        "ja": "きつく締める",
+                        "zh": "紧紧拉扯",
+                        "fr": "serrer étroitement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "마음을 '고통스럽게 옥죄는' 상태라는 의미에서, '고통', '괴로움', '곤경'을 뜻합니다.",
+                "en": "From the sense of the mind being painfully squeezed, meaning suffering, anguish, or hardship.",
+                "ja": "心が『痛々しく締め付けられる』状態の意味から、『苦しみ』『苦悩』『窮地』を意味します。",
+                "zh": "从心灵被痛苦地紧紧挤压的意义来看，意味着痛苦、苦恼或困境。",
+                "fr": "Du sens de l'esprit étant douloureusement serré, signifiant souffrance, angoisse ou détresse."
+            },
+            "example": "The ship was in distress.",
+            "translation": {
+                "ko": "그 배는 조난 상태에 있었다.",
+                "ja": "その船は遭難状態にあった。",
+                "zh": "那艘船处于海难状态。",
+                "fr": "Le navire était en détresse."
+            }
+        },
+        {
+            "word": "strain",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strain (stringere)",
+                    "meaning": {
+                        "ko": "팽팽하게 당기다",
+                        "en": "to draw tight",
+                        "ja": "ぴんと張る",
+                        "zh": "紧紧拉扯",
+                        "fr": "tirer fortement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'팽팽하게 당기다'는 의미에서, 근육을 '혹사하다', 액체를 '거르다', 관계를 '긴장시키다'는 뜻으로 쓰입니다.",
+                "en": "From the meaning of 'to draw tight', it is used to mean 'to overwork muscles', 'to filter liquid', and 'to create tension in relationships'.",
+                "ja": "「ぴんと張る」という意味から、筋肉を「酷使する」、液体を「漉す」、関係を「緊張させる」という意味で使われます。",
+                "zh": "从「紧紧拉扯」的含义衍生，用来表示「过度使用肌肉」、「过滤液体」和「使关系紧张」的意思。",
+                "fr": "Du sens de 'tirer fortement', il est utilisé pour signifier 'surcharger les muscles', 'filtrer un liquide' et 'créer une tension relationnelle'."
+            },
+            "example": "Don't strain your eyes by reading in the dark.",
+            "translation": {
+                "ko": "어두운 곳에서 책을 읽어서 눈을 혹사시키지 마세요.",
+                "ja": "暗い中で読書して目を酷使しないでください。",
+                "zh": "不要在黑暗中阅读而过度使用眼睛。",
+                "fr": "Ne forcez pas vos yeux en lisant dans l'obscurité."
+            }
+        },
+        {
+            "word": "constrict",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strict",
+                    "meaning": {
+                        "ko": "조이다",
+                        "en": "to draw tight",
+                        "ja": "きつく絞る",
+                        "zh": "紧紧束缚",
+                        "fr": "serrer étroitement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 꽉 조이다'는 의미에서, 혈관이나 근육 등을 '수축시키다', 활동을 '제약하다'는 뜻입니다.",
+                "en": "From the sense of 'drawing tight together,' meaning to cause blood vessels or muscles to contract, or to restrict activity.",
+                "ja": "「一緒にきつく絞る」という意味から、血管や筋肉などを「収縮させる」、活動を「制限する」という意味になります。",
+                "zh": "从「一起紧紧束缚」的含义出发，表示使血管或肌肉「收缩」，或「限制」活动。",
+                "fr": "Du sens de « serrer ensemble étroitement », signifie faire contracter les vaisseaux sanguins ou les muscles, ou restreindre l'activité."
+            },
+            "example": "The smoke constricted his throat.",
+            "translation": {
+                "ko": "연기가 그의 목을 조였다.",
+                "ja": "煙が彼の喉を絞った。",
+                "zh": "烟雾收紧了他的喉咙。",
+                "fr": "La fumée a resserré sa gorge."
+            }
+        },
+        {
+            "word": "restrain",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strain (stringere)",
+                    "meaning": {
+                        "ko": "당기다",
+                        "en": "to pull",
+                        "ja": "引く",
+                        "zh": "拉",
+                        "fr": "tirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 당기다'는 의미에서, 행동이나 감정을 '억제하다', '저지하다'는 뜻입니다.",
+                "en": "From the meaning of 'pulling back', it means to 'suppress' or 'prevent' actions or emotions.",
+                "ja": "'後ろへ引く'という意味から、行動や感情を'抑制する'、'制止する'という意味です。",
+                "zh": "从'向后拉'的含义引申，表示'抑制'或'阻止'行为或情感。",
+                "fr": "Du sens de 'tirer vers l'arrière', il signifie 'réprimer' ou 'retenir' les actions ou émotions."
+            },
+            "example": "He could not restrain his anger.",
+            "translation": {
+                "ko": "그는 분노를 억제할 수 없었다.",
+                "ja": "彼は怒りを抑制することができなかった。",
+                "zh": "他无法抑制他的愤怒。",
+                "fr": "Il ne pouvait pas contenir sa colère."
+            }
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "root_info": {
+        "roots": "vale (value, worth) equivalent, evaluate, valence, valiant, valid",
+        "origin": "Latin, valere (to be strong, to be of value)",
+        "meaning": {
+            "ko": "강하다, 가치가 있다",
+            "en": "to be strong, to be worth",
+            "ja": "強い、価値がある",
+            "zh": "强大、有价值",
+            "fr": "être fort, avoir de la valeur"
+        }
+    },
+    "words": [
+        {
+            "word": "equivalent",
+            "part_of_speech": "",
+            "origin": "Latin, aequivalens (of equal value)",
+            "meaning": {
+                "ko": "같은 가치의",
+                "en": "of equal value",
+                "ja": "同等の価値の",
+                "zh": "同等价值的",
+                "fr": "de valeur égale"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "equi-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "同じ",
+                        "zh": "相同的",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "valent",
+                    "meaning": {
+                        "ko": "'가치'",
+                        "en": "value",
+                        "ja": "価値",
+                        "zh": "价值",
+                        "fr": "valeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가치가 같은'이라는 의미에서 '동등한', '상응하는'이라는 뜻입니다.",
+                "en": "From the meaning of 'having equal value', it means 'equivalent' or 'corresponding'.",
+                "ja": "同じ価値を持つという意味から、同等、相応するという意味です。",
+                "zh": "从具有相同价值的含义，表示等值或对应的意思。",
+                "fr": "Du sens de 'ayant une valeur égale', cela signifie 'équivalent' ou 'correspondant'."
+            },
+            "example": "The two words are equivalent in meaning.",
+            "translation": {
+                "ko": "그 두 단어는 의미가 동일하다.",
+                "ja": "二つの単語は意味が同等です。",
+                "zh": "这两个词在意义上是等价的。",
+                "fr": "Les deux mots sont équivalents en sens."
+            }
+        },
+        {
+            "word": "evaluate",
+            "part_of_speech": "",
+            "origin": "French, évaluer",
+            "meaning": {
+                "ko": "가치를 평가하다",
+                "en": "to assess or judge the value of",
+                "ja": "価値を評価する",
+                "zh": "评估价值",
+                "fr": "évaluer la valeur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "value",
+                    "meaning": {
+                        "ko": "'가치'",
+                        "en": "value",
+                        "ja": "価値",
+                        "zh": "价值",
+                        "fr": "valeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가치를 밖으로 꺼내어 평가하다'는 의미입니다.",
+                "en": "To assess value by drawing it out",
+                "ja": "価値を外に引き出して評価する意味です",
+                "zh": "将价值引出来进行评估的意思",
+                "fr": "Signifie évaluer en extrayant la valeur"
+            },
+            "example": "We need to evaluate the success of the project.",
+            "translation": {
+                "ko": "우리는 그 프로젝트의 성공 여부를 평가해야 한다.",
+                "ja": "プロジェクトの成功を評価する必要があります",
+                "zh": "我们需要评估项目的成功",
+                "fr": "Nous devons évaluer le succès du projet"
+            }
+        },
+        {
+            "word": "valence",
+            "part_of_speech": "",
+            "origin": "Latin, valentia (strength, capacity)",
+            "meaning": {
+                "ko": "힘, 능력",
+                "en": "power, ability",
+                "ja": "力、能力",
+                "zh": "力、能力",
+                "fr": "force, capacité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "val-",
+                    "meaning": {
+                        "ko": "'힘'",
+                        "en": "strength",
+                        "ja": "力",
+                        "zh": "力",
+                        "fr": "force"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 원자와 결합할 수 있는 힘'이라는 의미에서 화학의 '원자가'를 뜻합니다.",
+                "en": "In chemistry, it refers to 'valence' meaning the strength to bond with other atoms",
+                "ja": "他の原子と結合できる力という意味から、化学の原子価を意味します",
+                "zh": "从与其他原子结合的力的意义来看，指化学中的化合价",
+                "fr": "En chimie, cela désigne la 'valence', c'est-à-dire la capacité à se lier avec d'autres atomes"
+            },
+            "example": "Carbon has a valence of four.",
+            "translation": {
+                "ko": "탄소는 4의 원자가를 가진다.",
+                "ja": "炭素の原子価は4である",
+                "zh": "碳的化合价是4",
+                "fr": "Le carbone a une valence de quatre"
+            }
+        },
+        {
+            "word": "valiant",
+            "part_of_speech": "",
+            "origin": "Latin, valens (strong)",
+            "meaning": {
+                "ko": "강한",
+                "en": "strong",
+                "ja": "勇敢で強い",
+                "zh": "勇敢而强大",
+                "fr": "courageux et fort"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "val-",
+                    "meaning": {
+                        "ko": "'강한'",
+                        "en": "strong",
+                        "ja": "強い",
+                        "zh": "强大",
+                        "fr": "fort"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'용감하고 강한'이라는 뜻입니다.",
+                "en": "Means brave and strong",
+                "ja": "勇敢で強いという意味です",
+                "zh": "意思是勇敢而强大",
+                "fr": "Signifie courageux et fort"
+            },
+            "example": "He made a valiant effort to save the child.",
+            "translation": {
+                "ko": "그는 아이를 구하기 위해 용감한 노력을 했다.",
+                "ja": "彼は子どもを救うために勇敢な努力をした",
+                "zh": "他为了救那个孩子做出了勇敢的努力",
+                "fr": "Il a fait un effort courageux pour sauver l'enfant"
+            }
+        },
+        {
+            "word": "valid",
+            "part_of_speech": "",
+            "origin": "Latin, validus (strong, powerful)",
+            "meaning": {
+                "ko": "강한",
+                "en": "strong",
+                "ja": "有効な、妥当な",
+                "zh": "有效的、有根据的",
+                "fr": "valide, fondé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "val-",
+                    "meaning": {
+                        "ko": "'힘 있는'",
+                        "en": "strong",
+                        "ja": "強い、力がある",
+                        "zh": "强有力的、有力",
+                        "fr": "fort, puissant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'근거가 강하고 힘이 있는'이라는 의미에서 '유효한', '타당한'이라는 뜻입니다.",
+                "en": "From the sense of having strong grounds and strength, meaning effective or sound",
+                "ja": "根拠が強く力があるという意味から、有効である、妥当であるという意味です",
+                "zh": "从根据有力、具有力量的意思引申为有效的、有根据的",
+                "fr": "Du sens d'avoir des fondements solides et de la force, signifiant efficace ou valide"
+            },
+            "example": "You need a valid passport to travel abroad.",
+            "translation": {
+                "ko": "해외여행을 하려면 유효한 여권이 필요하다.",
+                "ja": "海外旅行には有効なパスポートが必要です。",
+                "zh": "出国旅行需要有效的护照。",
+                "fr": "Vous avez besoin d'un passeport valide pour voyager à l'étranger."
+            }
+        }
+    ]
+}

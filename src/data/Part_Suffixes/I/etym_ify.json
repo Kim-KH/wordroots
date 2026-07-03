@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ify (become) petrify, rectify, sanctify, stratify",
+        "origin": "Latin, -ficare (to make)",
+        "meaning": {
+            "ko": "…이 되다",
+            "en": "become",
+            "ja": "になる",
+            "zh": "变成",
+            "fr": "devenir"
+        }
+    },
+    "words": [
+        {
+            "word": "petrify",
+            "part_of_speech": "",
+            "origin": "Latin, petra (rock) + -ficare (to make)",
+            "meaning": {
+                "ko": "돌로 만들다",
+                "en": "to turn into stone",
+                "ja": "石化させる",
+                "zh": "使石化",
+                "fr": "pétrifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "petr-",
+                    "meaning": {
+                        "ko": "'돌'",
+                        "en": "rock",
+                        "ja": "石",
+                        "zh": "石头",
+                        "fr": "pierre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ify",
+                    "meaning": {
+                        "ko": "'…이 되게 하다'",
+                        "en": "to cause to become",
+                        "ja": "…にさせる",
+                        "zh": "使…变成",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'돌처럼 굳어지게 만들다'는 의미에서 '석화시키다' 또는 '겁에 질려 꼼짝 못하게 만들다'는 뜻입니다.",
+                "en": "Means to turn to stone or to make someone motionless with fear",
+                "ja": "石のように硬くならせる、または恐怖で身動きできなくさせる",
+                "zh": "使其像石头一样硬化，或使人因恐惧而无法动弹",
+                "fr": "Transformer en pierre ou rendre quelqu'un immobile de peur"
+            },
+            "example": "The thought of speaking in public petrified him.",
+            "translation": {
+                "ko": "대중 앞에서 말할 생각에 그는 겁에 질렸다.",
+                "ja": "公の場で話すことを考えると、彼は恐怖で身動きできなくなった",
+                "zh": "一想到在公众面前讲话，他就吓得动弹不得",
+                "fr": "L'idée de parler en public l'a paralysé de peur"
+            }
+        },
+        {
+            "word": "rectify",
+            "part_of_speech": "",
+            "origin": "Latin, rectificare (to make right)",
+            "meaning": {
+                "ko": "올바르게 만들다",
+                "en": "to make correct",
+                "ja": "正しくする",
+                "zh": "改正、纠正",
+                "fr": "corriger, rectifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rect-",
+                    "meaning": {
+                        "ko": "'올바른'",
+                        "en": "right",
+                        "ja": "正しい",
+                        "zh": "正确的",
+                        "fr": "correct, droit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ify",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~するようにする",
+                        "zh": "使~、令~",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못된 것을 올바르게 만들다'는 의미에서 '바로잡다', '수정하다'라는 뜻입니다.",
+                "en": "It means 'to correct or fix something wrong' - specifically to make something incorrect into something correct",
+                "ja": "誤ったものを正しくするという意味から、'正す'、'修正する'という意味です",
+                "zh": "从把错误的东西改正为正确的东西这一意义出发，意为'纠正'、'修正'",
+                "fr": "Signifie 'corriger ou réparer quelque chose d'incorrect' - rendre correct ce qui ne l'est pas"
+            },
+            "example": "Please rectify the error in the report.",
+            "translation": {
+                "ko": "보고서의 오류를 수정해 주세요.",
+                "ja": "レポートのエラーを正してください。",
+                "zh": "请改正报告中的错误。",
+                "fr": "Veuillez corriger l'erreur dans le rapport."
+            }
+        },
+        {
+            "word": "sanctify",
+            "part_of_speech": "",
+            "origin": "Latin, sanctificare (to make holy)",
+            "meaning": {
+                "ko": "신성하게 만들다",
+                "en": "to make sacred",
+                "ja": "神聖にする",
+                "zh": "使神圣化",
+                "fr": "rendre sacré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sanct-",
+                    "meaning": {
+                        "ko": "'신성한'",
+                        "en": "holy",
+                        "ja": "神聖な",
+                        "zh": "神圣的",
+                        "fr": "sacré"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ify",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신성하게 만들다'는 뜻입니다.",
+                "en": "It means to make holy or sacred.",
+                "ja": "神聖にするという意味です。",
+                "zh": "意思是使某物变得神圣或神圣化。",
+                "fr": "Cela signifie rendre quelque chose sacré ou saint."
+            },
+            "example": "The church was sanctified by the bishop.",
+            "translation": {
+                "ko": "그 교회는 주교에 의해 축성되었다.",
+                "ja": "教会は司教によって神聖にされた。",
+                "zh": "教堂被主教封为圣地。",
+                "fr": "L'église a été sanctifiée par l'évêque."
+            }
+        },
+        {
+            "word": "stratify",
+            "part_of_speech": "",
+            "origin": "Latin, stratum (layer) + facere (to make)",
+            "meaning": {
+                "ko": "층을 만들다",
+                "en": "to form layers or arrange in layers",
+                "ja": "層を作る",
+                "zh": "分层",
+                "fr": "stratifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strati-",
+                    "meaning": {
+                        "ko": "'층'",
+                        "en": "layer",
+                        "ja": "層",
+                        "zh": "层",
+                        "fr": "couche"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制作",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 층으로 나누다', '계층화하다'는 뜻입니다.",
+                "en": "To divide into multiple layers or social classes",
+                "ja": "複数の層に分ける、階層化する",
+                "zh": "分成多个层级或社会阶级",
+                "fr": "diviser en plusieurs niveaux"
+            },
+            "example": "The society is highly stratified.",
+            "translation": {
+                "ko": "그 사회는 매우 계층화되어 있다.",
+                "ja": "その社会は高度に層化している。",
+                "zh": "这个社会分层现象严重。",
+                "fr": "La société est fortement stratifiée."
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "vas(o) (vessel) vasectomy, vasodilation, vascular, vasculature",
+        "origin": "Latin, vas (a vessel)",
+        "meaning": {
+            "ko": "용기, 관",
+            "en": "a vessel",
+            "ja": "容器",
+            "zh": "容器",
+            "fr": "récipient"
+        }
+    },
+    "words": [
+        {
+            "word": "vasectomy",
+            "part_of_speech": "",
+            "origin": "Latin, vas (vessel) + Greek, ektome (a cutting out)",
+            "meaning": {
+                "ko": "관 절제",
+                "en": "surgical removal of vas deferens",
+                "ja": "精管切除術",
+                "zh": "输精管切除术",
+                "fr": "vasectomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vas-",
+                    "meaning": {
+                        "ko": "'관'",
+                        "en": "vessel",
+                        "ja": "管",
+                        "zh": "管",
+                        "fr": "canal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ectomy",
+                    "meaning": {
+                        "ko": "'절제술'",
+                        "en": "surgical removal procedure",
+                        "ja": "切除術",
+                        "zh": "切除术",
+                        "fr": "ablation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정자가 지나가는 관(정관)을 잘라내는 수술'인 '정관 수술'을 뜻합니다.",
+                "en": "A surgical procedure that cuts the vas deferens through which sperm passes, known as vasectomy surgery",
+                "ja": "精子が通る管(精管)を切り取る手術で、精管手術とも呼ばれます",
+                "zh": "切割精子通过的输精管(输精管)的手术，也称为输精管手术",
+                "fr": "Chirurgie qui coupe le canal déférent par lequel passent les spermatozoïdes, aussi appelée chirurgie de vasectomie"
+            },
+            "example": "A vasectomy is a permanent method of birth control for men.",
+            "translation": {
+                "ko": "정관 수술은 남성을 위한 영구적인 피임 방법이다.",
+                "ja": "精管切除術は男性の永続的な避妊方法です",
+                "zh": "输精管切除术是男性永久避孕的方法",
+                "fr": "La vasectomie est une méthode contraceptive permanente pour les hommes"
+            }
+        },
+        {
+            "word": "vasodilation",
+            "part_of_speech": "",
+            "origin": "Latin, vas (vessel) + dilatare (to widen)",
+            "meaning": {
+                "ko": "혈관 확장",
+                "en": "blood vessel widening",
+                "ja": "血管拡張",
+                "zh": "血管扩张",
+                "fr": "vasodilatation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vaso-",
+                    "meaning": {
+                        "ko": "'혈관'",
+                        "en": "vessel",
+                        "ja": "血管",
+                        "zh": "血管",
+                        "fr": "vaisseau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dilation",
+                    "meaning": {
+                        "ko": "'확장'",
+                        "en": "widening",
+                        "ja": "拡張",
+                        "zh": "扩张",
+                        "fr": "dilatation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈관이 넓어지는' 현상인 '혈관 확장'을 뜻합니다.",
+                "en": "The phenomenon of blood vessels widening",
+                "ja": "血管が広がる現象",
+                "zh": "血管扩大的现象",
+                "fr": "Phénomène d'élargissement des vaisseaux"
+            },
+            "example": "Vasodilation increases blood flow.",
+            "translation": {
+                "ko": "혈관 확장은 혈류를 증가시킨다.",
+                "ja": "血管拡張は血流を増加させます。",
+                "zh": "血管扩张增加血流。",
+                "fr": "La vasodilatation augmente le flux sanguin."
+            }
+        },
+        {
+            "word": "vascular",
+            "part_of_speech": "",
+            "origin": "Latin, vasculum (a small vessel)",
+            "meaning": {
+                "ko": "작은 관",
+                "en": "small vessel",
+                "ja": "小さい管",
+                "zh": "小管",
+                "fr": "petit vaisseau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vas-",
+                    "meaning": {
+                        "ko": "'관'",
+                        "en": "vessel",
+                        "ja": "管",
+                        "zh": "管",
+                        "fr": "vaisseau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'체액이 흐르는 관, 즉 혈관이나 체관의'라는 뜻입니다.",
+                "en": "Refers to vessels that carry body fluids, such as blood vessels or sap vessels.",
+                "ja": "体液が流れる管、つまり血管や道管のことを意味します。",
+                "zh": "指体液流动的管道，即血管或导管。",
+                "fr": "Désigne les vaisseaux qui transportent les fluides corporels, comme les vaisseaux sanguins ou les vaisseaux de sève."
+            },
+            "example": "He has a vascular disease.",
+            "translation": {
+                "ko": "그는 혈관 질환을 앓고 있다.",
+                "ja": "彼は血管疾患を患っています。",
+                "zh": "他患有血管疾病。",
+                "fr": "Il souffre d'une maladie vasculaire."
+            }
+        },
+        {
+            "word": "vasculature",
+            "part_of_speech": "",
+            "origin": "Latin, vasculum (a small vessel)",
+            "meaning": {
+                "ko": "작은 관",
+                "en": "small vessel or tube",
+                "ja": "血管系",
+                "zh": "血管系统",
+                "fr": "réseau vasculaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vas-",
+                    "meaning": {
+                        "ko": "'관'",
+                        "en": "vessel",
+                        "ja": "血管",
+                        "zh": "血管",
+                        "fr": "vaisseau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 기관 내의 혈관 전체'를 의미하는 '맥관계'를 뜻합니다.",
+                "en": "The system of blood vessels within a specific organ",
+                "ja": "特定の臓器内の血管全体を指す脈管系",
+                "zh": "指特定器官内的全部血管系统",
+                "fr": "Le système complet des vaisseaux sanguins dans un organe spécifique"
+            },
+            "example": "The vasculature of the brain is very complex.",
+            "translation": {
+                "ko": "뇌의 맥관계는 매우 복잡하다.",
+                "ja": "脳の血管系は非常に複雑である。",
+                "zh": "大脑的血管系统非常复杂。",
+                "fr": "Le réseau vasculaire du cerveau est très complexe."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ium (element, chemical) barium, calcium, potassium",
+        "origin": "Latin, -ium (neuter noun ending)",
+        "meaning": {
+            "ko": "원소, 화학물질",
+            "en": "element, chemical",
+            "ja": "元素、化学物質",
+            "zh": "元素、化学物质",
+            "fr": "élément, substance chimique"
+        }
+    },
+    "words": [
+        {
+            "word": "barium",
+            "part_of_speech": "",
+            "origin": "Greek, barys (heavy)",
+            "meaning": {
+                "ko": "무거운",
+                "en": "heavy",
+                "ja": "重い",
+                "zh": "重的",
+                "fr": "lourd"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bar-",
+                    "meaning": {
+                        "ko": "'무거운'",
+                        "en": "heavy",
+                        "ja": "重い",
+                        "zh": "重的",
+                        "fr": "lourd"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ium",
+                    "meaning": {
+                        "ko": "'원소'",
+                        "en": "element",
+                        "ja": "元素",
+                        "zh": "元素",
+                        "fr": "élément"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무거운' 흙에서 발견된 원소라는 의미에서 '바륨'이라고 이름 붙여졌습니다.",
+                "en": "The name 'barium' comes from the meaning 'element found in heavy earth'.",
+                "ja": "重い土から発見された元素という意味でバリウムと命名されました。",
+                "zh": "从重土中发现的元素这一含义得名钡。",
+                "fr": "Le nom 'barium' vient de 'élément trouvé dans terre lourde'."
+            },
+            "example": "Barium is a chemical element with the symbol Ba.",
+            "translation": {
+                "ko": "바륨은 기호 Ba를 가진 화학 원소이다.",
+                "ja": "バリウムは化学記号Baを持つ化学元素です。",
+                "zh": "钡是一种化学符号为Ba的化学元素。",
+                "fr": "Le barium est un élément chimique de symbole Ba."
+            }
+        },
+        {
+            "word": "calcium",
+            "part_of_speech": "",
+            "origin": "Latin, calx (lime)",
+            "meaning": {
+                "ko": "석회",
+                "en": "lime",
+                "ja": "カルシウム",
+                "zh": "钙",
+                "fr": "calcium"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "calc-",
+                    "meaning": {
+                        "ko": "'석회'",
+                        "en": "lime",
+                        "ja": "石灰",
+                        "zh": "石灰",
+                        "fr": "chaux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ium",
+                    "meaning": {
+                        "ko": "'원소'",
+                        "en": "element",
+                        "ja": "元素",
+                        "zh": "元素",
+                        "fr": "élément"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'석회(lime)에 포함된' 원소라는 의미에서 '칼슘'이라고 이름 붙여졌습니다.",
+                "en": "Named calcium from the element contained in lime",
+                "ja": "石灰(lime)に含まれる元素という意味で'カルシウム'と名付けられました",
+                "zh": "从石灰中含有的元素这一含义被命名为'钙'",
+                "fr": "Nommé calcium d'après l'élément contenu dans la chaux"
+            },
+            "example": "Calcium is essential for strong bones.",
+            "translation": {
+                "ko": "칼슘은 튼튼한 뼈에 필수적이다.",
+                "ja": "カルシウムは強い骨に不可欠です。",
+                "zh": "钙对强健骨骼至关重要。",
+                "fr": "Le calcium est essentiel pour des os solides."
+            }
+        },
+        {
+            "word": "potassium",
+            "part_of_speech": "",
+            "origin": "New Latin, potassa (potash)",
+            "meaning": {
+                "ko": "잿물",
+                "en": "lye water or wood ash water",
+                "ja": "灰汁",
+                "zh": "草木灰汁",
+                "fr": "lessive"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "potass-",
+                    "meaning": {
+                        "ko": "'탄산칼륨'",
+                        "en": "potash",
+                        "ja": "炭酸カリウム",
+                        "zh": "碳酸钾",
+                        "fr": "potasse"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ium",
+                    "meaning": {
+                        "ko": "'원소'",
+                        "en": "chemical element",
+                        "ja": "元素",
+                        "zh": "元素",
+                        "fr": "élément"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'탄산칼륨(potash)에서 분리된' 원소라는 의미에서 '칼륨'이라고 이름 붙여졌습니다.",
+                "en": "Named potassium because it is an element separated from potash (potassium carbonate)",
+                "ja": "炭酸カリウム(potash)から分離された元素という意味で、カリウムと命名されました",
+                "zh": "因为是从碳酸钾(potash)中分离出来的元素，所以被命名为钾",
+                "fr": "Nommé potassium car c'est un élément séparé de la potasse (carbonate de potassium)"
+            },
+            "example": "Bananas are a good source of potassium.",
+            "translation": {
+                "ko": "바나나는 칼륨의 좋은 공급원이다.",
+                "ja": "バナナはカリウムの良い供給源です",
+                "zh": "香蕉是钾的良好来源",
+                "fr": "Les bananes sont une bonne source de potassium"
+            }
+        }
+    ]
+}

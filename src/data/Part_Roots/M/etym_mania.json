@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "mania (insane desire) manic, monomaniacal, kleptomaniac",
+        "origin": "Greek, mania (madness, frenzy)",
+        "meaning": {
+            "ko": "광기",
+            "en": "madness",
+            "ja": "狂気",
+            "zh": "疯狂",
+            "fr": "folie"
+        }
+    },
+    "words": [
+        {
+            "word": "manic",
+            "part_of_speech": "",
+            "origin": "Greek, manikos (mad, frantic)",
+            "meaning": {
+                "ko": "미친, 광적인",
+                "en": "crazy, fanatical",
+                "ja": "躁病的な、熱狂的な",
+                "zh": "躁狂的、疯狂的",
+                "fr": "maniaque, frénétique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "man- (mania)",
+                    "meaning": {
+                        "ko": "'광기'",
+                        "en": "madness",
+                        "ja": "狂気",
+                        "zh": "疯狂",
+                        "fr": "folie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'광기에 사로잡힌'이라는 의미에서 '조증의', '정신없는'이라는 뜻입니다.",
+                "en": "Means 'manic state', 'frenzied', or 'uncontrolled' in the sense of being seized by madness.",
+                "ja": "狂気に取り憑かれた意味で、躁病的、正気でないという意味です。",
+                "zh": "在被疯狂控制的意义上，指躁狂的、精神错乱的。",
+                "fr": "Signifie 'état maniaque', 'effréné' ou 'incontrôlable' au sens d'être saisi par la folie."
+            },
+            "example": "He was in a manic state, talking and laughing uncontrollably.",
+            "translation": {
+                "ko": "그는 조증 상태에 있어, 통제 불능으로 말하고 웃었다.",
+                "ja": "彼は躁病状態にあり、抑制できずに話したり笑ったりしていた。",
+                "zh": "他处于躁狂状态，无法控制地说话和笑。",
+                "fr": "Il était dans un état maniaque, parlant et riant sans contrôle."
+            }
+        },
+        {
+            "word": "monomaniacal",
+            "part_of_speech": "",
+            "origin": "Greek, monos (one) + mania (madness)",
+            "meaning": {
+                "ko": "하나의 광기",
+                "en": "one madness",
+                "ja": "一つの狂気",
+                "zh": "一种疯狂",
+                "fr": "une seule folie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mono-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mania-",
+                    "meaning": {
+                        "ko": "'광기'",
+                        "en": "madness",
+                        "ja": "狂気",
+                        "zh": "疯狂",
+                        "fr": "folie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 가지에만 비정상적으로 집착하는'이라는 의미에서 '편집광적인'이라는 뜻입니다.",
+                "en": "Means obsessively fixated on one thing in an abnormal way; obsessive",
+                "ja": "一つのことに異常に執着する意味で、執念深い",
+                "zh": "异常痴迷于一件事的意思，偏执狂般的",
+                "fr": "Obsédé de manière anormale par une seule chose; monomaniaque"
+            },
+            "example": "He had a monomaniacal desire for power.",
+            "translation": {
+                "ko": "그는 권력에 대한 편집광적인 욕망을 가지고 있었다.",
+                "ja": "彼は権力への執念深い欲望を持っていた。",
+                "zh": "他对权力有着执念般的渴望。",
+                "fr": "Il avait un désir monomaniaque de pouvoir."
+            }
+        },
+        {
+            "word": "kleptomaniac",
+            "part_of_speech": "",
+            "origin": "Greek, kleptes (thief) + mania (madness)",
+            "meaning": {
+                "ko": "도둑 광기",
+                "en": "stealing madness",
+                "ja": "窃盗狂",
+                "zh": "盗窃狂",
+                "fr": "cleptomane"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "klepto-",
+                    "meaning": {
+                        "ko": "'도둑질'",
+                        "en": "theft",
+                        "ja": "盗み",
+                        "zh": "盗窃",
+                        "fr": "vol"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "maniac",
+                    "meaning": {
+                        "ko": "'광'",
+                        "en": "person with a mania",
+                        "ja": "狂った人",
+                        "zh": "狂躁者",
+                        "fr": "personne atteinte de manie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물건을 훔치고 싶은 충동을 억제하지 못하는 사람'인 '병적 도벽자'를 뜻합니다.",
+                "en": "A person with pathological compulsion to steal, unable to resist the urge to take things.",
+                "ja": "物を盗みたい衝動を抑制できない病的窃盗癖のある人。",
+                "zh": "无法抑制偷窃欲望的病态盗窃癖患者。",
+                "fr": "Personne atteinte d'une compulsion pathologique au vol, incapable de résister à l'envie de voler."
+            },
+            "example": "A kleptomaniac has an irresistible urge to steal.",
+            "translation": {
+                "ko": "병적 도벽자는 훔치고 싶은 저항할 수 없는 충동을 가지고 있다.",
+                "ja": "窃盗狂患者",
+                "zh": "盗窃狂患者",
+                "fr": "cleptomane"
+            }
+        }
+    ]
+}

@@ -1,0 +1,393 @@
+{
+    "root_info": {
+        "roots": "grad, gress, gree: step, go, move",
+        "origin": "Latin, gradus (step), gradi (to walk)",
+        "meaning": {
+            "ko": "걸음, 가다, 움직이다",
+            "en": "step, to go, to move",
+            "ja": "歩く、進む、動く",
+            "zh": "步、走、动",
+            "fr": "pas, aller, bouger"
+        }
+    },
+    "words": [
+        {
+            "word": "grade",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grad",
+                    "meaning": {
+                        "ko": "단계, 걸음",
+                        "en": "step, degree",
+                        "ja": "段階、度合い",
+                        "zh": "阶段、程度",
+                        "fr": "étape, degré"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단계'라는 기본 의미에서 '등급', '학년', '성적', '경사도' 등 다양한 뜻으로 쓰입니다.",
+                "en": "From the basic meaning of 'step,' it extends to 'rank,' 'school year,' 'score,' 'slope,' and other related senses.",
+                "ja": "「段階」という基本的な意味から、「等級」「学年」「成績」「傾斜度」など様々な意味に拡張されます。",
+                "zh": "从「阶段」的基本含义扩展到「等级」「年级」「成绩」「坡度」等多种含义。",
+                "fr": "Du sens fondamental d'« étape », il s'étend à « rang », « année scolaire », « note », « pente » et autres sens connexes."
+            },
+            "example": "He got a good grade on the test.",
+            "translation": {
+                "ko": "그는 시험에서 좋은 성적을 받았다.",
+                "ja": "彼はテストで良い成績を取った。",
+                "zh": "他在考试中得到了好成绩。",
+                "fr": "Il a obtenu une bonne note à l'examen."
+            }
+        },
+        {
+            "word": "gradual",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gradu (gradus)",
+                    "meaning": {
+                        "ko": "단계",
+                        "en": "step",
+                        "ja": "段階",
+                        "zh": "步骤",
+                        "fr": "étape"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 단계씩 나아가는'이라는 의미에서 '점진적인'이라는 뜻입니다.",
+                "en": "From the sense of 'advancing step by step' comes the meaning 'proceeding by small degrees'",
+                "ja": "「一段階ずつ進む」という意味から「段階的な」という意味になりました",
+                "zh": "从「逐步前进」的含义衍生出「逐渐的」之意",
+                "fr": "Du sens « avancer étape par étape » vient le sens « progressif »"
+            },
+            "example": "There was a gradual improvement.",
+            "translation": {
+                "ko": "점진적인 개선이 있었다.",
+                "ja": "段階的な改善がありました。",
+                "zh": "有逐渐的改善。",
+                "fr": "Il y a eu une amélioration progressive."
+            }
+        },
+        {
+            "word": "gradation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grad",
+                    "meaning": {
+                        "ko": "단계",
+                        "en": "step",
+                        "ja": "段階",
+                        "zh": "阶段",
+                        "fr": "étape"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominalization suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단계적인 변화'를 의미하며, 색 등의 '점진적 변화', '그라데이션'을 뜻합니다.",
+                "en": "Means gradual change in stages; refers to progressive change of colors, etc., or gradient.",
+                "ja": "段階的な変化を意味し、色などの段階的な変化、グラデーションを表します。",
+                "zh": "表示分阶段的变化；指颜色等的渐进式变化或渐变。",
+                "fr": "Signifie un changement progressif par étapes ; désigne le changement graduel des couleurs, etc., ou dégradé."
+            },
+            "example": "I like the gradation of colors in the sunset.",
+            "translation": {
+                "ko": "나는 일몰의 색상 그라데이션을 좋아한다.",
+                "ja": "私は夕焼けの色のグラデーションが好きです。",
+                "zh": "我喜欢日落中的色彩渐变。",
+                "fr": "J'aime le dégradé de couleurs du coucher de soleil."
+            }
+        },
+        {
+            "word": "graduate",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gradu (gradus)",
+                    "meaning": {
+                        "ko": "단계",
+                        "en": "step",
+                        "ja": "段階",
+                        "zh": "阶段",
+                        "fr": "étape"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'학문의 한 단계를 마친 사람'이라는 의미에서 '졸업생'을 뜻합니다.",
+                "en": "Someone who has completed a stage of academic study; meaning 'graduate'",
+                "ja": "学問の一段階を終えた人という意味で、卒業生を意味します",
+                "zh": "完成学业的一个阶段的人，意思是毕业生",
+                "fr": "Une personne qui a terminé une étape d'études académiques; signifie diplômé"
+            },
+            "example": "She is a graduate of Harvard University.",
+            "translation": {
+                "ko": "그녀는 하버드 대학교 졸업생이다.",
+                "ja": "彼女はハーバード大学の卒業生です",
+                "zh": "她是哈佛大学的毕业生",
+                "fr": "Elle est diplômée de l'Université Harvard"
+            }
+        },
+        {
+            "word": "degrade",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "아래로",
+                        "en": "down",
+                        "ja": "下へ",
+                        "zh": "向下",
+                        "fr": "vers le bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grade",
+                    "meaning": {
+                        "ko": "단계",
+                        "en": "step",
+                        "ja": "段階",
+                        "zh": "步骤",
+                        "fr": "degré"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단계를 아래로 내리다'는 의미에서 '품위를 떨어뜨리다', '지위를 낮추다', 화학적으로는 '분해시키다'는 뜻입니다.",
+                "en": "From the meaning of 'lowering one's step', it came to mean 'to lower one's dignity', 'to reduce one's status', and chemically 'to decompose'.",
+                "ja": "'段階を下へ下ろす'という意味から、'品格を落とす'、'地位を低くする'、化学的には'分解させる'という意味になりました。",
+                "zh": "从'将步骤向下降低'的含义演变而来，后来指'降低品格'、'降低地位'，在化学上指'分解'。",
+                "fr": "Du sens de 'abaisser son degré', il en est venu à signifier 'abaisser sa dignité', 'réduire son statut', et chimiquement 'décomposer'."
+            },
+            "example": "Don't degrade yourself by lying.",
+            "translation": {
+                "ko": "거짓말로 당신의 품위를 떨어뜨리지 마세요.",
+                "ja": "嘘をついて自分を貶めてはいけません。",
+                "zh": "不要通过撒谎来贬低自己。",
+                "fr": "Ne vous dégradez pas en mentant."
+            }
+        },
+        {
+            "word": "centigrade",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "centi",
+                    "meaning": {
+                        "ko": "100",
+                        "en": "hundred",
+                        "ja": "百",
+                        "zh": "百",
+                        "fr": "cent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grade",
+                    "meaning": {
+                        "ko": "눈금, 단계",
+                        "en": "degree, step",
+                        "ja": "度、段階",
+                        "zh": "度、等级",
+                        "fr": "degré, échelon"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'100개의 눈금으로 나뉜' 온도 체계, 즉 '섭씨'를 의미합니다.",
+                "en": "A temperature scale divided into 100 degrees; also called Celsius.",
+                "ja": "100個の目盛りに分かれた温度体系、つまり『摂氏』を意味します。",
+                "zh": "分为100个刻度的温度体系，即『摄氏』的意思。",
+                "fr": "Un système de température divisé en 100 degrés, c'est-à-dire le système Celsius."
+            },
+            "example": "Water boils at 100 degrees Centigrade.",
+            "translation": {
+                "ko": "물은 섭씨 100도에서 끓는다.",
+                "ja": "水は摂氏100度で沸騰する。",
+                "zh": "水在100摄氏度时沸腾。",
+                "fr": "L'eau bout à 100 degrés Celsius."
+            }
+        },
+        {
+            "word": "aggression",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ag- (ad-)",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to, toward",
+                        "ja": "～に向かって",
+                        "zh": "向、朝着",
+                        "fr": "vers, à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gress",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "走、去",
+                        "fr": "aller"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominal suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상대를 향해 나아가는 행위'라는 의미에서, '공격', '침략', '공격성'을 뜻하게 되었습니다.",
+                "en": "From the sense of 'moving toward an opponent,' it came to mean 'attack,' 'invasion,' or 'aggressiveness.'",
+                "ja": "「相手に向かって進む行為」という意味から、「攻撃」「侵略」「攻撃性」を意味するようになりました。",
+                "zh": "从\"朝向对手前进的行为\"这一含义，演变为\"攻击\"、\"入侵\"、\"侵略性\"的意思。",
+                "fr": "Du sens de \"se diriger vers un adversaire\", il en vint à signifier \"attaque\", \"invasion\" ou \"agressivité\"."
+            },
+            "example": "The country was accused of aggression.",
+            "translation": {
+                "ko": "그 나라는 침략 행위로 비난받았다.",
+                "ja": "その国は侵略行為で非難された。",
+                "zh": "该国因侵略行为而受到谴责。",
+                "fr": "Le pays a été accusé d'agression."
+            }
+        },
+        {
+            "word": "progression",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gress",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 나아감'이라는 의미로, '진행', '발전', 수학에서는 '수열'을 의미합니다.",
+                "en": "Means 'moving forward,' and can refer to 'progress,' 'advancement,' or in mathematics, 'sequence.'",
+                "ja": "『前へ進むこと』を意味し、『進行』『発展』、また数学では『数列』を指します。",
+                "zh": "表示'向前推进'的意思，可指'进行''发展'，或在数学中指'数列'。",
+                "fr": "Signifie 'avancer', et peut désigner 'progression', 'développement', ou en mathématiques, 'suite'."
+            },
+            "example": "The disease showed a slow progression.",
+            "translation": {
+                "ko": "그 병은 느린 진행을 보였다.",
+                "ja": "進行",
+                "zh": "进行",
+                "fr": "progression"
+            }
+        },
+        {
+            "word": "progress",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gress",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 나아감'이라는 의미에서 '진전', '진행', '발전'을 뜻합니다.",
+                "en": "From the meaning of 'moving forward', it means 'advancement', 'progress', or 'development'.",
+                "ja": "'前へ進むこと'という意味から、'進展'、'進行'、'発展'を意味します。",
+                "zh": "从'向前进行'的意思，指'进展'、'进行'或'发展'。",
+                "fr": "Du sens de 'avancer', il signifie 'progrès', 'avancement' ou 'développement'."
+            },
+            "example": "We have made great progress.",
+            "translation": {
+                "ko": "우리는 큰 진전을 이루었다.",
+                "ja": "我々は大きな進展を遂げました。",
+                "zh": "我们取得了很大的进展。",
+                "fr": "Nous avons fait de grands progrès."
+            }
+        }
+    ]
+}

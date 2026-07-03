@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "tachy (rapid) tachycardia, tachyon",
+        "origin": "Greek, tachys (swift, rapid)",
+        "meaning": {
+            "ko": "빠른",
+            "en": "rapid",
+            "ja": "急速な",
+            "zh": "快速的",
+            "fr": "rapide"
+        }
+    },
+    "words": [
+        {
+            "word": "tachycardia",
+            "part_of_speech": "",
+            "origin": "Greek, tachys (rapid) + kardia (heart)",
+            "meaning": {
+                "ko": "빠른 심장",
+                "en": "fast heart rate",
+                "ja": "速い心臓",
+                "zh": "快速心跳",
+                "fr": "cœur rapide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tachy-",
+                    "meaning": {
+                        "ko": "'빠른'",
+                        "en": "rapid",
+                        "ja": "速い",
+                        "zh": "快速的",
+                        "fr": "rapide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cardia",
+                    "meaning": {
+                        "ko": "'심장'",
+                        "en": "heart",
+                        "ja": "心臓",
+                        "zh": "心脏",
+                        "fr": "cœur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장 박동이 비정상적으로 빠른' 증상인 '빈맥'을 뜻합니다.",
+                "en": "Refers to tachycardia, a condition where heartbeat is abnormally rapid",
+                "ja": "心臓の鼓動が異常に速い症状である頻脈を意味します",
+                "zh": "指心脏跳动异常加快的症状，称为心动过速",
+                "fr": "Désigne la tachycardie, une condition où les battements cardiaques sont anormalement rapides"
+            },
+            "example": "Tachycardia can be a sign of a serious heart condition.",
+            "translation": {
+                "ko": "빈맥은 심각한 심장 질환의 징후일 수 있다.",
+                "ja": "頻脈は深刻な心臓病の兆候になる可能性があります",
+                "zh": "心动过速可能是严重心脏病的征兆",
+                "fr": "La tachycardie peut être un signe d'une maladie cardiaque grave"
+            }
+        },
+        {
+            "word": "tachyon",
+            "part_of_speech": "",
+            "origin": "Greek, tachys (swift)",
+            "meaning": {
+                "ko": "빠른",
+                "en": "fast",
+                "ja": "光より速い仮想粒子",
+                "zh": "比光速更快的假想粒子",
+                "fr": "particule hypothétique plus rapide que la lumière"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tachy-",
+                    "meaning": {
+                        "ko": "'빠른'",
+                        "en": "swift",
+                        "ja": "素早い",
+                        "zh": "迅速的",
+                        "fr": "rapide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛보다 빠르게 움직인다고 가정되는' 가상의 입자인 '타키온'을 뜻합니다.",
+                "en": "A hypothetical particle assumed to move faster than light",
+                "ja": "光より速く移動すると想定される仮想粒子を意味します",
+                "zh": "指假设以超光速运动的虚拟粒子",
+                "fr": "désigne une particule hypothétique supposée se déplacer plus vite que la lumière"
+            },
+            "example": "A tachyon is a hypothetical particle that travels faster than light.",
+            "translation": {
+                "ko": "타키온은 빛보다 빠르게 이동하는 가상의 입자이다.",
+                "ja": "タキオン",
+                "zh": "超光子",
+                "fr": "tachyon"
+            }
+        }
+    ]
+}

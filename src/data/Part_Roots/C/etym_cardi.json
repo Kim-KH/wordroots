@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "cardi(o) (heart) cardiogram, cardiology",
+        "origin": "Greek, kardia (heart)",
+        "meaning": {
+            "ko": "심장",
+            "en": "heart",
+            "ja": "心臓",
+            "zh": "心脏",
+            "fr": "cœur"
+        }
+    },
+    "words": [
+        {
+            "word": "cardiogram",
+            "part_of_speech": "",
+            "origin": "Greek, kardia (heart) + gramma (thing written)",
+            "meaning": {
+                "ko": "심장의 기록",
+                "en": "record of the heart",
+                "ja": "心臓の記録",
+                "zh": "心脏的记录",
+                "fr": "enregistrement cardiaque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cardio (kardia)",
+                    "meaning": {
+                        "ko": "'심장'",
+                        "en": "heart",
+                        "ja": "心臓",
+                        "zh": "心脏",
+                        "fr": "cœur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-gram",
+                    "meaning": {
+                        "ko": "'기록'",
+                        "en": "record",
+                        "ja": "記録",
+                        "zh": "记录",
+                        "fr": "enregistrement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장(cardio)의 활동을 기록한(-gram) 것'이라는 의미로 '심전도'를 뜻합니다.",
+                "en": "A cardiogram is a record of the heart's activity, indicated by the morphemes cardio- (heart) and -gram (record).",
+                "ja": "心臓(cardio)の活動を記録した(-gram)ものという意味で、心電図を表します。",
+                "zh": "心脏(cardio)的活动记录(-gram)的意思，表示心电图。",
+                "fr": "Un cardiogramme enregistre l'activité du cœur, indiqué par les morphèmes cardio- (cœur) et -gram (enregistrement)."
+            },
+            "example": "The doctor examined the patient's cardiogram.",
+            "translation": {
+                "ko": "의사는 환자의 심전도를 검토했다.",
+                "ja": "医者は患者の心電図を調べました。",
+                "zh": "医生检查了患者的心电图。",
+                "fr": "Le médecin a examiné le cardiogramme du patient."
+            }
+        },
+        {
+            "word": "cardiology",
+            "part_of_speech": "",
+            "origin": "Greek, kardia (heart) + -logia (study)",
+            "meaning": {
+                "ko": "심장 연구",
+                "en": "study of the heart",
+                "ja": "心臓学",
+                "zh": "心脏学",
+                "fr": "cardiologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cardio (kardia)",
+                    "meaning": {
+                        "ko": "'심장'",
+                        "en": "heart",
+                        "ja": "心臓",
+                        "zh": "心脏",
+                        "fr": "cœur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study of",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "étude de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장(cardio)에 대한 학문(-logy)'이라는 의미로, 심장 및 혈관 질환을 다루는 '심장학'을 뜻합니다.",
+                "en": "The study of the heart and blood vessels; the medical specialty dealing with heart and cardiovascular diseases.",
+                "ja": "心臓(cardio)に関する学問(-logy)という意味で、心臓および血管疾患を扱う医学分野を指します。",
+                "zh": "指心脏(cardio)相关的学问(-logy)，即处理心脏及血管疾病的医学领域。",
+                "fr": "L'étude du cœur (cardio) et des maladies ; la spécialité médicale traitant des maladies cardiaques et cardiovasculaires."
+            },
+            "example": "He is a specialist in cardiology.",
+            "translation": {
+                "ko": "그는 심장학 전문의이다.",
+                "ja": "彼は心臓学の専門家です。",
+                "zh": "他是心脏学专家。",
+                "fr": "Il est spécialiste en cardiologie."
+            }
+        }
+    ]
+}

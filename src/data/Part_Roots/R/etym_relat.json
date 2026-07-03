@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "relat (carried back) relate, relative, relativity, relation",
+        "origin": "Latin, referre, relatus (to bring back)",
+        "meaning": {
+            "ko": "다시 가져오다",
+            "en": "to bring back",
+            "ja": "取り戻す",
+            "zh": "取回",
+            "fr": "ramener"
+        }
+    },
+    "words": [
+        {
+            "word": "relate",
+            "part_of_speech": "",
+            "origin": "Latin, referre (to bring back)",
+            "meaning": {
+                "ko": "다시 가져오다",
+                "en": "to bring again",
+                "ja": "関連させる",
+                "zh": "相关联",
+                "fr": "rapporter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "back",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lat-",
+                    "meaning": {
+                        "ko": "'가져오다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "携带",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 가지를 다시 가져와 연결하다'는 의미에서 '관련시키다' 또는 '이야기하다'는 뜻입니다.",
+                "en": "Connecting two things by bringing them back together; means to associate or tell",
+                "ja": "二つのものを再び持ってきて繋ぐという意味から、関連させるまたは話すという意味です",
+                "zh": "从再次携带两样东西并连接的意思引申出关联或叙述的含义",
+                "fr": "Sens de rapporter deux choses ensemble; signifie associer ou raconter"
+            },
+            "example": "I find it hard to relate to her.",
+            "translation": {
+                "ko": "나는 그녀와 관계를 맺기가 어렵다.",
+                "ja": "彼女の気持ちを理解するのは難しいです",
+                "zh": "我觉得很难与她产生共鸣",
+                "fr": "J'ai du mal à me rapporter à elle"
+            }
+        },
+        {
+            "word": "relative",
+            "part_of_speech": "",
+            "origin": "Latin, relativus (having reference to)",
+            "meaning": {
+                "ko": "관계가 있는",
+                "en": "having connection or relation",
+                "ja": "関連のある",
+                "zh": "相关的",
+                "fr": "relatif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "relat-",
+                    "meaning": {
+                        "ko": "'관련된'",
+                        "en": "related or connected",
+                        "ja": "関連した",
+                        "zh": "相关的",
+                        "fr": "connexe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 것과 관련하여 존재하는'이라는 의미에서 '상대적인' 또는 '친척'을 뜻합니다.",
+                "en": "Means 'relative' or 'comparative' when existing in relation to something else",
+                "ja": "他のものとの関連で存在する意味で、相対的またはいとこなどの親族を意味します",
+                "zh": "指与其他事物相关而存在，意为相对的或亲戚",
+                "fr": "Signifie relatif ou comparatif en existant en rapport avec autre chose"
+            },
+            "example": "\"Tall\" is a relative term.",
+            "translation": {
+                "ko": "\"키가 크다\"는 상대적인 용어이다.",
+                "ja": "高さは相対的な言葉です",
+                "zh": "高度是一个相关的术语",
+                "fr": "Grand est un terme relatif"
+            }
+        },
+        {
+            "word": "relativity",
+            "part_of_speech": "",
+            "origin": "Latin, relativus",
+            "meaning": {
+                "ko": "관계가 있는",
+                "en": "having relation or connection",
+                "ja": "相対的な関係",
+                "zh": "相对的关系",
+                "fr": "relation relative"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "relativ-",
+                    "meaning": {
+                        "ko": "'상대적인'",
+                        "en": "relative or comparative",
+                        "ja": "相対的な",
+                        "zh": "相对的",
+                        "fr": "relatif"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 것이 다른 것과 관련하여 존재한다는' 개념인 '상대성'을 뜻합니다.",
+                "en": "The concept of 'relativity' meaning that everything exists in relation to something else",
+                "ja": "すべてのものが他のものとの関係に存在するという'相対性'の概念を意味します",
+                "zh": "表示'相对性'的概念，即一切事物都与其他事物相关而存在",
+                "fr": "Le concept de 'relativité' signifiant que tout existe en relation avec autre chose"
+            },
+            "example": "Einstein's theory of relativity is famous.",
+            "translation": {
+                "ko": "아인슈타인의 상대성 이론은 유명하다.",
+                "ja": "相対性理論",
+                "zh": "相对论",
+                "fr": "théorie de la relativité"
+            }
+        },
+        {
+            "word": "relation",
+            "part_of_speech": "",
+            "origin": "Latin, relatio (a bringing back)",
+            "meaning": {
+                "ko": "다시 가져옴",
+                "en": "to retrieve again",
+                "ja": "関係、つながり",
+                "zh": "关系、联系",
+                "fr": "relation, lien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "relat-",
+                    "meaning": {
+                        "ko": "'관련된'",
+                        "en": "related",
+                        "ja": "関連した",
+                        "zh": "相关的",
+                        "fr": "connexe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 가지 이상의 것 사이의 관련성'인 '관계'를 뜻합니다.",
+                "en": "Means 'relationship' - the connection between two or more things",
+                "ja": "二つ以上のもの間の関連性を意味する'関係'です",
+                "zh": "指两个或更多事物之间的联系的'关系'",
+                "fr": "Signifie 'relation' - la connexion entre deux ou plusieurs choses"
+            },
+            "example": "What is your relation to the victim?",
+            "translation": {
+                "ko": "피해자와 어떤 관계입니까?",
+                "ja": "あなたと被害者との関係は何ですか?",
+                "zh": "你与受害人有什么关系?",
+                "fr": "Quel est votre lien avec la victime?"
+            }
+        }
+    ]
+}

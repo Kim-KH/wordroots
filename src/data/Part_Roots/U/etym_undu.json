@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "undu (wave) inundate, undulate, undulation",
+        "origin": "Latin, unda (a wave)",
+        "meaning": {
+            "ko": "파도",
+            "en": "a wave",
+            "ja": "波",
+            "zh": "波浪",
+            "fr": "une vague"
+        }
+    },
+    "words": [
+        {
+            "word": "inundate",
+            "part_of_speech": "",
+            "origin": "Latin, inundare (to overflow)",
+            "meaning": {
+                "ko": "넘쳐흐르다",
+                "en": "to overflow and flow",
+                "ja": "水浸しにする",
+                "zh": "淹没",
+                "fr": "inonder"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로, 위에'",
+                        "en": "in, upon",
+                        "ja": "中に、上に",
+                        "zh": "在...内，在...上",
+                        "fr": "en, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "und-",
+                    "meaning": {
+                        "ko": "'파도'",
+                        "en": "wave",
+                        "ja": "波",
+                        "zh": "波浪",
+                        "fr": "onde"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'파도가 밀려와 위를 덮다'는 의미에서 '침수시키다' 또는 감당 못할 정도로 '밀어닥치다'는 뜻입니다.",
+                "en": "Waves rushing in and covering means 'to submerge' or 'to overwhelm to an unmanageable degree'",
+                "ja": "波が押し寄せて覆うという意味から、'浸水させる'または対応できないほど'押し迫る'という意味です",
+                "zh": "从波浪涌来覆盖的意思，引申为'使浸水'或'压倒性地涌来'之意",
+                "fr": "Les vagues qui arrivent et couvrent signifient 'submerger' ou 'accabler de manière incontournable'"
+            },
+            "example": "The office was inundated with complaints.",
+            "translation": {
+                "ko": "그 사무실은 항의로 넘쳐났다.",
+                "ja": "その事務所は苦情で溢れかえっていた",
+                "zh": "这个办公室被投诉淹没了",
+                "fr": "Le bureau a été inondé de plaintes"
+            }
+        },
+        {
+            "word": "undulate",
+            "part_of_speech": "",
+            "origin": "Latin, undulare (to move in waves)",
+            "meaning": {
+                "ko": "파도처럼 움직이다",
+                "en": "to move like waves",
+                "ja": "波のように動く",
+                "zh": "像波浪一样运动",
+                "fr": "onduler"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "undu-",
+                    "meaning": {
+                        "ko": "'파도'",
+                        "en": "wave",
+                        "ja": "波",
+                        "zh": "波浪",
+                        "fr": "onde"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'파도처럼 위아래로 부드럽게 움직이다'는 뜻입니다.",
+                "en": "To move gently up and down like waves",
+                "ja": "波のように上下に優しく動く",
+                "zh": "像波浪一样上下柔和地运动",
+                "fr": "Se mouvoir doucement de haut en bas comme des vagues"
+            },
+            "example": "The fields of wheat undulated in the breeze.",
+            "translation": {
+                "ko": "밀밭이 산들바람에 물결쳤다.",
+                "ja": "麦畑は微風で波打った。",
+                "zh": "麦田在微风中起伏摇晃。",
+                "fr": "Les champs de blé ondulaient dans la brise."
+            }
+        },
+        {
+            "word": "undulation",
+            "part_of_speech": "",
+            "origin": "Latin, undulatio (a wave-like motion)",
+            "meaning": {
+                "ko": "파도 같은 움직임",
+                "en": "wave-like movement",
+                "ja": "波のような動き",
+                "zh": "波浪般的运动",
+                "fr": "mouvement ondulant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "undu-",
+                    "meaning": {
+                        "ko": "'파도'",
+                        "en": "wave",
+                        "ja": "波",
+                        "zh": "波浪",
+                        "fr": "onde"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'파도처럼 부드럽게 오르내리는 움직임'을 뜻합니다.",
+                "en": "Means a smooth up-and-down movement like a wave",
+                "ja": "波のようにやさしく上下する動きを意味します",
+                "zh": "指像波浪一样温和起伏的运动",
+                "fr": "Signifie un mouvement doux de haut en bas comme une onde"
+            },
+            "example": "We could see the undulations of the hills in the distance.",
+            "translation": {
+                "ko": "우리는 멀리서 언덕의 구불구불한 능선을 볼 수 있었다.",
+                "ja": "遠くの丘の起伏が見えました",
+                "zh": "我们可以看到远处山丘的起伏",
+                "fr": "Nous pouvions voir les ondulations des collines au loin"
+            }
+        }
+    ]
+}

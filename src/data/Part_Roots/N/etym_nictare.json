@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "nictare (wink) nictitate, nictitating membrane",
+        "origin": "Latin, nictare (to wink)",
+        "meaning": {
+            "ko": "눈을 깜박이다",
+            "en": "to wink",
+            "ja": "まばたきする",
+            "zh": "眨眼",
+            "fr": "cligner des yeux"
+        }
+    },
+    "words": [
+        {
+            "word": "nictitate",
+            "part_of_speech": "",
+            "origin": "Latin, nictitare (to wink repeatedly)",
+            "meaning": {
+                "ko": "계속 눈을 깜박이다",
+                "en": "to blink repeatedly",
+                "ja": "まばたきを繰り返す",
+                "zh": "反复眨眼",
+                "fr": "cligner des yeux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nict-",
+                    "meaning": {
+                        "ko": "'깜박이다'",
+                        "en": "to wink",
+                        "ja": "まばたきする",
+                        "zh": "眨眼",
+                        "fr": "cligner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "새나 파충류 등이 '눈을 깜박이다', 특히 '순막을 움직이다'라는 뜻입니다.",
+                "en": "Birds and reptiles 'wink their eyes', particularly 'move their nictitating membrane'",
+                "ja": "鳥や爬虫類などが『目をまばたかせる』、特に『瞬膜を動かす』という意味です",
+                "zh": "鸟类和爬虫类等『眨眼睛』，特别是『移动瞬膜』的意思",
+                "fr": "Les oiseaux et les reptiles 'clignent des yeux', en particulier 'bougent leur membrane nictitante'"
+            },
+            "example": "Birds can nictitate to moisten their eyes.",
+            "translation": {
+                "ko": "새들은 눈을 촉촉하게 하기 위해 눈을 깜박일 수 있다.",
+                "ja": "鳥は目を潤すために瞬膜を動かせる。",
+                "zh": "鸟类可以通过眨眼来润湿眼睛。",
+                "fr": "Les oiseaux peuvent cligner des yeux pour humidifier leurs yeux."
+            }
+        },
+        {
+            "word": "nictitating membrane",
+            "part_of_speech": "",
+            "origin": "Latin, nictitare (to wink)",
+            "meaning": {
+                "ko": "계속 눈을 깜박이다",
+                "en": "to blink continuously",
+                "ja": "瞬膜",
+                "zh": "瞬膜",
+                "fr": "membrane nictitante"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nictitat-",
+                    "meaning": {
+                        "ko": "'깜박이는'",
+                        "en": "blinking",
+                        "ja": "まばたきする",
+                        "zh": "眨眼的",
+                        "fr": "clignotant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "membrane",
+                    "meaning": {
+                        "ko": "'막'",
+                        "en": "membrane",
+                        "ja": "膜",
+                        "zh": "膜",
+                        "fr": "membrane"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "새, 파충류, 일부 포유류가 눈을 보호하기 위해 가지고 있는 '세 번째 눈꺼풀'인 '순막'을 뜻합니다.",
+                "en": "The 'third eyelid' that birds, reptiles, and some mammals have to protect their eyes",
+                "ja": "鳥類、爬虫類、一部の哺乳類が目を保護するために持つ第三の瞼である瞬膜を意味します",
+                "zh": "鸟类、爬虫类和某些哺乳动物为保护眼睛而具有的第三眼睑",
+                "fr": "La 'troisième paupière' que les oiseaux, les reptiles et certains mammifères possèdent pour protéger leurs yeux"
+            },
+            "example": "A crocodile's nictitating membrane protects its eyes underwater.",
+            "translation": {
+                "ko": "악어의 순막은 물속에서 눈을 보호한다.",
+                "ja": "瞬膜",
+                "zh": "瞬膜",
+                "fr": "membrane nictitante"
+            }
+        }
+    ]
+}

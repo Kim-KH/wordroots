@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "ignis (fire) igneous, ignite, ignition",
+        "origin": "Latin, ignis (fire)",
+        "meaning": {
+            "ko": "불",
+            "en": "fire",
+            "ja": "火",
+            "zh": "火",
+            "fr": "feu"
+        }
+    },
+    "words": [
+        {
+            "word": "igneous",
+            "part_of_speech": "",
+            "origin": "Latin, igneus (fiery)",
+            "meaning": {
+                "ko": "불의",
+                "en": "of fire",
+                "ja": "火成の",
+                "zh": "火成的",
+                "fr": "igné"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ign-",
+                    "meaning": {
+                        "ko": "'불'",
+                        "en": "fire",
+                        "ja": "火",
+                        "zh": "火",
+                        "fr": "feu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'불(마그마)로부터 형성된' 암석이라는 의미에서 '화성(암)의'라는 뜻입니다.",
+                "en": "Rock formed from magma/fire",
+                "ja": "マグマ(火)から形成された岩石の意味",
+                "zh": "由岩浆(火)形成的岩石之意",
+                "fr": "Roche formée à partir du magma/feu"
+            },
+            "example": "Granite is a type of igneous rock.",
+            "translation": {
+                "ko": "화강암은 화성암의 일종이다.",
+                "ja": "花崗岩は火成岩の一種です。",
+                "zh": "花岗岩是一种火成岩。",
+                "fr": "Le granit est un type de roche ignée."
+            }
+        },
+        {
+            "word": "ignite",
+            "part_of_speech": "",
+            "origin": "Latin, ignire (to set on fire)",
+            "meaning": {
+                "ko": "불을 붙이다",
+                "en": "to set fire to",
+                "ja": "火をつける",
+                "zh": "点燃",
+                "fr": "enflammer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ign-",
+                    "meaning": {
+                        "ko": "'불'",
+                        "en": "fire",
+                        "ja": "火",
+                        "zh": "火",
+                        "fr": "feu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'불을 붙이다', '점화하다'라는 뜻입니다.",
+                "en": "to set fire to something or ignite",
+                "ja": "何かに火をつける、点火する",
+                "zh": "点燃某物、引燃",
+                "fr": "mettre le feu à quelque chose, enflammer"
+            },
+            "example": "A spark can ignite a fire.",
+            "translation": {
+                "ko": "불꽃 하나가 불을 붙일 수 있다.",
+                "ja": "火花は火を点火することができます。",
+                "zh": "火花可以点燃火。",
+                "fr": "Une étincelle peut enflammer un feu."
+            }
+        },
+        {
+            "word": "ignition",
+            "part_of_speech": "",
+            "origin": "Latin, ignitio (a setting on fire)",
+            "meaning": {
+                "ko": "불을 붙임",
+                "en": "setting fire to something",
+                "ja": "点火、燃焼の開始",
+                "zh": "点火、引燃",
+                "fr": "allumage, ignition"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ign-",
+                    "meaning": {
+                        "ko": "'불'",
+                        "en": "fire",
+                        "ja": "火",
+                        "zh": "火",
+                        "fr": "feu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'불을 붙이는 행위' 또는 자동차의 '점화 장치'를 뜻합니다.",
+                "en": "The act of setting fire or the ignition system in a car",
+                "ja": "火をつける行為、または自動車の点火装置を意味します",
+                "zh": "点火的行为或汽车的点火装置",
+                "fr": "L'acte d'allumer un feu ou le système d'allumage d'une voiture"
+            },
+            "example": "Turn the key in the ignition to start the car.",
+            "translation": {
+                "ko": "차에 시동을 걸려면 점화 장치에 열쇠를 넣고 돌리세요.",
+                "ja": "キーを点火装置に回して車を始動する",
+                "zh": "转动钥匙启动汽车的点火装置",
+                "fr": "Tournez la clé dans le contact pour démarrer la voiture"
+            }
+        }
+    ]
+}

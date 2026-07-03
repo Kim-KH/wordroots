@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "trunc (maim) truncate, truncheon",
+        "origin": "Latin, truncus (a trunk of a tree, a trunk of the body)",
+        "meaning": {
+            "ko": "몸통",
+            "en": "a trunk",
+            "ja": "胴体",
+            "zh": "躯干",
+            "fr": "tronc"
+        }
+    },
+    "words": [
+        {
+            "word": "truncate",
+            "part_of_speech": "",
+            "origin": "Latin, truncare (to cut off)",
+            "meaning": {
+                "ko": "잘라내다",
+                "en": "to cut off",
+                "ja": "切り詰める",
+                "zh": "截断",
+                "fr": "tronquer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trunc-",
+                    "meaning": {
+                        "ko": "'몸통, 자르다'",
+                        "en": "trunk, to cut off",
+                        "ja": "幹、切る",
+                        "zh": "树干、切割",
+                        "fr": "tronc, couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나무의 윗부분을 잘라 몸통만 남기다'는 의미에서 '길이를 줄이다', '끝을 자르다'는 뜻이 되었습니다.",
+                "en": "Originally meant cutting off the upper part of a tree, leaving only the trunk; evolved to mean shortening length or cutting off the end",
+                "ja": "元々は木の上部を切り落として幹だけを残すという意味から、長さを短くする、端を切るという意味に変わりました",
+                "zh": "原本指砍掉树的上部只留下树干，后来引申为缩短长度或切掉末尾",
+                "fr": "Signifiait à l'origine couper la partie supérieure d'un arbre en ne laissant que le tronc; a évolué pour signifier raccourcir la longueur ou couper la fin"
+            },
+            "example": "The essay was truncated due to space limitations.",
+            "translation": {
+                "ko": "그 에세이는 공간 제약으로 인해 단축되었다.",
+                "ja": "そのエッセイは空間の制限のため切り詰められた",
+                "zh": "由于篇幅限制，这篇文章被截断了",
+                "fr": "L'essai a été tronqué en raison des limitations d'espace"
+            }
+        },
+        {
+            "word": "truncheon",
+            "part_of_speech": "",
+            "origin": "Old French, tronchon (a stump, a thick stick)",
+            "meaning": {
+                "ko": "그루터기, 굵은 막대기",
+                "en": "tree stump, thick stick",
+                "ja": "警棒、太い棒",
+                "zh": "警棍、粗棒",
+                "fr": "matraque, gourdin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trunc-",
+                    "meaning": {
+                        "ko": "'몸통'",
+                        "en": "trunk",
+                        "ja": "幹、胴体",
+                        "zh": "树干、躯干",
+                        "fr": "tronc"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나무 몸통에서 잘라낸 굵은 막대기'라는 의미에서 경찰이 사용하는 '곤봉'을 뜻합니다.",
+                "en": "A thick stick cut from a tree trunk, meaning a baton used by police.",
+                "ja": "木の幹から切り取った太い棒という意味で、警察が使用する警棒を指します。",
+                "zh": "从树干上切下来的粗棒子，指警察使用的警棍。",
+                "fr": "Un bâton épais coupé d'un tronc d'arbre, désignant la matraque utilisée par la police."
+            },
+            "example": "The police officer was armed with a truncheon.",
+            "translation": {
+                "ko": "그 경찰관은 곤봉으로 무장하고 있었다.",
+                "ja": "警察官は警棒で武装していた。",
+                "zh": "警察官员配备了警棍。",
+                "fr": "L'agent de police était armé d'une matraque."
+            }
+        }
+    ]
+}

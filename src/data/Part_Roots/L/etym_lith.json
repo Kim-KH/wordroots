@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "lith (stone) gastrolith, lithograph, monolith, Neolithic",
+        "origin": "Greek, lithos (stone)",
+        "meaning": {
+            "ko": "돌",
+            "en": "stone",
+            "ja": "石",
+            "zh": "石",
+            "fr": "pierre"
+        }
+    },
+    "words": [
+        {
+            "word": "gastrolith",
+            "part_of_speech": "",
+            "origin": "Greek, gaster (stomach) + lithos (stone)",
+            "meaning": {
+                "ko": "위 속의 돌",
+                "en": "stone in the stomach",
+                "ja": "胃の中の石",
+                "zh": "胃中的石头",
+                "fr": "pierre gastrique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gastro-",
+                    "meaning": {
+                        "ko": "'위'",
+                        "en": "stomach",
+                        "ja": "胃",
+                        "zh": "胃",
+                        "fr": "estomac"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lith",
+                    "meaning": {
+                        "ko": "'돌'",
+                        "en": "stone",
+                        "ja": "石",
+                        "zh": "石头",
+                        "fr": "pierre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새나 파충류가 소화를 돕기 위해 삼키는 돌'인 '위석'을 뜻합니다.",
+                "en": "A stone swallowed by birds or reptiles to aid digestion",
+                "ja": "鳥や爬虫類が消化を助けるために飲み込む石",
+                "zh": "鸟类或爬虫类为了帮助消化而吞下的石头",
+                "fr": "Pierre avalée par les oiseaux ou les reptiles pour faciliter la digestion"
+            },
+            "example": "Some dinosaurs swallowed gastroliths to help grind their food.",
+            "translation": {
+                "ko": "일부 공룡들은 음식을 가는 데 도움이 되도록 위석을 삼켰다.",
+                "ja": "ガストロリス",
+                "zh": "胃石",
+                "fr": "gastrolite"
+            }
+        },
+        {
+            "word": "lithograph",
+            "part_of_speech": "",
+            "origin": "Greek, lithos (stone) + graphein (to write)",
+            "meaning": {
+                "ko": "돌에 쓰기",
+                "en": "writing on stone",
+                "ja": "石に描く印刷",
+                "zh": "石头上的印刷",
+                "fr": "impression sur pierre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "litho-",
+                    "meaning": {
+                        "ko": "'돌'",
+                        "en": "stone",
+                        "ja": "石",
+                        "zh": "石头",
+                        "fr": "pierre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "'그림, 인쇄'",
+                        "en": "drawing",
+                        "ja": "描画、印刷",
+                        "zh": "绘画、印刷",
+                        "fr": "dessin, impression"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'석판을 이용한 인쇄술'인 '석판화'를 뜻합니다.",
+                "en": "A printing technique using a stone plate",
+                "ja": "石版を使った印刷技術",
+                "zh": "使用石板的印刷技术",
+                "fr": "technique d'impression utilisant une plaque de pierre"
+            },
+            "example": "The artist is famous for his colorful lithographs.",
+            "translation": {
+                "ko": "그 화가는 화려한 석판화로 유명하다.",
+                "ja": "その芸術家はカラフルなリトグラフで有名です。",
+                "zh": "这位艺术家以其彩色平版画而闻名。",
+                "fr": "L'artiste est célèbre pour ses lithographies colorées."
+            }
+        },
+        {
+            "word": "monolith",
+            "part_of_speech": "",
+            "origin": "Greek, mono- (one) + lithos (stone)",
+            "meaning": {
+                "ko": "하나의 돌",
+                "en": "one stone",
+                "ja": "一つの石",
+                "zh": "一块石头",
+                "fr": "une seule pierre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mono-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lith",
+                    "meaning": {
+                        "ko": "'돌'",
+                        "en": "stone",
+                        "ja": "石",
+                        "zh": "石头",
+                        "fr": "pierre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'통째로 된 하나의 큰 돌'이라는 의미에서 '거석', '독석'을 뜻합니다.",
+                "en": "Means a large single stone block, as in 'megalith' or 'monolith'",
+                "ja": "一つの大きな石のかたまりを意味し、『巨石』や『独石』を表します",
+                "zh": "表示一整块的大石头，意为'巨石'或'独立的石头'",
+                "fr": "Signifie un grand bloc de pierre unique, comme dans 'mégalithe' ou 'monolithe'"
+            },
+            "example": "The statue was carved from a single monolith.",
+            "translation": {
+                "ko": "그 조각상은 하나의 거석으로 조각되었다.",
+                "ja": "その像は一つの巨石から彫刻された。",
+                "zh": "这座雕像是从一块巨石中雕刻而成的。",
+                "fr": "La statue a été sculptée dans un seul monolithe."
+            }
+        },
+        {
+            "word": "Neolithic",
+            "part_of_speech": "",
+            "origin": "Greek, neos (new) + lithos (stone)",
+            "meaning": {
+                "ko": "새로운 돌",
+                "en": "new stone",
+                "ja": "新しい石の時代",
+                "zh": "新石器时代",
+                "fr": "nouvel âge de pierre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Neo-",
+                    "meaning": {
+                        "ko": "'새로운'",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lithic",
+                    "meaning": {
+                        "ko": "'돌의'",
+                        "en": "of stone",
+                        "ja": "石の",
+                        "zh": "石头的",
+                        "fr": "de pierre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새로운 석기 시대'라는 의미에서 '신석기 시대의'라는 뜻입니다.",
+                "en": "Refers to the Neolithic period, meaning the age of new stone tools",
+                "ja": "新しい石の道具の時代を意味する新石器時代を指します",
+                "zh": "指新石器时代，意为新石头工具的时代",
+                "fr": "Désigne la période néolithique, signifiant l'âge des nouveaux outils en pierre"
+            },
+            "example": "Agriculture developed during the Neolithic period.",
+            "translation": {
+                "ko": "농업은 신석기 시대에 발달했다.",
+                "ja": "新石器時代",
+                "zh": "新石器时代",
+                "fr": "Néolithique"
+            }
+        }
+    ]
+}

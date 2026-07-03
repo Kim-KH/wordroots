@@ -1,0 +1,225 @@
+{
+    "root_info": {
+        "roots": "ver: true",
+        "origin": "Latin, verus",
+        "meaning": {
+            "ko": "진실한",
+            "en": "true",
+            "ja": "真実の",
+            "zh": "真实的",
+            "fr": "vrai"
+        }
+    },
+    "words": [
+        {
+            "word": "veracity",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ver",
+                    "meaning": {
+                        "ko": "진실",
+                        "en": "truth",
+                        "ja": "真実",
+                        "zh": "真实",
+                        "fr": "vérité"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-acity",
+                    "meaning": {
+                        "ko": "성질",
+                        "en": "quality or nature",
+                        "ja": "性質",
+                        "zh": "性质",
+                        "fr": "qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진실된 성질'이라는 의미에서, '진실성', '정확성'을 뜻합니다.",
+                "en": "From the quality of being truthful; means truthfulness or accuracy.",
+                "ja": "「真実の性質」という意味から、「真実性」「正確性」を意味します。",
+                "zh": "从「真实的性质」的意思，表示「真实性」「准确性」。",
+                "fr": "De la qualité d'être véridique ; signifie sincérité ou précision."
+            },
+            "example": "I do not doubt the veracity of his statement.",
+            "translation": {
+                "ko": "나는 그의 진술의 진실성을 의심하지 않는다.",
+                "ja": "私は彼の陳述の真実性を疑わない。",
+                "zh": "我不怀疑他的陈述的真实性。",
+                "fr": "Je ne doute pas de la véracité de sa déclaration."
+            }
+        },
+        {
+            "word": "verity",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ver",
+                    "meaning": {
+                        "ko": "진실",
+                        "en": "truth",
+                        "ja": "真実",
+                        "zh": "真理",
+                        "fr": "vérité"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진실인 상태'라는 의미에서 '진실', '진리'를 뜻하는 격식 있는 단어입니다.",
+                "en": "A formal word meaning 'truth' or 'fundamental principle', derived from the state of being true.",
+                "ja": "真実である状態から派生した、『真実』『真理』を意味する格式的な単語です。",
+                "zh": "源于'真实的状态'，表示'真理'或'真实'的正式用语。",
+                "fr": "Mot formel signifiant 'vérité' ou 'principe fondamental', dérivé de l'état d'être vrai."
+            },
+            "example": "She spoke a profound verity.",
+            "translation": {
+                "ko": "그녀는 심오한 진리를 말했다.",
+                "ja": "彼女は深い真理を述べた。",
+                "zh": "她说出了深刻的真理。",
+                "fr": "Elle a énoncé une vérité profonde."
+            }
+        },
+        {
+            "word": "aver",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ver",
+                    "meaning": {
+                        "ko": "진실",
+                        "en": "truth",
+                        "ja": "真実",
+                        "zh": "真实",
+                        "fr": "vérité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진실 쪽으로 말하다'는 의미에서, 사실이라고 '단언하다', '주장하다'는 뜻입니다.",
+                "en": "From the sense of 'speaking toward truth', meaning to assert or claim as fact",
+                "ja": "真実に向かって話すという意味から、事実だと強く主張する、断定するという意味です",
+                "zh": "从朝向真实的意思引申，表示坚定地声称或主张为事实",
+                "fr": "Du sens de 'parler vers la vérité', signifiant affirmer ou prétendre comme étant un fait"
+            },
+            "example": "He averred that he was innocent.",
+            "translation": {
+                "ko": "그는 자신이 무죄라고 단언했다.",
+                "ja": "彼は自分が無罪だと断定した。",
+                "zh": "他声称自己是无辜的。",
+                "fr": "Il a affirmé qu'il était innocent."
+            }
+        },
+        {
+            "word": "verisimilitude",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "veri",
+                    "meaning": {
+                        "ko": "진실",
+                        "en": "truth",
+                        "ja": "真実",
+                        "zh": "真实",
+                        "fr": "vérité"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "similitude",
+                    "meaning": {
+                        "ko": "유사함",
+                        "en": "likeness",
+                        "ja": "似ていること",
+                        "zh": "相似",
+                        "fr": "ressemblance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진실과 유사함'이라는 의미로, 이야기나 묘사가 '진짜 같은 느낌', '신빙성'을 뜻합니다.",
+                "en": "From Latin 'verus' (true) and 'similis' (like); refers to the quality of appearing true or authentic in a narrative or description.",
+                "ja": "「真実に似ている」という意味で、物語や描写が「本当らしい感じ」、「信憑性」を持つことを表します。",
+                "zh": "由拉丁文「真实」和「相似」组成，表示叙述或描写具有「逼真感」和「可信度」的特质。",
+                "fr": "Du latin « verus » (vrai) et « similis » (semblable); qualité d'apparaître vrai ou authentique dans un récit ou une description."
+            },
+            "example": "The novel has a great sense of verisimilitude.",
+            "translation": {
+                "ko": "그 소설은 대단한 사실감을 준다.",
+                "ja": "その小説は非常にリアリティがある。",
+                "zh": "这部小说具有很强的逼真感。",
+                "fr": "Le roman a un grand sens du vraisemblable."
+            }
+        },
+        {
+            "word": "verify",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ver",
+                    "meaning": {
+                        "ko": "진실",
+                        "en": "truth",
+                        "ja": "真実",
+                        "zh": "真实",
+                        "fr": "vérité"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make",
+                        "ja": "～にする",
+                        "zh": "使～",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진실이 되게 만들다'는 의미에서, 정보 등이 '사실임을 확인하다', '입증하다'는 뜻입니다.",
+                "en": "From 'to make true': to confirm that information is factual; to substantiate.",
+                "ja": "「真実にする」という意味から、情報などが「事実であることを確認する」「立証する」という意味になります。",
+                "zh": "从\"使其成为真实\"的意思衍生，指确认信息等\"是事实\"、\"证实\"。",
+                "fr": "Du sens « rendre vrai » : confirmer qu'une information est factuelle ; prouver."
+            },
+            "example": "We need to verify the information.",
+            "translation": {
+                "ko": "우리는 그 정보를 확인할 필요가 있다.",
+                "ja": "私たちはその情報を確認する必要があります。",
+                "zh": "我们需要验证这些信息。",
+                "fr": "Nous devons vérifier l'information."
+            }
+        }
+    ]
+}

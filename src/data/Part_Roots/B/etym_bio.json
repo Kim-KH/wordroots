@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "bio (life) biography, biology, biosphere, biopsy",
+        "origin": "Greek, bios (life)",
+        "meaning": {
+            "ko": "생명, 삶",
+            "en": "life",
+            "ja": "命、生命",
+            "zh": "生命",
+            "fr": "vie"
+        }
+    },
+    "words": [
+        {
+            "word": "biography",
+            "part_of_speech": "",
+            "origin": "Greek, biographia (description of life)",
+            "meaning": {
+                "ko": "삶을 기록함",
+                "en": "life writing",
+                "ja": "人生の記録",
+                "zh": "生平记录",
+                "fr": "récit de vie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio (bios)",
+                    "meaning": {
+                        "ko": "'삶, 인생'",
+                        "en": "life",
+                        "ja": "人生、生涯",
+                        "zh": "生命、人生",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graphy (graphein)",
+                    "meaning": {
+                        "ko": "'쓰다, 기록하다'",
+                        "en": "to write",
+                        "ja": "書く、記録する",
+                        "zh": "写、记录",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "한 사람의 '인생(bio)에 대해 쓴 글(graphy)'이라는 의미로, '전기', '일대기'를 뜻합니다.",
+                "en": "A written account of a person's life (bio=life, graphy=writing), meaning a biographical record or life history.",
+                "ja": "ある人物の人生(bio)について書いた文(graphy)という意味で、伝記や一代記を意味します。",
+                "zh": "关于某人的人生(bio)所写的文章(graphy)的含义,指传记或生平记录。",
+                "fr": "Un écrit concernant la vie (bio) d'une personne (graphy=écriture), signifiant une biographie ou histoire de vie."
+            },
+            "example": "He wrote a biography of Winston Churchill.",
+            "translation": {
+                "ko": "그는 윈스턴 처칠의 전기를 썼다.",
+                "ja": "彼はウィンストン・チャーチルの伝記を書いた。",
+                "zh": "他写了温斯顿·丘吉尔的传记。",
+                "fr": "Il a écrit une biographie de Winston Churchill."
+            }
+        },
+        {
+            "word": "biology",
+            "part_of_speech": "",
+            "origin": "Greek, bios (life) + logia (study)",
+            "meaning": {
+                "ko": "생명 연구",
+                "en": "study of life",
+                "ja": "生命の研究",
+                "zh": "生命研究",
+                "fr": "étude de la vie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio (bios)",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy (logia)",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study of",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "étude de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생명(bio)에 대한 학문(logy)'이라는 의미로, 생물의 구조, 기능, 성장, 기원, 진화, 분포 등을 연구하는 '생물학'을 의미합니다.",
+                "en": "Biology refers to the scientific study of living organisms, including their structure, function, growth, origin, evolution, and distribution.",
+                "ja": "生命(bio)に関する学問(logy)という意味で、生物の構造、機能、成長、起源、進化、分布などを研究する生物学を意味します。",
+                "zh": "生命(bio)相关的学问(logy)之意，指研究生物的结构、功能、成长、起源、进化、分布等的生物学。",
+                "fr": "La biologie désigne l'étude scientifique des organismes vivants, y compris leur structure, fonction, croissance, origine, évolution et distribution."
+            },
+            "example": "She is a professor of biology at a major university.",
+            "translation": {
+                "ko": "그녀는 주요 대학의 생물학 교수이다.",
+                "ja": "彼女は大手大学の生物学教授です。",
+                "zh": "她是一所大型大学的生物学教授。",
+                "fr": "Elle est professeure de biologie dans une grande université."
+            }
+        },
+        {
+            "word": "biosphere",
+            "part_of_speech": "",
+            "origin": "Greek, bios (life) + sphaira (sphere)",
+            "meaning": {
+                "ko": "생명이 있는 영역",
+                "en": "sphere of life",
+                "ja": "生命が存在する領域",
+                "zh": "生命存在的范围",
+                "fr": "sphère de la vie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio (bios)",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sphere",
+                    "meaning": {
+                        "ko": "'구, 영역'",
+                        "en": "sphere",
+                        "ja": "球、領域",
+                        "zh": "球、范围",
+                        "fr": "sphère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생명(bio)이 존재하는 영역(sphere)'이라는 의미로, 지구에서 모든 생물이 사는 공간인 '생물권'을 가리킵니다.",
+                "en": "The biosphere refers to the 'biotic sphere' - the space on Earth where all living organisms exist, composed of the morphemes bio (life) and sphere (sphere/region).",
+                "ja": "生物圏とは、『生命』が存在する『領域』という意味で、地球上のすべての生物が生きる空間を指します。",
+                "zh": "生物圈指的是'生命'存在的'范围'，是指地球上所有生物生活的空间。",
+                "fr": "La biosphère fait référence à la 'sphère biotique' - l'espace sur Terre où existent tous les organismes vivants, composée des morphèmes bio (vie) et sphère (région)."
+            },
+            "example": "The biosphere includes all living organisms and their environments.",
+            "translation": {
+                "ko": "생물권은 모든 살아있는 유기체와 그 환경을 포함한다.",
+                "ja": "生物圏",
+                "zh": "生物圈",
+                "fr": "biosphère"
+            }
+        },
+        {
+            "word": "biopsy",
+            "part_of_speech": "",
+            "origin": "Greek, bios (life) + opsis (sight)",
+            "meaning": {
+                "ko": "생명을 들여다봄",
+                "en": "a sight of life",
+                "ja": "生命を見つめること",
+                "zh": "生命的观察",
+                "fr": "examen de la vie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio (bios)",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opsy (opsis)",
+                    "meaning": {
+                        "ko": "'보다, 검사'",
+                        "en": "sight, examination",
+                        "ja": "見る、検査",
+                        "zh": "观察、检查",
+                        "fr": "regard, examen"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'살아있는(bio) 조직을 눈으로 보는(opsy) 것'이라는 의미에서, 질병 진단을 위해 살아있는 신체에서 조직 샘플을 채취하여 검사하는 '생검'을 의미합니다.",
+                "en": "A medical procedure where tissue samples are taken from a living body to examine for disease diagnosis, derived from 'bio' (living tissue) and 'opsy' (viewing).",
+                "ja": "生きた組織(bio)を目で見る(opsy)という意味から、病気の診断のために生きた身体から組織サンプルを採取して検査する生検を意味します。",
+                "zh": "从'bio'(活体组织)和'opsy'(观察)的含义出发，指为诊断疾病而从活体身体中采集组织样本进行检查的活检。",
+                "fr": "Procédure médicale dérivée de 'bio' (tissu vivant) et 'opsy' (observation), consistant à prélever des échantillons de tissu sur un corps vivant pour examiner et diagnostiquer une maladie."
+            },
+            "example": "The doctor performed a biopsy to check for cancer cells.",
+            "translation": {
+                "ko": "의사는 암세포를 확인하기 위해 생검을 실시했다.",
+                "ja": "医師はがん細胞をチェックするための生検を行いました。",
+                "zh": "医生进行了活检以检查癌细胞。",
+                "fr": "Le médecin a effectué une biopsie pour vérifier la présence de cellules cancéreuses."
+            }
+        }
+    ]
+}

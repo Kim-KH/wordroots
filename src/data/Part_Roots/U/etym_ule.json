@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ule (small) granule, module, vestibular",
+        "origin": "Latin, -ulus (diminutive suffix)",
+        "meaning": {
+            "ko": "작은",
+            "en": "small",
+            "ja": "小さい",
+            "zh": "小的",
+            "fr": "petit"
+        }
+    },
+    "words": [
+        {
+            "word": "granule",
+            "part_of_speech": "",
+            "origin": "Latin, granulum (a little grain)",
+            "meaning": {
+                "ko": "작은 낟알",
+                "en": "small grain",
+                "ja": "小さな粒",
+                "zh": "小颗粒",
+                "fr": "petit grain"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gran-",
+                    "meaning": {
+                        "ko": "'낟알'",
+                        "en": "grain",
+                        "ja": "穀粒",
+                        "zh": "谷粒",
+                        "fr": "grain"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ule",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さいもの",
+                        "zh": "小的东西",
+                        "fr": "petite chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 알갱이'를 뜻합니다.",
+                "en": "Means small particles or grains",
+                "ja": "小さな粒状のことを意味します",
+                "zh": "表示小的粒状物",
+                "fr": "Signifie petites particules ou grains"
+            },
+            "example": "The coffee was ground into fine granules.",
+            "translation": {
+                "ko": "그 커피는 고운 알갱이로 갈렸다.",
+                "ja": "コーヒーは細かい粒に挽かれていました",
+                "zh": "咖啡被研磨成细小的颗粒",
+                "fr": "Le café a été moulu en fines granules"
+            }
+        },
+        {
+            "word": "module",
+            "part_of_speech": "",
+            "origin": "Latin, modulus (a small measure)",
+            "meaning": {
+                "ko": "작은 척도",
+                "en": "small measure or unit",
+                "ja": "小さな単位",
+                "zh": "小单位",
+                "fr": "petite unité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mod-",
+                    "meaning": {
+                        "ko": "'척도'",
+                        "en": "measure",
+                        "ja": "尺度",
+                        "zh": "衡量",
+                        "fr": "mesure"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ule",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さいもの",
+                        "zh": "小的东西",
+                        "fr": "petite chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전체의 일부를 이루는 표준화된 작은 단위'인 '모듈'을 뜻합니다.",
+                "en": "Refers to 'module', a standardized small unit that forms part of a whole.",
+                "ja": "全体の一部を構成する標準化された小さな単位を意味します。",
+                "zh": "指构成整体一部分的标准化小单位。",
+                "fr": "Désigne une petite unité standardisée qui forme partie d'un ensemble."
+            },
+            "example": "The course is divided into several modules.",
+            "translation": {
+                "ko": "그 강좌는 여러 모듈로 나뉘어 있다.",
+                "ja": "このコースはいくつかのモジュールに分かれています。",
+                "zh": "这门课程被分为几个模块。",
+                "fr": "Le cours est divisé en plusieurs modules."
+            }
+        },
+        {
+            "word": "vestibular",
+            "part_of_speech": "",
+            "origin": "Latin, vestibulum (entrance court)",
+            "meaning": {
+                "ko": "입구",
+                "en": "entrance or vestibule",
+                "ja": "前庭の",
+                "zh": "前庭的",
+                "fr": "vestibulaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vestibul-",
+                    "meaning": {
+                        "ko": "'전정'",
+                        "en": "vestibule or entrance chamber",
+                        "ja": "前庭",
+                        "zh": "前庭",
+                        "fr": "vestibule"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ar",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "안뜰(vestibule) 모양의 '귀 안쪽 평형 기관'인 '전정 기관의'라는 뜻입니다. (ule이 직접적인 diminutive는 아님)",
+                "en": "The vestibular system is the balance organ inside the ear, shaped like an atrium (vestibule). The suffix -ule is a diminutive but not the primary meaning here.",
+                "ja": "前庭は耳の内側にある平衡器官で、玄関室(前庭)のような形をしている。接尾辞-uleは縮小形だが、ここでは主な意味ではない。",
+                "zh": "前庭是耳内的平衡器官,形状像门厅(前庭)。后缀-ule是缩小词,但在此不是主要含义。",
+                "fr": "Le vestibule est l'organe d'équilibre à l'intérieur de l'oreille, en forme d'atrium (vestibule). Le suffixe -ule est un diminutif mais n'est pas le sens principal ici."
+            },
+            "example": "The vestibular system is responsible for our sense of balance.",
+            "translation": {
+                "ko": "전정계는 우리의 균형 감각을 담당한다.",
+                "ja": "前庭システムは私たちのバランス感覚を担当している。",
+                "zh": "前庭系统负责我们的平衡感。",
+                "fr": "Le système vestibulaire est responsable de notre sens de l'équilibre."
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "trauma (injury) trauma, traumatic, traumatize",
+        "origin": "Greek, trauma (a wound)",
+        "meaning": {
+            "ko": "상처",
+            "en": "a wound",
+            "ja": "傷",
+            "zh": "伤口",
+            "fr": "une blessure"
+        }
+    },
+    "words": [
+        {
+            "word": "trauma",
+            "part_of_speech": "",
+            "origin": "Greek, trauma (a wound)",
+            "meaning": {
+                "ko": "상처",
+                "en": "wound or injury",
+                "ja": "心身の外傷",
+                "zh": "心理创伤",
+                "fr": "traumatisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trauma-",
+                    "meaning": {
+                        "ko": "'상처'",
+                        "en": "wound",
+                        "ja": "傷",
+                        "zh": "伤口",
+                        "fr": "blessure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신체적 외상' 또는 '정신적 충격'을 뜻합니다.",
+                "en": "Physical injury or psychological shock",
+                "ja": "身体的または精神的なダメージ",
+                "zh": "身体或心理的伤害",
+                "fr": "Blessure physique ou choc psychologique"
+            },
+            "example": "She suffered a great deal of trauma after the accident.",
+            "translation": {
+                "ko": "그녀는 그 사고 이후 엄청난 정신적 충격을 겪었다.",
+                "ja": "彼女は事故後、大きなトラウマに苦しんだ。",
+                "zh": "事故后，她遭受了巨大的心理创伤。",
+                "fr": "Elle a beaucoup souffert d'un traumatisme après l'accident."
+            }
+        },
+        {
+            "word": "traumatic",
+            "part_of_speech": "",
+            "origin": "Greek, traumatikos (of a wound)",
+            "meaning": {
+                "ko": "상처의",
+                "en": "of or relating to a wound",
+                "ja": "心的外傷的な",
+                "zh": "创伤的",
+                "fr": "traumatisant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trauma-",
+                    "meaning": {
+                        "ko": "'상처'",
+                        "en": "wound",
+                        "ja": "傷",
+                        "zh": "伤口",
+                        "fr": "blessure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신적 충격을 주는', '외상의'라는 뜻입니다.",
+                "en": "Describes something causing psychological shock or injury",
+                "ja": "精神的衝撃を与える、外傷的という意味です",
+                "zh": "引起心理创伤或伤害的事物",
+                "fr": "Décrit quelque chose causant un choc psychologique ou une blessure"
+            },
+            "example": "It was a traumatic experience for her.",
+            "translation": {
+                "ko": "그것은 그녀에게 충격적인 경험이었다.",
+                "ja": "それは彼女にとって心的外傷的な経験だった。",
+                "zh": "那对她来说是一次创伤性的经历。",
+                "fr": "C'était une expérience traumatisante pour elle."
+            }
+        },
+        {
+            "word": "traumatize",
+            "part_of_speech": "",
+            "origin": "Greek, trauma (a wound)",
+            "meaning": {
+                "ko": "상처",
+                "en": "wound or injury",
+                "ja": "心的外傷を与える",
+                "zh": "造成心理创伤",
+                "fr": "causer un traumatisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trauma-",
+                    "meaning": {
+                        "ko": "'상처'",
+                        "en": "wound",
+                        "ja": "傷",
+                        "zh": "伤口",
+                        "fr": "blessure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신적 충격을 주다'는 뜻입니다.",
+                "en": "To cause psychological shock or emotional injury",
+                "ja": "心理的ショックや感情的損傷を与えること",
+                "zh": "造成心理冲击或情感伤害",
+                "fr": "Causer un choc psychologique ou une blessure émotionnelle"
+            },
+            "example": "The soldiers were traumatized by their experiences in the war.",
+            "translation": {
+                "ko": "그 군인들은 전쟁에서의 경험으로 정신적 충격을 받았다.",
+                "ja": "兵士たちは戦争での経験によって心的外傷を受けました。",
+                "zh": "士兵们因战争经历而遭受心理创伤。",
+                "fr": "Les soldats ont été traumatisés par leurs expériences à la guerre."
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "system (stand together) systemic, systematic, systematize",
+        "origin": "Greek, systema (an organized whole)",
+        "meaning": {
+            "ko": "조직된 전체",
+            "en": "an organized whole",
+            "ja": "組織された全体",
+            "zh": "有组织的整体",
+            "fr": "un tout organisé"
+        }
+    },
+    "words": [
+        {
+            "word": "systemic",
+            "part_of_speech": "",
+            "origin": "Greek, systema",
+            "meaning": {
+                "ko": "조직된 전체",
+                "en": "organized whole",
+                "ja": "体系的な全体",
+                "zh": "系统性的整体",
+                "fr": "systémique global"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "system-",
+                    "meaning": {
+                        "ko": "'체계'",
+                        "en": "system",
+                        "ja": "体系",
+                        "zh": "系统",
+                        "fr": "système"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'부분이 아닌 전체 체계에 영향을 미치는'이라는 의미에서 '전신(全身)의'라는 뜻입니다.",
+                "en": "Meaning affects the entire system, not just parts",
+                "ja": "部分ではなく全体システムに影響を与える意味",
+                "zh": "影响整个系统而非部分的意思",
+                "fr": "Signifie affectant tout le système plutôt que les parties"
+            },
+            "example": "The disease has a systemic effect on the body.",
+            "translation": {
+                "ko": "그 질병은 몸 전체에 영향을 미친다.",
+                "ja": "その病気は体全体に systemic な影響がある。",
+                "zh": "这种疾病对身体有systemic的影响。",
+                "fr": "La maladie a un effet systémique sur le corps."
+            }
+        },
+        {
+            "word": "systematic",
+            "part_of_speech": "",
+            "origin": "Greek, systematikos",
+            "meaning": {
+                "ko": "체계적인",
+                "en": "systematic or methodical",
+                "ja": "体系的な",
+                "zh": "系统的",
+                "fr": "systématique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "system-",
+                    "meaning": {
+                        "ko": "'체계'",
+                        "en": "system",
+                        "ja": "体系",
+                        "zh": "系统",
+                        "fr": "système"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정해진 체계에 따라 이루어지는'이라는 의미에서 '체계적인'이라는 뜻입니다.",
+                "en": "Meaning 'systematic' in the sense of being carried out according to a fixed system or structure.",
+                "ja": "決められた体系に従って行われるという意味で'体系的な'という意味です",
+                "zh": "按照既定系统进行的意思",
+                "fr": "Signifie 'systématique' au sens de ce qui est réalisé selon un système ou une structure établi"
+            },
+            "example": "We need a systematic approach to solve the problem.",
+            "translation": {
+                "ko": "우리는 그 문제를 해결하기 위해 체계적인 접근법이 필요하다.",
+                "ja": "問題を解くために体系的なアプローチが必要です",
+                "zh": "我们需要系统的方法来解决这个问题",
+                "fr": "Nous avons besoin d'une approche systématique pour résoudre le problème"
+            }
+        },
+        {
+            "word": "systematize",
+            "part_of_speech": "",
+            "origin": "Greek, systema",
+            "meaning": {
+                "ko": "조직된 전체",
+                "en": "organized whole",
+                "ja": "体系的に整理する",
+                "zh": "系统地组织",
+                "fr": "organiser systématiquement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "system-",
+                    "meaning": {
+                        "ko": "'체계'",
+                        "en": "system",
+                        "ja": "体系",
+                        "zh": "系统",
+                        "fr": "système"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'체계적으로 정리하다', '체계화하다'는 뜻입니다.",
+                "en": "To organize or arrange something in a systematic way",
+                "ja": "体系的に整理する、体系化するという意味です",
+                "zh": "有条理地组织，系统化的意思",
+                "fr": "Organiser de manière systématique, mettre en système"
+            },
+            "example": "He tried to systematize his collection of stamps.",
+            "translation": {
+                "ko": "그는 자신의 우표 수집품을 체계화하려고 노력했다.",
+                "ja": "彼は切手のコレクションを体系的に整理しようとした",
+                "zh": "他试图系统地整理他的邮票收藏",
+                "fr": "Il a essayé de systématiser sa collection de timbres"
+            }
+        }
+    ]
+}

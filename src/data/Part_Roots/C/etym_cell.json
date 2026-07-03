@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "cell (room) cell, cellular",
+        "origin": "Latin, cella (small room, storeroom)",
+        "meaning": {
+            "ko": "작은 방",
+            "en": "small room",
+            "ja": "小部屋",
+            "zh": "小房间",
+            "fr": "petite chambre"
+        }
+    },
+    "words": [
+        {
+            "word": "cell",
+            "part_of_speech": "",
+            "origin": "Latin, cella (small room)",
+            "meaning": {
+                "ko": "작은 방",
+                "en": "small room",
+                "ja": "小さな部屋",
+                "zh": "小房间",
+                "fr": "petite pièce"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cell (cella)",
+                    "meaning": {
+                        "ko": "'작은 방'",
+                        "en": "small room",
+                        "ja": "小さな部屋",
+                        "zh": "小房间",
+                        "fr": "petite pièce"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "수도사들이 머물던 '작은 방'에서 유래하여, 생물체를 구성하는 기본 단위인 '세포', 감옥의 '감방' 등 작게 구획된 공간을 의미하게 되었습니다.",
+                "en": "Originated from the 'small rooms' where monks lived, and came to mean 'cells' as the basic units composing living organisms, as well as 'prison cells' and other small partitioned spaces.",
+                "ja": "修道士たちが住んでいた『小さな部屋』に由来し、生物体を構成する基本単位である『細胞』、刑務所の『獄舎』など、小さく区画された空間を意味するようになりました。",
+                "zh": "源于修道士居住的'小房间'，后来指生物体的基本单位'细胞'、监狱的'牢房'等小的分隔空间。",
+                "fr": "Originaire des 'petites pièces' où vivaient les moines, ce terme s'est étendu pour désigner les 'cellules' comme unités de base des organismes vivants, ainsi que les 'cellules de prison' et autres espaces cloisonnés."
+            },
+            "example": "The human body is made up of trillions of cells.",
+            "translation": {
+                "ko": "인체는 수조 개의 세포로 이루어져 있다.",
+                "ja": "人体は何兆個もの細胞で構成されています。",
+                "zh": "人体由数万亿个细胞组成。",
+                "fr": "Le corps humain est composé de trillions de cellules."
+            }
+        },
+        {
+            "word": "cellular",
+            "part_of_speech": "",
+            "origin": "Latin, cellula (little room)",
+            "meaning": {
+                "ko": "작은 방",
+                "en": "small room",
+                "ja": "小さい室",
+                "zh": "小房间",
+                "fr": "petite chambre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cell (cella)",
+                    "meaning": {
+                        "ko": "'방'",
+                        "en": "room",
+                        "ja": "室",
+                        "zh": "房间",
+                        "fr": "chambre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ular",
+                    "meaning": {
+                        "ko": "'~의, ~에 관련된'",
+                        "en": "of or relating to",
+                        "ja": "~の、~に関する",
+                        "zh": "~的、~相关的",
+                        "fr": "~de, ~relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포(cell)로 이루어진' 또는 '세포의'라는 뜻입니다. 이동 통신에서는 서비스 지역을 벌집 모양의 작은 구역(cell)들로 나눈다는 의미에서 '셀룰러(이동 전화의)'라는 용어가 사용됩니다.",
+                "en": "Means 'composed of cells' or 'of cells'. In mobile communications, the term 'cellular (mobile phone)' is used because service areas are divided into small hexagonal regions called cells.",
+                "ja": "細胞で構成される、または細胞のという意味です。移動通信では、サービス地域をセル(小さな六角形の区域)に分割することから、セルラー(携帯電話の)という用語が使われます。",
+                "zh": "指由细胞组成或与细胞相关的意思。在移动通信中，因为服务区域被分成称为小区的蜂窝状小区域，所以使用'蜂窝'(移动电话的)这一术语。",
+                "fr": "Signifie 'composé de cellules' ou 'relatif aux cellules'. Dans les communications mobiles, le terme 'cellulaire (téléphone mobile)' est utilisé car les zones de service sont divisées en petites régions hexagonales appelées cellules."
+            },
+            "example": "Cellular phones have become an essential part of modern life.",
+            "translation": {
+                "ko": "휴대폰은 현대 생활의 필수적인 부분이 되었다.",
+                "ja": "携帯電話がある",
+                "zh": "手机已成为",
+                "fr": "Les téléphones mobiles sont devenus"
+            }
+        }
+    ]
+}

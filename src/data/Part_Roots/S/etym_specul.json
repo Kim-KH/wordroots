@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "specul (spy) speculate, speculation, speculum",
+        "origin": "Latin, specula (a watchtower)",
+        "meaning": {
+            "ko": "망루",
+            "en": "a watchtower",
+            "ja": "見張り塔",
+            "zh": "瞭望塔",
+            "fr": "tour de guet"
+        }
+    },
+    "words": [
+        {
+            "word": "speculate",
+            "part_of_speech": "",
+            "origin": "Latin, speculari (to spy out, to observe)",
+            "meaning": {
+                "ko": "정찰하다, 관찰하다",
+                "en": "to scout or observe",
+                "ja": "推測する、投機する",
+                "zh": "推测、投机",
+                "fr": "spéculer, conjecturer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "specul-",
+                    "meaning": {
+                        "ko": "'보다, 살피다'",
+                        "en": "to look",
+                        "ja": "見る、観察する",
+                        "zh": "看、观察",
+                        "fr": "regarder, observer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 망보듯이 어림짐작으로 보다'는 의미에서 '추측하다' 또는 '투기하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'looking from afar as if watching distantly' it came to mean 'to conjecture' or 'to speculate financially'",
+                "ja": "遠くから見張るようにして推測する意味から、推測する、または投機するという意味になりました",
+                "zh": "从远处观察的意思演变为推测或投机的含义",
+                "fr": "Du sens de 'regarder de loin comme observer à distance' il a pris le sens de 'conjecturer' ou 'spéculer financièrement'"
+            },
+            "example": "I can only speculate on his motives.",
+            "translation": {
+                "ko": "나는 그의 동기에 대해 추측만 할 수 있을 뿐이다.",
+                "ja": "彼の動機についてしか推測できません",
+                "zh": "我只能推测他的动机",
+                "fr": "Je ne peux que spéculer sur ses motifs"
+            }
+        },
+        {
+            "word": "speculation",
+            "part_of_speech": "",
+            "origin": "Latin, speculatio (contemplation, observation)",
+            "meaning": {
+                "ko": "관찰",
+                "en": "observation",
+                "ja": "推測、観察",
+                "zh": "推测、观察",
+                "fr": "spéculation, observation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "specul-",
+                    "meaning": {
+                        "ko": "'보다, 살피다'",
+                        "en": "to look",
+                        "ja": "見る、観察する",
+                        "zh": "看、观察",
+                        "fr": "regarder, observer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'추측' 또는 '투기'를 뜻합니다.",
+                "en": "Means 'conjecture' or 'speculation' in Korean",
+                "ja": "韓国語では'推測'または'投機'を意味します",
+                "zh": "在韩语中意为'推测'或'投机'",
+                "fr": "Signifie 'conjecture' ou 'spéculation' en coréen"
+            },
+            "example": "There has been much speculation about his future.",
+            "translation": {
+                "ko": "그의 미래에 대해 많은 추측이 있었다.",
+                "ja": "彼の将来についての推測が多くありました。",
+                "zh": "关于他的未来有许多推测。",
+                "fr": "Il y a eu beaucoup de spéculations sur son avenir."
+            }
+        },
+        {
+            "word": "speculum",
+            "part_of_speech": "",
+            "origin": "Latin, speculum (a mirror)",
+            "meaning": {
+                "ko": "거울",
+                "en": "mirror",
+                "ja": "鏡、検鏡器",
+                "zh": "镜子、窥器",
+                "fr": "miroir, spéculum"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spec-",
+                    "meaning": {
+                        "ko": "'보다'",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看、观看",
+                        "fr": "regarder, observer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸속을 들여다보기 위해 사용하는' 의료 기구인 '검경(檢鏡)'을 뜻합니다.",
+                "en": "A medical instrument called 'speculum' (literally 'mirror') used to examine inside the body, such as a vaginal speculum for pelvic exams.",
+                "ja": "身体の内部を検査するために使用される医療機器で、膣鏡などがあります。",
+                "zh": "用于检查身体内部的医疗器械，例如阴道窥器等。",
+                "fr": "Instrument médical utilisé pour examiner l'intérieur du corps, tel qu'un spéculum vaginal."
+            },
+            "example": "A vaginal speculum is used during a pelvic exam.",
+            "translation": {
+                "ko": "질경은 골반 검사 중에 사용된다.",
+                "ja": "膣鏡で骨盤検査を行う。",
+                "zh": "在盆腔检查中使用阴道窥器。",
+                "fr": "Un spéculum vaginal est utilisé lors d'un examen pelvien."
+            }
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "root_info": {
+        "roots": "cept (take) concept, interception, perception, reception",
+        "origin": "Latin, capere (to take, seize)",
+        "meaning": {
+            "ko": "잡다, 취하다",
+            "en": "to take",
+            "ja": "取る",
+            "zh": "拿",
+            "fr": "prendre"
+        }
+    },
+    "words": [
+        {
+            "word": "concept",
+            "part_of_speech": "",
+            "origin": "Latin, conceptus (a thing conceived)",
+            "meaning": {
+                "ko": "마음에 품어진 것",
+                "en": "something held in the mind",
+                "ja": "心に抱いたもの",
+                "zh": "心中所持之物",
+                "fr": "chose conçue dans l'esprit"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께, 완전히'",
+                        "en": "together",
+                        "ja": "一緒に、完全に",
+                        "zh": "一起，完全地",
+                        "fr": "ensemble, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cept (capere)",
+                    "meaning": {
+                        "ko": "'잡다, 취하다'",
+                        "en": "to take",
+                        "ja": "つかむ、取る",
+                        "zh": "抓住，取得",
+                        "fr": "saisir, prendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "여러 생각을 '함께(con) 머릿속에 잡아(cept) 만든 것'이라는 의미에서, '개념'을 뜻하게 되었습니다.",
+                "en": "Concept originated from the meaning of 'multiple thoughts together (con) grasped (cept) in the mind', thus meaning 'notion'.",
+                "ja": "複数の思考を『一緒に(con) 頭の中につかんで(cept) 作られたもの』という意味から、『概念』を意味するようになりました。",
+                "zh": "从'多个思想一起(con) 抓在(cept) 脑子里制造出来的东西'的含义，演变成了'概念'的意思。",
+                "fr": "Le concept provient de l'idée de 'plusieurs pensées ensemble (con) saisies (cept) dans l'esprit', d'où le sens de 'notion'."
+            },
+            "example": "It is a difficult concept to understand.",
+            "translation": {
+                "ko": "그것은 이해하기 어려운 개념이다.",
+                "ja": "それは理解するのが難しい概念です。",
+                "zh": "这是一个难以理解的概念。",
+                "fr": "C'est un concept difficile à comprendre."
+            }
+        },
+        {
+            "word": "interception",
+            "part_of_speech": "",
+            "origin": "Latin, interceptio (a taking between)",
+            "meaning": {
+                "ko": "사이에서 가로챔",
+                "en": "intercepting in between",
+                "ja": "中間で横取りすること",
+                "zh": "中途拦截",
+                "fr": "interception"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "'사이에'",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cept (capere)",
+                    "meaning": {
+                        "ko": "'잡다'",
+                        "en": "to take",
+                        "ja": "つかむ",
+                        "zh": "抓住",
+                        "fr": "saisir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "'~하는 행위'",
+                        "en": "the act of doing",
+                        "ja": "行為",
+                        "zh": "行为",
+                        "fr": "acte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'중간에서(inter) 잡아채는(cept) 행위'라는 의미로, 스포츠 등에서의 '가로채기'를 뜻합니다.",
+                "en": "The act of intercepting in the middle, meaning 'blocking' in sports etc.",
+                "ja": "中間(inter)で捕らえる(cept)行為という意味で、スポーツなどでの'横取り'を意味します",
+                "zh": "中间(inter)抓住(cept)的行为，在体育运动等中表示'拦截'之意",
+                "fr": "L'acte de saisir au milieu (inter) signifiant 'bloquer' dans les sports etc."
+            },
+            "example": "The player made a crucial interception in the final minute of the game.",
+            "translation": {
+                "ko": "그 선수는 경기 마지막 1분에 결정적인 가로채기를 했다.",
+                "ja": "ゲームの最後の瞬間、選手が重要な横取りをした。",
+                "zh": "该球员在比赛最后一刻完成了一次关键的拦截。",
+                "fr": "Le joueur a réalisé une interception décisive à la dernière minute du match."
+            }
+        },
+        {
+            "word": "perception",
+            "part_of_speech": "",
+            "origin": "Latin, perceptio (a taking in, comprehension)",
+            "meaning": {
+                "ko": "받아들임, 이해",
+                "en": "acceptance, understanding",
+                "ja": "受け入れ、理解",
+                "zh": "接受、理解",
+                "fr": "acceptation, compréhension"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "'완전히, 통하여'",
+                        "en": "thoroughly",
+                        "ja": "完全に、通じて",
+                        "zh": "完全地、通过",
+                        "fr": "complètement, à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cept (capere)",
+                    "meaning": {
+                        "ko": "'잡다'",
+                        "en": "to take",
+                        "ja": "つかむ、取る",
+                        "zh": "抓住、拿",
+                        "fr": "saisir, prendre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "'~하는 행위'",
+                        "en": "act of doing",
+                        "ja": "～する行為",
+                        "zh": "～的行为",
+                        "fr": "acte de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "감각 기관을 통해 정보를 '완전히(per) 받아들이는(cept) 것'이라는 의미에서 '지각', '인식'을 뜻합니다.",
+                "en": "Through sensory organs, the meaning of 'completely(per) receiving(cept) information' refers to 'perception' or 'awareness'.",
+                "ja": "感覚器官を通じて、情報を『完全に(per)受け入れる(cept)こと』という意味から『知覚』『認識』を意味します。",
+                "zh": "通过感觉器官，从『完全地(per)接受(cept)信息』的意义引申出『知觉』『认识』的含义。",
+                "fr": "Par les organes sensoriels, le sens de 'recevoir(cept) complètement(per) l'information' signifie 'perception' ou 'conscience'."
+            },
+            "example": "Our perception of reality is influenced by our experiences.",
+            "translation": {
+                "ko": "현실에 대한 우리의 인식은 우리의 경험에 의해 영향을 받는다.",
+                "ja": "現実に対する私たちの知覚は、私たちの経験に影響されています。",
+                "zh": "我们对现实的认知受到我们经历的影响。",
+                "fr": "Notre perception de la réalité est influencée par nos expériences."
+            }
+        },
+        {
+            "word": "reception",
+            "part_of_speech": "",
+            "origin": "Latin, receptio (a receiving)",
+            "meaning": {
+                "ko": "받아들임",
+                "en": "acceptance or receiving",
+                "ja": "受け入れ",
+                "zh": "接受",
+                "fr": "réception"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시, 뒤로'",
+                        "en": "back",
+                        "ja": "再び、後ろへ",
+                        "zh": "再次、向后",
+                        "fr": "de nouveau, en arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cept (capere)",
+                    "meaning": {
+                        "ko": "'받다, 취하다'",
+                        "en": "to take",
+                        "ja": "受け取る、取る",
+                        "zh": "接收、获取",
+                        "fr": "prendre, recevoir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "'~하는 행위'",
+                        "en": "action or process of",
+                        "ja": "～する行為",
+                        "zh": "～的行为",
+                        "fr": "action de ～"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'받아들이는(cept) 행위'라는 의미에서, 손님을 맞는 '환영회', 호텔 등의 '접수처', 전파의 '수신' 등 다양한 뜻으로 쓰입니다.",
+                "en": "The word reception has various meanings derived from the concept of taking/receiving: a formal gathering to welcome guests, a reception desk at a hotel, or the receiving of signals.",
+                "ja": "受け入れる（cept）という意味から、客を迎える『歓迎会』、ホテルなどの『受付』、電波の『受信』など様々な意味で使われます。",
+                "zh": "从接收（cept）的概念衍生，具有多种含义：欢迎客人的『招待会』、酒店等的『前台』、电波的『接收』等。",
+                "fr": "Le mot réception dérive du concept de prendre/recevoir et a plusieurs sens : une réception formelle, un bureau de réception à l'hôtel, ou la réception de signaux."
+            },
+            "example": "The wedding reception will be held at the hotel.",
+            "translation": {
+                "ko": "결혼 피로연은 그 호텔에서 열릴 것이다.",
+                "ja": "結婚式のレセプションはホテルで行われます。",
+                "zh": "婚礼招待会将在酒店举行。",
+                "fr": "La réception de mariage se tiendra à l'hôtel."
+            }
+        }
+    ]
+}

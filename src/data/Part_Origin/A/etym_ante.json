@@ -1,0 +1,225 @@
+{
+    "root_info": {
+        "roots": "ante",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "앞에",
+            "en": "before",
+            "ja": "前に",
+            "zh": "前面",
+            "fr": "avant"
+        }
+    },
+    "words": [
+        {
+            "word": "anteroom",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ante-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "前面",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "room",
+                    "meaning": {
+                        "ko": "방",
+                        "en": "room",
+                        "ja": "部屋",
+                        "zh": "房间",
+                        "fr": "chambre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'큰 방 앞에 있는 작은 방'이라는 의미에서 '대기실'을 뜻합니다.",
+                "en": "A small room in front of a large room; means waiting room",
+                "ja": "大きな部屋の前にある小さな部屋という意味から、待合室を意味します",
+                "zh": "在大房间前面的小房间，意思是等候室",
+                "fr": "Petite pièce devant une grande pièce; signifie salle d'attente"
+            },
+            "example": "We waited in the anteroom.",
+            "translation": {
+                "ko": "우리는 대기실에서 기다렸다.",
+                "ja": "前室",
+                "zh": "前厅",
+                "fr": "antichambre"
+            }
+        },
+        {
+            "word": "antebellum",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ante-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bellum",
+                    "meaning": {
+                        "ko": "전쟁",
+                        "en": "war",
+                        "ja": "戦争",
+                        "zh": "战争",
+                        "fr": "guerre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전쟁 이전의'라는 의미로, 특히 미국 남북전쟁 이전 시대를 가리킵니다.",
+                "en": "Meaning 'before war', specifically referring to the era before the American Civil War.",
+                "ja": "戦争以前を意味し、特にアメリカ南北戦争以前の時代を指します。",
+                "zh": "意为'战争之前'，特别是指美国内战前的时代。",
+                "fr": "Signifiant 'avant la guerre', se référant particulièrement à l'époque avant la Guerre de Sécession américaine."
+            },
+            "example": "This is an antebellum mansion.",
+            "translation": {
+                "ko": "이것은 남북전쟁 전의 대저택이다.",
+                "ja": "南北戦争前の",
+                "zh": "南北战争前的",
+                "fr": "antébellum"
+            }
+        },
+        {
+            "word": "antedate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ante-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "date",
+                    "meaning": {
+                        "ko": "날짜",
+                        "en": "date",
+                        "ja": "日付",
+                        "zh": "日期",
+                        "fr": "date"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실제 날짜보다 앞선 날짜로 하다'는 의미에서 '~보다 먼저 일어나다', '앞서다'는 뜻입니다.",
+                "en": "From the meaning of 'assigning a date earlier than the actual date', it means 'to occur before something else' or 'to precede'.",
+                "ja": "実際の日付より前の日付を付けるという意味から、何かより先に起こる、先行するという意味です。",
+                "zh": "从'给予比实际日期更早的日期'的含义，指'在某事之前发生'或'优先于'的意思。",
+                "fr": "Du sens de 'assigner une date antérieure à la date réelle', il signifie 'survenir avant quelque chose d'autre' ou 'précéder'."
+            },
+            "example": "The invention antedates the patent by five years.",
+            "translation": {
+                "ko": "그 발명은 특허보다 5년 앞선다.",
+                "ja": "より前に起こる、先行する",
+                "zh": "早于，先于",
+                "fr": "précéder, antérieur à"
+            }
+        },
+        {
+            "word": "antecedent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ante-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "在...之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ced",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞서 가는 것'이라는 의미에서 '선행 사건' 또는 문법에서 대명사가 가리키는 '선행사'를 뜻합니다.",
+                "en": "From 'something that goes before': a preceding event or grammatically, the noun that a pronoun refers back to.",
+                "ja": "「前に進むもの」という意味から、「先行する事柄」または文法で代名詞が指す「先行詞」を意味します。",
+                "zh": "从\"先行的事物\"的含义引申，指\"先发生的事件\"或语法中代词所指代的\"先行词\"。",
+                "fr": "De \"ce qui va avant\" : un événement antérieur ou en grammaire, le nom auquel un pronom se rapporte."
+            },
+            "example": "The argument has no historical antecedent.",
+            "translation": {
+                "ko": "그 주장은 역사적인 선례가 없다.",
+                "ja": "その主張には歴史的な先例がない。",
+                "zh": "这个论点在历史上没有先例。",
+                "fr": "L'argument n'a aucun antécédent historique."
+            }
+        },
+        {
+            "word": "antediluvian",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ante-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "在...之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "diluvian",
+                    "meaning": {
+                        "ko": "홍수",
+                        "en": "flood",
+                        "ja": "洪水",
+                        "zh": "洪水",
+                        "fr": "déluge"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "성경에 나오는 '노아의 대홍수 이전의'라는 의미에서 '아주 구식인', '태고의'라는 뜻으로 쓰입니다.",
+                "en": "From the biblical Noah's flood; means extremely old-fashioned or primitive.",
+                "ja": "聖書のノアの大洪水以前という意味から、「非常に時代遅れの」「太古の」という意味で使われます。",
+                "zh": "源自圣经中诺亚大洪水之前的含义，引申为\"极其陈旧的\"或\"远古的\"意思。",
+                "fr": "Du déluge de Noé dans la Bible ; signifie extrêmement démodé ou primitif."
+            },
+            "example": "He has some antediluvian ideas about politics.",
+            "translation": {
+                "ko": "그는 정치에 대해 아주 구식인 생각을 가지고 있다.",
+                "ja": "彼は政治について非常に時代遅れた考えを持っている。",
+                "zh": "他对政治有着极其陈旧的想法。",
+                "fr": "Il a des idées extrêmement démodées sur la politique."
+            }
+        }
+    ]
+}

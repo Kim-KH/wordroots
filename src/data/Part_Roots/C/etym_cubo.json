@@ -1,0 +1,176 @@
+{
+    "root_info": {
+        "roots": "cubo (lie in) incubate, incubator, incubus",
+        "origin": "Latin, cubare (to lie down)",
+        "meaning": {
+            "ko": "눕다",
+            "en": "to lie down",
+            "ja": "横になる",
+            "zh": "躺下",
+            "fr": "se coucher"
+        }
+    },
+    "words": [
+        {
+            "word": "incubate",
+            "part_of_speech": "",
+            "origin": "Latin, incubare (to lie on, to hatch)",
+            "meaning": {
+                "ko": "위에 눕다, 부화하다",
+                "en": "to lie on, to hatch",
+                "ja": "上に横たわる、孵化させる",
+                "zh": "躺在上面、孵化",
+                "fr": "couver, incuber"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안에, 위에'",
+                        "en": "in, on",
+                        "ja": "中に、上に",
+                        "zh": "在...中、在...上",
+                        "fr": "dans, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cub- (cubare)",
+                    "meaning": {
+                        "ko": "'눕다'",
+                        "en": "to lie",
+                        "ja": "横たわる",
+                        "zh": "躺下",
+                        "fr": "coucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알 위에 눕다'는 의미에서 알을 '품다', '부화시키다'라는 뜻이 되었고, 세균 등을 '배양하다' 또는 계획을 '품다'는 의미로도 확장되었습니다.",
+                "en": "From the meaning 'to lie on eggs', it came to mean 'to hatch eggs', and has expanded to mean 'to culture bacteria' or 'to conceive plans'.",
+                "ja": "卵の上に横たわるという意味から、卵を孵化させるという意味になり、細菌などを培養する、または計画を立てるという意味に拡張されました。",
+                "zh": "从躺在卵上的意思，演变为孵卵的意思，进一步扩展为培养细菌或筹划计划的意思。",
+                "fr": "Du sens de couver les œufs, il est devenu incuber des œufs, et s'est étendu aux sens de cultiver des bactéries ou de concevoir des plans."
+            },
+            "example": "The birds incubate their eggs for two weeks.",
+            "translation": {
+                "ko": "그 새들은 2주 동안 알을 품는다.",
+                "ja": "鳥たちは2週間卵を孵化させます。",
+                "zh": "这些鸟孵化它们的卵需要两周。",
+                "fr": "Les oiseaux couvent leurs œufs pendant deux semaines."
+            }
+        },
+        {
+            "word": "incubator",
+            "part_of_speech": "",
+            "origin": "Latin, incubare (to hatch)",
+            "meaning": {
+                "ko": "부화하다",
+                "en": "to hatch",
+                "ja": "孵化させる",
+                "zh": "孵化",
+                "fr": "faire éclore"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안에, 위에'",
+                        "en": "in, on",
+                        "ja": "中に、上に",
+                        "zh": "在内、在上",
+                        "fr": "dans, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cub- (cubare)",
+                    "meaning": {
+                        "ko": "'눕다'",
+                        "en": "to lie",
+                        "ja": "横たわる",
+                        "zh": "躺下",
+                        "fr": "être couché"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ator",
+                    "meaning": {
+                        "ko": "'~하는 기계/장치'",
+                        "en": "thing that does",
+                        "ja": "~する機械装置",
+                        "zh": "做~的机器",
+                        "fr": "chose qui fait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알을 품어주는(부화시키는) 장치'라는 의미에서 '부화기', '보육기'를 뜻합니다.",
+                "en": "A device that incubates eggs or provides controlled environment for premature infants",
+                "ja": "卵を温めて孵化させる装置、または未熟児を保育する装置",
+                "zh": "孵化蛋或为早产婴儿提供受控环境的装置",
+                "fr": "Appareil qui incube les œufs ou crée un environnement contrôlé pour les nourrissons prématurés"
+            },
+            "example": "The premature baby was placed in an incubator.",
+            "translation": {
+                "ko": "미숙아는 보육기에 넣어졌다.",
+                "ja": "未熟児は保育器に入れられました",
+                "zh": "早产婴儿被放入保育器中",
+                "fr": "Le bébé prématuré a été placé dans une couveuse"
+            }
+        },
+        {
+            "word": "incubus",
+            "part_of_speech": "",
+            "origin": "Latin, incubus (nightmare)",
+            "meaning": {
+                "ko": "악몽",
+                "en": "nightmare",
+                "ja": "悪夢",
+                "zh": "噩梦",
+                "fr": "cauchemar"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'위에'",
+                        "en": "upon",
+                        "ja": "上に",
+                        "zh": "在...上面",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cub- (cubare)",
+                    "meaning": {
+                        "ko": "'눕다'",
+                        "en": "to lie",
+                        "ja": "横たわる",
+                        "zh": "躺下",
+                        "fr": "être couché"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마에서 '잠자는 사람 위에 누르는 악령'을 의미했으며, 지금은 '악몽' 또는 '마음의 짐'을 뜻합니다.",
+                "en": "In ancient Rome, it referred to an evil spirit that pressed upon sleeping people. Now it means nightmare or a burden on the mind.",
+                "ja": "古代ローマでは、眠っている人の上に圧しかかる悪霊を意味していました。今では悪夢または心の重荷を意味します。",
+                "zh": "在古罗马，它指压在睡眠者身上的恶灵。现在表示噩梦或心理负担。",
+                "fr": "Dans la Rome antique, il désignait un esprit mauvais qui pèse sur le dormeur. Aujourd'hui, il signifie cauchemar ou un fardeau mental."
+            },
+            "example": "He felt an incubus of guilt.",
+            "translation": {
+                "ko": "그는 죄책감이라는 무거운 짐을 느꼈다.",
+                "ja": "彼は罪悪感という重荷を感じていた。",
+                "zh": "他感到内疚的沉重负担。",
+                "fr": "Il ressentait un poids de culpabilité."
+            }
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "root_info": {
+        "roots": "scrib, script",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "쓰다",
+            "en": "to write",
+            "ja": "書く",
+            "zh": "写",
+            "fr": "écrire"
+        }
+    },
+    "words": [
+        {
+            "word": "inscription",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "위에",
+                        "en": "on",
+                        "ja": "上に",
+                        "zh": "在...上",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "script",
+                    "meaning": {
+                        "ko": "쓰다",
+                        "en": "to write",
+                        "ja": "書く",
+                        "zh": "书写",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "돌이나 금속 등의 표면 '위에 새겨 쓴 글'이라는 의미에서 '비문', '새겨진 글귀'를 뜻합니다.",
+                "en": "Meaning text carved or written on the surface of stone or metal; an engraved inscription or carved words.",
+                "ja": "石や金属などの表面に刻まれた文字という意味から、彫刻された銘文や刻まれた句を指します。",
+                "zh": "从在石头或金属等表面上刻写的文字之义，引申为碑文、刻字铭文。",
+                "fr": "Signifie un texte gravé ou inscrit sur la surface de pierre ou de métal; une inscription gravée ou des paroles inscrites."
+            },
+            "example": "We read the inscription on the monument.",
+            "translation": {
+                "ko": "우리는 기념비에 새겨진 글을 읽었다.",
+                "ja": "私たちは記念碑に刻まれた銘文を読んだ。",
+                "zh": "我们读了纪念碑上的铭文。",
+                "fr": "Nous avons lu l'inscription sur le monument."
+            }
+        },
+        {
+            "word": "prescribe",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "미리",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scribe",
+                    "meaning": {
+                        "ko": "쓰다",
+                        "en": "to write",
+                        "ja": "書く",
+                        "zh": "写",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미리 써서 정해두다'는 의미에서 약을 '처방하다' 또는 규칙을 '규정하다'는 뜻입니다.",
+                "en": "From the sense of 'decide beforehand by writing,' meaning to order medicine as treatment or to establish rules.",
+                "ja": "「あらかじめ書いて決める」という意味から、薬を「処方する」または規則を「規定する」という意味です。",
+                "zh": "从「预先书写确定」的意思，表示「开药」或「规定规则」。",
+                "fr": "Du sens « décider d'avance par écrit », signifiant prescrire un médicament ou établir une règle."
+            },
+            "example": "What did the doctor prescribe?",
+            "translation": {
+                "ko": "의사가 무엇을 처방했나요?",
+                "ja": "医者は何を処方しましたか？",
+                "zh": "医生开了什么药？",
+                "fr": "Qu'a prescrit le médecin ?"
+            }
+        },
+        {
+            "word": "proscribe",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "공개적으로",
+                        "en": "in public",
+                        "ja": "公開的に",
+                        "zh": "公开地",
+                        "fr": "publiquement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scribe",
+                    "meaning": {
+                        "ko": "쓰다",
+                        "en": "to write",
+                        "ja": "書く",
+                        "zh": "写",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공개적으로 써서 알리다'는 의미에서, 특정 행위를 법으로 '금지하다'는 뜻이 되었습니다.",
+                "en": "From the meaning 'to write publicly and announce,' it came to mean 'to forbid by law.'",
+                "ja": "「公開的に書いて知らせる」という意味から、特定の行為を法律で「禁止する」という意味になりました。",
+                "zh": "从「公开宣布」的意思演变为「用法律禁止」的含义。",
+                "fr": "Du sens « annoncer publiquement » au sens « interdire par la loi »."
+            },
+            "example": "The law proscribes discrimination.",
+            "translation": {
+                "ko": "그 법은 차별을 금지한다.",
+                "ja": "その法律は差別を禁止している。",
+                "zh": "该法律禁止歧视。",
+                "fr": "La loi interdit la discrimination."
+            }
+        },
+        {
+            "word": "manuscript",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "manu",
+                    "meaning": {
+                        "ko": "손",
+                        "en": "hand",
+                        "ja": "手",
+                        "zh": "手",
+                        "fr": "main"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "script",
+                    "meaning": {
+                        "ko": "쓴 것",
+                        "en": "written thing",
+                        "ja": "書かれたもの",
+                        "zh": "书写的东西",
+                        "fr": "chose écrite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 쓴 것'이라는 의미에서, 인쇄되기 전의 '원고'나 옛날의 '필사본'을 뜻합니다.",
+                "en": "From 'something written by hand,' referring to an original text before printing or a handwritten copy from antiquity.",
+                "ja": "「手で書かれたもの」という意味から、印刷前の「原稿」や昔の「手書き本」を指します。",
+                "zh": "从「手写的东西」之意，指印刷前的「原稿」或古代的「手抄本」。",
+                "fr": "Du sens de « chose écrite à la main », désignant un « manuscrit original » avant impression ou une « copie manuscrite » ancienne."
+            },
+            "example": "The original manuscript is in the museum.",
+            "translation": {
+                "ko": "원본 필사본은 그 박물관에 있다.",
+                "ja": "原本の手書き本は博物館にある。",
+                "zh": "原本的手稿在那个博物馆里。",
+                "fr": "Le manuscrit original se trouve au musée."
+            }
+        },
+        {
+            "word": "conscript",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "script",
+                    "meaning": {
+                        "ko": "쓰다",
+                        "en": "to write",
+                        "ja": "書く",
+                        "zh": "写",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이름을 함께 써넣다'는 의미에서, 병사로 '징집하다', '징병하다'는 뜻입니다.",
+                "en": "From the meaning 'to write names together', it means to conscript or draft soldiers.",
+                "ja": "名前を一緒に書き込むという意味から、兵士として徴集する、徴兵するという意味です。",
+                "zh": "从名字一起写入的含义，意思是将士兵征召或征兵。",
+                "fr": "Du sens 'd'écrire ensemble les noms', cela signifie enrôler ou recruter des soldats."
+            },
+            "example": "He was conscripted into the army.",
+            "translation": {
+                "ko": "그는 군에 징집되었다.",
+                "ja": "彼は軍隊に徴兵された。",
+                "zh": "他被征入军队。",
+                "fr": "Il a été enrôlé dans l'armée."
+            }
+        },
+        {
+            "word": "scribble",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scrib",
+                    "meaning": {
+                        "ko": "쓰다",
+                        "en": "to write",
+                        "ja": "書く",
+                        "zh": "写",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'계속해서 쓰다'는 의미에서, 글씨나 그림을 '휘갈겨 쓰다', '낙서하다'는 뜻입니다.",
+                "en": "From the sense of 'writing continuously': to write hastily or carelessly, to scrawl",
+                "ja": "「継続して書く」という意味から、文字や絵を「急いで書く」「落書きする」という意味になりました",
+                "zh": "从「持续地写」的意思引申，表示「匆匆写下」或「乱涂」的含义",
+                "fr": "Du sens « écrire continuellement », signifie écrire précipitamment ou négligemment, gribouiller"
+            },
+            "example": "He scribbled a note and left.",
+            "translation": {
+                "ko": "그는 메모를 휘갈겨 쓰고 떠났다.",
+                "ja": "彼はメモを走り書きして去った。",
+                "zh": "他匆匆写下一张便条就离开了。",
+                "fr": "Il a griffonné une note et est parti."
+            }
+        },
+        {
+            "word": "scribe",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scribe",
+                    "meaning": {
+                        "ko": "쓰다",
+                        "en": "to write",
+                        "ja": "書く",
+                        "zh": "书写",
+                        "fr": "écrire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'글을 쓰는 사람'이라는 의미로, 인쇄술 발명 이전의 '필경사', '서기'를 뜻합니다.",
+                "en": "A person who writes, referring to a 'copyist' or 'clerk' before the invention of printing.",
+                "ja": "文字を書く人という意味で、印刷術発明前の『筆写者』、『書記』を指します。",
+                "zh": "意为书写文字的人，指印刷术发明前的'抄写员'、'书记'。",
+                "fr": "Une personne qui écrit, désignant un 'copiste' ou 'scribe' avant l'invention de l'imprimerie."
+            },
+            "example": "A scribe carefully copied the text.",
+            "translation": {
+                "ko": "한 필경사가 그 텍스트를 조심스럽게 베꼈다.",
+                "ja": "書記は注意深くテキストを書き写した。",
+                "zh": "书记员仔细地抄写了文本。",
+                "fr": "Un scribe a soigneusement copié le texte."
+            }
+        }
+    ]
+}

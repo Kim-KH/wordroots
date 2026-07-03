@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "tropism (movement or growth in) geotropism, hydrotropism, phototropism",
+        "origin": "Greek, trope (a turn)",
+        "meaning": {
+            "ko": "방향 전환",
+            "en": "a turn",
+            "ja": "回転",
+            "zh": "转向",
+            "fr": "un tournant"
+        }
+    },
+    "words": [
+        {
+            "word": "geotropism",
+            "part_of_speech": "",
+            "origin": "Greek, ge (earth) + tropos (a turn)",
+            "meaning": {
+                "ko": "지구로의 방향 전환",
+                "en": "directional turning toward earth",
+                "ja": "地球方向への屈性",
+                "zh": "向地性",
+                "fr": "géotropisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "geo-",
+                    "meaning": {
+                        "ko": "'지구, 땅'",
+                        "en": "earth",
+                        "ja": "地球、土壌",
+                        "zh": "地球、土壤",
+                        "fr": "terre, sol"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tropism",
+                    "meaning": {
+                        "ko": "'굴성'",
+                        "en": "growth response to stimulus",
+                        "ja": "屈性",
+                        "zh": "向性",
+                        "fr": "tropisme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지구 중력 방향으로 향하는' 식물의 성질인 '굴지성'을 뜻합니다.",
+                "en": "Refers to gravitropism, a plant property of growing toward the direction of Earth's gravity",
+                "ja": "地球の重力方向に向かう植物の性質である向地性を意味します",
+                "zh": "指植物朝向地球重力方向生长的性质，即向地性",
+                "fr": "Propriété des plantes qui croissent en direction de la gravité terrestre"
+            },
+            "example": "Geotropism ensures that roots grow down into the soil.",
+            "translation": {
+                "ko": "굴지성은 뿌리가 흙 속으로 자라도록 보장한다.",
+                "ja": "地球の重力方向に向かって根が土壌に成長することを確保します",
+                "zh": "确保根部向地球重力方向生长到土壤中",
+                "fr": "Le géotropisme assure que les racines poussent vers le bas dans le sol"
+            }
+        },
+        {
+            "word": "hydrotropism",
+            "part_of_speech": "",
+            "origin": "Greek, hydor (water) + tropos (a turn)",
+            "meaning": {
+                "ko": "물로의 방향 전환",
+                "en": "directional turning toward water",
+                "ja": "水への方向転換",
+                "zh": "向水性",
+                "fr": "tropisme hydrique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hydro-",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tropism",
+                    "meaning": {
+                        "ko": "'굴성'",
+                        "en": "tropism or turning response",
+                        "ja": "屈性",
+                        "zh": "向性",
+                        "fr": "tropisme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물기가 있는 방향으로 향하는' 식물의 성질인 '굴수성'을 뜻합니다.",
+                "en": "Hydrotropism refers to a plant's property of growing towards moisture.",
+                "ja": "水分のある方向に向かう植物の性質である向水性を意味します。",
+                "zh": "指植物根部向水分方向生长的特性。",
+                "fr": "Désigne la propriété des plantes à croître vers l'humidité."
+            },
+            "example": "Hydrotropism is the growth of a plant's roots towards water.",
+            "translation": {
+                "ko": "굴수성은 식물 뿌리가 물을 향해 자라는 것이다.",
+                "ja": "水への向性",
+                "zh": "向水性",
+                "fr": "hydrotropisme"
+            }
+        },
+        {
+            "word": "phototropism",
+            "part_of_speech": "",
+            "origin": "Greek, phos (light) + tropos (a turn)",
+            "meaning": {
+                "ko": "빛으로의 방향 전환",
+                "en": "directional change toward light",
+                "ja": "光への方向転換",
+                "zh": "向光性",
+                "fr": "phototropisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "photo-",
+                    "meaning": {
+                        "ko": "'빛'",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tropism",
+                    "meaning": {
+                        "ko": "'굴성'",
+                        "en": "growth movement response",
+                        "ja": "屈性",
+                        "zh": "向性",
+                        "fr": "tropisme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛이 있는 방향으로 향하는' 식물의 성질인 '굴광성'을 뜻합니다.",
+                "en": "Phototropism is the reason why plants bend towards a light source.",
+                "ja": "植物が光のある方向に向かう性質である向光性を意味します",
+                "zh": "指植物朝向光源生长的特性",
+                "fr": "Propriété des plantes à se diriger vers la lumière"
+            },
+            "example": "Phototropism is the reason why plants bend towards a light source.",
+            "translation": {
+                "ko": "굴광성은 식물이 광원을 향해 구부러지는 이유이다.",
+                "ja": "植物が光に向かって曲がる現象",
+                "zh": "植物向光生长的现象",
+                "fr": "tendance des plantes à se courber vers la lumière"
+            }
+        }
+    ]
+}

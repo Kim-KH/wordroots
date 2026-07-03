@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "de (away, opposite) degenerate, decommission, deodorize, detoxify",
+        "origin": "Latin, de (down, away from, from, off)",
+        "meaning": {
+            "ko": "아래로, 떨어져서, 반대",
+            "en": "down, off, away, opposite",
+            "ja": "下へ、離れて、反対",
+            "zh": "向下、离开、相反",
+            "fr": "vers le bas, loin, opposé"
+        }
+    },
+    "words": [
+        {
+            "word": "degenerate",
+            "part_of_speech": "",
+            "origin": "Latin, degenerare (to depart from its kind)",
+            "meaning": {
+                "ko": "종류에서 벗어나다",
+                "en": "to deviate from one's kind",
+                "ja": "退化する、堕落する",
+                "zh": "退化、堕落",
+                "fr": "dégénérer, se dégrader"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'떨어져서'",
+                        "en": "away from",
+                        "ja": "から離れて",
+                        "zh": "远离",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "generate (genus)",
+                    "meaning": {
+                        "ko": "'종류, 기원'",
+                        "en": "race, kind",
+                        "ja": "種類、起源",
+                        "zh": "种类、起源",
+                        "fr": "race, sorte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래의 좋은 종류에서 벗어나다'는 의미에서 '퇴보하다', '타락하다'라는 뜻이 되었습니다.",
+                "en": "Originally meant 'deviate from good kind/race', later evolved to mean decline or moral fall",
+                "ja": "元々の良い種類から外れるという意味から、退化や堕落という意味になりました",
+                "zh": "从'偏离原来的好种类'的意思演变为衰退或道德沦丧的含义",
+                "fr": "Du sens 'dévier de sa bonne origine', devenu ensuite décadence ou dégradation morale"
+            },
+            "example": "The quality of the discussion began to degenerate.",
+            "translation": {
+                "ko": "토론의 질이 퇴보하기 시작했다.",
+                "ja": "その議論の質は退化し始めた。",
+                "zh": "讨论的质量开始退化。",
+                "fr": "La qualité de la discussion a commencé à dégénérer."
+            }
+        },
+        {
+            "word": "decommission",
+            "part_of_speech": "",
+            "origin": "English, de- + commission",
+            "meaning": {
+                "ko": "임무를 해제하다",
+                "en": "to relieve of duty",
+                "ja": "任務を解除する",
+                "zh": "取消任务",
+                "fr": "retirer du service"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'반대'",
+                        "en": "opposite",
+                        "ja": "反対",
+                        "zh": "相反",
+                        "fr": "opposé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "commission",
+                    "meaning": {
+                        "ko": "'임무, 위임'",
+                        "en": "commission",
+                        "ja": "任務、委託",
+                        "zh": "任务、委任",
+                        "fr": "mission, mandat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주어진 임무를 반대로 하다'는 의미에서 장비나 시설 등을 '해체하다', '퇴역시키다'라는 뜻입니다.",
+                "en": "From the sense of doing the opposite of a given mission, meaning to dismantle or retire equipment or facilities.",
+                "ja": "与えられた任務を反対にするという意味から、設備や施設などを『解体する』『廃止する』という意味です。",
+                "zh": "从反向执行既定任务的含义引申，表示将设备或设施『拆除』或『停用』。",
+                "fr": "Du sens d'inverser une mission donnée, signifiant démonter ou retirer du service des équipements ou installations."
+            },
+            "example": "They plan to decommission the old nuclear power plant.",
+            "translation": {
+                "ko": "그들은 노후 원자력 발전소를 해체할 계획이다.",
+                "ja": "彼らは古い原子力発電所を廃止する予定です。",
+                "zh": "他们计划关闭那座老核电站。",
+                "fr": "Ils prévoient de retirer du service l'ancienne centrale nucléaire."
+            }
+        },
+        {
+            "word": "deodorize",
+            "part_of_speech": "",
+            "origin": "English, de- + odorize",
+            "meaning": {
+                "ko": "냄새를 제거하다",
+                "en": "to remove odor",
+                "ja": "臭いを除去する",
+                "zh": "去除气味",
+                "fr": "éliminer l'odeur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'제거'",
+                        "en": "away, off",
+                        "ja": "除去",
+                        "zh": "去除",
+                        "fr": "enlever"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "odor",
+                    "meaning": {
+                        "ko": "'냄새'",
+                        "en": "smell",
+                        "ja": "臭い",
+                        "zh": "气味",
+                        "fr": "odeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'냄새를 없애다'는 의미에서 '냄새를 제거하다', '탈취하다'라는 뜻입니다.",
+                "en": "This means to remove or eliminate odor from something, often used for deodorizing sprays or products.",
+                "ja": "何かから臭いを除去することを意味し、脱臭スプレーや製品に使われます。",
+                "zh": "指从某物中去除或消除气味，常用于除臭喷雾或产品。",
+                "fr": "Signifie éliminer ou supprimer l'odeur de quelque chose, souvent utilisé pour les sprays désodorisants ou les produits."
+            },
+            "example": "This spray helps to deodorize the room.",
+            "translation": {
+                "ko": "이 스프레이는 방 냄새를 없애는 데 도움이 된다.",
+                "ja": "このスプレーは部屋の臭いを除去するのに役立ちます。",
+                "zh": "这种喷雾有助于去除房间的气味。",
+                "fr": "Ce spray aide à éliminer l'odeur de la pièce."
+            }
+        },
+        {
+            "word": "detoxify",
+            "part_of_speech": "",
+            "origin": "English, de- + toxify",
+            "meaning": {
+                "ko": "독을 없애다",
+                "en": "to remove poison",
+                "ja": "毒を除去する",
+                "zh": "清除毒素",
+                "fr": "éliminer les toxines"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'제거'",
+                        "en": "away, off",
+                        "ja": "除去",
+                        "zh": "去除",
+                        "fr": "enlever"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "toxic",
+                    "meaning": {
+                        "ko": "'독'",
+                        "en": "poison",
+                        "ja": "毒",
+                        "zh": "毒素",
+                        "fr": "poison"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸에서 독을 제거하다'는 의미에서 '해독하다', '독성을 제거하다'라는 뜻입니다.",
+                "en": "Means to remove toxins from the body; to eliminate toxicity",
+                "ja": "体から毒を取り除くという意味で、解毒する、毒性を除去するという意味です",
+                "zh": "从身体中去除毒素，清除有毒物质的意思",
+                "fr": "Signifie éliminer les toxines du corps; neutraliser la toxicité"
+            },
+            "example": "The liver helps to detoxify the body.",
+            "translation": {
+                "ko": "간은 신체를 해독하는 데 도움을 준다.",
+                "ja": "肝臓は体の解毒を助けます。",
+                "zh": "肝脏帮助清除体内的毒素。",
+                "fr": "Le foie aide à éliminer les toxines du corps."
+            }
+        }
+    ]
+}

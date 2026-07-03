@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "gnos(is) (knowledge) agnostic, diagnostic, Gnostic, prognosis",
+        "origin": "Greek, gnosis (knowledge)",
+        "meaning": {
+            "ko": "지식",
+            "en": "knowledge",
+            "ja": "知識",
+            "zh": "知识",
+            "fr": "connaissance"
+        }
+    },
+    "words": [
+        {
+            "word": "agnostic",
+            "part_of_speech": "",
+            "origin": "Greek, a- (not) + gnostos (known)",
+            "meaning": {
+                "ko": "알 수 없는",
+                "en": "unknowable or unknown",
+                "ja": "知ることができない",
+                "zh": "无法知道的",
+                "fr": "inconnaissable"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "〜ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gnos-",
+                    "meaning": {
+                        "ko": "'알다'",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "connaître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신의 존재 여부는 알 수 없다'고 믿는 사람이라는 의미에서 '불가지론자'를 뜻합니다.",
+                "en": "A person who believes that the existence of God is unknowable",
+                "ja": "神の存在の可否は知ることができないと信じる人",
+                "zh": "相信神的存在无法被认知的人",
+                "fr": "Personne croyant que l'existence de Dieu est inconnaissable"
+            },
+            "example": "An agnostic believes that the existence of God is unknowable.",
+            "translation": {
+                "ko": "불가지론자는 신의 존재를 알 수 없다고 믿는다.",
+                "ja": "不可知論者",
+                "zh": "不可知论者",
+                "fr": "agnostique"
+            }
+        },
+        {
+            "word": "diagnostic",
+            "part_of_speech": "",
+            "origin": "Greek, diagnostikos (able to distinguish)",
+            "meaning": {
+                "ko": "구별할 수 있는",
+                "en": "able to distinguish",
+                "ja": "区別できる",
+                "zh": "可以区分的",
+                "fr": "qui peut distinguer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dia-",
+                    "meaning": {
+                        "ko": "'통하여, 나누어'",
+                        "en": "through, apart",
+                        "ja": "通して、分けて",
+                        "zh": "通过、分开",
+                        "fr": "à travers, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gnos-",
+                    "meaning": {
+                        "ko": "'알다'",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "connaître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'증상을 통해 병을 알아내는' 것이라는 의미에서 '진단의'라는 뜻입니다.",
+                "en": "Meaning of diagnostic: identifying disease through symptoms",
+                "ja": "症状を通じて病気を見分けることから、診断的という意味",
+                "zh": "通过症状来识别疾病，因此有诊断的意思",
+                "fr": "Identifier la maladie à travers les symptômes, d'où le sens de diagnostic"
+            },
+            "example": "The doctor ran some diagnostic tests.",
+            "translation": {
+                "ko": "의사는 몇 가지 진단 검사를 실시했다.",
+                "ja": "医者はいくつかの診断検査を実施した。",
+                "zh": "医生进行了一些诊断测试。",
+                "fr": "Le médecin a effectué des tests diagnostiques."
+            }
+        },
+        {
+            "word": "Gnostic",
+            "part_of_speech": "",
+            "origin": "Greek, gnostikos (good at knowing)",
+            "meaning": {
+                "ko": "잘 아는",
+                "en": "knowing well",
+                "ja": "よく知る",
+                "zh": "熟知的",
+                "fr": "bien connaître"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Gnus-",
+                    "meaning": {
+                        "ko": "'지식'",
+                        "en": "knowledge",
+                        "ja": "知識",
+                        "zh": "知识",
+                        "fr": "connaissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'영적인 지식을 통해 구원을 얻을 수 있다'고 믿었던 초기 기독교의 '영지주의자'를 뜻합니다.",
+                "en": "Refers to 'Gnostics' of early Christianity who believed salvation could be obtained through spiritual knowledge.",
+                "ja": "霊的知識を通じて救済を得られると信じた初期キリスト教の『グノーシス主義者』を意味します。",
+                "zh": "指相信通过灵性知识可以获得救赎的早期基督教的'诺斯替主义者'。",
+                "fr": "Désigne les 'gnostiques' du christianisme primitif qui croyaient que le salut pouvait être obtenu par la connaissance spirituelle."
+            },
+            "example": "Gnostic beliefs were considered heresy by the early church.",
+            "translation": {
+                "ko": "영지주의 신념은 초기 교회에서 이단으로 간주되었다.",
+                "ja": "グノーシス主義の",
+                "zh": "诺斯替的",
+                "fr": "gnostique"
+            }
+        },
+        {
+            "word": "prognosis",
+            "part_of_speech": "",
+            "origin": "Greek, prognosis (foreknowledge)",
+            "meaning": {
+                "ko": "미리 앎",
+                "en": "knowing in advance",
+                "ja": "病気の経過予測",
+                "zh": "疾病预后",
+                "fr": "pronostic médical"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'미리'",
+                        "en": "before",
+                        "ja": "前もって",
+                        "zh": "提前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gnosis",
+                    "meaning": {
+                        "ko": "'앎, 지식'",
+                        "en": "knowledge",
+                        "ja": "知識、認識",
+                        "zh": "知识",
+                        "fr": "connaissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미리 아는 것'이라는 의미에서 의학에서 질병의 경과에 대한 '예후'를 뜻합니다.",
+                "en": "In medical contexts, prognosis refers to the predicted course or outcome of a disease based on advance knowledge of its characteristics.",
+                "ja": "医学の文脈で、予め知ることという意味から、病気の経過についての予後を意味します。",
+                "zh": "在医学背景下，从提前了解的意思来说，指对疾病进展过程的预后判断。",
+                "fr": "En contexte médical, le pronostic signifie la prédiction de l'évolution d'une maladie basée sur la connaissance préalable de ses caractéristiques."
+            },
+            "example": "The prognosis for the patient is good.",
+            "translation": {
+                "ko": "환자의 예후는 좋다.",
+                "ja": "その患者の予後は良好です。",
+                "zh": "该患者的预后良好。",
+                "fr": "Le pronostic du patient est favorable."
+            }
+        }
+    ]
+}

@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "ic (pertaining to, having) atomic, biotic, frenetic, manic, medic",
+        "origin": "Greek, -ikos (pertaining to)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "pertaining to",
+            "ja": "…に関する",
+            "zh": "…有关的",
+            "fr": "…concernant"
+        }
+    },
+    "words": [
+        {
+            "word": "atomic",
+            "part_of_speech": "",
+            "origin": "Greek, atomos (indivisible)",
+            "meaning": {
+                "ko": "나눌 수 없는",
+                "en": "indivisible",
+                "ja": "分割できない",
+                "zh": "不可分的",
+                "fr": "indivisible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "atom",
+                    "meaning": {
+                        "ko": "'원자'",
+                        "en": "atom",
+                        "ja": "原子",
+                        "zh": "原子",
+                        "fr": "atome"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원자의'라는 뜻입니다.",
+                "en": "Means 'of an atom'",
+                "ja": "原子の意味です",
+                "zh": "原子的意思",
+                "fr": "Signifie 'de l'atome'"
+            },
+            "example": "The atomic bomb is a powerful weapon.",
+            "translation": {
+                "ko": "원자 폭탄은 강력한 무기이다.",
+                "ja": "原子爆弾は強力な兵器です。",
+                "zh": "原子弹是强大的武器。",
+                "fr": "La bombe atomique est une arme puissante."
+            }
+        },
+        {
+            "word": "biotic",
+            "part_of_speech": "",
+            "origin": "Greek, biotikos (of life)",
+            "meaning": {
+                "ko": "생명의",
+                "en": "of life",
+                "ja": "生命の",
+                "zh": "生命的",
+                "fr": "relatif à la vie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio-",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생물과 관련된'이라는 의미에서 '생물의'라는 뜻입니다.",
+                "en": "Meaning 'of or related to living organisms' in the context of biological components",
+                "ja": "生物と関連する意味で、生物のという意味です",
+                "zh": "在与生物相关的意义上，意为'生物的'",
+                "fr": "Signifiant 'relatif aux organismes vivants' dans le contexte des composants biologiques"
+            },
+            "example": "Biotic factors are the living components of an ecosystem.",
+            "translation": {
+                "ko": "생물적 요인은 생태계의 살아있는 구성 요소이다.",
+                "ja": "生物的因子は生態系の生きた成分です",
+                "zh": "生物因子是生态系统的生命成分",
+                "fr": "Les facteurs biotiques sont les composants vivants d'un écosystème"
+            }
+        },
+        {
+            "word": "frenetic",
+            "part_of_speech": "",
+            "origin": "Greek, phrenitikos (suffering from inflammation of the brain)",
+            "meaning": {
+                "ko": "뇌염을 앓는",
+                "en": "suffering from encephalitis",
+                "ja": "熱狂的な",
+                "zh": "狂热的",
+                "fr": "frénétique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phren-",
+                    "meaning": {
+                        "ko": "'마음, 정신'",
+                        "en": "mind",
+                        "ja": "心、精神",
+                        "zh": "心、精神",
+                        "fr": "esprit, mental"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-etic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신이 나간 듯이 광적인'이라는 의미입니다.",
+                "en": "Means frenzied or frantic as if one's mind has gone away",
+                "ja": "精神が飛んでいるように狂乱的という意味です",
+                "zh": "意思是疯狂的，就像精神已经远去一样",
+                "fr": "Signifie frénétique ou fou, comme si l'esprit s'était envolé"
+            },
+            "example": "The city has a frenetic pace of life.",
+            "translation": {
+                "ko": "그 도시는 정신없이 빠른 삶의 속도를 가지고 있다.",
+                "ja": "都市は熱狂的なペースの生活を持っています",
+                "zh": "这个城市有着狂热的生活节奏",
+                "fr": "La ville a un rythme de vie frénétique"
+            }
+        },
+        {
+            "word": "manic",
+            "part_of_speech": "",
+            "origin": "Greek, manikos (mad, frantic)",
+            "meaning": {
+                "ko": "미친, 광적인",
+                "en": "insane or wildly enthusiastic",
+                "ja": "躁的な、狂気的な",
+                "zh": "躁狂的、疯狂的",
+                "fr": "maniaque, frénétique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "man- (mania)",
+                    "meaning": {
+                        "ko": "'광기'",
+                        "en": "madness",
+                        "ja": "狂気",
+                        "zh": "疯狂",
+                        "fr": "folie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or characterized by",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'광기에 사로잡힌'이라는 의미에서 '조증의', '정신없는'이라는 뜻입니다.",
+                "en": "Means 'seized by madness', referring to manic episodes, frenzy, or loss of control",
+                "ja": "狂気に支配されたという意味で、躁病的な、無我夢中な状態を指します",
+                "zh": "被疯狂所控制的意思，指躁狂症状、狂热或失去理智的状态",
+                "fr": "Signifie 'saisi par la folie', faisant référence aux épisodes maniaques, à la frénésie ou à la perte de contrôle"
+            },
+            "example": "He has a manic energy.",
+            "translation": {
+                "ko": "그는 조증적인 에너지를 가지고 있다.",
+                "ja": "彼は躁的なエネルギーを持っている",
+                "zh": "他具有躁狂的能量",
+                "fr": "Il a une énergie maniaque"
+            }
+        },
+        {
+            "word": "medic",
+            "part_of_speech": "",
+            "origin": "Latin, medicus (physician)",
+            "meaning": {
+                "ko": "의사",
+                "en": "doctor or physician",
+                "ja": "医者",
+                "zh": "医生",
+                "fr": "médecin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "med- (mederi)",
+                    "meaning": {
+                        "ko": "'치료하다'",
+                        "en": "to heal",
+                        "ja": "治療する",
+                        "zh": "治疗",
+                        "fr": "soigner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~에 관한 사람'",
+                        "en": "person concerned with",
+                        "ja": "~に関する人",
+                        "zh": "~相关的人",
+                        "fr": "personne concernée par ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'치료하는 사람'이라는 의미에서 '의무병', '의대생'을 뜻합니다.",
+                "en": "Means a person who heals, such as a medic or medical student",
+                "ja": "治療する人という意味で、医務官や医学生を指します",
+                "zh": "意为治疗的人，指医务人员或医学生",
+                "fr": "Signifie une personne qui soigne, comme un infirmier ou étudiant en médecine"
+            },
+            "example": "The medic treated the wounded soldier.",
+            "translation": {
+                "ko": "의무병이 부상당한 군인을 치료했다.",
+                "ja": "その医務官は負傷した兵士を治療した。",
+                "zh": "那位医务人员治疗了受伤的士兵。",
+                "fr": "Le médecin a soigné le soldat blessé."
+            }
+        }
+    ]
+}

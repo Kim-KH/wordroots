@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "ad (toward) cycad, monad, triad",
+        "origin": "Greek, -ad (feminine patronymic suffix)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "pertaining to",
+            "ja": "…に関する",
+            "zh": "…有关的",
+            "fr": "…concernant"
+        }
+    },
+    "words": [
+        {
+            "word": "cycad",
+            "part_of_speech": "",
+            "origin": "Greek, kykas (a kind of palm)",
+            "meaning": {
+                "ko": "야자수의 일종",
+                "en": "a type of palm tree",
+                "ja": "ソテツ類の植物",
+                "zh": "苏铁类植物",
+                "fr": "plante cycadophyte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyc-",
+                    "meaning": {
+                        "ko": "'소철'",
+                        "en": "cycad",
+                        "ja": "ソテツ",
+                        "zh": "苏铁",
+                        "fr": "cycas"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "겉모습이 야자수와 비슷한 '소철류' 식물을 뜻합니다.",
+                "en": "Cycads are ancient seed plants that resemble palm trees in appearance.",
+                "ja": "ヤシの木に似た外観を持つ'ソテツ類'植物を意味します。",
+                "zh": "指外观与棕榈树相似的'苏铁类'植物。",
+                "fr": "Désigne les plantes 'cycadophytes' qui ressemblent aux palmiers."
+            },
+            "example": "Cycads are ancient seed plants.",
+            "translation": {
+                "ko": "소철류는 고대 종자 식물이다.",
+                "ja": "ソテツは古代種子植物です。",
+                "zh": "苏铁是古老的种子植物。",
+                "fr": "Les cycas sont des plantes à graines anciennes."
+            }
+        },
+        {
+            "word": "monad",
+            "part_of_speech": "",
+            "origin": "Greek, monas (unit)",
+            "meaning": {
+                "ko": "단위",
+                "en": "a unit or single entity",
+                "ja": "単位",
+                "zh": "单位",
+                "fr": "unité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mon-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ad",
+                    "meaning": {
+                        "ko": "'단위체'",
+                        "en": "unit entity",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "철학에서 '더 이상 나눌 수 없는 단일한 실체'인 '모나드' 또는 생물학에서 '단세포 생물'을 뜻합니다.",
+                "en": "In philosophy, 'monad' refers to an indivisible singular entity that cannot be divided further. In biology, it refers to a unicellular organism.",
+                "ja": "哲学では'さらに分割できない単一の実体'を意味し、生物学では'単細胞生物'を意味します。",
+                "zh": "在哲学中，'单子'是指不可再分割的单一实体；在生物学中，指单细胞生物。",
+                "fr": "En philosophie, la 'monade' désigne une entité unique indivisible. En biologie, elle désigne un organisme unicellulaire."
+            },
+            "example": "In Leibniz's philosophy, a monad is a fundamental, indivisible substance.",
+            "translation": {
+                "ko": "라이프니츠의 철학에서 모나드는 근본적이고 나눌 수 없는 실체이다.",
+                "ja": "モナド",
+                "zh": "单子",
+                "fr": "monade"
+            }
+        },
+        {
+            "word": "triad",
+            "part_of_speech": "",
+            "origin": "Greek, trias (a group of three)",
+            "meaning": {
+                "ko": "셋의 그룹",
+                "en": "group of three",
+                "ja": "3つのグループ",
+                "zh": "三个一组",
+                "fr": "groupe de trois"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "3つ",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ad",
+                    "meaning": {
+                        "ko": "'단위체'",
+                        "en": "unit",
+                        "ja": "単位体",
+                        "zh": "单位体",
+                        "fr": "unité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세 개로 이루어진 한 벌'을 뜻하며, 특히 음악에서 '3화음'을 의미합니다.",
+                "en": "A group of three elements, specifically meaning a triad chord (three-note chord) in music.",
+                "ja": "3つの要素で構成された1セットを意味し、特に音楽の3和音を指します。",
+                "zh": "由三个元素组成的一组，特别是指音乐中的三和音。",
+                "fr": "Un ensemble composé de trois éléments, signifiant particulièrement un accord de trois notes en musique."
+            },
+            "example": "A major triad consists of a root, a major third, and a perfect fifth.",
+            "translation": {
+                "ko": "장3화음은 근음, 장3도, 완전5도로 구성된다.",
+                "ja": "メジャートライアドはルート音、長三度、完全五度で構成されています。",
+                "zh": "大三和音由根音、大三度和完全五度组成。",
+                "fr": "Une triade majeure se compose d'une fondamentale, d'une tierce majeure et d'une quinte juste."
+            }
+        }
+    ]
+}

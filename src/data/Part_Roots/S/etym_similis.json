@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "similis (alike) facsimile, similar, simile, simulate, similar",
+        "origin": "Latin, similis (like, similar)",
+        "meaning": {
+            "ko": "비슷한",
+            "en": "alike",
+            "ja": "似ている",
+            "zh": "相似",
+            "fr": "similaire"
+        }
+    },
+    "words": [
+        {
+            "word": "facsimile",
+            "part_of_speech": "",
+            "origin": "Latin, fac simile (make like)",
+            "meaning": {
+                "ko": "비슷하게 만들다",
+                "en": "to make similarly",
+                "ja": "似せて作る",
+                "zh": "仿制品",
+                "fr": "reproduction exacte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fac (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制作",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "simile",
+                    "meaning": {
+                        "ko": "'비슷한'",
+                        "en": "like",
+                        "ja": "似た",
+                        "zh": "相似的",
+                        "fr": "semblable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원본과 비슷하게 만든 복제품'인 '모사', '팩스'를 뜻합니다.",
+                "en": "A reproduction or copy made to resemble the original, such as a fax",
+                "ja": "原本に似せて作った複製品、つまり模写やファックス",
+                "zh": "指与原件相似的复制品，即摹本或传真",
+                "fr": "Une copie ou reproduction faite pour ressembler à l'original, comme une télécopie"
+            },
+            "example": "He sent a facsimile of the document.",
+            "translation": {
+                "ko": "그는 그 문서의 팩스를 보냈다.",
+                "ja": "彼は文書のファクシミリを送った。",
+                "zh": "他发送了该文件的传真副本。",
+                "fr": "Il a envoyé une reproduction du document."
+            }
+        },
+        {
+            "word": "similar",
+            "part_of_speech": "",
+            "origin": "Latin, similis (like)",
+            "meaning": {
+                "ko": "비슷한",
+                "en": "resembling or alike in appearance",
+                "ja": "似ている",
+                "zh": "相似的",
+                "fr": "semblable"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "simil-",
+                    "meaning": {
+                        "ko": "'비슷한'",
+                        "en": "like",
+                        "ja": "似た",
+                        "zh": "像",
+                        "fr": "comme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'똑같지는 않지만 비슷한'이라는 뜻입니다.",
+                "en": "Not identical but resembles",
+                "ja": "同じではなく似ている",
+                "zh": "不完全相同但相似",
+                "fr": "Pas identique mais ressemble"
+            },
+            "example": "The two brothers look very similar.",
+            "translation": {
+                "ko": "그 두 형제는 매우 비슷하게 생겼다.",
+                "ja": "二人の兄弟はとても似ている。",
+                "zh": "这两个兄弟看起来很相似。",
+                "fr": "Les deux frères se ressemblent beaucoup."
+            }
+        },
+        {
+            "word": "simile",
+            "part_of_speech": "",
+            "origin": "Latin, simile (a likeness)",
+            "meaning": {
+                "ko": "비슷한 것",
+                "en": "similar thing",
+                "ja": "似た比較表現",
+                "zh": "相似比较",
+                "fr": "comparaison par similitude"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "simil-",
+                    "meaning": {
+                        "ko": "'비슷한'",
+                        "en": "like",
+                        "ja": "似た",
+                        "zh": "相似的",
+                        "fr": "semblable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'like'나 'as'를 사용하여 두 가지 다른 것을 '비슷하다고 비교하는' 표현인 '직유'를 뜻합니다.",
+                "en": "A figure of speech using 'like' or 'as' to compare two different things as similar, known as direct comparison or simile.",
+                "ja": "'like'や'as'を使って二つの異なるものを'似ている'と比較する表現で、直喩を意味します。",
+                "zh": "使用'like'或'as'将两个不同的事物比较为相似的修辞手法，称为明喻。",
+                "fr": "Figure de style utilisant 'like' ou 'as' pour comparer deux choses différentes comme similaires, appelée comparaison explicite."
+            },
+            "example": "\"As brave as a lion\" is a common simile.",
+            "translation": {
+                "ko": "\"사자처럼 용감한\"은 흔한 직유법이다.",
+                "ja": "直喩",
+                "zh": "明喻",
+                "fr": "comparaison"
+            }
+        },
+        {
+            "word": "simulate",
+            "part_of_speech": "",
+            "origin": "Latin, simulare (to make like)",
+            "meaning": {
+                "ko": "비슷하게 만들다",
+                "en": "to make similar",
+                "ja": "似せて作る",
+                "zh": "模拟制造",
+                "fr": "créer de manière similaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "simul- (similis)",
+                    "meaning": {
+                        "ko": "'비슷한'",
+                        "en": "like",
+                        "ja": "似ている",
+                        "zh": "相似的",
+                        "fr": "semblable"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실제와 비슷하게 모방하다'는 의미에서 '모의실험하다', '~인 체하다'라는 뜻입니다.",
+                "en": "Means to imitate or mimic something real, as in 'mock experiment' or 'pretend to be'",
+                "ja": "実際と似せて模倣することで、'模擬実験'や'~のふりをする'という意味",
+                "zh": "模仿现实的含义，如'模拟实验'或'假装'",
+                "fr": "Imiter ou simuler quelque chose de réel, comme dans 'expérience fictive' ou 'faire semblant'"
+            },
+            "example": "Pilots use flight simulators to practice flying.",
+            "translation": {
+                "ko": "조종사들은 비행 연습을 위해 비행 시뮬레이터를 사용한다.",
+                "ja": "パイロットは飛行シミュレーターを使って飛行を練習します。",
+                "zh": "飞行员使用飞行模拟器来练习飞行。",
+                "fr": "Les pilotes utilisent des simulateurs de vol pour pratiquer le vol."
+            }
+        }
+    ]
+}

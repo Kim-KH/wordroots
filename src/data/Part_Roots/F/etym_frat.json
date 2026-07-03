@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "frat (brother) fraternal, fraternize, fratricide",
+        "origin": "Latin, frater (brother)",
+        "meaning": {
+            "ko": "형제",
+            "en": "brother",
+            "ja": "兄弟",
+            "zh": "兄弟",
+            "fr": "frère"
+        }
+    },
+    "words": [
+        {
+            "word": "fraternal",
+            "part_of_speech": "",
+            "origin": "Latin, fraternus (brotherly)",
+            "meaning": {
+                "ko": "형제의",
+                "en": "of or relating to brothers",
+                "ja": "兄弟の",
+                "zh": "兄弟的",
+                "fr": "fraternel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frat-",
+                    "meaning": {
+                        "ko": "'형제'",
+                        "en": "brother",
+                        "ja": "兄弟",
+                        "zh": "兄弟",
+                        "fr": "frère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'형제 같은' 또는 '형제의'라는 뜻입니다.",
+                "en": "Meaning 'like brothers' or 'of brothers'",
+                "ja": "兄弟のような、または兄弟のという意味です",
+                "zh": "意思是像兄弟一样或属于兄弟的",
+                "fr": "Signifie 'comme des frères' ou 'des frères'"
+            },
+            "example": "He has a strong fraternal bond with his brother.",
+            "translation": {
+                "ko": "그는 그의 형과 강한 형제애를 가지고 있다.",
+                "ja": "彼は兄弟との強い絆を持っています。",
+                "zh": "他与哥哥有很强的兄弟关系。",
+                "fr": "Il a un lien fraternel fort avec son frère."
+            }
+        },
+        {
+            "word": "fraternize",
+            "part_of_speech": "",
+            "origin": "Latin, frater (brother)",
+            "meaning": {
+                "ko": "형제",
+                "en": "brother",
+                "ja": "兄弟のように親しく付き合う",
+                "zh": "像兄弟一样亲密相处",
+                "fr": "fraterniser avec quelqu'un"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frat-",
+                    "meaning": {
+                        "ko": "'형제'",
+                        "en": "brother",
+                        "ja": "兄弟",
+                        "zh": "兄弟",
+                        "fr": "frère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'형제처럼 친하게 지내다'는 의미입니다.",
+                "en": "To associate or interact in a friendly manner, as if with brothers",
+                "ja": "兄弟のように友好的に交流する意味です",
+                "zh": "像兄弟一样友好地交往的意思",
+                "fr": "Cela signifie interagir amicalement comme des frères"
+            },
+            "example": "The soldiers were forbidden to fraternize with the enemy.",
+            "translation": {
+                "ko": "군인들은 적과 친하게 지내는 것이 금지되었다.",
+                "ja": "兵士たちは敵と親交を深めることを禁じられていた",
+                "zh": "士兵们被禁止与敌人友好相处",
+                "fr": "Les soldats avaient interdiction de fraterniser avec l'ennemi"
+            }
+        },
+        {
+            "word": "fratricide",
+            "part_of_speech": "",
+            "origin": "Latin, frater (brother) + -cidium (a killing)",
+            "meaning": {
+                "ko": "형제 살해",
+                "en": "killing of a brother",
+                "ja": "兄弟殺害",
+                "zh": "兄弟杀害",
+                "fr": "fratricide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fratri-",
+                    "meaning": {
+                        "ko": "'형제'",
+                        "en": "brother",
+                        "ja": "兄弟",
+                        "zh": "兄弟",
+                        "fr": "frère"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cide",
+                    "meaning": {
+                        "ko": "'죽이기'",
+                        "en": "killing",
+                        "ja": "殺害",
+                        "zh": "杀害",
+                        "fr": "meurtre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신의 형제를 죽이는 행위'를 뜻합니다.",
+                "en": "The act of killing one's own brother",
+                "ja": "自分の兄弟を殺す行為を意味します",
+                "zh": "杀害自己兄弟的行为",
+                "fr": "L'acte de tuer son propre frère"
+            },
+            "example": "Fratricide is a terrible crime.",
+            "translation": {
+                "ko": "형제 살해는 끔찍한 범죄이다.",
+                "ja": "兄弟殺害は恐ろしい犯罪です。",
+                "zh": "兄弟杀害是可怕的犯罪。",
+                "fr": "Le fratricide est un crime terrible."
+            }
+        }
+    ]
+}

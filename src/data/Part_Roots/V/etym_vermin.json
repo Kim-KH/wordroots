@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "vermin (worm) vermicelli, vermin, vermiform",
+        "origin": "Latin, vermis (a worm)",
+        "meaning": {
+            "ko": "벌레",
+            "en": "a worm",
+            "ja": "虫",
+            "zh": "虫",
+            "fr": "ver"
+        }
+    },
+    "words": [
+        {
+            "word": "vermicelli",
+            "part_of_speech": "",
+            "origin": "Italian, vermicello (a little worm)",
+            "meaning": {
+                "ko": "작은 벌레",
+                "en": "small worm",
+                "ja": "小さな虫",
+                "zh": "小虫",
+                "fr": "petit ver"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vermi-",
+                    "meaning": {
+                        "ko": "'벌레'",
+                        "en": "worm",
+                        "ja": "虫",
+                        "zh": "虫",
+                        "fr": "ver"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-celli",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さい物",
+                        "zh": "小的东西",
+                        "fr": "petite chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 벌레처럼 생긴' 매우 가는 파스타인 '베르미첼리'를 뜻합니다.",
+                "en": "Vermicelli refers to very thin pasta that looks like small worms.",
+                "ja": "ベルミチェリは小さな虫のように見える非常に細いパスタを意味します。",
+                "zh": "vermicelli指的是看起来像小虫的非常细的意大利面。",
+                "fr": "Vermicelli désigne des pâtes très fines qui ressemblent à de petits vers."
+            },
+            "example": "Vermicelli is often used in soups and salads.",
+            "translation": {
+                "ko": "베르미첼리는 수프와 샐러드에 자주 사용된다.",
+                "ja": "ベルミチェリ",
+                "zh": "细面条",
+                "fr": "vermicelle"
+            }
+        },
+        {
+            "word": "vermin",
+            "part_of_speech": "",
+            "origin": "Latin, vermis (a worm)",
+            "meaning": {
+                "ko": "벌레",
+                "en": "insect or bug",
+                "ja": "害虫、有害動物",
+                "zh": "害虫、有害动物",
+                "fr": "vermine, animal nuisible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verm-",
+                    "meaning": {
+                        "ko": "'벌레'",
+                        "en": "worm",
+                        "ja": "虫",
+                        "zh": "虫",
+                        "fr": "ver"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'해를 끼치는 작은 동물이나 곤충'인 '해충', '해로운 동물'을 뜻합니다.",
+                "en": "Refers to harmful small animals or insects that cause damage",
+                "ja": "害をもたらす小さな動物や昆虫を意味します",
+                "zh": "指造成伤害的小动物或昆虫",
+                "fr": "Désigne les petits animaux ou insectes nuisibles qui causent des dégâts"
+            },
+            "example": "The house was infested with vermin.",
+            "translation": {
+                "ko": "그 집에는 해충이 들끓었다.",
+                "ja": "その家は害虫で満ちていた",
+                "zh": "那所房子里充满了害虫",
+                "fr": "La maison était infestée de vermine"
+            }
+        },
+        {
+            "word": "vermiform",
+            "part_of_speech": "",
+            "origin": "Latin, vermis (worm) + forma (form)",
+            "meaning": {
+                "ko": "벌레 모양",
+                "en": "worm-shaped",
+                "ja": "虫のような形",
+                "zh": "蠕虫状",
+                "fr": "en forme de ver"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vermi-",
+                    "meaning": {
+                        "ko": "'벌레'",
+                        "en": "worm",
+                        "ja": "虫",
+                        "zh": "蠕虫",
+                        "fr": "ver"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "form",
+                    "meaning": {
+                        "ko": "'모양'",
+                        "en": "shape",
+                        "ja": "形",
+                        "zh": "形状",
+                        "fr": "forme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'벌레처럼 가늘고 긴 모양의'라는 뜻입니다. '충수(vermiform appendix)'를 가리킬 때 쓰입니다.",
+                "en": "Describes something thin and long like a worm. Used when referring to the vermiform appendix.",
+                "ja": "虫のように細く長い形を意味します。虫垂(虫垂突起)を指すときに使用されます。",
+                "zh": "意思是像虫子一样细长的形状。用于指盲肠(阑尾)。",
+                "fr": "Décrit quelque chose de fin et long comme un ver. Utilisé pour désigner l'appendice vermiforme."
+            },
+            "example": "The vermiform appendix is a small, finger-like projection from the large intestine.",
+            "translation": {
+                "ko": "충수는 대장에서 손가락처럼 튀어나온 작은 돌기이다.",
+                "ja": "虫垂突起は大腸から突き出た小さな指のような突起です。",
+                "zh": "阑尾是从大肠突出的小的手指状突起。",
+                "fr": "L'appendice vermiforme est une petite projection en forme de doigt qui sort du gros intestin."
+            }
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "fig: shape, form",
+        "origin": "Latin, figura",
+        "meaning": {
+            "ko": "형태, 모양",
+            "en": "form, shape, figure",
+            "ja": "形、姿、図形",
+            "zh": "形式、形状、图形",
+            "fr": "forme, figure, silhouette"
+        }
+    },
+    "words": [
+        {
+            "word": "figure",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fig",
+                    "meaning": {
+                        "ko": "모양",
+                        "en": "shape",
+                        "ja": "形、姿",
+                        "zh": "形状、样子",
+                        "fr": "forme, silhouette"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 figura에서 직접 유래하여 '모양', '형태'를 기본 의미로 가집니다. 여기서 '숫자', '도형', 사람의 '모습'이나 '인물' 등 다양한 뜻으로 확장되었습니다.",
+                "en": "Derived directly from Latin figura, with basic meanings of 'shape' and 'form'. Later expanded to various meanings including 'number', 'geometric shape', person's 'appearance' or 'figure'.",
+                "ja": "ラテン語のfiguraから直接由来し、'形'、'形態'を基本的な意味とします。ここから'数字'、'図形'、人の'姿'や'人物'など様々な意味に拡張されました。",
+                "zh": "直接源自拉丁语figura，基本含义为'形状'和'形态'。后来扩展为多种含义，包括'数字'、'几何图形'、人的'外观'或'人物'等。",
+                "fr": "Dérivé directement du latin figura, avec les sens fondamentaux de 'forme' et 'apparence'. S'est ensuite étendu à diverses significations incluant 'nombre', 'figure géométrique', 'apparence' ou 'personnage' d'une personne."
+            },
+            "example": "I saw a tall figure in the dark.",
+            "translation": {
+                "ko": "나는 어둠 속에서 키 큰 형체를 보았다.",
+                "ja": "暗い中で背の高い人影を見た。",
+                "zh": "我在黑暗中看到了一个高大的身影。",
+                "fr": "J'ai vu une silhouette grande dans l'obscurité."
+            }
+        },
+        {
+            "word": "figment",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fig",
+                    "meaning": {
+                        "ko": "만들어진 모양",
+                        "en": "shape",
+                        "ja": "形",
+                        "zh": "形状",
+                        "fr": "forme"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ment",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'만들어진 것'이라는 의미에서, 실제가 아닌 '상상의 산물', '꾸며낸 것'을 의미합니다.",
+                "en": "From 'something made/formed': means an imaginary product or fabrication, not something real",
+                "ja": "「作られたもの」という意味から、実在しない「想像の産物」「創作されたもの」を意味します",
+                "zh": "从「被制造的东西」的含义出发，指非现实的「想象的产物」、「虚构的东西」",
+                "fr": "Du sens de « quelque chose de créé » : désigne un produit de l'imagination, une invention fictive plutôt que quelque chose de réel"
+            },
+            "example": "It was just a figment of her imagination.",
+            "translation": {
+                "ko": "그것은 단지 그녀의 상상력이 만들어낸 것이었다.",
+                "ja": "それは彼女の想像力が生み出した単なる産物だった。",
+                "zh": "那只是她想象力创造的产物。",
+                "fr": "Ce n'était qu'une création de son imagination."
+            }
+        },
+        {
+            "word": "transfigure",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "가로질러, 변화하여",
+                        "en": "across, into another state",
+                        "ja": "横切って、別の状態へ",
+                        "zh": "穿过、转变为另一种状态",
+                        "fr": "à travers, vers un autre état"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "figure",
+                    "meaning": {
+                        "ko": "모양",
+                        "en": "shape",
+                        "ja": "形、姿",
+                        "zh": "形状、外形",
+                        "fr": "forme, apparence"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모양을 바꾸다'는 의미로, 특히 더 아름답거나 영적인 모습으로 '변모시키다'는 뜻입니다.",
+                "en": "'Change in appearance', particularly meaning to 'transform into a more beautiful or spiritual form'.",
+                "ja": "「姿を変える」という意味で、特に「より美しく、または霊的な姿に変身させる」という意味です。",
+                "zh": "「改变外形」的意思，特别是指「变身为更美丽或更精神的样子」。",
+                "fr": "« Changer d'apparence », particulièrement au sens de « transformer en une forme plus belle ou spirituelle »."
+            },
+            "example": "Joy seemed to transfigure his face.",
+            "translation": {
+                "ko": "기쁨이 그의 얼굴을 변모시키는 것 같았다.",
+                "ja": "喜びが彼の顔を変容させるようだった。",
+                "zh": "喜悦似乎使他的脸焕然一新。",
+                "fr": "La joie semblait transfigurer son visage."
+            }
+        },
+        {
+            "word": "disfigure",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "반대, 제거",
+                        "en": "away, spoil",
+                        "ja": "離れる、損なう",
+                        "zh": "离开、破坏",
+                        "fr": "éloigner, gâcher"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "figure",
+                    "meaning": {
+                        "ko": "모양",
+                        "en": "shape",
+                        "ja": "形、姿",
+                        "zh": "形状、样貌",
+                        "fr": "forme, apparence"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래의 모양을 망가뜨리다'는 의미에서 외관이나 모습을 '흉하게 만들다', '손상시키다'는 뜻입니다.",
+                "en": "From 'to spoil one's original shape': to make ugly or disfigure someone's appearance or looks.",
+                "ja": "「元々の形を損なう」という意味から、外見や見た目を「醜くする」「損傷させる」という意味です。",
+                "zh": "从「破坏原本的形状」衍生而来：使外观或容貌「变丑陋」、「受损」的意思。",
+                "fr": "Du sens de « gâcher la forme originale » : rendre laid ou défigurer l'apparence ou l'aspect de quelqu'un."
+            },
+            "example": "The scar disfigured his cheek.",
+            "translation": {
+                "ko": "그 흉터는 그의 뺨을 흉하게 만들었다.",
+                "ja": "その傷は彼の頬を損なった。",
+                "zh": "那道疤痕毁坏了他的脸颊。",
+                "fr": "La cicatrice lui a défiguré la joue."
+            }
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "genus (class, become) gene, general, genus, genuine",
+        "origin": "Latin, genus (birth, race, kind)",
+        "meaning": {
+            "ko": "탄생, 종류",
+            "en": "birth, kind",
+            "ja": "誕生、種類",
+            "zh": "出生，种类",
+            "fr": "naissance, genre"
+        }
+    },
+    "words": [
+        {
+            "word": "gene",
+            "part_of_speech": "",
+            "origin": "Greek, genos (race, kind)",
+            "meaning": {
+                "ko": "종족, 종류",
+                "en": "race, type",
+                "ja": "遺伝子、種族",
+                "zh": "基因、种族",
+                "fr": "gène, race"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen-",
+                    "meaning": {
+                        "ko": "'낳다'",
+                        "en": "to beget",
+                        "ja": "生む、産む",
+                        "zh": "生育、产生",
+                        "fr": "engendrer, produire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생물의 특성을 낳는(결정하는) 단위'라는 의미에서 '유전자'를 뜻하게 되었습니다.",
+                "en": "The term 'gene' came to mean 'unit that determines biological traits' from the sense of 'to beget or determine traits of organisms'.",
+                "ja": "生物の特性を生む(決定する)単位という意味から「遺伝子」を意味するようになりました。",
+                "zh": "从'产生(决定)生物特征的单位'的含义演变为'基因'。",
+                "fr": "Le terme 'gène' signifie 'unité déterminant les caractéristiques biologiques' à partir du sens 'engendrer ou déterminer les traits des organismes'."
+            },
+            "example": "The gene for blue eyes is recessive.",
+            "translation": {
+                "ko": "파란 눈 유전자는 열성이다.",
+                "ja": "青い目の遺伝子は劣性である。",
+                "zh": "蓝眼睛的基因是隐性的。",
+                "fr": "Le gène pour les yeux bleus est récessif."
+            }
+        },
+        {
+            "word": "general",
+            "part_of_speech": "",
+            "origin": "Latin, generalis (relating to all, of a whole class)",
+            "meaning": {
+                "ko": "전체에 관한",
+                "en": "relating to the whole",
+                "ja": "全体に関する",
+                "zh": "与整体相关",
+                "fr": "relatif à l'ensemble"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gener- (genus)",
+                    "meaning": {
+                        "ko": "'종류, 전체'",
+                        "en": "kind, class",
+                        "ja": "種類、階級",
+                        "zh": "种类、等级",
+                        "fr": "sorte, classe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 종류 전체에 해당하는'이라는 의미에서 '일반적인', '전반적인'이라는 뜻입니다.",
+                "en": "Meaning 'applicable to a whole kind or category', thus 'general' or 'overall'",
+                "ja": "ある種類全体に該当するという意味から、一般的、全般的という意味です",
+                "zh": "从'适用于某一类整体'的意思引申为'普遍的'、'全面的'",
+                "fr": "S'appliquant à une catégorie entière, d'où le sens de 'général' ou 'global'"
+            },
+            "example": "In general, the new policy has been successful.",
+            "translation": {
+                "ko": "전반적으로, 새 정책은 성공적이었다.",
+                "ja": "全般的に、新しい政策は成功している。",
+                "zh": "总的来说，新政策已经成功了。",
+                "fr": "En général, la nouvelle politique a été couronnée de succès."
+            }
+        },
+        {
+            "word": "genus",
+            "part_of_speech": "",
+            "origin": "Latin, genus (kind, sort)",
+            "meaning": {
+                "ko": "종류",
+                "en": "kind or type",
+                "ja": "属",
+                "zh": "属",
+                "fr": "genre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen-",
+                    "meaning": {
+                        "ko": "'종류'",
+                        "en": "kind",
+                        "ja": "種類",
+                        "zh": "种类",
+                        "fr": "sorte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "생물 분류에서 '과(family)'와 '종(species)' 사이의 단계인 '속(屬)'을 뜻합니다.",
+                "en": "In biological classification, it refers to the taxonomic rank of genus (属), which is the intermediate level between family (科) and species (種).",
+                "ja": "生物分類において、科(family)と種(species)の間の分類階級である属(genus)を意味します。",
+                "zh": "在生物分类中，指的是属(genus)，它是科(family)和种(species)之间的分类阶级。",
+                "fr": "En classification biologique, il désigne le rang taxonomique du genre, qui est le niveau intermédiaire entre la famille et l'espèce."
+            },
+            "example": "All dog breeds belong to the same genus, Canis.",
+            "translation": {
+                "ko": "모든 개 품종은 같은 속인 개속(Canis)에 속한다.",
+                "ja": "すべての犬の品種は同じ属(Canis)に属しています。",
+                "zh": "所有狗的品种都属于同一属(Canis)。",
+                "fr": "Toutes les races de chiens appartiennent au même genre, Canis."
+            }
+        },
+        {
+            "word": "genuine",
+            "part_of_speech": "",
+            "origin": "Latin, genuinus (native, natural)",
+            "meaning": {
+                "ko": "타고난, 본래의",
+                "en": "innate, original",
+                "ja": "生まれつきの、本来の",
+                "zh": "天生的、本来的",
+                "fr": "inné, authentique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen-",
+                    "meaning": {
+                        "ko": "'탄생, 태생'",
+                        "en": "birth",
+                        "ja": "誕生、生まれ",
+                        "zh": "出生、起源",
+                        "fr": "naissance, origine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'태어난 그대로의'라는 의미에서 '진짜의', '진품의'라는 뜻이 되었습니다.",
+                "en": "From the meaning of 'as born' it came to mean 'real', 'authentic'",
+                "ja": "生まれたままの意味から、本物の、真正のという意味になりました",
+                "zh": "从出生原本的意思演变为真正的、真品的意思",
+                "fr": "Du sens 'tel que né' il a acquis le sens de 'vrai', 'authentique'"
+            },
+            "example": "This is a genuine leather jacket.",
+            "translation": {
+                "ko": "이것은 진짜 가죽 재킷이다.",
+                "ja": "これは本物のレザージャケットです",
+                "zh": "这是一件真皮夹克",
+                "fr": "C'est une véritable veste en cuir"
+            }
+        }
+    ]
+}

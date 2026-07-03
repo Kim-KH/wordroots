@@ -1,0 +1,130 @@
+{
+    "root_info": {
+        "roots": "morph",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "형태",
+            "en": "shape",
+            "ja": "形",
+            "zh": "形状",
+            "fr": "forme"
+        }
+    },
+    "words": [
+        {
+            "word": "polymorphic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "poly",
+                    "meaning": {
+                        "ko": "많은",
+                        "en": "many",
+                        "ja": "多い",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "morph",
+                    "meaning": {
+                        "ko": "형태",
+                        "en": "form",
+                        "ja": "形態",
+                        "zh": "形态",
+                        "fr": "forme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'많은 형태를 가진'이라는 의미에서, '다형의', '여러 형태의'라는 뜻입니다.",
+                "en": "Having many forms; of or relating to multiple shapes or structures",
+                "ja": "多くの形態を持つという意味から、「多形の」「複数の形態を持つ」という意味です",
+                "zh": "从\"具有多种形态\"的意思，指\"多态的\"、\"多种形态的\"",
+                "fr": "De la signification \"ayant de nombreuses formes\", c'est-à-dire \"polymorphe\", \"de plusieurs formes\""
+            },
+            "example": "The virus is polymorphic.",
+            "translation": {
+                "ko": "그 바이러스는 다형성이다.",
+                "ja": "そのウイルスは多形性である",
+                "zh": "这种病毒是多态的",
+                "fr": "Le virus est polymorphe"
+            }
+        },
+        {
+            "word": "morpheme",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "morph",
+                    "meaning": {
+                        "ko": "형태",
+                        "en": "form",
+                        "ja": "形態",
+                        "zh": "形态",
+                        "fr": "forme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의미를 가진 가장 작은 언어 형태' 즉, 언어학의 '형태소'를 뜻합니다.",
+                "en": "The smallest unit of language that carries meaning; in linguistics, refers to a 'morpheme'",
+                "ja": "意味を持つ最小の言語形態、つまり言語学の'形態素'を意味します",
+                "zh": "具有意义的最小语言形态，即语言学中的'语素'",
+                "fr": "La plus petite unité de langue porteuse de sens; en linguistique, désigne un 'morphème'"
+            },
+            "example": "The word \"unhappiness\" has three morphemes.",
+            "translation": {
+                "ko": "\"unhappiness\"라는 단어는 세 개의 형태소로 이루어져 있다.",
+                "ja": "単語'unhappiness'は3つの形態素を持っています",
+                "zh": "单词'unhappiness'包含三个语素",
+                "fr": "Le mot 'unhappiness' contient trois morphèmes"
+            }
+        },
+        {
+            "word": "amorphous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "없음",
+                        "en": "without",
+                        "ja": "なし",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "morph",
+                    "meaning": {
+                        "ko": "형태",
+                        "en": "form shape",
+                        "ja": "形態",
+                        "zh": "形状",
+                        "fr": "forme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정해진 형태가 없는'이라는 뜻입니다.",
+                "en": "Without a defined shape or form",
+                "ja": "定まった形がない",
+                "zh": "没有确定的形状",
+                "fr": "Sans forme définie"
+            },
+            "example": "Glass is an amorphous solid.",
+            "translation": {
+                "ko": "유리는 비결정질 고체이다.",
+                "ja": "無定形の",
+                "zh": "无定形的",
+                "fr": "amorphe"
+            }
+        }
+    ]
+}

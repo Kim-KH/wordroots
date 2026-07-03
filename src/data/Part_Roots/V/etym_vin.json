@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "vin (grape) vinegar, vineyard, vintage, vintner",
+        "origin": "Latin, vinum (wine)",
+        "meaning": {
+            "ko": "포도주",
+            "en": "wine",
+            "ja": "ワイン",
+            "zh": "葡萄酒",
+            "fr": "vin"
+        }
+    },
+    "words": [
+        {
+            "word": "vinegar",
+            "part_of_speech": "",
+            "origin": "Old French, vin aigre (sour wine)",
+            "meaning": {
+                "ko": "신 포도주",
+                "en": "sour wine",
+                "ja": "酸っぱいぶどう酒",
+                "zh": "酸葡萄酒",
+                "fr": "vin aigre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vin-",
+                    "meaning": {
+                        "ko": "'포도주'",
+                        "en": "wine",
+                        "ja": "ぶどう酒",
+                        "zh": "葡萄酒",
+                        "fr": "vin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "egar (aigre 'sour')",
+                    "meaning": {
+                        "ko": "'신'",
+                        "en": "sour",
+                        "ja": "酸っぱい",
+                        "zh": "酸的",
+                        "fr": "aigre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'포도주가 시게 변한 것'이라는 의미에서 '식초'를 뜻합니다.",
+                "en": "Vinegar refers to a substance that has become sour from wine.",
+                "ja": "ぶどう酒が酸っぱくなったものという意味から、酢を意味します。",
+                "zh": "从葡萄酒变酸的含义中，指醋。",
+                "fr": "Du sens du vin devenu aigre, il signifie le vinaigre."
+            },
+            "example": "Vinegar is used in cooking and cleaning.",
+            "translation": {
+                "ko": "식초는 요리와 청소에 사용된다.",
+                "ja": "酢は料理と掃除に使用されます。",
+                "zh": "醋用于烹饪和清洁。",
+                "fr": "Le vinaigre est utilisé dans la cuisine et le nettoyage."
+            }
+        },
+        {
+            "word": "vineyard",
+            "part_of_speech": "",
+            "origin": "Old English, wingeard (wine yard)",
+            "meaning": {
+                "ko": "포도주 뜰",
+                "en": "grape wine field",
+                "ja": "ぶどう園",
+                "zh": "葡萄园",
+                "fr": "vignoble"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vine- (vinum)",
+                    "meaning": {
+                        "ko": "'포도'",
+                        "en": "vine",
+                        "ja": "ぶどう",
+                        "zh": "葡萄",
+                        "fr": "vigne"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "yard",
+                    "meaning": {
+                        "ko": "'뜰'",
+                        "en": "field",
+                        "ja": "園",
+                        "zh": "园地",
+                        "fr": "champ"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'포도주를 만들기 위한 포도를 재배하는' '포도원'을 뜻합니다.",
+                "en": "A vineyard is a place where grapes for winemaking are cultivated",
+                "ja": "ワイン製造用のぶどうを栽培する場所",
+                "zh": "为酿酒而种植葡萄的地方",
+                "fr": "Lieu de culture de raisins pour la fabrication du vin"
+            },
+            "example": "They own a small vineyard in the countryside.",
+            "translation": {
+                "ko": "그들은 시골에 작은 포도원을 소유하고 있다.",
+                "ja": "田舎の小さなぶどう園を所有しています。",
+                "zh": "他们在乡间拥有一个小葡萄园。",
+                "fr": "Ils possèdent un petit vignoble à la campagne."
+            }
+        },
+        {
+            "word": "vintage",
+            "part_of_speech": "",
+            "origin": "Latin, vindemia (a grape-gathering)",
+            "meaning": {
+                "ko": "포도 수확",
+                "en": "grape harvest",
+                "ja": "ぶどう収穫",
+                "zh": "葡萄收获",
+                "fr": "vendanges"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vin-",
+                    "meaning": {
+                        "ko": "'포도'",
+                        "en": "grape",
+                        "ja": "ぶどう",
+                        "zh": "葡萄",
+                        "fr": "raisin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dem- (demere 'to take off')",
+                    "meaning": {
+                        "ko": "'따다'",
+                        "en": "to pick",
+                        "ja": "摘む",
+                        "zh": "采摘",
+                        "fr": "cueillir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 연도에 수확한 포도로 만든' 포도주 또는 그 '수확 연도'를 뜻하며, '오래되고 품질이 좋은' 것을 의미하기도 합니다.",
+                "en": "Refers to wine made from grapes harvested in a specific year or that harvest year; also means something old and high quality.",
+                "ja": "特定の年に収穫したぶどうで作ったワイン、またはその収穫年を意味し、古くて品質が良いものも表します。",
+                "zh": "指用特定年份收获的葡萄酿制的葡萄酒或该收获年份，也可表示古老且优质的东西。",
+                "fr": "Désigne le vin issu de raisins vendangés une année spécifique ou cette année de vendanges; signifie aussi quelque chose d'ancien et de qualité."
+            },
+            "example": "This is a bottle of vintage wine from 1990.",
+            "translation": {
+                "ko": "이것은 1990년산 빈티지 와인 한 병이다.",
+                "ja": "これは1990年のヴィンテージワインのボトルです。",
+                "zh": "这是一瓶1990年的年份葡萄酒。",
+                "fr": "Ceci est une bouteille de vin millésimé de 1990."
+            }
+        },
+        {
+            "word": "vintner",
+            "part_of_speech": "",
+            "origin": "Latin, vinitor (a vine-dresser)",
+            "meaning": {
+                "ko": "포도 재배자",
+                "en": "grape grower",
+                "ja": "ぶどう酒製造者",
+                "zh": "葡萄酒生产者",
+                "fr": "producteur de vin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vint- (vinum)",
+                    "meaning": {
+                        "ko": "'포도주'",
+                        "en": "wine",
+                        "ja": "ぶどう酒",
+                        "zh": "葡萄酒",
+                        "fr": "vin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'포도주를 만드는 사람'인 '포도주 양조업자'를 뜻합니다.",
+                "en": "A person who makes wine",
+                "ja": "ワインを製造する人を意味します",
+                "zh": "指制造葡萄酒的人",
+                "fr": "Personne qui fabrique du vin"
+            },
+            "example": "The vintner is proud of his award-winning wines.",
+            "translation": {
+                "ko": "그 포도주 양조업자는 상을 받은 와인들을 자랑스러워한다.",
+                "ja": "そのぶどう酒製造者は受賞したワインを誇りに思っている。",
+                "zh": "那位葡萄酒生产者为他获奖的葡萄酒感到骄傲。",
+                "fr": "Le producteur de vin est fier de ses vins primés."
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "sympto (fall together) asymptomatic, symptom, symptomatic",
+        "origin": "Greek, symptoma (a happening, a symptom)",
+        "meaning": {
+            "ko": "일어난 일",
+            "en": "a happening",
+            "ja": "起きたこと",
+            "zh": "发生的事情",
+            "fr": "un événement"
+        }
+    },
+    "words": [
+        {
+            "word": "asymptomatic",
+            "part_of_speech": "",
+            "origin": "Greek, a- (not) + symptoma (symptom)",
+            "meaning": {
+                "ko": "증상이 없는",
+                "en": "without symptoms",
+                "ja": "症状がない",
+                "zh": "无症状的",
+                "fr": "asymptomatique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "without",
+                        "ja": "~がない",
+                        "zh": "没有~",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "symptomatic",
+                    "meaning": {
+                        "ko": "'증상이 있는'",
+                        "en": "having symptoms",
+                        "ja": "症状がある",
+                        "zh": "有症状的",
+                        "fr": "symptomatique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'병에 걸렸지만 겉으로 드러나는 증상이 없는'이라는 뜻입니다.",
+                "en": "Having an infection but showing no outward symptoms",
+                "ja": "病気にかかっているが外に見える症状がない",
+                "zh": "感染了疾病但没有明显的外部症状",
+                "fr": "Infecté mais sans symptômes visibles"
+            },
+            "example": "Many people with the virus are asymptomatic.",
+            "translation": {
+                "ko": "그 바이러스에 감염된 많은 사람들이 무증상이다.",
+                "ja": "そのウイルスに感染している多くの人は症状がない。",
+                "zh": "许多感染该病毒的人是无症状的。",
+                "fr": "De nombreuses personnes atteintes du virus sont asymptomatiques."
+            }
+        },
+        {
+            "word": "symptom",
+            "part_of_speech": "",
+            "origin": "Greek, symptoma (a happening)",
+            "meaning": {
+                "ko": "일어난 일",
+                "en": "something that happened",
+                "ja": "症状",
+                "zh": "症状",
+                "fr": "symptôme"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sym- (syn-)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ptom- (piptein)",
+                    "meaning": {
+                        "ko": "'떨어지다, 발생하다'",
+                        "en": "to fall",
+                        "ja": "落ちる、発生する",
+                        "zh": "掉落、发生",
+                        "fr": "tomber"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'병과 함께 발생하는' 일이라는 의미에서 '증상'을 뜻합니다.",
+                "en": "Something that occurs together with a disease",
+                "ja": "病気と一緒に起こることという意味で、症状を表します",
+                "zh": "与疾病一起发生的事情，意思是症状",
+                "fr": "Quelque chose qui se produit avec une maladie, signifiant symptôme"
+            },
+            "example": "A fever is a common symptom of the flu.",
+            "translation": {
+                "ko": "열은 독감의 흔한 증상이다.",
+                "ja": "インフルエンザの一般的な症状は発熱です。",
+                "zh": "发热是流感的常见症状。",
+                "fr": "La fièvre est un symptôme courant de la grippe."
+            }
+        },
+        {
+            "word": "symptomatic",
+            "part_of_speech": "",
+            "origin": "Greek, symptomatikos",
+            "meaning": {
+                "ko": "증상의",
+                "en": "of or showing symptoms",
+                "ja": "症状の、兆候を示す",
+                "zh": "症状的、表现出来的",
+                "fr": "symptomatique, révélateur de"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "symptom-",
+                    "meaning": {
+                        "ko": "'증상'",
+                        "en": "symptom",
+                        "ja": "症状",
+                        "zh": "症状",
+                        "fr": "symptôme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'증상을 보이는' 또는 '어떤 일의 징후가 되는'이라는 뜻입니다.",
+                "en": "Showing symptoms or signs of something; indicative of an underlying condition or problem",
+                "ja": "症状を示す、または何かの兆候となることを意味します",
+                "zh": "表现出症状或征兆，表示潜在的问题或状况",
+                "fr": "Qui montre des symptômes ou qui indique une condition sous-jacente"
+            },
+            "example": "The high unemployment rate is symptomatic of a deeper economic problem.",
+            "translation": {
+                "ko": "높은 실업률은 더 깊은 경제 문제의 징후이다.",
+                "ja": "高い失業率は、より深い経済問題の兆候である。",
+                "zh": "高失业率是更深层经济问题的表现。",
+                "fr": "Le taux de chômage élevé est révélateur d'un problème économique plus profond."
+            }
+        }
+    ]
+}

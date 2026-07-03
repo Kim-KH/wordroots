@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "tera (trillion) terabyte, teraflop, terahertz",
+        "origin": "Greek, teras (monster)",
+        "meaning": {
+            "ko": "괴물",
+            "en": "monster",
+            "ja": "怪物",
+            "zh": "怪物",
+            "fr": "monstre"
+        }
+    },
+    "words": [
+        {
+            "word": "terabyte",
+            "part_of_speech": "",
+            "origin": "Greek, teras (monster) + English, byte",
+            "meaning": {
+                "ko": "괴물같은 바이트",
+                "en": "one trillion bytes",
+                "ja": "1兆バイト",
+                "zh": "1万亿字节",
+                "fr": "un téraoctet"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tera-",
+                    "meaning": {
+                        "ko": "'조(兆)'",
+                        "en": "trillion",
+                        "ja": "兆",
+                        "zh": "万亿",
+                        "fr": "trillion"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "byte",
+                    "meaning": {
+                        "ko": "'바이트'",
+                        "en": "byte",
+                        "ja": "バイト",
+                        "zh": "字节",
+                        "fr": "octet"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'괴물처럼 거대한'이라는 의미에서 '1조(兆)'를 나타내는 접두사로 쓰여, '테라바이트(1조 바이트)'를 뜻합니다.",
+                "en": "The prefix 'tera-' meaning 'monstrously huge' is used to denote one trillion (1兆), indicating one terabyte (one trillion bytes).",
+                "ja": "接頭辞'テラ'は'怪物のように巨大な'という意味から、1兆(兆)を表し、テラバイト(1兆バイト)を意味します。",
+                "zh": "前缀'tera-'意为'怪物般巨大',用于表示1万亿(兆),意指1万亿字节。",
+                "fr": "Le préfixe 'téra-' signifiant 'énormément géant' est utilisé pour désigner un trillion (1兆), indiquant un téraoctet (un trillion d'octets)."
+            },
+            "example": "My new hard drive has a capacity of one terabyte.",
+            "translation": {
+                "ko": "내 새 하드 드라이브의 용량은 1테라바이트이다.",
+                "ja": "新しいハードドライブの容量は1テラバイトです。",
+                "zh": "我的新硬盘容量为1万亿字节。",
+                "fr": "Mon nouveau disque dur a une capacité d'un téraoctet."
+            }
+        },
+        {
+            "word": "teraflop",
+            "part_of_speech": "",
+            "origin": "Greek, teras (monster) + English, flop",
+            "meaning": {
+                "ko": "괴물같은 플롭스",
+                "en": "monstrous floating point operations per second",
+                "ja": "兆回の浮動小数点演算",
+                "zh": "万亿次浮点运算",
+                "fr": "billion opérations flottantes"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tera-",
+                    "meaning": {
+                        "ko": "'조(兆)'",
+                        "en": "trillion",
+                        "ja": "兆",
+                        "zh": "万亿",
+                        "fr": "billion"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flop",
+                    "meaning": {
+                        "ko": "'플롭스(초당 부동소수점 연산 횟수)'",
+                        "en": "floating point operations per second",
+                        "ja": "浮動小数点演算回数",
+                        "zh": "浮点运算次数",
+                        "fr": "opérations flottantes"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'1초에 1조 번의 부동소수점 연산을 수행하는 속도'를 나타내는 컴퓨터 성능 단위입니다.",
+                "en": "A computer performance unit indicating the speed of performing one trillion floating-point operations per second.",
+                "ja": "1秒間に1兆回の浮動小数点演算を実行する速度を示すコンピュータ性能単位です。",
+                "zh": "表示计算机每秒执行1万亿次浮点运算速度的性能单位。",
+                "fr": "Unité de performance informatique indiquant la vitesse d'exécution d'un trillion d'opérations flottantes par seconde."
+            },
+            "example": "The supercomputer can perform at speeds of several teraflops.",
+            "translation": {
+                "ko": "그 슈퍼컴퓨터는 수 테라플롭스의 속도로 연산할 수 있다.",
+                "ja": "テラフロップス",
+                "zh": "太浮点运算",
+                "fr": "teraflop"
+            }
+        },
+        {
+            "word": "terahertz",
+            "part_of_speech": "",
+            "origin": "Greek, teras (monster) + English, hertz",
+            "meaning": {
+                "ko": "괴물같은 헤르츠",
+                "en": "monstrous hertz",
+                "ja": "テラヘルツ",
+                "zh": "太赫兹",
+                "fr": "Térahertz"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tera-",
+                    "meaning": {
+                        "ko": "'조(兆)'",
+                        "en": "trillion",
+                        "ja": "兆(ちょう)",
+                        "zh": "万亿",
+                        "fr": "trillion"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hertz",
+                    "meaning": {
+                        "ko": "'헤르츠'",
+                        "en": "hertz",
+                        "ja": "ヘルツ",
+                        "zh": "赫兹",
+                        "fr": "hertz"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'1초에 1조 번 진동하는 주파수'를 나타내는 단위입니다.",
+                "en": "A unit representing frequency of 1 trillion vibrations per second",
+                "ja": "1秒間に1兆回振動する周波数を表す単位です",
+                "zh": "表示每秒振动一万亿次的频率单位",
+                "fr": "Unité de fréquence représentant un billion de vibrations par seconde"
+            },
+            "example": "Terahertz radiation has many potential applications in imaging and security.",
+            "translation": {
+                "ko": "테라헤르츠파는 영상 및 보안 분야에서 많은 잠재적 응용 가능성을 가지고 있다.",
+                "ja": "テラヘルツ放射線は画像化とセキュリティにおいて多くの潜在的な応用があります",
+                "zh": "太赫兹辐射在成像和安全领域有许多潜在应用",
+                "fr": "Le rayonnement térahertz a de nombreuses applications potentielles en imagerie et en sécurité"
+            }
+        }
+    ]
+}

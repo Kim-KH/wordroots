@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "agogy (leading) demagogy, pedagogy",
+        "origin": "Greek, agogos (a leader)",
+        "meaning": {
+            "ko": "이끄는 사람",
+            "en": "a leader",
+            "ja": "指導者",
+            "zh": "领导者",
+            "fr": "un chef"
+        }
+    },
+    "words": [
+        {
+            "word": "demagogy",
+            "part_of_speech": "",
+            "origin": "Greek, demagogia",
+            "meaning": {
+                "ko": "민중 지도",
+                "en": "leadership of the common people",
+                "ja": "衆愚政治",
+                "zh": "煽动性政治",
+                "fr": "démagogie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dem-",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人民",
+                        "fr": "peuple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agogy",
+                    "meaning": {
+                        "ko": "'이끎'",
+                        "en": "leading",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대중의 감정과 편견에 호소하여 이끄는' 정치 행태인 '선동'을 뜻합니다.",
+                "en": "A political tactic of appealing to people's emotions and prejudices",
+                "ja": "大衆の感情と偏見に訴えて導く政治的戦術",
+                "zh": "通过煽动大众情感和偏见进行领导的政治行为",
+                "fr": "Tactique politique qui exploite les émotions et préjugés populaires"
+            },
+            "example": "The politician's speech was an example of pure demagogy.",
+            "translation": {
+                "ko": "그 정치인의 연설은 순전한 선동의 한 예였다.",
+                "ja": "政治家のスピーチは純粋な衆愚政治の例だった。",
+                "zh": "这位政治家的演讲是煽动性政治的纯粹例子。",
+                "fr": "Le discours du politicien était un exemple de pure démagogie."
+            }
+        },
+        {
+            "word": "pedagogy",
+            "part_of_speech": "",
+            "origin": "Greek, paidagogia (the office of a pedagogue)",
+            "meaning": {
+                "ko": "아이를 이끄는 직무",
+                "en": "duty of leading children",
+                "ja": "子どもを導く技術",
+                "zh": "引导儿童的技术",
+                "fr": "art de guider les enfants"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ped-",
+                    "meaning": {
+                        "ko": "'아이'",
+                        "en": "child",
+                        "ja": "子ども",
+                        "zh": "儿童",
+                        "fr": "enfant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agogy",
+                    "meaning": {
+                        "ko": "'이끎, 가르침'",
+                        "en": "leading",
+                        "ja": "導く、教える",
+                        "zh": "引导、教导",
+                        "fr": "guider, enseigner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아이들을 이끄는' 기술이라는 의미에서 '교육학'을 뜻합니다.",
+                "en": "Means 'education' in the sense of the art of guiding children",
+                "ja": "子どもたちを導く技術という意味で教育学を意味します",
+                "zh": "在引导儿童的技术意义上表示教育学",
+                "fr": "Signifie 'éducation' au sens de l'art de guider les enfants"
+            },
+            "example": "He is an expert in the field of pedagogy.",
+            "translation": {
+                "ko": "그는 교육학 분야의 전문가이다.",
+                "ja": "彼は教育学の分野の専門家です",
+                "zh": "他是教育学领域的专家",
+                "fr": "Il est un expert dans le domaine de la pédagogie"
+            }
+        }
+    ]
+}

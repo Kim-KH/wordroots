@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "reg (rule) regal, regent, regulate",
+        "origin": "Latin, rex, regis (king); regere (to rule)",
+        "meaning": {
+            "ko": "왕, 다스리다",
+            "en": "king, to rule",
+            "ja": "王、統治する",
+            "zh": "王、统治",
+            "fr": "roi, régner"
+        }
+    },
+    "words": [
+        {
+            "word": "regal",
+            "part_of_speech": "",
+            "origin": "Latin, regalis (kingly)",
+            "meaning": {
+                "ko": "왕의",
+                "en": "of or relating to a king",
+                "ja": "王の",
+                "zh": "王的",
+                "fr": "royal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "reg-",
+                    "meaning": {
+                        "ko": "'왕'",
+                        "en": "king",
+                        "ja": "王",
+                        "zh": "王",
+                        "fr": "roi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'왕에게 어울리는'이라는 의미에서 '왕의', '제왕다운'이라는 뜻입니다.",
+                "en": "Meaning 'befitting a king' or 'majestic'",
+                "ja": "王にふさわしい、威厳のある",
+                "zh": "适合国王的、庄严的",
+                "fr": "convenant à un roi, majestueux"
+            },
+            "example": "He has a regal bearing.",
+            "translation": {
+                "ko": "그는 제왕다운 풍채를 지니고 있다.",
+                "ja": "彼は王のような気品がある。",
+                "zh": "他有君王般的气质。",
+                "fr": "Il a une allure royale."
+            }
+        },
+        {
+            "word": "regent",
+            "part_of_speech": "",
+            "origin": "Latin, regens (ruling)",
+            "meaning": {
+                "ko": "다스리는",
+                "en": "governing, ruling",
+                "ja": "摂政",
+                "zh": "摄政者",
+                "fr": "régent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "reg-",
+                    "meaning": {
+                        "ko": "'다스리다'",
+                        "en": "to rule",
+                        "ja": "統治する",
+                        "zh": "统治",
+                        "fr": "gouverner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'왕을 대신하여 나라를 다스리는 사람'인 '섭정'을 뜻합니다.",
+                "en": "A person who rules a country on behalf of the king",
+                "ja": "王に代わって国を統治する人",
+                "zh": "代表国王统治国家的人",
+                "fr": "Une personne qui gouverne au nom du roi"
+            },
+            "example": "The prince was too young to rule, so a regent was appointed.",
+            "translation": {
+                "ko": "왕자가 너무 어려서 통치할 수 없었기 때문에 섭정이 임명되었다.",
+                "ja": "王子はまだ若すぎて統治できなかったため、摂政が任命されました。",
+                "zh": "王子还太年轻无法统治，所以任命了一位摄政者。",
+                "fr": "Le prince était trop jeune pour gouverner, alors un régent a été nommé."
+            }
+        },
+        {
+            "word": "regulate",
+            "part_of_speech": "",
+            "origin": "Latin, regulare (to control)",
+            "meaning": {
+                "ko": "통제하다",
+                "en": "to control",
+                "ja": "統制する、調節する",
+                "zh": "管制、调节",
+                "fr": "réguler, contrôler"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "reg-",
+                    "meaning": {
+                        "ko": "'규칙, 다스리다'",
+                        "en": "rule",
+                        "ja": "規則、支配する",
+                        "zh": "规则、管理",
+                        "fr": "règle, gouverner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'규칙에 따라 통제하고 관리하다'는 의미에서 '규제하다', '조절하다'라는 뜻입니다.",
+                "en": "Means to control and manage according to rules",
+                "ja": "規則に従って統制し管理することを意味します",
+                "zh": "按照规则进行管制和管理的意思",
+                "fr": "Signifie contrôler et gérer selon les règles"
+            },
+            "example": "The government needs to regulate the industry.",
+            "translation": {
+                "ko": "정부는 그 산업을 규제해야 한다.",
+                "ja": "政府は産業を統制する必要がある",
+                "zh": "政府需要管制该行业",
+                "fr": "Le gouvernement doit réguler l'industrie"
+            }
+        }
+    ]
+}

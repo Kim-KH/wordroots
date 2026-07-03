@@ -1,0 +1,552 @@
+{
+    "root_info": {
+        "roots": "fract, frag, frai: break",
+        "origin": "Latin, frangere",
+        "meaning": {
+            "ko": "깨뜨리다",
+            "en": "to break",
+            "ja": "破る",
+            "zh": "破碎",
+            "fr": "casser"
+        }
+    },
+    "words": [
+        {
+            "word": "infringe",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "in, on",
+                        "ja": "中へ、上へ",
+                        "zh": "向内、在...上",
+                        "fr": "dans, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fringe (frangere)",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "破る、壊す",
+                        "zh": "破坏、打破",
+                        "fr": "casser, briser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 들어가 깨뜨리다'는 의미에서, 법률이나 권리 등을 '침해하다', '위반하다'는 뜻으로 쓰입니다.",
+                "en": "From the sense of 'breaking into/upon', used to mean 'violate' or 'breach' of laws or rights.",
+                "ja": "「中へ入って破る」という意味から、法律や権利などを「侵害する」「違反する」という意味で使われます。",
+                "zh": "从「破坏进入」的含义引申，用于表示「侵犯」或「违反」法律或权利。",
+                "fr": "Du sens de 'briser en entrant', utilisé pour signifier 'violer' ou 'enfreindre' des lois ou des droits."
+            },
+            "example": "This action could infringe the patent.",
+            "translation": {
+                "ko": "이 행동은 특허권을 침해할 수 있다.",
+                "ja": "このアクションは特許を侵害する可能性があります。",
+                "zh": "这个行为可能会侵犯专利权。",
+                "fr": "Cette action pourrait enfreindre le brevet."
+            }
+        },
+        {
+            "word": "fracture",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fract",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "破坏",
+                        "fr": "casser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形式后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨진 상태'라는 의미로, '골절', '균열'을 뜻합니다.",
+                "en": "Means a broken state, referring to a bone break or crack",
+                "ja": "破壊された状態という意味で、骨折や亀裂を指します",
+                "zh": "意为破损状态，指骨折或裂缝",
+                "fr": "Signifie un état de rupture, désignant une fracture osseuse ou une fissure"
+            },
+            "example": "He has a minor fracture in his leg.",
+            "translation": {
+                "ko": "그는 다리에 가벼운 골절상을 입었다.",
+                "ja": "彼は脚の軽い骨折がある。",
+                "zh": "他的腿上有轻微骨折。",
+                "fr": "Il a une petite fracture à la jambe."
+            }
+        },
+        {
+            "word": "defray",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fray (frangere)",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "打破",
+                        "fr": "casser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비용을 깨서 덜어내다'는 옛 의미에서, 비용 등을 '지불하다', '부담하다'는 뜻으로 발전했습니다.",
+                "en": "From the original sense of 'breaking apart costs,' it evolved to mean 'pay' or 'bear (expenses)'",
+                "ja": "「費用を壊して減らす」という古い意味から、費用などを「支払う」「負担する」という意味に発展しました",
+                "zh": "从\"打破成本\"的古义发展而来，现指\"支付\"或\"承担\"费用的意思",
+                "fr": "Du sens ancien de \"casser les dépenses\", il a évolué pour signifier \"payer\" ou \"supporter (les frais)\""
+            },
+            "example": "The grant will help defray the cost of the project.",
+            "translation": {
+                "ko": "그 보조금은 프로젝트 비용을 부담하는 데 도움이 될 것이다.",
+                "ja": "その助成金はプロジェクトの費用負担を助けるでしょう。",
+                "zh": "这笔补助金将有助于承担该项目的费用。",
+                "fr": "La subvention aidera à couvrir les frais du projet."
+            }
+        },
+        {
+            "word": "irrefrangible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ir- (in-)",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로, 다시",
+                        "en": "back, again",
+                        "ja": "後ろ、再び",
+                        "zh": "后退、再次",
+                        "fr": "arrière, à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frang",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "破る",
+                        "zh": "破坏",
+                        "fr": "casser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "~할 수 있는",
+                        "en": "able to be",
+                        "ja": "できる",
+                        "zh": "能够被",
+                        "fr": "pouvoir être"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨뜨릴 수 없는'이라는 의미로, '위반할 수 없는', '불가침의'라는 뜻의 고어체 단어입니다.",
+                "en": "An archaic word meaning 'unable to be broken', with the sense of 'inviolable' or 'not to be violated'.",
+                "ja": "破ることができないという意味の古語で、侵すことのできない、または違反することができないという意味です。",
+                "zh": "一个古语词，意思是'不能被破坏'，含义为'不可侵犯的'或'不能违反的'。",
+                "fr": "Un mot archaïque signifiant 'ne peut pas être brisé', avec le sens d'inviolable ou 'ne doit pas être violé'."
+            },
+            "example": "They believed in an irrefrangible law of nature.",
+            "translation": {
+                "ko": "그들은 자연의 불가침의 법칙을 믿었다.",
+                "ja": "破ることのできない、不可侵の",
+                "zh": "不可违反的、不可侵犯的",
+                "fr": "inviolable, inaltérable"
+            }
+        },
+        {
+            "word": "irrefragable",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ir- (in-)",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "refrag (refragari)",
+                    "meaning": {
+                        "ko": "반대하다",
+                        "en": "to oppose",
+                        "ja": "反対する",
+                        "zh": "反对",
+                        "fr": "s'opposer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "이 단어는 frangere에서 파생된 라틴어 refragari(반대하다)에서 왔습니다. '반대할 수 없는' 즉, '논박할 수 없는', '명백한'이라는 뜻입니다.",
+                "en": "This word comes from Latin refragari (to oppose), derived from frangere. It means 'unable to be opposed', that is, 'irrefutable' or 'indisputable'.",
+                "ja": "この単語はfrangereから派生したラテン語のrefragari(反対する)に由来します。「反対できない」つまり「反論の余地がない」「明白な」という意味です。",
+                "zh": "这个词来自拉丁语refragari(反对)，源于frangere。意思是「无法反对」，即「不可辩驳的」、「明确的」。",
+                "fr": "Ce mot provient du latin refragari (s'opposer), dérivé de frangere. Il signifie 'ne pouvant pas être opposé', c'est-à-dire 'irréfutable' ou 'incontestable'."
+            },
+            "example": "Her argument was irrefragable.",
+            "translation": {
+                "ko": "그녀의 주장은 논박할 수 없었다.",
+                "ja": "彼女の議論は反論の余地がなかった。",
+                "zh": "她的论证是不可辩驳的。",
+                "fr": "Son argument était irréfutable."
+            }
+        },
+        {
+            "word": "frangible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frang",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "打破",
+                        "fr": "casser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ible",
+                    "meaning": {
+                        "ko": "~할 수 있는",
+                        "en": "able to be",
+                        "ja": "～できる",
+                        "zh": "能够～",
+                        "fr": "pouvoir être"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨뜨릴 수 있는'이라는 의미로, '부서지기 쉬운', '약한'이라는 뜻입니다.",
+                "en": "Meaning 'able to be broken,' describes something easily broken or fragile.",
+                "ja": "「壊すことができる」という意味で、「壊れやすい」「脆い」という意味です。",
+                "zh": "意为「能够被打破」，表示容易破碎、脆弱的。",
+                "fr": "Signifie « pouvant être cassé », décrit quelque chose de facile à casser ou fragile."
+            },
+            "example": "Handle the frangible items with care.",
+            "translation": {
+                "ko": "부서지기 쉬운 물품은 조심해서 다루세요.",
+                "ja": "壊れやすい物品は慎重に扱ってください。",
+                "zh": "请小心处理易碎物品。",
+                "fr": "Manipulez les articles fragiles avec précaution."
+            }
+        },
+        {
+            "word": "anfractuous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "an- (ambi-)",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周りに",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fract",
+                    "meaning": {
+                        "ko": "깨진, 굽은",
+                        "en": "broken",
+                        "ja": "壊れた、曲がった",
+                        "zh": "破碎的、弯曲的",
+                        "fr": "brisé, courbé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주위로 굽어 있는'이라는 의미에서, 길이 '구불구불한' 것을 묘사하는 드문 단어입니다.",
+                "en": "From 'bent around' — a rare word describing winding or tortuous paths",
+                "ja": "「周りに曲がっている」という意味から、道が「くねくねしている」ことを表す稀な単語です",
+                "zh": "源自「周围弯曲」，用来描述道路「蜿蜒曲折」的罕见词汇",
+                "fr": "Du sens « courbé autour » — mot rare décrivant les chemins sinueux ou tortueux"
+            },
+            "example": "We followed an anfractuous path.",
+            "translation": {
+                "ko": "우리는 구불구불한 길을 따라갔다.",
+                "ja": "私たちはくねくねした道をたどった。",
+                "zh": "我们沿着蜿蜒的小路前进。",
+                "fr": "Nous avons suivi un chemin sinueux."
+            }
+        },
+        {
+            "word": "fragility",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frag",
+                    "meaning": {
+                        "ko": "깨지다",
+                        "en": "to break",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ility",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨지기 쉬운 성질' 즉, '부서지기 쉬움', '취약성'을 의미합니다.",
+                "en": "Quality of being easily broken; brittleness or vulnerability.",
+                "ja": "壊れやすい性質、つまり脆さや脆弱性を意味します。",
+                "zh": "易破碎的性质，即易碎性或脆弱性。",
+                "fr": "Qualité d'être facilement cassable ; caractère fragile ou vulnérable."
+            },
+            "example": "The fragility of the vase is a problem.",
+            "translation": {
+                "ko": "그 꽃병의 취약성이 문제다.",
+                "ja": "その花瓶の脆さが問題だ。",
+                "zh": "那个花瓶的脆弱性是个问题。",
+                "fr": "La fragilité du vase est un problème."
+            }
+        },
+        {
+            "word": "refraction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로, 다시",
+                        "en": "back",
+                        "ja": "後ろに、再び",
+                        "zh": "向后、再次",
+                        "fr": "arrière, de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fract",
+                    "meaning": {
+                        "ko": "깨뜨리다, 꺾다",
+                        "en": "to break",
+                        "ja": "壊す、折る",
+                        "zh": "破裂、折断",
+                        "fr": "casser, plier"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "빛이나 소리가 다른 매질을 통과할 때 경로가 '꺾이는 현상' 즉, '굴절'을 의미합니다.",
+                "en": "Light or sound changes direction when passing through different media, literally 'bending' or 'breaking' of the path.",
+                "ja": "光や音が異なる媒質を通過するとき、経路が『折れる』現象、つまり『屈折』を意味します。",
+                "zh": "光或声音通过不同介质时，路径'折断'的现象，即'折射'。",
+                "fr": "Phénomène de 'flexion' ou de 'cassure' du trajet lorsque la lumière ou le son traverse différents milieux, c'est-à-dire la 'réfraction'."
+            },
+            "example": "The pencil in the water shows refraction.",
+            "translation": {
+                "ko": "물속의 연필은 굴절 현상을 보여준다.",
+                "ja": "水中の鉛筆は屈折現象を示している。",
+                "zh": "水中的铅笔显示了折射现象。",
+                "fr": "Le crayon dans l'eau montre la réfraction."
+            }
+        },
+        {
+            "word": "suffrage",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suf- (sub-)",
+                    "meaning": {
+                        "ko": "아래에서",
+                        "en": "under",
+                        "ja": "下で",
+                        "zh": "下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frag (frangere)",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "打破",
+                        "fr": "casser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어원이 불분명하지만, 옛날에 투표권을 나타내기 위해 질그릇 조각(깨진 조각)을 사용한 것에서 유래했다는 설이 있습니다. 현재는 '투표권', '선거권'을 의미합니다.",
+                "en": "The etymology is unclear, but one theory suggests it derives from the use of broken pottery shards to represent voting rights in ancient times. Currently means 'voting rights' or 'suffrage'.",
+                "ja": "語源は不明確ですが、古代に投票権を表すために割られた陶器の破片を使用したことに由来するという説があります。現在は'投票権'を意味します。",
+                "zh": "词源不明确，但有一种理论认为它源于古代用破碎陶片代表投票权的做法。目前表示'投票权'。",
+                "fr": "L'étymologie est peu claire, mais une théorie suggère qu'elle provient de l'utilisation de tessons de poterie cassés pour représenter les droits de vote dans l'Antiquité. Signifie actuellement 'droit de vote'."
+            },
+            "example": "The 19th amendment granted women's suffrage.",
+            "translation": {
+                "ko": "수정 헌법 제19조는 여성의 참정권을 부여했다.",
+                "ja": "参政権",
+                "zh": "选举权",
+                "fr": "suffrage"
+            }
+        },
+        {
+            "word": "fraction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fract",
+                    "meaning": {
+                        "ko": "깨뜨리다",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "破碎",
+                        "fr": "casser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전체를 깨뜨려 나온 조각'이라는 의미에서 '부분', '일부'를 뜻하며, 수학에서는 '분수'를 의미합니다.",
+                "en": "From the sense of 'a piece broken from a whole,' meaning a part or portion; in mathematics, refers to a fraction or rational number.",
+                "ja": "全体を壊して出た破片という意味から、部分や一部を意味し、数学では分数を指します。",
+                "zh": "从'整体破碎后的碎片'的含义引申，表示部分或一部分；在数学中指分数。",
+                "fr": "Du sens de 'morceau brisé d'un tout', signifiant une partie ou une portion; en mathématiques, désigne une fraction."
+            },
+            "example": "I ate only a fraction of the pizza.",
+            "translation": {
+                "ko": "나는 피자의 일부만 먹었다.",
+                "ja": "私はピザのほんの一部しか食べませんでした。",
+                "zh": "我只吃了披萨的一小部分。",
+                "fr": "Je n'ai mangé qu'une fraction de la pizza."
+            }
+        },
+        {
+            "word": "fragment",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frag",
+                    "meaning": {
+                        "ko": "깨지다",
+                        "en": "to break",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ment",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominalizing suffix",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨진 조각'이라는 의미로, '파편', '조각'을 뜻합니다.",
+                "en": "Means 'broken piece'; refers to a small piece or shard.",
+                "ja": "「壊れた欠片」という意味で、細片や破片を指します。",
+                "zh": "意为「破碎的碎片」，指小的碎片或碎块。",
+                "fr": "Signifie « morceau cassé » ; désigne un petit éclat ou débris."
+            },
+            "example": "I found a fragment of an old pot.",
+            "translation": {
+                "ko": "나는 오래된 항아리 조각을 발견했다.",
+                "ja": "私は古い壺の破片を見つけた。",
+                "zh": "我发现了一块古陶罐的碎片。",
+                "fr": "J'ai trouvé un fragment d'une vieille cruche."
+            }
+        }
+    ]
+}

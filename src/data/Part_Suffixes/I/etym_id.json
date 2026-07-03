@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "id (quality) acid, gelid, limpid, tepid",
+        "origin": "Latin, -idus (tending to)",
+        "meaning": {
+            "ko": "성질",
+            "en": "quality",
+            "ja": "性質",
+            "zh": "性质",
+            "fr": "qualité"
+        }
+    },
+    "words": [
+        {
+            "word": "acid",
+            "part_of_speech": "",
+            "origin": "Latin, acidus (sour)",
+            "meaning": {
+                "ko": "신",
+                "en": "sourness",
+                "ja": "酸っぱい、酸",
+                "zh": "酸的、酸",
+                "fr": "acide, aigre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ac-",
+                    "meaning": {
+                        "ko": "'날카로운, 신'",
+                        "en": "sharp, sour",
+                        "ja": "鋭い、酸っぱい",
+                        "zh": "锐利的、酸的",
+                        "fr": "pointu, aigre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-id",
+                    "meaning": {
+                        "ko": "'~성질을 가진'",
+                        "en": "having quality of",
+                        "ja": "~の性質を持つ",
+                        "zh": "具有~性质",
+                        "fr": "ayant la qualité de~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신맛이 나는' 성질을 가진 물질인 '산'을 뜻합니다.",
+                "en": "Refers to a substance with the property of having a sour taste, called 'acid'",
+                "ja": "酸っぱい味がする性質を持つ物質の'酸'を意味します",
+                "zh": "指具有酸味特性的物质'酸'的含义",
+                "fr": "Désigne la substance 'acide' ayant la propriété d'avoir un goût aigre"
+            },
+            "example": "Lemons contain citric acid.",
+            "translation": {
+                "ko": "레몬은 시트르산을 함유하고 있다.",
+                "ja": "レモンには酸性の酸が含まれています",
+                "zh": "柠檬含有柠檬酸",
+                "fr": "Les citrons contiennent de l'acide citrique"
+            }
+        },
+        {
+            "word": "gelid",
+            "part_of_speech": "",
+            "origin": "Latin, gelidus (icy, cold)",
+            "meaning": {
+                "ko": "얼음 같은",
+                "en": "resembling ice or frost",
+                "ja": "氷のような冷たい",
+                "zh": "冰一样的",
+                "fr": "glacial"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gel- (gelu)",
+                    "meaning": {
+                        "ko": "'서리, 추위'",
+                        "en": "frost",
+                        "ja": "霜、寒冷",
+                        "zh": "霜、寒冷",
+                        "fr": "givre, froid"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-id",
+                    "meaning": {
+                        "ko": "'~성질을 가진'",
+                        "en": "having the quality of",
+                        "ja": "～の性質を持つ",
+                        "zh": "具有～性质",
+                        "fr": "ayant la qualité de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'얼음처럼 차가운'이라는 뜻입니다.",
+                "en": "Means extremely cold like ice",
+                "ja": "氷のように非常に冷たいという意味です",
+                "zh": "意思是像冰一样极其寒冷",
+                "fr": "Signifie extrêmement froid comme la glace"
+            },
+            "example": "We swam in the gelid water of the mountain lake.",
+            "translation": {
+                "ko": "우리는 산속 호수의 얼음처럼 차가운 물에서 수영했다.",
+                "ja": "山の湖の氷のような冷たい水で泳いだ。",
+                "zh": "我们在山湖冰一样冷的水中游泳。",
+                "fr": "Nous avons nagé dans l'eau glaciale du lac de montagne."
+            }
+        },
+        {
+            "word": "limpid",
+            "part_of_speech": "",
+            "origin": "Latin, limpidus (clear)",
+            "meaning": {
+                "ko": "맑은",
+                "en": "clear and transparent",
+                "ja": "澄んだ",
+                "zh": "清澈的",
+                "fr": "limpide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "limp-",
+                    "meaning": {
+                        "ko": "'맑은'",
+                        "en": "clear",
+                        "ja": "澄んだ",
+                        "zh": "清澈的",
+                        "fr": "clair"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-id",
+                    "meaning": {
+                        "ko": "'~성질을 가진'",
+                        "en": "having the quality of",
+                        "ja": "~の性質を持つ",
+                        "zh": "具有~的性质",
+                        "fr": "ayant la qualité de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물이 유리처럼 맑고 투명한'이라는 뜻입니다.",
+                "en": "Water that is as clear and transparent as glass",
+                "ja": "ガラスのように澄んで透明な水という意味です",
+                "zh": "指像玻璃一样清澈透明的水",
+                "fr": "Signifie une eau aussi claire et transparente que le verre"
+            },
+            "example": "The water in the stream was limpid and cool.",
+            "translation": {
+                "ko": "그 시냇물은 맑고 시원했다.",
+                "ja": "その小川の水は澄んでいて冷たかった",
+                "zh": "小溪里的水清澈而凉爽",
+                "fr": "L'eau du ruisseau était limpide et fraîche"
+            }
+        },
+        {
+            "word": "tepid",
+            "part_of_speech": "",
+            "origin": "Latin, tepidus (lukewarm)",
+            "meaning": {
+                "ko": "미지근한",
+                "en": "lukewarm, moderately warm",
+                "ja": "ぬるい",
+                "zh": "温热的",
+                "fr": "tiède"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tep- (tepere)",
+                    "meaning": {
+                        "ko": "'따뜻하다'",
+                        "en": "to be warm",
+                        "ja": "温かい",
+                        "zh": "温暖的",
+                        "fr": "être chaud"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-id",
+                    "meaning": {
+                        "ko": "'~성질을 가진'",
+                        "en": "having quality of",
+                        "ja": "性質を持つ",
+                        "zh": "具有性质",
+                        "fr": "avoir la qualité de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뜨겁지도 차갑지도 않고 미지근한'이라는 뜻입니다.",
+                "en": "Neither hot nor cold, lukewarm in temperature",
+                "ja": "熱くもなく冷たくもなく、中程度の温度",
+                "zh": "既不热也不冷，温度适中",
+                "fr": "Ni chaud ni froid, température modérée"
+            },
+            "example": "He took a sip of the tepid coffee.",
+            "translation": {
+                "ko": "그는 미지근한 커피를 한 모금 마셨다.",
+                "ja": "彼はぬるいコーヒーを一口飲んだ。",
+                "zh": "他喝了一口温热的咖啡。",
+                "fr": "Il a pris une gorgée du café tiède."
+            }
+        }
+    ]
+}

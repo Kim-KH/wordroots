@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "tom(y) (cut, slice) appendectomy, tonsillectomy, tracheotomy",
+        "origin": "Greek, tome (a cutting)",
+        "meaning": {
+            "ko": "자르기",
+            "en": "a cutting",
+            "ja": "切ること",
+            "zh": "切割",
+            "fr": "une coupure"
+        }
+    },
+    "words": [
+        {
+            "word": "appendectomy",
+            "part_of_speech": "",
+            "origin": "Latin, appendix + Greek, ektome (a cutting out)",
+            "meaning": {
+                "ko": "충수 절제",
+                "en": "removal of the appendix",
+                "ja": "虫垂切除術",
+                "zh": "阑尾切除术",
+                "fr": "appendicectomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "append-",
+                    "meaning": {
+                        "ko": "'충수'",
+                        "en": "appendix",
+                        "ja": "虫垂",
+                        "zh": "阑尾",
+                        "fr": "appendice"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ectomy",
+                    "meaning": {
+                        "ko": "'절제술'",
+                        "en": "surgical removal",
+                        "ja": "外科的切除",
+                        "zh": "外科切除",
+                        "fr": "ablation chirurgicale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'맹장 끝의 충수를 잘라내는 수술'인 '충수 절제술'을 뜻합니다.",
+                "en": "Appendectomy refers to the surgical removal of the appendix at the end of the cecum.",
+                "ja": "盲腸の終端にある虫垂を切除する手術を意味します。",
+                "zh": "指切除盲肠末端的阑尾的手术。",
+                "fr": "Intervention chirurgicale d'ablation de l'appendice au bout du caecum."
+            },
+            "example": "He had to undergo an emergency appendectomy.",
+            "translation": {
+                "ko": "그는 응급 맹장 수술을 받아야 했다.",
+                "ja": "彼は緊急虫垂切除術を受ける必要がありました。",
+                "zh": "他必须接受紧急阑尾切除手术。",
+                "fr": "Il a dû subir une appendicectomie d'urgence."
+            }
+        },
+        {
+            "word": "tonsillectomy",
+            "part_of_speech": "",
+            "origin": "Latin, tonsillae (tonsils) + Greek, ektome (a cutting out)",
+            "meaning": {
+                "ko": "편도 절제",
+                "en": "removal of tonsils",
+                "ja": "扁桃腺摘出術",
+                "zh": "扁桃体切除术",
+                "fr": "amygdalectomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tonsill-",
+                    "meaning": {
+                        "ko": "'편도'",
+                        "en": "tonsil",
+                        "ja": "扁桃腺",
+                        "zh": "扁桃体",
+                        "fr": "amygdale"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ectomy",
+                    "meaning": {
+                        "ko": "'절제술'",
+                        "en": "surgical removal",
+                        "ja": "外科的切除",
+                        "zh": "外科切除",
+                        "fr": "ablation chirurgicale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'편도를 잘라내는 수술'인 '편도 절제술'을 뜻합니다.",
+                "en": "A tonsillectomy is a surgical procedure to remove the tonsils",
+                "ja": "扁桃腺を切除する外科手術を意味します",
+                "zh": "指切除扁桃体的外科手术",
+                "fr": "Une intervention chirurgicale pour enlever les amygdales"
+            },
+            "example": "A tonsillectomy is a common surgical procedure for children.",
+            "translation": {
+                "ko": "편도 절제술은 어린이들에게 흔한 외과 수술이다.",
+                "ja": "扁桃腺摘出術は子どもの一般的な外科手術です",
+                "zh": "扁桃体切除术是儿童常见的外科手术",
+                "fr": "Une amygdalectomie est une intervention chirurgicale courante chez les enfants"
+            }
+        },
+        {
+            "word": "tracheotomy",
+            "part_of_speech": "",
+            "origin": "Greek, trakheia (windpipe) + tome (a cutting)",
+            "meaning": {
+                "ko": "기도 절개",
+                "en": "incision of the airway",
+                "ja": "気管切開術",
+                "zh": "气管切开术",
+                "fr": "trachéotomie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tracheo-",
+                    "meaning": {
+                        "ko": "'기관'",
+                        "en": "trachea",
+                        "ja": "気管",
+                        "zh": "气管",
+                        "fr": "trachée"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tomy",
+                    "meaning": {
+                        "ko": "'절개술'",
+                        "en": "cutting",
+                        "ja": "切開術",
+                        "zh": "切开术",
+                        "fr": "incision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숨을 쉴 수 있도록 기관을 절개하는 수술'인 '기관 절개술'을 뜻합니다.",
+                "en": "A surgical procedure to incise the trachea to allow breathing",
+                "ja": "呼吸ができるように気管を切開する手術",
+                "zh": "为了能够呼吸而对气管进行切开的手术",
+                "fr": "Une intervention chirurgicale pour inciser la trachée afin de respirer"
+            },
+            "example": "A tracheotomy was performed to help him breathe.",
+            "translation": {
+                "ko": "그가 숨을 쉴 수 있도록 기관 절개술이 시행되었다.",
+                "ja": "彼が呼吸できるようにするために気管切開術が行われた。",
+                "zh": "为了帮助他呼吸进行了气管切开术。",
+                "fr": "Une trachéotomie a été effectuée pour l'aider à respirer."
+            }
+        }
+    ]
+}

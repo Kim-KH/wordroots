@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "prehend (seize) apprehend, comprehend, prehensile",
+        "origin": "Latin, prehendere (to seize, grasp)",
+        "meaning": {
+            "ko": "붙잡다",
+            "en": "to seize",
+            "ja": "つかむ",
+            "zh": "抓住",
+            "fr": "saisir"
+        }
+    },
+    "words": [
+        {
+            "word": "apprehend",
+            "part_of_speech": "",
+            "origin": "Latin, apprehendere (to seize)",
+            "meaning": {
+                "ko": "붙잡다",
+                "en": "to seize or grasp",
+                "ja": "捕らえる",
+                "zh": "逮捕",
+                "fr": "arrêter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ap- (ad-)",
+                    "meaning": {
+                        "ko": "'~으로'",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "prehend",
+                    "meaning": {
+                        "ko": "'붙잡다'",
+                        "en": "to seize",
+                        "ja": "つかむ",
+                        "zh": "抓住",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다가가서 붙잡다'는 의미에서 범인을 '체포하다' 또는 의미를 '파악하다', 상황을 '염려하다'는 뜻이 되었습니다.",
+                "en": "Originally meant 'to go and seize', evolved to mean 'to arrest a criminal', 'to understand/grasp', or 'to worry about a situation'",
+                "ja": "元々は'近づいて捕らえる'という意味から、'犯人を逮捕する'または'意味を理解する'、'状況を心配する'という意味に発展しました",
+                "zh": "原意为'靠近并抓住'，后来演变为'逮捕罪犯'或'理解含义'、'担心情况'的意思",
+                "fr": "Signifiait à l'origine 's'approcher et saisir', a évolué vers 'arrêter un criminel', 'comprendre' ou 's'inquiéter'"
+            },
+            "example": "The police apprehended the suspect.",
+            "translation": {
+                "ko": "경찰은 용의자를 체포했다.",
+                "ja": "警察は容疑者を捕らえた。",
+                "zh": "警察逮捕了嫌疑人。",
+                "fr": "La police a arrêté le suspect."
+            }
+        },
+        {
+            "word": "comprehend",
+            "part_of_speech": "",
+            "origin": "Latin, comprehendere (to grasp)",
+            "meaning": {
+                "ko": "완전히 붙잡다",
+                "en": "to grasp completely",
+                "ja": "完全に理解する",
+                "zh": "完全理解",
+                "fr": "comprendre complètement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'완전히'",
+                        "en": "completely",
+                        "ja": "完全に",
+                        "zh": "完全地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "prehend",
+                    "meaning": {
+                        "ko": "'붙잡다'",
+                        "en": "to grasp",
+                        "ja": "つかむ",
+                        "zh": "抓住",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의미를 완전히 붙잡다'는 의미에서 '이해하다'라는 뜻입니다.",
+                "en": "Meaning 'to grasp meaning completely', thus 'to understand'",
+                "ja": "意味を完全につかむという意味から、理解するという意味です",
+                "zh": "从完全抓住意思的意思，即理解的含义",
+                "fr": "Du sens de 'saisir complètement le sens', d'où 'comprendre'"
+            },
+            "example": "I cannot comprehend his decision.",
+            "translation": {
+                "ko": "나는 그의 결정을 이해할 수 없다.",
+                "ja": "彼の決断が理解できない。",
+                "zh": "我无法理解他的决定。",
+                "fr": "Je ne peux pas comprendre sa décision."
+            }
+        },
+        {
+            "word": "prehensile",
+            "part_of_speech": "",
+            "origin": "Latin, prehendere (to grasp)",
+            "meaning": {
+                "ko": "붙잡다",
+                "en": "to grasp or seize",
+                "ja": "つかむことができる",
+                "zh": "能够抓握的",
+                "fr": "capable de saisir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "prehens-",
+                    "meaning": {
+                        "ko": "'붙잡다'",
+                        "en": "to grasp",
+                        "ja": "つかむ",
+                        "zh": "抓握",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물건을 붙잡을 수 있는'이라는 뜻으로, 원숭이 꼬리 등에 쓰입니다.",
+                "en": "Means 'able to grasp objects', used for monkey tails etc.",
+                "ja": "物をつかむことができるという意味で、サルの尾などに使われます。",
+                "zh": "表示能够抓握物体，用于猴子的尾巴等。",
+                "fr": "Signifie 'capable de saisir des objets', utilisé pour les queues de singes etc."
+            },
+            "example": "Monkeys have prehensile tails.",
+            "translation": {
+                "ko": "원숭이는 물건을 잡을 수 있는 꼬리를 가지고 있다.",
+                "ja": "サルは把握性のある尾を持っています。",
+                "zh": "猴子有能够抓握的尾巴。",
+                "fr": "Les singes ont des queues préhensiles."
+            }
+        }
+    ]
+}

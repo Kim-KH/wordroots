@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "arch(eo) (beginning, primitive, ancient) archaic, archeology, archive",
+        "origin": "Greek, arkhē (beginning, rule), arkhaios (ancient)",
+        "meaning": {
+            "ko": "시작, 고대의",
+            "en": "beginning, ancient",
+            "ja": "始まり、古代の",
+            "zh": "开始、古代的",
+            "fr": "commencement, antique"
+        }
+    },
+    "words": [
+        {
+            "word": "archaic",
+            "part_of_speech": "",
+            "origin": "Greek, arkhaios (ancient)",
+            "meaning": {
+                "ko": "고대의",
+                "en": "ancient",
+                "ja": "古代の",
+                "zh": "古代的",
+                "fr": "ancien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arch (arkhē)",
+                    "meaning": {
+                        "ko": "'시작, 원시'",
+                        "en": "beginning, origin",
+                        "ja": "始まり、起源",
+                        "zh": "开始、起源",
+                        "fr": "commencement, origine"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-aic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of, relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시작(arch) 시대의'라는 의미에서, 현대에는 잘 쓰이지 않는 '고대의', '구식의'라는 뜻을 나타냅니다.",
+                "en": "From the sense of 'beginning/primordial times', it means ancient or old-fashioned, rarely used in modern times",
+                "ja": "始まりの時代という意味から、現代ではあまり使われない古代的、時代遅れという意味を表します",
+                "zh": "从始源时代的含义而来，表示古代的或过时的，在现代很少使用",
+                "fr": "Du sens d'époque primitive, signifie ancien ou dépassé, rarement utilisé à l'époque moderne"
+            },
+            "example": "The dictionary contains many archaic words.",
+            "translation": {
+                "ko": "그 사전에는 많은 고어가 포함되어 있다.",
+                "ja": "その辞書には多くの古代の言葉が含まれている。",
+                "zh": "那本词典包含许多古代的词汇。",
+                "fr": "Le dictionnaire contient de nombreux mots archaïques."
+            }
+        },
+        {
+            "word": "archeology",
+            "part_of_speech": "",
+            "origin": "Greek, arkhaiologia (study of ancient things)",
+            "meaning": {
+                "ko": "고대 유물 연구",
+                "en": "study of ancient things",
+                "ja": "古代遺物の研究",
+                "zh": "古代物品研究",
+                "fr": "étude des choses anciennes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "archeo (arkhaios)",
+                    "meaning": {
+                        "ko": "'고대의'",
+                        "en": "ancient",
+                        "ja": "古代の",
+                        "zh": "古代的",
+                        "fr": "ancien"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy (logia)",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study of",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "étude de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'고대(archeo)에 대한 학문(logy)'이라는 뜻으로, 유물과 유적을 통해 과거 인류의 생활과 문화를 연구하는 '고고학'을 의미합니다.",
+                "en": "Archeology means 'study of ancient things,' referring to the discipline of studying past human life and culture through artifacts and archaeological sites.",
+                "ja": "考古学は'古代のもの'についての'学問'という意味で、遺物や遺跡を通じて過去の人類の生活と文化を研究する学問を指します。",
+                "zh": "考古学是'古代事物的学问'的意思，通过遗物和遗迹研究过去人类的生活和文化的学科。",
+                "fr": "L'archéologie signifie 'étude des choses anciennes', se référant à la discipline qui étudie la vie humaine passée et la culture à travers les artefacts et les sites archéologiques."
+            },
+            "example": "Archeology helps us understand the lives of people who lived thousands of years ago.",
+            "translation": {
+                "ko": "고고학은 우리가 수천 년 전에 살았던 사람들의 삶을 이해하는 데 도움을 준다.",
+                "ja": "考古学",
+                "zh": "考古学",
+                "fr": "archéologie"
+            }
+        },
+        {
+            "word": "archive",
+            "part_of_speech": "",
+            "origin": "Greek, arkheia (public records)",
+            "meaning": {
+                "ko": "공공 기록",
+                "en": "public records",
+                "ja": "公開記録",
+                "zh": "公共记录",
+                "fr": "documents publics"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arch (arkhē)",
+                    "meaning": {
+                        "ko": "'시작, 정부'",
+                        "en": "beginning, government",
+                        "ja": "始まり、政府",
+                        "zh": "开始、政府",
+                        "fr": "commencement, gouvernement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스에서 '정부(archē) 기관' 또는 그곳에 보관된 '공식 기록물'을 의미하던 것에서 유래하여, 오늘날에는 중요한 '기록 보관소' 또는 그 '기록물' 자체를 의미합니다.",
+                "en": "Derived from ancient Greek archē meaning 'government office' or 'official records' kept there. Today it refers to an important 'record repository' or the 'records' themselves.",
+                "ja": "古代ギリシャの'政府(archē)機関'またはそこに保管された'公式記録'に由来。現在は重要な'記録保管所'またはその'記録'自体を意味します。",
+                "zh": "源自古代希腊'政府(archē)机构'或其中保存的'官方记录'。今天指重要的'记录库'或其'记录'本身。",
+                "fr": "Dérivé du grec ancien archē signifiant 'bureau gouvernemental' ou 'documents officiels' qui y sont conservés. Aujourd'hui, il désigne un important 'dépôt d'archives' ou les 'documents' eux-mêmes."
+            },
+            "example": "The historical documents are stored in the national archive.",
+            "translation": {
+                "ko": "그 역사적인 문서들은 국립 기록 보관소에 저장되어 있다.",
+                "ja": "歴史的文書は国立記録保管所に保存されています。",
+                "zh": "历史文件存放在国立档案馆中。",
+                "fr": "Les documents historiques sont conservés aux archives nationales."
+            }
+        }
+    ]
+}

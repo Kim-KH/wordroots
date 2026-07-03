@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "sub",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "아래에",
+            "en": "under, below",
+            "ja": "下に、下側に",
+            "zh": "在...下面、以下",
+            "fr": "sous, au-dessous de"
+        }
+    },
+    "words": [
+        {
+            "word": "submerge",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "아래",
+                        "en": "below",
+                        "ja": "下",
+                        "zh": "下方",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "merge",
+                    "meaning": {
+                        "ko": "잠기다",
+                        "en": "to sink",
+                        "ja": "沈む",
+                        "zh": "沉没",
+                        "fr": "plonger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물 아래로 잠기게 하다', '물에 잠기다'는 뜻입니다.",
+                "en": "To cause to sink below water; to go under water",
+                "ja": "「水の下に沈める」「水に沈む」という意味です",
+                "zh": "意为「使沉入水下」或「沉入水中」",
+                "fr": "Signifie « faire couler sous l'eau » ou « s'enfoncer dans l'eau »"
+            },
+            "example": "The submarine can submerge for weeks.",
+            "translation": {
+                "ko": "그 잠수함은 몇 주 동안 잠수할 수 있다.",
+                "ja": "その潜水艦は数週間潜水することができる。",
+                "zh": "那艘潜水艇能够潜水数周。",
+                "fr": "Le sous-marin peut rester submergé pendant des semaines."
+            }
+        },
+        {
+            "word": "submarine",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "아래",
+                        "en": "under or below",
+                        "ja": "下、以下",
+                        "zh": "下方",
+                        "fr": "sous, au-dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "marine",
+                    "meaning": {
+                        "ko": "바다의",
+                        "en": "of the sea",
+                        "ja": "海の、海洋の",
+                        "zh": "海的",
+                        "fr": "marin, de la mer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바다 아래로 다니는' 배 즉, '잠수함'을 뜻합니다.",
+                "en": "A ship that travels beneath the ocean, meaning a submersible vessel.",
+                "ja": "海の下を進む船、つまり潜水艦を意味します。",
+                "zh": "在海洋下方航行的船只，即潜水艇的意思。",
+                "fr": "Un navire qui navigue sous l'océan, c'est-à-dire un sous-marin."
+            },
+            "example": "The submarine dived deep into the ocean.",
+            "translation": {
+                "ko": "그 잠수함은 바다 깊이 잠수했다.",
+                "ja": "その潜水艦は海深くに潜った。",
+                "zh": "那艘潜水艇深潜入海洋。",
+                "fr": "Le sous-marin a plongé profondément dans l'océan."
+            }
+        },
+        {
+            "word": "substandard",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "아래",
+                        "en": "below or under",
+                        "ja": "下",
+                        "zh": "下",
+                        "fr": "en dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "standard",
+                    "meaning": {
+                        "ko": "기준",
+                        "en": "criterion or measure",
+                        "ja": "基準",
+                        "zh": "标准",
+                        "fr": "standard"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기준 아래의' 즉, '수준 이하의', ' substandard'라는 뜻입니다.",
+                "en": "Meaning 'below the standard', i.e., 'below the acceptable level', which is 'substandard'.",
+                "ja": "『基準以下の』つまり『水準以下の』という意味で、『substandard』という意味です。",
+                "zh": "意思是『低于标准的』，即『低于可接受水平的』，也就是『不符合标准的』。",
+                "fr": "Signifiant 'en dessous du standard', c'est-à-dire 'en dessous du niveau acceptable', ce qui signifie 'non conforme aux normes'."
+            },
+            "example": "The building materials were substandard.",
+            "translation": {
+                "ko": "그 건축 자재들은 기준 미달이었다.",
+                "ja": "建築材料は基準以下だった。",
+                "zh": "建筑材料质量不达标。",
+                "fr": "Les matériaux de construction étaient non conformes aux normes."
+            }
+        },
+        {
+            "word": "subvert",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "아래에서",
+                        "en": "from under",
+                        "ja": "下から",
+                        "zh": "从下面",
+                        "fr": "d'en bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert",
+                    "meaning": {
+                        "ko": "돌리다",
+                        "en": "to turn",
+                        "ja": "ひっくり返す",
+                        "zh": "翻转",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아래에서부터 뒤집어엎다'는 의미에서, 정부나 체제 등을 '전복시키다'는 뜻입니다.",
+                "en": "From the sense of 'overturn from below,' it means to 'overthrow' a government or system.",
+                "ja": "「下からひっくり返す」という意味から、政府や体制などを「転覆させる」という意味です。",
+                "zh": "从\"从下面翻转\"的含义，指\"推翻\"政府或体制。",
+                "fr": "Du sens de « renverser d'en bas », il signifie « renverser » un gouvernement ou un système."
+            },
+            "example": "The rebels tried to subvert the government.",
+            "translation": {
+                "ko": "반군들은 정부를 전복시키려 했다.",
+                "ja": "反政府勢力は政府を転覆させようとした。",
+                "zh": "反政府武装分子试图推翻政府。",
+                "fr": "Les rebelles ont tenté de renverser le gouvernement."
+            }
+        }
+    ]
+}

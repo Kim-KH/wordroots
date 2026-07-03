@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "nota (know) notary, notation, notarize, notary, note",
+        "origin": "Latin, notare (to mark, to note)",
+        "meaning": {
+            "ko": "표시하다, 알다",
+            "en": "to note",
+            "ja": "記す、気づく",
+            "zh": "标记、注意",
+            "fr": "noter, remarquer"
+        }
+    },
+    "words": [
+        {
+            "word": "notary",
+            "part_of_speech": "",
+            "origin": "Latin, notarius (a clerk, secretary)",
+            "meaning": {
+                "ko": "서기",
+                "en": "clerk or secretary",
+                "ja": "公証人",
+                "zh": "公证人",
+                "fr": "notaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "not-",
+                    "meaning": {
+                        "ko": "'표시하다'",
+                        "en": "to note",
+                        "ja": "記す",
+                        "zh": "记录",
+                        "fr": "noter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'문서에 서명하고 공식적으로 인증하는 사람'인 '공증인'을 뜻합니다.",
+                "en": "A person who signs documents and officially certifies them",
+                "ja": "書類に署名し、公式に認証する人",
+                "zh": "在文件上签名并正式认证的人",
+                "fr": "Personne qui signe les documents et les certifie officiellement"
+            },
+            "example": "You need to have the document signed by a notary.",
+            "translation": {
+                "ko": "당신은 그 서류에 공증인의 서명을 받아야 한다.",
+                "ja": "あなたは公証人に書類に署名してもらう必要があります。",
+                "zh": "你需要由公证人在文件上签名。",
+                "fr": "Vous devez faire signer le document par un notaire."
+            }
+        },
+        {
+            "word": "notation",
+            "part_of_speech": "",
+            "origin": "Latin, notatio (a marking, a noting)",
+            "meaning": {
+                "ko": "표시하기",
+                "en": "to mark or indicate",
+                "ja": "記号体系",
+                "zh": "符号系统",
+                "fr": "système de symboles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "not-",
+                    "meaning": {
+                        "ko": "'표시하다'",
+                        "en": "to note",
+                        "ja": "記す",
+                        "zh": "记录",
+                        "fr": "noter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정보를 나타내는 기호 체계'인 '표기법'을 뜻합니다.",
+                "en": "A system of symbols representing information",
+                "ja": "情報を表す記号体系",
+                "zh": "表示信息的符号体系",
+                "fr": "Système de symboles représentant l'information"
+            },
+            "example": "Musical notation uses symbols to represent sounds.",
+            "translation": {
+                "ko": "악보는 소리를 나타내기 위해 기호를 사용한다.",
+                "ja": "記法",
+                "zh": "记法",
+                "fr": "notation"
+            }
+        },
+        {
+            "word": "notarize",
+            "part_of_speech": "",
+            "origin": "Latin, notarius (clerk)",
+            "meaning": {
+                "ko": "서기",
+                "en": "clerk or scribe",
+                "ja": "公証人に認証してもらう",
+                "zh": "由公证人认证",
+                "fr": "faire authentifier par notaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "notar-",
+                    "meaning": {
+                        "ko": "'공증인'",
+                        "en": "notary public",
+                        "ja": "公証人",
+                        "zh": "公证人",
+                        "fr": "notaire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공증인에게 문서의 진위를 인증받다'는 뜻입니다.",
+                "en": "Get a document authenticated by a notary public",
+                "ja": "公証人に文書の真正性を認証してもらうこと",
+                "zh": "由公证人对文件的真实性进行认证",
+                "fr": "Faire certifier l'authenticité d'un document par un notaire"
+            },
+            "example": "You must get the contract notarized.",
+            "translation": {
+                "ko": "당신은 그 계약서를 공증받아야 한다.",
+                "ja": "契約書を公証人に認証してもらう必要があります",
+                "zh": "你必须由公证人对合同进行认证",
+                "fr": "Vous devez faire authentifier le contrat par un notaire"
+            }
+        },
+        {
+            "word": "note",
+            "part_of_speech": "",
+            "origin": "Latin, nota (a mark, a sign)",
+            "meaning": {
+                "ko": "표시, 기호",
+                "en": "mark or symbol",
+                "ja": "記号、印",
+                "zh": "标记、符号",
+                "fr": "marque, signe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "not-",
+                    "meaning": {
+                        "ko": "'표시하다, 알다'",
+                        "en": "to mark, know",
+                        "ja": "標記する、知る",
+                        "zh": "标记、了解",
+                        "fr": "marquer, connaître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기억하기 위해 짧게 표시해 둔 글'인 '메모', '필기'를 뜻합니다.",
+                "en": "A short written record made for remembering, like a memo or written notes.",
+                "ja": "覚えるために短く書き留めたメモ、筆記",
+                "zh": "为了记忆而简短记下的备忘录、笔记",
+                "fr": "Note courte écrite pour se souvenir, comme un mémo ou des notes"
+            },
+            "example": "Please take notes during the lecture.",
+            "translation": {
+                "ko": "강의 중에 필기해 주세요.",
+                "ja": "講義中にメモを取ってください。",
+                "zh": "请在讲座期间记笔记。",
+                "fr": "Veuillez prendre des notes pendant la conférence."
+            }
+        }
+    ]
+}

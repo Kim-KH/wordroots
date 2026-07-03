@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "period (time) periodic, periodical, periodically",
+        "origin": "Greek, periodos (a going around, a cycle)",
+        "meaning": {
+            "ko": "순환, 주기",
+            "en": "a cycle",
+            "ja": "サイクル",
+            "zh": "周期",
+            "fr": "un cycle"
+        }
+    },
+    "words": [
+        {
+            "word": "periodic",
+            "part_of_speech": "",
+            "origin": "Greek, periodikos (recurring at intervals)",
+            "meaning": {
+                "ko": "주기적으로 되풀이되는",
+                "en": "occurring repeatedly at intervals",
+                "ja": "周期的に繰り返される",
+                "zh": "周期性重复的",
+                "fr": "qui se répète périodiquement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "period-",
+                    "meaning": {
+                        "ko": "'주기'",
+                        "en": "period",
+                        "ja": "周期",
+                        "zh": "周期",
+                        "fr": "période"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일정한 주기로 되풀이되는'이라는 의미에서 '주기적인'이라는 뜻입니다.",
+                "en": "Meaning 'recurring at regular intervals'",
+                "ja": "一定の周期で繰り返されるという意味で、周期的なという意味です",
+                "zh": "按照一定周期重复出现的意思",
+                "fr": "Signifie 'qui se reproduit à intervalles réguliers'"
+            },
+            "example": "The periodic table arranges elements by their atomic number.",
+            "translation": {
+                "ko": "주기율표는 원소를 원자 번호순으로 배열한다.",
+                "ja": "周期表は元素を原子番号で配列している。",
+                "zh": "元素周期表按原子序数排列元素。",
+                "fr": "Le tableau périodique classe les éléments par numéro atomique."
+            }
+        },
+        {
+            "word": "periodical",
+            "part_of_speech": "",
+            "origin": "Greek, periodikos",
+            "meaning": {
+                "ko": "주기적으로 되풀이되는",
+                "en": "recurring periodically",
+                "ja": "定期的に繰り返される",
+                "zh": "定期重复发生",
+                "fr": "qui se répète périodiquement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "period-",
+                    "meaning": {
+                        "ko": "'주기'",
+                        "en": "period",
+                        "ja": "周期",
+                        "zh": "周期",
+                        "fr": "période"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주기적으로 발행되는 간행물'인 '정기 간행물'을 뜻합니다.",
+                "en": "Refers to 'periodical publications' that are issued regularly",
+                "ja": "定期的に発行される出版物を意味します",
+                "zh": "指定期发行的出版物",
+                "fr": "Désigne les publications émises régulièrement"
+            },
+            "example": "She reads several academic periodicals.",
+            "translation": {
+                "ko": "그녀는 여러 학술 정기 간행물을 읽는다.",
+                "ja": "彼女は複数の学術定期刊行物を読んでいます",
+                "zh": "她阅读几份学术期刊",
+                "fr": "Elle lit plusieurs périodiques universitaires"
+            }
+        },
+        {
+            "word": "periodically",
+            "part_of_speech": "",
+            "origin": "Greek, periodikos",
+            "meaning": {
+                "ko": "주기적으로 되풀이되는",
+                "en": "repeating at regular intervals",
+                "ja": "周期的に繰り返される",
+                "zh": "周期性地重复",
+                "fr": "qui se répète périodiquement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "period-",
+                    "meaning": {
+                        "ko": "'주기'",
+                        "en": "period",
+                        "ja": "周期",
+                        "zh": "周期",
+                        "fr": "période"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주기적으로', '정기적으로'라는 뜻입니다.",
+                "en": "Means 'periodically' or 'regularly'",
+                "ja": "『周期的に』『定期的に』という意味です",
+                "zh": "意思是'周期性地'或'定期地'",
+                "fr": "Signifie 'périodiquement' ou 'régulièrement'"
+            },
+            "example": "The committee meets periodically to review the progress.",
+            "translation": {
+                "ko": "위원회는 진행 상황을 검토하기 위해 주기적으로 만난다.",
+                "ja": "委員会は進捗状況を確認するために周期的に会合を開く。",
+                "zh": "委员会定期召开会议以审查进展情况。",
+                "fr": "Le comité se réunit périodiquement pour examiner les progrès."
+            }
+        }
+    ]
+}

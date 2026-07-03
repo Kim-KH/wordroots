@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "cent (hundred, one hundredth) centigrade, century, centimeter, percent",
+        "origin": "Latin, centum (hundred)",
+        "meaning": {
+            "ko": "백",
+            "en": "hundred",
+            "ja": "百",
+            "zh": "百",
+            "fr": "cent"
+        }
+    },
+    "words": [
+        {
+            "word": "centigrade",
+            "part_of_speech": "",
+            "origin": "Latin, centum (hundred) + gradus (step, degree)",
+            "meaning": {
+                "ko": "백 단계",
+                "en": "hundred steps",
+                "ja": "百段階",
+                "zh": "百个等级",
+                "fr": "cent degrés"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "centi (centum)",
+                    "meaning": {
+                        "ko": "'백'",
+                        "en": "hundred",
+                        "ja": "百",
+                        "zh": "百",
+                        "fr": "cent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grade (gradus)",
+                    "meaning": {
+                        "ko": "'등급, 단계'",
+                        "en": "degree, step",
+                        "ja": "等級、段階",
+                        "zh": "等级、阶段",
+                        "fr": "degré, étape"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "물의 어는점과 끓는점 사이를 '100(centi)개의 등급(grade)으로 나눈' 온도 체계라는 의미에서 '섭씨'를 뜻합니다.",
+                "en": "A temperature system where the interval between water's freezing and boiling points is divided into 100 (centi) degrees (grade), hence meaning Celsius.",
+                "ja": "水の氷点と沸点の間を100個の等級に分けた温度体系という意味で、摂氏を表します。",
+                "zh": "温度体系中水的冰点和沸点之间被分为100个等级，因此表示摄氏温度。",
+                "fr": "Un système de température où l'intervalle entre le point de congélation et le point d'ébullition de l'eau est divisé en 100 degrés, d'où le sens de Celsius."
+            },
+            "example": "Water boils at 100 degrees Centigrade.",
+            "translation": {
+                "ko": "물은 섭씨 100도에서 끓는다.",
+                "ja": "セルシウス温度",
+                "zh": "摄氏温度",
+                "fr": "degré Celsius"
+            }
+        },
+        {
+            "word": "century",
+            "part_of_speech": "",
+            "origin": "Latin, centuria (a group of one hundred)",
+            "meaning": {
+                "ko": "백인대",
+                "en": "group of hundred people",
+                "ja": "世紀、百年",
+                "zh": "世纪、百年",
+                "fr": "siècle, cent ans"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cent (centum)",
+                    "meaning": {
+                        "ko": "'백'",
+                        "en": "hundred",
+                        "ja": "百、百個",
+                        "zh": "百、百个",
+                        "fr": "cent, centaine"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ury",
+                    "meaning": {
+                        "ko": "'집합'",
+                        "en": "collection",
+                        "ja": "集合、団体",
+                        "zh": "集合、团体",
+                        "fr": "assemblée, groupe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "로마 군대의 '100명으로 구성된 부대'에서 유래하여 '100년'의 기간을 의미하는 '세기'가 되었습니다.",
+                "en": "Derived from Roman military units of 100 soldiers, later came to mean a period of 100 years.",
+                "ja": "ローマ軍の100人の兵士で構成された部隊に由来し、後に100年間の期間を意味する世紀となった。",
+                "zh": "源自罗马军队的由100名士兵组成的部队，后来演变为表示100年的时期。",
+                "fr": "Dérivé des unités militaires romaines composées de 100 soldats, devenu plus tard le terme désignant une période de 100 ans."
+            },
+            "example": "We are living in the 21st century.",
+            "translation": {
+                "ko": "우리는 21세기에 살고 있다.",
+                "ja": "私たちは21世紀に生きています。",
+                "zh": "我们生活在21世纪。",
+                "fr": "Nous vivons au 21e siècle."
+            }
+        },
+        {
+            "word": "centimeter",
+            "part_of_speech": "",
+            "origin": "Latin, centum (hundred) + Greek, metron (measure)",
+            "meaning": {
+                "ko": "백분의 일 미터",
+                "en": "one hundredth of a meter",
+                "ja": "百分の一メートル",
+                "zh": "米的百分之一",
+                "fr": "un centième de mètre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "centi (centum)",
+                    "meaning": {
+                        "ko": "'백분의 일'",
+                        "en": "one hundredth",
+                        "ja": "百分の一",
+                        "zh": "百分之一",
+                        "fr": "un centième"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter (metron)",
+                    "meaning": {
+                        "ko": "'측정 단위'",
+                        "en": "measure",
+                        "ja": "測定単位",
+                        "zh": "测量单位",
+                        "fr": "unité de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "1미터의 '100분의 1(centi)'에 해당하는 길이라는 의미에서 '센티미터'가 되었습니다.",
+                "en": "The term 'centimeter' comes from the meaning of 1/100 (centi) of a meter in length.",
+                "ja": "1メートルの100分の1(centi)に該当する長さという意味から'センチメートル'になりました。",
+                "zh": "术语'厘米'来自于长度意义上1米的百分之一(centi)。",
+                "fr": "Le terme 'centimètre' vient du sens de 1/100 (centi) d'un mètre en longueur."
+            },
+            "example": "The line is 10 centimeters long.",
+            "translation": {
+                "ko": "그 선은 길이가 10센티미터이다.",
+                "ja": "その線は10センチメートルの長さです。",
+                "zh": "那条线长10厘米。",
+                "fr": "La ligne mesure 10 centimètres de long."
+            }
+        },
+        {
+            "word": "percent",
+            "part_of_speech": "",
+            "origin": "Latin, per centum (by the hundred)",
+            "meaning": {
+                "ko": "백 당",
+                "en": "per hundred",
+                "ja": "百分率、パーセント",
+                "zh": "百分比、百分率",
+                "fr": "pourcentage, pour cent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "per",
+                    "meaning": {
+                        "ko": "'~당'",
+                        "en": "hundred",
+                        "ja": "ごと、あたり",
+                        "zh": "每、每个",
+                        "fr": "par, pour chaque"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cent (centum)",
+                    "meaning": {
+                        "ko": "'백'",
+                        "en": "per",
+                        "ja": "百、百個",
+                        "zh": "百、百个",
+                        "fr": "cent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'100(cent) 당(per)'이라는 의미에서 전체를 100으로 놓고 그에 대한 비율을 나타내는 '백분율', '퍼센트'를 뜻합니다.",
+                "en": "Represents a ratio by setting the whole as 100 and indicating the proportion relative to it, meaning 'percentage' or 'percent'",
+                "ja": "全体を100として、それに対する比率を表す百分率やパーセントを意味します",
+                "zh": "将整体设为100，表示相对于该整体的比例，意为百分率或百分比",
+                "fr": "Représente un ratio en fixant le tout à 100 et en indiquant la proportion relative, signifiant pourcentage"
+            },
+            "example": "The interest rate is five percent.",
+            "translation": {
+                "ko": "이자율은 5퍼센트이다.",
+                "ja": "金利は5パーセントです。",
+                "zh": "利率是百分之五。",
+                "fr": "Le taux d'intérêt est de cinq pour cent."
+            }
+        }
+    ]
+}

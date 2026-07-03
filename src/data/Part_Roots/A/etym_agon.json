@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "agon (struggle) agony, protagonist, antagonist",
+        "origin": "Greek, agōn (contest, struggle)",
+        "meaning": {
+            "ko": "투쟁, 경쟁",
+            "en": "struggle, contest",
+            "ja": "闘争、競争",
+            "zh": "斗争、竞争",
+            "fr": "lutte, concurrence"
+        }
+    },
+    "words": [
+        {
+            "word": "agony",
+            "part_of_speech": "",
+            "origin": "Greek, agōnia (struggle for victory)",
+            "meaning": {
+                "ko": "투쟁하다",
+                "en": "to struggle",
+                "ja": "苦しむ",
+                "zh": "痛苦",
+                "fr": "agonie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agon",
+                    "meaning": {
+                        "ko": "'투쟁'",
+                        "en": "struggle",
+                        "ja": "闘争",
+                        "zh": "斗争",
+                        "fr": "lutte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스에서 운동 경기의 '경쟁'이나 '투쟁'을 의미하던 단어가, 정신적, 육체적으로 극심한 '투쟁' 상태를 묘사하게 되면서 '극심한 고통'이라는 뜻으로 발전했습니다.",
+                "en": "In ancient Greece, a word meaning 'competition' or 'struggle' in athletic contests developed to describe intense physical and mental suffering, eventually meaning 'severe pain'.",
+                "ja": "古代ギリシャで運動競技の'競争'や'闘争'を意味する言葉が、精神的・肉体的に激しい'闘争'の状態を表すようになり、'激しい痛み'という意味に発展しました。",
+                "zh": "古代希腊中表示运动竞技'竞争'或'斗争'的词汇，逐渐演变为描述精神和身体上的激烈'斗争'状态，最终发展为'极端痛苦'的含义。",
+                "fr": "En Grèce antique, un mot signifiant 'compétition' ou 'lutte' dans les compétitions athlétiques a évolué pour décrire une intense lutte physique et mentale, finissant par signifier 'douleur extrême'."
+            },
+            "example": "He was in agony after twisting his ankle.",
+            "translation": {
+                "ko": "그는 발목을 삔 후 극심한 고통에 시달렸다.",
+                "ja": "彼は足首をひねった後、極度の苦しみの中にいました。",
+                "zh": "他扭伤脚踝后陷入极端的痛苦中。",
+                "fr": "Il souffrait atrocement après s'être tordu la cheville."
+            }
+        },
+        {
+            "word": "protagonist",
+            "part_of_speech": "",
+            "origin": "Greek, prōtagōnistēs (chief actor)",
+            "meaning": {
+                "ko": "첫 번째 배우",
+                "en": "first actor",
+                "ja": "最初の俳優",
+                "zh": "第一个演员",
+                "fr": "premier acteur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "prot- (protos)",
+                    "meaning": {
+                        "ko": "'첫 번째의'",
+                        "en": "first",
+                        "ja": "最初の",
+                        "zh": "第一的",
+                        "fr": "premier"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agonist (agōnistēs)",
+                    "meaning": {
+                        "ko": "'경쟁자, 배우'",
+                        "en": "competitor, actor",
+                        "ja": "競争者、俳優",
+                        "zh": "竞争者、演员",
+                        "fr": "concurrent, acteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "그리스 연극에서 '첫 번째(prot) 배우(agonist)'라는 의미에서 유래하여, 이야기나 사건의 중심인물인 '주인공'을 뜻하게 되었습니다.",
+                "en": "In Greek theater, derived from 'first (prot) actor (agonist)', later came to mean 'protagonist', the central character in a story or event.",
+                "ja": "ギリシャ劇で「最初(prot)の俳優(agonist)」という意味に由来し、物語や事件の中心人物である「主人公」を意味するようになりました。",
+                "zh": "源于古希腊戏剧中「第一个(prot)演员(agonist)」的含义，后来指故事或事件的中心人物「主角」。",
+                "fr": "Dérivé du théâtre grec, signifiant 'premier (prot) acteur (agonist)', devenu plus tard 'protagoniste', le personnage central d'une histoire ou d'un événement."
+            },
+            "example": "The protagonist of the novel is a young woman searching for her identity.",
+            "translation": {
+                "ko": "그 소설의 주인공은 자신의 정체성을 찾아가는 젊은 여성이다.",
+                "ja": "この小説の主人公は、自分のアイデンティティを求めている若い女性です。",
+                "zh": "这部小说的主角是一位寻找自我认同的年轻女性。",
+                "fr": "Le protagoniste du roman est une jeune femme en quête de son identité."
+            }
+        },
+        {
+            "word": "antagonist",
+            "part_of_speech": "",
+            "origin": "Greek, antagōnistēs (competitor, rival)",
+            "meaning": {
+                "ko": "맞서 싸우다",
+                "en": "to struggle against",
+                "ja": "対抗する",
+                "zh": "对抗",
+                "fr": "s'opposer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ant- (anti)",
+                    "meaning": {
+                        "ko": "'~에 맞서는'",
+                        "en": "against",
+                        "ja": "~に対抗する",
+                        "zh": "对抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agonist (agōnistēs)",
+                    "meaning": {
+                        "ko": "'경쟁자, 배우'",
+                        "en": "competitor, actor",
+                        "ja": "競争者、俳優",
+                        "zh": "竞争者、演员",
+                        "fr": "concurrent, acteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "주인공에 '맞서(ant) 싸우는(agonist) 인물'이라는 의미에서, 이야기 속 '적대자'나 '반동인물'을 가리키는 말로 사용됩니다.",
+                "en": "In narrative, refers to a character who opposes the protagonist, representing an adversary or opposing force in the story.",
+                "ja": "物語において主人公に対抗する人物を指し、物語内の敵対者や反動人物を意味します。",
+                "zh": "在叙事中，指与主角对抗的人物，代表故事中的敌对者或反面角色。",
+                "fr": "Dans un récit, désigne un personnage qui s'oppose au protagoniste, représentant un adversaire ou une force antagoniste."
+            },
+            "example": "In the story, the scheming brother is the main antagonist.",
+            "translation": {
+                "ko": "그 이야기에서 계략을 꾸미는 형이 주된 적대자이다.",
+                "ja": "その物語では、策略家の兄が主な対抗人物です。",
+                "zh": "在这个故事中，诡计多端的哥哥是主要对抗人物。",
+                "fr": "Dans l'histoire, le frère intrigant est l'antagoniste principal."
+            }
+        }
+    ]
+}

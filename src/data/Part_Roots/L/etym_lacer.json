@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "lacer (slash, mangled) lacerate, laceration",
+        "origin": "Latin, lacerare (to tear to pieces)",
+        "meaning": {
+            "ko": "찢다",
+            "en": "to tear",
+            "ja": "引き裂く",
+            "zh": "撕裂",
+            "fr": "déchirer"
+        }
+    },
+    "words": [
+        {
+            "word": "lacerate",
+            "part_of_speech": "",
+            "origin": "Latin, lacerare (to tear)",
+            "meaning": {
+                "ko": "찢다",
+                "en": "to tear or rip",
+                "ja": "裂く、引き裂く",
+                "zh": "撕裂、割伤",
+                "fr": "déchirer, lacérer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lacer-",
+                    "meaning": {
+                        "ko": "'찢다'",
+                        "en": "to tear",
+                        "ja": "裂く",
+                        "zh": "撕裂",
+                        "fr": "déchirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부나 살을 날카롭게 찢다'는 의미입니다.",
+                "en": "To tear skin or flesh sharply",
+                "ja": "皮膚や肉を鋭く裂くこと",
+                "zh": "尖锐地撕裂皮肤或肌肉",
+                "fr": "Déchirer la peau ou la chair de manière tranchante"
+            },
+            "example": "The broken glass lacerated his hand.",
+            "translation": {
+                "ko": "깨진 유리가 그의 손을 찢었다.",
+                "ja": "割れたガラスが彼の手を裂いた。",
+                "zh": "碎玻璃撕裂了他的手。",
+                "fr": "Le verre cassé a lacéré sa main."
+            }
+        },
+        {
+            "word": "laceration",
+            "part_of_speech": "",
+            "origin": "Latin, laceratio (a tearing)",
+            "meaning": {
+                "ko": "찢기",
+                "en": "tearing or ripping",
+                "ja": "裂き傷",
+                "zh": "撕裂伤",
+                "fr": "déchirure"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lacer-",
+                    "meaning": {
+                        "ko": "'찢다'",
+                        "en": "to tear",
+                        "ja": "引き裂く",
+                        "zh": "撕裂",
+                        "fr": "déchirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부가 찢어져서 생긴 상처'인 '열상'을 뜻합니다.",
+                "en": "A wound caused by the skin being torn",
+                "ja": "皮膚が引き裂かれて生じた傷",
+                "zh": "由皮肤被撕裂而产生的伤口",
+                "fr": "Une plaie causée par une déchirure de la peau"
+            },
+            "example": "He had several deep lacerations on his arm.",
+            "translation": {
+                "ko": "그는 팔에 여러 개의 깊은 열상을 입었다.",
+                "ja": "彼の腕には数本の深い裂き傷がありました。",
+                "zh": "他的手臂上有几处深的撕裂伤。",
+                "fr": "Il avait plusieurs déchirures profondes au bras."
+            }
+        }
+    ]
+}

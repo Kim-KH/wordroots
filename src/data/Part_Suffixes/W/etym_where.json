@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "where (location) anywhere, everywhere, nowhere, somewhere",
+        "origin": "Old English, hwær",
+        "meaning": {
+            "ko": "장소",
+            "en": "location",
+            "ja": "場所",
+            "zh": "位置",
+            "fr": "emplacement"
+        }
+    },
+    "words": [
+        {
+            "word": "anywhere",
+            "part_of_speech": "",
+            "origin": "English, any + where",
+            "meaning": {
+                "ko": "어떤 장소",
+                "en": "any place or location",
+                "ja": "どこでも",
+                "zh": "任何地方",
+                "fr": "n'importe où"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "any",
+                    "meaning": {
+                        "ko": "'어떤'",
+                        "en": "any or some",
+                        "ja": "どんな",
+                        "zh": "任何",
+                        "fr": "quelconque"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "where",
+                    "meaning": {
+                        "ko": "'곳'",
+                        "en": "place or location",
+                        "ja": "場所",
+                        "zh": "地方",
+                        "fr": "lieu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'(긍정문, 의문문 등에서) 어떤 곳이든'이라는 뜻입니다.",
+                "en": "Means 'any place whatsoever' in affirmative, interrogative, etc. sentences",
+                "ja": "肯定文や疑問文などで『どんな場所でもよい』という意味です",
+                "zh": "在肯定句、疑问句等中表示'任何地方都可以'的意思",
+                "fr": "Signifie 'n'importe quel endroit' dans les phrases affirmatives, interrogatives, etc."
+            },
+            "example": "You can sit anywhere you like.",
+            "translation": {
+                "ko": "당신은 원하는 어디에나 앉을 수 있다.",
+                "ja": "あなたはどこにでも座ることができます",
+                "zh": "你可以坐在任何地方",
+                "fr": "Vous pouvez vous asseoir n'importe où"
+            }
+        },
+        {
+            "word": "everywhere",
+            "part_of_speech": "",
+            "origin": "English, every + where",
+            "meaning": {
+                "ko": "모든 장소",
+                "en": "all places",
+                "ja": "すべての場所",
+                "zh": "所有地方",
+                "fr": "tous les endroits"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "every",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべての",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "where",
+                    "meaning": {
+                        "ko": "'곳'",
+                        "en": "place",
+                        "ja": "場所",
+                        "zh": "地方",
+                        "fr": "endroits"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 곳에'라는 뜻입니다.",
+                "en": "Meaning all places or in all places",
+                "ja": "すべての場所という意味です",
+                "zh": "意思是所有地方",
+                "fr": "Signifie tous les endroits"
+            },
+            "example": "I looked everywhere for my keys.",
+            "translation": {
+                "ko": "나는 내 열쇠를 찾기 위해 모든 곳을 다 찾아보았다.",
+                "ja": "私は鍵をどこにでも探しました",
+                "zh": "我到处寻找我的钥匙",
+                "fr": "J'ai cherché mes clés partout"
+            }
+        },
+        {
+            "word": "nowhere",
+            "part_of_speech": "",
+            "origin": "English, no + where",
+            "meaning": {
+                "ko": "장소가 없음",
+                "en": "a place that does not exist",
+                "ja": "どこにもない",
+                "zh": "没有地方",
+                "fr": "nulle part"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "no",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "not having",
+                        "ja": "~がない",
+                        "zh": "~没有",
+                        "fr": "~n'existe pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "where",
+                    "meaning": {
+                        "ko": "'곳'",
+                        "en": "place",
+                        "ja": "場所",
+                        "zh": "地方",
+                        "fr": "endroit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아무데도 없는'이라는 뜻입니다.",
+                "en": "Means there is no place anywhere",
+                "ja": "どこにも存在しない場所",
+                "zh": "任何地方都不存在",
+                "fr": "Signifie qu'il n'y a aucun endroit"
+            },
+            "example": "There was nowhere to hide.",
+            "translation": {
+                "ko": "숨을 곳이 아무데도 없었다.",
+                "ja": "隠れる場所がなかった。",
+                "zh": "没有地方躲藏。",
+                "fr": "Il n'y avait nulle part où se cacher."
+            }
+        },
+        {
+            "word": "somewhere",
+            "part_of_speech": "",
+            "origin": "English, some + where",
+            "meaning": {
+                "ko": "어떤 장소",
+                "en": "some place or location",
+                "ja": "どこかの場所",
+                "zh": "某个地方",
+                "fr": "quelque part"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "some",
+                    "meaning": {
+                        "ko": "'어떤'",
+                        "en": "some or a certain",
+                        "ja": "ある",
+                        "zh": "某个",
+                        "fr": "certain"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "where",
+                    "meaning": {
+                        "ko": "'곳'",
+                        "en": "place or location",
+                        "ja": "場所",
+                        "zh": "地方",
+                        "fr": "endroit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어딘가에'라는 뜻입니다.",
+                "en": "It means 'at some unspecified location'",
+                "ja": "特定されていない場所を意味します",
+                "zh": "表示未指定的某个地方",
+                "fr": "signifie à un endroit non spécifié"
+            },
+            "example": "My keys must be somewhere in this room.",
+            "translation": {
+                "ko": "내 열쇠는 이 방 어딘가에 있을 것이다.",
+                "ja": "私の鍵はこの部屋のどこかにあるに違いない。",
+                "zh": "我的钥匙一定在这个房间的某个地方。",
+                "fr": "Mes clés doivent être quelque part dans cette pièce."
+            }
+        }
+    ]
+}

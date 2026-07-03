@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "pter (wing, fly) helicopter, ornithopter, pterodactyl",
+        "origin": "Greek, pteron (wing)",
+        "meaning": {
+            "ko": "날개",
+            "en": "wing",
+            "ja": "翼",
+            "zh": "翅膀",
+            "fr": "aile"
+        }
+    },
+    "words": [
+        {
+            "word": "helicopter",
+            "part_of_speech": "",
+            "origin": "Greek, helix (spiral) + pteron (wing)",
+            "meaning": {
+                "ko": "나선 날개",
+                "en": "spiral blade",
+                "ja": "螺旋翼航空機",
+                "zh": "螺旋桨飞机",
+                "fr": "aéronef à hélice"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "heli-",
+                    "meaning": {
+                        "ko": "'나선'",
+                        "en": "spiral",
+                        "ja": "螺旋",
+                        "zh": "螺旋",
+                        "fr": "spirale"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "copter",
+                    "meaning": {
+                        "ko": "'날개'",
+                        "en": "wing",
+                        "ja": "翼",
+                        "zh": "翅膀",
+                        "fr": "aile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나선형으로 회전하는 날개'를 가진 항공기라는 의미에서 '헬리콥터'를 뜻합니다.",
+                "en": "The helicopter rescued the stranded hikers.",
+                "ja": "ヘリコプターは遭難したハイカーを救助した。",
+                "zh": "直升机救出了遇难的登山者。",
+                "fr": "L'hélicoptère a secouru les randonneurs bloqués."
+            },
+            "example": "The helicopter rescued the stranded hikers.",
+            "translation": {
+                "ko": "헬리콥터가 조난된 등산객들을 구조했다.",
+                "ja": "ヘリコプター",
+                "zh": "直升机",
+                "fr": "hélicoptère"
+            }
+        },
+        {
+            "word": "ornithopter",
+            "part_of_speech": "",
+            "origin": "Greek, ornis (bird) + pteron (wing)",
+            "meaning": {
+                "ko": "새 날개",
+                "en": "bird wing",
+                "ja": "鳥のような翼",
+                "zh": "鸟翼飞行器",
+                "fr": "aile d'oiseau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ornitho-",
+                    "meaning": {
+                        "ko": "'새'",
+                        "en": "bird",
+                        "ja": "鳥",
+                        "zh": "鸟",
+                        "fr": "oiseau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pter",
+                    "meaning": {
+                        "ko": "'날개'",
+                        "en": "wing",
+                        "ja": "翼",
+                        "zh": "翼",
+                        "fr": "aile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새처럼 날개를 쳐서 나는' 비행 장치인 '날개치기 비행기'를 뜻합니다.",
+                "en": "An ornithopter is a flying machine that mimics bird flight by flapping wings",
+                "ja": "鳥のように翼を動かして飛ぶ飛行装置です",
+                "zh": "像鸟一样通过拍动翅膀飞行的装置",
+                "fr": "Appareil volant qui imite le vol des oiseaux en battant les ailes"
+            },
+            "example": "An ornithopter flies by flapping its wings.",
+            "translation": {
+                "ko": "날개치기 비행기는 날개를 퍼덕이며 난다.",
+                "ja": "オーニソプター、羽ばたき飛行機は羽を動かして飛びます",
+                "zh": "扑翼机通过拍动翅膀飞行",
+                "fr": "Un ornithoptère vole en battant ses ailes"
+            }
+        },
+        {
+            "word": "pterodactyl",
+            "part_of_speech": "",
+            "origin": "Greek, pteron (wing) + daktylos (finger)",
+            "meaning": {
+                "ko": "날개 손가락",
+                "en": "wing finger",
+                "ja": "翼手指",
+                "zh": "翼手指",
+                "fr": "doigt ailé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ptero-",
+                    "meaning": {
+                        "ko": "'날개'",
+                        "en": "wing",
+                        "ja": "翼",
+                        "zh": "翼",
+                        "fr": "aile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dactyl",
+                    "meaning": {
+                        "ko": "'손가락'",
+                        "en": "finger",
+                        "ja": "指",
+                        "zh": "手指",
+                        "fr": "doigt"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'날개 달린 손가락을 가진 공룡'이라는 의미에서 익룡의 일종인 '프테로닥틸루스'를 뜻합니다.",
+                "en": "Refers to pterodactylus, a type of pterosaur, from the meaning 'a dinosaur with winged fingers'",
+                "ja": "翼のある指を持つ恐竜という意味から、翼竜の一種であるプテロダクティルスを指します",
+                "zh": "从有翅膀的手指的恐龙之意，指的是翼龙的一种翼手龙",
+                "fr": "Désigne le ptérodactyle, un type de ptérosaure, du sens 'dinosaure aux doigts ailés'"
+            },
+            "example": "The pterodactyl is an extinct flying reptile.",
+            "translation": {
+                "ko": "프테로닥틸루스는 멸종된 비행 파충류이다.",
+                "ja": "プテロダクティルは絶滅した飛行爬虫類です",
+                "zh": "翼手龙是一种已灭绝的飞行爬行动物",
+                "fr": "Le ptérodactyle est un reptile volant éteint"
+            }
+        }
+    ]
+}

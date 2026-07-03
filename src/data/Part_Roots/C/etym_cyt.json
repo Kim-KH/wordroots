@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "cyt(o/e) (hollow vessel) cytology, cytoplasm, leukocyte, lymphocyte",
+        "origin": "Greek, kytos (a hollow, vessel)",
+        "meaning": {
+            "ko": "속이 빈 그릇, 세포",
+            "en": "hollow vessel",
+            "ja": "空洞の器",
+            "zh": "空容器",
+            "fr": "vaisseau creux"
+        }
+    },
+    "words": [
+        {
+            "word": "cytology",
+            "part_of_speech": "",
+            "origin": "Greek, kytos (hollow, cell) + logos (study)",
+            "meaning": {
+                "ko": "세포 연구",
+                "en": "study of cells",
+                "ja": "細胞研究",
+                "zh": "细胞研究",
+                "fr": "étude cellulaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyto-",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "discipline"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포를 연구하는 학문'이라는 의미에서 '세포학'을 뜻합니다.",
+                "en": "Cytology means the study of cells, combining 'cyto-' (cell) and '-logy' (study of).",
+                "ja": "細胞を研究する学問という意味で細胞学を意味します。",
+                "zh": "细胞学是指研究细胞的学科。",
+                "fr": "La cytologie signifie l'étude des cellules, combinant 'cyto-' (cellule) et '-logie' (étude de)."
+            },
+            "example": "Cytology is a branch of biology.",
+            "translation": {
+                "ko": "세포학은 생물학의 한 분야이다.",
+                "ja": "細胞学は生物学の一分野です。",
+                "zh": "细胞学是生物学的一个分支。",
+                "fr": "La cytologie est une branche de la biologie."
+            }
+        },
+        {
+            "word": "cytoplasm",
+            "part_of_speech": "",
+            "origin": "Greek, kytos (hollow, cell) + plasma (thing formed)",
+            "meaning": {
+                "ko": "세포 형성물",
+                "en": "substance formed in cells",
+                "ja": "細胞質",
+                "zh": "细胞质",
+                "fr": "cytoplasme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyto-",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plasm",
+                    "meaning": {
+                        "ko": "'형성물, 질'",
+                        "en": "formed substance, material",
+                        "ja": "物質",
+                        "zh": "物质",
+                        "fr": "substance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포를 채우고 있는 물질'이라는 의미에서 '세포질'을 뜻합니다.",
+                "en": "Refers to the substance that fills and occupies the cell",
+                "ja": "細胞を満たしている物質という意味で細胞質を指します",
+                "zh": "指充满和占据细胞的物质的意思",
+                "fr": "Désigne la substance qui remplit et occupe la cellule"
+            },
+            "example": "The cytoplasm surrounds the nucleus of a cell.",
+            "translation": {
+                "ko": "세포질은 세포의 핵을 둘러싸고 있다.",
+                "ja": "細胞質は細胞の核を取り囲んでいます。",
+                "zh": "细胞质围绕着细胞的核。",
+                "fr": "Le cytoplasme entoure le noyau d'une cellule."
+            }
+        },
+        {
+            "word": "leukocyte",
+            "part_of_speech": "",
+            "origin": "Greek, leukos (white) + kytos (hollow, cell)",
+            "meaning": {
+                "ko": "흰 세포",
+                "en": "white blood cell",
+                "ja": "白血球",
+                "zh": "白细胞",
+                "fr": "globule blanc"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leuko-",
+                    "meaning": {
+                        "ko": "'흰색'",
+                        "en": "white",
+                        "ja": "白い",
+                        "zh": "白色",
+                        "fr": "blanc"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyte",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈액 속의 흰색 세포'라는 의미에서 '백혈구'를 뜻합니다.",
+                "en": "White blood cells in the bloodstream that fight infection and disease",
+                "ja": "血液中の白色細胞という意味で白血球を指します",
+                "zh": "血液中白色细胞的含义，指白细胞",
+                "fr": "Cellules blanches dans le sang qui combattent l'infection et la maladie"
+            },
+            "example": "Leukocytes are part of the body's immune system.",
+            "translation": {
+                "ko": "백혈구는 신체 면역 체계의 일부이다.",
+                "ja": "白血球は体の免疫システムの一部です。",
+                "zh": "白细胞是身体免疫系统的一部分。",
+                "fr": "Les globules blancs font partie du système immunitaire du corps."
+            }
+        },
+        {
+            "word": "lymphocyte",
+            "part_of_speech": "",
+            "origin": "Latin, lympha (water) + Greek, kytos (hollow, cell)",
+            "meaning": {
+                "ko": "림프 세포",
+                "en": "lymph cell",
+                "ja": "リンパ球",
+                "zh": "淋巴细胞",
+                "fr": "lymphocyte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lympho-",
+                    "meaning": {
+                        "ko": "'림프'",
+                        "en": "lymph",
+                        "ja": "リンパ液",
+                        "zh": "淋巴",
+                        "fr": "lymphe"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyte",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'림프계에 존재하는 세포'라는 의미에서 '림프구'를 뜻합니다.",
+                "en": "A type of white blood cell found in lymphatic system responsible for immune response",
+                "ja": "リンパ系に存在する細胞を意味し、免疫応答に関わる白血球の一種です",
+                "zh": "存在于淋巴系统中的细胞，是参与免疫反应的白血球",
+                "fr": "Type de globule blanc présent dans le système lymphatique responsable de la réponse immunitaire"
+            },
+            "example": "Lymphocytes help the body fight infection.",
+            "translation": {
+                "ko": "림프구는 신체가 감염과 싸우는 것을 돕는다.",
+                "ja": "リンパ球は体が感染と戦うのを助けます。",
+                "zh": "淋巴细胞帮助身体抵抗感染。",
+                "fr": "Les lymphocytes aident le corps à combattre les infections."
+            }
+        }
+    ]
+}

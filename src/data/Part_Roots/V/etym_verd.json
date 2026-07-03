@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "verd (green) verdant, verdigris, verdure",
+        "origin": "Latin, viridis (green)",
+        "meaning": {
+            "ko": "녹색의",
+            "en": "green",
+            "ja": "緑色の",
+            "zh": "绿色的",
+            "fr": "vert"
+        }
+    },
+    "words": [
+        {
+            "word": "verdant",
+            "part_of_speech": "",
+            "origin": "Latin, viridans (becoming green)",
+            "meaning": {
+                "ko": "녹색이 되어가는",
+                "en": "becoming green",
+                "ja": "青々とした緑色",
+                "zh": "青绿色的",
+                "fr": "d'un vert luxuriant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verd-",
+                    "meaning": {
+                        "ko": "'녹색'",
+                        "en": "green",
+                        "ja": "緑色",
+                        "zh": "绿色",
+                        "fr": "vert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'초목으로 뒤덮여 푸릇푸릇한'이라는 뜻입니다.",
+                "en": "Covered with lush vegetation and greenery",
+                "ja": "草木に覆われた生き生きとした緑",
+                "zh": "被植被覆盖欣欣向荣的绿色",
+                "fr": "Couvert de végétation luxuriante et verdoyante"
+            },
+            "example": "We walked through the verdant countryside.",
+            "translation": {
+                "ko": "우리는 푸른 시골길을 걸었다.",
+                "ja": "私たちは青々とした田舎を歩きました。",
+                "zh": "我们漫步在郁郁葱葱的乡村。",
+                "fr": "Nous avons marché à travers la campagne verdoyante."
+            }
+        },
+        {
+            "word": "verdigris",
+            "part_of_speech": "",
+            "origin": "Old French, vert de Grece (green of Greece)",
+            "meaning": {
+                "ko": "그리스의 녹색",
+                "en": "green of Greece",
+                "ja": "銅の緑色の錆",
+                "zh": "铜的绿色锈",
+                "fr": "vert-de-gris du cuivre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verd-",
+                    "meaning": {
+                        "ko": "'녹색'",
+                        "en": "green",
+                        "ja": "緑色",
+                        "zh": "绿色",
+                        "fr": "vert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "구리나 청동 표면에 생기는 '녹색 녹'인 '녹청'을 뜻합니다.",
+                "en": "A greenish patina that forms on the surface of copper or bronze",
+                "ja": "銅または青銅の表面に生じる緑色の錆を意味します",
+                "zh": "指铜或青铜表面形成的绿色锈",
+                "fr": "Patine verte qui se forme sur le cuivre ou le bronze"
+            },
+            "example": "The old copper statue was covered in verdigris.",
+            "translation": {
+                "ko": "그 오래된 구리 조각상은 녹청으로 덮여 있었다.",
+                "ja": "古い銅像は緑青で覆われていた",
+                "zh": "那座古老的铜像被铜绿覆盖了",
+                "fr": "La vieille statue en cuivre était couverte de vert-de-gris"
+            }
+        },
+        {
+            "word": "verdure",
+            "part_of_speech": "",
+            "origin": "Old French, verdure (greenness)",
+            "meaning": {
+                "ko": "푸름",
+                "en": "greenness or lush green color",
+                "ja": "青々とした草木",
+                "zh": "郁郁葱葱的草木",
+                "fr": "verdure, feuillage vert"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verd-",
+                    "meaning": {
+                        "ko": "'녹색'",
+                        "en": "green",
+                        "ja": "緑色",
+                        "zh": "绿色",
+                        "fr": "vert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'싱싱한 녹색 초목' 또는 '신선함'을 뜻하는 문학적인 단어입니다.",
+                "en": "A literary word meaning fresh, vibrant green vegetation or freshness.",
+                "ja": "新鮮で活き活きした緑色の植物、または爽やかさを意味する文学的な言葉です。",
+                "zh": "指郁郁葱葱的新鲜草木或清新感的文学用语。",
+                "fr": "Un mot littéraire désignant une végétation verte fraîche et luxuriante ou la fraîcheur."
+            },
+            "example": "The landscape was a rich tapestry of verdure.",
+            "translation": {
+                "ko": "그 풍경은 풍부한 녹색 식물로 이루어진 직물 같았다.",
+                "ja": "風景は豊かな青々とした草木のタペストリーだった。",
+                "zh": "风景是丰富的郁郁葱葱草木的织锦。",
+                "fr": "Le paysage était une riche tapisserie de verdure."
+            }
+        }
+    ]
+}

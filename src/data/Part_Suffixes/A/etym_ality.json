@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ality (property of, condition of) causality, personality, reality",
+        "origin": "Latin, -alitas (quality of)",
+        "meaning": {
+            "ko": "…의 성질",
+            "en": "quality of",
+            "ja": "…の性質",
+            "zh": "…的性质",
+            "fr": "qualité de…"
+        }
+    },
+    "words": [
+        {
+            "word": "causality",
+            "part_of_speech": "",
+            "origin": "Latin, causa (cause)",
+            "meaning": {
+                "ko": "원인",
+                "en": "cause or reason",
+                "ja": "因果関係",
+                "zh": "因果关系",
+                "fr": "causalité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "causal",
+                    "meaning": {
+                        "ko": "'원인의'",
+                        "en": "of cause",
+                        "ja": "原因の",
+                        "zh": "原因的",
+                        "fr": "de cause"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'성질'",
+                        "en": "quality or state",
+                        "ja": "性質",
+                        "zh": "性质",
+                        "fr": "nature"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원인과 결과의 관계'인 '인과 관계'를 뜻합니다.",
+                "en": "The relationship between cause and effect",
+                "ja": "原因と結果の関係を意味します",
+                "zh": "表示原因和结果之间的关系",
+                "fr": "La relation entre cause et effet"
+            },
+            "example": "The law of causality states that every event has a cause.",
+            "translation": {
+                "ko": "인과율은 모든 사건에는 원인이 있다고 말한다.",
+                "ja": "因果律は、すべての事象には原因があると述べています。",
+                "zh": "因果律指出每个事件都有一个原因。",
+                "fr": "La loi de causalité stipule que tout événement a une cause."
+            }
+        },
+        {
+            "word": "personality",
+            "part_of_speech": "",
+            "origin": "Latin, personalis (personal)",
+            "meaning": {
+                "ko": "개인의",
+                "en": "of an individual",
+                "ja": "個人の特性",
+                "zh": "个人的特质",
+                "fr": "caractère personnel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "person-",
+                    "meaning": {
+                        "ko": "'개인'",
+                        "en": "person",
+                        "ja": "人",
+                        "zh": "人",
+                        "fr": "personne"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ality",
+                    "meaning": {
+                        "ko": "'성질'",
+                        "en": "quality or nature",
+                        "ja": "性質",
+                        "zh": "性质",
+                        "fr": "nature"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 개인이 가진 고유한 성질'인 '성격', '인격'을 뜻합니다.",
+                "en": "Refers to 'character' or 'individuality' — the unique qualities possessed by a person.",
+                "ja": "ある個人が持つ固有な性質である'性格'、'人格'を意味します。",
+                "zh": "指一个人所具有的独特特质，即'性格'、'人品'。",
+                "fr": "Désigne le 'caractère' ou la 'personnalité' — les qualités uniques qu'une personne possède."
+            },
+            "example": "She has a friendly and outgoing personality.",
+            "translation": {
+                "ko": "그녀는 친절하고 외향적인 성격을 가지고 있다.",
+                "ja": "性格",
+                "zh": "个性",
+                "fr": "personnalité"
+            }
+        },
+        {
+            "word": "reality",
+            "part_of_speech": "",
+            "origin": "Latin, realis (real)",
+            "meaning": {
+                "ko": "실제의",
+                "en": "actual or real",
+                "ja": "現実",
+                "zh": "现实",
+                "fr": "réalité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "real",
+                    "meaning": {
+                        "ko": "'실제의'",
+                        "en": "real",
+                        "ja": "実際の",
+                        "zh": "实际的",
+                        "fr": "réel"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상상이나 거짓이 아닌 실제의 상태'인 '현실'을 뜻합니다.",
+                "en": "Means 'reality' - the actual state that is not imagination or falsehood",
+                "ja": "想像や嘘ではなく実際の状態である現実を意味します",
+                "zh": "表示不是想象或谎言的实际状态的现实",
+                "fr": "Signifie la réalité - l'état réel qui n'est pas imagination ou mensonge"
+            },
+            "example": "You need to face reality.",
+            "translation": {
+                "ko": "당신은 현실을 직시해야 한다.",
+                "ja": "あなたは現実に直面する必要があります",
+                "zh": "你需要面对现实",
+                "fr": "Vous devez faire face à la réalité"
+            }
+        }
+    ]
+}

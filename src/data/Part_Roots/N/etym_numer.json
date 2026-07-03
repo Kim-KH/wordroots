@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "numer (number) enumerate, numeral, numerical, innumerable",
+        "origin": "Latin, numerus (a number)",
+        "meaning": {
+            "ko": "숫자",
+            "en": "number",
+            "ja": "数字",
+            "zh": "数字",
+            "fr": "nombre"
+        }
+    },
+    "words": [
+        {
+            "word": "enumerate",
+            "part_of_speech": "",
+            "origin": "Latin, enumerare (to count out)",
+            "meaning": {
+                "ko": "세어보다",
+                "en": "to count or list items",
+                "ja": "列挙する",
+                "zh": "列举",
+                "fr": "énumérer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로, 완전히'",
+                        "en": "out, thoroughly",
+                        "ja": "外へ、完全に",
+                        "zh": "向外、彻底地",
+                        "fr": "dehors, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "numer-",
+                    "meaning": {
+                        "ko": "'세다'",
+                        "en": "to count",
+                        "ja": "数える",
+                        "zh": "计数",
+                        "fr": "compter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하나하나 세어서 밖으로 다 꺼내놓다'는 의미에서 '열거하다'라는 뜻입니다.",
+                "en": "One by one counting and completely laying out",
+                "ja": "一つ一つ数えて外に完全に出す",
+                "zh": "逐一计数并完全列出",
+                "fr": "Compter un par un et énumérer complètement"
+            },
+            "example": "Let me enumerate the reasons for my decision.",
+            "translation": {
+                "ko": "제 결정에 대한 이유를 열거해 보겠습니다.",
+                "ja": "私の決定の理由を列挙させてください。",
+                "zh": "让我列举我的决定的理由。",
+                "fr": "Permettez-moi d'énumérer les raisons de ma décision."
+            }
+        },
+        {
+            "word": "numeral",
+            "part_of_speech": "",
+            "origin": "Latin, numeralis (of a number)",
+            "meaning": {
+                "ko": "숫자의",
+                "en": "of numbers",
+                "ja": "数字の",
+                "zh": "数字的",
+                "fr": "numéral"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "numer-",
+                    "meaning": {
+                        "ko": "'숫자'",
+                        "en": "number",
+                        "ja": "数字",
+                        "zh": "数字",
+                        "fr": "nombre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숫자를 나타내는 기호'인 '숫자'를 뜻합니다.",
+                "en": "Refers to 'numeral', a symbol representing a number",
+                "ja": "数字を表す記号である'数字'を意味します",
+                "zh": "指表示数字的符号'数字'",
+                "fr": "Désigne 'numeral', un symbole représentant un nombre"
+            },
+            "example": "Roman numerals are still used today.",
+            "translation": {
+                "ko": "로마 숫자는 오늘날에도 여전히 사용된다.",
+                "ja": "ローマ数字は今日でも使われています",
+                "zh": "罗马数字至今仍在使用",
+                "fr": "Les chiffres romains sont encore utilisés aujourd'hui"
+            }
+        },
+        {
+            "word": "numerical",
+            "part_of_speech": "",
+            "origin": "Latin, numerus (number)",
+            "meaning": {
+                "ko": "숫자",
+                "en": "number or digit",
+                "ja": "数字の",
+                "zh": "数字的",
+                "fr": "numérique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "numer-",
+                    "meaning": {
+                        "ko": "'숫자'",
+                        "en": "number",
+                        "ja": "数字",
+                        "zh": "数字",
+                        "fr": "nombre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숫자의', '숫자로 나타낸'이라는 뜻입니다.",
+                "en": "Means 'of numbers' or 'expressed in numbers'",
+                "ja": "数字に関する、数字で表した",
+                "zh": "与数字有关的、用数字表示的",
+                "fr": "Relatif aux nombres ou exprimé en nombres"
+            },
+            "example": "Please put the files in numerical order.",
+            "translation": {
+                "ko": "파일을 숫자 순서대로 정리해 주세요.",
+                "ja": "ファイルを数字順に並べてください。",
+                "zh": "请按数字顺序排列文件。",
+                "fr": "Veuillez classer les fichiers dans l'ordre numérique."
+            }
+        },
+        {
+            "word": "innumerable",
+            "part_of_speech": "",
+            "origin": "Latin, innumerabilis (countless)",
+            "meaning": {
+                "ko": "셀 수 없는",
+                "en": "unable to be counted",
+                "ja": "数えられない",
+                "zh": "数不清的",
+                "fr": "innombrable"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "〜ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "numer-",
+                    "meaning": {
+                        "ko": "'세다'",
+                        "en": "to count",
+                        "ja": "数える",
+                        "zh": "计数",
+                        "fr": "compter"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-able",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "able to be done",
+                        "ja": "〜できる",
+                        "zh": "能够",
+                        "fr": "pouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'셀 수 없을 만큼 많은'이라는 의미에서 '무수한'이라는 뜻입니다.",
+                "en": "Means 'so many that cannot be counted', equivalent to 'countless'",
+                "ja": "数えられないほど多いという意味で、'無数の'という意味です",
+                "zh": "意思是'多到无法数清'，等同于'无数的'",
+                "fr": "Signifie 'trop nombreux pour être comptés', équivalent à 'innombrable'"
+            },
+            "example": "There are innumerable stars in the sky.",
+            "translation": {
+                "ko": "하늘에는 무수한 별들이 있다.",
+                "ja": "空には無数の星があります。",
+                "zh": "天空中有数不清的星星。",
+                "fr": "Il y a d'innombrables étoiles dans le ciel."
+            }
+        }
+    ]
+}

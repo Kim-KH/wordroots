@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "hallu (wander mentally) hallucinate, hallucinogenic",
+        "origin": "Latin, alucinari (to wander in mind)",
+        "meaning": {
+            "ko": "마음이 헤매다",
+            "en": "to wander in mind",
+            "ja": "心が迷う",
+            "zh": "心神游移",
+            "fr": "l'esprit s'égare"
+        }
+    },
+    "words": [
+        {
+            "word": "hallucinate",
+            "part_of_speech": "",
+            "origin": "Latin, alucinari (to wander in mind)",
+            "meaning": {
+                "ko": "마음이 헤매다",
+                "en": "mind wanders",
+                "ja": "幻覚を見る",
+                "zh": "产生幻觉",
+                "fr": "avoir des hallucinations"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hallucin-",
+                    "meaning": {
+                        "ko": "'마음이 헤매다'",
+                        "en": "to wander in mind",
+                        "ja": "心がさまよう",
+                        "zh": "心神游离",
+                        "fr": "l'esprit s'égare"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실제로 존재하지 않는 것을 보고 듣는 것처럼 느끼다'는 의미에서 '환각을 일으키다'라는 뜻입니다.",
+                "en": "Means 'to experience hallucinations' in the sense of seeing and hearing things that don't actually exist",
+                "ja": "実際に存在しないものを見たり聞いたりするような感覚を経験することを意味します",
+                "zh": "指看到和听到实际不存在的事物的感觉",
+                "fr": "Signifie expérimenter des hallucinations, voir et entendre des choses qui n'existent pas réellement"
+            },
+            "example": "A high fever can make you hallucinate.",
+            "translation": {
+                "ko": "고열은 환각을 일으킬 수 있다.",
+                "ja": "高熱は幻覚を見させることがあります",
+                "zh": "高烧可能导致产生幻觉",
+                "fr": "Une forte fièvre peut vous faire halluciner"
+            }
+        },
+        {
+            "word": "hallucinogenic",
+            "part_of_speech": "",
+            "origin": "Latin, alucinari + Greek, genos (birth)",
+            "meaning": {
+                "ko": "환각을 낳는",
+                "en": "producing hallucinations",
+                "ja": "幻覚を起こす",
+                "zh": "引起幻觉的",
+                "fr": "produisant des hallucinations"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hallucino-",
+                    "meaning": {
+                        "ko": "'환각'",
+                        "en": "hallucination",
+                        "ja": "幻覚",
+                        "zh": "幻觉",
+                        "fr": "hallucination"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "genic",
+                    "meaning": {
+                        "ko": "'만들어내는'",
+                        "en": "producing",
+                        "ja": "起こす",
+                        "zh": "产生",
+                        "fr": "produisant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'환각을 일으키는'이라는 뜻입니다.",
+                "en": "Something that causes hallucinations",
+                "ja": "幻覚を引き起こすという意味です",
+                "zh": "引起幻觉的意思",
+                "fr": "Quelque chose qui provoque des hallucinations"
+            },
+            "example": "LSD is a powerful hallucinogenic drug.",
+            "translation": {
+                "ko": "LSD는 강력한 환각제이다.",
+                "ja": "LSDは強力な幻覚薬です",
+                "zh": "LSD是一种强大的致幻药物",
+                "fr": "Le LSD est une drogue hallucinogène puissante"
+            }
+        }
+    ]
+}

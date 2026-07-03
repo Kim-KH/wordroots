@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "paleo (ancient) Paleocene, Paleolithic, paleontology",
+        "origin": "Greek, palaios (old, ancient)",
+        "meaning": {
+            "ko": "고대의",
+            "en": "ancient",
+            "ja": "古代の",
+            "zh": "古代的",
+            "fr": "ancien"
+        }
+    },
+    "words": [
+        {
+            "word": "Paleocene",
+            "part_of_speech": "",
+            "origin": "Greek, palaios (old) + kainos (new)",
+            "meaning": {
+                "ko": "오래된 새로운",
+                "en": "ancient new",
+                "ja": "古い新しい時代",
+                "zh": "古老的新时代",
+                "fr": "ancienne époque nouvelle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Paleo-",
+                    "meaning": {
+                        "ko": "'오래된'",
+                        "en": "old",
+                        "ja": "古い",
+                        "zh": "古老的",
+                        "fr": "ancien"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cene",
+                    "meaning": {
+                        "ko": "'새로운'",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신생대에서 가장 오래된 시기'라는 의미의 지질 시대 '팔레오세'를 뜻합니다.",
+                "en": "Paleocene refers to a geological epoch meaning 'the oldest period of the Cenozoic Era'",
+                "ja": "新生代で最も古い時期を意味する地質時代のパレオセンを指します",
+                "zh": "指地质时代中新生代最古老的时期的古近纪",
+                "fr": "Paléocène désigne une époque géologique signifiant 'la période la plus ancienne de l'ère Cénozoïque'"
+            },
+            "example": "The Paleocene epoch followed the extinction of the dinosaurs.",
+            "translation": {
+                "ko": "팔레오세는 공룡 멸종 이후에 이어졌다.",
+                "ja": "パレオセン",
+                "zh": "古新世",
+                "fr": "Paléocène"
+            }
+        },
+        {
+            "word": "Paleolithic",
+            "part_of_speech": "",
+            "origin": "Greek, palaios (old) + lithos (stone)",
+            "meaning": {
+                "ko": "오래된 돌",
+                "en": "ancient stone",
+                "ja": "古い石の時代",
+                "zh": "旧石器时代",
+                "fr": "âge de pierre ancien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Paleo-",
+                    "meaning": {
+                        "ko": "'오래된'",
+                        "en": "old",
+                        "ja": "古い",
+                        "zh": "古老的",
+                        "fr": "ancien"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lithic",
+                    "meaning": {
+                        "ko": "'돌의'",
+                        "en": "of stone",
+                        "ja": "石の",
+                        "zh": "石头的",
+                        "fr": "de pierre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'오래된 석기 시대'라는 의미에서 '구석기 시대의'라는 뜻입니다.",
+                "en": "Refers to the Old Stone Age period characterized by early human tool use",
+                "ja": "初期の人間が道具を使用した旧石器時代を指します",
+                "zh": "指早期人类使用工具的旧石器时代",
+                "fr": "Désigne l'époque de la pierre ancienne caractérisée par les premiers outils humains"
+            },
+            "example": "Paleolithic humans were hunter-gatherers.",
+            "translation": {
+                "ko": "구석기 시대 인간은 수렵 채집인이었다.",
+                "ja": "旧石器時代の人間は狩猟採集民でした。",
+                "zh": "旧石器时代的人类是狩猎采集者。",
+                "fr": "Les humains paléolithiques étaient des chasseurs-cueilleurs."
+            }
+        },
+        {
+            "word": "paleontology",
+            "part_of_speech": "",
+            "origin": "Greek, palaios (old) + on (being) + logos (study)",
+            "meaning": {
+                "ko": "고대 생물 연구",
+                "en": "study of ancient organisms",
+                "ja": "古代生物の研究",
+                "zh": "古代生物研究",
+                "fr": "étude des êtres anciens"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "paleo-",
+                    "meaning": {
+                        "ko": "'고대의'",
+                        "en": "ancient",
+                        "ja": "古代の",
+                        "zh": "古代的",
+                        "fr": "ancien"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ontology",
+                    "meaning": {
+                        "ko": "'생물학, 존재론'",
+                        "en": "biology, ontology",
+                        "ja": "生物学、存在論",
+                        "zh": "生物学、本体论",
+                        "fr": "biologie, ontologie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'고대 생물, 즉 화석을 연구하는 학문'인 '고생물학'을 뜻합니다.",
+                "en": "Refers to 'paleontology', the science of studying ancient organisms, namely fossils.",
+                "ja": "古代の生物、つまり化石を研究する学問である『古生物学』を意味します。",
+                "zh": "指研究古代生物（即化石）的学科『古生物学』。",
+                "fr": "Désigne la 'paléontologie', la science étudiant les organismes anciens, c'est-à-dire les fossiles."
+            },
+            "example": "Paleontology helps us understand the history of life on Earth.",
+            "translation": {
+                "ko": "고생물학은 우리가 지구 생명체의 역사를 이해하는 데 도움을 준다.",
+                "ja": "古生物学",
+                "zh": "古生物学",
+                "fr": "paléontologie"
+            }
+        }
+    ]
+}

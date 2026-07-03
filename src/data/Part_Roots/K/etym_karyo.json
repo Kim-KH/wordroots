@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "karyo (nucleus) eukaryote, prokaryote",
+        "origin": "Greek, karyon (nut, kernel, nucleus)",
+        "meaning": {
+            "ko": "핵",
+            "en": "nucleus",
+            "ja": "核",
+            "zh": "核",
+            "fr": "noyau"
+        }
+    },
+    "words": [
+        {
+            "word": "eukaryote",
+            "part_of_speech": "",
+            "origin": "Greek, eu- (good, true) + karyon (nucleus)",
+            "meaning": {
+                "ko": "진짜 핵",
+                "en": "true nucleus",
+                "ja": "真正な核",
+                "zh": "真正的核",
+                "fr": "vrai noyau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eu-",
+                    "meaning": {
+                        "ko": "'진짜의'",
+                        "en": "true",
+                        "ja": "真正の",
+                        "zh": "真正的",
+                        "fr": "vrai"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "karyo-",
+                    "meaning": {
+                        "ko": "'핵'",
+                        "en": "nucleus",
+                        "ja": "核",
+                        "zh": "核",
+                        "fr": "noyau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진짜 핵을 가진 세포로 이루어진 생물'인 '진핵생물'을 뜻합니다.",
+                "en": "Refers to organisms composed of cells with true nucleus",
+                "ja": "真正な核を持つ細胞で構成された生物を意味します",
+                "zh": "指由具有真正核的细胞组成的生物",
+                "fr": "Désigne les organismes composés de cellules avec un vrai noyau"
+            },
+            "example": "Animals, plants, and fungi are all eukaryotes.",
+            "translation": {
+                "ko": "동물, 식물, 균류는 모두 진핵생물이다.",
+                "ja": "真核生物",
+                "zh": "真核生物",
+                "fr": "eucaryote"
+            }
+        },
+        {
+            "word": "prokaryote",
+            "part_of_speech": "",
+            "origin": "Greek, pro- (before) + karyon (nucleus)",
+            "meaning": {
+                "ko": "핵 이전",
+                "en": "before nucleus",
+                "ja": "核以前の生物",
+                "zh": "核前生物",
+                "fr": "procaryote"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'이전의'",
+                        "en": "before",
+                        "ja": "以前の",
+                        "zh": "之前的",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "karyo-",
+                    "meaning": {
+                        "ko": "'핵'",
+                        "en": "nucleus",
+                        "ja": "核",
+                        "zh": "核",
+                        "fr": "noyau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'핵이 형성되기 이전 단계의 세포로 이루어진 생물'인 '원핵생물'을 뜻합니다.",
+                "en": "Refers to organisms composed of cells before the formation of a nucleus, meaning prokaryotes.",
+                "ja": "核が形成される以前の段階の細胞で構成された生物を意味します。",
+                "zh": "指在细胞核形成之前阶段的细胞组成的生物。",
+                "fr": "Désigne les organismes composés de cellules avant la formation d'un noyau, c'est-à-dire les procaryotes."
+            },
+            "example": "Bacteria are prokaryotes.",
+            "translation": {
+                "ko": "박테리아는 원핵생물이다.",
+                "ja": "原核生物",
+                "zh": "原核生物",
+                "fr": "procaryote"
+            }
+        }
+    ]
+}

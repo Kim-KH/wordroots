@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "telo (end) teleology, telomere, telophase,",
+        "origin": "Greek, telos (the end)",
+        "meaning": {
+            "ko": "끝",
+            "en": "the end",
+            "ja": "終わり",
+            "zh": "结束",
+            "fr": "la fin"
+        }
+    },
+    "words": [
+        {
+            "word": "teleology",
+            "part_of_speech": "",
+            "origin": "Greek, telos (end) + logos (study)",
+            "meaning": {
+                "ko": "끝 연구",
+                "en": "study of final causes",
+                "ja": "目的論",
+                "zh": "目的论",
+                "fr": "téléologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "telo-",
+                    "meaning": {
+                        "ko": "'끝, 목적'",
+                        "en": "end, purpose",
+                        "ja": "終わり、目的",
+                        "zh": "终点、目的",
+                        "fr": "fin, but"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 것에는 최종적인 목적이 있다는 철학적 사상'인 '목적론'을 뜻합니다.",
+                "en": "Teleology is the philosophical concept that all things have a final purpose or goal.",
+                "ja": "すべてのものに最終的な目的があるという哲学的思想を意味します",
+                "zh": "指所有事物都有最终目的的哲学思想",
+                "fr": "Idée philosophique que toutes choses ont un but ou une finalité ultime"
+            },
+            "example": "Teleology is the study of ends or purposes.",
+            "translation": {
+                "ko": "목적론은 끝이나 목적을 연구하는 학문이다.",
+                "ja": "目的論は終わりまたは目的の研究である",
+                "zh": "目的论是对终点或目的的研究",
+                "fr": "La téléologie est l'étude des fins ou des buts"
+            }
+        },
+        {
+            "word": "telomere",
+            "part_of_speech": "",
+            "origin": "Greek, telos (end) + meros (part)",
+            "meaning": {
+                "ko": "끝 부분",
+                "en": "end part",
+                "ja": "染色体の末端部分",
+                "zh": "染色体末端",
+                "fr": "extrémité du chromosome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "telo-",
+                    "meaning": {
+                        "ko": "'끝'",
+                        "en": "end",
+                        "ja": "終わり",
+                        "zh": "末端",
+                        "fr": "fin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mere",
+                    "meaning": {
+                        "ko": "'부분'",
+                        "en": "part",
+                        "ja": "部分",
+                        "zh": "部分",
+                        "fr": "partie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'염색체의 끝부분'인 '텔로미어'를 뜻합니다.",
+                "en": "Refers to the telomere, which is the end part of a chromosome",
+                "ja": "染色体の末端部分である'テロメア'を意味します",
+                "zh": "指染色体末端部分的'端粒'",
+                "fr": "Signifie le télomère, la partie terminale du chromosome"
+            },
+            "example": "Telomeres protect the ends of chromosomes.",
+            "translation": {
+                "ko": "텔로미어는 염색체의 끝을 보호한다.",
+                "ja": "テロメアは染色体の末端を保護する。",
+                "zh": "端粒保护染色体的末端。",
+                "fr": "Les télomères protègent les extrémités des chromosomes."
+            }
+        },
+        {
+            "word": "telophase",
+            "part_of_speech": "",
+            "origin": "Greek, telos (end) + phasis (stage)",
+            "meaning": {
+                "ko": "끝 단계",
+                "en": "final stage",
+                "ja": "終期",
+                "zh": "末期",
+                "fr": "télophase"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "telo-",
+                    "meaning": {
+                        "ko": "'끝'",
+                        "en": "end",
+                        "ja": "終わり",
+                        "zh": "结束",
+                        "fr": "fin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phase",
+                    "meaning": {
+                        "ko": "'단계'",
+                        "en": "stage",
+                        "ja": "段階",
+                        "zh": "阶段",
+                        "fr": "phase"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포 분열의 마지막 단계'인 '말기'를 뜻합니다.",
+                "en": "The final stage of cell division",
+                "ja": "細胞分裂の最後の段階",
+                "zh": "细胞分裂的最后阶段",
+                "fr": "La dernière phase de la division cellulaire"
+            },
+            "example": "In telophase, the cell divides into two daughter cells.",
+            "translation": {
+                "ko": "말기에, 세포는 두 개의 딸세포로 분열한다.",
+                "ja": "終期では、細胞は2つの娘細胞に分裂します。",
+                "zh": "在末期中，细胞分裂成两个子细胞。",
+                "fr": "En télophase, la cellule se divise en deux cellules filles."
+            }
+        }
+    ]
+}

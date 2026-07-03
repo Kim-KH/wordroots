@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "acean (class or order) crustacean, cetacean",
+        "origin": "Latin, -aceus (belonging to) + -an",
+        "meaning": {
+            "ko": "…에 속하는",
+            "en": "belonging to",
+            "ja": "…に属する",
+            "zh": "…に属する",
+            "fr": "appartenant à"
+        }
+    },
+    "words": [
+        {
+            "word": "crustacean",
+            "part_of_speech": "",
+            "origin": "Latin, crusta (a crust, a shell)",
+            "meaning": {
+                "ko": "껍질",
+                "en": "shell or hard outer covering",
+                "ja": "甲殻類",
+                "zh": "甲壳动物",
+                "fr": "crustacé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crust-",
+                    "meaning": {
+                        "ko": "'껍질'",
+                        "en": "crust",
+                        "ja": "硬い殻",
+                        "zh": "硬壳",
+                        "fr": "croûte dure"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-acean",
+                    "meaning": {
+                        "ko": "'~강에 속하는'",
+                        "en": "belonging to class or order",
+                        "ja": "~綱に属する",
+                        "zh": "属于~纲",
+                        "fr": "appartenant à ~classe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단단한 껍질을 가진 동물 강'이라는 의미에서 '갑각류'를 뜻합니다.",
+                "en": "Refers to arthropods with hard exoskeletons, meaning animals of the class characterized by hard shells",
+                "ja": "硬い外骨格を持つ節足動物を指し、硬い殻で特徴づけられた綱の動物を意味する",
+                "zh": "指具有硬质外骨骼的节肢动物，意为以硬壳为特征的纲的动物",
+                "fr": "Désigne les arthropodes ayant un exosquelette dur, signifiant les animaux de la classe caractérisée par des coquilles dures"
+            },
+            "example": "Crabs, lobsters, and shrimps are all crustaceans.",
+            "translation": {
+                "ko": "게, 바닷가재, 새우는 모두 갑각류이다.",
+                "ja": "カニ、ロブスター、エビはすべて甲殻類です。",
+                "zh": "螃蟹、龙虾和虾都是甲壳动物。",
+                "fr": "Les crabes, les homards et les crevettes sont tous des crustacés."
+            }
+        },
+        {
+            "word": "cetacean",
+            "part_of_speech": "",
+            "origin": "Latin, cetus (a whale)",
+            "meaning": {
+                "ko": "고래",
+                "en": "whale",
+                "ja": "クジラ",
+                "zh": "鲸鱼",
+                "fr": "cétacé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cet-",
+                    "meaning": {
+                        "ko": "'고래'",
+                        "en": "whale",
+                        "ja": "クジラ",
+                        "zh": "鲸",
+                        "fr": "baleine"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-acean",
+                    "meaning": {
+                        "ko": "'~목에 속하는'",
+                        "en": "belonging to order",
+                        "ja": "~目に属する",
+                        "zh": "属于~目",
+                        "fr": "appartenant à l'ordre ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'고래목에 속하는 동물'을 뜻합니다.",
+                "en": "An animal belonging to the order Cetacea",
+                "ja": "クジラ目に属する動物を意味します",
+                "zh": "指属于鲸目的动物",
+                "fr": "Signifie un animal appartenant à l'ordre des cétacés"
+            },
+            "example": "Whales and dolphins are cetaceans.",
+            "translation": {
+                "ko": "고래와 돌고래는 고래목 동물이다.",
+                "ja": "クジラやイルカはクジラ目に属する動物です。",
+                "zh": "鲸鱼和海豚都是鲸目动物。",
+                "fr": "Les baleines et les dauphins sont des cétacés."
+            }
+        }
+    ]
+}

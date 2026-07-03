@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "junct (join) adjunct, conjunction, junction, disjunct",
+        "origin": "Latin, jungere, junctus (to join)",
+        "meaning": {
+            "ko": "연결하다",
+            "en": "to join",
+            "ja": "つなぐ",
+            "zh": "连接",
+            "fr": "joindre"
+        }
+    },
+    "words": [
+        {
+            "word": "adjunct",
+            "part_of_speech": "",
+            "origin": "Latin, adiungere (to join to)",
+            "meaning": {
+                "ko": "~에 연결하다",
+                "en": "to connect to",
+                "ja": "付加物、付属物",
+                "zh": "附加物、附属物",
+                "fr": "chose ajoutée, accessoire"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "'~에'",
+                        "en": "to",
+                        "ja": "~に",
+                        "zh": "~到、~向",
+                        "fr": "à, vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "junct",
+                    "meaning": {
+                        "ko": "'연결하다'",
+                        "en": "to join",
+                        "ja": "結合する",
+                        "zh": "连接、结合",
+                        "fr": "joindre, unir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주된 것에 덧붙여 연결된 것'이라는 의미에서 '부가물', '부속물' 또는 문법에서 '부사구'를 뜻합니다.",
+                "en": "Means something added or attached to the main thing, or in grammar, an adverbial phrase.",
+                "ja": "主要なものに追加または接続されるものを意味し、文法では副詞句を指します。",
+                "zh": "指附加或连接到主要事物上的东西，或在语法中指副词短语。",
+                "fr": "Signifie quelque chose ajouté ou attaché à la chose principale, ou en grammaire, une locution adverbiale."
+            },
+            "example": "An adjunct professor is a part-time instructor.",
+            "translation": {
+                "ko": "겸임 교수는 시간제 강사이다.",
+                "ja": "非常勤講師は時間講師です。",
+                "zh": "兼职教授是兼职讲师。",
+                "fr": "Un professeur auxiliaire est un instructeur à temps partiel."
+            }
+        },
+        {
+            "word": "conjunction",
+            "part_of_speech": "",
+            "origin": "Latin, coniunctio (a joining together)",
+            "meaning": {
+                "ko": "함께 연결함",
+                "en": "connecting together",
+                "ja": "一緒に結ぶこと",
+                "zh": "一起连接",
+                "fr": "relier ensemble"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "junct",
+                    "meaning": {
+                        "ko": "'연결하다'",
+                        "en": "to join",
+                        "ja": "つなぐ",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 가지를 함께 연결하는 것'이라는 의미에서 '결합' 또는 문법에서 '접속사'를 뜻합니다.",
+                "en": "Two things joined together, or a part of speech that connects clauses or words",
+                "ja": "2つのものを一緒に結ぶこと、または文法で文や語を接続する品詞",
+                "zh": "两个事物连接在一起，或文法中连接句子或词的词性",
+                "fr": "Relier deux choses ensemble, ou une partie du discours qui connecte des clauses ou des mots"
+            },
+            "example": "\"And,\" \"but,\" and \"or\" are common conjunctions.",
+            "translation": {
+                "ko": "\"그리고\", \"그러나\", \"또는\"은 흔한 접속사이다.",
+                "ja": "接続詞",
+                "zh": "连接词",
+                "fr": "conjonction"
+            }
+        },
+        {
+            "word": "junction",
+            "part_of_speech": "",
+            "origin": "Latin, iunctio (a joining)",
+            "meaning": {
+                "ko": "연결",
+                "en": "connection",
+                "ja": "接続点、交差点",
+                "zh": "连接点、交叉口",
+                "fr": "jonction, carrefour"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "junct-",
+                    "meaning": {
+                        "ko": "'연결하다'",
+                        "en": "to join",
+                        "ja": "つなぐ",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'도로나 철도 등이 만나는' 연결 지점인 '교차로', '연결역'을 뜻합니다.",
+                "en": "This train stops at a major junction.",
+                "ja": "道路や鉄道などが交わる接続地点の『交差点』『乗換駅』を意味します。",
+                "zh": "指道路或铁路等相交的连接点『十字路口』『换乘站』。",
+                "fr": "Désigne un point de connexion où des routes ou des chemins de fer se rencontrent, comme un carrefour ou une gare de correspondance."
+            },
+            "example": "This train stops at a major junction.",
+            "translation": {
+                "ko": "이 기차는 주요 연결역에 정차한다.",
+                "ja": "この電車は大きな交差点で停まります。",
+                "zh": "这列火车在一个主要的交叉口停靠。",
+                "fr": "Ce train s'arrête à une jonction importante."
+            }
+        },
+        {
+            "word": "disjunct",
+            "part_of_speech": "",
+            "origin": "Latin, disiungere (to unyoke, separate)",
+            "meaning": {
+                "ko": "분리하다",
+                "en": "to separate",
+                "ja": "分離した",
+                "zh": "分离的",
+                "fr": "disjoint"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "apart",
+                        "ja": "離れた",
+                        "zh": "分开的",
+                        "fr": "apart"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "junct",
+                    "meaning": {
+                        "ko": "'연결하다'",
+                        "en": "to join",
+                        "ja": "つなぐ",
+                        "zh": "连接",
+                        "fr": "joindre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 연결되어 있지 않은', '분리된'이라는 뜻입니다.",
+                "en": "Not connected to each other; separated",
+                "ja": "互いに接続されていない、分離された",
+                "zh": "互相不相连的，分离的",
+                "fr": "Non connecté l'un à l'autre; séparé"
+            },
+            "example": "The two communities are socially and culturally disjunct.",
+            "translation": {
+                "ko": "그 두 공동체는 사회적으로나 문화적으로 분리되어 있다.",
+                "ja": "2つのコミュニティは社会的および文化的に分離している。",
+                "zh": "这两个社区在社会和文化上是分离的。",
+                "fr": "Les deux communautés sont socialement et culturellement disjointes."
+            }
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "root_info": {
+        "roots": "ite (nature of) stromatolite, stalactite, trilobite",
+        "origin": "Greek, -ites (related to)",
+        "meaning": {
+            "ko": "…의 성질",
+            "en": "nature of",
+            "ja": "…の性質",
+            "zh": "…的性质",
+            "fr": "nature de …"
+        }
+    },
+    "words": [
+        {
+            "word": "stromatolite",
+            "part_of_speech": "",
+            "origin": "Greek, stroma (a mattress, a layer) + lithos (stone)",
+            "meaning": {
+                "ko": "층을 이룬 돌",
+                "en": "layered stone",
+                "ja": "層状の石",
+                "zh": "层状岩石",
+                "fr": "roche en couches"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stromato-",
+                    "meaning": {
+                        "ko": "'층'",
+                        "en": "layer",
+                        "ja": "層",
+                        "zh": "层",
+                        "fr": "couche"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lite",
+                    "meaning": {
+                        "ko": "'돌'",
+                        "en": "stone",
+                        "ja": "石",
+                        "zh": "石头",
+                        "fr": "pierre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'남세균이 층을 이루며 성장하여 만들어진' 화석인 '스트로마톨라이트'를 뜻합니다.",
+                "en": "Stromatolites are fossils formed by cyanobacteria growing in layers.",
+                "ja": "シアノバクテリアが層状に成長して形成された化石です。",
+                "zh": "由蓝细菌分层生长形成的化石。",
+                "fr": "Fossiles formés par la croissance en couches des cyanobactéries."
+            },
+            "example": "Stromatolites are the earliest known fossils.",
+            "translation": {
+                "ko": "스트로마톨라이트는 알려진 가장 오래된 화석이다.",
+                "ja": "ストロマトライトは最古の既知化石です。",
+                "zh": "叠层石是已知最早的化石。",
+                "fr": "Les stromatolites sont les plus anciens fossiles connus."
+            }
+        },
+        {
+            "word": "stalactite",
+            "part_of_speech": "",
+            "origin": "Greek, stalaktos (dripping)",
+            "meaning": {
+                "ko": "방울져 떨어지는",
+                "en": "dripping in drops",
+                "ja": "したたり落ちる",
+                "zh": "滴落下来",
+                "fr": "qui goutte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stalact-",
+                    "meaning": {
+                        "ko": "'방울져 떨어지다'",
+                        "en": "to drip",
+                        "ja": "したたり落ちる",
+                        "zh": "滴落",
+                        "fr": "goutter"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ite",
+                    "meaning": {
+                        "ko": "'~의 성질을 가진 것'",
+                        "en": "thing having quality of",
+                        "ja": "~の性質を持つもの",
+                        "zh": "具有~性质的东西",
+                        "fr": "chose ayant la qualité de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'동굴 천장에서 물방울이 떨어지며' 아래로 자란 '종유석'을 뜻합니다.",
+                "en": "A mineral formation hanging from a cave ceiling, created by water droplets dripping down over time",
+                "ja": "洞窟の天井から水滴が落ちて、下へ向かって成長した『つらら石』を意味します",
+                "zh": "指洞穴天花板上水滴落下而向下生长的『石笋』",
+                "fr": "Formation minérale qui pend du plafond d'une grotte, créée par des gouttes d'eau qui tombent au fil du temps"
+            },
+            "example": "Stalactites hang like icicles from the cave roof.",
+            "translation": {
+                "ko": "종유석은 동굴 천장에 고드름처럼 매달려 있다.",
+                "ja": "つらら石",
+                "zh": "钟乳石",
+                "fr": "stalactite"
+            }
+        },
+        {
+            "word": "trilobite",
+            "part_of_speech": "",
+            "origin": "Greek, tri- (three) + lobos (lobe)",
+            "meaning": {
+                "ko": "세 개의 엽",
+                "en": "three lobes",
+                "ja": "三つの葉",
+                "zh": "三个叶片",
+                "fr": "trois lobes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "三つ",
+                        "zh": "三个",
+                        "fr": "trois"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lob-",
+                    "meaning": {
+                        "ko": "'엽'",
+                        "en": "lobe",
+                        "ja": "葉",
+                        "zh": "叶片",
+                        "fr": "lobe"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ite",
+                    "meaning": {
+                        "ko": "'~의 성질을 가진 것'",
+                        "en": "thing having quality of",
+                        "ja": "~の性質を持つ物",
+                        "zh": "具有~性质的东西",
+                        "fr": "chose ayant la propriété de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸이 세 개의 엽으로 나뉘는' 고생대의 절지동물인 '삼엽충'을 뜻합니다.",
+                "en": "Trilobites are extinct marine arthropods with bodies divided into three lobes.",
+                "ja": "体が三つの葉に分かれる古生代の節足動物である三葉虫を意味します。",
+                "zh": "指身体分为三个叶片的古生代节肢动物三叶虫。",
+                "fr": "Désigne le trilobite, arthropode marin paléozoïque avec corps divisé en trois lobes."
+            },
+            "example": "Trilobites are extinct marine arthropods.",
+            "translation": {
+                "ko": "삼엽충은 멸종한 해양 절지동물이다.",
+                "ja": "三葉虫",
+                "zh": "三叶虫",
+                "fr": "trilobite"
+            }
+        }
+    ]
+}

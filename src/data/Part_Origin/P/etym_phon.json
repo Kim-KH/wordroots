@@ -1,0 +1,245 @@
+{
+    "root_info": {
+        "roots": "phon",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "소리",
+            "en": "sound",
+            "ja": "音",
+            "zh": "声",
+            "fr": "son"
+        }
+    },
+    "words": [
+        {
+            "word": "telephone",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tele",
+                    "meaning": {
+                        "ko": "멀리",
+                        "en": "far or distant",
+                        "ja": "遠く",
+                        "zh": "远处",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phone",
+                    "meaning": {
+                        "ko": "소리",
+                        "en": "sound or voice",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'먼 곳의 소리를 전달하는 장치' 즉, '전화기'를 뜻합니다.",
+                "en": "Device that transmits sound from distant places; literally 'far sound device'",
+                "ja": "遠くの音を伝える装置、つまり『電話機』を意味します",
+                "zh": "传递远处声音的装置，即'电话机'的意思",
+                "fr": "Appareil qui transmet le son de lieux éloignés; littéralement 'appareil à son lointain'"
+            },
+            "example": "The telephone is ringing.",
+            "translation": {
+                "ko": "전화가 울리고 있다.",
+                "ja": "電話が鳴っている。",
+                "zh": "电话在响。",
+                "fr": "Le téléphone sonne."
+            }
+        },
+        {
+            "word": "phonics",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phon",
+                    "meaning": {
+                        "ko": "소리",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리'와 철자의 관계를 통해 읽기를 가르치는 '파닉스 교수법'을 뜻합니다.",
+                "en": "A teaching method that uses the relationship between sounds and spelling to teach reading.",
+                "ja": "音と綴字の関係を通じて読み方を教える教授法を意味します。",
+                "zh": "通过声音与拼写的关系来教授阅读的教学方法。",
+                "fr": "Méthode d'enseignement de la lecture qui utilise la relation entre les sons et l'orthographe."
+            },
+            "example": "Phonics helps children learn to read.",
+            "translation": {
+                "ko": "파닉스는 아이들이 읽기를 배우는 데 도움을 준다.",
+                "ja": "フォニックスは子どもたちが読むことを学ぶのに役立ちます。",
+                "zh": "自然拼读法帮助儿童学习阅读。",
+                "fr": "La phonétique aide les enfants à apprendre à lire."
+            }
+        },
+        {
+            "word": "phonograph",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phono",
+                    "meaning": {
+                        "ko": "소리",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "기록",
+                        "en": "record",
+                        "ja": "記録",
+                        "zh": "记录",
+                        "fr": "enregistrement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리를 기록하는 장치' 즉, 초기의 '축음기'를 뜻합니다.",
+                "en": "A device that records sound; an early phonograph or gramophone.",
+                "ja": "音を記録する装置、つまり初期の蓄音機を意味します。",
+                "zh": "记录声音的装置，即早期的留声机。",
+                "fr": "Un appareil qui enregistre le son ; un phonographe ou gramophone primitif."
+            },
+            "example": "Thomas Edison invented the phonograph.",
+            "translation": {
+                "ko": "토머스 에디슨이 축음기를 발명했다.",
+                "ja": "トーマス・エジソンは蓄音機を発明した。",
+                "zh": "托马斯·爱迪生发明了留声机。",
+                "fr": "Thomas Edison a inventé le phonographe."
+            }
+        },
+        {
+            "word": "phonetic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phon",
+                    "meaning": {
+                        "ko": "소리",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리의', '음성의'라는 뜻입니다.",
+                "en": "Relating to sound or speech sounds",
+                "ja": "音や音声に関する意味です",
+                "zh": "表示与声音或语音相关",
+                "fr": "Qui concerne le son ou les sons de la parole"
+            },
+            "example": "This is a phonetic transcription.",
+            "translation": {
+                "ko": "이것은 음성 표기이다.",
+                "ja": "これは音韻表記です。",
+                "zh": "这是音标记录。",
+                "fr": "Ceci est une transcription phonétique."
+            }
+        },
+        {
+            "word": "homophone",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "homo",
+                    "meaning": {
+                        "ko": "같은",
+                        "en": "same",
+                        "ja": "同じ",
+                        "zh": "相同的",
+                        "fr": "même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phone",
+                    "meaning": {
+                        "ko": "소리",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리는 같지만 철자나 뜻이 다른 단어' 즉, '동음이의어'를 뜻합니다.",
+                "en": "Words that sound identical but differ in spelling or meaning",
+                "ja": "綴りや意味は異なるが、音は同じ単語を指します。つまり『同音異義語』です。",
+                "zh": "指声音相同但拼写或含义不同的单词，即『同音异义词』。",
+                "fr": "Des mots qui sonnent identiquement mais diffèrent par l'orthographe ou le sens; des « homophones »."
+            },
+            "example": "\"Sun\" and \"son\" are homophones.",
+            "translation": {
+                "ko": "\"Sun\"과 \"son\"은 동음이의어이다.",
+                "ja": "「Sun」と「son」は同音異義語です。",
+                "zh": "「Sun」和「son」是同音异义词。",
+                "fr": "« Sun » et « son » sont des homophones."
+            }
+        },
+        {
+            "word": "microphone",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "micro",
+                    "meaning": {
+                        "ko": "작은",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phone",
+                    "meaning": {
+                        "ko": "소리",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 소리를 크게 만드는 장치' 즉, '마이크'를 뜻합니다.",
+                "en": "A device that amplifies small sounds; literally 'microphone'",
+                "ja": "小さい音を大きくする装置、つまり『マイク』を意味します",
+                "zh": "将小声音放大的装置，即『麦克风』的意思",
+                "fr": "Un appareil qui amplifie les petits sons; littéralement 'microphone'"
+            },
+            "example": "Please speak into the microphone.",
+            "translation": {
+                "ko": "마이크에 대고 말씀해 주세요.",
+                "ja": "マイクに向かって話してください",
+                "zh": "请对着麦克风讲话",
+                "fr": "Veuillez parler dans le microphone"
+            }
+        }
+    ]
+}

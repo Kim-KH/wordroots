@@ -1,0 +1,307 @@
+{
+    "root_info": {
+        "roots": "mit, miss",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "보내다",
+            "en": "to send",
+            "ja": "送る",
+            "zh": "发送",
+            "fr": "envoyer"
+        }
+    },
+    "words": [
+        {
+            "word": "transmit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "穿过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mit",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to send",
+                        "ja": "送る",
+                        "zh": "发送",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 곳에서 다른 곳으로 가로질러 보내다'는 의미에서 정보, 신호, 질병 등을 '전송하다', '전염시키다'는 뜻입니다.",
+                "en": "From one place to another, sending across: transmit information, signals, or diseases",
+                "ja": "ある場所から別の場所へ横切って送ることから、情報、信号、病気などを伝送する、感染させるという意味",
+                "zh": "从一个地方穿过到另一个地方来发送：传输信息、信号或疾病",
+                "fr": "D'un endroit à travers à un autre, envoyer : transmettre l'information, les signaux ou les maladies"
+            },
+            "example": "The signal is transmitted by satellite.",
+            "translation": {
+                "ko": "그 신호는 위성으로 전송된다.",
+                "ja": "伝送する",
+                "zh": "传输",
+                "fr": "transmettre"
+            }
+        },
+        {
+            "word": "permit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "통하여",
+                        "en": "through",
+                        "ja": "通して",
+                        "zh": "通过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mit",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to let go",
+                        "ja": "手放す",
+                        "zh": "放开",
+                        "fr": "laisser aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'통과하도록 놔두다'는 의미에서 '허락하다', '허가하다'는 뜻입니다.",
+                "en": "Meaning 'to allow to pass through', thus 'to authorize' or 'to grant permission'",
+                "ja": "通過させるという意味から、許可する、認可するという意味です",
+                "zh": "从允许通过的意义引申为'许可'、'批准'的意思",
+                "fr": "Du sens de 'laisser passer', d'où 'autoriser' ou 'donner la permission'"
+            },
+            "example": "Visitors are not permitted after 10 PM.",
+            "translation": {
+                "ko": "오후 10시 이후에는 방문객이 허용되지 않습니다.",
+                "ja": "午後10時以降、訪問者は許可されていません。",
+                "zh": "晚上10点以后不允许访客进入。",
+                "fr": "Les visiteurs ne sont pas autorisés après 22 heures."
+            }
+        },
+        {
+            "word": "missile",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "miss",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to send",
+                        "ja": "送る",
+                        "zh": "发送",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 보내는 것'이라는 의미에서, 던지는 무기나 로켓 추진 '미사일'을 뜻합니다.",
+                "en": "From the meaning 'to send from afar', it refers to a thrown weapon or rocket-propelled missile.",
+                "ja": "「遠くに送るもの」という意味から、投げ込む武器やロケット推進の「ミサイル」を意味します。",
+                "zh": "从「远距离发送的东西」的含义出发，指投掷武器或火箭推进的「导弹」。",
+                "fr": "Du sens 'envoyer de loin', il désigne une arme de jet ou un missile à propulsion fusée."
+            },
+            "example": "The ship launched a missile.",
+            "translation": {
+                "ko": "그 배는 미사일을 발사했다.",
+                "ja": "ミサイル",
+                "zh": "导弹",
+                "fr": "missile"
+            }
+        },
+        {
+            "word": "missionary",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mission",
+                    "meaning": {
+                        "ko": "임무, 파견",
+                        "en": "task, dispatch",
+                        "ja": "任務、派遣",
+                        "zh": "任务、派遣",
+                        "fr": "mission, envoi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'임무를 띠고 파견된 사람'이라는 의미에서, 종교를 전파하는 '선교사'를 뜻합니다.",
+                "en": "From the meaning of 'a person sent on a mission', it refers to a 'missionary' who spreads religion.",
+                "ja": "「任務を帯びて派遣された人」という意味から、宗教を伝道する「宣教師」を意味します。",
+                "zh": "从「肩负任务被派遣的人」的含义出发，指传播宗教的「传教士」。",
+                "fr": "Du sens de 'une personne envoyée en mission', il désigne un 'missionnaire' qui propage la religion."
+            },
+            "example": "He worked as a missionary in Africa.",
+            "translation": {
+                "ko": "그는 아프리카에서 선교사로 일했다.",
+                "ja": "宣教師",
+                "zh": "传教士",
+                "fr": "missionnaire"
+            }
+        },
+        {
+            "word": "remit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "en arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mit",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to send",
+                        "ja": "送る",
+                        "zh": "发送",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 보내다'는 의미에서 돈을 '송금하다'는 뜻과, 의무나 처벌 등을 '면제해 주다'는 뜻이 있습니다.",
+                "en": "From 'send back', it has the meaning of 'transfer money' and also 'forgive or cancel duties/punishments'.",
+                "ja": "'後ろへ送る'という意味から、お金を'送金する'という意味と、義務や罰などを'免除する'という意味があります。",
+                "zh": "从'向后发送'的含义引申，有'汇款'的意思，也有'免除义务或处罚'的意思。",
+                "fr": "Du sens 'renvoyer', il a le sens de 'transférer de l'argent' et aussi 'pardonner ou annuler des obligations/punitions'."
+            },
+            "example": "Please remit the payment by check.",
+            "translation": {
+                "ko": "수표로 대금을 송금해 주십시오.",
+                "ja": "小切手で支払い金を送金してください。",
+                "zh": "请用支票汇款。",
+                "fr": "Veuillez envoyer le paiement par chèque."
+            }
+        },
+        {
+            "word": "admit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "~로",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "向",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mit",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to send",
+                        "ja": "送る",
+                        "zh": "送",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 들여보내다'는 의미에서 '입장을 허락하다'는 뜻과, 사실이라고 '인정하다'는 뜻이 있습니다.",
+                "en": "From the sense 'to send inward': means both 'to allow entry' and 'to acknowledge as true'.",
+                "ja": "「内側に送る」という意味から：「入場を許可する」と「事実として認める」の両方の意味があります。",
+                "zh": "从「向内送」的含义：既表示「允许进入」，也表示「承认为事实」。",
+                "fr": "Du sens « envoyer vers l'intérieur » : signifie à la fois « permettre l'accès » et « reconnaître comme vrai »."
+            },
+            "example": "You must have a ticket to be admitted.",
+            "translation": {
+                "ko": "입장하려면 표가 있어야 합니다.",
+                "ja": "入場するにはチケットが必要です。",
+                "zh": "你必须有票才能被允许进入。",
+                "fr": "Vous devez avoir un billet pour être admis."
+            }
+        },
+        {
+            "word": "missive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "miss",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to send",
+                        "ja": "送る",
+                        "zh": "发送",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보내진 것'이라는 의미로, 특히 길고 공식적인 '서신', '편지'를 뜻합니다.",
+                "en": "Something sent; specifically a long, formal letter or written message.",
+                "ja": "送られたもの。特に長くて公式な手紙や書簡を意味します。",
+                "zh": "被送出的东西；特别指长的、正式的信件或书面信息。",
+                "fr": "Quelque chose d'envoyé ; en particulier une lettre ou un message écrit long et formel."
+            },
+            "example": "The general sent a missive to his troops.",
+            "translation": {
+                "ko": "장군은 그의 군대에 서한을 보냈다.",
+                "ja": "将軍は部隊に書簡を送った。",
+                "zh": "将军向他的部队发送了一份公文。",
+                "fr": "Le général a envoyé une missive à ses troupes."
+            }
+        },
+        {
+            "word": "mission",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "miss",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to send",
+                        "ja": "送る",
+                        "zh": "发送",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보내진 일'이라는 의미에서, 특별한 '임무', '사명' 또는 '사절단'을 뜻합니다.",
+                "en": "From the meaning of 'something sent,' referring to a special task, calling, or delegation.",
+                "ja": "「送られた事柄」という意味から、特別な「任務」「使命」または「使節団」を意味します。",
+                "zh": "从\"被派遣的事务\"的含义引申，指特殊的\"任务\"、\"使命\"或\"使节团\"。",
+                "fr": "Du sens de \"quelque chose d'envoyé\", désignant une tâche spéciale, une mission ou une délégation."
+            },
+            "example": "The spy was on a secret mission.",
+            "translation": {
+                "ko": "그 스파이는 비밀 임무를 수행 중이었다.",
+                "ja": "そのスパイは秘密任務を遂行中だった。",
+                "zh": "那个间谍正在执行一项秘密任务。",
+                "fr": "L'espion était en mission secrète."
+            }
+        }
+    ]
+}

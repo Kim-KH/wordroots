@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "later(o) (side) lateral, bilateral, multilateral, unilateral",
+        "origin": "Latin, latus, lateris (side)",
+        "meaning": {
+            "ko": "옆",
+            "en": "side",
+            "ja": "側",
+            "zh": "面",
+            "fr": "côté"
+        }
+    },
+    "words": [
+        {
+            "word": "lateral",
+            "part_of_speech": "",
+            "origin": "Latin, lateralis (belonging to the side)",
+            "meaning": {
+                "ko": "옆에 속한",
+                "en": "belonging to the side",
+                "ja": "側面に属する",
+                "zh": "属于侧面的",
+                "fr": "relatif au côté"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "later-",
+                    "meaning": {
+                        "ko": "'옆'",
+                        "en": "side",
+                        "ja": "側面",
+                        "zh": "侧面",
+                        "fr": "côté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'옆의', '측면의'라는 뜻입니다.",
+                "en": "Means 'of the side' or 'relating to the side'",
+                "ja": "側面的、横方向的という意味です",
+                "zh": "意为'属于侧面'或'与侧面相关'",
+                "fr": "Signifie 'du côté' ou 'relatif au côté'"
+            },
+            "example": "He made a lateral pass to his teammate.",
+            "translation": {
+                "ko": "그는 팀 동료에게 측면 패스를 했다.",
+                "ja": "彼はチームメイトへサイドパスを出した。",
+                "zh": "他向队友传了一个横向传球。",
+                "fr": "Il a fait une passe latérale à son coéquipier."
+            }
+        },
+        {
+            "word": "bilateral",
+            "part_of_speech": "",
+            "origin": "Latin, bi- (two) + latus (side)",
+            "meaning": {
+                "ko": "두 개의 옆",
+                "en": "two sides or flanks",
+                "ja": "両側の",
+                "zh": "双边的",
+                "fr": "bilatéral"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二つの",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lateral",
+                    "meaning": {
+                        "ko": "'측면의'",
+                        "en": "of or relating to the side",
+                        "ja": "側面の",
+                        "zh": "侧面的",
+                        "fr": "côté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개의 측면을 가진'이라는 의미에서 '양측의'라는 뜻입니다.",
+                "en": "Having two sides or aspects; involving two parties equally",
+                "ja": "二つの側面を持つという意味で、両者に関わる",
+                "zh": "具有两个侧面的意思，涉及双方",
+                "fr": "Ayant deux côtés ou aspects; impliquant deux parties"
+            },
+            "example": "They signed a bilateral trade agreement.",
+            "translation": {
+                "ko": "그들은 양자 무역 협정을 체결했다.",
+                "ja": "彼らは二国間貿易協定に署名した。",
+                "zh": "他们签署了双边贸易协议。",
+                "fr": "Ils ont signé un accord commercial bilatéral."
+            }
+        },
+        {
+            "word": "multilateral",
+            "part_of_speech": "",
+            "origin": "Latin, multus (many) + latus (side)",
+            "meaning": {
+                "ko": "많은 옆",
+                "en": "many sides",
+                "ja": "多くの側面",
+                "zh": "多个方面",
+                "fr": "plusieurs côtés"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "multi-",
+                    "meaning": {
+                        "ko": "'많은'",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lateral",
+                    "meaning": {
+                        "ko": "'측면의'",
+                        "en": "of the side",
+                        "ja": "側面の",
+                        "zh": "方面的",
+                        "fr": "aspects"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'많은 측면이 참여하는'이라는 의미에서 '다자간의'라는 뜻입니다.",
+                "en": "Meaning many parties or sides participating",
+                "ja": "多くの側面や当事者が参加することを意味する",
+                "zh": "表示许多方面或各方参与",
+                "fr": "Signifie plusieurs parties ou côtés impliqués"
+            },
+            "example": "Multilateral negotiations are often complex.",
+            "translation": {
+                "ko": "다자간 협상은 종종 복잡하다.",
+                "ja": "多国間交渉はしばしば複雑です。",
+                "zh": "多边谈判通常很复杂。",
+                "fr": "Les négociations multilatérales sont souvent complexes."
+            }
+        },
+        {
+            "word": "unilateral",
+            "part_of_speech": "",
+            "origin": "Latin, unus (one) + latus (side)",
+            "meaning": {
+                "ko": "하나의 옆",
+                "en": "one side",
+                "ja": "一方的な",
+                "zh": "单方面的",
+                "fr": "unilatéral"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "uni-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lateral",
+                    "meaning": {
+                        "ko": "'측면의'",
+                        "en": "of the side",
+                        "ja": "側面",
+                        "zh": "方面",
+                        "fr": "côté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한쪽 측면만 관련된'이라는 의미에서 '일방적인'이라는 뜻입니다.",
+                "en": "Meaning one-sided or involving only one party",
+                "ja": "片方の側面だけに関わる意味",
+                "zh": "仅涉及一方的意思",
+                "fr": "Signifie unilatéral ou impliquant une seule partie"
+            },
+            "example": "He made a unilateral decision without consulting anyone.",
+            "translation": {
+                "ko": "그는 누구와도 상의하지 않고 일방적인 결정을 내렸다.",
+                "ja": "彼は誰にも相談せずに一方的な決定を下した。",
+                "zh": "他在没有咨询任何人的情况下做出了单方面的决定。",
+                "fr": "Il a pris une décision unilatérale sans consulter personne."
+            }
+        }
+    ]
+}

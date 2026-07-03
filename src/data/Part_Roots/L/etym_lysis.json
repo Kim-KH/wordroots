@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "lysis (break up, dissolve) analyze, dialysis, hydrolyze, lysosome",
+        "origin": "Greek, lysis (a loosening, a setting free)",
+        "meaning": {
+            "ko": "풀어줌",
+            "en": "a loosening",
+            "ja": "緩和",
+            "zh": "松解",
+            "fr": "relâchement"
+        }
+    },
+    "words": [
+        {
+            "word": "analyze",
+            "part_of_speech": "",
+            "origin": "Greek, analyein (to unloose)",
+            "meaning": {
+                "ko": "풀다",
+                "en": "to solve or work out",
+                "ja": "分析する",
+                "zh": "分析",
+                "fr": "analyser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ana-",
+                    "meaning": {
+                        "ko": "'위로, 뒤로'",
+                        "en": "up, back",
+                        "ja": "上へ、後ろへ",
+                        "zh": "向上、向后",
+                        "fr": "vers le haut, en arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lyze (lysis)",
+                    "meaning": {
+                        "ko": "'풀다'",
+                        "en": "to loosen",
+                        "ja": "ほぐす",
+                        "zh": "松开",
+                        "fr": "desserrer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'복잡한 것을 풀어헤쳐서 하나하나 뜯어보다'는 의미에서 '분석하다'라는 뜻이 되었습니다.",
+                "en": "The meaning 'analyze' comes from the sense of untangling and examining complex things piece by piece.",
+                "ja": "複雑なものをほぐして、ひとつひとつ詳しく調べるという意味から'分析する'という意味になりました。",
+                "zh": "从'将复杂的事物拆开、逐一仔细查看'的含义演变为'分析'的意思。",
+                "fr": "Le sens 'analyser' provient de l'idée de démêler et d'examiner les choses complexes pièce par pièce."
+            },
+            "example": "We need to analyze the data carefully.",
+            "translation": {
+                "ko": "우리는 데이터를 신중하게 분석해야 한다.",
+                "ja": "データを慎重に分析する必要があります。",
+                "zh": "我们需要仔细分析这些数据。",
+                "fr": "Nous devons analyser les données avec soin."
+            }
+        },
+        {
+            "word": "dialysis",
+            "part_of_speech": "",
+            "origin": "Greek, dialysis (a separation)",
+            "meaning": {
+                "ko": "분리",
+                "en": "separation",
+                "ja": "分離",
+                "zh": "分离",
+                "fr": "séparation"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dia-",
+                    "meaning": {
+                        "ko": "'가로질러, 통하여'",
+                        "en": "through, apart",
+                        "ja": "通して、離れて",
+                        "zh": "通过、分开",
+                        "fr": "à travers, apart"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lysis",
+                    "meaning": {
+                        "ko": "'풀다, 녹이다'",
+                        "en": "to loosen, dissolve",
+                        "ja": "解く、溶かす",
+                        "zh": "松开、溶解",
+                        "fr": "desserrer, dissoudre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반투막을 통해 물질을 분리하는' 과정으로, 특히 '혈액 투석'을 의미합니다.",
+                "en": "Process of separating substances through a semipermeable membrane, especially referring to blood dialysis",
+                "ja": "半透膜を通じて物質を分離するプロセス、特に血液透析を意味します",
+                "zh": "通过半透膜分离物质的过程，特别是指血液透析",
+                "fr": "Processus de séparation des substances à travers une membrane semi-perméable, en particulier la dialyse rénale"
+            },
+            "example": "He receives dialysis three times a week.",
+            "translation": {
+                "ko": "그는 일주일에 세 번 투석을 받는다.",
+                "ja": "彼は週3回透析を受けています",
+                "zh": "他每周接受三次透析",
+                "fr": "Il subit une dialyse trois fois par semaine"
+            }
+        },
+        {
+            "word": "hydrolyze",
+            "part_of_speech": "",
+            "origin": "Greek, hydor (water) + lysis (a loosening)",
+            "meaning": {
+                "ko": "물로 풀다",
+                "en": "to dissolve with water",
+                "ja": "加水分解する",
+                "zh": "水解",
+                "fr": "hydrolyser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hydro-",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lyze",
+                    "meaning": {
+                        "ko": "'풀다, 분해하다'",
+                        "en": "to loosen, break down",
+                        "ja": "解く、分解する",
+                        "zh": "松开、分解",
+                        "fr": "détacher, décomposer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물과 반응하여 화합물을 분해하다'는 의미의 '가수분해하다'라는 뜻입니다.",
+                "en": "Breaking down a compound by reacting with water",
+                "ja": "水と反応して化合物を分解すること",
+                "zh": "与水反应分解化合物",
+                "fr": "Décomposer un composé par réaction avec l'eau"
+            },
+            "example": "Enzymes hydrolyze proteins into amino acids.",
+            "translation": {
+                "ko": "효소는 단백질을 아미노산으로 가수분해한다.",
+                "ja": "酵素はタンパク質をアミノ酸に加水分解する。",
+                "zh": "酶将蛋白质水解成氨基酸。",
+                "fr": "Les enzymes hydrolysent les protéines en acides aminés."
+            }
+        },
+        {
+            "word": "lysosome",
+            "part_of_speech": "",
+            "origin": "Greek, lysis (a loosening) + soma (body)",
+            "meaning": {
+                "ko": "분해하는 소체",
+                "en": "decomposing body",
+                "ja": "分解する小体",
+                "zh": "分解小体",
+                "fr": "corps de dissolution"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lyso-",
+                    "meaning": {
+                        "ko": "'분해'",
+                        "en": "dissolving",
+                        "ja": "分解",
+                        "zh": "分解",
+                        "fr": "dissolution"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "some",
+                    "meaning": {
+                        "ko": "'소체'",
+                        "en": "body",
+                        "ja": "小体",
+                        "zh": "小体",
+                        "fr": "corps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포 내에서 물질을 분해하는 작은 기관'인 '리소좀'을 뜻합니다.",
+                "en": "Lysosomes are small organelles within cells that break down substances",
+                "ja": "細胞内で物質を分解する小さな小器官",
+                "zh": "细胞内分解物质的小器官",
+                "fr": "petite organelle cellulaire qui décompose les substances"
+            },
+            "example": "Lysosomes contain digestive enzymes.",
+            "translation": {
+                "ko": "리소좀은 소화 효소를 포함하고 있다.",
+                "ja": "リソソームは消化酵素を含んでいます",
+                "zh": "溶酶体含有消化酶",
+                "fr": "Les lysosomes contiennent des enzymes digestives"
+            }
+        }
+    ]
+}

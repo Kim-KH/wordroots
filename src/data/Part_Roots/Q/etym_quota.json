@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "quota (amount) quota, quotient, quotidian",
+        "origin": "Latin, quot (how many)",
+        "meaning": {
+            "ko": "얼마나 많이",
+            "en": "how many",
+            "ja": "どのくらい多く",
+            "zh": "多少",
+            "fr": "combien"
+        }
+    },
+    "words": [
+        {
+            "word": "quota",
+            "part_of_speech": "",
+            "origin": "Latin, quota pars (how large a part)",
+            "meaning": {
+                "ko": "얼마나 큰 부분",
+                "en": "how large a part",
+                "ja": "どのくらい大きい部分",
+                "zh": "多大的部分",
+                "fr": "quelle taille de partie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quot-",
+                    "meaning": {
+                        "ko": "'얼마나'",
+                        "en": "how many",
+                        "ja": "どのくらい",
+                        "zh": "多少",
+                        "fr": "combien"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'각자에게 할당된 부분'이라는 의미에서 '할당량'을 뜻합니다.",
+                "en": "Means 'allocation amount' in the sense of 'a portion allocated to each person'",
+                "ja": "各自に割り当てられた部分という意味で'割当量'を意味します",
+                "zh": "表示'分配量'，意为'分配给每个人的部分'",
+                "fr": "Signifie 'quantité allouée' au sens de 'partie attribuée à chacun'"
+            },
+            "example": "The company has a sales quota for each employee.",
+            "translation": {
+                "ko": "그 회사는 각 직원에게 판매 할당량을 부과한다.",
+                "ja": "その会社は各従業員に売上割当量を設定しています。",
+                "zh": "该公司为每名员工设定了销售配额。",
+                "fr": "L'entreprise a un quota de ventes pour chaque employé."
+            }
+        },
+        {
+            "word": "quotient",
+            "part_of_speech": "",
+            "origin": "Latin, quotiens (how often, how many times)",
+            "meaning": {
+                "ko": "몇 번",
+                "en": "how many times",
+                "ja": "何回",
+                "zh": "几次",
+                "fr": "combien de fois"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quot-",
+                    "meaning": {
+                        "ko": "'얼마나'",
+                        "en": "how many",
+                        "ja": "どのくらい",
+                        "zh": "多少",
+                        "fr": "combien"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 숫자에 다른 숫자가 몇 번 들어가는가'를 나타내는 나눗셈의 결과, 즉 '몫'을 뜻합니다.",
+                "en": "The result of division showing how many times one number goes into another, meaning 'quotient'",
+                "ja": "ある数に別の数が何回入るかを表す除算の結果、つまり'商'を意味します",
+                "zh": "表示除法结果的一个数包含另一个数多少次，即'商'的意思",
+                "fr": "Le résultat de la division montrant combien de fois un nombre entre dans un autre, signifiant 'quotient'"
+            },
+            "example": "The quotient of 10 divided by 2 is 5.",
+            "translation": {
+                "ko": "10을 2로 나눈 몫은 5이다.",
+                "ja": "商",
+                "zh": "商",
+                "fr": "quotient"
+            }
+        },
+        {
+            "word": "quotidian",
+            "part_of_speech": "",
+            "origin": "Latin, quotidianus (daily)",
+            "meaning": {
+                "ko": "매일의",
+                "en": "daily",
+                "ja": "日々の、日常的な",
+                "zh": "日常的、每日的",
+                "fr": "quotidien, ordinaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "quot-",
+                    "meaning": {
+                        "ko": "'얼마나'",
+                        "en": "how many",
+                        "ja": "どのくらい",
+                        "zh": "多少、几",
+                        "fr": "combien"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dian (dies)",
+                    "meaning": {
+                        "ko": "'날'",
+                        "en": "day",
+                        "ja": "日",
+                        "zh": "日、天",
+                        "fr": "jour"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매일매일 일어나는'이라는 의미에서 '매일의', '일상적인'이라는 뜻입니다.",
+                "en": "Meaning 'daily' or 'occurring every day', describing something that happens repeatedly and regularly in daily life",
+                "ja": "毎日繰り返される日常的な出来事という意味から、'毎日の'、'日常的な'という意味になります",
+                "zh": "从'每天重复发生的日常事物'的含义引申为'每日的'、'日常的'的意思",
+                "fr": "Du sens de 'événements quotidiens qui se répètent chaque jour', signifiant 'quotidien' ou 'ordinaire'"
+            },
+            "example": "He was bored with his quotidian routine.",
+            "translation": {
+                "ko": "그는 그의 일상적인 틀에 박힌 생활에 싫증이 났다.",
+                "ja": "彼は日常的なルーチンに退屈していた。",
+                "zh": "他对日常的例行程序感到厌倦。",
+                "fr": "Il s'ennuyait avec sa routine quotidienne."
+            }
+        }
+    ]
+}

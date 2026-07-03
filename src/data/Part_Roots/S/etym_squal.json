@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "squal (foul) squalid, squalor",
+        "origin": "Latin, squalere (to be foul, to be filthy)",
+        "meaning": {
+            "ko": "더럽다",
+            "en": "to be foul",
+            "ja": "汚い",
+            "zh": "肮脏",
+            "fr": "être sale"
+        }
+    },
+    "words": [
+        {
+            "word": "squalid",
+            "part_of_speech": "",
+            "origin": "Latin, squalidus (foul, filthy)",
+            "meaning": {
+                "ko": "더러운",
+                "en": "dirty or filthy",
+                "ja": "汚い",
+                "zh": "肮脏的",
+                "fr": "sordide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "squal-",
+                    "meaning": {
+                        "ko": "'더럽다'",
+                        "en": "to be foul",
+                        "ja": "汚れている",
+                        "zh": "肮脏",
+                        "fr": "être souillé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매우 더럽고 불결한'이라는 뜻입니다.",
+                "en": "Means very dirty and unclean",
+                "ja": "非常に汚く不潔という意味です",
+                "zh": "表示非常肮脏和不洁",
+                "fr": "Signifie très sale et malpropre"
+            },
+            "example": "They were living in squalid conditions.",
+            "translation": {
+                "ko": "그들은 불결한 환경에서 살고 있었다.",
+                "ja": "彼らは汚い環境で生活していた。",
+                "zh": "他们生活在肮脏的环境中。",
+                "fr": "Ils vivaient dans des conditions sordides."
+            }
+        },
+        {
+            "word": "squalor",
+            "part_of_speech": "",
+            "origin": "Latin, squalor (filth, dirt)",
+            "meaning": {
+                "ko": "더러움",
+                "en": "dirtiness and filth",
+                "ja": "汚れた状態",
+                "zh": "肮脏",
+                "fr": "saleté"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "squal-",
+                    "meaning": {
+                        "ko": "'더럽다'",
+                        "en": "to be foul",
+                        "ja": "汚い",
+                        "zh": "肮脏的",
+                        "fr": "être sale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매우 더럽고 불결한 상태'를 뜻합니다.",
+                "en": "State of being extremely dirty and filthy",
+                "ja": "非常に汚く不潔な状態",
+                "zh": "极其肮脏和不洁的状态",
+                "fr": "État d'être extrêmement sale"
+            },
+            "example": "He was living in squalor.",
+            "translation": {
+                "ko": "그는 불결한 상태에서 살고 있었다.",
+                "ja": "彼は不潔な環境で生活していた",
+                "zh": "他生活在肮脏的环境中",
+                "fr": "Il vivait dans la saleté"
+            }
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "giga (giant, billion) gigabyte, gigantic, gigahertz, gigawatt",
+        "origin": "Greek, gigas (giant)",
+        "meaning": {
+            "ko": "거인",
+            "en": "giant",
+            "ja": "巨人",
+            "zh": "巨人",
+            "fr": "géant"
+        }
+    },
+    "words": [
+        {
+            "word": "gigabyte",
+            "part_of_speech": "",
+            "origin": "Greek, gigas (giant) + English, byte",
+            "meaning": {
+                "ko": "거대한 바이트",
+                "en": "large unit of bytes",
+                "ja": "巨大なバイト",
+                "zh": "巨大字节",
+                "fr": "gigaoctet"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "giga-",
+                    "meaning": {
+                        "ko": "'거대한, 10억'",
+                        "en": "giant, billion",
+                        "ja": "巨大な、10億",
+                        "zh": "巨大的、十亿",
+                        "fr": "géant, milliard"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "byte",
+                    "meaning": {
+                        "ko": "'바이트'",
+                        "en": "byte",
+                        "ja": "バイト",
+                        "zh": "字节",
+                        "fr": "octet"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'10억 바이트'를 나타내는 데이터의 단위입니다.",
+                "en": "A unit of data representing 1 billion bytes",
+                "ja": "10億バイトを示すデータの単位です",
+                "zh": "表示10亿字节的数据单位",
+                "fr": "Unité de données représentant 1 milliard d'octets"
+            },
+            "example": "This flash drive can store up to 64 gigabytes of data.",
+            "translation": {
+                "ko": "이 플래시 드라이브는 최대 64기가바이트의 데이터를 저장할 수 있다.",
+                "ja": "このフラッシュドライブは最大64ギガバイトのデータを保存できます",
+                "zh": "这个闪存驱动器最多可存储64GB的数据",
+                "fr": "Cette clé USB peut stocker jusqu'à 64 gigaoctets de données"
+            }
+        },
+        {
+            "word": "gigantic",
+            "part_of_speech": "",
+            "origin": "Greek, gigantikos (like a giant)",
+            "meaning": {
+                "ko": "거인 같은",
+                "en": "like a giant",
+                "ja": "巨人のような",
+                "zh": "巨人似的",
+                "fr": "comme un géant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gigant- (gigas)",
+                    "meaning": {
+                        "ko": "'거인'",
+                        "en": "giant",
+                        "ja": "巨人",
+                        "zh": "巨人",
+                        "fr": "géant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'거인처럼 엄청나게 큰'이라는 뜻입니다.",
+                "en": "Means extremely large like a giant",
+                "ja": "巨人のように非常に大きいという意味",
+                "zh": "表示像巨人一样极其巨大",
+                "fr": "Signifie extrêmement grand comme un géant"
+            },
+            "example": "A gigantic wave crashed onto the shore.",
+            "translation": {
+                "ko": "거대한 파도가 해안으로 부딪쳤다.",
+                "ja": "巨大な波が岸に打ち寄せた。",
+                "zh": "一股巨大的波浪冲上了海岸。",
+                "fr": "Une vague gigantesque s'est écrasée sur le rivage."
+            }
+        },
+        {
+            "word": "gigahertz",
+            "part_of_speech": "",
+            "origin": "Greek, gigas (giant) + English, hertz",
+            "meaning": {
+                "ko": "10억 헤르츠",
+                "en": "one billion hertz",
+                "ja": "10億ヘルツ",
+                "zh": "十亿赫兹",
+                "fr": "milliard de hertz"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "giga-",
+                    "meaning": {
+                        "ko": "'10억'",
+                        "en": "billion",
+                        "ja": "10億",
+                        "zh": "十亿",
+                        "fr": "milliard"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hertz",
+                    "meaning": {
+                        "ko": "'헤르츠'",
+                        "en": "hertz",
+                        "ja": "ヘルツ",
+                        "zh": "赫兹",
+                        "fr": "hertz"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'1초에 10억 번 진동하는 주파수'를 나타내는 단위입니다.",
+                "en": "Unit measuring frequency of 1 billion oscillations per second",
+                "ja": "1秒間に10億回振動する周波数の単位",
+                "zh": "表示每秒10亿次振动的频率单位",
+                "fr": "Unité de fréquence de milliard d'oscillations par seconde"
+            },
+            "example": "The processor speed is measured in gigahertz.",
+            "translation": {
+                "ko": "프로세서 속도는 기가헤르츠 단위로 측정된다.",
+                "ja": "プロセッサの速度はギガヘルツで測定されます。",
+                "zh": "处理器速度以吉赫兹为单位测量。",
+                "fr": "La vitesse du processeur est mesurée en gigahertz."
+            }
+        },
+        {
+            "word": "gigawatt",
+            "part_of_speech": "",
+            "origin": "Greek, gigas (giant) + English, watt",
+            "meaning": {
+                "ko": "10억 와트",
+                "en": "one billion watts",
+                "ja": "10億ワット",
+                "zh": "十亿瓦特",
+                "fr": "un milliard de watts"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "giga-",
+                    "meaning": {
+                        "ko": "'10억'",
+                        "en": "billion",
+                        "ja": "10億",
+                        "zh": "十亿",
+                        "fr": "milliard"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "watt",
+                    "meaning": {
+                        "ko": "'와트'",
+                        "en": "watt",
+                        "ja": "ワット",
+                        "zh": "瓦特",
+                        "fr": "watt"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'10억 와트'를 나타내는 전력의 단위입니다.",
+                "en": "A unit of electrical power representing one billion watts.",
+                "ja": "10億ワットを表す電力の単位です。",
+                "zh": "表示10亿瓦特的电力单位。",
+                "fr": "Unité de puissance électrique égale à un milliard de watts."
+            },
+            "example": "The power plant has a capacity of one gigawatt.",
+            "translation": {
+                "ko": "그 발전소의 용량은 1기가와트이다.",
+                "ja": "この発電所の容量は1ギガワットです。",
+                "zh": "这家发电厂的容量是1吉瓦。",
+                "fr": "La centrale électrique a une capacité d'un gigawatt."
+            }
+        }
+    ]
+}

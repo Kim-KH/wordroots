@@ -1,0 +1,99 @@
+{
+    "root_info": {
+        "roots": "endo",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "안",
+            "en": "inside, within",
+            "ja": "中",
+            "zh": "内",
+            "fr": "dans"
+        }
+    },
+    "words": [
+        {
+            "word": "endoscope",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "endo",
+                    "meaning": {
+                        "ko": "안",
+                        "en": "inside",
+                        "ja": "中",
+                        "zh": "内部",
+                        "fr": "intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "보는 기구",
+                        "en": "instrument for viewing",
+                        "ja": "観察する道具",
+                        "zh": "观察仪器",
+                        "fr": "instrument d'observation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸 안을 들여다보는 기구' 즉, '내시경'을 뜻합니다.",
+                "en": "An instrument for viewing inside the body; used in medical examinations.",
+                "ja": "体の内部を観察する医療機器で、内視鏡を意味します。",
+                "zh": "用于观察体内的医疗仪器，意为内窥镜。",
+                "fr": "Instrument médical permettant d'observer l'intérieur du corps; endoscope."
+            },
+            "example": "The doctor used an endoscope to examine his stomach.",
+            "translation": {
+                "ko": "의사는 그의 위를 검사하기 위해 내시경을 사용했다.",
+                "ja": "医者は彼の胃を検査するために内視鏡を使った。",
+                "zh": "医生用内窥镜检查了他的胃。",
+                "fr": "Le médecin a utilisé un endoscope pour examiner son estomac."
+            }
+        },
+        {
+            "word": "endogenous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "endo",
+                    "meaning": {
+                        "ko": "안",
+                        "en": "inside",
+                        "ja": "内部",
+                        "zh": "内部",
+                        "fr": "intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "genous",
+                    "meaning": {
+                        "ko": "생성하는",
+                        "en": "generating",
+                        "ja": "生成する",
+                        "zh": "生成",
+                        "fr": "générer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에서 생성되는'이라는 의미에서 '내생의', '내인성의'라는 뜻입니다.",
+                "en": "Meaning 'generated from within', hence 'endogenous' or 'intrinsic'",
+                "ja": "内部で生成されるという意味から、内因性の、または固有のという意味です",
+                "zh": "从内部生成的意思，因此是内源性的或固有的",
+                "fr": "Signifiant 'généré de l'intérieur', d'où 'endogène' ou 'intrinsèque'"
+            },
+            "example": "The disease was caused by endogenous factors.",
+            "translation": {
+                "ko": "그 질병은 내인성 요인에 의해 발생했다.",
+                "ja": "その病気は内因性の要因によって引き起こされた。",
+                "zh": "这种疾病是由内源性因素引起的。",
+                "fr": "La maladie a été causée par des facteurs endogènes."
+            }
+        }
+    ]
+}

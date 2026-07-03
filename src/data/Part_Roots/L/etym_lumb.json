@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "lumb (lower back) lumbar, lumbago",
+        "origin": "Latin, lumbus (loin)",
+        "meaning": {
+            "ko": "허리",
+            "en": "loin",
+            "ja": "腰",
+            "zh": "腰部",
+            "fr": "lombes"
+        }
+    },
+    "words": [
+        {
+            "word": "lumbar",
+            "part_of_speech": "",
+            "origin": "Latin, lumbus (loin)",
+            "meaning": {
+                "ko": "허리",
+                "en": "lower back",
+                "ja": "腰の",
+                "zh": "腰部的",
+                "fr": "lombaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lumb-",
+                    "meaning": {
+                        "ko": "'허리'",
+                        "en": "loin",
+                        "ja": "腰",
+                        "zh": "腰部",
+                        "fr": "lombes"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'허리의', '요추의'라는 뜻입니다.",
+                "en": "Relating to the lower back or loins",
+                "ja": "腰部に関する、腰椎の",
+                "zh": "与下背部或腰部有关",
+                "fr": "Relatif aux lombes ou à la région lombaire"
+            },
+            "example": "He suffers from lumbar pain.",
+            "translation": {
+                "ko": "그는 요통으로 고생한다.",
+                "ja": "彼は腰痛に苦しんでいます。",
+                "zh": "他患有腰痛。",
+                "fr": "Il souffre de douleurs lombaires."
+            }
+        },
+        {
+            "word": "lumbago",
+            "part_of_speech": "",
+            "origin": "Latin, lumbago (pain in the loins)",
+            "meaning": {
+                "ko": "허리 통증",
+                "en": "lower back pain",
+                "ja": "腰痛",
+                "zh": "腰痛",
+                "fr": "lombalgies"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lumb-",
+                    "meaning": {
+                        "ko": "'허리'",
+                        "en": "loin",
+                        "ja": "腰",
+                        "zh": "腰",
+                        "fr": "lombes"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'허리 부분의 통증'인 '요통'을 뜻합니다.",
+                "en": "Lumbago is a common complaint among older adults.",
+                "ja": "腰部の痛みである「腰痛」を意味します。",
+                "zh": "指腰部疼痛的「腰痛」。",
+                "fr": "Désigne les douleurs lombaires communes."
+            },
+            "example": "Lumbago is a common complaint among older adults.",
+            "translation": {
+                "ko": "요통은 노인들에게 흔한 질환이다.",
+                "ja": "腰痛は高齢者の一般的な訴えです。",
+                "zh": "腰痛是老年人的常见主诉。",
+                "fr": "La lombalgie est une plainte courante chez les personnes âgées."
+            }
+        }
+    ]
+}

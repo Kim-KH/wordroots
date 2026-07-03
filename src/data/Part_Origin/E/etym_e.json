@@ -1,0 +1,309 @@
+{
+    "root_info": {
+        "roots": "e, ex",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "밖으로, 떨어져",
+            "en": "out, away, from",
+            "ja": "外へ、離れて、から",
+            "zh": "向外、离开、从",
+            "fr": "dehors, loin, de"
+        }
+    },
+    "words": [
+        {
+            "word": "emit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mit",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to send",
+                        "ja": "送る",
+                        "zh": "发送",
+                        "fr": "envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 보내다'는 의미에서 빛, 열, 소리, 가스 등을 '내뿜다', '방출하다'는 뜻입니다.",
+                "en": "From the sense of 'send out': to discharge or give off light, heat, sound, gas, etc.",
+                "ja": "「外へ送る」という意味から、光、熱、音、ガスなどを「放出する」という意味です。",
+                "zh": "从「向外发送」的意思引申，表示释放或散发光、热、声音、气体等。",
+                "fr": "Du sens « envoyer vers l'extérieur » : émettre ou dégager de la lumière, de la chaleur, du son, du gaz, etc."
+            },
+            "example": "The factory emits toxic fumes.",
+            "translation": {
+                "ko": "그 공장은 유독 가스를 내뿜는다.",
+                "ja": "その工場は有毒ガスを放出している。",
+                "zh": "那家工厂排放有毒气体。",
+                "fr": "L'usine émet des gaz toxiques."
+            }
+        },
+        {
+            "word": "expulsion",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "puls",
+                    "meaning": {
+                        "ko": "밀다",
+                        "en": "to push",
+                        "ja": "押す",
+                        "zh": "推",
+                        "fr": "pousser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 밀어내는 행위'라는 의미에서 '추방', '제명', '퇴학'을 뜻합니다.",
+                "en": "The act of pushing out; means expulsion, dismissal, or removal from school.",
+                "ja": "押し出す行為から、追放、除籍、退学を意味します。",
+                "zh": "从推出的行为衍生，表示驱逐、开除或退学。",
+                "fr": "De l'acte de chasser dehors; signifie expulsion, renvoi ou exclusion scolaire."
+            },
+            "example": "Expulsion is the most severe punishment.",
+            "translation": {
+                "ko": "퇴학은 가장 심한 처벌이다.",
+                "ja": "退学は最も厳しい処罰である。",
+                "zh": "开除是最严厉的处罚。",
+                "fr": "L'expulsion est la punition la plus grave."
+            }
+        },
+        {
+            "word": "exhale",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hale",
+                    "meaning": {
+                        "ko": "숨 쉬다",
+                        "en": "to breathe",
+                        "ja": "呼吸する",
+                        "zh": "呼吸",
+                        "fr": "respirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숨을 밖으로 내쉬다'는 뜻입니다.",
+                "en": "To breathe out air from the lungs",
+                "ja": "肺から空気を外に出す",
+                "zh": "将空气从肺部呼出",
+                "fr": "Expulser l'air des poumons"
+            },
+            "example": "Breathe in slowly, and then exhale.",
+            "translation": {
+                "ko": "숨을 천천히 들이마시고, 그 다음 내쉬세요.",
+                "ja": "ゆっくり吸い込んで、そして息を吐いてください。",
+                "zh": "缓慢地吸气，然后呼气。",
+                "fr": "Inspirez lentement, puis expirez."
+            }
+        },
+        {
+            "word": "exit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "it",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 나가는 길' 즉, '출구'를 뜻합니다.",
+                "en": "A path leading outward; an exit or way out",
+                "ja": "外へ出ていく道、つまり出口を意味します",
+                "zh": "向外走的路，即出口的意思",
+                "fr": "Un chemin menant vers l'extérieur, c'est-à-dire une sortie"
+            },
+            "example": "Where is the emergency exit?",
+            "translation": {
+                "ko": "비상 출구가 어디인가요?",
+                "ja": "非常口はどこですか？",
+                "zh": "紧急出口在哪里？",
+                "fr": "Où est la sortie de secours ?"
+            }
+        },
+        {
+            "word": "express",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "press",
+                    "meaning": {
+                        "ko": "누르다",
+                        "en": "to press",
+                        "ja": "押す",
+                        "zh": "按压",
+                        "fr": "presser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에 있는 것을 밖으로 눌러 꺼내다'는 의미에서, 생각이나 감정을 '표현하다'는 뜻이 되었습니다.",
+                "en": "From 'to press out what is inside,' it came to mean 'to express thoughts or feelings.'",
+                "ja": "「内側にあるものを外へ押し出す」という意味から、思考や感情を「表現する」という意味になりました。",
+                "zh": "从「把内在的东西向外挤压」的意思，演变为「表达思想或感情」的含义。",
+                "fr": "Du sens de « presser vers l'extérieur ce qui est à l'intérieur », il a acquis le sens d'« exprimer la pensée ou les sentiments »."
+            },
+            "example": "It is hard to express my feelings.",
+            "translation": {
+                "ko": "내 감정을 표현하기가 어렵다.",
+                "ja": "自分の気持ちを表現するのは難しい。",
+                "zh": "很难表达我的感受。",
+                "fr": "C'est difficile d'exprimer mes sentiments."
+            }
+        },
+        {
+            "word": "exceed",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out, beyond",
+                        "ja": "外へ、超えて",
+                        "zh": "向外、超过",
+                        "fr": "au-delà, hors de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceed",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한계를 벗어나 가다'는 의미에서 '초과하다', '능가하다'는 뜻입니다.",
+                "en": "From the sense of 'going beyond limits,' meaning 'surpass' or 'go over.'",
+                "ja": "「限界を超えて行く」という意味から、「超過する」「上回る」という意味になります。",
+                "zh": "从「超越界限而去」的意义衍生出「超过」「超出」的意思。",
+                "fr": "Du sens « aller au-delà des limites », signifie « dépasser » ou « surpasser »."
+            },
+            "example": "The cost should not exceed $100.",
+            "translation": {
+                "ko": "비용은 100달러를 초과해서는 안 된다.",
+                "ja": "費用は100ドルを超えてはいけません。",
+                "zh": "费用不应超过100美元。",
+                "fr": "Le coût ne doit pas dépasser 100 dollars."
+            }
+        },
+        {
+            "word": "explosion",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plos",
+                    "meaning": {
+                        "ko": "치다",
+                        "en": "to strike",
+                        "ja": "破裂する",
+                        "zh": "爆炸",
+                        "fr": "exploser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 터져 나오는 것'이라는 의미에서 '폭발'을 뜻합니다.",
+                "en": "Meaning 'something bursting outward,' referring to explosion.",
+                "ja": "「外へ破裂する」という意味から「爆発」を表します。",
+                "zh": "从「向外爆炸」的含义衍生出「爆炸」的意思。",
+                "fr": "Du sens « éclater vers l'extérieur », d'où le mot « explosion »."
+            },
+            "example": "We heard a loud explosion.",
+            "translation": {
+                "ko": "우리는 큰 폭발음을 들었다.",
+                "ja": "私たちは大きな爆発音を聞いた。",
+                "zh": "我们听到了巨大的爆炸声。",
+                "fr": "Nous avons entendu une grande explosion."
+            }
+        }
+    ]
+}

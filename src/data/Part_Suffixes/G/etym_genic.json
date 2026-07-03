@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "genic (creating) carcinogenic, eugenic, mutagenic, photogenic",
+        "origin": "Greek, genos (birth, race)",
+        "meaning": {
+            "ko": "만들어내는",
+            "en": "creating",
+            "ja": "作成する",
+            "zh": "创建",
+            "fr": "créer"
+        }
+    },
+    "words": [
+        {
+            "word": "carcinogenic",
+            "part_of_speech": "",
+            "origin": "Greek, karkinos (cancer) + genos (birth)",
+            "meaning": {
+                "ko": "암을 낳는",
+                "en": "causing cancer",
+                "ja": "がんを引き起こす",
+                "zh": "致癌的",
+                "fr": "cancérigène"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carcino-",
+                    "meaning": {
+                        "ko": "'암'",
+                        "en": "cancer",
+                        "ja": "がん",
+                        "zh": "癌症",
+                        "fr": "cancer"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "genic",
+                    "meaning": {
+                        "ko": "'만들어내는'",
+                        "en": "producing or causing",
+                        "ja": "引き起こす",
+                        "zh": "引起",
+                        "fr": "induire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'암을 유발하는'이라는 뜻입니다.",
+                "en": "Causes or produces cancer",
+                "ja": "がんを引き起こす物質",
+                "zh": "能够诱发癌症的物质",
+                "fr": "Substance qui cause le cancer"
+            },
+            "example": "Tobacco smoke contains many carcinogenic substances.",
+            "translation": {
+                "ko": "담배 연기는 많은 발암 물질을 포함하고 있다.",
+                "ja": "タバコの煙には多くの発がん性物質が含まれています。",
+                "zh": "烟草烟雾含有许多致癌物质。",
+                "fr": "La fumée de tabac contient de nombreuses substances cancérigènes."
+            }
+        },
+        {
+            "word": "eugenic",
+            "part_of_speech": "",
+            "origin": "Greek, eu- (good) + genos (birth)",
+            "meaning": {
+                "ko": "좋은 탄생",
+                "en": "good birth",
+                "ja": "良い誕生",
+                "zh": "良好的出生",
+                "fr": "bonne naissance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eu-",
+                    "meaning": {
+                        "ko": "'좋은'",
+                        "en": "good",
+                        "ja": "良い",
+                        "zh": "好的",
+                        "fr": "bon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "genic",
+                    "meaning": {
+                        "ko": "'탄생의'",
+                        "en": "of birth",
+                        "ja": "誕生の",
+                        "zh": "出生的",
+                        "fr": "de naissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더 좋은 인종을 만들기 위한'이라는 의미의 '우생학의'라는 뜻입니다.",
+                "en": "Relating to eugenics, the practice of improving the human race",
+                "ja": "より良い人種を作るための優生学に関する",
+                "zh": "为了创造更好人种的优生学相关的",
+                "fr": "Relatif à l'eugénisme, visant à améliorer la race humaine"
+            },
+            "example": "Eugenic policies were promoted by the Nazis.",
+            "translation": {
+                "ko": "우생학 정책은 나치에 의해 장려되었다.",
+                "ja": "優生学的な",
+                "zh": "优生学的",
+                "fr": "eugénique"
+            }
+        },
+        {
+            "word": "mutagenic",
+            "part_of_speech": "",
+            "origin": "Latin, mutare (to change) + Greek, genos (birth)",
+            "meaning": {
+                "ko": "변화를 낳는",
+                "en": "producing change",
+                "ja": "変化を引き起こす",
+                "zh": "引起变化的",
+                "fr": "induisant le changement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "muta-",
+                    "meaning": {
+                        "ko": "'변화'",
+                        "en": "change",
+                        "ja": "変化",
+                        "zh": "变化",
+                        "fr": "changement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "genic",
+                    "meaning": {
+                        "ko": "'만들어내는'",
+                        "en": "producing or creating",
+                        "ja": "引き起こす",
+                        "zh": "引起的",
+                        "fr": "produisant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'유전적 변화(돌연변이)를 일으키는'이라는 뜻입니다.",
+                "en": "Means causing genetic changes (mutations)",
+                "ja": "遺伝的変化(突然変異)を引き起こす意味です",
+                "zh": "指引起遗传变化(突变)的意思",
+                "fr": "Signifie provoquant des changements génétiques (mutations)"
+            },
+            "example": "The chemical has been shown to be mutagenic.",
+            "translation": {
+                "ko": "그 화학 물질은 돌연변이 유발성인 것으로 나타났다.",
+                "ja": "この化学物質は変異原性があることが示されています。",
+                "zh": "这种化学物质已被证明具有致突变性。",
+                "fr": "Le produit chimique s'est avéré être mutagène."
+            }
+        },
+        {
+            "word": "photogenic",
+            "part_of_speech": "",
+            "origin": "Greek, phos (light) + genos (birth)",
+            "meaning": {
+                "ko": "빛을 낳는",
+                "en": "producing light",
+                "ja": "写真映りがいい",
+                "zh": "上镜的",
+                "fr": "photogénique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "photo-",
+                    "meaning": {
+                        "ko": "'빛, 사진'",
+                        "en": "light, photo",
+                        "ja": "光、写真",
+                        "zh": "光、照片",
+                        "fr": "lumière, photo"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "genic",
+                    "meaning": {
+                        "ko": "'만들어내는'",
+                        "en": "producing or creating",
+                        "ja": "生み出す",
+                        "zh": "产生",
+                        "fr": "produire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사진을 잘 만들어내는'이라는 의미에서 '사진을 잘 받는'이라는 뜻입니다.",
+                "en": "Means appearing attractive in photographs",
+                "ja": "写真に写る時に魅力的に見える意味",
+                "zh": "指在照片中显得有吸引力",
+                "fr": "Signifie apparaître attrayant sur les photos"
+            },
+            "example": "She is very photogenic.",
+            "translation": {
+                "ko": "그녀는 사진을 매우 잘 받는다.",
+                "ja": "彼女はとても写真映りがいい。",
+                "zh": "她非常上镜。",
+                "fr": "Elle est très photogénique."
+            }
+        }
+    ]
+}

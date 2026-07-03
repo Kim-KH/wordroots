@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "radic (root) eradicate, radish",
+        "origin": "Latin, radix, radicis (a root)",
+        "meaning": {
+            "ko": "뿌리",
+            "en": "a root",
+            "ja": "根",
+            "zh": "根",
+            "fr": "racine"
+        }
+    },
+    "words": [
+        {
+            "word": "eradicate",
+            "part_of_speech": "",
+            "origin": "Latin, eradicare (to root out)",
+            "meaning": {
+                "ko": "뿌리 뽑다",
+                "en": "to pull out by the roots",
+                "ja": "根絶する",
+                "zh": "根除",
+                "fr": "éradiquer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "radic-",
+                    "meaning": {
+                        "ko": "'뿌리'",
+                        "en": "root",
+                        "ja": "根",
+                        "zh": "根",
+                        "fr": "racine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뿌리째 밖으로 뽑아내다'는 의미에서 질병이나 문제를 '근절하다'라는 뜻이 되었습니다.",
+                "en": "From the literal meaning of pulling out by the roots, it came to mean completely eliminating diseases or problems.",
+                "ja": "根こそぎ外に引き抜くという文字通りの意味から、病気や問題を完全に排除するという意味になりました。",
+                "zh": "从字面上连根拔起的意思，引申为彻底消除疾病或问题。",
+                "fr": "Du sens littéral d'arracher par les racines, il a acquis le sens d'éliminer complètement les maladies ou les problèmes."
+            },
+            "example": "We must eradicate poverty.",
+            "translation": {
+                "ko": "우리는 가난을 근절해야 한다.",
+                "ja": "貧困を根絶しなければならない。",
+                "zh": "我们必须根除贫困。",
+                "fr": "Nous devons éradiquer la pauvreté."
+            }
+        },
+        {
+            "word": "radish",
+            "part_of_speech": "",
+            "origin": "Latin, radix (root)",
+            "meaning": {
+                "ko": "뿌리",
+                "en": "root",
+                "ja": "大根",
+                "zh": "萝卜",
+                "fr": "radis"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "radi- (radix)",
+                    "meaning": {
+                        "ko": "'뿌리'",
+                        "en": "root",
+                        "ja": "根",
+                        "zh": "根",
+                        "fr": "racine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뿌리를 먹는' 채소라는 의미에서 '무'를 뜻합니다.",
+                "en": "Refers to 'mu' (radish), meaning a vegetable eaten for its root",
+                "ja": "根を食べる野菜という意味で「大根」を指します",
+                "zh": "指以根部为食的蔬菜「萝卜」",
+                "fr": "Désigne le radis, un légume mangé pour sa racine"
+            },
+            "example": "I like to add sliced radish to my salad.",
+            "translation": {
+                "ko": "나는 샐러드에 얇게 썬 무를 넣는 것을 좋아한다.",
+                "ja": "私はサラダに薄切りにした大根を加えるのが好きです。",
+                "zh": "我喜欢在沙拉中加入切片萝卜。",
+                "fr": "J'aime ajouter du radis tranché à ma salade."
+            }
+        }
+    ]
+}

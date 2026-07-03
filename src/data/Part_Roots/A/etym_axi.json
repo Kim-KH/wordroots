@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "axi (axis, turn) axis, axle",
+        "origin": "Latin, axis (axle, pivot)",
+        "meaning": {
+            "ko": "차축, 중심축",
+            "en": "axle, pivot",
+            "ja": "車軸、回転軸",
+            "zh": "车轴、转轴",
+            "fr": "essieu, axe de rotation"
+        }
+    },
+    "words": [
+        {
+            "word": "axis",
+            "part_of_speech": "",
+            "origin": "Latin, axis (axle, pivot)",
+            "meaning": {
+                "ko": "축",
+                "en": "axle",
+                "ja": "回転軸",
+                "zh": "轴线",
+                "fr": "axe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "axi (axis)",
+                    "meaning": {
+                        "ko": "'축'",
+                        "en": "axle",
+                        "ja": "回転軸",
+                        "zh": "轴线",
+                        "fr": "axe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "물체가 회전하는 중심선인 '축'을 의미합니다. 수학에서는 좌표평면의 '축'을, 비유적으로는 연합의 '중심축' 등을 의미하기도 합니다.",
+                "en": "Refers to the center line around which an object rotates. In mathematics, it can mean the axes of a coordinate plane, and figuratively, the central axis of an alliance, etc.",
+                "ja": "物体が回転する中心線を意味します。数学では座標平面の軸を、比喩的には同盟の中心軸などを意味することもあります。",
+                "zh": "指物体旋转的中心线。在数学中可指坐标平面的轴，比喻上也可指联盟的中心轴等。",
+                "fr": "Désigne la ligne centrale autour de laquelle tourne un objet. En mathématiques, cela peut signifier les axes d'un plan de coordonnées, et figurativement, l'axe central d'une alliance, etc."
+            },
+            "example": "The Earth rotates on its axis once every 24 hours.",
+            "translation": {
+                "ko": "지구는 24시간에 한 번씩 자전축을 중심으로 회전한다.",
+                "ja": "地球は24時間ごとに自転軸の周りを1回転します。",
+                "zh": "地球每24小时围绕其轴线旋转一周。",
+                "fr": "La Terre tourne sur son axe une fois toutes les 24 heures."
+            }
+        },
+        {
+            "word": "axle",
+            "part_of_speech": "",
+            "origin": "Old Norse, ǫxull (axis)",
+            "meaning": {
+                "ko": "축",
+                "en": "axis",
+                "ja": "軸",
+                "zh": "轴",
+                "fr": "axe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "axl (ǫxull)",
+                    "meaning": {
+                        "ko": "'축'",
+                        "en": "axis",
+                        "ja": "軸",
+                        "zh": "轴",
+                        "fr": "axe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "바퀴가 회전할 수 있도록 바퀴의 중심을 관통하는 '차축' 또는 '굴대'를 의미합니다.",
+                "en": "The car's front axle was damaged in the accident.",
+                "ja": "車の前車軸は事故で損傷しました。",
+                "zh": "汽车的前轴在事故中受损。",
+                "fr": "L'essieu avant de la voiture a été endommagé dans l'accident."
+            },
+            "example": "The car's front axle was damaged in the accident.",
+            "translation": {
+                "ko": "그 차의 앞 차축이 사고로 손상되었다.",
+                "ja": "車の前車軸が事故で破損した。",
+                "zh": "汽车的前轴在事故中受损。",
+                "fr": "L'essieu avant de la voiture a été endommagé dans l'accident."
+            }
+        }
+    ]
+}

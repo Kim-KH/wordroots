@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "popu (people) populace, popular, populate, population",
+        "origin": "Latin, populus (people)",
+        "meaning": {
+            "ko": "사람들",
+            "en": "people",
+            "ja": "人々",
+            "zh": "人们",
+            "fr": "peuple"
+        }
+    },
+    "words": [
+        {
+            "word": "populace",
+            "part_of_speech": "",
+            "origin": "Latin, populus (people)",
+            "meaning": {
+                "ko": "사람들",
+                "en": "people",
+                "ja": "一般大衆",
+                "zh": "普通民众",
+                "fr": "populace"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "popul-",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人民",
+                        "fr": "peuple"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일반 대중', '서민'을 뜻합니다.",
+                "en": "Refers to ordinary people or the common masses",
+                "ja": "一般的な人々、庶民を意味します",
+                "zh": "指普通人或大众",
+                "fr": "Désigne les gens ordinaires ou la masse commune"
+            },
+            "example": "The populace was angry with the government.",
+            "translation": {
+                "ko": "대중은 정부에 분노했다.",
+                "ja": "その大衆は政府に怒っていた。",
+                "zh": "普通民众对政府很愤怒。",
+                "fr": "La populace était en colère contre le gouvernement."
+            }
+        },
+        {
+            "word": "popular",
+            "part_of_speech": "",
+            "origin": "Latin, popularis (of the people)",
+            "meaning": {
+                "ko": "사람들의",
+                "en": "of the people",
+                "ja": "人気のある、大衆的な",
+                "zh": "受欢迎的、大众的",
+                "fr": "populaire, apprécié"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "popul-",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人々、人間",
+                        "zh": "人们、民众",
+                        "fr": "peuple, gens"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'많은 사람들에게 알려지고 사랑받는'이라는 의미에서 '인기 있는', '대중적인'이라는 뜻입니다.",
+                "en": "Meaning widely known and loved by many people; famous or well-liked",
+                "ja": "多くの人々に知られ、愛されているという意味で、人気がある、大衆的という意味です",
+                "zh": "意思是被许多人所知道和喜爱，即受欢迎的、流行的含义",
+                "fr": "Signifie connu et aimé par beaucoup de gens; célèbre ou bien-aimé"
+            },
+            "example": "This is a very popular song.",
+            "translation": {
+                "ko": "이것은 매우 인기 있는 노래이다.",
+                "ja": "これは非常に人気のある曲です。",
+                "zh": "这是一首非常受欢迎的歌曲。",
+                "fr": "C'est une chanson très populaire."
+            }
+        },
+        {
+            "word": "populate",
+            "part_of_speech": "",
+            "origin": "Latin, populare (to furnish with people)",
+            "meaning": {
+                "ko": "사람들을 공급하다",
+                "en": "to supply people",
+                "ja": "人々を住まわせる",
+                "zh": "使人居住",
+                "fr": "peupler"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "popul-",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人们",
+                        "fr": "peuple"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 장소에 사람들을 살게 하다'는 의미에서 '거주시키다'라는 뜻입니다.",
+                "en": "To cause people to live in a certain place; to inhabit",
+                "ja": "ある場所に人々を住まわせること",
+                "zh": "使人居住在某个地方",
+                "fr": "Faire habiter des gens dans un lieu"
+            },
+            "example": "The island is sparsely populated.",
+            "translation": {
+                "ko": "그 섬에는 인구가 드문드문 거주한다.",
+                "ja": "その島は人口が少ない。",
+                "zh": "这个岛的人口很少。",
+                "fr": "L'île est peu peuplée."
+            }
+        },
+        {
+            "word": "population",
+            "part_of_speech": "",
+            "origin": "Latin, populatio (a people, a multitude)",
+            "meaning": {
+                "ko": "사람들, 다수",
+                "en": "people, multitude",
+                "ja": "人口、住民の総数",
+                "zh": "人口、总人数",
+                "fr": "population, nombre total"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "popul-",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人民",
+                        "fr": "peuple"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 지역에 사는 사람들의 총수'인 '인구'를 뜻합니다.",
+                "en": "Refers to the total number of people living in a specific area",
+                "ja": "特定の地域に住む人々の総数を指します",
+                "zh": "指生活在特定地区的人总数",
+                "fr": "Désigne le nombre total de personnes vivant dans une zone particulière"
+            },
+            "example": "What is the population of this city?",
+            "translation": {
+                "ko": "이 도시의 인구는 몇 명입니까?",
+                "ja": "この都市の人口は何人ですか？",
+                "zh": "这个城市的人口是多少？",
+                "fr": "Quelle est la population de cette ville?"
+            }
+        }
+    ]
+}

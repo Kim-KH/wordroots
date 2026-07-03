@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "styl (stem) stylist, stylus, turnstile",
+        "origin": "Greek, stylos (a pillar, a post)",
+        "meaning": {
+            "ko": "기둥",
+            "en": "a pillar",
+            "ja": "柱",
+            "zh": "柱子",
+            "fr": "pilier"
+        }
+    },
+    "words": [
+        {
+            "word": "stylist",
+            "part_of_speech": "",
+            "origin": "Greek, stylos (pillar, style of writing)",
+            "meaning": {
+                "ko": "기둥, 문체",
+                "en": "pillar, style",
+                "ja": "スタイリスト、美容師",
+                "zh": "造型师、发型师",
+                "fr": "styliste, coiffeur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "styl-",
+                    "meaning": {
+                        "ko": "'스타일'",
+                        "en": "style",
+                        "ja": "スタイル",
+                        "zh": "风格",
+                        "fr": "style"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신만의 스타일을 창조하는 사람'이라는 의미에서 '스타일리스트', '미용사'를 뜻합니다.",
+                "en": "A person who creates their own unique style; a stylist or hairdresser",
+                "ja": "独自のスタイルを作る人、スタイリストや美容師を意味します",
+                "zh": "创造个人风格的人，指造型师或美容师",
+                "fr": "Une personne qui crée son propre style; un styliste ou coiffeur"
+            },
+            "example": "She is a famous fashion stylist.",
+            "translation": {
+                "ko": "그녀는 유명한 패션 스타일리스트이다.",
+                "ja": "彼女は有名なファッションスタイリストです。",
+                "zh": "她是一位著名的时尚造型师。",
+                "fr": "Elle est une célèbre styliste de mode."
+            }
+        },
+        {
+            "word": "stylus",
+            "part_of_speech": "",
+            "origin": "Greek, stylos (a pillar)",
+            "meaning": {
+                "ko": "기둥",
+                "en": "pillar or column",
+                "ja": "タッチペン",
+                "zh": "触控笔",
+                "fr": "stylet"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "styl-",
+                    "meaning": {
+                        "ko": "'기둥, 뾰족한 것'",
+                        "en": "pillar",
+                        "ja": "柱、先の尖ったもの",
+                        "zh": "柱子、尖锐的东西",
+                        "fr": "pilier, chose pointue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기둥처럼 뾰족한 필기구'라는 의미에서 '스타일러스', '첨필'을 뜻합니다.",
+                "en": "From the meaning of a pointed writing instrument like a pillar",
+                "ja": "柱のような先の尖った筆記具の意味から",
+                "zh": "从像柱子一样尖锐的笔的含义而来",
+                "fr": "Du sens d'un instrument pointu comme un pilier"
+            },
+            "example": "You can use a stylus to write on the tablet screen.",
+            "translation": {
+                "ko": "당신은 태블릿 화면에 글을 쓰기 위해 스타일러스를 사용할 수 있다.",
+                "ja": "タッチペンでタブレット画面に書くことができます。",
+                "zh": "您可以使用触控笔在平板屏幕上书写。",
+                "fr": "Vous pouvez utiliser un stylet pour écrire sur l'écran de la tablette."
+            }
+        },
+        {
+            "word": "turnstile",
+            "part_of_speech": "",
+            "origin": "English, turn + stile (a set of steps for crossing a fence)",
+            "meaning": {
+                "ko": "회전하는 계단",
+                "en": "rotating staircase",
+                "ja": "回転式の門",
+                "zh": "旋转门",
+                "fr": "portique tournant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "turn",
+                    "meaning": {
+                        "ko": "'돌다'",
+                        "en": "to rotate",
+                        "ja": "回転する",
+                        "zh": "旋转",
+                        "fr": "tourner"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stile",
+                    "meaning": {
+                        "ko": "'문'",
+                        "en": "gate",
+                        "ja": "門",
+                        "zh": "门",
+                        "fr": "porte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람이 한 명씩 통과할 때마다 기둥(stylos)처럼 회전하는 문'이라는 의미에서 '회전식 문'을 뜻합니다.",
+                "en": "A rotating gate that turns like a pillar each time one person passes through, meaning a rotating entrance",
+                "ja": "人が1人ずつ通過するたびに柱のように回転する門という意味から、回転式の門を指します",
+                "zh": "每当一个人通过时像柱子一样旋转的门，意思是旋转式入口",
+                "fr": "Une porte qui tourne comme un pilier chaque fois qu'une personne la franchit, signifiant une entrée rotative"
+            },
+            "example": "You have to push the turnstile to enter the subway station.",
+            "translation": {
+                "ko": "지하철역에 들어가려면 회전식 문을 밀어야 한다.",
+                "ja": "地下鉄の駅に入るには、回転式の門を押す必要があります",
+                "zh": "你必须推动旋转门才能进入地铁站",
+                "fr": "Vous devez pousser le portique tournant pour entrer dans la station de métro"
+            }
+        }
+    ]
+}

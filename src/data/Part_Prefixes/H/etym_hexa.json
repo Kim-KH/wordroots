@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "hexa (six) hexadecimal, hexagon, hexameter",
+        "origin": "Greek, hex (six)",
+        "meaning": {
+            "ko": "여섯",
+            "en": "six",
+            "ja": "6つ",
+            "zh": "六",
+            "fr": "six"
+        }
+    },
+    "words": [
+        {
+            "word": "hexadecimal",
+            "part_of_speech": "",
+            "origin": "Greek, hex (six) + Latin, decem (ten)",
+            "meaning": {
+                "ko": "여섯과 열",
+                "en": "six and ten",
+                "ja": "16進法の",
+                "zh": "十六进制的",
+                "fr": "hexadécimal"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hexa-",
+                    "meaning": {
+                        "ko": "'여섯'",
+                        "en": "six",
+                        "ja": "6",
+                        "zh": "六",
+                        "fr": "six"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "decimal",
+                    "meaning": {
+                        "ko": "'십진법의'",
+                        "en": "decimal",
+                        "ja": "10進法の",
+                        "zh": "十进制的",
+                        "fr": "décimal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "6과 10을 합친 수인 16을 기본으로 한다는 의미에서 컴퓨터 용어인 '16진수의'라는 뜻으로 쓰입니다.",
+                "en": "Based on 16 (combination of 6 and 10), used in computing to mean 'base-16 numeral system'",
+                "ja": "6と10を合わせた16を基数とすることから、コンピュータ用語として16進数を意味します",
+                "zh": "基于6和10结合的16，在计算机术语中表示16进制数",
+                "fr": "Basé sur 16 (combinaison de 6 et 10), utilisé en informatique pour désigner le système numérique en base 16"
+            },
+            "example": "Hexadecimal numbers use digits from 0 to 9 and letters from A to F.",
+            "translation": {
+                "ko": "16진수는 0부터 9까지의 숫자와 A부터 F까지의 문자를 사용한다.",
+                "ja": "16進数は0から9と文字AからFの数字を使用します",
+                "zh": "十六进制数使用0到9的数字和A到F的字母",
+                "fr": "Les nombres hexadécimaux utilisent les chiffres 0 à 9 et les lettres A à F"
+            }
+        },
+        {
+            "word": "hexagon",
+            "part_of_speech": "",
+            "origin": "Greek, hex (six) + gonia (angle)",
+            "meaning": {
+                "ko": "여섯 개의 각",
+                "en": "six angles",
+                "ja": "六つの角",
+                "zh": "六个角",
+                "fr": "six angles"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hexa-",
+                    "meaning": {
+                        "ko": "'여섯'",
+                        "en": "six",
+                        "ja": "六",
+                        "zh": "六",
+                        "fr": "six"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gon",
+                    "meaning": {
+                        "ko": "'각'",
+                        "en": "angle",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "angle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여섯 개의 각을 가진 도형'이라는 의미에서 '6각형'을 뜻합니다.",
+                "en": "Means a six-angled shape; refers to a hexagon (6-sided polygon)",
+                "ja": "六つの角を持つ図形を意味し、六角形を指します",
+                "zh": "指具有六个角的图形，表示六边形",
+                "fr": "Désigne une forme à six angles; fait référence à un hexagone"
+            },
+            "example": "A honeycomb is a structure of hexagonal cells.",
+            "translation": {
+                "ko": "벌집은 육각형 모양의 방들로 이루어진 구조이다.",
+                "ja": "ハニカムは六角形のセルで構成された構造です",
+                "zh": "蜂窝是由六边形细胞组成的结构",
+                "fr": "Un nid d'abeille est une structure de cellules hexagonales"
+            }
+        },
+        {
+            "word": "hexameter",
+            "part_of_speech": "",
+            "origin": "Greek, hex (six) + metron (measure)",
+            "meaning": {
+                "ko": "여섯 개의 운율",
+                "en": "six metrical feet",
+                "ja": "六音歩詩行",
+                "zh": "六音步诗行",
+                "fr": "vers hexamètre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hexa-",
+                    "meaning": {
+                        "ko": "'여섯'",
+                        "en": "six",
+                        "ja": "六",
+                        "zh": "六",
+                        "fr": "six"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'측정, 운율'",
+                        "en": "measure",
+                        "ja": "音歩、韻律",
+                        "zh": "音步、韵律",
+                        "fr": "mesure, rythme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "시에서 '여섯 개의 음보(운율 단위)로 이루어진 시구'라는 의미에서 '6보격'을 뜻합니다.",
+                "en": "In poetry, a line composed of six metrical feet or stress units",
+                "ja": "詩において6つの音歩(韻律単位)で構成される詩行を意味します",
+                "zh": "在诗歌中指由6个音步(韵律单位)组成的诗行",
+                "fr": "En poésie, désigne une ligne composée de six pieds métriques ou unités de stress"
+            },
+            "example": "Homer's Iliad and Odyssey were written in hexameter.",
+            "translation": {
+                "ko": "호머의 일리아드와 오디세이는 6보격으로 쓰여졌다.",
+                "ja": "ホメロスの『イリアス』と『オデッセイ』は六音歩で書かれていました。",
+                "zh": "荷马的《伊利亚特》和《奥德赛》是用六音步写成的。",
+                "fr": "L'Iliade et l'Odyssée d'Homère ont été écrites en hexamètre."
+            }
+        }
+    ]
+}

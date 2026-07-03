@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "asis (state of) cirrhosis, metastasis, psoriasis",
+        "origin": "Greek, -asis (a state, a condition)",
+        "meaning": {
+            "ko": "…의 상태",
+            "en": "a state of",
+            "ja": "...の状態",
+            "zh": "...的状态",
+            "fr": "état de ..."
+        }
+    },
+    "words": [
+        {
+            "word": "cirrhosis",
+            "part_of_speech": "",
+            "origin": "Greek, kirrhos (tawny) + -osis",
+            "meaning": {
+                "ko": "황갈색 상태",
+                "en": "yellowish-brown condition",
+                "ja": "肝硬変",
+                "zh": "肝硬化",
+                "fr": "cirrhose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cirrh-",
+                    "meaning": {
+                        "ko": "'황갈색'",
+                        "en": "tawny",
+                        "ja": "黄褐色",
+                        "zh": "黄褐色",
+                        "fr": "couleur fauve"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-osis",
+                    "meaning": {
+                        "ko": "'병적 상태'",
+                        "en": "pathological condition",
+                        "ja": "病的状態",
+                        "zh": "病理状态",
+                        "fr": "état pathologique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "간이 '황갈색으로 변하며 굳어지는' 병인 '간경변'을 뜻합니다.",
+                "en": "A disease where the liver becomes tawny-colored and hardens, known as liver cirrhosis.",
+                "ja": "肝臓が'黄褐色に変わり硬くなる'病気である'肝硬変'を意味します。",
+                "zh": "指肝脏'变成黄褐色并硬化'的疾病'肝硬化'。",
+                "fr": "Maladie où le foie devient de couleur fauve et durcit, connue sous le nom de cirrhose hépatique."
+            },
+            "example": "Alcohol abuse is a major cause of cirrhosis.",
+            "translation": {
+                "ko": "알코올 남용은 간경변의 주요 원인이다.",
+                "ja": "アルコール乱用は肝硬変の主な原因です。",
+                "zh": "酗酒是肝硬化的主要原因。",
+                "fr": "L'abus d'alcool est une cause majeure de cirrhose."
+            }
+        },
+        {
+            "word": "metastasis",
+            "part_of_speech": "",
+            "origin": "Greek, metastasis (a change of state)",
+            "meaning": {
+                "ko": "상태의 변화",
+                "en": "change of state",
+                "ja": "状態の変化",
+                "zh": "状态的变化",
+                "fr": "changement d'état"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "meta-",
+                    "meaning": {
+                        "ko": "'변화, 이동'",
+                        "en": "change, beyond",
+                        "ja": "変化、超越",
+                        "zh": "变化、超越",
+                        "fr": "changement, au-delà"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stasis",
+                    "meaning": {
+                        "ko": "'상태, 위치'",
+                        "en": "state",
+                        "ja": "状態、位置",
+                        "zh": "状态、位置",
+                        "fr": "état, position"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'암세포가 원래 위치에서 다른 곳으로 이동하는' 현상인 '전이'를 뜻합니다.",
+                "en": "The phenomenon where cancer cells move from their original location to another place, meaning 'metastasis'.",
+                "ja": "がん細胞が元の位置から別の場所に移動する現象を意味する『転移』",
+                "zh": "癌细胞从原始位置转移到其他地方的现象，意为'转移'",
+                "fr": "Phénomène où les cellules cancéreuses se propagent d'un endroit à un autre, signifiant 'métastase'"
+            },
+            "example": "The cancer has spread through metastasis.",
+            "translation": {
+                "ko": "그 암은 전이를 통해 퍼졌다.",
+                "ja": "がんが転移で広がった",
+                "zh": "癌通过转移而扩散",
+                "fr": "Le cancer s'est propagé par métastase"
+            }
+        },
+        {
+            "word": "psoriasis",
+            "part_of_speech": "",
+            "origin": "Greek, psoriasis (an itching)",
+            "meaning": {
+                "ko": "가려움",
+                "en": "itching",
+                "ja": "かゆみ",
+                "zh": "瘙痒",
+                "fr": "démangeaison"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psora-",
+                    "meaning": {
+                        "ko": "'가려움'",
+                        "en": "itch",
+                        "ja": "かゆみ",
+                        "zh": "瘙痒",
+                        "fr": "démangeaison"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-iasis",
+                    "meaning": {
+                        "ko": "'병적 상태'",
+                        "en": "pathological condition",
+                        "ja": "病的状態",
+                        "zh": "病态状态",
+                        "fr": "état pathologique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부에 붉은 반점과 비늘이 생기며 가려운' 만성 피부 질환인 '건선'을 뜻합니다.",
+                "en": "Psoriasis is a chronic skin disease characterized by red patches and scales on the skin that cause itching.",
+                "ja": "皮膚に赤い斑点と鱗屑が生じ、かゆい慢性皮膚疾患である乾癬を意味します。",
+                "zh": "指皮肤上出现红斑和鳞屑并伴有瘙痒的慢性皮肤病银屑病。",
+                "fr": "Désigne le psoriasis, une maladie chronique de la peau caractérisée par des plaques rouges, des squames et des démangeaisons."
+            },
+            "example": "Psoriasis is a chronic autoimmune disease.",
+            "translation": {
+                "ko": "건선은 만성 자가면역 질환이다.",
+                "ja": "乾癬は慢性自己免疫疾患です。",
+                "zh": "银屑病是一种慢性自身免疫疾病。",
+                "fr": "Le psoriasis est une maladie auto-immune chronique."
+            }
+        }
+    ]
+}

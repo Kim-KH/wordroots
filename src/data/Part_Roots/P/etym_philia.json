@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "philia (attraction) hemophilia, sophophilia",
+        "origin": "Greek, philia (love, affection)",
+        "meaning": {
+            "ko": "사랑, 끌림",
+            "en": "love, attraction",
+            "ja": "愛、魅力",
+            "zh": "爱、吸引",
+            "fr": "amour, attraction"
+        }
+    },
+    "words": [
+        {
+            "word": "hemophilia",
+            "part_of_speech": "",
+            "origin": "Greek, haima (blood) + philia (love, tendency)",
+            "meaning": {
+                "ko": "피를 사랑함",
+                "en": "love of blood",
+                "ja": "血を愛する傾向",
+                "zh": "血液凝固障害",
+                "fr": "amour du sang"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hemo-",
+                    "meaning": {
+                        "ko": "'피'",
+                        "en": "blood",
+                        "ja": "血",
+                        "zh": "血液",
+                        "fr": "sang"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "philia",
+                    "meaning": {
+                        "ko": "'경향'",
+                        "en": "tendency or inclination",
+                        "ja": "傾向",
+                        "zh": "倾向",
+                        "fr": "tendance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피가 멈추지 않고 계속 흐르는 경향이 있는' 유전병이라는 의미에서 '혈우병'을 뜻합니다.",
+                "en": "A genetic disorder where blood continuously flows without stopping",
+                "ja": "血が止まらず流れ続ける遺伝病",
+                "zh": "血液无法止血的遗传病",
+                "fr": "trouble génétique où le sang coule sans cesse"
+            },
+            "example": "Hemophilia is a genetic disorder that impairs the body's ability to control blood clotting.",
+            "translation": {
+                "ko": "혈우병은 신체의 혈액 응고 조절 능력을 손상시키는 유전 질환이다.",
+                "ja": "血友病",
+                "zh": "血友病",
+                "fr": "hémophilie"
+            }
+        },
+        {
+            "word": "sophophilia",
+            "part_of_speech": "",
+            "origin": "Greek, sophia (wisdom) + philia (love)",
+            "meaning": {
+                "ko": "지혜 사랑",
+                "en": "love of wisdom",
+                "ja": "知恵への愛",
+                "zh": "对智慧的热爱",
+                "fr": "amour de la sagesse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sopho-",
+                    "meaning": {
+                        "ko": "'지혜'",
+                        "en": "wisdom",
+                        "ja": "知恵",
+                        "zh": "智慧",
+                        "fr": "sagesse"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "philia",
+                    "meaning": {
+                        "ko": "'사랑'",
+                        "en": "love",
+                        "ja": "愛",
+                        "zh": "爱",
+                        "fr": "amour"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지혜를 사랑하는 것'을 의미합니다.",
+                "en": "Love of wisdom or fondness for knowledge",
+                "ja": "知恵を愛することを意味します",
+                "zh": "意思是对智慧的热爱",
+                "fr": "signifie l'amour de la sagesse"
+            },
+            "example": "The philosopher's sophophilia was evident in his vast library.",
+            "translation": {
+                "ko": "그 철학자의 지혜에 대한 사랑은 그의 방대한 서재에서 명백했다.",
+                "ja": "哲学者の知恵への愛は彼の広大な図書館に明らかでした。",
+                "zh": "这位哲学家对智慧的热爱从他庞大的图书馆中显而易见。",
+                "fr": "L'amour de la sagesse du philosophe était évident dans sa vaste bibliothèque."
+            }
+        }
+    ]
+}

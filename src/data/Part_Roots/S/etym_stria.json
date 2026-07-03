@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "stria (groove) striated, striation",
+        "origin": "Latin, stria (a furrow, a groove)",
+        "meaning": {
+            "ko": "고랑, 홈",
+            "en": "a groove",
+            "ja": "溝",
+            "zh": "沟",
+            "fr": "sillon"
+        }
+    },
+    "words": [
+        {
+            "word": "striated",
+            "part_of_speech": "",
+            "origin": "Latin, striatus (furrowed)",
+            "meaning": {
+                "ko": "고랑이 있는",
+                "en": "having grooves or furrows",
+                "ja": "溝がある",
+                "zh": "有条纹的",
+                "fr": "strié"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stria-",
+                    "meaning": {
+                        "ko": "'줄무늬'",
+                        "en": "stripe, groove",
+                        "ja": "縞模様、溝",
+                        "zh": "条纹、沟槽",
+                        "fr": "rayure, sillon"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가는 줄무늬가 있는'이라는 뜻입니다.",
+                "en": "Meaning having fine stripes or grooves",
+                "ja": "細い縞模様がある意味です",
+                "zh": "具有细条纹或沟槽的意思",
+                "fr": "Signifie avoir de fines rayures ou des sillons"
+            },
+            "example": "Striated muscles are also called voluntary muscles.",
+            "translation": {
+                "ko": "가로무늬근은 수의근이라고도 불린다.",
+                "ja": "横紋筋は随意筋とも呼ばれます。",
+                "zh": "横纹肌也称为随意肌。",
+                "fr": "Les muscles striés sont aussi appelés muscles volontaires."
+            }
+        },
+        {
+            "word": "striation",
+            "part_of_speech": "",
+            "origin": "Latin, stria (a furrow)",
+            "meaning": {
+                "ko": "고랑",
+                "en": "furrow or groove",
+                "ja": "条溝、筋状の溝",
+                "zh": "条纹、沟槽",
+                "fr": "strie, rainure"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stria-",
+                    "meaning": {
+                        "ko": "'줄무늬'",
+                        "en": "stripe, groove",
+                        "ja": "縞模様、溝",
+                        "zh": "条纹、沟",
+                        "fr": "rayure, sillon"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가는 줄무늬' 또는 '줄무늬가 있는 상태'를 뜻합니다.",
+                "en": "Fine stripes or the state of having stripes",
+                "ja": "細い筋状の模様、または筋状の模様がある状態",
+                "zh": "细条纹或有条纹的状态",
+                "fr": "Fines rayures ou état d'avoir des rayures"
+            },
+            "example": "Glacial striations are scratches or gouges cut into bedrock by glacier abrasion.",
+            "translation": {
+                "ko": "빙하 줄무늬는 빙하 마모에 의해 기반암에 새겨진 긁힌 자국이나 홈이다.",
+                "ja": "氷河による条溝は、氷河の研磨作用により基盤岩に刻まれた傷またはえぐれである。",
+                "zh": "冰川条纹是冰川磨蚀作用在基岩上切割或刻画的划痕或沟槽。",
+                "fr": "Les stries glaciaires sont des rayures ou des sillons creusés dans le socle rocheux par l'abrasion des glaciers."
+            }
+        }
+    ]
+}

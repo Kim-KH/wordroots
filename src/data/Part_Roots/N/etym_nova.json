@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "nova (new) Nova Scotia, novel, innovate, supernova",
+        "origin": "Latin, novus (new)",
+        "meaning": {
+            "ko": "새로운",
+            "en": "new",
+            "ja": "新しい",
+            "zh": "新",
+            "fr": "nouveau"
+        }
+    },
+    "words": [
+        {
+            "word": "Nova Scotia",
+            "part_of_speech": "",
+            "origin": "Latin, Nova (new) + Scotia (Scotland)",
+            "meaning": {
+                "ko": "새로운 스코틀랜드",
+                "en": "New Scotland",
+                "ja": "新しいスコットランド",
+                "zh": "新斯科舍",
+                "fr": "Nouvelle-Écosse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Nova",
+                    "meaning": {
+                        "ko": "'새로운'",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Scotia",
+                    "meaning": {
+                        "ko": "'스코틀랜드'",
+                        "en": "Scotland",
+                        "ja": "スコットランド",
+                        "zh": "苏格兰",
+                        "fr": "Écosse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "캐나다의 주 이름으로, '새로운 스코틀랜드'라는 뜻입니다.",
+                "en": "Nova Scotia is one of Canada's three Maritime provinces.",
+                "ja": "カナダの3つの海洋州の1つである州の名前です",
+                "zh": "加拿大三个海洋省之一的省份名称",
+                "fr": "Nom d'une province maritime du Canada"
+            },
+            "example": "Nova Scotia is one of Canada's three Maritime provinces.",
+            "translation": {
+                "ko": "노바스코샤는 캐나다의 3개 해양 주 중 하나이다.",
+                "ja": "ノバスコシア州",
+                "zh": "新斯科舍省",
+                "fr": "Nouvelle-Écosse"
+            }
+        },
+        {
+            "word": "novel",
+            "part_of_speech": "",
+            "origin": "Latin, novellus (new, young)",
+            "meaning": {
+                "ko": "새로운, 젊은",
+                "en": "new, young",
+                "ja": "新しい、斬新な",
+                "zh": "新的、新奇的",
+                "fr": "nouveau, novateur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nov-",
+                    "meaning": {
+                        "ko": "'새로운'",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이전에 없던 새로운 이야기'라는 의미에서 '소설'을 뜻하며, 형용사로는 '참신한'이라는 뜻입니다.",
+                "en": "Means 'novel' (noun) from the sense of 'a new story that did not exist before', and as an adjective means 'fresh' or 'innovative'.",
+                "ja": "以前に存在しなかった新しい物語という意味から『小説』を意味し、形容詞としては『斬新な』という意味です。",
+                "zh": "从'以前不存在的新故事'的意思表示'小说'，作为形容词表示'新颖的'。",
+                "fr": "Signifie 'roman' (nom) du sens d'une 'histoire nouvelle qui n'existait pas auparavant', et comme adjectif signifie 'frais' ou 'innovant'."
+            },
+            "example": "She has written several popular novels.",
+            "translation": {
+                "ko": "그녀는 여러 편의 인기 소설을 썼다.",
+                "ja": "彼女は何冊かの人気小説を書いています。",
+                "zh": "她写过几部受欢迎的小说。",
+                "fr": "Elle a écrit plusieurs romans populaires."
+            }
+        },
+        {
+            "word": "innovate",
+            "part_of_speech": "",
+            "origin": "Latin, innovare (to renew, to restore)",
+            "meaning": {
+                "ko": "새롭게 하다",
+                "en": "to make new",
+                "ja": "革新する",
+                "zh": "创新",
+                "fr": "innover"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in",
+                        "ja": "内へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nov-",
+                    "meaning": {
+                        "ko": "'새로운'",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새로운 것을 안으로 들여오다'는 의미에서 '혁신하다', '쇄신하다'라는 뜻입니다.",
+                "en": "Meaning: to bring new things inward; to revolutionize or reform",
+                "ja": "新しいものを内に取り入れることから、革新する、改革するという意味",
+                "zh": "从向内引入新事物的含义来看，意为革新、改革",
+                "fr": "Signifie introduire de nouvelles choses de manière interne; réformer ou révolutionner"
+            },
+            "example": "The company continues to innovate and develop new products.",
+            "translation": {
+                "ko": "그 회사는 계속해서 혁신하고 신제품을 개발한다.",
+                "ja": "同社は革新を続け、新製品を開発しています。",
+                "zh": "该公司继续创新并开发新产品。",
+                "fr": "L'entreprise continue d'innover et de développer de nouveaux produits."
+            }
+        },
+        {
+            "word": "supernova",
+            "part_of_speech": "",
+            "origin": "Latin, super- (above) + nova (new)",
+            "meaning": {
+                "ko": "위대한 새로운 것",
+                "en": "great new thing",
+                "ja": "偉大な新しい星",
+                "zh": "伟大的新星",
+                "fr": "grande nouvelle étoile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "super-",
+                    "meaning": {
+                        "ko": "'위에, 뛰어난'",
+                        "en": "above, great",
+                        "ja": "上、優れた",
+                        "zh": "上方、优越的",
+                        "fr": "au-dessus, excellent"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nova",
+                    "meaning": {
+                        "ko": "'새로운 (별)'",
+                        "en": "new star",
+                        "ja": "新しい（星）",
+                        "zh": "新的（星）",
+                        "fr": "nouveau (étoile)"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보통의 신성(nova)보다 훨씬 밝게 빛나는 새로운 별'이라는 의미에서 '초신성'을 뜻합니다.",
+                "en": "A supernova refers to a new star that shines much brighter than an ordinary nova.",
+                "ja": "超新星は、通常の新星（nova）よりもはるかに明るく輝く新しい星を意味します。",
+                "zh": "超新星是指比普通新星（nova）亮得多的新星。",
+                "fr": "Une supernova désigne une nouvelle étoile qui brille beaucoup plus brillamment qu'une nova ordinaire."
+            },
+            "example": "A supernova is a powerful and luminous stellar explosion.",
+            "translation": {
+                "ko": "초신성은 강력하고 빛나는 항성 폭발이다.",
+                "ja": "超新星",
+                "zh": "超新星",
+                "fr": "supernova"
+            }
+        }
+    ]
+}

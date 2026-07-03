@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "claust (tight space) claustrophobia, closet",
+        "origin": "Latin, claudere (to close), claustrum (enclosed place)",
+        "meaning": {
+            "ko": "닫다",
+            "en": "to close",
+            "ja": "閉じる",
+            "zh": "关闭",
+            "fr": "fermer"
+        }
+    },
+    "words": [
+        {
+            "word": "claustrophobia",
+            "part_of_speech": "",
+            "origin": "Latin, claustrum (enclosed place) + Greek, phobos (fear)",
+            "meaning": {
+                "ko": "닫힌 공간 공포",
+                "en": "fear of enclosed spaces",
+                "ja": "閉所恐怖症",
+                "zh": "幽闭恐怖症",
+                "fr": "claustrophobie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "claustro (claustrum)",
+                    "meaning": {
+                        "ko": "'닫힌 공간'",
+                        "en": "enclosed place",
+                        "ja": "閉じた空間",
+                        "zh": "封闭的空间",
+                        "fr": "espace clos"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phobia (phobos)",
+                    "meaning": {
+                        "ko": "'공포'",
+                        "en": "fear",
+                        "ja": "恐怖",
+                        "zh": "恐惧",
+                        "fr": "peur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'닫힌(claustro) 공간에 대한 비정상적인 두려움(phobia)'을 의미하며 '폐소공포증'이라고 합니다.",
+                "en": "Abnormal fear of enclosed spaces, derived from claustro (closed) and phobia (fear)",
+                "ja": "閉じた空間に対する異常な恐怖を意味し、claustro（閉じた）とphobia（恐怖）から派生",
+                "zh": "意指对密闭空间的异常恐惧，由claustro（封闭）和phobia（恐怖）组成",
+                "fr": "Peur anormale des espaces clos, dérivée de claustro (fermé) et phobia (peur)"
+            },
+            "example": "He suffers from claustrophobia and cannot use elevators.",
+            "translation": {
+                "ko": "그는 폐소공포증을 앓고 있어서 엘리베이터를 이용할 수 없다.",
+                "ja": "彼は閉所恐怖症に苦しんでおり、エレベーターを使用することができません。",
+                "zh": "他患有幽闭恐怖症，无法乘坐电梯。",
+                "fr": "Il souffre de claustrophobie et ne peut pas utiliser les ascenseurs."
+            }
+        },
+        {
+            "word": "closet",
+            "part_of_speech": "",
+            "origin": "Old French, closet (small enclosure)",
+            "meaning": {
+                "ko": "작은 닫힌 공간",
+                "en": "small enclosed space",
+                "ja": "小さい閉じた空間",
+                "zh": "小的封闭空间",
+                "fr": "petit espace fermé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clos (clausum)",
+                    "meaning": {
+                        "ko": "'닫힌'",
+                        "en": "closed",
+                        "ja": "閉じた",
+                        "zh": "封闭的",
+                        "fr": "fermé"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-et",
+                    "meaning": {
+                        "ko": "'작은'",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'닫힌(clos) 작은(et) 공간'이라는 의미에서, 옷 등을 보관하는 '벽장'을 뜻하게 되었습니다.",
+                "en": "From 'closed' (clos) + 'small' (et) space, came to mean 'wardrobe' for storing clothes etc.",
+                "ja": "閉じた(clos)と小さい(et)の空間という意味から、衣服などを保管する衣装棚を意味するようになりました。",
+                "zh": "从封闭(clos)和小(et)的空间之意，逐渐指代储存衣服等的衣柜。",
+                "fr": "De 'fermé' (clos) + 'petit' (et) espace, en est venu à signifier 'placard' pour ranger les vêtements etc."
+            },
+            "example": "She hung her coat in the closet.",
+            "translation": {
+                "ko": "그녀는 코트를 벽장에 걸었다.",
+                "ja": "彼女はコートをクローゼットに掛けた。",
+                "zh": "她把外套挂在壁橱里。",
+                "fr": "Elle a suspendu son manteau dans le placard."
+            }
+        }
+    ]
+}

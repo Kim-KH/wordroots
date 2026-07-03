@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "taxi (movement) phototaxis, taxicab, taximeter, taxiway",
+        "origin": "Greek, taxis (arrangement, order)",
+        "meaning": {
+            "ko": "배열",
+            "en": "arrangement",
+            "ja": "配列",
+            "zh": "排列",
+            "fr": "arrangement"
+        }
+    },
+    "words": [
+        {
+            "word": "phototaxis",
+            "part_of_speech": "",
+            "origin": "Greek, phos (light) + taxis (arrangement, movement)",
+            "meaning": {
+                "ko": "빛에 대한 움직임",
+                "en": "movement in response to light",
+                "ja": "光への運動",
+                "zh": "光的运动",
+                "fr": "mouvement vers la lumière"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "photo-",
+                    "meaning": {
+                        "ko": "'빛'",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "taxis",
+                    "meaning": {
+                        "ko": "'움직임'",
+                        "en": "movement",
+                        "ja": "運動",
+                        "zh": "运动",
+                        "fr": "mouvement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛의 자극에 반응하여 움직이는' 생물의 성질인 '주광성'을 뜻합니다.",
+                "en": "The property of organisms that move in response to light stimulus, meaning phototropism.",
+                "ja": "光の刺激に反応して動く生物の性質である走光性を意味します。",
+                "zh": "指生物对光刺激作出反应而产生运动的性质，即向光性。",
+                "fr": "La propriété des organismes qui se déplacent en réaction à un stimulus lumineux, signifiant phototropisme."
+            },
+            "example": "Moths exhibit positive phototaxis, meaning they are attracted to light.",
+            "translation": {
+                "ko": "나방은 양성 주광성을 보이는데, 이는 빛에 끌린다는 의미이다.",
+                "ja": "走光性",
+                "zh": "趋光性",
+                "fr": "phototaxie"
+            }
+        },
+        {
+            "word": "taxicab",
+            "part_of_speech": "",
+            "origin": "taximeter cab",
+            "meaning": {
+                "ko": "요금계가 달린 마차",
+                "en": "carriage with fare meter",
+                "ja": "料金計付きの車",
+                "zh": "装有计价器的出租车",
+                "fr": "voiture avec taximètre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "taxi- (taximeter)",
+                    "meaning": {
+                        "ko": "'요금계'",
+                        "en": "fare meter",
+                        "ja": "料金計",
+                        "zh": "计价器",
+                        "fr": "taximètre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cab",
+                    "meaning": {
+                        "ko": "'마차'",
+                        "en": "carriage",
+                        "ja": "馬車",
+                        "zh": "马车",
+                        "fr": "voiture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'요금계가 달린 택시'의 줄임말입니다.",
+                "en": "Shortened form of 'taxi' with a meter",
+                "ja": "計量装置付きタクシーの短縮形",
+                "zh": "装有计价器的出租车的缩写",
+                "fr": "Abréviation de taxi avec taximètre"
+            },
+            "example": "I took a taxicab to the airport.",
+            "translation": {
+                "ko": "나는 공항까지 택시를 탔다.",
+                "ja": "空港へタクシーで行きました",
+                "zh": "我坐出租车去了机场",
+                "fr": "J'ai pris un taxi pour aller à l'aéroport"
+            }
+        },
+        {
+            "word": "taximeter",
+            "part_of_speech": "",
+            "origin": "Greek, taxis (tax, rate) + metron (measure)",
+            "meaning": {
+                "ko": "요금을 재는 것",
+                "en": "measuring fare or charge",
+                "ja": "タクシーメーター",
+                "zh": "出租车计价器",
+                "fr": "taximètre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "taxi-",
+                    "meaning": {
+                        "ko": "'요금'",
+                        "en": "tax",
+                        "ja": "料金",
+                        "zh": "费用",
+                        "fr": "tarif"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'측정기'",
+                        "en": "measuring device",
+                        "ja": "測定器",
+                        "zh": "测量仪",
+                        "fr": "compteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이동 거리에 따라 요금을 측정하는 기계'인 '택시 미터기'를 뜻합니다.",
+                "en": "A device that measures taxi fares based on distance traveled",
+                "ja": "走行距離に基づいてタクシー料金を測定する装置",
+                "zh": "根据行驶距离测量出租车费用的装置",
+                "fr": "Appareil mesurant le tarif taxi selon la distance parcourue"
+            },
+            "example": "The taximeter showed a fare of ten dollars.",
+            "translation": {
+                "ko": "택시 미터기는 10달러의 요금을 표시했다.",
+                "ja": "タクシーメーターは10ドルの料金を表示していた。",
+                "zh": "出租车计价器显示了10美元的费用。",
+                "fr": "Le taximètre indiquait une course de dix dollars."
+            }
+        },
+        {
+            "word": "taxiway",
+            "part_of_speech": "",
+            "origin": "English, taxi + way",
+            "meaning": {
+                "ko": "택싱하는 길",
+                "en": "path where aircraft taxi",
+                "ja": "航空機の地上走行路",
+                "zh": "飞机地面滑行道",
+                "fr": "voie de circulation au sol"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "taxi-",
+                    "meaning": {
+                        "ko": "(항공기) 지상 활주",
+                        "en": "aircraft ground movement",
+                        "ja": "航空機の地上走行",
+                        "zh": "飞机地面滑行",
+                        "fr": "roulage au sol de l'avion"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "way",
+                    "meaning": {
+                        "ko": "'길'",
+                        "en": "path or road",
+                        "ja": "道",
+                        "zh": "道路",
+                        "fr": "chemin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'항공기가 활주로와 터미널 사이를 이동하는' 길인 '유도로'를 뜻합니다.",
+                "en": "The path where aircraft move between the runway and terminal",
+                "ja": "航空機が滑走路とターミナル間を移動する道である誘導路を意味します",
+                "zh": "指飞机在跑道与航站楼之间移动的导航路线",
+                "fr": "Le chemin par lequel les avions se déplacent entre la piste et le terminal"
+            },
+            "example": "The airplane moved from the gate to the taxiway.",
+            "translation": {
+                "ko": "비행기는 게이트에서 유도로로 이동했다.",
+                "ja": "飛行機はゲートから誘導路に移動した",
+                "zh": "飞机从登机口移动到滑行道",
+                "fr": "L'avion s'est déplacé de la porte vers la voie de circulation"
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "palpa (touch, feel) palpable, palpate, palpitation",
+        "origin": "Latin, palpare (to touch gently, to stroke)",
+        "meaning": {
+            "ko": "부드럽게 만지다",
+            "en": "to touch gently",
+            "ja": "優しく触れる",
+            "zh": "轻轻接触",
+            "fr": "toucher doucement"
+        }
+    },
+    "words": [
+        {
+            "word": "palpable",
+            "part_of_speech": "",
+            "origin": "Latin, palpabilis (that may be touched or felt)",
+            "meaning": {
+                "ko": "만질 수 있는",
+                "en": "able to be touched",
+                "ja": "触れることができる",
+                "zh": "可以触摸的",
+                "fr": "tangible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "palp-",
+                    "meaning": {
+                        "ko": "'만지다'",
+                        "en": "to touch",
+                        "ja": "触る",
+                        "zh": "触摸",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 만질 수 있을 정도로 명백한'이라는 의미에서 '감지할 수 있는', '뚜렷한'이라는 뜻입니다.",
+                "en": "Derived from the sense of something so clear it could be touched by hand, meaning 'perceptible' or 'obvious'",
+                "ja": "手で触れることができるほど明白という意味から、'感じ取ることができる'、'明確な'という意味です",
+                "zh": "从可以用手触摸到那么明显的意思来看，表示'可感知的'、'明显的'",
+                "fr": "Dérivé du sens de quelque chose de si clair qu'on pourrait le toucher, signifiant 'perceptible' ou 'évident'"
+            },
+            "example": "There was a palpable sense of tension in the room.",
+            "translation": {
+                "ko": "방 안에는 뚜렷한 긴장감이 감돌았다.",
+                "ja": "室内に感じられる緊張感があった",
+                "zh": "房间里有明显的紧张气氛",
+                "fr": "Il y avait une tension tangible dans la salle"
+            }
+        },
+        {
+            "word": "palpate",
+            "part_of_speech": "",
+            "origin": "Latin, palpare (to touch)",
+            "meaning": {
+                "ko": "만지다",
+                "en": "to touch",
+                "ja": "触診する",
+                "zh": "触诊",
+                "fr": "palper"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "palp-",
+                    "meaning": {
+                        "ko": "'만지다'",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "触摸",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의사가 진찰을 위해 손으로 만져보다'는 의미에서 '촉진하다'라는 뜻입니다.",
+                "en": "Means to touch or feel with hands for medical examination purposes, used as 'palpate'",
+                "ja": "医師が診察のために手で触れて調べることを意味します",
+                "zh": "医生用手触诊以进行检查的意思",
+                "fr": "Signifie toucher ou palper avec les mains à des fins d'examen médical"
+            },
+            "example": "The doctor palpated his abdomen to check for any abnormalities.",
+            "translation": {
+                "ko": "의사는 이상 여부를 확인하기 위해 그의 복부를 촉진했다.",
+                "ja": "医者は異常がないか確認するために腹部を触診した。",
+                "zh": "医生为了检查是否有异常而对他的腹部进行了触诊。",
+                "fr": "Le médecin a palpé son abdomen pour vérifier toute anomalie."
+            }
+        },
+        {
+            "word": "palpitation",
+            "part_of_speech": "",
+            "origin": "Latin, palpitare (to throb, to tremble)",
+            "meaning": {
+                "ko": "두근거리다",
+                "en": "to throb or beat rapidly",
+                "ja": "心臓がドキドキする",
+                "zh": "心脏跳动",
+                "fr": "palpitation cardiaque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "palpit- (palpare)",
+                    "meaning": {
+                        "ko": "'두근거리다'",
+                        "en": "to throb",
+                        "ja": "鼓動する",
+                        "zh": "跳动",
+                        "fr": "palpiter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장이 빠르고 불규칙하게 두근거리는' 증상인 '심계항진'을 뜻합니다.",
+                "en": "Symptoms where the heartbeat is fast and irregular",
+                "ja": "心臓が速く不規則に鼓動する症状",
+                "zh": "心脏快速且不规则跳动的症状",
+                "fr": "Symptôme d'un cœur qui bat vite et irrégulièrement"
+            },
+            "example": "Stress and caffeine can cause heart palpitations.",
+            "translation": {
+                "ko": "스트레스와 카페인은 심계항진을 유발할 수 있다.",
+                "ja": "ストレスとカフェインは心悸亢進を引き起こすことができます。",
+                "zh": "压力和咖啡因会导致心悸。",
+                "fr": "Le stress et la caféine peuvent causer des palpitations cardiaques."
+            }
+        }
+    ]
+}

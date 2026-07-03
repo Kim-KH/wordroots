@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "tetra (four) tetrad, tetrameter, tetrahedron, Tetragrammaton",
+        "origin": "Greek, tetra (four)",
+        "meaning": {
+            "ko": "넷",
+            "en": "four",
+            "ja": "4つ、4倍の",
+            "zh": "四",
+            "fr": "quatre"
+        }
+    },
+    "words": [
+        {
+            "word": "tetrad",
+            "part_of_speech": "",
+            "origin": "Greek, tetras (a group of four)",
+            "meaning": {
+                "ko": "네 개의 그룹",
+                "en": "group of four",
+                "ja": "四つのグループ",
+                "zh": "四个的组",
+                "fr": "groupe de quatre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tetra-",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "四つ",
+                        "zh": "四",
+                        "fr": "quatre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'네 개로 이루어진 한 벌 또는 그룹'을 의미합니다.",
+                "en": "A set or group consisting of four",
+                "ja": "四つで構成される一組またはグループ",
+                "zh": "由四个组成的一套或分组",
+                "fr": "Un ensemble ou groupe composé de quatre"
+            },
+            "example": "In biology, a tetrad is a group of four chromatids formed during meiosis.",
+            "translation": {
+                "ko": "생물학에서 4분 염색체는 감수분열 동안 형성되는 4개의 염색분자 그룹이다.",
+                "ja": "生物学では、テトラッドは減数分裂中に形成された四つの姉妹染色分体のグループです。",
+                "zh": "在生物学中，四分体是减数分裂期间形成的四条姐妹染色单体组成的组。",
+                "fr": "En biologie, une tétrade est un groupe de quatre chromatides sœurs formé lors de la méiose."
+            }
+        },
+        {
+            "word": "tetrameter",
+            "part_of_speech": "",
+            "origin": "Greek, tetrametros (of four measures)",
+            "meaning": {
+                "ko": "네 개의 운율",
+                "en": "four metrical feet",
+                "ja": "四つの韻律",
+                "zh": "四个韵脚",
+                "fr": "quatre mesures"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tetra-",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "四つ",
+                        "zh": "四个",
+                        "fr": "quatre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'측정, 운율'",
+                        "en": "measure",
+                        "ja": "測定、韻律",
+                        "zh": "测量、韵律",
+                        "fr": "mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "시에서 '네 개의 음보로 이루어진 시구'라는 의미에서 '4보격'을 뜻합니다.",
+                "en": "In poetry, refers to a line consisting of four metrical feet",
+                "ja": "詩における4つの音数から成る詩行を意味します",
+                "zh": "诗歌中由四个音步组成的诗行",
+                "fr": "En poésie, désigne un vers composé de quatre pieds métriques"
+            },
+            "example": "The poem was written in trochaic tetrameter.",
+            "translation": {
+                "ko": "그 시는 강약 4보격으로 쓰였다.",
+                "ja": "その詩は抑揚四音歩で書かれていました",
+                "zh": "这首诗是用抑扬四音步写的",
+                "fr": "Le poème était écrit en tétramètre trochaïque"
+            }
+        },
+        {
+            "word": "tetrahedron",
+            "part_of_speech": "",
+            "origin": "Greek, tetra (four) + hedra (base, face)",
+            "meaning": {
+                "ko": "네 개의 면",
+                "en": "four faces",
+                "ja": "4つの面",
+                "zh": "四个面",
+                "fr": "quatre faces"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tetra-",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "4つ",
+                        "zh": "四",
+                        "fr": "quatre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hedron",
+                    "meaning": {
+                        "ko": "'면'",
+                        "en": "face",
+                        "ja": "面",
+                        "zh": "面",
+                        "fr": "face"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'네 개의 평면으로 이루어진 입체'라는 의미에서 '4면체'를 뜻합니다.",
+                "en": "A solid shape composed of four planes, meaning a tetrahedron or 4-faced polyhedron.",
+                "ja": "4つの平面で構成された立体を意味し、4面体を表します。",
+                "zh": "由四个平面组成的立体，表示四面体。",
+                "fr": "Un solide composé de quatre plans, désignant un tétraèdre ou un polyèdre à quatre faces."
+            },
+            "example": "A triangular pyramid is a type of tetrahedron.",
+            "translation": {
+                "ko": "삼각뿔은 사면체의 한 종류이다.",
+                "ja": "三角錐は四面体の一種です。",
+                "zh": "三角锥是四面体的一种。",
+                "fr": "Une pyramide triangulaire est un type de tétraèdre."
+            }
+        },
+        {
+            "word": "Tetragrammaton",
+            "part_of_speech": "",
+            "origin": "Greek, tetra (four) + gramma (letter)",
+            "meaning": {
+                "ko": "네 개의 글자",
+                "en": "four letters",
+                "ja": "4つの文字",
+                "zh": "四个字母",
+                "fr": "quatre lettres"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tetra-",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "4つ",
+                        "zh": "四",
+                        "fr": "quatre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grammaton",
+                    "meaning": {
+                        "ko": "'글자'",
+                        "en": "letter",
+                        "ja": "文字",
+                        "zh": "字母",
+                        "fr": "lettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "히브리어로 신의 이름을 나타내는 '네 개의 글자(YHWH)'를 뜻하는 말입니다.",
+                "en": "The Tetragrammaton refers to the four letters (YHWH) representing God's name in Hebrew.",
+                "ja": "ヘブライ語で神の名前を表す4つの文字(YHWH)を意味する言葉です。",
+                "zh": "指希伯来语中代表神之名的四个字母(YHWH)。",
+                "fr": "Désigne les quatre lettres (YHWH) représentant le nom de Dieu en hébreu."
+            },
+            "example": "The Tetragrammaton is considered sacred in Judaism.",
+            "translation": {
+                "ko": "테트라그람마톤은 유대교에서 신성하게 여겨진다.",
+                "ja": "テトラグラマトン(神聖四文字)",
+                "zh": "四字神名",
+                "fr": "Tétagramme"
+            }
+        }
+    ]
+}

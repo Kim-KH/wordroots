@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "chlor(o) (green, chlorine) chlorine, chlorophyll, chloroplast",
+        "origin": "Greek, khlōros (pale green, greenish-yellow)",
+        "meaning": {
+            "ko": "녹색",
+            "en": "green",
+            "ja": "緑",
+            "zh": "绿色",
+            "fr": "vert"
+        }
+    },
+    "words": [
+        {
+            "word": "chlorine",
+            "part_of_speech": "",
+            "origin": "Greek, khlōros (pale green)",
+            "meaning": {
+                "ko": "옅은 녹색",
+                "en": "pale green",
+                "ja": "淡い緑色",
+                "zh": "淡绿色",
+                "fr": "vert pâle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chlor (khlōros)",
+                    "meaning": {
+                        "ko": "'옅은 녹색'",
+                        "en": "pale green",
+                        "ja": "淡い緑色",
+                        "zh": "淡绿色",
+                        "fr": "vert pâle"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ine",
+                    "meaning": {
+                        "ko": "'원소'",
+                        "en": "chemical element",
+                        "ja": "元素",
+                        "zh": "元素",
+                        "fr": "élément"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'옅은 녹색(chlor)'을 띠는 기체라는 특징 때문에 '염소'라는 이름이 붙었습니다.",
+                "en": "The name chlorine comes from its characteristic pale green gas appearance",
+                "ja": "塩素という名前は、淡い緑色(chlor)を示す気体という特徴から付けられました",
+                "zh": "氯的名字来自其呈现淡绿色气体的特征",
+                "fr": "Le nom chlore vient de sa caractéristique de gaz vert pâle"
+            },
+            "example": "Chlorine is used to disinfect swimming pools.",
+            "translation": {
+                "ko": "염소는 수영장을 소독하는 데 사용된다.",
+                "ja": "塩素はプールの消毒に使われています",
+                "zh": "氯被用于游泳池的消毒",
+                "fr": "Le chlore est utilisé pour désinfecter les piscines"
+            }
+        },
+        {
+            "word": "chlorophyll",
+            "part_of_speech": "",
+            "origin": "Greek, khlōros (green) + phyllon (leaf)",
+            "meaning": {
+                "ko": "녹색 잎",
+                "en": "green leaf",
+                "ja": "緑の葉",
+                "zh": "绿叶",
+                "fr": "feuille verte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chloro (khlōros)",
+                    "meaning": {
+                        "ko": "'녹색'",
+                        "en": "green",
+                        "ja": "緑",
+                        "zh": "绿色",
+                        "fr": "vert"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyll",
+                    "meaning": {
+                        "ko": "'잎'",
+                        "en": "leaf",
+                        "ja": "葉",
+                        "zh": "叶子",
+                        "fr": "feuille"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잎(phyll)을 녹색(chloro)으로 보이게 하는 물질'이라는 의미로, 식물의 광합성에 필수적인 '엽록소'를 뜻합니다.",
+                "en": "The substance that makes leaves (phyll) green (chloro); essential for photosynthesis.",
+                "ja": "「葉(phyll)を緑色(chloro)に見せる物質」から、光合成に不可欠な「葉緑素」。",
+                "zh": "意为「使叶片(phyll)呈绿色(chloro)的物质」，植物光合作用必不可少的「叶绿素」。",
+                "fr": "La substance qui rend les feuilles (phyll) vertes (chloro); essentielle pour la photosynthèse."
+            },
+            "example": "Chlorophyll is the pigment that makes plants green.",
+            "translation": {
+                "ko": "엽록소는 식물을 녹색으로 만드는 색소이다.",
+                "ja": "葉緑素は光合成を動かすために太陽光を吸収する。",
+                "zh": "叶绿素吸收阳光为光合作用提供动力。",
+                "fr": "La chlorophylle absorbe la lumière solaire pour alimenter la photosynthèse."
+            }
+        },
+        {
+            "word": "chloroplast",
+            "part_of_speech": "",
+            "origin": "Greek, khlōros (green) + plastos (formed, molded)",
+            "meaning": {
+                "ko": "녹색으로 만들어진 것",
+                "en": "green formed thing",
+                "ja": "緑の形成物",
+                "zh": "绿色形成物",
+                "fr": "chose formée verte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chloro (khlōros)",
+                    "meaning": {
+                        "ko": "'녹색'",
+                        "en": "green",
+                        "ja": "緑",
+                        "zh": "绿色",
+                        "fr": "vert"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plast",
+                    "meaning": {
+                        "ko": "'형성된 것, 입자'",
+                        "en": "formed thing",
+                        "ja": "形成物",
+                        "zh": "形成物",
+                        "fr": "chose formée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'녹색(chloro)을 띤 작은 입자(plast)'라는 의미로, 식물 세포에서 광합성이 일어나는 장소인 '엽록체'를 의미합니다.",
+                "en": "Green (chloro) particles (plast) in plant cells; the organelle where photosynthesis occurs.",
+                "ja": "「緑色(chloro)を帯びた小さな粒子(plast)」から、植物細胞で光合成が行われる場所「葉緑体」。",
+                "zh": "意为「含绿色(chloro)的小颗粒(plast)」，植物细胞中进行光合作用的「叶绿体」。",
+                "fr": "Des particules vertes (chloro) (plast) dans les cellules végétales; l'organite où se produit la photosynthèse."
+            },
+            "example": "Photosynthesis takes place in the chloroplasts of plant cells.",
+            "translation": {
+                "ko": "광합성은 식물 세포의 엽록체에서 일어난다.",
+                "ja": "葉緑体が植物の葉を緑色にする。",
+                "zh": "叶绿体使植物叶片呈绿色。",
+                "fr": "Les chloroplastes donnent leur couleur verte aux feuilles des plantes."
+            }
+        }
+    ]
+}

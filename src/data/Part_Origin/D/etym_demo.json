@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "demo",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "사람들",
+            "en": "people",
+            "ja": "人々",
+            "zh": "人们",
+            "fr": "gens"
+        }
+    },
+    "words": [
+        {
+            "word": "democracy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "demo",
+                    "meaning": {
+                        "ko": "사람들",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人民",
+                        "fr": "peuple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-cracy",
+                    "meaning": {
+                        "ko": "통치",
+                        "en": "rule",
+                        "ja": "支配",
+                        "zh": "统治",
+                        "fr": "gouvernement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람들에 의한 통치' 즉, '민주주의'를 의미합니다.",
+                "en": "Rule by the people; government by popular sovereignty.",
+                "ja": "人々による統治、つまり民主主義を意味します。",
+                "zh": "人民的统治，即民主主义。",
+                "fr": "Le gouvernement par le peuple, c'est-à-dire la démocratie."
+            },
+            "example": "We live in a democracy.",
+            "translation": {
+                "ko": "우리는 민주주의 국가에 살고 있다.",
+                "ja": "私たちは民主主義国家に住んでいます。",
+                "zh": "我们生活在民主制度中。",
+                "fr": "Nous vivons dans une démocratie."
+            }
+        },
+        {
+            "word": "demagogue",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "demo",
+                    "meaning": {
+                        "ko": "사람들",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人民",
+                        "fr": "peuple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agogue",
+                    "meaning": {
+                        "ko": "이끄는 사람",
+                        "en": "leader",
+                        "ja": "指導者",
+                        "zh": "领导者",
+                        "fr": "leader"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람들을 이끄는 사람'이라는 의미지만, 주로 사람들의 편견이나 감정을 이용하여 이끄는 '선동 정치가'라는 부정적인 뜻으로 쓰입니다.",
+                "en": "Though literally meaning 'leader of people', it is primarily used negatively to refer to a 'demagogue' who leads by exploiting people's prejudices and emotions.",
+                "ja": "文字通りには『人々の指導者』という意味ですが、主に人々の偏見や感情を利用して指導する『扇動政治家』という否定的な意味で使われます。",
+                "zh": "虽然字面上意为'人民的领导者',但主要用于贬义,指利用人民的偏见和情感进行煽动的'煽动政治家'。",
+                "fr": "Bien que littéralement 'leader du peuple', il est principalement utilisé négativement pour désigner un 'politicien démagogue' qui dirige en exploitant les préjugés et les émotions du peuple."
+            },
+            "example": "The politician was a demagogue.",
+            "translation": {
+                "ko": "그 정치가는 선동가였다.",
+                "ja": "扇動政治家",
+                "zh": "煽动政治家",
+                "fr": "démagogue"
+            }
+        },
+        {
+            "word": "epidemic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "epi-",
+                    "meaning": {
+                        "ko": "위에, ~사이에",
+                        "en": "upon, among",
+                        "ja": "上に、~の間に",
+                        "zh": "在...之上、在...之间",
+                        "fr": "sur, parmi"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dem",
+                    "meaning": {
+                        "ko": "사람들",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人民",
+                        "fr": "peuple"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람들 사이에 퍼지는' 질병이라는 의미에서 '유행병', '전염병'을 뜻합니다.",
+                "en": "A disease that spreads among people, meaning 'epidemic' or 'contagious disease'",
+                "ja": "人々の間に広がる病気という意味で、流行病や伝染病を意味します",
+                "zh": "在人群中传播的疾病，意为流行病或传染病",
+                "fr": "Une maladie qui se propage parmi les gens, signifiant épidémie ou maladie contagieuse"
+            },
+            "example": "The country is facing a flu epidemic.",
+            "translation": {
+                "ko": "그 나라는 독감 유행병에 직면해 있다.",
+                "ja": "流行病",
+                "zh": "流行病",
+                "fr": "épidémie"
+            }
+        }
+    ]
+}

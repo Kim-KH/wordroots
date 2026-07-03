@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "stagn (sill pool) stanch, stagnate, stagnation",
+        "origin": "Latin, stagnum (a pool of standing water)",
+        "meaning": {
+            "ko": "고여 있는 물웅덩이",
+            "en": "a still pool",
+            "ja": "静かな池",
+            "zh": "静止的水池",
+            "fr": "une mare immobile"
+        }
+    },
+    "words": [
+        {
+            "word": "stanch",
+            "part_of_speech": "",
+            "origin": "Old French, estancher (to stop a flow)",
+            "meaning": {
+                "ko": "흐름을 멈추다",
+                "en": "to stop the flow",
+                "ja": "流れを止める",
+                "zh": "止住流动",
+                "fr": "arrêter l'écoulement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stanc- (stare)",
+                    "meaning": {
+                        "ko": "'서다, 멈추다'",
+                        "en": "to stand, stop",
+                        "ja": "立つ、止まる",
+                        "zh": "站立、停止",
+                        "fr": "se tenir, arrêter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피 등의 흐름을 멈추게 하다'는 의미에서 '지혈하다'라는 뜻입니다. (어원적으로 stagn-과 관련)",
+                "en": "Meaning to stop the flow of blood and similar fluids; etymologically related to stagn-",
+                "ja": "血液などの流れを止めるという意味で、止血するという意味です。語源的にはstagn-と関連しています。",
+                "zh": "意为止住血液等液体的流动，即止血。词源上与stagn-相关。",
+                "fr": "Signifie arrêter le flux sanguin et autres liquides; étymologiquement lié à stagn-."
+            },
+            "example": "He used a bandage to stanch the bleeding.",
+            "translation": {
+                "ko": "그는 출혈을 멎게 하기 위해 붕대를 사용했다.",
+                "ja": "彼は包帯を使って出血を止めた。",
+                "zh": "他用绷带止住了出血。",
+                "fr": "Il a utilisé un pansement pour arrêter le saignement."
+            }
+        },
+        {
+            "word": "stagnate",
+            "part_of_speech": "",
+            "origin": "Latin, stagnare (to form a pool of standing water)",
+            "meaning": {
+                "ko": "고인 물웅덩이를 형성하다",
+                "en": "to form stagnant water pools",
+                "ja": "停滞する",
+                "zh": "停滞",
+                "fr": "stagner"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stagn-",
+                    "meaning": {
+                        "ko": "'고여 있다'",
+                        "en": "to be still",
+                        "ja": "静止している",
+                        "zh": "保持静止",
+                        "fr": "rester immobile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물이 고여 썩듯이' 발전이나 활동이 '침체되다', '정체되다'는 뜻입니다.",
+                "en": "Like still water becoming stagnant and putrid, development or activity becomes stalled or stagnant.",
+                "ja": "水が淀んで腐るように、発展や活動が停滞する、または進まない意味です。",
+                "zh": "如同积水停滞腐烂一样，发展或活动陷入停滞、停止。",
+                "fr": "Comme l'eau stagnante qui pourrit, le développement ou l'activité s'arrête ou stagne."
+            },
+            "example": "The economy has been stagnating for years.",
+            "translation": {
+                "ko": "경제는 수년 동안 침체되어 왔다.",
+                "ja": "経済は何年も停滞している。",
+                "zh": "经济多年来一直停滞不前。",
+                "fr": "L'économie stagne depuis des années."
+            }
+        },
+        {
+            "word": "stagnation",
+            "part_of_speech": "",
+            "origin": "Latin, stagnatio",
+            "meaning": {
+                "ko": "정체",
+                "en": "stagnation or standstill",
+                "ja": "停滞、膠着",
+                "zh": "停滞、膠着",
+                "fr": "stagnation, immobilité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stagn-",
+                    "meaning": {
+                        "ko": "'고여 있다'",
+                        "en": "to be still",
+                        "ja": "静止している",
+                        "zh": "静止、停止",
+                        "fr": "être immobile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'침체', '정체'를 뜻합니다.",
+                "en": "Means stagnation or deadlock",
+                "ja": "停滞や膠着を意味する",
+                "zh": "意味著停滞或膠着",
+                "fr": "Signifie stagnation ou impasse"
+            },
+            "example": "The country is suffering from economic stagnation.",
+            "translation": {
+                "ko": "그 나라는 경제 침체로 고통받고 있다.",
+                "ja": "その国は経済的停滞に苦しんでいる。",
+                "zh": "该国正在遭受经济停滞。",
+                "fr": "Le pays souffre de stagnation économique."
+            }
+        }
+    ]
+}

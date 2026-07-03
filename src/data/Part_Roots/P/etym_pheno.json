@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "pheno (visible, show) phenomenon, phenomenal, phenotype",
+        "origin": "Greek, phainein (to show, to appear)",
+        "meaning": {
+            "ko": "보여주다",
+            "en": "to show",
+            "ja": "示す",
+            "zh": "显示",
+            "fr": "montrer"
+        }
+    },
+    "words": [
+        {
+            "word": "phenomenon",
+            "part_of_speech": "",
+            "origin": "Greek, phainomenon (thing appearing to view)",
+            "meaning": {
+                "ko": "나타나는 것",
+                "en": "something that appears or manifests",
+                "ja": "現れる事柄",
+                "zh": "出现的事物",
+                "fr": "chose qui apparaît"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pheno-",
+                    "meaning": {
+                        "ko": "'나타나다'",
+                        "en": "to appear",
+                        "ja": "現れる",
+                        "zh": "出现",
+                        "fr": "apparaître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'눈에 나타나는' 일이라는 의미에서 '현상'을 뜻합니다.",
+                "en": "Refers to 'phenomenon' from the meaning of 'something visible to the eye'",
+                "ja": "目に見える事柄という意味から現象を指します",
+                "zh": "从眼睛能看到的事物的含义指现象",
+                "fr": "Signifie phénomène du sens de chose visible à l'œil"
+            },
+            "example": "A solar eclipse is a rare natural phenomenon.",
+            "translation": {
+                "ko": "일식은 드문 자연 현상이다.",
+                "ja": "日食は稀な自然現象です",
+                "zh": "日食是罕见的自然现象",
+                "fr": "Une éclipse solaire est un phénomène naturel rare"
+            }
+        },
+        {
+            "word": "phenomenal",
+            "part_of_speech": "",
+            "origin": "Greek, phainomenon",
+            "meaning": {
+                "ko": "나타나는 것",
+                "en": "something that appears or manifests",
+                "ja": "現れるもの",
+                "zh": "出现的东西",
+                "fr": "ce qui apparaît"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phenomen-",
+                    "meaning": {
+                        "ko": "'현상'",
+                        "en": "phenomenon or appearance",
+                        "ja": "現象",
+                        "zh": "现象",
+                        "fr": "phénomène"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'현상으로 나타날 만큼 놀라운'이라는 의미에서 '경이적인', '굉장한'이라는 뜻입니다.",
+                "en": "Meaning 'remarkable' or 'extraordinary' in the sense of being striking enough to appear as a phenomenon",
+                "ja": "現象として表れるほど驚くべき意味から『驚異的な』『素晴らしい』という意味",
+                "zh": "从'作为现象出现那样令人惊讶'的意义衍生出'奇异的''非凡的'的含义",
+                "fr": "Signifiant 'remarquable' ou 'extraordinaire' au sens d'être frappant au point d'apparaître comme un phénomène"
+            },
+            "example": "She has made phenomenal progress.",
+            "translation": {
+                "ko": "그녀는 경이적인 발전을 이루었다.",
+                "ja": "彼女は驚異的な進歩を遂げた",
+                "zh": "她取得了非凡的进步",
+                "fr": "Elle a fait un progrès extraordinaire"
+            }
+        },
+        {
+            "word": "phenotype",
+            "part_of_speech": "",
+            "origin": "Greek, phainein (to show) + typos (type)",
+            "meaning": {
+                "ko": "나타나는 유형",
+                "en": "observable characteristics or form",
+                "ja": "表れる形質",
+                "zh": "表现型",
+                "fr": "phénotype"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pheno-",
+                    "meaning": {
+                        "ko": "'보이는'",
+                        "en": "showing",
+                        "ja": "見える",
+                        "zh": "显示",
+                        "fr": "montrant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "type",
+                    "meaning": {
+                        "ko": "'유형'",
+                        "en": "form or type",
+                        "ja": "形質",
+                        "zh": "类型",
+                        "fr": "type"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "유전자와 환경의 영향으로 '겉으로 드러나는' 생물의 형질인 '표현형'을 뜻합니다.",
+                "en": "The observable characteristics of an organism resulting from genetic and environmental influences, representing the 'externally expressed' traits.",
+                "ja": "遺伝子と環境の影響により、生物が外部に示す形質である表現形を意味します。",
+                "zh": "由遗传和环境影响导致生物体外部表现的特征，表现型。",
+                "fr": "Les caractéristiques observables d'un organisme résultant de l'influence génétique et environnementale, représentant les traits 'exprimés extérieurement'."
+            },
+            "example": "Eye color is part of a person's phenotype.",
+            "translation": {
+                "ko": "눈 색깔은 사람의 표현형의 일부이다.",
+                "ja": "目の色はその人の表現型の一部です。",
+                "zh": "眼睛颜色是一个人表现型的一部分。",
+                "fr": "La couleur des yeux fait partie du phénotype d'une personne."
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "vir (slime, ooze) virology, virulent, virus",
+        "origin": "Latin, virus (poison, slime)",
+        "meaning": {
+            "ko": "독",
+            "en": "poison",
+            "ja": "毒",
+            "zh": "毒",
+            "fr": "poison"
+        }
+    },
+    "words": [
+        {
+            "word": "virology",
+            "part_of_speech": "",
+            "origin": "Latin, virus (poison) + Greek, logos (study)",
+            "meaning": {
+                "ko": "바이러스 연구",
+                "en": "study of viruses",
+                "ja": "ウイルス研究",
+                "zh": "病毒学",
+                "fr": "virologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "viro-",
+                    "meaning": {
+                        "ko": "'바이러스'",
+                        "en": "virus",
+                        "ja": "ウイルス",
+                        "zh": "病毒",
+                        "fr": "virus"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study of",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바이러스를 연구하는 학문'인 '바이러스학'을 뜻합니다.",
+                "en": "Virology refers to the science that studies viruses, known as virusology.",
+                "ja": "ウイルスを研究する学問である『ウイルス学』を意味します。",
+                "zh": "指研究病毒的科学，称为『病毒学』。",
+                "fr": "La virologie est la science qui étudie les virus."
+            },
+            "example": "Virology is a branch of microbiology.",
+            "translation": {
+                "ko": "바이러스학은 미생물학의 한 분야이다.",
+                "ja": "ウイルス学は微生物学の一分野です。",
+                "zh": "病毒学是微生物学的一个分支。",
+                "fr": "La virologie est une branche de la microbiologie."
+            }
+        },
+        {
+            "word": "virulent",
+            "part_of_speech": "",
+            "origin": "Latin, virulentus (poisonous)",
+            "meaning": {
+                "ko": "독이 있는",
+                "en": "poisonous",
+                "ja": "毒性が強い",
+                "zh": "毒性很强",
+                "fr": "très toxique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "viru- (virus)",
+                    "meaning": {
+                        "ko": "'독'",
+                        "en": "poison",
+                        "ja": "毒",
+                        "zh": "毒",
+                        "fr": "poison"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'독성이 매우 강한', '악성의'라는 뜻입니다.",
+                "en": "Means having extremely strong toxicity or malignant nature",
+                "ja": "極めて強い毒性や悪性の性質を意味します",
+                "zh": "表示具有极强的毒性或恶性性质",
+                "fr": "Signifie une toxicité extrêmement forte ou une nature malveillante"
+            },
+            "example": "The virus is highly virulent.",
+            "translation": {
+                "ko": "그 바이러스는 독성이 매우 강하다.",
+                "ja": "このウイルスは非常に毒性が強い",
+                "zh": "这种病毒毒性很强",
+                "fr": "Le virus est hautement toxique"
+            }
+        },
+        {
+            "word": "virus",
+            "part_of_speech": "",
+            "origin": "Latin, virus (poison, venom)",
+            "meaning": {
+                "ko": "독",
+                "en": "poison",
+                "ja": "毒",
+                "zh": "毒",
+                "fr": "poison"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vir-",
+                    "meaning": {
+                        "ko": "'독'",
+                        "en": "poison",
+                        "ja": "毒",
+                        "zh": "毒",
+                        "fr": "poison"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸에 해로운 독'이라는 의미에서 '바이러스'를 뜻하게 되었습니다.",
+                "en": "The word virus came to mean a pathogenic microorganism from the concept of something harmful to the body.",
+                "ja": "ウイルスという言葉は、体に有害なものという概念から病原体を意味するようになりました。",
+                "zh": "病毒这个词源于对身体有害的物质的概念，后来指代致病微生物。",
+                "fr": "Le mot virus est venu signifier un agent pathogène à partir du concept de quelque chose de nuisible au corps."
+            },
+            "example": "The flu is caused by a virus.",
+            "translation": {
+                "ko": "독감은 바이러스에 의해 발생한다.",
+                "ja": "インフルエンザはウイルスが原因で起こります。",
+                "zh": "流感是由病毒引起的。",
+                "fr": "La grippe est causée par un virus."
+            }
+        }
+    ]
+}

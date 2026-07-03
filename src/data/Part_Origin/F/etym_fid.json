@@ -1,0 +1,351 @@
+{
+    "root_info": {
+        "roots": "fid: trust, faith",
+        "origin": "Latin, fides",
+        "meaning": {
+            "ko": "믿음, 신뢰",
+            "en": "faith, trust",
+            "ja": "信頼、信仰",
+            "zh": "信仰、信任",
+            "fr": "foi, confiance"
+        }
+    },
+    "words": [
+        {
+            "word": "faith",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "faith (fides)",
+                    "meaning": {
+                        "ko": "믿음",
+                        "en": "faith",
+                        "ja": "信仰",
+                        "zh": "信仰",
+                        "fr": "foi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 fides에서 직접적으로 유래하여 '신뢰', '믿음', 특히 종교적인 '신앙'을 의미합니다.",
+                "en": "Derived directly from Latin fides, meaning 'trust,' 'belief,' especially religious 'faith.'",
+                "ja": "ラテン語の fides から直接派生し、「信頼」「信念」特に宗教的な「信仰」を意味します。",
+                "zh": "直接源自拉丁语 fides，意为「信任」「信念」，尤其是宗教意义上的「信仰」。",
+                "fr": "Dérivé directement du latin fides, signifiant « confiance », « croyance », en particulier « foi » religieuse."
+            },
+            "example": "I have faith in you.",
+            "translation": {
+                "ko": "나는 당신을 믿는다.",
+                "ja": "私はあなたを信じています。",
+                "zh": "我相信你。",
+                "fr": "J'ai confiance en toi."
+            }
+        },
+        {
+            "word": "fidelity",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fide",
+                    "meaning": {
+                        "ko": "믿음",
+                        "en": "faith",
+                        "ja": "信仰",
+                        "zh": "信仰",
+                        "fr": "foi"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-lity",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形后缀",
+                        "fr": "suffixe nominal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'믿음을 지키는 성질'이라는 의미에서 '충성', '신의'를 뜻하며, 배우자에 대한 '정절'이나 원본에 대한 '정확성'을 의미하기도 합니다.",
+                "en": "From the sense of 'the quality of keeping faith,' meaning loyalty or honesty. Also refers to marital fidelity or accuracy to an original.",
+                "ja": "「信仰を守る性質」という意味から、「忠誠」や「誠実さ」を意味し、配偶者に対する「貞節」や原本に対する「正確性」も指します。",
+                "zh": "从「保持信仰的品质」的含义引申，表示「忠诚」或「诚实」，也可指对配偶的「贞节」或对原文的「准确性」。",
+                "fr": "Du sens de « la qualité de garder la foi », signifiant loyauté ou honnêteté. Désigne aussi la fidélité conjugale ou l'exactitude par rapport à l'original."
+            },
+            "example": "This audio system has high fidelity.",
+            "translation": {
+                "ko": "이 오디오 시스템은 고충실도를 자랑한다.",
+                "ja": "このオーディオシステムは高い忠実度を備えている。",
+                "zh": "这个音频系统具有高保真度。",
+                "fr": "Ce système audio a une haute fidélité."
+            }
+        },
+        {
+            "word": "affidavit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "af- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fid",
+                    "meaning": {
+                        "ko": "믿음",
+                        "en": "faith",
+                        "ja": "信仰",
+                        "zh": "信仰",
+                        "fr": "foi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "중세 라틴어에서 '그가 자신의 믿음을 맹세했다'는 의미로 쓰인 데서 유래했습니다. 법정 등에서 사실임을 선서하고 작성한 '진술서'를 의미합니다.",
+                "en": "From Medieval Latin meaning 'he swore his faith.' A sworn statement of fact made before a court or authorized officer.",
+                "ja": "中世ラテン語の「彼が自分の信仰を誓った」という意味に由来します。法廷などで事実であることを宣誓して作成した「陳述書」を意味します。",
+                "zh": "源自中世拉丁语，意为\"他发誓了他的信仰\"。指在法庭等地宣誓证实事实而制作的\"陈述书\"。",
+                "fr": "Du latin médiéval signifiant « il a juré sa foi ». Déclaration écrite faite sous serment devant un tribunal ou un officier autorisé."
+            },
+            "example": "He signed the affidavit in front of a lawyer.",
+            "translation": {
+                "ko": "그는 변호사 앞에서 진술서에 서명했다.",
+                "ja": "彼は弁護士の前で宣誓供述書に署名した。",
+                "zh": "他在律师面前签署了宣誓书。",
+                "fr": "Il a signé l'affidavit devant un avocat."
+            }
+        },
+        {
+            "word": "bona fide",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bona",
+                    "meaning": {
+                        "ko": "좋은",
+                        "en": "good",
+                        "ja": "良い",
+                        "zh": "好的",
+                        "fr": "bon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fide",
+                    "meaning": {
+                        "ko": "믿음",
+                        "en": "faith",
+                        "ja": "信仰",
+                        "zh": "信念",
+                        "fr": "foi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'좋은 믿음으로'라는 뜻의 라틴어 구문입니다. '진실된', '성의 있는'이라는 의미로, 법적으로는 '선의의'라는 뜻으로 쓰입니다.",
+                "en": "Latin phrase meaning 'with good faith.' Used to describe something genuine, sincere, or done in good faith; legally means 'in good faith.'",
+                "ja": "「良い信仰で」という意味のラテン語句。真正な、誠実な、という意味で使われ、法律的には「善意で」という意味です。",
+                "zh": "拉丁语短语，意为「以善意」。用来形容真正的、诚心的事物；法律上表示「善意的」。",
+                "fr": "Locution latine signifiant « de bonne foi ». Utilisée pour décrire quelque chose d'authentique, sincère ou fait de bonne foi ; juridiquement « de bonne foi »."
+            },
+            "example": "This is a bona fide antique.",
+            "translation": {
+                "ko": "이것은 진품 골동품이다.",
+                "ja": "これは本物の骨董品だ。",
+                "zh": "这是真正的古董。",
+                "fr": "C'est un véritable antique."
+            }
+        },
+        {
+            "word": "infidelity",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négatif"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fide",
+                    "meaning": {
+                        "ko": "믿음",
+                        "en": "faith",
+                        "ja": "信仰",
+                        "zh": "信仰",
+                        "fr": "foi"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-lity",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形后缀",
+                        "fr": "suffixe nominal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'믿음이 없는 상태'라는 의미로, 특히 배우자나 연인에 대한 '불신' 즉 '부정', '불륜'을 의미합니다.",
+                "en": "State of lacking faith or trust; specifically denotes betrayal of trust in a spouse or romantic partner; infidelity or unfaithfulness.",
+                "ja": "信仰や信頼の欠如の状態を意味し、特に配偶者や恋人に対する『不信』つまり『否定』『浮気』を意味します。",
+                "zh": "'缺乏信仰的状态'，特别是指对配偶或伴侣的'不信任'即'否定''不忠'。",
+                "fr": "État de manque de foi ou de confiance ; désigne particulièrement la trahison envers un conjoint ou un partenaire ; infidélité ou déloyauté."
+            },
+            "example": "Infidelity can destroy a marriage.",
+            "translation": {
+                "ko": "불륜은 결혼을 파괴할 수 있다.",
+                "ja": "不貞は結婚を破壊することができます。",
+                "zh": "不忠可能会摧毁一段婚姻。",
+                "fr": "L'infidélité peut détruire un mariage."
+            }
+        },
+        {
+            "word": "perfidy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "통하여, 파괴하여",
+                        "en": "through, destructively",
+                        "ja": "通して、破壊的に",
+                        "zh": "通过、破坏性地",
+                        "fr": "à travers, de manière destructive"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fid",
+                    "meaning": {
+                        "ko": "믿음",
+                        "en": "faith",
+                        "ja": "信仰、信頼",
+                        "zh": "信仰、信任",
+                        "fr": "foi, confiance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'믿음을 깨뜨리는 행위'라는 의미에서 '배신', '불성실'을 뜻합니다.",
+                "en": "Betrayal of faith or trust; an act of disloyalty",
+                "ja": "信仰を破る行為を意味し、『背信』『不誠実』を表します",
+                "zh": "打破信仰的行为，表示'背信弃义'或'不诚实'",
+                "fr": "Trahison de la foi ; signifie 'infidélité' ou 'déloyauté'"
+            },
+            "example": "His act of perfidy shocked everyone.",
+            "translation": {
+                "ko": "그의 배신 행위는 모두를 충격에 빠뜨렸다.",
+                "ja": "彼の背信行為はみんなを驚かせた",
+                "zh": "他的背信行为使每个人都感到震惊",
+                "fr": "Son acte de perfidie a choqué tout le monde"
+            }
+        },
+        {
+            "word": "self-confident",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "self",
+                    "meaning": {
+                        "ko": "자신",
+                        "en": "self",
+                        "ja": "自分自身",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "confident (con + fid)",
+                    "meaning": {
+                        "ko": "완전히 믿는",
+                        "en": "thoroughly trusting",
+                        "ja": "完全に信じる",
+                        "zh": "完全信任",
+                        "fr": "faire entièrement confiance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자기 자신을 완전히 믿는'이라는 의미에서 '자신감 있는'이라는 뜻입니다.",
+                "en": "Meaning 'thoroughly trusting oneself', thus confident",
+                "ja": "自分自身を完全に信じるという意味から、自信がある",
+                "zh": "从完全信任自己的意思来看，自信的",
+                "fr": "Signifiant 'faire entièrement confiance en soi', d'où confiant"
+            },
+            "example": "She is a very self-confident speaker.",
+            "translation": {
+                "ko": "그녀는 매우 자신감 있는 연설가이다.",
+                "ja": "自信に満ちた",
+                "zh": "自信的",
+                "fr": "sûr de soi"
+            }
+        },
+        {
+            "word": "solifidian",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "soli (solus)",
+                    "meaning": {
+                        "ko": "오직",
+                        "en": "alone",
+                        "ja": "ただ一つ",
+                        "zh": "唯一",
+                        "fr": "seul"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fid",
+                    "meaning": {
+                        "ko": "믿음",
+                        "en": "faith",
+                        "ja": "信仰",
+                        "zh": "信仰",
+                        "fr": "foi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'오직 믿음만으로' 구원을 얻을 수 있다고 믿는 사람을 가리키는 신학 용어입니다.",
+                "en": "A theological term for someone who believes salvation comes through faith alone.",
+                "ja": "救いは信仰のみによってもたらされると信じる人を指す神学用語です。",
+                "zh": "指认为救恩仅通过信仰而获得的人的神学术语。",
+                "fr": "Terme théologique désignant celui qui croit que le salut vient par la foi seule."
+            },
+            "example": "The debate was between a solifidian and a Catholic.",
+            "translation": {
+                "ko": "그 토론은 이신칭의론자와 가톨릭 신자 사이에서 벌어졌다.",
+                "ja": "その議論は唯信仰義認論者とカトリック信者の間で行われた。",
+                "zh": "这场辩论是在唯信仰论者和天主教徒之间进行的。",
+                "fr": "Le débat s'est déroulé entre un solifidien et un catholique."
+            }
+        }
+    ]
+}

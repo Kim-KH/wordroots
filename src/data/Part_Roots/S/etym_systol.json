@@ -1,0 +1,243 @@
+{
+    "root_info": {
+        "roots": "systol (contract) asystole, diastole, diastolic, systole, systolic",
+        "origin": "Greek, systole (a drawing together, a contraction)",
+        "meaning": {
+            "ko": "수축",
+            "en": "a contraction",
+            "ja": "縮約",
+            "zh": "收缩",
+            "fr": "contraction"
+        }
+    },
+    "words": [
+        {
+            "word": "asystole",
+            "part_of_speech": "",
+            "origin": "Greek, a- (not) + systole (contraction)",
+            "meaning": {
+                "ko": "수축 없음",
+                "en": "absence of contraction",
+                "ja": "心収縮がない",
+                "zh": "无心脏收缩",
+                "fr": "sans contraction cardiaque"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "without",
+                        "ja": "~がない",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "systole",
+                    "meaning": {
+                        "ko": "'수축'",
+                        "en": "contraction",
+                        "ja": "収縮",
+                        "zh": "收缩",
+                        "fr": "contraction"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장의 수축이 없는' 상태인 '심장 무수축'을 뜻합니다.",
+                "en": "Asystole refers to cardiac asystole, a state without heart contraction",
+                "ja": "心臓の収縮がない状態である心停止を意味します",
+                "zh": "指心脏没有收缩的心脏停止状态",
+                "fr": "Asystolie désigne l'arrêt cardiaque, un état sans contraction du cœur"
+            },
+            "example": "Asystole is a state of cardiac arrest.",
+            "translation": {
+                "ko": "심장 무수축은 심정지 상태이다.",
+                "ja": "心停止は心停止状態です",
+                "zh": "心脏停止是心脏骤停的一种状态",
+                "fr": "L'asystolie est un état d'arrêt cardiaque"
+            }
+        },
+        {
+            "word": "diastole",
+            "part_of_speech": "",
+            "origin": "Greek, diastole (a drawing apart, a dilation)",
+            "meaning": {
+                "ko": "떨어져 벌어짐, 확장",
+                "en": "separation and expansion",
+                "ja": "拡張、広がり",
+                "zh": "扩张、放松",
+                "fr": "dilatation, relâchement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dia-",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "apart",
+                        "ja": "離れて、別に",
+                        "zh": "分开、离开",
+                        "fr": "séparé, à part"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stole (stellein)",
+                    "meaning": {
+                        "ko": "'놓다'",
+                        "en": "to put",
+                        "ja": "置く、配置する",
+                        "zh": "放置、放下",
+                        "fr": "placer, mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장이 수축한 후 확장하는' 시기인 '이완기'를 뜻합니다.",
+                "en": "The period when the heart relaxes and expands after contraction, called the relaxation phase.",
+                "ja": "心臓が収縮した後に拡張する時期である拡張期を意味します",
+                "zh": "心脏收缩后扩张的时期，称为舒张期",
+                "fr": "La période pendant laquelle le cœur se dilate et se relâche après la contraction, appelée phase de relâchement"
+            },
+            "example": "Blood pressure is measured during both systole and diastole.",
+            "translation": {
+                "ko": "혈압은 수축기와 이완기 모두에서 측정된다.",
+                "ja": "血圧は収縮期と拡張期の両方の間に測定されます",
+                "zh": "血压在收缩期和舒张期都进行测量",
+                "fr": "La pression artérielle est mesurée pendant la systole et la diastole"
+            }
+        },
+        {
+            "word": "diastolic",
+            "part_of_speech": "",
+            "origin": "Greek, diastole",
+            "meaning": {
+                "ko": "확장",
+                "en": "expansion or dilation",
+                "ja": "拡張期の",
+                "zh": "舒张期的",
+                "fr": "diastolique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "diastol-",
+                    "meaning": {
+                        "ko": "'이완기'",
+                        "en": "diastole or relaxation phase",
+                        "ja": "拡張期",
+                        "zh": "舒张期",
+                        "fr": "phase de relâchement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장 이완기의'라는 뜻입니다.",
+                "en": "Relating to the diastolic phase of the heartbeat",
+                "ja": "心臓の拡張期に関する",
+                "zh": "与心脏舒张期相关",
+                "fr": "Relatif à la phase de relâchement du cœur"
+            },
+            "example": "Diastolic pressure is the bottom number in a blood pressure reading.",
+            "translation": {
+                "ko": "이완기 혈압은 혈압 측정값에서 아래쪽 숫자이다.",
+                "ja": "拡張期血圧は血圧測定値の下の数字です。",
+                "zh": "舒张压是血压读数中的较低数字。",
+                "fr": "La pression diastolique est le nombre inférieur d'une lecture de pression artérielle."
+            }
+        },
+        {
+            "word": "systole",
+            "part_of_speech": "",
+            "origin": "Greek, systole (a contraction)",
+            "meaning": {
+                "ko": "수축",
+                "en": "contraction",
+                "ja": "心臓の収縮",
+                "zh": "心脏收缩",
+                "fr": "contraction cardiaque"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sy- (syn-)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stole (stellein)",
+                    "meaning": {
+                        "ko": "'놓다, 보내다'",
+                        "en": "to put, send",
+                        "ja": "置く、送る",
+                        "zh": "放、送",
+                        "fr": "mettre, envoyer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장이 피를 보내기 위해 함께 수축하는' 시기인 '수축기'를 뜻합니다.",
+                "en": "Systole is the part of the cardiac cycle when the heart contracts.",
+                "ja": "心臓が血液を送るために一緒に収縮する時期を意味します。",
+                "zh": "指心脏为了泵送血液而一起收缩的时期。",
+                "fr": "Désigne la période où le cœur se contracte ensemble pour envoyer le sang."
+            },
+            "example": "Systole is the part of the cardiac cycle when the heart contracts.",
+            "translation": {
+                "ko": "수축기는 심장이 수축하는 심장 주기의 부분이다.",
+                "ja": "収縮期",
+                "zh": "收缩期",
+                "fr": "systole"
+            }
+        },
+        {
+            "word": "systolic",
+            "part_of_speech": "",
+            "origin": "Greek, systole",
+            "meaning": {
+                "ko": "수축",
+                "en": "contraction",
+                "ja": "収縮期の",
+                "zh": "收缩期的",
+                "fr": "systolique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "systol-",
+                    "meaning": {
+                        "ko": "'수축기'",
+                        "en": "systolic phase",
+                        "ja": "収縮期",
+                        "zh": "收缩期",
+                        "fr": "période de systole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장 수축기의'라는 뜻입니다.",
+                "en": "Relating to the heart's contraction phase",
+                "ja": "心臓の収縮期に関する",
+                "zh": "与心脏收缩期有关",
+                "fr": "Relatif à la phase de contraction cardiaque"
+            },
+            "example": "Systolic pressure is the top number in a blood pressure reading.",
+            "translation": {
+                "ko": "수축기 혈압은 혈압 측정값에서 위쪽 숫자이다.",
+                "ja": "収縮期血圧は血圧測定値の上の数字です。",
+                "zh": "收缩压是血压读数中的上面数字。",
+                "fr": "La pression systolique est le chiffre du haut dans une lecture de tension artérielle."
+            }
+        }
+    ]
+}

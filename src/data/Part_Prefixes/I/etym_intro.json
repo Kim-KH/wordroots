@@ -1,0 +1,187 @@
+{
+    "root_info": {
+        "roots": "intro (into, within) introduction, introspection, introvert",
+        "origin": "Latin, intro (within, in, into)",
+        "meaning": {
+            "ko": "안으로, 내부의",
+            "en": "within, in, into",
+            "ja": "内部に、中へ",
+            "zh": "内部、进入",
+            "fr": "dedans, à l'intérieur"
+        }
+    },
+    "words": [
+        {
+            "word": "introduction",
+            "part_of_speech": "",
+            "origin": "Latin, introducere (to lead in)",
+            "meaning": {
+                "ko": "안으로 이끌다",
+                "en": "to lead inward",
+                "ja": "紹介、導入",
+                "zh": "介绍、引入",
+                "fr": "introduction, présentation"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intro-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duct (ducere)",
+                    "meaning": {
+                        "ko": "'이끌다'",
+                        "en": "to lead",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "'행위, 결과'",
+                        "en": "action or result",
+                        "ja": "行為、結果",
+                        "zh": "行为、结果",
+                        "fr": "action, résultat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 이끌어 들인다'는 의미에서 '소개', '도입'을 뜻합니다.",
+                "en": "Means 'introduction' or 'bringing in' from the sense of leading inward",
+                "ja": "内へ導き入れるという意味から、紹介や導入を意味します",
+                "zh": "从向内引导的意思衍生出介绍或引入的含义",
+                "fr": "Signifie 'introduction' ou 'mise en place' du sens de conduire vers l'intérieur"
+            },
+            "example": "The book has a brief introduction written by the author.",
+            "translation": {
+                "ko": "그 책에는 저자가 쓴 짧은 서문이 있다.",
+                "ja": "本には著者による簡潔な紹介が書かれています",
+                "zh": "这本书有作者写的简短介绍",
+                "fr": "Le livre contient une brève introduction écrite par l'auteur"
+            }
+        },
+        {
+            "word": "introspection",
+            "part_of_speech": "",
+            "origin": "Latin, introspicere (to look into)",
+            "meaning": {
+                "ko": "안을 들여다보다",
+                "en": "to look into the inside",
+                "ja": "内面を見つめること",
+                "zh": "内省",
+                "fr": "introspection"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intro-",
+                    "meaning": {
+                        "ko": "'안을'",
+                        "en": "within",
+                        "ja": "内部の",
+                        "zh": "内部",
+                        "fr": "intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spect (specere)",
+                    "meaning": {
+                        "ko": "'보다'",
+                        "en": "to look at",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "'행위'",
+                        "en": "act or process",
+                        "ja": "行為",
+                        "zh": "行为",
+                        "fr": "acte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자기 자신의 내면을 들여다보는 행위'라는 의미에서 '자기 성찰'을 뜻합니다.",
+                "en": "The act of examining one's own inner thoughts and feelings, meaning self-reflection.",
+                "ja": "自分自身の内面を見つめる行為で、自己省察を意味します。",
+                "zh": "审视自己内心思想和感受的行为，意为自我反思。",
+                "fr": "L'acte d'examiner ses propres pensées et sentiments intérieurs, signifiant l'auto-réflexion."
+            },
+            "example": "He is a man given to introspection.",
+            "translation": {
+                "ko": "그는 자기 성찰에 잠기는 사람이다.",
+                "ja": "彼は内省的な人である。",
+                "zh": "他是一个喜欢内省的人。",
+                "fr": "C'est un homme porté à l'introspection."
+            }
+        },
+        {
+            "word": "introvert",
+            "part_of_speech": "",
+            "origin": "German, Introvert",
+            "meaning": {
+                "ko": "안으로 향하는 사람",
+                "en": "person directed inward",
+                "ja": "内向的な人",
+                "zh": "内向的人",
+                "fr": "personne introverti"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "intro-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "inward",
+                        "ja": "内側へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vert (vertere)",
+                    "meaning": {
+                        "ko": "'향하다, 돌다'",
+                        "en": "to turn",
+                        "ja": "向かう、回す",
+                        "zh": "转向",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'관심과 에너지가 안으로 향하는 사람'이라는 심리학 용어에서 '내성적인 사람'을 뜻하게 되었습니다.",
+                "en": "In psychology, this term came to mean 'introverted person' from the concept of 'a person whose interests and energy are directed inward'",
+                "ja": "心理学用語として、関心とエネルギーが内側に向かう人という概念から内向的な人を意味するようになりました",
+                "zh": "在心理学术语中，从兴趣和能量向内转向的人的概念演变为内向的人",
+                "fr": "En psychologie, ce terme signifie 'personne introverti' à partir du concept d'une personne dont l'intérêt et l'énergie sont dirigés vers l'intérieur"
+            },
+            "example": "An introvert prefers to spend time alone or with a few close friends.",
+            "translation": {
+                "ko": "내성적인 사람은 혼자 또는 몇몇 친한 친구들과 시간을 보내는 것을 선호한다.",
+                "ja": "内向的な人は、一人の時間または少数の友人との時間を過ごすことを好みます。",
+                "zh": "内向的人喜欢独处或与少数亲密朋友相处。",
+                "fr": "Un introverti préfère passer du temps seul ou avec quelques amis proches."
+            }
+        }
+    ]
+}

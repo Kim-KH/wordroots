@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "caus (burn) caustic, cauterize, holocaust",
+        "origin": "Greek, kaustos (burnt), kaiein (to burn)",
+        "meaning": {
+            "ko": "태우다",
+            "en": "to burn",
+            "ja": "燃やす",
+            "zh": "燃烧",
+            "fr": "brûler"
+        }
+    },
+    "words": [
+        {
+            "word": "caustic",
+            "part_of_speech": "",
+            "origin": "Greek, kaustikos (capable of burning)",
+            "meaning": {
+                "ko": "태울 수 있는",
+                "en": "capable of burning",
+                "ja": "焼くことができる",
+                "zh": "能够燃烧的",
+                "fr": "capable de brûler"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "caus (kaiein)",
+                    "meaning": {
+                        "ko": "'태우다'",
+                        "en": "to burn",
+                        "ja": "焼く",
+                        "zh": "燃烧",
+                        "fr": "brûler"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의 성질을 가진'",
+                        "en": "having the quality of",
+                        "ja": "~の性質を持つ",
+                        "zh": "具有~的性质",
+                        "fr": "avoir la nature de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "화학적으로 다른 물질을 '태우거나' 부식시키는 성질이 있다는 의미에서 '부식성의'라는 뜻이 되었고, 비유적으로 사람의 말이 '신랄한' 경우에도 사용됩니다.",
+                "en": "Chemically, it means 'corrosive' because it has the property of burning or corroding other substances. Metaphorically, it is also used when a person's words are 'sharp' or 'biting'.",
+                "ja": "化学的に他の物質を焼いたり腐食させる性質があるという意味で、腐食性という意味になりました。比喩的に人の言葉が鋭い場合にも使われます。",
+                "zh": "在化学上，由于具有燃烧或腐蚀其他物质的性质，演变成了腐蚀性的含义。比喻地，也用于形容人的言辞尖刻。",
+                "fr": "Chimiquement, cela signifie 'corrosif' car il a la propriété de brûler ou de corroder d'autres substances. Au sens figuré, il s'utilise aussi quand les paroles de quelqu'un sont 'acérées' ou 'mordantes'."
+            },
+            "example": "The chemical is highly caustic and can burn the skin.",
+            "translation": {
+                "ko": "그 화학 물질은 부식성이 강해 피부를 태울 수 있다.",
+                "ja": "その化学物質は非常に腐食性があり、皮膚を焼くことができます。",
+                "zh": "该化学物质具有高度腐蚀性，可以灼伤皮肤。",
+                "fr": "Ce produit chimique est très corrosif et peut brûler la peau."
+            }
+        },
+        {
+            "word": "cauterize",
+            "part_of_speech": "",
+            "origin": "Greek, kautēriazein (to brand with a hot iron)",
+            "meaning": {
+                "ko": "뜨거운 쇠로 지지다",
+                "en": "to burn with hot iron",
+                "ja": "焼灼する",
+                "zh": "烧灼",
+                "fr": "cautériser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cauter (kautērion)",
+                    "meaning": {
+                        "ko": "'지지는 인두'",
+                        "en": "branding iron",
+                        "ja": "焼灼する器具",
+                        "zh": "烧灼工具",
+                        "fr": "fer à cautériser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "뜨거운 인두(cauter)로 상처를 '지져서' 소독하거나 지혈하는 의료 행위를 의미합니다.",
+                "en": "A medical procedure where a hot instrument (cauter) is used to burn a wound for disinfection or hemostasis.",
+                "ja": "熱した器具で傷を焼いて消毒または止血する医療行為です。",
+                "zh": "用热的器具烧伤口以消毒或止血的医疗行为。",
+                "fr": "Un acte médical où un instrument chauffé brûle la plaie pour la désinfection ou l'hémostase."
+            },
+            "example": "The doctor had to cauterize the wound to stop the bleeding.",
+            "translation": {
+                "ko": "의사는 출혈을 멈추기 위해 상처를 지져야 했다.",
+                "ja": "医者は出血を止めるために傷を焼灼しなければならなかった。",
+                "zh": "医生必须烧灼伤口来止血。",
+                "fr": "Le médecin a dû cautériser la plaie pour arrêter le saignement."
+            }
+        },
+        {
+            "word": "holocaust",
+            "part_of_speech": "",
+            "origin": "Greek, holokauston (burnt whole)",
+            "meaning": {
+                "ko": "전부 타버린 것",
+                "en": "something completely burned",
+                "ja": "全て焼き尽くされたもの",
+                "zh": "全部被烧毁的东西",
+                "fr": "entièrement brûlé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "holo (holos)",
+                    "meaning": {
+                        "ko": "'전체의'",
+                        "en": "whole",
+                        "ja": "全体の",
+                        "zh": "整个的",
+                        "fr": "entier"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "caust (kaustos)",
+                    "meaning": {
+                        "ko": "'타버린'",
+                        "en": "burnt",
+                        "ja": "焼き尽くされた",
+                        "zh": "被烧毁的",
+                        "fr": "brûlé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "제물을 '통째로(holo) 불태워(caust)' 신에게 바치던 제사에서 유래하여, '대참사', '대학살'을 의미하게 되었으며, 특히 나치의 유대인 대학살(The Holocaust)을 지칭합니다.",
+                "en": "Derived from sacrificial rituals where offerings were 'completely (holo) burned (caust)' for gods, eventually meaning 'great disaster' or 'mass slaughter', particularly referring to Nazi's genocide of Jews (The Holocaust).",
+                "ja": "供え物を『全部(holo)焼き尽くして(caust)』神に捧げる祭祀に由来し、『大惨事』『大虐殺』を意味するようになり、特にナチスのユダヤ人大虐殺(The Holocaust)を指します。",
+                "zh": "源于将祭品『全部(holo)焚烧(caust)』献给神的祭祀仪式，后来指『大灾难』『大屠杀』，特别是指纳粹对犹太人的大屠杀(The Holocaust)。",
+                "fr": "Dérivé de rituels sacrificiels où les offrandes étaient 'entièrement (holo) brûlées (caust)' pour les dieux, signifiant finalement 'grande catastrophe' ou 'massacre de masse', se référant particulièrement au génocide des Juifs par les nazis (The Holocaust)."
+            },
+            "example": "The museum is dedicated to the memory of the victims of the Holocaust.",
+            "translation": {
+                "ko": "그 박물관은 홀로코스트 희생자들을 추모하기 위해 세워졌다.",
+                "ja": "この博物館はホロコーストの犠牲者の記憶に捧げられています。",
+                "zh": "这座博物馆致力于纪念大屠杀的受害者。",
+                "fr": "Le musée est dédié à la mémoire des victimes de l'Holocauste."
+            }
+        }
+    ]
+}

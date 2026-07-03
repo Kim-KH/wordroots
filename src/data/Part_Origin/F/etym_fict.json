@@ -1,0 +1,130 @@
+{
+    "root_info": {
+        "roots": "fict, feign, fain: shape, make, fashion",
+        "origin": "Latin, fingere",
+        "meaning": {
+            "ko": "모양을 만들다, 만들다",
+            "en": "to shape, to make",
+            "ja": "形を作る、作る",
+            "zh": "塑造、制作",
+            "fr": "façonner, fabriquer"
+        }
+    },
+    "words": [
+        {
+            "word": "fiction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fict",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形后缀",
+                        "fr": "suffixe nominalisant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'만들어낸 것'이라는 의미에서, 사실이 아닌 상상으로 꾸며낸 이야기, 즉 '소설'을 의미하게 되었습니다.",
+                "en": "From 'something made': came to mean an imaginary story rather than fact, i.e., 'novel'",
+                "ja": "「作られたもの」という意味から、事実ではなく想像で作られた話、つまり「小説」を意味するようになりました。",
+                "zh": "从「制造的东西」的意思衍生而来，指用想象创作而非事实的故事，即「小说」。",
+                "fr": "De « quelque chose de créé », en est venu à désigner une histoire imaginaire plutôt que factuelle, c'est-à-dire un « roman »."
+            },
+            "example": "I like to read historical fiction.",
+            "translation": {
+                "ko": "나는 역사 소설 읽는 것을 좋아한다.",
+                "ja": "私は歴史小説を読むのが好きです。",
+                "zh": "我喜欢阅读历史小说。",
+                "fr": "J'aime lire de la fiction historique."
+            }
+        },
+        {
+            "word": "feign",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "feign",
+                    "meaning": {
+                        "ko": "모양을 만들다",
+                        "en": "to shape",
+                        "ja": "形作る",
+                        "zh": "塑造",
+                        "fr": "donner forme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'거짓된 모양을 만들다'는 의미에서, 감정이나 상태를 '~인 척하다', '가장하다'는 뜻으로 쓰입니다.",
+                "en": "From the sense 'to create a false appearance,' it came to mean 'to pretend' or 'to feign' an emotion or state.",
+                "ja": "「偽りの外見を作る」という意味から、感情や状態を「～のふりをする」「装う」という意味で使われるようになりました。",
+                "zh": "从「制造虚假的外观」的意思，引申为「假装」或「装作」某种情感或状态。",
+                "fr": "Du sens « créer une fausse apparence », il en est venu à signifier « feindre » ou « faire semblant » d'une émotion ou d'un état."
+            },
+            "example": "She can feign sleep when she wants to.",
+            "translation": {
+                "ko": "그녀는 원할 때 잠자는 척할 수 있다.",
+                "ja": "彼女は気が向いたときに眠っているふりをすることができる。",
+                "zh": "她想要的时候可以装睡。",
+                "fr": "Elle peut feindre le sommeil quand elle le souhaite."
+            }
+        },
+        {
+            "word": "effigy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ef- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fig (fingere)",
+                    "meaning": {
+                        "ko": "모양을 만들다",
+                        "en": "to shape",
+                        "ja": "形を作る",
+                        "zh": "塑造形状",
+                        "fr": "façonner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 모양을 만들어 낸 것'이라는 의미에서, 특정 인물의 모습을 본떠 만든 '인형'이나 '조상'을 의미합니다. 특히 증오의 대상으로 만들어 불태우는 인형을 가리킬 때 자주 쓰입니다.",
+                "en": "From the sense of 'something shaped outward,' referring to a figure or statue made in the likeness of a specific person. Often used for effigies made to be burned as objects of hatred.",
+                "ja": "「外へ形を作り出したもの」という意味から、特定の人物の姿を模して作られた「人形」や「像」を指します。特に憎しみの対象として作られ、焼かれる人形を指すときによく使われます。",
+                "zh": "源自「向外塑造的东西」之意，指按特定人物样貌制作的「人像」或「雕像」。特别常用于指被制作来焚烧的仇恨对象的人像。",
+                "fr": "Du sens de « quelque chose façonné vers l'extérieur », désignant une figurine ou une statue faite à l'image d'une personne spécifique. Souvent utilisé pour les effigies fabriquées pour être brûlées en tant qu'objets de haine."
+            },
+            "example": "They burned an effigy of the leader.",
+            "translation": {
+                "ko": "그들은 지도자의 인형을 불태웠다.",
+                "ja": "彼らは指導者の人形を焼いた。",
+                "zh": "他们焚烧了领导人的人像。",
+                "fr": "Ils ont brûlé une effigie du chef."
+            }
+        }
+    ]
+}

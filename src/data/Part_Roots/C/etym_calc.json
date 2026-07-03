@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "calc(i) (lime, chalk, pebble to render) calcium, calcify, calculate",
+        "origin": "Latin, calx (limestone, pebble)",
+        "meaning": {
+            "ko": "석회, 돌",
+            "en": "lime, stone",
+            "ja": "石灰、石",
+            "zh": "石灰，石头",
+            "fr": "chaux, pierre"
+        }
+    },
+    "words": [
+        {
+            "word": "calcium",
+            "part_of_speech": "",
+            "origin": "Latin, calx (lime)",
+            "meaning": {
+                "ko": "석회",
+                "en": "lime",
+                "ja": "カルシウム",
+                "zh": "钙",
+                "fr": "calcium"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "calc (calx)",
+                    "meaning": {
+                        "ko": "'석회'",
+                        "en": "lime",
+                        "ja": "石灰",
+                        "zh": "石灰",
+                        "fr": "chaux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ium",
+                    "meaning": {
+                        "ko": "'원소'",
+                        "en": "element",
+                        "ja": "元素",
+                        "zh": "元素",
+                        "fr": "élément"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'석회(calc)'에서 분리해낸 금속 '원소(-ium)'라는 의미에서 '칼슘'이라는 이름이 붙었습니다.",
+                "en": "The name 'calcium' comes from the meaning of a metallic 'element(-ium)' separated from 'lime(calc)'.",
+                "ja": "石灰(calc)から分離した金属元素(-ium)という意味から、カルシウムという名前がついた。",
+                "zh": "从石灰(calc)中分离出的金属元素(-ium)的含义，形成了钙这个名称。",
+                "fr": "Le nom 'calcium' vient du sens d'un 'élément(-ium)' métallique séparé de 'chaux(calc)'."
+            },
+            "example": "Milk is a good source of calcium.",
+            "translation": {
+                "ko": "우유는 칼슘의 좋은 공급원이다.",
+                "ja": "牛乳はカルシウムの良い供給源です。",
+                "zh": "牛奶是钙的良好来源。",
+                "fr": "Le lait est une bonne source de calcium."
+            }
+        },
+        {
+            "word": "calcify",
+            "part_of_speech": "",
+            "origin": "Latin, calx (lime) + facere (to make)",
+            "meaning": {
+                "ko": "석회로 만들다",
+                "en": "to turn into lime or calcium salts",
+                "ja": "石灰化させる",
+                "zh": "石灰化",
+                "fr": "calcifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "calc (calx)",
+                    "meaning": {
+                        "ko": "'석회'",
+                        "en": "lime",
+                        "ja": "石灰",
+                        "zh": "石灰",
+                        "fr": "chaux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ify (facere)",
+                    "meaning": {
+                        "ko": "'~화하다, ~로 만들다'",
+                        "en": "to make",
+                        "ja": "~化する",
+                        "zh": "~化",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'석회(calc)처럼 딱딱하게 만들다(-ify)'라는 의미에서, 조직 등이 칼슘염의 침착으로 '석회화되다' 또는 '경화되다'라는 뜻으로 쓰입니다.",
+                "en": "Tissues become calcified or hardened through calcium salt deposits, similar to how limestone becomes hard",
+                "ja": "石灰のように硬くなることから、組織などがカルシウム塩の沈着により石灰化または硬化することを意味します",
+                "zh": "像石灰一样变硬，组织等因钙盐沉积而石灰化或硬化的意思",
+                "fr": "Signifie durcir comme la chaux, les tissus se calcifient ou durcissent par dépôt de sels de calcium"
+            },
+            "example": "The arteries can calcify over time, leading to health problems.",
+            "translation": {
+                "ko": "동맥은 시간이 지남에 따라 석회화되어 건강 문제를 일으킬 수 있다.",
+                "ja": "動脈は時間とともに石灰化し、健康問題につながる可能性があります。",
+                "zh": "随着时间的推移，动脉可能会石灰化，导致健康问题。",
+                "fr": "Les artères peuvent se calcifier avec le temps, ce qui entraîne des problèmes de santé."
+            }
+        },
+        {
+            "word": "calculate",
+            "part_of_speech": "",
+            "origin": "Latin, calculatus (reckoned)",
+            "meaning": {
+                "ko": "계산된",
+                "en": "calculated",
+                "ja": "計算する",
+                "zh": "计算",
+                "fr": "calculer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "calc (calculus)",
+                    "meaning": {
+                        "ko": "'작은 조약돌'",
+                        "en": "pebble",
+                        "ja": "小さな石",
+                        "zh": "小石子",
+                        "fr": "petit caillou"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "'~하다'",
+                        "en": "to do",
+                        "ja": "~する",
+                        "zh": "~做",
+                        "fr": "~faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마에서 주판처럼 '작은 조약돌(calculus)'을 사용하여 셈을 했던 것에서 유래하여 '계산하다', '산출하다'라는 뜻이 되었습니다.",
+                "en": "In ancient Rome, small pebbles (calculus) were used like an abacus for counting, which led to the meaning 'to calculate' or 'to compute'.",
+                "ja": "古代ローマで、そろばんのように小さな石(calculus)を使って計算していたことから、『計算する』『算出する』という意味になりました。",
+                "zh": "在古罗马，人们像使用算盘一样用小石子(calculus)来计算，由此产生了'计算'、'计数'的意思。",
+                "fr": "Dans la Rome antique, de petits cailloux (calculus) étaient utilisés comme un boulier pour compter, ce qui a conduit au sens 'calculer' ou 'calculer'"
+            },
+            "example": "We need to calculate the total cost of the project.",
+            "translation": {
+                "ko": "우리는 프로젝트의 총비용을 계산해야 합니다.",
+                "ja": "プロジェクトの総費用を計算する必要があります。",
+                "zh": "我们需要计算这个项目的总成本。",
+                "fr": "Nous devons calculer le coût total du projet."
+            }
+        }
+    ]
+}

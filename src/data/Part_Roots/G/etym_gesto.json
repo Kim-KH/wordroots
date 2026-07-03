@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "gesto (carry) egest, digest, gestate, ingest",
+        "origin": "Latin, gerere, gestus (to carry, bear)",
+        "meaning": {
+            "ko": "나르다",
+            "en": "to carry",
+            "ja": "運ぶ",
+            "zh": "携带",
+            "fr": "porter"
+        }
+    },
+    "words": [
+        {
+            "word": "egest",
+            "part_of_speech": "",
+            "origin": "Latin, egerere (to carry out)",
+            "meaning": {
+                "ko": "밖으로 나르다",
+                "en": "to carry out",
+                "ja": "排出する",
+                "zh": "排出",
+                "fr": "expulser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gest",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "携带",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸 밖으로 노폐물을 나르다'는 의미에서 '배설하다'라는 뜻입니다.",
+                "en": "It means 'to discharge waste matter from the body'",
+                "ja": "体外へ廃棄物を排出することを意味する",
+                "zh": "指从体外排出废物",
+                "fr": "signifie expulser les déchets du corps"
+            },
+            "example": "The organism will egest any undigested food.",
+            "translation": {
+                "ko": "그 유기체는 소화되지 않은 음식을 모두 배설할 것이다.",
+                "ja": "その生物は未消化の食物を排出するだろう。",
+                "zh": "该生物会排出任何未消化的食物。",
+                "fr": "L'organisme expulsera tout aliment non digéré."
+            }
+        },
+        {
+            "word": "digest",
+            "part_of_speech": "",
+            "origin": "Latin, digerere (to carry apart, separate)",
+            "meaning": {
+                "ko": "나누어 나르다",
+                "en": "to distribute and carry",
+                "ja": "消化する",
+                "zh": "消化",
+                "fr": "digérer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "'떨어져, 나누어'",
+                        "en": "apart",
+                        "ja": "離れて、分ける",
+                        "zh": "分开、分离",
+                        "fr": "à part, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gest",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "携带、运送",
+                        "fr": "porter, transporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음식물을 나누어 몸 속으로 나르다'는 의미에서 '소화하다'라는 뜻이 되었습니다.",
+                "en": "From the literal meaning of dividing and carrying food into the body, it came to mean 'to digest'.",
+                "ja": "食物を分けて体内に運ぶという文字通りの意味から、消化するという意味になりました。",
+                "zh": "从将食物分开并运入体内的字面意思演变成消化的含义。",
+                "fr": "Du sens littéral de diviser et transporter la nourriture dans le corps, cela a acquis le sens de digérer."
+            },
+            "example": "It takes several hours to digest a large meal.",
+            "translation": {
+                "ko": "많은 양의 식사를 소화하는 데는 몇 시간이 걸린다.",
+                "ja": "大きな食事を消化するのに数時間かかります。",
+                "zh": "消化一顿大餐需要几个小时。",
+                "fr": "Il faut plusieurs heures pour digérer un gros repas."
+            }
+        },
+        {
+            "word": "gestate",
+            "part_of_speech": "",
+            "origin": "Latin, gestare (to carry, bear)",
+            "meaning": {
+                "ko": "나르다, 품다",
+                "en": "to carry, to bear",
+                "ja": "妊娠する、抱く",
+                "zh": "妊娠、孕育",
+                "fr": "gestation, porter"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gest-",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ、携える",
+                        "zh": "携带、运送",
+                        "fr": "porter, transporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뱃속에서 아기를 품고 다니다'는 의미에서 '임신하다'라는 뜻입니다.",
+                "en": "It means 'pregnancy' in the sense of carrying a baby in the belly.",
+                "ja": "腹の中で赤ちゃんを抱いて運ぶという意味から、妊娠という意味です。",
+                "zh": "从肚子里抱着婴儿运送的意思转变为怀孕的含义。",
+                "fr": "Il signifie 'grossesse' au sens de porter un bébé dans le ventre."
+            },
+            "example": "Elephants gestate for about 22 months.",
+            "translation": {
+                "ko": "코끼리는 약 22개월 동안 임신한다.",
+                "ja": "象は約22ヶ月間妊娠する。",
+                "zh": "大象的妊娠期约为22个月。",
+                "fr": "Les éléphants sont enceintes pendant environ 22 mois."
+            }
+        },
+        {
+            "word": "ingest",
+            "part_of_speech": "",
+            "origin": "Latin, ingerere (to carry in)",
+            "meaning": {
+                "ko": "안으로 나르다",
+                "en": "to carry inward",
+                "ja": "摂取する",
+                "zh": "摄入",
+                "fr": "ingérer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dedans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gest",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "携带",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음식물 등을 몸 안으로 나르다'는 의미에서 '섭취하다'라는 뜻입니다.",
+                "en": "Means to take food or drink into the body; to consume",
+                "ja": "食べ物などを体の中に取り込むこと",
+                "zh": "将食物等摄入体内的意思",
+                "fr": "Signifie consommer de la nourriture ou des boissons"
+            },
+            "example": "The patient was unable to ingest solid food.",
+            "translation": {
+                "ko": "그 환자는 고체 음식을 섭취할 수 없었다.",
+                "ja": "患者は固形食を摂取できなかった。",
+                "zh": "患者无法摄入固体食物。",
+                "fr": "Le patient n'a pas pu ingérer d'aliments solides."
+            }
+        }
+    ]
+}

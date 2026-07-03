@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "resona (echo) resonance, resonator, resound",
+        "origin": "Latin, resonare (to sound again, to echo)",
+        "meaning": {
+            "ko": "메아리치다",
+            "en": "to echo",
+            "ja": "こだまする",
+            "zh": "回响",
+            "fr": "faire écho"
+        }
+    },
+    "words": [
+        {
+            "word": "resonance",
+            "part_of_speech": "",
+            "origin": "Latin, resonantia (an echo)",
+            "meaning": {
+                "ko": "메아리",
+                "en": "echo or reverberation",
+                "ja": "反響、共鳴",
+                "zh": "回声、共鸣",
+                "fr": "résonance, écho"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "再び、もう一度",
+                        "zh": "再次、又",
+                        "fr": "à nouveau, encore"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "son-",
+                    "meaning": {
+                        "ko": "'소리'",
+                        "en": "sound",
+                        "ja": "音、音声",
+                        "zh": "声音",
+                        "fr": "son, bruit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리가 다시 울려 퍼지는' 현상인 '공명', '울림'을 뜻합니다.",
+                "en": "The phenomenon of sound echoing and resonating repeatedly; refers to 'resonance' or 'reverberation'.",
+                "ja": "音が何度も鳴り響く現象であり、『共鳴』や『響き』を意味します。",
+                "zh": "声音反复回响的现象，指『共鸣』或『回声』。",
+                "fr": "Le phénomène du son qui résonne et s'amplifie à nouveau; désigne la résonance ou l'amplification sonore."
+            },
+            "example": "The resonance of his voice filled the room.",
+            "translation": {
+                "ko": "그의 목소리의 울림이 방을 가득 채웠다.",
+                "ja": "彼の声の共鳴は部屋に満ち溢れた。",
+                "zh": "他的声音的共鸣充满了房间。",
+                "fr": "La résonance de sa voix remplissait la pièce."
+            }
+        },
+        {
+            "word": "resonator",
+            "part_of_speech": "",
+            "origin": "Latin, resonare",
+            "meaning": {
+                "ko": "메아리치다",
+                "en": "to echo or resound",
+                "ja": "共鳴装置",
+                "zh": "共鸣装置",
+                "fr": "résonateur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "resonat-",
+                    "meaning": {
+                        "ko": "'공명하다'",
+                        "en": "to resonate or reverberate",
+                        "ja": "共鳴する",
+                        "zh": "共鸣",
+                        "fr": "résonner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 주파수에서 공명하는 장치'인 '공명기'를 뜻합니다.",
+                "en": "A device that resonates at specific frequencies, also called a resonator.",
+                "ja": "特定の周波数で共鳴する装置を意味します。",
+                "zh": "指在特定频率下共鸣的装置。",
+                "fr": "Un appareil qui résonne à des fréquences spécifiques."
+            },
+            "example": "A guitar's body acts as a resonator.",
+            "translation": {
+                "ko": "기타의 몸통은 공명기 역할을 한다.",
+                "ja": "ギターのボディは共鳴装置として機能します。",
+                "zh": "吉他琴体充当共鸣装置。",
+                "fr": "Le corps d'une guitare agit comme un résonateur."
+            }
+        },
+        {
+            "word": "resound",
+            "part_of_speech": "",
+            "origin": "Latin, resonare (to resound)",
+            "meaning": {
+                "ko": "다시 울리다",
+                "en": "to ring out again",
+                "ja": "再び鳴り響く",
+                "zh": "再次回响",
+                "fr": "retentir à nouveau"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sound",
+                    "meaning": {
+                        "ko": "'소리'",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소리가 크고 깊게 다시 울려 퍼지다'는 뜻입니다.",
+                "en": "Sound echoes loudly and deeply again",
+                "ja": "大きく深い音が再び響き渡る",
+                "zh": "声音大声深深地再次回响",
+                "fr": "Le son retentit fort et profond à nouveau"
+            },
+            "example": "The hall resounded with applause.",
+            "translation": {
+                "ko": "홀은 박수 소리로 울려 퍼졌다.",
+                "ja": "ホールは拍手で鳴り響いた",
+                "zh": "大厅里掌声回响",
+                "fr": "La salle retentissait d'applaudissements"
+            }
+        }
+    ]
+}

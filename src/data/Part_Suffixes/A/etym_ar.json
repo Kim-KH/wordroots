@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ar (pertaining to) cellular, molecular, polar, scholar",
+        "origin": "Latin, -aris (relating to)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "pertaining to",
+            "ja": "〜に関する",
+            "zh": "与...有关的",
+            "fr": "relatif à"
+        }
+    },
+    "words": [
+        {
+            "word": "cellular",
+            "part_of_speech": "",
+            "origin": "Latin, cellula (a small room)",
+            "meaning": {
+                "ko": "작은 방",
+                "en": "small room",
+                "ja": "小さな部屋",
+                "zh": "小房间",
+                "fr": "petite chambre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cell-",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ular",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포의'라는 뜻입니다.",
+                "en": "It means 'of cells'",
+                "ja": "細胞のという意味です",
+                "zh": "意思是'细胞的'",
+                "fr": "Cela signifie 'des cellules'"
+            },
+            "example": "Cellular respiration is the process by which cells produce energy.",
+            "translation": {
+                "ko": "세포 호흡은 세포가 에너지를 생산하는 과정이다.",
+                "ja": "細胞呼吸は、細胞がエネルギーを生成するプロセスです。",
+                "zh": "细胞呼吸是细胞产生能量的过程。",
+                "fr": "La respiration cellulaire est le processus par lequel les cellules produisent de l'énergie."
+            }
+        },
+        {
+            "word": "molecular",
+            "part_of_speech": "",
+            "origin": "Latin, molecula (a little mass)",
+            "meaning": {
+                "ko": "작은 덩어리",
+                "en": "small particle or mass",
+                "ja": "分子の",
+                "zh": "分子的",
+                "fr": "moléculaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "molecule",
+                    "meaning": {
+                        "ko": "'분자'",
+                        "en": "molecule",
+                        "ja": "分子",
+                        "zh": "分子",
+                        "fr": "molécule"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ar",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'분자의'라는 뜻입니다.",
+                "en": "It means 'of molecules'",
+                "ja": "分子に関する意味です",
+                "zh": "表示与分子相关的意思",
+                "fr": "Cela signifie 'relatif aux molécules'"
+            },
+            "example": "Molecular genetics is the study of the structure and function of genes at a molecular level.",
+            "translation": {
+                "ko": "분자 유전학은 분자 수준에서 유전자의 구조와 기능을 연구하는 학문이다.",
+                "ja": "分子遺伝学は、遺伝子の構造と機能を分子レベルで研究する分野です。",
+                "zh": "分子遗传学是在分子水平上研究基因结构和功能的学科。",
+                "fr": "La génétique moléculaire est l'étude de la structure et de la fonction des gènes au niveau moléculaire."
+            }
+        },
+        {
+            "word": "polar",
+            "part_of_speech": "",
+            "origin": "Greek, polos (a pivot, an axis)",
+            "meaning": {
+                "ko": "축",
+                "en": "axis",
+                "ja": "極の",
+                "zh": "极的",
+                "fr": "polaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pol-",
+                    "meaning": {
+                        "ko": "'극'",
+                        "en": "pole",
+                        "ja": "極",
+                        "zh": "极",
+                        "fr": "pôle"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ar",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of, relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'극(지방)의' 또는 '극성을 띤'이라는 뜻입니다.",
+                "en": "Means of the poles or exhibiting polarity",
+                "ja": "極地の、または極性を帯びた意味です",
+                "zh": "指极地的或具有极性的",
+                "fr": "Signifie des pôles ou ayant de la polarité"
+            },
+            "example": "Polar bears live in the Arctic.",
+            "translation": {
+                "ko": "북극곰은 북극에 산다.",
+                "ja": "ホッキョクグマは北極に住んでいます。",
+                "zh": "北极熊住在北极。",
+                "fr": "Les ours polaires vivent dans l'Arctique."
+            }
+        },
+        {
+            "word": "scholar",
+            "part_of_speech": "",
+            "origin": "Latin, schola (a school)",
+            "meaning": {
+                "ko": "학교",
+                "en": "school",
+                "ja": "学者",
+                "zh": "学者",
+                "fr": "érudit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "schol-",
+                    "meaning": {
+                        "ko": "'학교, 학문'",
+                        "en": "school",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "érudition"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ar",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'학교에서 학문을 하는 사람'이라는 의미에서 '학자'를 뜻합니다.",
+                "en": "A person who conducts academic study at school",
+                "ja": "学校で学問をする人という意味から学者を表します",
+                "zh": "从在学校进行学术研究的人的含义表示学者",
+                "fr": "Une personne qui mène des études académiques à l'école"
+            },
+            "example": "He is a leading scholar in his field.",
+            "translation": {
+                "ko": "그는 자신의 분야에서 선도적인 학자이다.",
+                "ja": "彼は自分の分野の一流の学者です。",
+                "zh": "他是他所在领域的杰出学者。",
+                "fr": "Il est un érudit de premier plan dans son domaine."
+            }
+        }
+    ]
+}

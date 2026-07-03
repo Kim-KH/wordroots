@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "para",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "옆에",
+            "en": "beside",
+            "ja": "側に",
+            "zh": "旁边",
+            "fr": "à côté de"
+        }
+    },
+    "words": [
+        {
+            "word": "paraprofessional",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "para-",
+                    "meaning": {
+                        "ko": "옆에서 돕는",
+                        "en": "assisting from alongside",
+                        "ja": "横で手伝う",
+                        "zh": "在旁协助",
+                        "fr": "assister à côté"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "professional",
+                    "meaning": {
+                        "ko": "전문가",
+                        "en": "expert or specialist",
+                        "ja": "専門家",
+                        "zh": "专家",
+                        "fr": "professionnel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전문가 옆에서 보조하는' 사람, 즉 '준전문가'를 뜻합니다.",
+                "en": "A person who assists beside a professional; a semi-professional or paraprofessional.",
+                "ja": "専門家の横で補助する人、つまり『准専門家』を意味します。",
+                "zh": "在专家身边协助的人，即'准专家'的意思。",
+                "fr": "Une personne qui assiste un professionnel; un semi-professionnel ou auxiliaire spécialisé."
+            },
+            "example": "She works as a paraprofessional in a school.",
+            "translation": {
+                "ko": "그녀는 학교에서 보조 교사로 일한다.",
+                "ja": "彼女は学校で教育補助員として働いている。",
+                "zh": "她在学校担任教学辅助员。",
+                "fr": "Elle travaille comme auxiliaire pédagogique dans une école."
+            }
+        },
+        {
+            "word": "paramedic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "para-",
+                    "meaning": {
+                        "ko": "옆에",
+                        "en": "beside, next to",
+                        "ja": "側に",
+                        "zh": "旁边",
+                        "fr": "à côté de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "medic",
+                    "meaning": {
+                        "ko": "의료",
+                        "en": "medical, healthcare",
+                        "ja": "医療",
+                        "zh": "医疗",
+                        "fr": "médical"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "의사 '옆에서' 의료 활동을 돕는다는 의미에서 '응급 의료 구조대원'을 뜻합니다.",
+                "en": "Medical professional assisting doctors by providing emergency care",
+                "ja": "医者の『傍ら』で医療活動を助ける意味から、『救急医療隊員』を意味します",
+                "zh": "从在医生'身旁'协助医疗活动的含义，指'紧急医疗救援人员'",
+                "fr": "Du sens d'assister les médecins 'à côté d'eux' dans les soins médicaux, signifiant 'secouriste d'urgence'"
+            },
+            "example": "The paramedics arrived quickly.",
+            "translation": {
+                "ko": "응급 의료 구조대원들이 신속하게 도착했다.",
+                "ja": "救急隊員が素早く到着した。",
+                "zh": "紧急医疗人员迅速到达了。",
+                "fr": "Les ambulanciers sont arrivés rapidement."
+            }
+        },
+        {
+            "word": "paraphrase",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "para-",
+                    "meaning": {
+                        "ko": "옆에, 달리",
+                        "en": "beside, different",
+                        "ja": "傍に、別に",
+                        "zh": "在旁边、不同地",
+                        "fr": "à côté, différemment"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phrase",
+                    "meaning": {
+                        "ko": "구절",
+                        "en": "phrase or clause",
+                        "ja": "句、節",
+                        "zh": "短句、措辞",
+                        "fr": "phrase, passage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래 구절 옆에 다른 말로 표현하다'는 의미에서, 다른 말로 '바꾸어 쓰다'는 뜻입니다.",
+                "en": "Originally meaning 'to express differently beside the original phrase'; now means 'to rewrite in different words'",
+                "ja": "元々『元の句の傍に別の言葉で表現する』という意味から、別の言葉で『言い換える』という意味になりました。",
+                "zh": "源于'在原句旁用不同的词语表达'的意思，现在表示'用不同的词语重新表述'。",
+                "fr": "Signifie à l'origine 'exprimer différemment à côté de la phrase originale'; maintenant veut dire 'reformuler avec d'autres mots'."
+            },
+            "example": "Can you paraphrase this sentence?",
+            "translation": {
+                "ko": "이 문장을 다른 말로 바꾸어 쓸 수 있나요?",
+                "ja": "この文を別の言葉で言い換えることができますか？",
+                "zh": "你能用不同的词语改写这句话吗？",
+                "fr": "Pouvez-vous reformuler cette phrase?"
+            }
+        },
+        {
+            "word": "parachute",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "para-",
+                    "meaning": {
+                        "ko": "막는",
+                        "en": "to block or prevent",
+                        "ja": "防ぐ",
+                        "zh": "阻止",
+                        "fr": "arrêter"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chute",
+                    "meaning": {
+                        "ko": "낙하",
+                        "en": "to fall or descend",
+                        "ja": "落下",
+                        "zh": "下降",
+                        "fr": "chute"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'낙하를 막는' 기구라는 의미에서 '낙하산'을 뜻합니다.",
+                "en": "From the meaning 'device that prevents falling,' literally 'parachute'",
+                "ja": "「落下を防ぐ」という意味から、パラシュートを意味します。",
+                "zh": "从「阻止下降」的意思，指降落伞。",
+                "fr": "Du sens de « dispositif qui arrête la chute », littéralement « parachute »."
+            },
+            "example": "He jumped from the plane with a parachute.",
+            "translation": {
+                "ko": "그는 낙하산을 메고 비행기에서 뛰어내렸다.",
+                "ja": "彼はパラシュートを付けて飛行機から飛び降りた。",
+                "zh": "他穿着降落伞从飞机上跳了下来。",
+                "fr": "Il a sauté de l'avion avec un parachute."
+            }
+        }
+    ]
+}

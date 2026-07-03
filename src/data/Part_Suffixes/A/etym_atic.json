@@ -1,0 +1,276 @@
+{
+    "root_info": {
+        "roots": "atic (of the kind of) asthmatic, democratic, emphatic, erratic, somatic",
+        "origin": "Greek, -atikos (of the kind of)",
+        "meaning": {
+            "ko": "…종류의",
+            "en": "of the kind of",
+            "ja": "...の種類の",
+            "zh": "...种类的",
+            "fr": "...du genre de"
+        }
+    },
+    "words": [
+        {
+            "word": "asthmatic",
+            "part_of_speech": "",
+            "origin": "Greek, asthma (panting)",
+            "meaning": {
+                "ko": "헐떡거림",
+                "en": "labored breathing or wheezing",
+                "ja": "喘息の、喘息患者",
+                "zh": "哮喘的、哮喘患者",
+                "fr": "asthmatique, souffrant d'asthme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "asthma",
+                    "meaning": {
+                        "ko": "'천식'",
+                        "en": "asthma",
+                        "ja": "喘息",
+                        "zh": "哮喘",
+                        "fr": "asthme"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~ique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'천식을 앓는' 또는 '천식 환자'를 뜻합니다.",
+                "en": "Means having or suffering from asthma, or a person with asthma",
+                "ja": "喘息を持つ、または喘息患者を意味します",
+                "zh": "表示患有哮喘或哮喘患者",
+                "fr": "Signifie atteint d'asthme ou une personne asthmatique"
+            },
+            "example": "He has an asthmatic cough.",
+            "translation": {
+                "ko": "그는 천식성 기침을 한다.",
+                "ja": "彼は喘息性の咳がある。",
+                "zh": "他有哮喘性咳嗽。",
+                "fr": "Il a une toux asthmatique."
+            }
+        },
+        {
+            "word": "democratic",
+            "part_of_speech": "",
+            "origin": "Greek, demokratia (popular government)",
+            "meaning": {
+                "ko": "인민 정부",
+                "en": "people's government",
+                "ja": "民主主義的な",
+                "zh": "民主的",
+                "fr": "démocratique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "demo-",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人民",
+                        "zh": "人民",
+                        "fr": "peuple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crat-",
+                    "meaning": {
+                        "ko": "'지배'",
+                        "en": "rule",
+                        "ja": "統治",
+                        "zh": "统治",
+                        "fr": "règne"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'국민이 다스리는' 체제인 '민주주의의'라는 뜻입니다.",
+                "en": "It means 'of democracy' which is a system where the people rule.",
+                "ja": "国民が統治する体制である民主主義という意味です。",
+                "zh": "意思是人民统治的民主制度。",
+                "fr": "Cela signifie un système où le peuple gouverne, la démocratie."
+            },
+            "example": "The country has a democratic system of government.",
+            "translation": {
+                "ko": "그 나라는 민주적인 정부 체제를 가지고 있다.",
+                "ja": "その国は民主的な政府体制を持っています。",
+                "zh": "这个国家拥有民主的政府制度。",
+                "fr": "Le pays possède un système de gouvernement démocratique."
+            }
+        },
+        {
+            "word": "emphatic",
+            "part_of_speech": "",
+            "origin": "Greek, emphatikos (emphatic)",
+            "meaning": {
+                "ko": "강조하는",
+                "en": "emphasizing or stressing",
+                "ja": "強調的な",
+                "zh": "强调的",
+                "fr": "emphatique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "empha- (emphasis)",
+                    "meaning": {
+                        "ko": "'강조'",
+                        "en": "emphasis",
+                        "ja": "強調",
+                        "zh": "强调",
+                        "fr": "emphase"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~的な",
+                        "zh": "~的",
+                        "fr": "~ique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'강조하는', '단호한'이라는 뜻입니다.",
+                "en": "Means 'emphasizing' or 'forceful'",
+                "ja": "強調する、断固たるという意味です",
+                "zh": "强调的、坚定的意思",
+                "fr": "Signifie 'soulignant' ou 'catégorique'"
+            },
+            "example": "He gave an emphatic denial of the accusation.",
+            "translation": {
+                "ko": "그는 그 비난을 단호하게 부인했다.",
+                "ja": "彼はその告発を強調的に否定した。",
+                "zh": "他强调地否认了该指控。",
+                "fr": "Il a nié catégoriquement l'accusation."
+            }
+        },
+        {
+            "word": "erratic",
+            "part_of_speech": "",
+            "origin": "Latin, erraticus (wandering)",
+            "meaning": {
+                "ko": "떠도는",
+                "en": "wandering, moving about",
+                "ja": "不規則な、気まぐれな",
+                "zh": "不规则的、反复无常的",
+                "fr": "erratique, imprévisible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "err- (errare)",
+                    "meaning": {
+                        "ko": "'헤매다'",
+                        "en": "to wander",
+                        "ja": "さまよう、放浪する",
+                        "zh": "漂泊、流浪",
+                        "fr": "errer, vagabonder"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-atic",
+                    "meaning": {
+                        "ko": "'~하는 경향이 있는'",
+                        "en": "having tendency to",
+                        "ja": "~する傾向がある",
+                        "zh": "有~的倾向",
+                        "fr": "avoir tendance à ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정해진 길에서 벗어나 이리저리 헤매는'이라는 의미에서 '불규칙한', '변덕스러운'이라는 뜻입니다.",
+                "en": "Meaning irregular or unpredictable from the sense of wandering aimlessly off a set path.",
+                "ja": "定められた道から外れて、あちこちさまよう意味から、不規則な、気まぐれなという意味になる。",
+                "zh": "从偏离既定路线、四处漂泊的含义引申为不规则、反复无常的意思。",
+                "fr": "Signifie irrégulier ou imprévisible, du sens de s'égarer loin d'un chemin défini."
+            },
+            "example": "His erratic behavior is a cause for concern.",
+            "translation": {
+                "ko": "그의 변덕스러운 행동은 우려의 원인이다.",
+                "ja": "彼の不規則な行動は懸念の原因です。",
+                "zh": "他反复无常的行为引起了担忧。",
+                "fr": "Son comportement erratique est une source de préoccupation."
+            }
+        },
+        {
+            "word": "somatic",
+            "part_of_speech": "",
+            "origin": "Greek, somatikos (of the body)",
+            "meaning": {
+                "ko": "몸의",
+                "en": "of the body",
+                "ja": "身体の",
+                "zh": "身体的",
+                "fr": "somatique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "soma-",
+                    "meaning": {
+                        "ko": "'몸'",
+                        "en": "body",
+                        "ja": "身体",
+                        "zh": "身体",
+                        "fr": "corps"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신이 아닌 신체의'라는 뜻입니다.",
+                "en": "Means relating to the body rather than the mind",
+                "ja": "心ではなく身体に関するという意味です",
+                "zh": "表示与身体而非心理相关的含义",
+                "fr": "Signifie relatif au corps plutôt qu'à l'esprit"
+            },
+            "example": "Somatic cells are the cells of the body other than the reproductive cells.",
+            "translation": {
+                "ko": "체세포는 생식 세포 이외의 신체 세포이다.",
+                "ja": "体細胞は生殖細胞以外の身体の細胞です。",
+                "zh": "躯体细胞是除生殖细胞外的身体细胞。",
+                "fr": "Les cellules somatiques sont les cellules du corps autres que les cellules reproductives."
+            }
+        }
+    ]
+}

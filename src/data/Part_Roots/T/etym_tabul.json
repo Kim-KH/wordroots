@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "tabul (board) table, tabulate, tabloid, tableau",
+        "origin": "Latin, tabula (a board, a tablet)",
+        "meaning": {
+            "ko": "판자",
+            "en": "a board",
+            "ja": "板",
+            "zh": "木板",
+            "fr": "planche"
+        }
+    },
+    "words": [
+        {
+            "word": "table",
+            "part_of_speech": "",
+            "origin": "Latin, tabula (a board)",
+            "meaning": {
+                "ko": "판자",
+                "en": "wooden board",
+                "ja": "机、卓",
+                "zh": "桌子、表格",
+                "fr": "table, tableau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tab-",
+                    "meaning": {
+                        "ko": "'판'",
+                        "en": "board",
+                        "ja": "板",
+                        "zh": "板",
+                        "fr": "planche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'평평한 판'이라는 의미에서 '탁자' 또는 '표'를 뜻합니다.",
+                "en": "Refers to a flat board or table; also means a list or chart",
+                "ja": "平らな板という意味から、机または表を意味します",
+                "zh": "从平坦的板的意思衍生出桌子或表格的含义",
+                "fr": "Signifie une planche plate, une table ou un tableau"
+            },
+            "example": "The book has a table of contents.",
+            "translation": {
+                "ko": "그 책에는 목차가 있다.",
+                "ja": "その本は目次の表を持っています",
+                "zh": "这本书有一个目录表",
+                "fr": "Le livre a une table des matières"
+            }
+        },
+        {
+            "word": "tabulate",
+            "part_of_speech": "",
+            "origin": "Latin, tabula (a board)",
+            "meaning": {
+                "ko": "판자",
+                "en": "wooden board or plank",
+                "ja": "表にまとめる",
+                "zh": "制成表格",
+                "fr": "mettre en tableau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tabul-",
+                    "meaning": {
+                        "ko": "'표'",
+                        "en": "table",
+                        "ja": "表",
+                        "zh": "表格",
+                        "fr": "tableau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'데이터를 표로 만들다'는 뜻입니다.",
+                "en": "To arrange data in table form",
+                "ja": "データを表の形にまとめることを意味します",
+                "zh": "将数据整理成表格形式的意思",
+                "fr": "Signifie organiser les données sous forme de tableau"
+            },
+            "example": "The researchers will tabulate the survey results.",
+            "translation": {
+                "ko": "연구원들은 설문 조사 결과를 표로 만들 것이다.",
+                "ja": "研究者たちは調査結果を表にまとめるだろう",
+                "zh": "研究人员将把调查结果制成表格",
+                "fr": "Les chercheurs vont mettre les résultats de l'enquête en tableau"
+            }
+        },
+        {
+            "word": "tabloid",
+            "part_of_speech": "",
+            "origin": "English, tablet + -oid",
+            "meaning": {
+                "ko": "알약 같은",
+                "en": "pill-like",
+                "ja": "錠剤のような",
+                "zh": "药片状的",
+                "fr": "en forme de comprimé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tabl- (tablet)",
+                    "meaning": {
+                        "ko": "'작은 판'",
+                        "en": "small tablet",
+                        "ja": "小さい判型",
+                        "zh": "小开本",
+                        "fr": "petit format"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 '작은 판형의 알약'을 뜻하는 상표명이었으나, 지금은 '판형이 작고 선정적인 기사를 싣는 신문'인 '타블로이드 신문'을 뜻합니다.",
+                "en": "Originally a trademark for small tablet-shaped pills, now refers to tabloid newspapers with small page format and sensational articles.",
+                "ja": "元々は'小さい判型の錠剤'を意味する商標名でしたが、現在は'判型が小さく、扇情的な記事を掲載する新聞'を意味します。",
+                "zh": "最初是指小开本药片的商标名，现在指版面较小、登载耸人听闻文章的报纸。",
+                "fr": "Était à l'origine une marque déposée pour des petites pilules en comprimé, désigne maintenant les journaux à petit format avec des articles sensationnalistes."
+            },
+            "example": "Tabloid newspapers often focus on celebrity gossip.",
+            "translation": {
+                "ko": "타블로이드 신문은 종종 연예인 가십에 초점을 맞춘다.",
+                "ja": "タブロイド紙は著名人のゴシップに焦点を当てることが多い。",
+                "zh": "小报往往关注名人的八卦。",
+                "fr": "Les journaux à sensation se concentrent souvent sur les commérages des célébrités."
+            }
+        },
+        {
+            "word": "tableau",
+            "part_of_speech": "",
+            "origin": "French, tableau (a picture, a painting)",
+            "meaning": {
+                "ko": "그림",
+                "en": "picture",
+                "ja": "絵画、風景",
+                "zh": "画、景象",
+                "fr": "tableau, image"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tabl- (tabula)",
+                    "meaning": {
+                        "ko": "'판'",
+                        "en": "board",
+                        "ja": "板",
+                        "zh": "板",
+                        "fr": "planche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'판 위에 그린 그림'이라는 의미에서 '그림', '장관' 또는 배우들이 '정지된 상태로 보여주는 장면'을 뜻합니다.",
+                "en": "Originally meaning 'picture drawn on a board', now referring to a 'picture', 'spectacle', or 'frozen scene' performed by actors in a motionless state",
+                "ja": "板の上に描かれた絵という意味から、現在は絵画、光景、または役者が静止した状態で演じる場面を意味します",
+                "zh": "原意为在板上绘制的图画，现指绘画、景象或演员以静止状态表现的场景",
+                "fr": "Originalement 'image dessinée sur une planche', désigne maintenant une 'image', un 'spectacle' ou une 'scène figée' jouée par des acteurs immobiles"
+            },
+            "example": "The play ended with a dramatic tableau.",
+            "translation": {
+                "ko": "그 연극은 극적인 정지 장면으로 끝났다.",
+                "ja": "劇の終わりに劇的な絵画的場面がありました。",
+                "zh": "这部戏以一个戏剧性的景象结束。",
+                "fr": "La pièce s'est terminée par un tableau dramatique."
+            }
+        }
+    ]
+}

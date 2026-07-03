@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "ject (throw) eject, inject, project, reject, trajectory",
+        "origin": "Latin, jacere, jectus (to throw)",
+        "meaning": {
+            "ko": "던지다",
+            "en": "to throw",
+            "ja": "投げる",
+            "zh": "抛出",
+            "fr": "lancer"
+        }
+    },
+    "words": [
+        {
+            "word": "eject",
+            "part_of_speech": "",
+            "origin": "Latin, eicere (to throw out)",
+            "meaning": {
+                "ko": "밖으로 던지다",
+                "en": "to throw out",
+                "ja": "外に投げ出す",
+                "zh": "向外抛出",
+                "fr": "éjecter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "抛出",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 던져 내쫓다'는 의미에서 '쫓아내다', '꺼내다'라는 뜻입니다.",
+                "en": "Means to throw out or expel; to force out or remove",
+                "ja": "外に投げ出して追い出す、あるいは取り出すという意味です",
+                "zh": "意为向外抛出并驱赶出去，或取出的意思",
+                "fr": "Signifie expulser ou forcer à sortir; éloigner ou retirer"
+            },
+            "example": "The pilot had to eject from the damaged plane.",
+            "translation": {
+                "ko": "조종사는 손상된 비행기에서 탈출해야 했다.",
+                "ja": "パイロットは破損した飛行機から脱出しなければならなかった。",
+                "zh": "飞行员不得不从损坏的飞机中弹出。",
+                "fr": "Le pilote a dû s'éjecter de l'avion endommagé."
+            }
+        },
+        {
+            "word": "inject",
+            "part_of_speech": "",
+            "origin": "Latin, inicere (to throw in)",
+            "meaning": {
+                "ko": "안으로 던지다",
+                "en": "to throw inward",
+                "ja": "注射する",
+                "zh": "注射",
+                "fr": "injecter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "投掷",
+                        "fr": "lancer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'액체를 몸 안으로 던져 넣다'는 의미에서 '주사하다', '주입하다'라는 뜻입니다.",
+                "en": "Injection means to throw liquid into the body",
+                "ja": "液体を体の中に投げ入れることを意味します",
+                "zh": "表示将液体投入体内的意思",
+                "fr": "signifie projeter un liquide dans le corps"
+            },
+            "example": "The doctor injected the patient with an antibiotic.",
+            "translation": {
+                "ko": "의사는 환자에게 항생제를 주사했다.",
+                "ja": "医者は患者に抗生物質を注射した。",
+                "zh": "医生给患者注射了抗生素。",
+                "fr": "Le médecin a injecté un antibiotique au patient."
+            }
+        },
+        {
+            "word": "project",
+            "part_of_speech": "",
+            "origin": "Latin, proicere (to throw forward)",
+            "meaning": {
+                "ko": "앞으로 던지다",
+                "en": "to throw forward",
+                "ja": "前に投げる",
+                "zh": "向前投掷",
+                "fr": "projeter en avant"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞으로'",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "投掷",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛이나 영상을 앞으로 던지다'는 의미에서 '투영하다', '계획하다'라는 뜻이 되었습니다. 명사로는 '계획', '과제'를 뜻합니다.",
+                "en": "Originally meant 'to throw light or images forward', evolved to mean 'to project' or 'to plan'. As a noun, it means 'plan' or 'task'.",
+                "ja": "光や映像を前に投げるという意味から、『投影する』『計画する』という意味に発展しました。名詞では『計画』『課題』を意味します。",
+                "zh": "原意为'向前投掷光线或影像'，后演变为'投影'和'计划'的含义。作为名词，表示'计划'或'任务'。",
+                "fr": "Sens originel : projeter la lumière ou les images vers l'avant, devenu 'projeter' ou 'planifier'. En tant que nom, signifie 'plan' ou 'tâche'."
+            },
+            "example": "The company is working on a new project.",
+            "translation": {
+                "ko": "그 회사는 새로운 프로젝트를 진행하고 있다.",
+                "ja": "その企業は新しいプロジェクトに取り組んでいます。",
+                "zh": "这家公司正在进行一个新项目。",
+                "fr": "L'entreprise travaille sur un nouveau projet."
+            }
+        },
+        {
+            "word": "reject",
+            "part_of_speech": "",
+            "origin": "Latin, reicere (to throw back)",
+            "meaning": {
+                "ko": "뒤로 던지다",
+                "en": "to throw backward",
+                "ja": "後ろに投げ返す",
+                "zh": "向后扔出",
+                "fr": "rejeter en arrière"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤로'",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "扔",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'받지 않고 뒤로 던져버리다'는 의미에서 '거절하다', '거부하다'라는 뜻입니다.",
+                "en": "Means to refuse or deny by throwing back; to reject or refuse",
+                "ja": "受け入れずに後ろに投げ返す意味から、拒否する、断るという意味です",
+                "zh": "从不接受并向后扔出的意思，表示拒绝或否认",
+                "fr": "Signifie refuser ou repousser en jetant en arrière; rejeter ou refuser"
+            },
+            "example": "He rejected her offer of help.",
+            "translation": {
+                "ko": "그는 그녀의 도움 제안을 거절했다.",
+                "ja": "彼は彼女の援助の申し出を拒否した。",
+                "zh": "他拒绝了她的帮助提议。",
+                "fr": "Il a rejeté son offre d'aide."
+            }
+        },
+        {
+            "word": "trajectory",
+            "part_of_speech": "",
+            "origin": "Latin, traicere (to throw across)",
+            "meaning": {
+                "ko": "가로질러 던지다",
+                "en": "to throw across",
+                "ja": "飛行経路、弾道",
+                "zh": "飞行路径、弹道",
+                "fr": "trajectoire, arc de vol"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tra- (trans-)",
+                    "meaning": {
+                        "ko": "'가로질러'",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横跨、穿过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ject",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "抛掷",
+                        "fr": "lancer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'던져진 물체가 날아가는 경로'인 '궤도', '탄도'를 뜻합니다.",
+                "en": "Refers to the path or trajectory that a thrown object travels through the air",
+                "ja": "投げられた物体が空を飛ぶ経路、軌道を意味します",
+                "zh": "指被抛出物体在空中飞行的路径、轨迹",
+                "fr": "Désigne la trajectoire ou le chemin suivi par un objet lancé"
+            },
+            "example": "The trajectory of the missile was calculated.",
+            "translation": {
+                "ko": "미사일의 탄도가 계산되었다.",
+                "ja": "ミサイルの弾道が計算された。",
+                "zh": "导弹的飞行轨迹被计算出来了。",
+                "fr": "La trajectoire du missile a été calculée."
+            }
+        }
+    ]
+}

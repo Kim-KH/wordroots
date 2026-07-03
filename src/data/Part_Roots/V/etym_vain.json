@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "vain (empty) vainglorious, vanity, vanish",
+        "origin": "Latin, vanus (empty, vain)",
+        "meaning": {
+            "ko": "텅 빈",
+            "en": "empty",
+            "ja": "空の",
+            "zh": "空的",
+            "fr": "vide"
+        }
+    },
+    "words": [
+        {
+            "word": "vainglorious",
+            "part_of_speech": "",
+            "origin": "Latin, vanus (vain) + gloriosus (glorious)",
+            "meaning": {
+                "ko": "헛된 영광",
+                "en": "empty or hollow glory",
+                "ja": "空虚な栄光を求める",
+                "zh": "虚伪的荣耀",
+                "fr": "gloire vaine et creuse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vain",
+                    "meaning": {
+                        "ko": "'헛된'",
+                        "en": "empty",
+                        "ja": "空虚な",
+                        "zh": "空虚的",
+                        "fr": "vide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "glorious",
+                    "meaning": {
+                        "ko": "'영광스러운'",
+                        "en": "glorious",
+                        "ja": "栄光的な",
+                        "zh": "荣耀的",
+                        "fr": "glorieux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'속은 텅 비어 있으면서 헛된 영광을 좇는'이라는 의미에서 '자만심이 강한', '허영심이 강한'이라는 뜻입니다.",
+                "en": "Describes someone who seeks empty glory despite lacking substance, meaning arrogant and conceited",
+                "ja": "内面が空虚でありながら虚栄心を追い求める意味から、自惚れが強い、見栄っ張りという意味です",
+                "zh": "指内心空虚而追求虚荣，意为自大、爱慕虚荣",
+                "fr": "Décrit quelqu'un qui poursuit une gloire vide et creuse, signifiant arrogant et vaniteux"
+            },
+            "example": "He is a vainglorious and arrogant man.",
+            "translation": {
+                "ko": "그는 자만심이 강하고 거만한 남자이다.",
+                "ja": "彼は虚栄心が強く傲慢な男だ",
+                "zh": "他是一个虚荣自大又傲慢的人",
+                "fr": "C'est un homme vaniteux et arrogant"
+            }
+        },
+        {
+            "word": "vanity",
+            "part_of_speech": "",
+            "origin": "Latin, vanitas (emptiness, falsity)",
+            "meaning": {
+                "ko": "공허함",
+                "en": "emptiness",
+                "ja": "うぬぼれ、虚栄心",
+                "zh": "虚荣心、自负",
+                "fr": "vanité, orgueil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "van- (vanus)",
+                    "meaning": {
+                        "ko": "'텅 빈'",
+                        "en": "empty",
+                        "ja": "空っぽの",
+                        "zh": "空洞的、空虚的",
+                        "fr": "vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'속이 텅 빈'이라는 의미에서 '허영심', '자만심'을 뜻합니다.",
+                "en": "From the sense of being hollow inside, meaning excessive pride or conceit",
+                "ja": "内部が空っぽという意味から、過度な誇りや自惚れを示します",
+                "zh": "从内部空洞的意义引申，表示过度的自豪感或自负",
+                "fr": "Du sens d'être creux intérieurement, signifiant l'orgueil excessif ou la vanité"
+            },
+            "example": "His vanity was wounded by her criticism.",
+            "translation": {
+                "ko": "그의 자존심은 그녀의 비판에 상처받았다.",
+                "ja": "彼の虚栄心は彼女の批判によって傷つけられました。",
+                "zh": "他的虚荣心被她的批评伤害了。",
+                "fr": "Son vanité a été blessée par sa critique."
+            }
+        },
+        {
+            "word": "vanish",
+            "part_of_speech": "",
+            "origin": "Latin, evanescere (to disappear)",
+            "meaning": {
+                "ko": "사라지다",
+                "en": "to disappear",
+                "ja": "消える",
+                "zh": "消失",
+                "fr": "disparaître"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "van- (vanus)",
+                    "meaning": {
+                        "ko": "'텅 빈'",
+                        "en": "empty",
+                        "ja": "空っぽの",
+                        "zh": "空的",
+                        "fr": "vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'텅 비어 없어지다'는 의미에서 '사라지다'는 뜻입니다.",
+                "en": "Means 'to disappear' from the sense of 'becoming empty and gone'",
+                "ja": "空っぽになって消えるという意味から「消える」という意味です",
+                "zh": "从「变空而消失」的意义衍生出「消失」的含义",
+                "fr": "Signifie 'disparaître' du sens de 'devenir vide et s'en aller'"
+            },
+            "example": "The magician made the rabbit vanish into thin air.",
+            "translation": {
+                "ko": "마술사는 토끼를 허공으로 사라지게 만들었다.",
+                "ja": "マジシャンはウサギを空気中に消した。",
+                "zh": "魔术师让兔子在空气中消失了。",
+                "fr": "Le magicien a fait disparaître le lapin dans les airs."
+            }
+        }
+    ]
+}

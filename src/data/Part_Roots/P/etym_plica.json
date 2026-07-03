@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "plica (fold) pliant, compliant, complicate, replicate",
+        "origin": "Latin, plicare (to fold)",
+        "meaning": {
+            "ko": "접다",
+            "en": "to fold",
+            "ja": "折る",
+            "zh": "折叠",
+            "fr": "plier"
+        }
+    },
+    "words": [
+        {
+            "word": "pliant",
+            "part_of_speech": "",
+            "origin": "Latin, plicare (to fold)",
+            "meaning": {
+                "ko": "접다",
+                "en": "to fold or bend",
+                "ja": "柔軟な、順応的な",
+                "zh": "柔韧的、容易弯曲的",
+                "fr": "flexible, adaptable"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pli-",
+                    "meaning": {
+                        "ko": "'접다, 구부리다'",
+                        "en": "to bend",
+                        "ja": "曲げる、折る",
+                        "zh": "弯曲、折叠",
+                        "fr": "plier, courber"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘 접히거나 구부러지는'이라는 의미에서 '유연한', '순응적인'이라는 뜻입니다.",
+                "en": "From the sense of 'easily bent or folded' derives the meaning 'flexible' or 'compliant'",
+                "ja": "よく折れたり曲がったりする意味から、柔軟で順応的という意味が生まれました。",
+                "zh": "从易于折叠或弯曲的含义引申出灵活、顺从的意思。",
+                "fr": "Du sens de 'facilement plié ou courbé' dérive le sens 'flexible' ou 'docile'."
+            },
+            "example": "She has a pliant and adaptable personality.",
+            "translation": {
+                "ko": "그녀는 유순하고 적응력이 좋은 성격을 가지고 있다.",
+                "ja": "彼女は柔軟で適応性の高い性格を持っています。",
+                "zh": "她性格柔韧，适应能力强。",
+                "fr": "Elle a une personnalité flexible et adaptable."
+            }
+        },
+        {
+            "word": "compliant",
+            "part_of_speech": "",
+            "origin": "Latin, complere (to fill up)",
+            "meaning": {
+                "ko": "가득 채우다",
+                "en": "to fill completely",
+                "ja": "従う、応じる",
+                "zh": "顺从、遵守",
+                "fr": "conforme, obéissant"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に、共に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble, avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pli-",
+                    "meaning": {
+                        "ko": "'채우다, 따르다'",
+                        "en": "to fill, follow",
+                        "ja": "満たす、従う",
+                        "zh": "填充、遵循",
+                        "fr": "remplir, suivre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람의 요구를 잘 채워준다'는 의미에서 '순응하는', '따르는'이라는 뜻입니다.",
+                "en": "Means complying with others' demands; conforming or following rules and requirements",
+                "ja": "他者の要求をよく満たす意味で、規則や要件に従う、応じるという意味",
+                "zh": "指很好地满足他人的要求，符合规则和要求的意思",
+                "fr": "Signifie se conformer aux demandes d'autrui; respecter les règles et exigences"
+            },
+            "example": "The company is compliant with all safety regulations.",
+            "translation": {
+                "ko": "그 회사는 모든 안전 규정을 준수한다.",
+                "ja": "その企業は全ての安全規制に従っている",
+                "zh": "该公司遵守所有安全规定",
+                "fr": "L'entreprise est conforme à tous les règlements de sécurité"
+            }
+        },
+        {
+            "word": "complicate",
+            "part_of_speech": "",
+            "origin": "Latin, complicare (to fold together)",
+            "meaning": {
+                "ko": "함께 접다",
+                "en": "to fold together",
+                "ja": "複雑にする",
+                "zh": "使复杂化",
+                "fr": "compliquer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plic-",
+                    "meaning": {
+                        "ko": "'접다'",
+                        "en": "together",
+                        "ja": "折る",
+                        "zh": "折叠",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 가지를 함께 접어 놓아 풀기 어렵게 만들다'는 의미에서 '복잡하게 만들다'라는 뜻입니다.",
+                "en": "Folding multiple things together makes it difficult to unfold, hence meaning to make complicated",
+                "ja": "複数のものを一緒に折ることで解きほぐすことが難しくなることから、複雑にするという意味です",
+                "zh": "将多个事物折叠在一起使其难以展开，因此表示使事物变得复杂",
+                "fr": "Plier plusieurs choses ensemble les rend difficiles à déplier, d'où le sens de compliquer"
+            },
+            "example": "Don't complicate the situation.",
+            "translation": {
+                "ko": "상황을 복잡하게 만들지 마세요.",
+                "ja": "状況を複雑にしないでください",
+                "zh": "不要使情况复杂化",
+                "fr": "Ne compliquez pas la situation"
+            }
+        },
+        {
+            "word": "replicate",
+            "part_of_speech": "",
+            "origin": "Latin, replicare (to fold back, to repeat)",
+            "meaning": {
+                "ko": "뒤로 접다, 반복하다",
+                "en": "to fold back, to repeat",
+                "ja": "再現する、複製する",
+                "zh": "复制、再现",
+                "fr": "reproduire, dupliquer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "再び、もう一度",
+                        "zh": "再次、又一次",
+                        "fr": "de nouveau, encore"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plic-",
+                    "meaning": {
+                        "ko": "'접다'",
+                        "en": "to fold",
+                        "ja": "折る、たたむ",
+                        "zh": "折叠、弯曲",
+                        "fr": "plier, replier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래의 것을 다시 접어 똑같이 만들다'는 의미에서 '복제하다', '모사하다'라는 뜻입니다.",
+                "en": "Means 'to replicate' or 'to copy' from the idea of folding back the original to create an identical copy.",
+                "ja": "元のものを再び折って同じように作るという意味から、複製する、模倣するという意味です。",
+                "zh": "从将原物再次折叠以创建相同副本的想法中，表示复制或模仿的意思。",
+                "fr": "Signifie 'reproduire' ou 'copier' à partir de l'idée de replier l'original pour créer une copie identique."
+            },
+            "example": "Scientists are trying to replicate the experiment.",
+            "translation": {
+                "ko": "과학자들은 그 실험을 재현하려고 노력하고 있다.",
+                "ja": "科学者たちはその実験を再現しようとしています。",
+                "zh": "科学家们正在尝试重复这个实验。",
+                "fr": "Les scientifiques essaient de reproduire l'expérience."
+            }
+        }
+    ]
+}

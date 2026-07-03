@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "suppos (put under) presuppose, suppose, supposition, suppository",
+        "origin": "Latin, supponere (to put under, to substitute)",
+        "meaning": {
+            "ko": "아래에 놓다",
+            "en": "to put under",
+            "ja": "下に置く",
+            "zh": "放在下面",
+            "fr": "mettre sous"
+        }
+    },
+    "words": [
+        {
+            "word": "presuppose",
+            "part_of_speech": "",
+            "origin": "Latin, prae- (before) + supponere (to suppose)",
+            "meaning": {
+                "ko": "미리 가정하다",
+                "en": "to assume beforehand",
+                "ja": "予め仮定する",
+                "zh": "预先假设",
+                "fr": "présupposer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "'미리'",
+                        "en": "before",
+                        "ja": "前もって",
+                        "zh": "提前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suppose",
+                    "meaning": {
+                        "ko": "'가정하다'",
+                        "en": "to assume or posit",
+                        "ja": "仮定する",
+                        "zh": "假设",
+                        "fr": "supposer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것을 미리 사실이라고 가정하다'는 의미에서 '전제로 삼다'라는 뜻입니다.",
+                "en": "To assume something as fact beforehand; to presume as a prerequisite",
+                "ja": "あることを事実として予め仮定すること；前提とすること",
+                "zh": "预先将某事视为事实；作为前提条件",
+                "fr": "Supposer quelque chose comme fait au préalable; présumer comme prérequis"
+            },
+            "example": "The theory presupposes that everyone is rational.",
+            "translation": {
+                "ko": "그 이론은 모든 사람이 이성적이라는 것을 전제로 한다.",
+                "ja": "その理論は誰もが合理的であることを前提としている。",
+                "zh": "该理论预先假设了每个人都是理性的。",
+                "fr": "La théorie présuppose que tout le monde est rationnel."
+            }
+        },
+        {
+            "word": "suppose",
+            "part_of_speech": "",
+            "origin": "Latin, supponere (to put under)",
+            "meaning": {
+                "ko": "아래에 놓다",
+                "en": "to place below",
+                "ja": "仮定する、推測する",
+                "zh": "假设、推测",
+                "fr": "supposer, présumer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sup- (sub-)",
+                    "meaning": {
+                        "ko": "'아래에'",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pose",
+                    "meaning": {
+                        "ko": "'놓다'",
+                        "en": "to put",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "mettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 생각의 기초로 아래에 놓다'는 의미에서 '가정하다', '추측하다'라는 뜻이 되었습니다.",
+                "en": "Originally meant 'to put under', evolved to mean 'to assume as a basis for thought', then 'to assume', 'to guess'",
+                "ja": "元々は'下に置く'の意味だったが、思考の基礎として下に置くという意味から'仮定する'、'推測する'という意味に発展しました",
+                "zh": "原意为'放在下面'，从'作为思想基础而放在下面'的含义演变为'假设'、'推测'的意思",
+                "fr": "Signifiait à l'origine 'mettre dessous', évoluant vers 'supposer comme fondement de la pensée', puis 'supposer', 'deviner'"
+            },
+            "example": "I suppose you are right.",
+            "translation": {
+                "ko": "나는 당신이 옳다고 생각한다.",
+                "ja": "あなたが正しいと思います。",
+                "zh": "我想你是对的。",
+                "fr": "Je suppose que vous avez raison."
+            }
+        },
+        {
+            "word": "supposition",
+            "part_of_speech": "",
+            "origin": "Latin, suppositio (a placing under)",
+            "meaning": {
+                "ko": "아래에 놓기",
+                "en": "to place below",
+                "ja": "仮定、推測",
+                "zh": "假设、推测",
+                "fr": "supposition, conjecture"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suppos-",
+                    "meaning": {
+                        "ko": "'아래에 놓다'",
+                        "en": "to put under",
+                        "ja": "下に置く",
+                        "zh": "放在下面",
+                        "fr": "placer sous"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'증거 없이 사실이라고 생각하는' '가정', '추정'을 뜻합니다.",
+                "en": "Means an assumption or conjecture believed to be true without evidence",
+                "ja": "証拠なしに事実だと考える仮定、推測を意味する",
+                "zh": "指无证据地认为某事是真实的假设或推测",
+                "fr": "Signifie une hypothèse ou conjecture considérée comme vraie sans preuve"
+            },
+            "example": "The report is based on supposition, not on fact.",
+            "translation": {
+                "ko": "그 보고서는 사실이 아닌 추정에 근거하고 있다.",
+                "ja": "レポートは事実ではなく推測に基づいている。",
+                "zh": "该报告基于推测而非事实。",
+                "fr": "Le rapport est basé sur la supposition, non sur le fait."
+            }
+        },
+        {
+            "word": "suppository",
+            "part_of_speech": "",
+            "origin": "Latin, suppositorium",
+            "meaning": {
+                "ko": "아래에 놓는 것",
+                "en": "thing placed below",
+                "ja": "下に置くもの",
+                "zh": "放在下面的东西",
+                "fr": "chose placée dessous"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suppos-",
+                    "meaning": {
+                        "ko": "'아래에 놓다'",
+                        "en": "to put under",
+                        "ja": "下に置く",
+                        "zh": "放在下面",
+                        "fr": "placer dessous"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'체내에 넣어 약효를 발휘하게 하는' 약인 '좌약'을 뜻합니다.",
+                "en": "A suppository is a form of medication that is inserted into the rectum.",
+                "ja": "体内に挿入して薬効を発揮させる薬剤である坐薬を意味します",
+                "zh": "指插入体内以发挥药效的栓剂药物",
+                "fr": "Désigne un médicament en forme de suppositoire inséré dans le rectum"
+            },
+            "example": "A suppository is a form of medication that is inserted into the rectum.",
+            "translation": {
+                "ko": "좌약은 직장에 삽입하는 약의 한 형태이다.",
+                "ja": "坐薬",
+                "zh": "栓剂",
+                "fr": "suppositoire"
+            }
+        }
+    ]
+}

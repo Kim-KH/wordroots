@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "phyll (leaf) chlorophyll, phyllode, phyllotaxy",
+        "origin": "Greek, phyllon (leaf)",
+        "meaning": {
+            "ko": "잎",
+            "en": "leaf",
+            "ja": "葉",
+            "zh": "叶",
+            "fr": "feuille"
+        }
+    },
+    "words": [
+        {
+            "word": "chlorophyll",
+            "part_of_speech": "",
+            "origin": "Greek, khloros (green) + phyllon (leaf)",
+            "meaning": {
+                "ko": "녹색 잎",
+                "en": "green leaf",
+                "ja": "緑色の葉",
+                "zh": "绿色叶子",
+                "fr": "feuille verte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chloro-",
+                    "meaning": {
+                        "ko": "'녹색'",
+                        "en": "green",
+                        "ja": "緑色",
+                        "zh": "绿色",
+                        "fr": "vert"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyll",
+                    "meaning": {
+                        "ko": "'잎'",
+                        "en": "leaf",
+                        "ja": "葉",
+                        "zh": "叶子",
+                        "fr": "feuille"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잎을 녹색으로 만드는 색소'인 '엽록소'를 뜻합니다.",
+                "en": "Chlorophyll refers to 'chlorophyll' (葉緑素), a pigment that colors leaves green.",
+                "ja": "葉緑素とは、葉を緑色にする色素を意味します。",
+                "zh": "叶绿素是指使叶子呈绿色的色素。",
+                "fr": "La chlorophylle désigne le pigment qui colore les feuilles en vert."
+            },
+            "example": "Chlorophyll is essential for photosynthesis.",
+            "translation": {
+                "ko": "엽록소는 광합성에 필수적이다.",
+                "ja": "光合成に不可欠な葉緑素です。",
+                "zh": "叶绿素对光合作用至关重要。",
+                "fr": "La chlorophylle est essentielle à la photosynthèse."
+            }
+        },
+        {
+            "word": "phyllode",
+            "part_of_speech": "",
+            "origin": "Greek, phyllon (leaf) + -oeides (form)",
+            "meaning": {
+                "ko": "잎 형태",
+                "en": "leaf-like structure",
+                "ja": "葉状体",
+                "zh": "叶状体",
+                "fr": "phyIlode"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyll-",
+                    "meaning": {
+                        "ko": "'잎'",
+                        "en": "leaf",
+                        "ja": "葉",
+                        "zh": "叶",
+                        "fr": "feuille"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ode",
+                    "meaning": {
+                        "ko": "'~같은 것'",
+                        "en": "resembling or like",
+                        "ja": "～のような物",
+                        "zh": "～样的东西",
+                        "fr": "chose ressemblant à ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잎처럼 생겼지만 실제로는 잎이 아닌 잎자루나 줄기'인 '엽상체'를 뜻합니다.",
+                "en": "A structure that resembles a leaf but is actually a petiole or stem, not a true leaf",
+                "ja": "葉のように見えるが実際には葉脈や茎である葉状体を意味します",
+                "zh": "看起来像叶子但实际上是叶柄或茎的叶状体",
+                "fr": "Structure ressemblant à une feuille mais qui est en réalité un pétiole ou une tige"
+            },
+            "example": "Some acacia species have phyllodes instead of true leaves.",
+            "translation": {
+                "ko": "일부 아카시아 종은 진짜 잎 대신 엽상체를 가지고 있다.",
+                "ja": "アカシアなどの種は真の葉の代わりに葉状体を持つ",
+                "zh": "某些金合欢种类有叶状体而不是真正的叶子",
+                "fr": "Certaines espèces d'acacias ont des phyllodes au lieu de véritables feuilles"
+            }
+        },
+        {
+            "word": "phyllotaxy",
+            "part_of_speech": "",
+            "origin": "Greek, phyllon (leaf) + taxis (arrangement)",
+            "meaning": {
+                "ko": "잎 배열",
+                "en": "arrangement of leaves",
+                "ja": "葉序",
+                "zh": "叶序",
+                "fr": "phyllotaxie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyllo-",
+                    "meaning": {
+                        "ko": "'잎'",
+                        "en": "leaf",
+                        "ja": "葉",
+                        "zh": "叶",
+                        "fr": "feuille"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "taxy",
+                    "meaning": {
+                        "ko": "'배열'",
+                        "en": "arrangement",
+                        "ja": "配列",
+                        "zh": "排列",
+                        "fr": "arrangement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물의 줄기에 잎이 배열되는 방식'인 '잎차례', '엽서(葉序)'를 뜻합니다.",
+                "en": "The arrangement pattern of leaves on a plant stem, also called leaf order or phyllotaxis.",
+                "ja": "植物の茎に葉が配列される方式を意味します。",
+                "zh": "植物茎上叶片排列的方式。",
+                "fr": "La façon dont les feuilles sont disposées sur la tige d'une plante."
+            },
+            "example": "Phyllotaxy is often described by a fraction.",
+            "translation": {
+                "ko": "잎차례는 종종 분수로 설명된다.",
+                "ja": "葉序はしばしば分数で説明されます。",
+                "zh": "叶序通常用分数来描述。",
+                "fr": "La phyllotaxie est souvent décrite par une fraction."
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "naut (ship, sailor) astronaut, nautical, nausea",
+        "origin": "Greek, nautes (sailor)",
+        "meaning": {
+            "ko": "선원",
+            "en": "sailor",
+            "ja": "船乗り",
+            "zh": "水手",
+            "fr": "marin"
+        }
+    },
+    "words": [
+        {
+            "word": "astronaut",
+            "part_of_speech": "",
+            "origin": "Greek, astron (star) + nautes (sailor)",
+            "meaning": {
+                "ko": "별 항해사",
+                "en": "star navigator",
+                "ja": "宇宙飛行士",
+                "zh": "宇航员",
+                "fr": "astronaute"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "astro-",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "星",
+                        "fr": "étoile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "naut",
+                    "meaning": {
+                        "ko": "'항해사'",
+                        "en": "sailor",
+                        "ja": "船乗り",
+                        "zh": "航海者",
+                        "fr": "marin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별 사이를 항해하는 사람'이라는 의미에서 '우주비행사'를 뜻합니다.",
+                "en": "Meaning a person who navigates between stars, referring to a space explorer.",
+                "ja": "星の間を航海する人という意味で、宇宙飛行士を指します。",
+                "zh": "意为在星辰之间航行的人，指太空探险家。",
+                "fr": "Signifiant une personne naviguant entre les étoiles, désignant un explorateur spatial."
+            },
+            "example": "Neil Armstrong was the first astronaut to walk on the moon.",
+            "translation": {
+                "ko": "닐 암스트롱은 달 위를 걸은 최초의 우주비행사였다.",
+                "ja": "ニール・アームストロングは月を歩いた最初の宇宙飛行士でした。",
+                "zh": "尼尔·阿姆斯特朗是第一个在月球上行走的宇航员。",
+                "fr": "Neil Armstrong était le premier astronaute à marcher sur la lune."
+            }
+        },
+        {
+            "word": "nautical",
+            "part_of_speech": "",
+            "origin": "Greek, nautikos (naval, of a ship)",
+            "meaning": {
+                "ko": "해군의, 배의",
+                "en": "of the navy or ships",
+                "ja": "船舶の、航海の",
+                "zh": "航海的、船的",
+                "fr": "nautique, maritime"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "naut-",
+                    "meaning": {
+                        "ko": "'선원, 배'",
+                        "en": "sailor, ship",
+                        "ja": "船員、船",
+                        "zh": "水手、船",
+                        "fr": "marin, navire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'배나 항해와 관련된'이라는 의미에서 '항해의', '선박의'라는 뜻입니다.",
+                "en": "Relating to ships or navigation",
+                "ja": "船や航海に関連する意味で、航海の、船舶の",
+                "zh": "与船舶或航海相关的含义，即航海的、船舶的",
+                "fr": "Relatif aux navires ou à la navigation; signifie nautique, maritime"
+            },
+            "example": "A nautical mile is a unit of measurement used in navigation.",
+            "translation": {
+                "ko": "해리는 항해에 사용되는 측정 단위이다.",
+                "ja": "航海マイルは航法で使用される測定単位です。",
+                "zh": "海里是在航海中使用的测量单位。",
+                "fr": "Un mille nautique est une unité de mesure utilisée en navigation."
+            }
+        },
+        {
+            "word": "nausea",
+            "part_of_speech": "",
+            "origin": "Greek, nausia (seasickness)",
+            "meaning": {
+                "ko": "뱃멀미",
+                "en": "seasickness",
+                "ja": "吐き気",
+                "zh": "恶心",
+                "fr": "nausée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nau- (naus 'ship')",
+                    "meaning": {
+                        "ko": "'배'",
+                        "en": "ship",
+                        "ja": "船",
+                        "zh": "船",
+                        "fr": "navire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'배를 탔을 때 느끼는 울렁거림'인 '뱃멀미'에서 유래하여, '메스꺼움'을 뜻하게 되었습니다.",
+                "en": "Derived from seasickness felt on ships, came to mean nausea in general",
+                "ja": "船に乗った時に感じる気分の悪さの'船酔い'から派生し、一般的な'吐き気'を意味するようになりました",
+                "zh": "源自在船上感受到的晕船，后来演变为泛指'恶心'的意思",
+                "fr": "Dérivé du mal de mer ressenti en bateau, est devenu signifier nausée en général"
+            },
+            "example": "The bumpy ride caused her to feel nausea.",
+            "translation": {
+                "ko": "덜컹거리는 차를 타서 그녀는 메스꺼움을 느꼈다.",
+                "ja": "でこぼこした乗車が彼女に吐き気を感じさせました。",
+                "zh": "颠簸的车程使她感到恶心。",
+                "fr": "Le trajet cahoteuse lui a causé une nausée."
+            }
+        }
+    ]
+}

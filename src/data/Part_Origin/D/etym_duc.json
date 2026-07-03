@@ -1,0 +1,393 @@
+{
+    "root_info": {
+        "roots": "duc, duct",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "이끌다, 끌다",
+            "en": "to lead, pull",
+            "ja": "導く、引く",
+            "zh": "引导、拉",
+            "fr": "conduire, tirer"
+        }
+    },
+    "words": [
+        {
+            "word": "produce",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duce",
+                    "meaning": {
+                        "ko": "이끌다",
+                        "en": "to lead",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 이끌어내어 보이게 하다'는 의미에서 '생산하다', '만들어내다'는 뜻을 가집니다.",
+                "en": "From the sense of 'bringing forward and making visible': to manufacture, to create",
+                "ja": "「前へ導き出して見せる」という意味から、「生産する」「作り出す」という意味を持ちます。",
+                "zh": "从\"向前引导并展示\"的含义引申为\"生产\"、\"制造\"的意思。",
+                "fr": "Du sens de 'faire avancer et rendre visible': fabriquer, créer"
+            },
+            "example": "This farm produces organic vegetables.",
+            "translation": {
+                "ko": "이 농장은 유기농 채소를 생산한다.",
+                "ja": "この農場は有機野菜を生産している。",
+                "zh": "这个农场生产有机蔬菜。",
+                "fr": "Cette ferme produit des légumes biologiques."
+            }
+        },
+        {
+            "word": "abduct",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ab-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duct",
+                    "meaning": {
+                        "ko": "이끌다",
+                        "en": "to lead",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "사람을 '멀리 다른 곳으로 강제로 이끌고 가다'는 의미에서 '유괴하다', '납치하다'는 뜻이 되었습니다.",
+                "en": "From the meaning 'to forcibly lead away to a distant place', it came to mean 'to kidnap' or 'to abduct'.",
+                "ja": "「人を遠く別の場所へ強制的に連れ去る」という意味から、「誘拐する」という意味になりました。",
+                "zh": "从\"强行将人带到远处\"的意思演变为\"绑架\"、\"拐骗\"的含义。",
+                "fr": "Du sens de « forcer quelqu'un à partir vers un lieu éloigné », il est devenu synonyme de « enlever » ou « kidnapper »."
+            },
+            "example": "They attempted to abduct the child.",
+            "translation": {
+                "ko": "그들은 그 아이를 유괴하려고 시도했다.",
+                "ja": "彼らはその子どもを誘拐しようとした。",
+                "zh": "他们试图绑架那个孩子。",
+                "fr": "Ils ont tenté d'enlever l'enfant."
+            }
+        },
+        {
+            "word": "product",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duct",
+                    "meaning": {
+                        "ko": "이끌어 낸 것",
+                        "en": "led",
+                        "ja": "導き出したもの",
+                        "zh": "引导出来的",
+                        "fr": "ce qui a été conduit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'만들어서 내놓은 것'이라는 의미에서 '제품', '생산물'을 뜻합니다.",
+                "en": "Means 'product' or 'manufactured good' from the sense of 'something made and brought forth'",
+                "ja": "'作られて生み出されたもの'という意味から、'製品'、'産出物'を意味します。",
+                "zh": "从'制造并推出的东西'的含义引申为'产品'、'生产物'。",
+                "fr": "Du sens de 'quelque chose de fabriqué et mis en avant', signifie 'produit' ou 'bien manufacturé'."
+            },
+            "example": "This is our newest product.",
+            "translation": {
+                "ko": "이것은 우리의 최신 제품입니다.",
+                "ja": "これは私たちの最新の製品です。",
+                "zh": "这是我们最新的产品。",
+                "fr": "C'est notre produit le plus récent."
+            }
+        },
+        {
+            "word": "viaduct",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "via",
+                    "meaning": {
+                        "ko": "길",
+                        "en": "way",
+                        "ja": "道",
+                        "zh": "道路",
+                        "fr": "voie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duct",
+                    "meaning": {
+                        "ko": "이끄는 것",
+                        "en": "leading",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduisant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "계곡이나 도로 위를 '지나가는 길'이라는 의미에서 '고가 도로', '육교'를 뜻합니다.",
+                "en": "From the sense of 'path passing over' a valley or road, meaning an elevated roadway or overpass.",
+                "ja": "谷や道路の上を『通る道』という意味から、『高架道路』『陸橋』を意味します。",
+                "zh": "从'通过谷地或道路的路径'之意，表示'高架道路'或'立体交叉桥'。",
+                "fr": "Du sens de 'chemin passant au-dessus' d'une vallée ou d'une route, signifiant route surélevée ou passerelle."
+            },
+            "example": "A new viaduct was built over the valley.",
+            "translation": {
+                "ko": "그 계곡 위로 새로운 고가 도로가 건설되었다.",
+                "ja": "新しい高架道路がその渓谷上に建設された。",
+                "zh": "一条新的高架道路在山谷上建成了。",
+                "fr": "Un nouveau viaduc a été construit au-dessus de la vallée."
+            }
+        },
+        {
+            "word": "aqueduct",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aque",
+                    "meaning": {
+                        "ko": "물",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duct",
+                    "meaning": {
+                        "ko": "이끄는 통로",
+                        "en": "channel",
+                        "ja": "導く通路",
+                        "zh": "引导的通道",
+                        "fr": "canal de conduite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물을 이끄는 길'이라는 의미로, 고대 로마에서 만든 '수로'가 대표적인 예입니다.",
+                "en": "A structure meaning 'water channel,' with ancient Roman aqueducts as prime examples.",
+                "ja": "「水を導く道」という意味で、古代ローマで建設された水路が代表的な例です。",
+                "zh": "意为「引导水的通道」，古罗马建造的渡槽是典型例子。",
+                "fr": "Structure signifiant « canal d'eau », dont les aqueducs romains antiques sont des exemples remarquables."
+            },
+            "example": "The Romans built impressive aqueducts.",
+            "translation": {
+                "ko": "로마인들은 인상적인 수로를 건설했다.",
+                "ja": "ローマ人は印象的な水路を建設した。",
+                "zh": "罗马人建造了令人印象深刻的渡槽。",
+                "fr": "Les Romains ont construit des aqueducs impressionnants."
+            }
+        },
+        {
+            "word": "induct",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duct",
+                    "meaning": {
+                        "ko": "이끌다",
+                        "en": "to lead",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "조직 '안으로 이끌어 들이다'는 의미에서 '취임시키다', 군대에 '입대시키다'는 뜻입니다.",
+                "en": "To lead into an organization; to enlist into the military",
+                "ja": "組織の中へ導く意味から、就任させる、または軍隊に入隊させるという意味です",
+                "zh": "从'引导进入组织内'的含义引申，表示使某人就职或征兵入伍",
+                "fr": "Du sens de 'conduire dans une organisation', signifie introniser ou enrôler dans l'armée"
+            },
+            "example": "He was inducted into the army.",
+            "translation": {
+                "ko": "그는 군에 입대했다.",
+                "ja": "彼は軍隊に入隊させられた。",
+                "zh": "他被征入军队。",
+                "fr": "Il a été enrôlé dans l'armée."
+            }
+        },
+        {
+            "word": "deduct",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duct",
+                    "meaning": {
+                        "ko": "이끌다, 빼다",
+                        "en": "to pull",
+                        "ja": "引く、差し引く",
+                        "zh": "拉、扣除",
+                        "fr": "tirer, retrancher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "전체 금액에서 '일부를 떼어내다'는 의미에서 '공제하다', '빼다'는 뜻입니다.",
+                "en": "From the whole amount, 'to take away a part' gives the meaning 'to deduct' or 'to subtract'",
+                "ja": "全体の金額から『一部を差し引く』という意味で、『控除する』『差し引く』という意味になります。",
+                "zh": "从总金额中'扣除一部分'的意思，引申出'扣除'或'减去'的含义。",
+                "fr": "Du montant total, 'enlever une partie' donne le sens de 'déduire' ou 'retrancher'."
+            },
+            "example": "They will deduct tax from your salary.",
+            "translation": {
+                "ko": "그들은 당신의 월급에서 세금을 공제할 것이다.",
+                "ja": "彼らはあなたの給料から税金を控除するでしょう。",
+                "zh": "他们将从你的薪水中扣除税款。",
+                "fr": "Ils déduiront les impôts de votre salaire."
+            }
+        },
+        {
+            "word": "reduce",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duce",
+                    "meaning": {
+                        "ko": "이끌다",
+                        "en": "to lead",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 이끌다' 또는 '원래 상태로 되돌리다'는 의미에서 양이나 크기를 '줄이다', '축소하다'는 뜻으로 발전했습니다.",
+                "en": "From 'to lead back' or 'return to original state,' it evolved to mean 'decrease in quantity or size.'",
+                "ja": "「後ろへ導く」または「元の状態に戻す」という意味から、量や大きさを「減らす」「縮小する」という意味へ発展しました。",
+                "zh": "从「向后引导」或「恢复原始状态」的含义发展为「减少数量或规模」的意思。",
+                "fr": "Du sens de « conduire en arrière » ou « revenir à l'état d'origine », il a évolué pour signifier « diminuer en quantité ou en taille »."
+            },
+            "example": "You should reduce your sugar intake.",
+            "translation": {
+                "ko": "당신은 설탕 섭취를 줄여야 합니다.",
+                "ja": "砂糖の摂取量を減らすべきです。",
+                "zh": "你应该减少糖的摄入量。",
+                "fr": "Vous devriez réduire votre consommation de sucre."
+            }
+        },
+        {
+            "word": "induce",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "into",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "duce",
+                    "meaning": {
+                        "ko": "이끌다",
+                        "en": "to lead",
+                        "ja": "導く",
+                        "zh": "引导",
+                        "fr": "conduire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 상태나 행동으로 이끌어 들이다'는 의미에서 '유도하다', '설득하다', '야기하다'는 뜻을 가집니다.",
+                "en": "Means to lead into a certain state or action; to persuade, prompt, or cause.",
+                "ja": "ある状態や行動へ導き入れることから、『誘導する』『説得する』『もたらす』という意味を持ちます。",
+                "zh": "从'引导进入某种状态或行动'的含义衍生出'诱导'、'劝说'、'引起'的意思。",
+                "fr": "Signifie conduire dans un certain état ou action ; persuader, inciter ou causer."
+            },
+            "example": "The doctor decided to induce labor.",
+            "translation": {
+                "ko": "의사는 유도 분만을 하기로 결정했다.",
+                "ja": "医者は陣痛誘発を行うことに決めた。",
+                "zh": "医生决定进行引产。",
+                "fr": "Le médecin a décidé de déclencher l'accouchement."
+            }
+        }
+    ]
+}

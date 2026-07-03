@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "juven (youthful) juvenile, rejuvenate",
+        "origin": "Latin, juvenis (young)",
+        "meaning": {
+            "ko": "젊은",
+            "en": "young",
+            "ja": "若い",
+            "zh": "年轻",
+            "fr": "jeune"
+        }
+    },
+    "words": [
+        {
+            "word": "juvenile",
+            "part_of_speech": "",
+            "origin": "Latin, juvenilis (youthful)",
+            "meaning": {
+                "ko": "젊은",
+                "en": "young",
+                "ja": "若い、少年の",
+                "zh": "年轻的、少年的",
+                "fr": "jeune, juvénile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "juven-",
+                    "meaning": {
+                        "ko": "'젊은'",
+                        "en": "young",
+                        "ja": "若い",
+                        "zh": "年轻的",
+                        "fr": "jeune"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'젊은 사람' 또는 '청소년의'라는 뜻입니다. 법적으로는 '소년범'을 가리키기도 합니다.",
+                "en": "Refers to a young person or adolescent. Legally, it can also refer to a juvenile offender.",
+                "ja": "若い人、または思春期の人を意味します。法的には少年犯罪者を指すこともあります。",
+                "zh": "指年轻人或青少年。在法律上也可指少年犯。",
+                "fr": "Désigne une jeune personne ou un adolescent. Légalement, peut aussi faire référence à un délinquant mineur."
+            },
+            "example": "He was sent to a juvenile detention center.",
+            "translation": {
+                "ko": "그는 소년원에 보내졌다.",
+                "ja": "彼は少年拘置所に送られました。",
+                "zh": "他被送到少年拘留中心。",
+                "fr": "Il a été envoyé dans un centre de détention pour mineurs."
+            }
+        },
+        {
+            "word": "rejuvenate",
+            "part_of_speech": "",
+            "origin": "Latin, re- (again) + juvenis (young)",
+            "meaning": {
+                "ko": "다시 젊어지다",
+                "en": "to become young again",
+                "ja": "若返らせる",
+                "zh": "使恢复活力",
+                "fr": "rajeunir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "juven-",
+                    "meaning": {
+                        "ko": "'젊은'",
+                        "en": "young",
+                        "ja": "若い",
+                        "zh": "年轻",
+                        "fr": "jeune"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 젊어지게 만들다'는 의미에서 '활기를 되찾게 하다'라는 뜻입니다.",
+                "en": "Means to make young again; to restore vitality",
+                "ja": "若返らせるという意味から、活力を取り戻させることを意味します",
+                "zh": "从使恢复年轻的意思来看，意思是恢复活力",
+                "fr": "Signifie rendre jeune à nouveau; restaurer la vitalité"
+            },
+            "example": "A short vacation can rejuvenate you.",
+            "translation": {
+                "ko": "짧은 휴가는 당신에게 활기를 되찾게 해줄 수 있다.",
+                "ja": "短い休暇があなたを若返らせることができます。",
+                "zh": "短暂的假期可以使你恢复活力。",
+                "fr": "De courtes vacances peuvent vous rajeunir."
+            }
+        }
+    ]
+}

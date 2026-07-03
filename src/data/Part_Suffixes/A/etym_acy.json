@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "acy (state) democracy, legacy, lunacy, normalcy",
+        "origin": "Latin, -acia, -atia (state, quality)",
+        "meaning": {
+            "ko": "상태, 성질",
+            "en": "state, quality",
+            "ja": "状態、性質",
+            "zh": "状态、性质",
+            "fr": "état, qualité"
+        }
+    },
+    "words": [
+        {
+            "word": "democracy",
+            "part_of_speech": "",
+            "origin": "Greek, demokratia (popular government)",
+            "meaning": {
+                "ko": "인민 정부",
+                "en": "people's government",
+                "ja": "人民による政治体制",
+                "zh": "人民统治",
+                "fr": "gouvernement du peuple"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "demo-",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人民",
+                        "fr": "peuple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cracy",
+                    "meaning": {
+                        "ko": "'지배, 통치'",
+                        "en": "rule",
+                        "ja": "支配、統治",
+                        "zh": "统治、管理",
+                        "fr": "gouverner, régner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'국민이 다스리는' 정치 체제인 '민주주의'를 뜻합니다.",
+                "en": "A political system in which the people govern themselves",
+                "ja": "国民が自分たちを統治する政治体制を意味します",
+                "zh": "指人民自己统治的政治制度",
+                "fr": "Système politique où le peuple se gouverne lui-même"
+            },
+            "example": "Freedom of speech is a cornerstone of democracy.",
+            "translation": {
+                "ko": "언론의 자유는 민주주의의 초석이다.",
+                "ja": "言論の自由は民主主義の基礎である",
+                "zh": "言论自由是民主制度的基石",
+                "fr": "La liberté d'expression est un pilier de la démocratie"
+            }
+        },
+        {
+            "word": "legacy",
+            "part_of_speech": "",
+            "origin": "Latin, legare (to bequeath)",
+            "meaning": {
+                "ko": "물려주다",
+                "en": "to pass down or bequeath",
+                "ja": "遺産、遺された財産",
+                "zh": "遗产、继承物",
+                "fr": "héritage, legs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leg-",
+                    "meaning": {
+                        "ko": "'법으로 정하다, 물려주다'",
+                        "en": "to establish by law or pass down",
+                        "ja": "法で定める、引き継ぐ",
+                        "zh": "用法律规定、传承",
+                        "fr": "léguer par la loi"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-acy",
+                    "meaning": {
+                        "ko": "'상태, 결과물'",
+                        "en": "state or result",
+                        "ja": "状態、結果物",
+                        "zh": "状态、结果物",
+                        "fr": "état, produit résultant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법에 따라 물려주는 것'이라는 의미에서 '유산'을 뜻합니다.",
+                "en": "Means inheritance from the sense of something passed down according to law",
+                "ja": "法律に従って受け継がれるものという意味から遺産を意味します",
+                "zh": "从根据法律继承的东西的意义上表示遗产",
+                "fr": "Signifie héritage au sens de quelque chose transmis selon la loi"
+            },
+            "example": "He left a legacy of innovation and creativity.",
+            "translation": {
+                "ko": "그는 혁신과 창의성의 유산을 남겼다.",
+                "ja": "彼は革新と創造性の遺産を残した",
+                "zh": "他留下了创新和创意的遗产",
+                "fr": "Il a laissé un héritage d'innovation et de créativité"
+            }
+        },
+        {
+            "word": "lunacy",
+            "part_of_speech": "",
+            "origin": "Latin, lunaticus (moon-struck)",
+            "meaning": {
+                "ko": "달에 홀린",
+                "en": "bewitched by the moon",
+                "ja": "狂気、精神異常",
+                "zh": "疯狂、精神错乱",
+                "fr": "folie, démence"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "luna-",
+                    "meaning": {
+                        "ko": "'달'",
+                        "en": "moon",
+                        "ja": "月",
+                        "zh": "月亮",
+                        "fr": "lune"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-acy",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'달의 변화가 정신에 영향을 미친다'는 옛 믿음에서 유래하여 '정신 이상', '광기'를 뜻하게 되었습니다.",
+                "en": "Derived from the old belief that lunar changes affect the mind, eventually meaning mental illness or madness.",
+                "ja": "月の変化が精神に影響を与えるという古い信念に由来し、やがて精神病または狂気を意味するようになりました。",
+                "zh": "源于月球变化影响心智的古老信念，后来演变为精神疾病或疯狂的含义。",
+                "fr": "Issu de la croyance ancienne que les changements lunaires affectent l'esprit, en vint à signifier maladie mentale ou folie."
+            },
+            "example": "It would be pure lunacy to invest all your money in that scheme.",
+            "translation": {
+                "ko": "그 계획에 모든 돈을 투자하는 것은 순전한 미친 짓일 것이다.",
+                "ja": "その計画にすべてのお金を投資することは純粋な狂気です。",
+                "zh": "把所有的钱投资在那个计划中将是纯粹的疯狂。",
+                "fr": "Investir tout votre argent dans ce projet serait une pure folie."
+            }
+        },
+        {
+            "word": "normalcy",
+            "part_of_speech": "",
+            "origin": "English, normal + -cy",
+            "meaning": {
+                "ko": "정상 상태",
+                "en": "normal condition or state",
+                "ja": "正常な状態",
+                "zh": "正常状态",
+                "fr": "état normal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "normal",
+                    "meaning": {
+                        "ko": "'정상적인'",
+                        "en": "normal or typical",
+                        "ja": "正常的な",
+                        "zh": "正常的",
+                        "fr": "normal"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-cy",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정상적인 상태'를 뜻합니다.",
+                "en": "Means a state of being normal or usual",
+                "ja": "正常または通常の状態を意味します",
+                "zh": "意为正常或通常的状态",
+                "fr": "Signifie un état normal ou habituel"
+            },
+            "example": "After the storm, life began to return to normalcy.",
+            "translation": {
+                "ko": "폭풍이 지나간 후, 삶은 정상으로 돌아오기 시작했다.",
+                "ja": "嵐の後、生活は正常な状態に戻り始めました。",
+                "zh": "暴风雨过后，生活开始恢复正常状态。",
+                "fr": "Après la tempête, la vie a commencé à revenir à la normale."
+            }
+        }
+    ]
+}

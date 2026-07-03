@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "sema (sign) semantics, semaphore, semiotic",
+        "origin": "Greek, sema (a sign, a mark)",
+        "meaning": {
+            "ko": "신호, 표시",
+            "en": "a sign",
+            "ja": "兆候、表示",
+            "zh": "迹象、标志",
+            "fr": "signe, indication"
+        }
+    },
+    "words": [
+        {
+            "word": "semantics",
+            "part_of_speech": "",
+            "origin": "Greek, semantikos (significant)",
+            "meaning": {
+                "ko": "의미 있는",
+                "en": "meaningful",
+                "ja": "意味論",
+                "zh": "语义学",
+                "fr": "sémantique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sema-",
+                    "meaning": {
+                        "ko": "'의미, 신호'",
+                        "en": "meaning, sign",
+                        "ja": "意味、記号",
+                        "zh": "意义、符号",
+                        "fr": "sens, signe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단어나 기호의 의미를 연구하는 학문'인 '의미론'을 뜻합니다.",
+                "en": "The study of meaning in words and symbols",
+                "ja": "単語や記号の意味を研究する学問",
+                "zh": "研究词语和符号意义的学科",
+                "fr": "L'étude du sens des mots et des symboles"
+            },
+            "example": "Semantics is a branch of linguistics.",
+            "translation": {
+                "ko": "의미론은 언어학의 한 분야이다.",
+                "ja": "意味論は言語学の一分野である。",
+                "zh": "语义学是语言学的一个分支。",
+                "fr": "La sémantique est une branche de la linguistique."
+            }
+        },
+        {
+            "word": "semaphore",
+            "part_of_speech": "",
+            "origin": "Greek, sema (sign) + phoros (bearing)",
+            "meaning": {
+                "ko": "신호를 전달하는 것",
+                "en": "transmitting signals",
+                "ja": "信号を伝える",
+                "zh": "传递信号",
+                "fr": "transmettre des signaux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sema-",
+                    "meaning": {
+                        "ko": "'신호'",
+                        "en": "sign",
+                        "ja": "信号",
+                        "zh": "信号",
+                        "fr": "signe"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phore",
+                    "meaning": {
+                        "ko": "'전달자'",
+                        "en": "bearer",
+                        "ja": "伝える者",
+                        "zh": "传递者",
+                        "fr": "porteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깃발이나 팔의 위치로 신호를 보내는' 통신 방법인 '수기 신호'를 뜻합니다.",
+                "en": "A communication method using flags or arm positions to send signals",
+                "ja": "旗や腕の位置で信号を送る通信方法",
+                "zh": "用旗帜或手臂位置发送信号的通信方法",
+                "fr": "Méthode de communication utilisant des drapeaux ou les positions des bras"
+            },
+            "example": "The sailors used semaphore flags to communicate between ships.",
+            "translation": {
+                "ko": "선원들은 배 사이의 의사소통을 위해 수기 신호 깃발을 사용했다.",
+                "ja": "水兵たちは船同士の通信に手旗信号を使った",
+                "zh": "水手们用旗语在船舶之间进行通信",
+                "fr": "Les marins utilisaient le sémaphore pour communiquer entre les navires"
+            }
+        },
+        {
+            "word": "semiotic",
+            "part_of_speech": "",
+            "origin": "Greek, semeiotikos (of signs)",
+            "meaning": {
+                "ko": "기호의",
+                "en": "of signs or symbols",
+                "ja": "記号の",
+                "zh": "符号的",
+                "fr": "sémiotique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sem- (sema)",
+                    "meaning": {
+                        "ko": "'기호'",
+                        "en": "sign",
+                        "ja": "記号",
+                        "zh": "符号",
+                        "fr": "signe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기호와 그 의미를 연구하는' '기호학의'라는 뜻입니다.",
+                "en": "Relating to signs and their meanings; the study of semiotics",
+                "ja": "記号とその意味を研究する記号学の",
+                "zh": "研究符号及其意义的符号学的",
+                "fr": "Relatif aux signes et leurs significations; l'étude de la sémiotique"
+            },
+            "example": "The book provides a semiotic analysis of the film.",
+            "translation": {
+                "ko": "그 책은 그 영화에 대한 기호학적 분석을 제공한다.",
+                "ja": "この本は映画の記号学的分析を提供している。",
+                "zh": "这本书提供了对这部电影的符号学分析。",
+                "fr": "Le livre fournit une analyse sémiotique du film."
+            }
+        }
+    ]
+}

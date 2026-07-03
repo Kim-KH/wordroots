@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "ras (scrape) abrasion, rasp, razor",
+        "origin": "Latin, radere, rasus (to scrape)",
+        "meaning": {
+            "ko": "긁다",
+            "en": "to scrape",
+            "ja": "こする",
+            "zh": "刮",
+            "fr": "gratter"
+        }
+    },
+    "words": [
+        {
+            "word": "abrasion",
+            "part_of_speech": "",
+            "origin": "Latin, abradere (to scrape off)",
+            "meaning": {
+                "ko": "긁어내다",
+                "en": "to scrape off",
+                "ja": "擦り傷",
+                "zh": "擦伤",
+                "fr": "écorchure"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ab-",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "away, off",
+                        "ja": "離れて、外へ",
+                        "zh": "离开、脱离",
+                        "fr": "loin, détaché"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ras-",
+                    "meaning": {
+                        "ko": "'긁다'",
+                        "en": "to scrape",
+                        "ja": "こする、削る",
+                        "zh": "刮、磨擦",
+                        "fr": "racler, frotter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'긁혀서 벗겨진 상처'인 '찰과상' 또는 '마모'를 뜻합니다.",
+                "en": "A scraped wound caused by friction or rubbing; refers to an abrasion wound or wear",
+                "ja": "摩擦や擦れで生じた擦り傷；擦過傷または摩耗を意味します",
+                "zh": "由摩擦或摩擦引起的擦伤；指擦伤或磨损",
+                "fr": "Une plaie due au frottement ou au grattage; désigne une écorchure ou l'usure"
+            },
+            "example": "He had a small abrasion on his knee.",
+            "translation": {
+                "ko": "그는 무릎에 작은 찰과상을 입었다.",
+                "ja": "彼は膝に小さな擦り傷がありました",
+                "zh": "他的膝盖上有一个小擦伤",
+                "fr": "Il avait une petite écorchure au genou"
+            }
+        },
+        {
+            "word": "rasp",
+            "part_of_speech": "",
+            "origin": "Old French, rasper (to scrape)",
+            "meaning": {
+                "ko": "긁다",
+                "en": "to scrape or scratch",
+                "ja": "ヤスリで削る",
+                "zh": "用锉刀刮",
+                "fr": "râper"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ras-",
+                    "meaning": {
+                        "ko": "'긁다'",
+                        "en": "to scrape",
+                        "ja": "削る",
+                        "zh": "刮",
+                        "fr": "racler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'거친 줄로 긁다'는 의미에서 '줄질하다' 또는 '거친 목소리로 말하다'는 뜻입니다. 명사로는 '줄'을 의미합니다.",
+                "en": "Means to scrape with a coarse file, or to speak with a harsh voice. As a noun, refers to a file tool.",
+                "ja": "粗いヤスリで削ることを意味し、また荒い声で話すこと。名詞としてはヤスリを指す。",
+                "zh": "用粗锉刀刮削的意思，也指用粗糙的声音说话。名词指锉刀工具。",
+                "fr": "Signifie racler avec une lime grossière, ou parler d'une voix rauque. En tant que nom, désigne un outil de lime."
+            },
+            "example": "He has a rasping voice.",
+            "translation": {
+                "ko": "그는 거친 목소리를 가지고 있다.",
+                "ja": "彼はかすれた声をしている。",
+                "zh": "他的声音很刺耳。",
+                "fr": "Il a une voix râpeuse."
+            }
+        },
+        {
+            "word": "razor",
+            "part_of_speech": "",
+            "origin": "Old French, rasor",
+            "meaning": {
+                "ko": "긁는 도구",
+                "en": "scraping tool",
+                "ja": "剃る道具",
+                "zh": "刮胡子工具",
+                "fr": "outil à raser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ras-",
+                    "meaning": {
+                        "ko": "'긁다, 깎다'",
+                        "en": "to scrape, shave",
+                        "ja": "削る、刮る",
+                        "zh": "刮、削",
+                        "fr": "racler, raser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'털을 긁어내는(깎는) 도구'인 '면도기'를 뜻합니다.",
+                "en": "Refers to a razor, a tool for scraping or cutting hair",
+                "ja": "毛を削り取る道具の意味です",
+                "zh": "指用来刮去胡须的工具",
+                "fr": "Désigne un rasoir, outil pour raser les poils"
+            },
+            "example": "He cut himself with a razor while shaving.",
+            "translation": {
+                "ko": "그는 면도하다가 면도칼에 베였다.",
+                "ja": "彼は髭を剃る時にカミソリで自分を切った。",
+                "zh": "他在刮胡子时用剃须刀割伤了自己。",
+                "fr": "Il s'est coupé avec un rasoir en se rasant."
+            }
+        }
+    ]
+}

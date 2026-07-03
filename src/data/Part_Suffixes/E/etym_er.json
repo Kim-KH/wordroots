@@ -1,0 +1,365 @@
+{
+    "root_info": {
+        "roots": "er, or (one who) baker, builder, governor, pollster, ranger, rover, senator",
+        "origin": "Latin, -or / Old English, -ere (one who does)",
+        "meaning": {
+            "ko": "…하는 사람",
+            "en": "one who",
+            "ja": "〜する人",
+            "zh": "做〜的人",
+            "fr": "celui qui ~"
+        }
+    },
+    "words": [
+        {
+            "word": "baker",
+            "part_of_speech": "",
+            "origin": "Old English, bæcan (to bake)",
+            "meaning": {
+                "ko": "굽다",
+                "en": "to bake or roast",
+                "ja": "パンを焼く人",
+                "zh": "烘焙师",
+                "fr": "boulanger"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bake",
+                    "meaning": {
+                        "ko": "'굽다'",
+                        "en": "to bake",
+                        "ja": "焼く",
+                        "zh": "烘烤",
+                        "fr": "cuire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-er",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "a person who does",
+                        "ja": "~する人",
+                        "zh": "做~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빵을 굽는 사람'인 '제빵사'를 뜻합니다.",
+                "en": "A person who bakes bread",
+                "ja": "パンを焼く人のこと",
+                "zh": "烤面包的人",
+                "fr": "personne qui cuit le pain"
+            },
+            "example": "The baker gets up early every morning.",
+            "translation": {
+                "ko": "그 제빵사는 매일 아침 일찍 일어난다.",
+                "ja": "パン職人は毎朝早く起きます。",
+                "zh": "面包师每天早上都起得很早。",
+                "fr": "Le boulanger se lève tôt chaque matin."
+            }
+        },
+        {
+            "word": "builder",
+            "part_of_speech": "",
+            "origin": "Old English, byldan (to construct a house)",
+            "meaning": {
+                "ko": "집을 짓다",
+                "en": "to build a house",
+                "ja": "建物を建てる人",
+                "zh": "建造房屋的人",
+                "fr": "personne qui construit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "build",
+                    "meaning": {
+                        "ko": "'짓다'",
+                        "en": "to build",
+                        "ja": "建てる",
+                        "zh": "建造",
+                        "fr": "construire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-er",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "～する人",
+                        "zh": "做～的人",
+                        "fr": "personne qui fait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'건물을 짓는 사람'인 '건축업자'를 뜻합니다.",
+                "en": "A builder is a person who constructs buildings",
+                "ja": "建築業者を意味します",
+                "zh": "指建造建筑物的人",
+                "fr": "désigne une personne qui construit des bâtiments"
+            },
+            "example": "We hired a builder to construct our new house.",
+            "translation": {
+                "ko": "우리는 새 집을 짓기 위해 건축업자를 고용했다.",
+                "ja": "建築業者",
+                "zh": "建筑商",
+                "fr": "constructeur"
+            }
+        },
+        {
+            "word": "governor",
+            "part_of_speech": "",
+            "origin": "Latin, gubernator (a pilot, a ruler)",
+            "meaning": {
+                "ko": "조종사, 통치자",
+                "en": "pilot, ruler",
+                "ja": "州知事、統治者",
+                "zh": "州长、统治者",
+                "fr": "gouverneur, dirigeant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "govern",
+                    "meaning": {
+                        "ko": "'다스리다'",
+                        "en": "to rule",
+                        "ja": "統治する",
+                        "zh": "统治",
+                        "fr": "gouverner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "one who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주(州)를 다스리는 사람'인 '주지사'를 뜻합니다.",
+                "en": "Refers to a chief executive officer of a state or region",
+                "ja": "州を統治する人、つまり州知事を意味します",
+                "zh": "指统治州的人，即州长的意思",
+                "fr": "Désigne une personne qui gouverne un État ou une région"
+            },
+            "example": "The governor of California gave a speech.",
+            "translation": {
+                "ko": "캘리포니아 주지사가 연설했다.",
+                "ja": "カリフォルニア州の知事がスピーチをしました",
+                "zh": "加州州长发表了演讲",
+                "fr": "Le gouverneur de Californie a prononcé un discours"
+            }
+        },
+        {
+            "word": "pollster",
+            "part_of_speech": "",
+            "origin": "English, poll + -ster",
+            "meaning": {
+                "ko": "여론 조사를 하는 사람",
+                "en": "person who conducts opinion polls",
+                "ja": "世論調査を行う人",
+                "zh": "进行民意调查的人",
+                "fr": "personne qui mène sondages"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "poll",
+                    "meaning": {
+                        "ko": "'투표, 여론 조사'",
+                        "en": "voting or opinion survey",
+                        "ja": "投票、世論調査",
+                        "zh": "投票、民意调查",
+                        "fr": "scrutin, sondage"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ster",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여론 조사를 전문으로 하는 사람'을 뜻합니다.",
+                "en": "A person who specializes in conducting opinion polls",
+                "ja": "世論調査を専門に行う人のこと",
+                "zh": "专门进行民意调查的人",
+                "fr": "personne spécialisée dans les sondages"
+            },
+            "example": "Pollsters are trying to predict the outcome of the election.",
+            "translation": {
+                "ko": "여론 조사 전문가들은 선거 결과를 예측하려고 노력하고 있다.",
+                "ja": "世論調査者は選挙の結果を予測しようとしています。",
+                "zh": "民调专家正在试图预测选举的结果。",
+                "fr": "Les sondeurs tentent de prédire l'issue de l'élection."
+            }
+        },
+        {
+            "word": "ranger",
+            "part_of_speech": "",
+            "origin": "Old French, ranger (to arrange in a line)",
+            "meaning": {
+                "ko": "정렬하다",
+                "en": "to arrange or sort",
+                "ja": "レンジャー、管理官",
+                "zh": "护林员、巡查员",
+                "fr": "garde forestier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "range",
+                    "meaning": {
+                        "ko": "'돌아다니다, 관리하다'",
+                        "en": "to roam or manage",
+                        "ja": "歩き回る、管理する",
+                        "zh": "巡回、管理",
+                        "fr": "parcourir, gérer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-er",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "one who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'넓은 지역을 돌아다니며 관리하는 사람'인 '산림 관리원'을 뜻합니다.",
+                "en": "A person who patrols and manages a wide area, such as a forest ranger or park ranger",
+                "ja": "広い地域を巡回して管理する人、例えば森林管理官や公園管理官",
+                "zh": "在广大地区巡回管理的人，例如森林护林员或公园管理员",
+                "fr": "Une personne qui patrouille et gère une vaste zone, comme un garde forestier ou un garde de parc"
+            },
+            "example": "A park ranger warned us about the bears.",
+            "translation": {
+                "ko": "공원 관리인이 우리에게 곰에 대해 경고했다.",
+                "ja": "公園レンジャーが私たちに熊について警告した。",
+                "zh": "公园护林员警告我们要小心熊。",
+                "fr": "Un garde de parc nous a avertis des ours."
+            }
+        },
+        {
+            "word": "rover",
+            "part_of_speech": "",
+            "origin": "Middle Dutch, roven (to rob)",
+            "meaning": {
+                "ko": "강탈하다",
+                "en": "to wander or roam about",
+                "ja": "放浪者、探査機",
+                "zh": "流浪者、探测车",
+                "fr": "vagabond, robot explorateur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rove",
+                    "meaning": {
+                        "ko": "'돌아다니다'",
+                        "en": "to wander about",
+                        "ja": "歩き回る",
+                        "zh": "四处走动",
+                        "fr": "errer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-er",
+                    "meaning": {
+                        "ko": "'~하는 것'",
+                        "en": "one who does",
+                        "ja": "~すること",
+                        "zh": "~的东西",
+                        "fr": "~qui fait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정처 없이 돌아다니는 사람' 또는 화성 탐사선 같은 '탐사 로봇'을 뜻합니다.",
+                "en": "Refers to a person who wanders aimlessly, or an exploration robot such as a Mars rover.",
+                "ja": "定住せず放浪する人、または火星探査機のような探査ロボットを意味します。",
+                "zh": "指没有定所四处流浪的人，或火星探测车这样的探测机器人。",
+                "fr": "Désigne une personne qui erre sans but fixe ou un robot d'exploration comme un rover martien."
+            },
+            "example": "The Mars rover is exploring the surface of the planet.",
+            "translation": {
+                "ko": "화성 탐사 로버는 행성 표면을 탐사하고 있다.",
+                "ja": "火星探査機は惑星の表面を探索しています。",
+                "zh": "火星探测车正在探测行星的表面。",
+                "fr": "Le rover martien explore la surface de la planète."
+            }
+        },
+        {
+            "word": "senator",
+            "part_of_speech": "",
+            "origin": "Latin, senator",
+            "meaning": {
+                "ko": "원로원 의원",
+                "en": "member of senate",
+                "ja": "上院議員",
+                "zh": "参议员",
+                "fr": "sénateur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sen- (senex)",
+                    "meaning": {
+                        "ko": "'늙은, 원로'",
+                        "en": "old",
+                        "ja": "老いた、長老",
+                        "zh": "年长的、长者",
+                        "fr": "ancien, vieillard"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ator",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마의 '원로원 의원'에서 유래하여 '상원 의원'을 뜻합니다.",
+                "en": "Derived from ancient Rome's 'senatus' (council of elders), meaning 'upper house member'",
+                "ja": "古代ローマの'元老院議員'に由来し、'上院議員'を意味します",
+                "zh": "源自古代罗马的'元老院议员'，意为'上院议员'",
+                "fr": "Dérivé du 'sénat' romain antique, signifie 'membre de la chambre haute'"
+            },
+            "example": "He was elected as a senator.",
+            "translation": {
+                "ko": "그는 상원 의원으로 선출되었다.",
+                "ja": "彼は上院議員として選出されました。",
+                "zh": "他被选举为参议员。",
+                "fr": "Il a été élu sénateur."
+            }
+        }
+    ]
+}

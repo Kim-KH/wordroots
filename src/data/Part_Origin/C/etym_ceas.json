@@ -1,0 +1,435 @@
+{
+    "root_info": {
+        "roots": "ceas, cede, ceed, cess: go, yield",
+        "origin": "Latin, cedere",
+        "meaning": {
+            "ko": "가다, 양보하다",
+            "en": "to go, to yield",
+            "ja": "行く、譲る",
+            "zh": "去、让步",
+            "fr": "aller, céder"
+        }
+    },
+    "words": [
+        {
+            "word": "precede",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "在...之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cede",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞서 가다'는 의미에서 '~보다 먼저 일어나다', '선행하다'는 뜻입니다.",
+                "en": "From 'go before': to happen or occur before something else; to come first",
+                "ja": "「前に行く」の意味から、「〜より先に起こる」「先行する」という意味になります。",
+                "zh": "从「走在前面」的意思引申为「比...更早发生」、「先行」的含义。",
+                "fr": "Du sens « aller avant » : se produire avant quelque chose d'autre ; venir en premier."
+            },
+            "example": "A warning message preceded the broadcast.",
+            "translation": {
+                "ko": "방송에 앞서 경고 메시지가 나왔다.",
+                "ja": "放送の前に警告メッセージが流れた。",
+                "zh": "一条警告信息先于广播出现。",
+                "fr": "Un message d'avertissement a précédé la diffusion."
+            }
+        },
+        {
+            "word": "concede",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께, 완전히",
+                        "en": "with, completely",
+                        "ja": "一緒に、完全に",
+                        "zh": "一起、完全地",
+                        "fr": "avec, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cede",
+                    "meaning": {
+                        "ko": "가다, 양보하다",
+                        "en": "to yield",
+                        "ja": "行く、譲歩する",
+                        "zh": "去、让步",
+                        "fr": "aller, céder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상대방에게 완전히 양보하다'는 의미에서, 사실이나 패배를 '인정하다', 권리를 '양보하다'는 뜻입니다.",
+                "en": "From the sense of 'completely yielding to another,' meaning to 'acknowledge' facts or defeat, or to 'yield' rights.",
+                "ja": "相手に完全に譲歩するという意味から、事実や敗北を『認める』、権利を『譲る』という意味です。",
+                "zh": "从'完全向对方让步'的含义出发，表示'承认'事实或失败，或'放弃'权利。",
+                "fr": "Du sens de 'céder complètement à l'autre', signifiant 'reconnaître' les faits ou la défaite, ou 'abandonner' des droits."
+            },
+            "example": "He finally conceded that he was wrong.",
+            "translation": {
+                "ko": "그는 마침내 자신이 틀렸음을 인정했다.",
+                "ja": "彼は最終的に自分が間違っていたことを認めた。",
+                "zh": "他最终承认了自己犯了错误。",
+                "fr": "Il a finalement admis qu'il avait tort."
+            }
+        },
+        {
+            "word": "succeed",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "suc- (sub-)",
+                    "meaning": {
+                        "ko": "아래에서 위로, 다음에",
+                        "en": "up from under, next after",
+                        "ja": "下から上へ、その後",
+                        "zh": "从下往上，之后",
+                        "fr": "de bas en haut, ensuite"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceed",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤따라 가다'는 의미에서 '계승하다'는 뜻과, '목표를 향해 나아가다'는 의미에서 '성공하다'는 뜻이 있습니다.",
+                "en": "'Follow after' gives the sense of 'inherit/take over'; 'move toward a goal' gives the sense of 'accomplish/prosper'",
+                "ja": "「後に続く」の意味から「継承する」という意味になり、「目標に向かって進む」の意味から「成功する」という意味になります。",
+                "zh": "从「跟随」的意思延伸出「继承」的含义，从「朝目标前进」的意思延伸出「成功」的含义。",
+                "fr": "Du sens de « suivre après » vient celui d'« hériter »; du sens de « avancer vers un objectif » vient celui de « réussir »."
+            },
+            "example": "I hope you succeed in your new job.",
+            "translation": {
+                "ko": "새 직장에서 성공하기를 바랍니다.",
+                "ja": "新しい職場で成功することを願っています。",
+                "zh": "我希望你在新工作中取得成功。",
+                "fr": "J'espère que vous réussirez dans votre nouveau travail."
+            }
+        },
+        {
+            "word": "cease",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cease (cedere)",
+                    "meaning": {
+                        "ko": "가다, 양보하다",
+                        "en": "to yield, go away",
+                        "ja": "退く、譲る",
+                        "zh": "退去、让步",
+                        "fr": "céder, s'en aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물러가다'는 의미에서, 하던 일을 '멈추다', '중단하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'withdraw' or 'go back', it came to mean 'stop' or 'discontinue' an action.",
+                "ja": "「後退する」という意味から、行っていたことを「やめる」「中止する」という意味になりました。",
+                "zh": "从\"退去\"的含义衍生，逐渐转为\"停止\"、\"中断\"正在进行的动作的意思。",
+                "fr": "Du sens de 'se retirer', il a évolué pour signifier 'arrêter' ou 'interrompre' une action."
+            },
+            "example": "The rain ceased in the afternoon.",
+            "translation": {
+                "ko": "오후에 비가 그쳤다.",
+                "ja": "午後に雨が止んだ。",
+                "zh": "雨在下午停止了。",
+                "fr": "La pluie a cessé dans l'après-midi."
+            }
+        },
+        {
+            "word": "proceed",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceed",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 나아가다'는 의미에서 일을 '계속 진행하다'는 뜻입니다.",
+                "en": "From the sense of 'go forward,' it means 'continue or carry on with something.'",
+                "ja": "「前へ進む」という意味から、仕事を「続ける」という意味になります。",
+                "zh": "从\"向前进\"的意思引申为\"继续进行某事\"。",
+                "fr": "Du sens « aller de l'avant », il signifie « continuer ou poursuivre quelque chose »."
+            },
+            "example": "Please proceed with your presentation.",
+            "translation": {
+                "ko": "발표를 계속 진행해 주세요.",
+                "ja": "プレゼンテーションを続けてください。",
+                "zh": "请继续你的演讲。",
+                "fr": "Veuillez poursuivre votre présentation."
+            }
+        },
+        {
+            "word": "necessary",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ne-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cess",
+                    "meaning": {
+                        "ko": "가다, 양보하다",
+                        "en": "to go, yield",
+                        "ja": "行く、譲歩する",
+                        "zh": "去、退让",
+                        "fr": "aller, céder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물러설 수 없는' 즉, '피할 수 없는'이라는 의미에서 '필수적인', '필요한'이라는 뜻이 되었습니다.",
+                "en": "Originally meant 'unable to back down', i.e., 'unavoidable', which evolved to mean 'essential' or 'required'.",
+                "ja": "元々は『後退できない』つまり『避けられない』という意味から『必須的な』『必要な』という意味へ変わりました。",
+                "zh": "最初意为'无法退缩'，即'无法避免'，后来演变为'必要的''不可或缺的'之意。",
+                "fr": "Signifiait à l'origine 'impossible de reculer', c'est-à-dire 'inévitable', qui a évolué vers le sens d'essentiel ou requis."
+            },
+            "example": "Food and water are necessary for life.",
+            "translation": {
+                "ko": "음식과 물은 생명에 필수적이다.",
+                "ja": "食べ物と水は生活に必要です。",
+                "zh": "食物和水是生命所必需的。",
+                "fr": "La nourriture et l'eau sont nécessaires à la vie."
+            }
+        },
+        {
+            "word": "decease",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cease (cedere)",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 가버리다'는 완곡한 표현에서 '사망하다'는 뜻이 되었습니다.",
+                "en": "From a euphemistic expression meaning 'to go away far,' it came to mean 'to die.'",
+                "ja": "「遠く去ってしまう」という婉曲的な表現から「死ぬ」という意味になりました。",
+                "zh": "从「远去」的委婉说法演变为「死亡」的含义。",
+                "fr": "D'une expression euphémique signifiant « s'en aller au loin », elle a pris le sens de « décéder »."
+            },
+            "example": "He deceased at the age of 90.",
+            "translation": {
+                "ko": "그는 90세의 나이로 사망했다.",
+                "ja": "彼は90歳で亡くなった。",
+                "zh": "他在90岁时去世了。",
+                "fr": "Il est décédé à l'âge de 90 ans."
+            }
+        },
+        {
+            "word": "antecedent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ante-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "前面",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ced",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞서 가는 것'이라는 의미에서, 어떤 사건의 '선행 사건' 또는 문법에서 대명사가 가리키는 '선행사'를 뜻합니다.",
+                "en": "From the meaning 'something that goes before', referring to a 'preceding event' in any situation, or in grammar, the 'antecedent noun' that a pronoun refers to.",
+                "ja": "'前に行く物'という意味から、何らかの事件の'先行事件'または文法で代名詞が指す'先行詞'を意味します。",
+                "zh": "从'前面的事物'的含义出发，指任何事件的'前驱事件'，或在语法中代词所指的'先行词'。",
+                "fr": "Du sens de 'quelque chose qui va avant', référant à un 'événement antécédent' dans une situation, ou en grammaire, le 'nom antécédent' auquel un pronom se réfère."
+            },
+            "example": "\"John\" is the antecedent of \"he\" in \"John is happy because he passed.\"",
+            "translation": {
+                "ko": "\"John passed because he is happy\"에서 \"John\"은 \"he\"의 선행사이다.",
+                "ja": "先行詞",
+                "zh": "先行词",
+                "fr": "antécédent"
+            }
+        },
+        {
+            "word": "ancestor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "an- (ante-)",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cestor (cessor)",
+                    "meaning": {
+                        "ko": "간 사람",
+                        "en": "one who has gone",
+                        "ja": "去った人",
+                        "zh": "已逝去的人",
+                        "fr": "celui qui est allé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시대적으로 앞서 간 사람'이라는 의미에서 '조상', '선조'를 뜻합니다.",
+                "en": "Originally meaning 'one who went before in time,' referring to forebears or predecessors",
+                "ja": "時代的に先に行った人という意味から、祖先や先祖を指します",
+                "zh": "从'在时代上先行者'的含义演变而来，指祖先或前辈",
+                "fr": "Littéralement 'celui qui est allé avant dans le temps', désignant les ancêtres ou prédécesseurs"
+            },
+            "example": "My ancestors came from Italy.",
+            "translation": {
+                "ko": "나의 조상들은 이탈리아에서 왔다.",
+                "ja": "私の祖先はイタリアから来ました。",
+                "zh": "我的祖先来自意大利。",
+                "fr": "Mes ancêtres venaient d'Italie."
+            }
+        },
+        {
+            "word": "secession",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "se-",
+                    "meaning": {
+                        "ko": "떨어져, 따로",
+                        "en": "apart, aside",
+                        "ja": "離れて、別に",
+                        "zh": "分开、另外",
+                        "fr": "à part, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cess",
+                    "meaning": {
+                        "ko": "가다",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'떨어져 나가는 것'이라는 의미에서, 국가나 단체로부터의 공식적인 '분리', '탈퇴', 특히 '분리 독립'을 뜻합니다.",
+                "en": "From the meaning 'to go apart,' referring to the formal separation or withdrawal from a state or organization, especially political independence.",
+                "ja": "「離れて行く」という意味から、国家や団体からの正式な「分離」「脱退」、特に「分離独立」を意味します。",
+                "zh": "从\"分开去\"的含义衍生，指从国家或组织的正式\"分离\"\"退出\"，特别是\"分离独立\"。",
+                "fr": "Du sens « s'éloigner », désignant la séparation formelle ou le retrait d'un État ou d'une organisation, en particulier l'indépendance politique."
+            },
+            "example": "The secession of the southern states led to a civil war.",
+            "translation": {
+                "ko": "남부 주들의 분리 독립은 남북 전쟁으로 이어졌다.",
+                "ja": "南部諸州の分離独立は南北戦争につながった。",
+                "zh": "南方各州的分离导致了内战。",
+                "fr": "La sécession des États du Sud a conduit à une guerre civile."
+            }
+        }
+    ]
+}

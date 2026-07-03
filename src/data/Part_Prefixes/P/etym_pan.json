@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "pan (all) panacea, pandemic, pantheism",
+        "origin": "Greek, pan (all)",
+        "meaning": {
+            "ko": "모든",
+            "en": "all",
+            "ja": "すべて",
+            "zh": "全、总",
+            "fr": "tout, tous"
+        }
+    },
+    "words": [
+        {
+            "word": "panacea",
+            "part_of_speech": "",
+            "origin": "Greek, panakeia (all-healing)",
+            "meaning": {
+                "ko": "모든 것을 치료함",
+                "en": "cures all things",
+                "ja": "万能薬",
+                "zh": "万能药",
+                "fr": "panacée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pan-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべて",
+                        "zh": "所有",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "acea (akos)",
+                    "meaning": {
+                        "ko": "'치료'",
+                        "en": "cure",
+                        "ja": "治療",
+                        "zh": "治疗",
+                        "fr": "guérison"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 병을 고치는 약'이라는 의미에서 '만병통치약'을 뜻합니다.",
+                "en": "Means 'a medicine that cures all diseases', referring to a universal remedy or cure-all",
+                "ja": "すべての病気を治す薬という意味から、万能薬を指します",
+                "zh": "从'治疗所有疾病的药物'的含义出发，指的是万能药",
+                "fr": "Signifie 'un médicament qui guérit toutes les maladies', se référant à un remède universel"
+            },
+            "example": "There is no panacea for the country's economic problems.",
+            "translation": {
+                "ko": "그 나라의 경제 문제에 대한 만병통치약은 없다.",
+                "ja": "この国の経済問題に対する万能薬はない。",
+                "zh": "这个国家的经济问题没有万能药。",
+                "fr": "Il n'existe pas de panacée pour les problèmes économiques du pays."
+            }
+        },
+        {
+            "word": "pandemic",
+            "part_of_speech": "",
+            "origin": "Greek, pandemos (of all the people)",
+            "meaning": {
+                "ko": "모든 사람들의",
+                "en": "of all people",
+                "ja": "すべての人々に広がる",
+                "zh": "影响所有人的",
+                "fr": "affectant tous les gens"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pan-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべての",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "demic (demos)",
+                    "meaning": {
+                        "ko": "'사람들'",
+                        "en": "people",
+                        "ja": "人々",
+                        "zh": "人民",
+                        "fr": "gens"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 사람들에게 퍼진' 질병이라는 의미에서 '전 세계적으로 유행하는 전염병'을 뜻합니다.",
+                "en": "A disease that spreads to all people, meaning a contagious disease that spreads globally.",
+                "ja": "すべての人々に広がる病気という意味で、世界的に流行する伝染病を意味します。",
+                "zh": "指传播到所有人的疾病，意为全球流行的传染病。",
+                "fr": "Une maladie qui se propage à tous, signifiant une épidémie contagieuse se propageant mondialement."
+            },
+            "example": "The COVID-19 pandemic affected the entire world.",
+            "translation": {
+                "ko": "코로나19 팬데믹은 전 세계에 영향을 미쳤다.",
+                "ja": "パンデミック",
+                "zh": "大流行病",
+                "fr": "pandémie"
+            }
+        },
+        {
+            "word": "pantheism",
+            "part_of_speech": "",
+            "origin": "Greek, pan (all) + theos (god)",
+            "meaning": {
+                "ko": "모든 것이 신이다",
+                "en": "everything is god",
+                "ja": "すべてが神である",
+                "zh": "万物皆神",
+                "fr": "tout est dieu"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pan-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべて",
+                        "zh": "所有的",
+                        "fr": "tout"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "theism (theos)",
+                    "meaning": {
+                        "ko": "'신'",
+                        "en": "god",
+                        "ja": "神",
+                        "zh": "神",
+                        "fr": "dieu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 만물이 곧 신'이라는 사상, 즉 '범신론'을 의미합니다.",
+                "en": "A philosophy that all things and the universe are divine, also known as pantheism.",
+                "ja": "すべての万物が神であるという思想、つまり汎神論を意味します。",
+                "zh": "所有万物即是神的思想，即泛神论。",
+                "fr": "La philosophie selon laquelle toutes choses sont divines, c'est-à-dire le panthéisme."
+            },
+            "example": "Pantheism is the belief that God and the universe are one and the same.",
+            "translation": {
+                "ko": "범신론은 신과 우주가 하나이며 동일하다는 믿음이다.",
+                "ja": "汎神論",
+                "zh": "泛神论",
+                "fr": "panthéisme"
+            }
+        }
+    ]
+}

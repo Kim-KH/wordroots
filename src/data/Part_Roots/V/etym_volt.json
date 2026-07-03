@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "volt (turn) revolt, volt, voluble",
+        "origin": "Latin, volvere, volutus (to roll, to turn)",
+        "meaning": {
+            "ko": "돌다",
+            "en": "to turn",
+            "ja": "回る",
+            "zh": "转",
+            "fr": "tourner"
+        }
+    },
+    "words": [
+        {
+            "word": "revolt",
+            "part_of_speech": "",
+            "origin": "Italian, rivoltare (to turn over)",
+            "meaning": {
+                "ko": "뒤집어엎다",
+                "en": "to overturn and destroy",
+                "ja": "反乱を起こす",
+                "zh": "起义推翻",
+                "fr": "se révolter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시, 반대로'",
+                        "en": "back, against",
+                        "ja": "反対に、逆に",
+                        "zh": "反对地、相反",
+                        "fr": "contre, à l'inverse"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "volt",
+                    "meaning": {
+                        "ko": "'돌다'",
+                        "en": "to turn",
+                        "ja": "回転する、向きを変える",
+                        "zh": "转动",
+                        "fr": "tourner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기존의 권력에 맞서 뒤집어엎다'는 의미에서 '반란을 일으키다'라는 뜻입니다.",
+                "en": "Means 'to rebel against existing authority' or 'to stage a rebellion'",
+                "ja": "既存の権力に対抗して反乱を起こすという意味です",
+                "zh": "指对抗现有权力、发动反乱的意思",
+                "fr": "Signifie 'se révolter contre le pouvoir établi' ou 'soulever une rébellion'"
+            },
+            "example": "The people revolted against the dictator.",
+            "translation": {
+                "ko": "국민들은 독재자에 대항하여 반란을 일으켰다.",
+                "ja": "人々は独裁者に反抗して反乱を起こした。",
+                "zh": "人民起义推翻独裁者。",
+                "fr": "Le peuple s'est révolté contre le dictateur."
+            }
+        },
+        {
+            "word": "voluble",
+            "part_of_speech": "",
+            "origin": "Latin, volubilis (rolling, fluent)",
+            "meaning": {
+                "ko": "잘 구르는",
+                "en": "rolling well",
+                "ja": "よく話す",
+                "zh": "健谈的",
+                "fr": "bavard"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "volu- (volvere)",
+                    "meaning": {
+                        "ko": "'돌다'",
+                        "en": "to roll",
+                        "ja": "転がる",
+                        "zh": "滚动",
+                        "fr": "rouler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혀가 잘 굴러가듯이' 말을 유창하게 한다는 의미에서 '달변의'라는 뜻입니다.",
+                "en": "Derived from the idea that the tongue rolls smoothly when speaking fluently",
+                "ja": "舌がよく転がるように流暢に話すことから来た意味です",
+                "zh": "源自舌头滚动般流畅说话的意象",
+                "fr": "Dérivé de l'idée que la langue roule comme lorsqu'on parle couramment"
+            },
+            "example": "He is a voluble and entertaining speaker.",
+            "translation": {
+                "ko": "그는 달변이며 재미있는 연설가이다.",
+                "ja": "彼は雄弁で面白い話者です",
+                "zh": "他是一位健谈且有趣的演讲者",
+                "fr": "C'est un orateur bavard et divertissant"
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "vest (robe) divest, invest, vestment, vestry",
+        "origin": "Latin, vestis (a garment, clothing)",
+        "meaning": {
+            "ko": "옷",
+            "en": "a garment",
+            "ja": "衣服",
+            "zh": "衣服",
+            "fr": "vêtement"
+        }
+    },
+    "words": [
+        {
+            "word": "divest",
+            "part_of_speech": "",
+            "origin": "Latin, devestire (to undress)",
+            "meaning": {
+                "ko": "옷을 벗기다",
+                "en": "to remove clothing",
+                "ja": "衣服を脱ぐ",
+                "zh": "脱掉衣服",
+                "fr": "enlever les vêtements"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "'벗기다'",
+                        "en": "away from",
+                        "ja": "から離れる",
+                        "zh": "远离",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vest",
+                    "meaning": {
+                        "ko": "'옷'",
+                        "en": "clothing",
+                        "ja": "衣服",
+                        "zh": "衣服",
+                        "fr": "vêtements"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'옷을 벗기다'는 의미에서 권리나 재산 등을 '박탈하다', '처분하다'는 뜻이 되었습니다.",
+                "en": "From the literal meaning of removing clothing, it evolved to mean divesting or disposing of rights or property.",
+                "ja": "衣服を脱ぐという文字通りの意味から、権利や財産などを奪取または処分することを意味するようになりました。",
+                "zh": "从脱衣服的字面意思演变为剥夺或处置权利或财产的含义。",
+                "fr": "Du sens littéral d'enlever les vêtements, il a évolué pour signifier dépouiller ou se débarrasser de droits ou de propriétés."
+            },
+            "example": "He divested himself of all his responsibilities.",
+            "translation": {
+                "ko": "그는 자신의 모든 책임에서 벗어났다.",
+                "ja": "彼は自分のすべての責任を放棄した。",
+                "zh": "他放弃了自己的所有责任。",
+                "fr": "Il s'est dépouillé de toutes ses responsabilités."
+            }
+        },
+        {
+            "word": "invest",
+            "part_of_speech": "",
+            "origin": "Latin, investire (to clothe in)",
+            "meaning": {
+                "ko": "옷을 입히다",
+                "en": "to dress in clothes",
+                "ja": "資金を投入する",
+                "zh": "投资",
+                "fr": "investir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in, on",
+                        "ja": "中に、上に",
+                        "zh": "在...里面",
+                        "fr": "dans, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vest",
+                    "meaning": {
+                        "ko": "'옷'",
+                        "en": "clothing",
+                        "ja": "衣服",
+                        "zh": "衣服",
+                        "fr": "vêtement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'옷을 입히듯' 돈이나 시간, 노력을 '투자하다'는 뜻이 되었습니다.",
+                "en": "Originally meant 'to clothe' but came to mean 'to invest money, time, or effort' like putting on clothes.",
+                "ja": "元々は'衣服を着せる'という意味でしたが、衣服を着るように資金、時間、努力を'投資する'という意味になりました。",
+                "zh": "原本意为'给...穿衣服'，后来演变为'投资金钱、时间或努力'的意思。",
+                "fr": "Signifiait à l'origine 'habiller' mais a pris le sens d'investir argent, temps ou effort comme on revêt un vêtement."
+            },
+            "example": "He invested his money in stocks.",
+            "translation": {
+                "ko": "그는 그의 돈을 주식에 투자했다.",
+                "ja": "彼はお金を株に投資した。",
+                "zh": "他把钱投资于股票。",
+                "fr": "Il a investi son argent en bourse."
+            }
+        },
+        {
+            "word": "vestment",
+            "part_of_speech": "",
+            "origin": "Latin, vestimentum (a garment)",
+            "meaning": {
+                "ko": "옷",
+                "en": "clothing",
+                "ja": "衣服",
+                "zh": "衣服",
+                "fr": "vêtement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vest-",
+                    "meaning": {
+                        "ko": "'옷'",
+                        "en": "clothing",
+                        "ja": "衣服",
+                        "zh": "衣服",
+                        "fr": "vêtement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'성직자가 의식 때 입는' '제의', '예복'을 뜻합니다.",
+                "en": "Refers to ceremonial robes or vestments worn by clergy during religious rituals.",
+                "ja": "聖職者が儀式の時に着る礼服、祭服を意味します。",
+                "zh": "指神职人员在仪式中穿着的礼服、祭服。",
+                "fr": "Désigne les robes cérémonielles portées par le clergé lors de rituels religieux."
+            },
+            "example": "The priest wore a white vestment.",
+            "translation": {
+                "ko": "그 사제는 흰색 제의를 입고 있었다.",
+                "ja": "司祭は白い祭服を着ていました。",
+                "zh": "牧师穿着白色祭服。",
+                "fr": "Le prêtre portait un vêtement blanc."
+            }
+        },
+        {
+            "word": "vestry",
+            "part_of_speech": "",
+            "origin": "Latin, vestiarium (a wardrobe)",
+            "meaning": {
+                "ko": "옷장",
+                "en": "wardrobe or clothing storage",
+                "ja": "教会の衣装室",
+                "zh": "教堂圣衣室",
+                "fr": "sacristie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vest-",
+                    "meaning": {
+                        "ko": "'옷'",
+                        "en": "clothing",
+                        "ja": "衣類",
+                        "zh": "衣服",
+                        "fr": "vêtement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'교회의 제의를 보관하는 방'인 '제의실'을 뜻합니다.",
+                "en": "A room in a church where vestments and sacred objects are stored",
+                "ja": "教会の祭服や聖具を保管する部屋",
+                "zh": "教堂内存放祭服和圣物的房间",
+                "fr": "Pièce d'une église où sont rangés les vêtements liturgiques"
+            },
+            "example": "The choir assembled in the vestry before the service.",
+            "translation": {
+                "ko": "합창단은 예배 전에 제의실에 모였다.",
+                "ja": "聖歌隊は礼拝の前に聖衣室に集まった。",
+                "zh": "唱诗班在礼拜前在圣衣室集合。",
+                "fr": "La chorale s'est rassemblée dans la sacristie avant le service."
+            }
+        }
+    ]
+}

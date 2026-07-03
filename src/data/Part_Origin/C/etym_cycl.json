@@ -1,0 +1,119 @@
+{
+    "root_info": {
+        "roots": "cycl",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "원, 바퀴",
+            "en": "circle, wheel",
+            "ja": "円、輪",
+            "zh": "圆、轮",
+            "fr": "cercle, roue"
+        }
+    },
+    "words": [
+        {
+            "word": "bicycle",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "둘",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cycle",
+                    "meaning": {
+                        "ko": "바퀴",
+                        "en": "wheel",
+                        "ja": "車輪",
+                        "zh": "车轮",
+                        "fr": "roue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바퀴가 두 개인 것'이라는 의미에서 '자전거'를 뜻합니다.",
+                "en": "Literally means 'something with two wheels', which refers to 'bicycle'.",
+                "ja": "文字通りには「2つの車輪を持つもの」という意味で、「自転車」を指します。",
+                "zh": "字面意思是「有两个车轮的东西」，指的是「自行车」。",
+                "fr": "Littéralement 'quelque chose avec deux roues', ce qui signifie 'bicyclette'."
+            },
+            "example": "I ride my bicycle to work.",
+            "translation": {
+                "ko": "나는 자전거를 타고 출근한다.",
+                "ja": "私は自転車で仕事に行きます。",
+                "zh": "我骑自行车去上班。",
+                "fr": "Je vais au travail à vélo."
+            }
+        },
+        {
+            "word": "cyclical",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cycl",
+                    "meaning": {
+                        "ko": "원, 순환",
+                        "en": "circle, cycle",
+                        "ja": "円、循環",
+                        "zh": "圆、循环",
+                        "fr": "cercle, cycle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주기적으로 순환하는'이라는 뜻입니다.",
+                "en": "Means 'recurring in cycles or circular patterns'",
+                "ja": "周期的に循環することを意味します。",
+                "zh": "表示周期性循环的含义。",
+                "fr": "Signifie 'qui se reproduit en cycles ou en motifs circulaires'."
+            },
+            "example": "The economy follows a cyclical pattern.",
+            "translation": {
+                "ko": "경제는 순환적인 패턴을 따른다.",
+                "ja": "経済は循環的なパターンに従っている。",
+                "zh": "经济遵循循环模式。",
+                "fr": "L'économie suit un modèle cyclique."
+            }
+        },
+        {
+            "word": "cycle",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cycl",
+                    "meaning": {
+                        "ko": "원, 순환",
+                        "en": "circle, circulation",
+                        "ja": "円、循環",
+                        "zh": "圆、循环",
+                        "fr": "cercle, circulation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'순환', '주기'를 뜻합니다.",
+                "en": "Means 'circulation' or 'period'",
+                "ja": "循環や周期を意味します",
+                "zh": "意思是'循环'或'周期'",
+                "fr": "Signifie 'circulation' ou 'période'"
+            },
+            "example": "The life cycle of a butterfly is amazing.",
+            "translation": {
+                "ko": "나비의 생애 주기는 놀랍다.",
+                "ja": "蝶のライフサイクルは驚くべきものです。",
+                "zh": "蝴蝶的生命周期令人惊叹。",
+                "fr": "Le cycle de vie du papillon est incroyable."
+            }
+        }
+    ]
+}

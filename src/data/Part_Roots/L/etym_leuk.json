@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "leuk(o) (white, clear) leukocyte, leukemia",
+        "origin": "Greek, leukos (white)",
+        "meaning": {
+            "ko": "흰색",
+            "en": "white",
+            "ja": "白",
+            "zh": "白色",
+            "fr": "blanc"
+        }
+    },
+    "words": [
+        {
+            "word": "leukocyte",
+            "part_of_speech": "",
+            "origin": "Greek, leukos (white) + kytos (hollow, cell)",
+            "meaning": {
+                "ko": "흰 세포",
+                "en": "white blood cell",
+                "ja": "白血球",
+                "zh": "白血球",
+                "fr": "leucocyte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leuko-",
+                    "meaning": {
+                        "ko": "'흰색'",
+                        "en": "white",
+                        "ja": "白い",
+                        "zh": "白色",
+                        "fr": "blanc"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cyte",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈액 속의 흰색 세포'라는 의미에서 '백혈구'를 뜻합니다.",
+                "en": "Means 'white blood cell' referring to colorless cells in blood that fight infections",
+                "ja": "血液中の白い細胞という意味で、感染と戦う無色の細胞を指します",
+                "zh": "指血液中的白色细胞，可以对抗感染",
+                "fr": "Signifie 'cellule sanguine blanche' référant aux cellules incolores qui combattent les infections"
+            },
+            "example": "Leukocytes help fight off infections.",
+            "translation": {
+                "ko": "백혈구는 감염과 싸우는 것을 돕는다.",
+                "ja": "白血球は感染と戦うのに役立ちます。",
+                "zh": "白血球有助于对抗感染。",
+                "fr": "Les leucocytes aident à combattre les infections."
+            }
+        },
+        {
+            "word": "leukemia",
+            "part_of_speech": "",
+            "origin": "Greek, leukos (white) + haima (blood)",
+            "meaning": {
+                "ko": "흰 피",
+                "en": "white blood",
+                "ja": "白血病",
+                "zh": "白血病",
+                "fr": "leucémie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leuk-",
+                    "meaning": {
+                        "ko": "'흰색'",
+                        "en": "white",
+                        "ja": "白い",
+                        "zh": "白色",
+                        "fr": "blanc"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "emia",
+                    "meaning": {
+                        "ko": "'혈액 상태'",
+                        "en": "blood condition",
+                        "ja": "血液の状態",
+                        "zh": "血液状态",
+                        "fr": "état du sang"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'비정상적인 백혈구가 과도하게 증식하는' 혈액암의 일종인 '백혈병'을 뜻합니다.",
+                "en": "A type of blood cancer where abnormal white blood cells proliferate excessively",
+                "ja": "異常な白血球が過度に増殖する血液がんの一種",
+                "zh": "异常白细胞过度增殖的血液癌症",
+                "fr": "Type de cancer du sang où les globules blancs anormaux se multiplient excessivement"
+            },
+            "example": "Leukemia is a type of cancer that affects the blood and bone marrow.",
+            "translation": {
+                "ko": "백혈병은 혈액과 골수에 영향을 미치는 암의 일종이다.",
+                "ja": "白血病は血液と骨髄に影響する癌の一種です。",
+                "zh": "白血病是一种影响血液和骨髓的癌症。",
+                "fr": "La leucémie est un type de cancer qui affecte le sang et la moelle osseuse."
+            }
+        }
+    ]
+}

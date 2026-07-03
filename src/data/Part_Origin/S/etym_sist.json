@@ -1,0 +1,309 @@
+{
+    "root_info": {
+        "roots": "sist: to withstand, make up",
+        "origin": "Latin, sistere (to stand, to cause to stand)",
+        "meaning": {
+            "ko": "서다",
+            "en": "to stand",
+            "ja": "立つ",
+            "zh": "站立",
+            "fr": "se tenir debout"
+        }
+    },
+    "words": [
+        {
+            "word": "desist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away from",
+                        "ja": "離れて",
+                        "zh": "远离",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리 떨어져 서다'는 의미에서, 하던 행동을 '그만두다', '단념하다'는 뜻입니다.",
+                "en": "From the sense of 'stand apart/away': to stop doing, to cease or abandon an action",
+                "ja": "「遠く離れて立つ」という意味から、行動を「やめる」「中止する」という意味になります。",
+                "zh": "从「远离而立」的含义引申出来，表示「停止」「放弃」某个行动。",
+                "fr": "Du sens de « se tenir à l'écart » : cesser, arrêter ou abandonner une action."
+            },
+            "example": "You must desist from this behavior.",
+            "translation": {
+                "ko": "당신은 이 행동을 그만둬야 합니다.",
+                "ja": "あなたはこの行動をやめなければなりません。",
+                "zh": "你必须停止这种行为。",
+                "fr": "Vous devez cesser ce comportement."
+            }
+        },
+        {
+            "word": "insist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "위에",
+                        "en": "upon",
+                        "ja": "上に",
+                        "zh": "在...之上",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어떤 입장 '위에 굳게 서다'는 의미에서, '주장하다', '고집하다'는 뜻입니다.",
+                "en": "From the sense of 'to stand firmly upon a position,' meaning 'to assert' or 'to persist stubbornly.'",
+                "ja": "ある立場の『上に固く立つ』という意味から、『主張する』『こだわる』という意味になります。",
+                "zh": "从'牢固地站在某个立场之上'的含义引申，表示'坚持主张'或'固执己见'。",
+                "fr": "Du sens de 'se tenir fermement sur une position', signifiant 'affirmer' ou 'persister avec obstination'."
+            },
+            "example": "I insist that you tell the truth.",
+            "translation": {
+                "ko": "나는 당신이 진실을 말해야 한다고 주장한다.",
+                "ja": "私はあなたが真実を言うべきだと主張します。",
+                "zh": "我坚持你必须说出真相。",
+                "fr": "J'insiste pour que vous disiez la vérité."
+            }
+        },
+        {
+            "word": "consist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "with",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "여러 부분이 '함께 서 있다'는 의미에서, '~으로 구성되다'(consist of) 또는 '~에 존재하다'(consist in)는 뜻으로 쓰입니다.",
+                "en": "From the idea of multiple parts 'standing together': means 'be composed of' (consist of) or 'exist in' (consist in)",
+                "ja": "複数の部分が「一緒に立っている」という意味から、「~で構成される」(consist of)または「~に存在する」(consist in)という意味で使われます。",
+                "zh": "从多个部分「一起站立」的概念引申，表示「由...组成」(consist of)或「存在于...中」(consist in)。",
+                "fr": "De l'idée que plusieurs parties « se tiennent ensemble » : signifie « être composé de » (consist of) ou « exister dans » (consist in)"
+            },
+            "example": "The team consists of five members.",
+            "translation": {
+                "ko": "그 팀은 다섯 명의 멤버로 구성되어 있다.",
+                "ja": "そのチームは5人のメンバーで構成されている。",
+                "zh": "那个团队由五名成员组成。",
+                "fr": "L'équipe est composée de cinq membres."
+            }
+        },
+        {
+            "word": "persist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "통하여, 끝까지",
+                        "en": "through",
+                        "ja": "通して、最後まで",
+                        "zh": "通过、始终",
+                        "fr": "à travers, jusqu'au bout"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'끝까지 굳게 서 있다'는 의미에서, 어려움에도 불구하고 '계속하다', '고집하다' 또는 상태가 '지속되다'는 뜻입니다.",
+                "en": "From the sense 'to stand firmly to the end': despite difficulties, 'to continue', 'to insist', or 'to last'.",
+                "ja": "「最後まで堅く立つ」という意味から、困難にもかかわらず「続ける」「主張する」または「持続する」という意味になりました。",
+                "zh": "从「坚定地站到最后」的含义引申，表示尽管有困难也要「继续」「坚持」或状态「持续」。",
+                "fr": "Du sens « se tenir fermement jusqu'à la fin »: malgré les difficultés, « continuer », « persister » ou « durer »."
+            },
+            "example": "If the symptoms persist, see a doctor.",
+            "translation": {
+                "ko": "증상이 지속되면 의사의 진찰을 받으세요.",
+                "ja": "症状が続くようであれば、医師の診察を受けてください。",
+                "zh": "如果症状持续，请去看医生。",
+                "fr": "Si les symptômes persistent, consultez un médecin."
+            }
+        },
+        {
+            "word": "subsistence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "아래에",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "서다, 존재하다",
+                        "en": "to stand, exist",
+                        "ja": "立つ、存在する",
+                        "zh": "站立、存在",
+                        "fr": "se tenir, exister"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'겨우 서 있을 수 있는' 상태라는 의미에서, '최저 생활', '생존'을 뜻합니다.",
+                "en": "From the sense of 'barely able to stand,' meaning minimal living or survival.",
+                "ja": "「かろうじて立つことができる」という意味から、「最低限の生活」「生存」を意味します。",
+                "zh": "从\"仅能维持站立\"的含义引申，表示\"最低生活\"或\"生存\"。",
+                "fr": "Du sens de « à peine capable de tenir debout », signifiant subsistance minimale ou survie."
+            },
+            "example": "They live at a subsistence level.",
+            "translation": {
+                "ko": "그들은 최저 생활 수준으로 산다.",
+                "ja": "彼らは最低限の生活水準で暮らしている。",
+                "zh": "他们以最低生活水平生活。",
+                "fr": "Ils vivent au niveau de subsistence."
+            }
+        },
+        {
+            "word": "assist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "as- (ad-)",
+                    "meaning": {
+                        "ko": "~곁에",
+                        "en": "to, by",
+                        "ja": "に、そばに",
+                        "zh": "向，在...旁",
+                        "fr": "à, près de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "도움이 필요한 사람 '곁에 서 있다'는 의미에서, '돕다', '원조하다'는 뜻입니다.",
+                "en": "From the sense of 'standing by someone in need,' meaning to help or provide support.",
+                "ja": "助けが必要な人の『そばに立つ』という意味から、『手伝う』『援助する』という意味になりました。",
+                "zh": "从『站在需要帮助的人身旁』的含义引申而来，表示『帮助』、『提供援助』。",
+                "fr": "Du sens de 'se tenir auprès de quelqu'un qui a besoin d'aide', signifiant aider ou soutenir."
+            },
+            "example": "Can I assist you with anything?",
+            "translation": {
+                "ko": "무언가 도와드릴까요?",
+                "ja": "何かお手伝いできることはありますか？",
+                "zh": "我能帮你什么吗？",
+                "fr": "Puis-je vous aider avec quelque chose ?"
+            }
+        },
+        {
+            "word": "resist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "반대로",
+                        "en": "against",
+                        "ja": "に対して",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sist",
+                    "meaning": {
+                        "ko": "서다",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir debout"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'~에 맞서 서다'는 의미에서, '저항하다', '반대하다'는 뜻입니다.",
+                "en": "Meaning 'to stand against', signifies 'to resist' or 'to oppose'",
+                "ja": "『~に対して立つ』という意味で、『抵抗する』、『反対する』という意味です",
+                "zh": "在'对抗站立'的意思上，表示'抵抗'或'反对'的含义",
+                "fr": "Signifiant 'se tenir contre', exprime le sens de 'résister' ou 's'opposer'"
+            },
+            "example": "It's hard to resist chocolate.",
+            "translation": {
+                "ko": "초콜릿을 참기는 어렵다.",
+                "ja": "チョコレートに抵抗するのは難しい。",
+                "zh": "很难抵抗巧克力。",
+                "fr": "C'est difficile de résister au chocolat."
+            }
+        }
+    ]
+}

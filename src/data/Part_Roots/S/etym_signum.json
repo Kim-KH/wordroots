@@ -1,0 +1,221 @@
+{
+    "root_info": {
+        "roots": "signum (sign) sign, signal, signet, signature, signify",
+        "origin": "Latin, signum (a mark, a sign)",
+        "meaning": {
+            "ko": "표시, 신호",
+            "en": "a sign",
+            "ja": "しるし、合図",
+            "zh": "标志、信号",
+            "fr": "signe, signal"
+        }
+    },
+    "words": [
+        {
+            "word": "sign",
+            "part_of_speech": "",
+            "origin": "Latin, signum (a mark)",
+            "meaning": {
+                "ko": "표시",
+                "en": "mark or indication",
+                "ja": "表示、標識",
+                "zh": "标志、迹象",
+                "fr": "signe, indication"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sign-",
+                    "meaning": {
+                        "ko": "'표시'",
+                        "en": "mark",
+                        "ja": "印、標",
+                        "zh": "标记、符号",
+                        "fr": "marque, trace"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것을 나타내는 표시'라는 의미에서 '신호', '표지판', '징후'를 뜻합니다.",
+                "en": "Indicates signal, sign board, or symptom that represents something",
+                "ja": "何かを示す信号、標識、症状を意味します",
+                "zh": "表示某事物的信号、标志牌或症状",
+                "fr": "Signifie signal, panneau ou symptôme représentant quelque chose"
+            },
+            "example": "A red light is a sign to stop.",
+            "translation": {
+                "ko": "빨간 불은 정지 신호이다.",
+                "ja": "赤い光は止まれという合図です",
+                "zh": "红灯是停止的标志",
+                "fr": "Un feu rouge est un signe pour s'arrêter"
+            }
+        },
+        {
+            "word": "signal",
+            "part_of_speech": "",
+            "origin": "Latin, signale (a signal)",
+            "meaning": {
+                "ko": "신호",
+                "en": "signal or sign",
+                "ja": "合図、信号",
+                "zh": "信号、标志",
+                "fr": "signal, signe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sign-",
+                    "meaning": {
+                        "ko": "'표시'",
+                        "en": "mark",
+                        "ja": "標識",
+                        "zh": "标记",
+                        "fr": "marque"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정보를 전달하기 위한 표시'인 '신호'를 뜻합니다.",
+                "en": "Refers to a mark or sign used to convey information",
+                "ja": "情報を伝えるための標識",
+                "zh": "用于传递信息的标记",
+                "fr": "Une marque ou un signe utilisé pour transmettre des informations"
+            },
+            "example": "He gave me a signal to be quiet.",
+            "translation": {
+                "ko": "그는 나에게 조용히 하라는 신호를 보냈다.",
+                "ja": "彼は静かにするよう合図をくれた。",
+                "zh": "他给了我一个安静的信号。",
+                "fr": "Il m'a fait un signe de rester silencieux."
+            }
+        },
+        {
+            "word": "signet",
+            "part_of_speech": "",
+            "origin": "Latin, signum (a mark)",
+            "meaning": {
+                "ko": "표시",
+                "en": "a mark or sign",
+                "ja": "印鑑",
+                "zh": "印章",
+                "fr": "sceau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sign-",
+                    "meaning": {
+                        "ko": "'표시'",
+                        "en": "mark",
+                        "ja": "標印",
+                        "zh": "标记",
+                        "fr": "marque"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공식적인 표시를 찍는 작은 도장'인 '인장'을 뜻합니다.",
+                "en": "A small seal that makes an official mark",
+                "ja": "公式な標印を押す小さな印章",
+                "zh": "打上官方标记的小印章",
+                "fr": "Un petit sceau qui fait une marque officielle"
+            },
+            "example": "The king sealed the letter with his signet ring.",
+            "translation": {
+                "ko": "왕은 그의 인장 반지로 편지를 봉인했다.",
+                "ja": "王は手紙に自分の印鑑をおした。",
+                "zh": "国王用他的印章在信上盖章。",
+                "fr": "Le roi scella la lettre avec sa bague à sceau."
+            }
+        },
+        {
+            "word": "signature",
+            "part_of_speech": "",
+            "origin": "Latin, signatura (a signature)",
+            "meaning": {
+                "ko": "서명",
+                "en": "a person's name written in their own handwriting",
+                "ja": "署名",
+                "zh": "签名",
+                "fr": "signature"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sign-",
+                    "meaning": {
+                        "ko": "'표시하다'",
+                        "en": "to mark",
+                        "ja": "印をつける",
+                        "zh": "标记",
+                        "fr": "marquer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신임을 표시하기 위해 쓴 이름'인 '서명'을 뜻합니다.",
+                "en": "A name written to indicate one's identity",
+                "ja": "自分であることを示すために書いた名前",
+                "zh": "为表明身份而写下的名字",
+                "fr": "Un nom écrit pour indiquer son identité"
+            },
+            "example": "Please put your signature on the dotted line.",
+            "translation": {
+                "ko": "점선 위에 서명해 주세요.",
+                "ja": "署名欄の点線に署名を入れてください",
+                "zh": "请在虚线上签名",
+                "fr": "Veuillez signer sur la ligne pointillée"
+            }
+        },
+        {
+            "word": "signify",
+            "part_of_speech": "",
+            "origin": "Latin, significare (to make a sign)",
+            "meaning": {
+                "ko": "표시를 만들다",
+                "en": "to make a sign",
+                "ja": "意味を表す",
+                "zh": "表示意义",
+                "fr": "signifier quelque chose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sign-",
+                    "meaning": {
+                        "ko": "'표시'",
+                        "en": "sign",
+                        "ja": "記号",
+                        "zh": "标记",
+                        "fr": "signe"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'표시를 만들어 어떤 의미를 나타내다'는 뜻입니다.",
+                "en": "To create a sign or indicator to express some meaning",
+                "ja": "記号を作ってある意味を表すこと",
+                "zh": "制造标记来表达某种含义",
+                "fr": "Créer un signe pour exprimer une signification"
+            },
+            "example": "A flashing red light can signify danger.",
+            "translation": {
+                "ko": "깜박이는 빨간 불은 위험을 의미할 수 있다.",
+                "ja": "点滅する赤い光は危険を意味することができる",
+                "zh": "闪烁的红灯可以表示危险",
+                "fr": "Un feu rouge clignotant peut signifier le danger"
+            }
+        }
+    ]
+}

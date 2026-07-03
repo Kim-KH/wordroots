@@ -1,0 +1,171 @@
+{
+    "root_info": {
+        "roots": "pate (shallow, pan) pate, patella, paten, patent",
+        "origin": "Latin, patina (a shallow dish, a pan)",
+        "meaning": {
+            "ko": "얕은 접시",
+            "en": "shallow dish",
+            "ja": "浅い皿",
+            "zh": "浅碟",
+            "fr": "plat peu profond"
+        }
+    },
+    "words": [
+        {
+            "word": "pate",
+            "part_of_speech": "",
+            "origin": "Old French, pate (head)",
+            "meaning": {
+                "ko": "머리",
+                "en": "head",
+                "ja": "頭頂",
+                "zh": "头顶",
+                "fr": "sommet de la tête"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pate-",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头",
+                        "fr": "tête"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리의 윗부분', '정수리'를 뜻하는 옛말입니다.",
+                "en": "An archaic word meaning the top part of the head or crown",
+                "ja": "頭の上部、頭頂を意味する古い言葉です",
+                "zh": "指头部上方或头顶的古语",
+                "fr": "Mot archaïque désignant le sommet ou la couronne de la tête"
+            },
+            "example": "He had a bald pate.",
+            "translation": {
+                "ko": "그는 정수리가 벗겨졌다.",
+                "ja": "彼はハゲた頭頂を持っていた。",
+                "zh": "他有一个秃顶。",
+                "fr": "Il avait un sommet de tête chauve."
+            }
+        },
+        {
+            "word": "patella",
+            "part_of_speech": "",
+            "origin": "Latin, patella (a small pan or dish)",
+            "meaning": {
+                "ko": "작은 접시",
+                "en": "small dish",
+                "ja": "小さな皿",
+                "zh": "小盘子",
+                "fr": "petit plat"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pate- (patina)",
+                    "meaning": {
+                        "ko": "'접시'",
+                        "en": "dish",
+                        "ja": "皿",
+                        "zh": "盘子",
+                        "fr": "plat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작고 얕은 접시 모양'의 뼈라는 의미에서 '슬개골', '무릎뼈'를 뜻합니다.",
+                "en": "Refers to the kneecap or patella bone, named for its small, shallow dish-like shape",
+                "ja": "小さく浅い皿の形をした骨の意味から、膝蓋骨、膝の骨を指します",
+                "zh": "从小而浅的盘状骨的意义来说，指膝盖骨或膝骨",
+                "fr": "Désigne l'os du genou nommé pour sa forme de petit plat peu profond"
+            },
+            "example": "The patella is the bone at the front of the knee joint.",
+            "translation": {
+                "ko": "슬개골은 무릎 관절 앞쪽에 있는 뼈이다.",
+                "ja": "膝蓋骨の骨は膝関節の前にあります。",
+                "zh": "膝盖骨位于膝关节的前面。",
+                "fr": "La rotule est l'os situé à l'avant de l'articulation du genou."
+            }
+        },
+        {
+            "word": "paten",
+            "part_of_speech": "",
+            "origin": "Latin, patina (a dish)",
+            "meaning": {
+                "ko": "접시",
+                "en": "a shallow dish or plate",
+                "ja": "聖杯皿",
+                "zh": "圣餐盘",
+                "fr": "patène"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pate-",
+                    "meaning": {
+                        "ko": "'접시'",
+                        "en": "dish",
+                        "ja": "浅い皿",
+                        "zh": "浅盘",
+                        "fr": "plateau peu profond"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'성찬식에서 빵을 담는 얕은 접시'인 '성반(聖盤)'을 뜻합니다.",
+                "en": "A shallow dish used to hold bread during the Eucharist ceremony",
+                "ja": "聖餐式でパンを入れるための浅い皿",
+                "zh": "圣餐仪式中放置面包的浅盘",
+                "fr": "Plateau peu profond pour tenir le pain lors de l'Eucharistie"
+            },
+            "example": "The priest placed the bread on the paten.",
+            "translation": {
+                "ko": "사제는 빵을 성반 위에 놓았다.",
+                "ja": "司祭は聖杯皿にパンを置いた。",
+                "zh": "神父把面包放在圣餐盘上。",
+                "fr": "Le prêtre posa le pain sur la patène."
+            }
+        },
+        {
+            "word": "patent",
+            "part_of_speech": "",
+            "origin": "Latin, patere (to lie open)",
+            "meaning": {
+                "ko": "열려 있다",
+                "en": "to be open",
+                "ja": "公開されている",
+                "zh": "公开的",
+                "fr": "ouvert"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pate-",
+                    "meaning": {
+                        "ko": "'열려 있다'",
+                        "en": "to be open",
+                        "ja": "開いている",
+                        "zh": "开放的",
+                        "fr": "être ouvert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모두에게 열려 있는' 왕의 공식 문서에서 유래하여, 발명에 대한 독점권을 주는 '특허'를 뜻하게 되었습니다.",
+                "en": "Derived from the king's official documents that were 'open to all', it came to mean 'patent' - granting exclusive rights to inventions.",
+                "ja": "すべての人に公開されている王の公式文書に由来し、発明に対する独占権を与える特許を意味するようになりました。",
+                "zh": "源自向所有人公开的王室官方文件，后来指代给予发明独占权的专利。",
+                "fr": "Dérivé des documents officiels royaux 'ouverts à tous', il en est venu à signifier 'brevet' - accordant des droits exclusifs aux inventions."
+            },
+            "example": "He holds a patent for his invention.",
+            "translation": {
+                "ko": "그는 자신의 발명품에 대한 특허를 보유하고 있다.",
+                "ja": "彼は自分の発明に対する特許を保有している。",
+                "zh": "他拥有其发明的专利。",
+                "fr": "Il détient un brevet pour son invention."
+            }
+        }
+    ]
+}

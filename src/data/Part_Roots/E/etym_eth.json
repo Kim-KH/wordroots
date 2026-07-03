@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "eth(i) (character) ethics, ethical",
+        "origin": "Greek, ethos (character, custom)",
+        "meaning": {
+            "ko": "성격, 관습",
+            "en": "character, custom",
+            "ja": "性格、習慣",
+            "zh": "性格，习俗",
+            "fr": "caractère, coutume"
+        }
+    },
+    "words": [
+        {
+            "word": "ethics",
+            "part_of_speech": "",
+            "origin": "Greek, ethika (matters of character)",
+            "meaning": {
+                "ko": "성격에 관한 것",
+                "en": "relating to character",
+                "ja": "倫理、道徳",
+                "zh": "伦理、道德",
+                "fr": "éthique, morale"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eth-",
+                    "meaning": {
+                        "ko": "'성격, 도덕'",
+                        "en": "character",
+                        "ja": "性格、道徳",
+                        "zh": "性格、道德",
+                        "fr": "caractère, moralité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람의 성품과 행동의 옳고 그름에 관한 학문'이라는 의미에서 '윤리학' 또는 '윤리'를 뜻합니다.",
+                "en": "Refers to 'ethics' or 'moral philosophy' in the sense of the science of what is right and wrong in human character and conduct",
+                "ja": "人間の性品と行動の正否に関する学問という意味で、倫理学または倫理を意味します",
+                "zh": "指关于人的品格和行为的正确与错误的学问，意为伦理学或伦理",
+                "fr": "Signifie 'éthique' ou 'philosophie morale' au sens de la science du bien et du mal dans le caractère et la conduite humains"
+            },
+            "example": "The company has a strict code of ethics.",
+            "translation": {
+                "ko": "그 회사는 엄격한 윤리 강령을 가지고 있다.",
+                "ja": "その企業は厳格な倫理規範を持っています",
+                "zh": "该公司有严格的伦理准则",
+                "fr": "L'entreprise a un code d'éthique strict"
+            }
+        },
+        {
+            "word": "ethical",
+            "part_of_speech": "",
+            "origin": "Greek, ethikos (of or for morals)",
+            "meaning": {
+                "ko": "도덕의",
+                "en": "of morality",
+                "ja": "道徳的な",
+                "zh": "道德的",
+                "fr": "éthique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eth-",
+                    "meaning": {
+                        "ko": "'성격, 도덕'",
+                        "en": "character",
+                        "ja": "性格、道徳",
+                        "zh": "性格、道德",
+                        "fr": "caractère, morale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'윤리와 관련된' 또는 '도덕적으로 옳은'이라는 뜻입니다.",
+                "en": "Related to ethics or morally correct",
+                "ja": "倫理に関連した、または道徳的に正しいという意味です",
+                "zh": "与伦理相关或道德上正确的意思",
+                "fr": "Relatif à l'éthique ou moralement correct"
+            },
+            "example": "It is not ethical to lie to your customers.",
+            "translation": {
+                "ko": "고객에게 거짓말을 하는 것은 비윤리적이다.",
+                "ja": "顧客に嘘をつくことは道徳的ではありません。",
+                "zh": "对顾客说谎在道德上是不对的。",
+                "fr": "Il n'est pas éthique de mentir à vos clients."
+            }
+        }
+    ]
+}

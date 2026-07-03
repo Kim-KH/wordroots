@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "sapien (wise) sapience, sapient, savant",
+        "origin": "Latin, sapere (to be wise, to taste)",
+        "meaning": {
+            "ko": "현명하다",
+            "en": "to be wise",
+            "ja": "賢い",
+            "zh": "聪慧",
+            "fr": "être sage"
+        }
+    },
+    "words": [
+        {
+            "word": "sapience",
+            "part_of_speech": "",
+            "origin": "Latin, sapientia (wisdom)",
+            "meaning": {
+                "ko": "지혜",
+                "en": "wisdom",
+                "ja": "知恵",
+                "zh": "智慧",
+                "fr": "sagesse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sap-",
+                    "meaning": {
+                        "ko": "'현명하다'",
+                        "en": "to be wise",
+                        "ja": "賢い",
+                        "zh": "聪慧的",
+                        "fr": "être sage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깊은 지혜'를 뜻합니다.",
+                "en": "It means deep wisdom",
+                "ja": "深い知恵を意味します",
+                "zh": "表示深刻的智慧",
+                "fr": "Cela signifie une sagesse profonde"
+            },
+            "example": "The novel explores the nature of human sapience.",
+            "translation": {
+                "ko": "그 소설은 인간 지혜의 본질을 탐구한다.",
+                "ja": "その小説は人間の知恵の本質を探求している。",
+                "zh": "这部小说探讨了人类智慧的本质。",
+                "fr": "Le roman explore la nature de la sagesse humaine."
+            }
+        },
+        {
+            "word": "sapient",
+            "part_of_speech": "",
+            "origin": "Latin, sapiens (wise)",
+            "meaning": {
+                "ko": "현명한",
+                "en": "wise",
+                "ja": "賢い",
+                "zh": "聪慧的",
+                "fr": "sage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sap-",
+                    "meaning": {
+                        "ko": "'현명하다'",
+                        "en": "to be wise",
+                        "ja": "賢い",
+                        "zh": "聪慧",
+                        "fr": "être sage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'현명한', '슬기로운'이라는 뜻입니다. '호모 사피엔스(Homo sapiens)'는 '현명한 사람'이라는 뜻입니다.",
+                "en": "Means 'wise' or 'intelligent'. Homo sapiens means 'wise man'.",
+                "ja": "'賢い'、'聡明な'という意味です。'ホモ・サピエンス(Homo sapiens)'は'賢い人'という意味です。",
+                "zh": "意思是'聪慧'或'聪明'。'智人(Homo sapiens)'的意思是'聪慧的人'。",
+                "fr": "Signifie 'sage' ou 'intelligent'. Homo sapiens signifie 'homme sage'."
+            },
+            "example": "The sapient leader guided his people through the crisis.",
+            "translation": {
+                "ko": "그 현명한 지도자는 위기 속에서 그의 백성을 이끌었다.",
+                "ja": "その賢い指導者は危機を通じて人々を導いた。",
+                "zh": "这位聪慧的领导者带领他的人民度过了危机。",
+                "fr": "Le leader sage a guidé son peuple à travers la crise."
+            }
+        },
+        {
+            "word": "savant",
+            "part_of_speech": "",
+            "origin": "French, savant (a learned person)",
+            "meaning": {
+                "ko": "학식 있는 사람",
+                "en": "learned or knowledgeable person",
+                "ja": "学識のある人",
+                "zh": "学识渊博的人",
+                "fr": "personne érudite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sav- (sapere)",
+                    "meaning": {
+                        "ko": "'알다, 현명하다'",
+                        "en": "to know, be wise",
+                        "ja": "知る、賢い",
+                        "zh": "了解、聪慧",
+                        "fr": "savoir, être sage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 분야에 비범한 재능을 보이는 사람'인 '석학', '학자' 또는 '서번트 증후군' 환자를 뜻합니다.",
+                "en": "Refers to a 'scholar' or 'polymath' who shows extraordinary talent in a specific field, or a person with savant syndrome.",
+                "ja": "特定分野で非凡な才能を示す『碩学』『学者』またはサヴァン症候群の患者を指します。",
+                "zh": "指在特定领域表现出超凡才能的'博学者''学者'或患有学者综合征的人。",
+                "fr": "Désigne un 'érudit' ou une 'personne aux talents extraordinaires' dans un domaine particulier, ou une personne atteinte du syndrome du savant."
+            },
+            "example": "He is a musical savant.",
+            "translation": {
+                "ko": "그는 음악 천재이다.",
+                "ja": "彼は音楽の天才です。",
+                "zh": "他是音乐天才。",
+                "fr": "Il est un savant musical."
+            }
+        }
+    ]
+}

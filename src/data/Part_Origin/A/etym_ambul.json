@@ -1,0 +1,150 @@
+{
+    "root_info": {
+        "roots": "ambul",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "걷다",
+            "en": "to walk",
+            "ja": "歩く",
+            "zh": "走",
+            "fr": "marcher"
+        }
+    },
+    "words": [
+        {
+            "word": "ambulatory",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ambul",
+                    "meaning": {
+                        "ko": "걷다",
+                        "en": "to walk",
+                        "ja": "歩く",
+                        "zh": "走路",
+                        "fr": "marcher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'걷는 것과 관련된'이라는 의미에서 '보행의', '이동하는'이라는 뜻입니다.",
+                "en": "Related to walking; capable of moving about on foot",
+                "ja": "歩くことに関連した意味で、「歩行可能な」「移動できる」という意味です。",
+                "zh": "与行走有关，意为「能行走的」、「能活动的」。",
+                "fr": "Relatif à la marche; capable de se déplacer à pied."
+            },
+            "example": "The patient is now fully ambulatory.",
+            "translation": {
+                "ko": "그 환자는 이제 완전히 걸을 수 있다.",
+                "ja": "その患者は今、完全に歩行できる。",
+                "zh": "那位患者现在完全可以行走。",
+                "fr": "Le patient peut maintenant marcher complètement."
+            }
+        },
+        {
+            "word": "amble",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ambul",
+                    "meaning": {
+                        "ko": "걷다",
+                        "en": "to walk",
+                        "ja": "歩く",
+                        "zh": "行走",
+                        "fr": "marcher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'느긋하게 걷다'는 뜻입니다.",
+                "en": "to walk slowly and leisurely",
+                "ja": "ゆっくりとのんびり歩くことを意味します",
+                "zh": "表示缓慢悠闲地行走",
+                "fr": "marcher lentement et sans hâte"
+            },
+            "example": "They ambled along the riverbank.",
+            "translation": {
+                "ko": "그들은 강둑을 따라 한가로이 걸었다.",
+                "ja": "彼らは川岸をのんびり歩いた",
+                "zh": "他们沿着河岸悠闲地漫步",
+                "fr": "Ils se promenaient tranquillement le long de la rive"
+            }
+        },
+        {
+            "word": "ambulance",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ambul",
+                    "meaning": {
+                        "ko": "걷다, 움직이다",
+                        "en": "to walk, move",
+                        "ja": "歩く、動く",
+                        "zh": "行走、移动",
+                        "fr": "marcher, bouger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 전쟁터의 '이동식 병원'을 의미하는 프랑스어에서 유래했습니다. 환자를 이송하는 '구급차'를 뜻합니다.",
+                "en": "From French, originally meaning a mobile hospital on the battlefield. Now refers to an emergency vehicle for transporting patients.",
+                "ja": "元々は戦場の『移動式病院』を意味するフランス語に由来しています。患者を運ぶ『救急車』を意味します。",
+                "zh": "源自法语，原意为战场上的'流动医院'。现指运送患者的'救护车'。",
+                "fr": "Du français, désignant à l'origine un hôpital de campagne mobile. Signifie maintenant un véhicule d'urgence pour transporter les patients."
+            },
+            "example": "Call an ambulance immediately!",
+            "translation": {
+                "ko": "즉시 구급차를 불러주세요!",
+                "ja": "すぐに救急車を呼んでください！",
+                "zh": "立即叫救护车！",
+                "fr": "Appelez une ambulance immédiatement !"
+            }
+        },
+        {
+            "word": "somnambulist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "somn",
+                    "meaning": {
+                        "ko": "잠",
+                        "en": "sleep",
+                        "ja": "眠り",
+                        "zh": "睡眠",
+                        "fr": "sommeil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ambul",
+                    "meaning": {
+                        "ko": "걷다",
+                        "en": "to walk",
+                        "ja": "歩く",
+                        "zh": "行走",
+                        "fr": "marcher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잠을 자면서 걷는 사람'이라는 의미에서 '몽유병자'를 뜻합니다.",
+                "en": "A person who walks while sleeping; from Latin somnus (sleep) and ambulare (to walk)",
+                "ja": "眠りながら歩く人という意味で、睡眠中に歩行する人を指します",
+                "zh": "指睡眠中行走的人，字面意思为'睡着时行走的人'",
+                "fr": "Une personne qui marche pendant son sommeil; du latin somnus (sommeil) et ambulare (marcher)"
+            },
+            "example": "The somnambulist walked out of the house.",
+            "translation": {
+                "ko": "그 몽유병자는 집 밖으로 걸어 나갔다.",
+                "ja": "その睡眠中遊行者は家から歩き出た。",
+                "zh": "那个梦游者走出了房子。",
+                "fr": "Le somnambule a marché hors de la maison."
+            }
+        }
+    ]
+}

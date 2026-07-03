@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "agr(o) (fields, soil) agriculture, agronomy",
+        "origin": "Latin, ager (field, land)",
+        "meaning": {
+            "ko": "들판",
+            "en": "field",
+            "ja": "野原、分野",
+            "zh": "田野、领域",
+            "fr": "champ"
+        }
+    },
+    "words": [
+        {
+            "word": "agriculture",
+            "part_of_speech": "",
+            "origin": "Latin, agricultura (cultivation of land)",
+            "meaning": {
+                "ko": "밭을 경작하다",
+                "en": "to cultivate the field",
+                "ja": "農地を耕作する",
+                "zh": "耕作田地",
+                "fr": "cultiver les champs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agri (ager)",
+                    "meaning": {
+                        "ko": "'들판, 토지'",
+                        "en": "field, land",
+                        "ja": "土地、畑",
+                        "zh": "土地、田野",
+                        "fr": "terre, champ"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "culture (cultura)",
+                    "meaning": {
+                        "ko": "'경작'",
+                        "en": "cultivation",
+                        "ja": "耕作",
+                        "zh": "耕作",
+                        "fr": "culture"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'땅(agri)을 경작하는(culture) 것'이라는 의미가 합쳐져 '농업', '농사'라는 뜻이 되었습니다.",
+                "en": "The combination of 'land (agri)' and 'cultivation (culture)' merged to mean agriculture or farming.",
+                "ja": "『土地(agri)を耕作する(culture)こと』という意味が合わさって『農業』『農作業』という意味になりました。",
+                "zh": "『土地(agri)的耕作(culture)』的含义结合在一起，形成了『农业』『种植』的意思。",
+                "fr": "La combinaison de 'terre (agri)' et 'culture (culture)' s'est fusionnée pour signifier agriculture ou exploitation agricole."
+            },
+            "example": "The region's economy is heavily dependent on agriculture.",
+            "translation": {
+                "ko": "그 지역의 경제는 농업에 크게 의존하고 있다.",
+                "ja": "その地域の経済は農業に大きく依存しています。",
+                "zh": "该地区的经济在很大程度上依赖农业。",
+                "fr": "L'économie de la région dépend fortement de l'agriculture."
+            }
+        },
+        {
+            "word": "agronomy",
+            "part_of_speech": "",
+            "origin": "Greek, agronomos (overseer of land)",
+            "meaning": {
+                "ko": "땅을 관리하다",
+                "en": "to manage the field",
+                "ja": "農地管理学",
+                "zh": "田地管理学",
+                "fr": "gestion des champs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agro- (agros)",
+                    "meaning": {
+                        "ko": "'들판'",
+                        "en": "field",
+                        "ja": "畑",
+                        "zh": "田地",
+                        "fr": "champ"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomy (nomos)",
+                    "meaning": {
+                        "ko": "'관리, 법칙'",
+                        "en": "management, law",
+                        "ja": "管理法則",
+                        "zh": "管理规律",
+                        "fr": "gestion loi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'들판(agro)을 관리하는 학문(nomy)'이라는 뜻에서, 토양 관리와 작물 생산을 다루는 '농경학' 또는 '작물학'을 의미합니다.",
+                "en": "Agronomy means the science of managing fields and crops, dealing with soil management and crop production, also called crop science or agricultural science.",
+                "ja": "農学は畑を管理する学問という意味で、土壌管理と作物生産を扱う学科、農作学または作物学とも呼ばれます。",
+                "zh": "农学是管理田地的学问之意，处理土壤管理和作物生产，也称为作物学或农业科学。",
+                "fr": "L'agronomie signifie la science de gérer les champs et les cultures, traitant de la gestion des sols et de la production agricole."
+            },
+            "example": "Agronomy focuses on producing and using plants for food, fuel, fiber, and land reclamation.",
+            "translation": {
+                "ko": "농경학은 식량, 연료, 섬유 및 토지 개간을 위한 식물의 생산과 이용에 중점을 둡니다.",
+                "ja": "アグロノミー：農地を利用して食料、燃料、繊維を生産し、土地を改良することに焦点を当てています。",
+                "zh": "农学：专注于生产和利用植物获取食物、燃料、纤维和改良土地。",
+                "fr": "Agronomie : se concentre sur la production et l'utilisation de plantes pour l'alimentation, le carburant, les fibres et la restauration des terres."
+            }
+        }
+    ]
+}

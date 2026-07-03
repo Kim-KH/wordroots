@@ -1,0 +1,159 @@
+{
+    "root_info": {
+        "roots": "brevi (short) abbreviate, brief, brevity",
+        "origin": "Latin, brevis (short)",
+        "meaning": {
+            "ko": "짧은",
+            "en": "short",
+            "ja": "短い",
+            "zh": "短的",
+            "fr": "court"
+        }
+    },
+    "words": [
+        {
+            "word": "abbreviate",
+            "part_of_speech": "",
+            "origin": "Latin, abbreviare (to shorten)",
+            "meaning": {
+                "ko": "짧게 하다",
+                "en": "to shorten",
+                "ja": "短くする",
+                "zh": "缩短",
+                "fr": "raccourcir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ab-",
+                    "meaning": {
+                        "ko": "'쪽으로'",
+                        "en": "to",
+                        "ja": "～へ",
+                        "zh": "到",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "brevi (brevis)",
+                    "meaning": {
+                        "ko": "'짧은'",
+                        "en": "short",
+                        "ja": "短い",
+                        "zh": "短的",
+                        "fr": "court"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "'~로 만들다'",
+                        "en": "to make into"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'짧게(brevi) 만들다'는 의미로, 단어나 구를 줄여서 '축약하다'라는 뜻으로 사용됩니다.",
+                "en": "To make short (brevi); to shorten a word or phrase.",
+                "ja": "「短く(brevi)する」から、単語や句を縮めて「省略する」。",
+                "zh": "意为「使变短(brevi)」，即缩短单词或短语，「缩写」「简化」。",
+                "fr": "Raccourcir (brevi); abréger un mot ou une expression."
+            },
+            "example": "\"Doctor\" is often abbreviated to \"Dr.\".",
+            "translation": {
+                "ko": "\"Doctor\"는 종종 \"Dr.\"로 축약된다.",
+                "ja": "編集者は彼女に序章を短くするよう頼んだ。",
+                "zh": "编辑要求她缩短引言。",
+                "fr": "L'éditeur lui a demandé d'abréger l'introduction."
+            }
+        },
+        {
+            "word": "brief",
+            "part_of_speech": "",
+            "origin": "Latin, brevis (short)",
+            "meaning": {
+                "ko": "짧은",
+                "en": "short",
+                "ja": "短い",
+                "zh": "短的",
+                "fr": "court"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "brief (brevis)",
+                    "meaning": {
+                        "ko": "'짧은'",
+                        "en": "short",
+                        "ja": "短い",
+                        "zh": "短的",
+                        "fr": "court"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "시간이나 길이가 '짧은', '간단한'이라는 의미를 가지며, 법률 용어로는 사건의 '요약 보고서'를 뜻하기도 합니다.",
+                "en": "Short in time or length; also a legal summary document.",
+                "ja": "時間や長さが「短い」「簡単な」、法律用語では事件の「要約報告書」。",
+                "zh": "时间或长度「短暂」「简洁」；法律术语中指案件的「摘要报告」。",
+                "fr": "Court en temps ou en longueur; aussi un document juridique récapitulatif."
+            },
+            "example": "Please give a brief summary of the report.",
+            "translation": {
+                "ko": "보고서에 대해 간단히 요약해 주십시오.",
+                "ja": "会議の簡単な要約をお願いします。",
+                "zh": "请给出会议的简短摘要。",
+                "fr": "Veuillez donner un bref résumé de la réunion."
+            }
+        },
+        {
+            "word": "brevity",
+            "part_of_speech": "",
+            "origin": "Latin, brevitas (shortness)",
+            "meaning": {
+                "ko": "짧음",
+                "en": "shortness",
+                "ja": "短さ",
+                "zh": "短",
+                "fr": "brièveté"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "brev (brevis)",
+                    "meaning": {
+                        "ko": "'짧은'",
+                        "en": "short",
+                        "ja": "短い",
+                        "zh": "短的",
+                        "fr": "court"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ity",
+                    "meaning": {
+                        "ko": "'상태, 성질'",
+                        "en": "state or quality"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'짧은(brev) 상태'라는 의미로, 시간의 '짧음' 또는 표현의 '간결함'을 나타냅니다.",
+                "en": "The state of being short (brev); shortness of time or conciseness of expression.",
+                "ja": "「短い(brev)状態」から、時間の「短さ」や表現の「簡潔さ」。",
+                "zh": "意为「短暂(brev)的状态」，指时间的「短暂」或表达的「简洁」。",
+                "fr": "L'état d'être court (brev); brièveté du temps ou concision de l'expression."
+            },
+            "example": "For the sake of brevity, I will skip the details.",
+            "translation": {
+                "ko": "간결함을 위해, 세부 사항은 생략하겠습니다.",
+                "ja": "簡潔さは機知の魂だ。",
+                "zh": "简洁是智慧的灵魂。",
+                "fr": "La brièveté est l'âme de l'esprit."
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "ag (together, gather) aggregate, agora",
+        "origin": "Latin, aggregare (to add to)",
+        "meaning": {
+            "ko": "더하다",
+            "en": "to add to",
+            "ja": "加える",
+            "zh": "添加",
+            "fr": "ajouter"
+        }
+    },
+    "words": [
+        {
+            "word": "aggregate",
+            "part_of_speech": "",
+            "origin": "Latin, aggregare (to add to)",
+            "meaning": {
+                "ko": "더하다",
+                "en": "to add to",
+                "ja": "合計する、集める",
+                "zh": "汇总、合计",
+                "fr": "agréger, totaliser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ag- (ad-)",
+                    "meaning": {
+                        "ko": "'에, 쪽으로'",
+                        "en": "to, toward",
+                        "ja": "へ、方向へ",
+                        "zh": "向、朝向",
+                        "fr": "vers, à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "greg",
+                    "meaning": {
+                        "ko": "'무리'",
+                        "en": "flock",
+                        "ja": "群れ、集団",
+                        "zh": "群、羊群",
+                        "fr": "troupeau, foule"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "'~로 만들다'",
+                        "en": "to make into",
+                        "ja": "〜にする",
+                        "zh": "使成为",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무리(greg) 쪽으로(ag) 보내다'라는 의미에서 '모으다', '합계가 ~이 되다'라는 뜻이 되었고, 명사로는 '합계', '총액'을 의미합니다.",
+                "en": "From Latin ad (to) + grex (flock), meaning to gather into a flock or collection; as a noun means total or sum.",
+                "ja": "ラテン語のad（へ）+ grex（群れ）から、群れに集めるという意味から、集める、合計するという意味になり、名詞では合計、総額を意味します。",
+                "zh": "源自拉丁语ad（向）+ grex（羊群），意为集聚成群；作为名词表示合计、总额。",
+                "fr": "Du latin ad (vers) + grex (troupeau), signifiant rassembler en groupe; comme nom signifie total ou somme."
+            },
+            "example": "The aggregate number of unemployed is rising.",
+            "translation": {
+                "ko": "전체 실업자 수가 증가하고 있다.",
+                "ja": "失業者の合計数が増加している。",
+                "zh": "失业人数的总数在上升。",
+                "fr": "Le nombre total de chômeurs est en augmentation."
+            }
+        },
+        {
+            "word": "agora",
+            "part_of_speech": "",
+            "origin": "Greek, ageirein (to assemble)",
+            "meaning": {
+                "ko": "모이다",
+                "en": "to assemble",
+                "ja": "集まる",
+                "zh": "聚集",
+                "fr": "s'assembler"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agor (ageirein)",
+                    "meaning": {
+                        "ko": "'모이다'",
+                        "en": "to assemble",
+                        "ja": "集まる",
+                        "zh": "聚集",
+                        "fr": "s'assembler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스에서 사람들이 '함께 모이는(agor)' 장소라는 의미에서 '아고라(광장)'를 뜻하게 되었습니다.",
+                "en": "In ancient Greece, the agora became a term for a public square where people would gather together.",
+                "ja": "古代ギリシャでは、人々が一緒に集まる場所という意味から、アゴラ（広場）を指すようになりました。",
+                "zh": "在古代希腊，从人们一起聚集的地方这一含义，衍生出阿哥拉（广场）的意思。",
+                "fr": "Dans la Grèce antique, l'agora est devenu un terme pour une place publique où les gens se rassemblaient ensemble."
+            },
+            "example": "The agora was the center of public life in ancient Athens.",
+            "translation": {
+                "ko": "아고라는 고대 아테네 공공 생활의 중심지였습니다.",
+                "ja": "古代アテネの公共生活の中心はアゴラでした。",
+                "zh": "广场是古代雅典公共生活的中心。",
+                "fr": "L'agora était le centre de la vie publique dans l'Athènes antique."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "y (inclined to) cheery, curvy, grouchy",
+        "origin": "Old English, -ig",
+        "meaning": {
+            "ko": "…하는 경향이 있는",
+            "en": "inclined to",
+            "ja": "…する傾向がある",
+            "zh": "倾向于…",
+            "fr": "enclin à …"
+        }
+    },
+    "words": [
+        {
+            "word": "cheery",
+            "part_of_speech": "",
+            "origin": "English, cheer + -y",
+            "meaning": {
+                "ko": "쾌활한 경향이 있는",
+                "en": "having a tendency to be cheerful",
+                "ja": "陽気な傾向がある",
+                "zh": "有愉快倾向",
+                "fr": "ayant tendance à être gai"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cheer",
+                    "meaning": {
+                        "ko": "'쾌활함, 환호'",
+                        "en": "cheerfulness, cheering",
+                        "ja": "陽気さ、歓声",
+                        "zh": "快乐、欢呼",
+                        "fr": "gaieté, acclamation"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-y",
+                    "meaning": {
+                        "ko": "'~경향이 있는'",
+                        "en": "having a tendency to be",
+                        "ja": "~傾向がある",
+                        "zh": "~有...倾向",
+                        "fr": "~avoir tendance à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'쾌활한'이라는 뜻입니다.",
+                "en": "Means cheerful or bright",
+                "ja": "陽気で明るいという意味です",
+                "zh": "意思是开朗或明亮的",
+                "fr": "Signifie gai ou brillant"
+            },
+            "example": "She has a cheery personality.",
+            "translation": {
+                "ko": "그녀는 쾌활한 성격을 가지고 있다.",
+                "ja": "彼女は陽気な性格だ",
+                "zh": "她有愉快的个性",
+                "fr": "Elle a une personnalité gaie"
+            }
+        },
+        {
+            "word": "curvy",
+            "part_of_speech": "",
+            "origin": "English, curve + -y",
+            "meaning": {
+                "ko": "곡선인 경향이 있는",
+                "en": "having a tendency to be curved",
+                "ja": "曲線的な傾向がある",
+                "zh": "有曲线趋势的",
+                "fr": "ayant tendance à être courbe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curve",
+                    "meaning": {
+                        "ko": "'곡선'",
+                        "en": "curved line",
+                        "ja": "曲線",
+                        "zh": "曲线",
+                        "fr": "courbe"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-y",
+                    "meaning": {
+                        "ko": "'~이 많은'",
+                        "en": "full of or having much",
+                        "ja": "多い",
+                        "zh": "很多的",
+                        "fr": "abondant en"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'곡선이 많은'이라는 뜻입니다.",
+                "en": "Means having many curves",
+                "ja": "曲線が多いという意味です",
+                "zh": "意思是有很多曲线",
+                "fr": "Signifie ayant beaucoup de courbes"
+            },
+            "example": "The road is very curvy.",
+            "translation": {
+                "ko": "그 길은 매우 구불구불하다.",
+                "ja": "その道はとても曲がっています。",
+                "zh": "这条路非常弯曲。",
+                "fr": "La route est très sinueuse."
+            }
+        },
+        {
+            "word": "grouchy",
+            "part_of_speech": "",
+            "origin": "English, grouch + -y",
+            "meaning": {
+                "ko": "불평하는 경향이 있는",
+                "en": "inclined to complain",
+                "ja": "不平を言う傾向がある",
+                "zh": "爱发牢骚的倾向",
+                "fr": "avoir tendance à se plaindre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grouch",
+                    "meaning": {
+                        "ko": "'불평'",
+                        "en": "complaining",
+                        "ja": "不平",
+                        "zh": "抱怨",
+                        "fr": "plainte"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-y",
+                    "meaning": {
+                        "ko": "'~경향이 있는'",
+                        "en": "tending to be",
+                        "ja": "~傾向がある",
+                        "zh": "~的倾向",
+                        "fr": "~tendance à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'늘 불평하고 짜증을 내는'이라는 뜻입니다.",
+                "en": "Always complaining and irritable",
+                "ja": "いつも不平を言い、イライラしている",
+                "zh": "总是爱发牢骚和烦躁",
+                "fr": "Toujours de mauvaise humeur et irritable"
+            },
+            "example": "He is always grouchy in the morning.",
+            "translation": {
+                "ko": "그는 아침에는 늘 짜증을 낸다.",
+                "ja": "彼は朝いつも不機嫌だ。",
+                "zh": "他早上总是爱发牢骚。",
+                "fr": "Il est toujours de mauvaise humeur le matin."
+            }
+        }
+    ]
+}

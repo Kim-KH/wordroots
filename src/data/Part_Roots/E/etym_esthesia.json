@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "esthesia (feeling) anesthetic, esthetic, kinesthetic",
+        "origin": "Greek, aisthesis (sensation, perception)",
+        "meaning": {
+            "ko": "느낌",
+            "en": "feeling",
+            "ja": "感覚",
+            "zh": "感觉",
+            "fr": "sensation"
+        }
+    },
+    "words": [
+        {
+            "word": "anesthetic",
+            "part_of_speech": "",
+            "origin": "Greek, an- (without) + aisthesis (feeling)",
+            "meaning": {
+                "ko": "느낌 없이",
+                "en": "without feeling",
+                "ja": "感覚がない状態",
+                "zh": "无感觉的",
+                "fr": "sans sensation"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "an-",
+                    "meaning": {
+                        "ko": "'~없이'",
+                        "en": "without",
+                        "ja": "~なしで",
+                        "zh": "没有",
+                        "fr": "sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "esthetic",
+                    "meaning": {
+                        "ko": "'감각'",
+                        "en": "feeling",
+                        "ja": "感覚",
+                        "zh": "感觉",
+                        "fr": "sensation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감각이 없게 만드는 약물'이라는 의미에서 '마취제' 또는 '마취의'라는 뜻입니다.",
+                "en": "Drug or substance that causes inability to feel sensation; used in medical procedures",
+                "ja": "感覚を失わせる薬物という意味で、麻酔薬または麻酔のことです",
+                "zh": "使感觉消失的药物，意思是麻醉剂或麻醉的",
+                "fr": "Médicament qui rend insensible; signifie anesthésiant ou anesthésie"
+            },
+            "example": "The dentist gave me an anesthetic before drilling my tooth.",
+            "translation": {
+                "ko": "치과 의사는 내 이를 뚫기 전에 마취제를 투여했다.",
+                "ja": "歯科医は私の歯を削る前に麻酔薬を注射しました。",
+                "zh": "牙医在钻我的牙齿之前给了我麻醉药。",
+                "fr": "Le dentiste m'a administré une anesthésie avant de détartrer ma dent."
+            }
+        },
+        {
+            "word": "esthetic",
+            "part_of_speech": "",
+            "origin": "Greek, aisthetikos (of sense perception)",
+            "meaning": {
+                "ko": "감각적 지각의",
+                "en": "of sensory perception",
+                "ja": "感覚的知覚の",
+                "zh": "感官感知的",
+                "fr": "perception sensorielle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "esthe-",
+                    "meaning": {
+                        "ko": "'감각'",
+                        "en": "feeling, perception",
+                        "ja": "感覚",
+                        "zh": "感觉",
+                        "fr": "sensation, perception"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감각을 통해 느끼는 아름다움'과 관련된 것이라는 의미에서 '미학의', '미적인'이라는 뜻입니다. (aesthetic으로도 씀)",
+                "en": "Related to beauty perceived through the senses, meaning 'of aesthetics' or 'aesthetic in nature'",
+                "ja": "感覚を通じて感じる美しさに関連し、『美学の』『美的な』という意味です",
+                "zh": "与通过感官感知的美相关，意为『美学的』『审美的』",
+                "fr": "Relatif à la beauté perçue par les sens, signifiant 'esthétique' ou 'de nature esthétique'"
+            },
+            "example": "The design of the building is not very esthetic.",
+            "translation": {
+                "ko": "그 건물의 디자인은 그다지 미적이지 않다.",
+                "ja": "建物のデザインはあまり美的ではありません。",
+                "zh": "建筑物的设计不太美观。",
+                "fr": "Le design du bâtiment n'est pas très esthétique."
+            }
+        },
+        {
+            "word": "kinesthetic",
+            "part_of_speech": "",
+            "origin": "Greek, kinein (to move) + aisthesis (feeling)",
+            "meaning": {
+                "ko": "움직임을 느낌",
+                "en": "feeling of movement",
+                "ja": "運動感覚の",
+                "zh": "运动感觉的",
+                "fr": "kinesthésique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "kin-",
+                    "meaning": {
+                        "ko": "'움직임'",
+                        "en": "movement",
+                        "ja": "動き",
+                        "zh": "动作",
+                        "fr": "mouvement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "esthetic",
+                    "meaning": {
+                        "ko": "'감각'",
+                        "en": "feeling",
+                        "ja": "感覚",
+                        "zh": "感觉",
+                        "fr": "sensation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직임에 대한 감각'과 관련된 것으로 '운동 감각의'라는 뜻입니다.",
+                "en": "Relating to the sense of movement and body position",
+                "ja": "動きと身体位置の感覚に関連する",
+                "zh": "与动作和身体位置的感觉相关",
+                "fr": "Relatif à la sensation du mouvement et de la position du corps"
+            },
+            "example": "Kinesthetic learning involves learning by doing.",
+            "translation": {
+                "ko": "운동 감각적 학습은 직접 해보면서 배우는 것을 포함한다.",
+                "ja": "キネステティック学習は実行することで学ぶことを含みます",
+                "zh": "动觉学习涉及通过实践来学习",
+                "fr": "L'apprentissage kinesthésique implique d'apprendre en faisant"
+            }
+        }
+    ]
+}

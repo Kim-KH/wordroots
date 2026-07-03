@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "trud (thrust) extrude, intrude, protrude",
+        "origin": "Latin, trudere (to thrust, to push)",
+        "meaning": {
+            "ko": "밀다",
+            "en": "to thrust",
+            "ja": "押す",
+            "zh": "推",
+            "fr": "pousser"
+        }
+    },
+    "words": [
+        {
+            "word": "extrude",
+            "part_of_speech": "",
+            "origin": "Latin, extrudere (to thrust out)",
+            "meaning": {
+                "ko": "밖으로 밀다",
+                "en": "to push outward",
+                "ja": "外へ押し出す",
+                "zh": "向外挤出",
+                "fr": "extruder"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trud-",
+                    "meaning": {
+                        "ko": "'밀다'",
+                        "en": "to thrust",
+                        "ja": "押す",
+                        "zh": "推动",
+                        "fr": "pousser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에서 밖으로 밀어내다'는 뜻입니다.",
+                "en": "To push something out from inside to outside",
+                "ja": "内部から外部へ押し出すこと",
+                "zh": "从内部向外部推送某物",
+                "fr": "Pousser quelque chose de l'intérieur vers l'extérieur"
+            },
+            "example": "The machine extrudes plastic pipes.",
+            "translation": {
+                "ko": "그 기계는 플라스틱 파이프를 압출한다.",
+                "ja": "その機械はプラスチックパイプを押し出す。",
+                "zh": "该机器挤出塑料管。",
+                "fr": "La machine extruit des tuyaux en plastique."
+            }
+        },
+        {
+            "word": "intrude",
+            "part_of_speech": "",
+            "origin": "Latin, intrudere (to thrust in)",
+            "meaning": {
+                "ko": "안으로 밀다",
+                "en": "to push inward",
+                "ja": "侵入する、邪魔する",
+                "zh": "闯入、打扰",
+                "fr": "s'introduire, déranger"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trud-",
+                    "meaning": {
+                        "ko": "'밀다'",
+                        "en": "to thrust",
+                        "ja": "押す、突く",
+                        "zh": "推动、刺",
+                        "fr": "pousser, enfoncer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 밀고 들어가다'는 의미에서 '침입하다', '방해하다'라는 뜻입니다.",
+                "en": "From the meaning of 'push or thrust inward', it means to intrude, invade, or interrupt.",
+                "ja": "『中へ押し入る』という意味から、『侵入する』『邪魔する』という意味になります。",
+                "zh": "从『向内推进』的含义引申为『闯入』『打扰』的意思。",
+                "fr": "Du sens de 'pousser vers l'intérieur', il signifie s'introduire, envahir ou interrompre."
+            },
+            "example": "I'm sorry to intrude, but I have an urgent message.",
+            "translation": {
+                "ko": "침입해서 죄송하지만, 긴급한 메시지가 있습니다.",
+                "ja": "申し訳ありませんが、邪魔してすみませんが、緊急の伝言があります。",
+                "zh": "很抱歉打扰你，但我有一条紧急消息。",
+                "fr": "Je suis désolé de vous déranger, mais j'ai un message urgent."
+            }
+        },
+        {
+            "word": "protrude",
+            "part_of_speech": "",
+            "origin": "Latin, protrudere (to thrust forward)",
+            "meaning": {
+                "ko": "앞으로 밀다",
+                "en": "push forward",
+                "ja": "突き出す",
+                "zh": "突出",
+                "fr": "dépasser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞으로'",
+                        "en": "forward",
+                        "ja": "前に",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trud-",
+                    "meaning": {
+                        "ko": "'밀다'",
+                        "en": "to thrust",
+                        "ja": "押す",
+                        "zh": "推",
+                        "fr": "pousser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 밀려 나오다'는 의미에서 '돌출하다', '튀어나오다'라는 뜻입니다.",
+                "en": "Means to stick out or jut out, as if being pushed forward",
+                "ja": "前に押し出されて出てくることから、突き出る、飛び出すという意味です",
+                "zh": "从被向前推出来的意义上，表示突出、伸出",
+                "fr": "Signifie dépasser ou faire saillie, comme si on était poussé vers l'avant"
+            },
+            "example": "A nail was protruding from the wall.",
+            "translation": {
+                "ko": "못이 벽에서 튀어나와 있었다.",
+                "ja": "釘が壁から突き出ていました",
+                "zh": "钉子从墙上突出来了",
+                "fr": "Un clou dépassait du mur"
+            }
+        }
+    ]
+}

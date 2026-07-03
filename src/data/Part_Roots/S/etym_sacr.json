@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "sacr (holy) sacred, sacrament, sacrifice, sacrum",
+        "origin": "Latin, sacer (holy, sacred)",
+        "meaning": {
+            "ko": "신성한",
+            "en": "holy",
+            "ja": "神聖な",
+            "zh": "神圣的",
+            "fr": "sacré"
+        }
+    },
+    "words": [
+        {
+            "word": "sacred",
+            "part_of_speech": "",
+            "origin": "Latin, sacrare (to consecrate)",
+            "meaning": {
+                "ko": "신성하게 하다",
+                "en": "to make sacred",
+                "ja": "神聖にする",
+                "zh": "使神圣",
+                "fr": "rendre sacré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sacr-",
+                    "meaning": {
+                        "ko": "'신성한'",
+                        "en": "holy",
+                        "ja": "神聖な",
+                        "zh": "神圣的",
+                        "fr": "sacré"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신에게 바쳐져 신성한'이라는 의미입니다.",
+                "en": "Dedicated to God and made holy",
+                "ja": "神に捧げられて神聖になる",
+                "zh": "献给神并变得神圣",
+                "fr": "dédié à Dieu et rendu sacré"
+            },
+            "example": "The cow is a sacred animal in India.",
+            "translation": {
+                "ko": "소는 인도에서 신성한 동물이다.",
+                "ja": "インドでは牛は神聖な動物です。",
+                "zh": "在印度，牛是神圣的动物。",
+                "fr": "La vache est un animal sacré en Inde."
+            }
+        },
+        {
+            "word": "sacrament",
+            "part_of_speech": "",
+            "origin": "Latin, sacramentum (a sacred rite)",
+            "meaning": {
+                "ko": "신성한 의식",
+                "en": "sacred ritual",
+                "ja": "神聖な儀式",
+                "zh": "神圣的仪式",
+                "fr": "rituel sacré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sacr-",
+                    "meaning": {
+                        "ko": "'신성한'",
+                        "en": "holy",
+                        "ja": "神聖な",
+                        "zh": "神圣的",
+                        "fr": "sacré"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "기독교에서 '신의 은총을 나타내는 신성한 의식'인 '성사'를 뜻합니다.",
+                "en": "In Christianity, 'sacrament' refers to a sacred ritual that represents God's grace.",
+                "ja": "キリスト教において、神の恵みを表す神聖な儀式である'秘跡'を意味します。",
+                "zh": "在基督教中，指代表上帝恩典的神圣仪式'圣礼'。",
+                "fr": "Dans le christianisme, 'sacrement' désigne un rituel sacré représentant la grâce de Dieu."
+            },
+            "example": "Baptism is a sacrament in the Christian church.",
+            "translation": {
+                "ko": "세례는 기독교 교회의 성사이다.",
+                "ja": "洗礼はキリスト教会の秘跡です。",
+                "zh": "洗礼是基督教会的圣礼。",
+                "fr": "Le baptême est un sacrement dans l'Église chrétienne."
+            }
+        },
+        {
+            "word": "sacrifice",
+            "part_of_speech": "",
+            "origin": "Latin, sacrificium (a sacrifice)",
+            "meaning": {
+                "ko": "희생 제물",
+                "en": "sacrificial offering or victim",
+                "ja": "いけにえ、犠牲",
+                "zh": "祭品、牺牲",
+                "fr": "sacrifice, offrande"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sacr-",
+                    "meaning": {
+                        "ko": "'신성한'",
+                        "en": "holy",
+                        "ja": "神聖な",
+                        "zh": "神圣的",
+                        "fr": "sacré"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fic- (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造、使成为",
+                        "fr": "faire, rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신에게 바치기 위해 신성하게 만드는 행위'라는 의미에서 '희생', '희생 제물'을 뜻합니다.",
+                "en": "Means 'sacrifice' or 'sacrificial offering' from the sense of 'making sacred/holy in order to offer to gods'",
+                "ja": "神に捧げるために神聖にする行為という意味から、'犠牲'、'いけにえ'を意味します",
+                "zh": "从'为了献给神而使之神圣化的行为'这一含义，表示'祭品'、'牺牲'",
+                "fr": "Signifie 'sacrifice' ou 'offrande sacrificielle' du sens de 'rendre sacré pour offrir aux dieux'"
+            },
+            "example": "They made a sacrifice to the gods.",
+            "translation": {
+                "ko": "그들은 신들에게 희생 제물을 바쳤다.",
+                "ja": "彼らは神々に犠牲を捧げた",
+                "zh": "他们向众神献祭",
+                "fr": "Ils ont fait un sacrifice aux dieux"
+            }
+        },
+        {
+            "word": "sacrum",
+            "part_of_speech": "",
+            "origin": "Latin, os sacrum (holy bone)",
+            "meaning": {
+                "ko": "신성한 뼈",
+                "en": "sacred bone",
+                "ja": "神聖な骨",
+                "zh": "神圣的骨",
+                "fr": "os sacré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sacr-",
+                    "meaning": {
+                        "ko": "'신성한'",
+                        "en": "holy",
+                        "ja": "神聖な",
+                        "zh": "神圣的",
+                        "fr": "sacré"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'고대인들이 희생 제물로 바쳤던 신성한 뼈'라는 의미에서 척추의 아랫부분인 '엉치뼈', '천골'을 뜻합니다.",
+                "en": "In ancient times, this bone was considered sacred because it was offered as a sacrifice. It refers to the sacrum, the large triangular bone at the base of the spine.",
+                "ja": "古代では、生け贄として捧げられた神聖な骨という意味から、脊椎の下部にある大きな三角形の骨である『仙骨』を指します。",
+                "zh": "在古代，这根骨头被认为是神圣的，因为它被用作祭祀供品。它指的是脊椎下部的大三角形骨头，即『骶骨』。",
+                "fr": "Dans l'Antiquité, cet os était considéré comme sacré car offert en sacrifice. Il désigne le sacrum, le grand os triangulaire à la base de la colonne vertébrale."
+            },
+            "example": "The sacrum is a large, triangular bone at the base of the spine.",
+            "translation": {
+                "ko": "천골은 척추의 바닥에 있는 크고 삼각형 모양의 뼈이다.",
+                "ja": "仙骨",
+                "zh": "骶骨",
+                "fr": "sacrum"
+            }
+        }
+    ]
+}

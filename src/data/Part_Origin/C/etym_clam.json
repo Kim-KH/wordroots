@@ -1,0 +1,287 @@
+{
+    "root_info": {
+        "roots": "clam, claim: shout",
+        "origin": "Latin, clamare",
+        "meaning": {
+            "ko": "외치다",
+            "en": "to shout",
+            "ja": "叫ぶ",
+            "zh": "喊",
+            "fr": "crier"
+        }
+    },
+    "words": [
+        {
+            "word": "proclaim",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "앞으로, 공개적으로",
+                        "en": "forth, in public",
+                        "ja": "前へ、公開的に",
+                        "zh": "向前、公开地",
+                        "fr": "en avant, publiquement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "claim",
+                    "meaning": {
+                        "ko": "외치다",
+                        "en": "to shout",
+                        "ja": "叫ぶ",
+                        "zh": "喊叫",
+                        "fr": "crier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대중 앞에서 외치다'는 의미에서, '선언하다', '선포하다'는 뜻입니다.",
+                "en": "From the sense of 'shouting publicly before a crowd,' meaning to declare or announce officially.",
+                "ja": "「大衆の前で叫ぶ」という意味から、「宣言する」「発表する」という意味になりました。",
+                "zh": "源于「在众人面前喊叫」的含义，表示「宣布」、「宣告」之意。",
+                "fr": "Du sens de 'crier publiquement devant la foule', signifiant déclarer ou annoncer officiellement."
+            },
+            "example": "They proclaimed him king.",
+            "translation": {
+                "ko": "그들은 그를 왕으로 선포했다.",
+                "ja": "彼らは彼を王だと宣言した。",
+                "zh": "他们宣布他为国王。",
+                "fr": "Ils l'ont proclamé roi."
+            }
+        },
+        {
+            "word": "declaim",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "강조, 완전히",
+                        "en": "intensive",
+                        "ja": "強調、完全に",
+                        "zh": "强调、完全地",
+                        "fr": "intensif, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "claim",
+                    "meaning": {
+                        "ko": "외치다",
+                        "en": "to shout",
+                        "ja": "叫ぶ",
+                        "zh": "喊叫",
+                        "fr": "crier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열정적으로 외치다'는 의미에서, 시 등을 '낭독하다', '열변을 토하다'는 뜻입니다.",
+                "en": "From the sense of 'shout passionately,' it means to recite poetry aloud or deliver a passionate speech.",
+                "ja": "「熱情的に叫ぶ」という意味から、詩などを「朗読する」、「熱弁をふるう」という意味です。",
+                "zh": "从「热情地呼喊」的含义出发，表示「朗诵」诗歌等或「激情地演讲」。",
+                "fr": "Du sens de « crier avec passion », il signifie « réciter » de la poésie ou « faire un discours passionné »."
+            },
+            "example": "The actor declaimed his lines with passion.",
+            "translation": {
+                "ko": "그 배우는 열정적으로 자신의 대사를 낭독했다.",
+                "ja": "その俳優は情熱的に自分のセリフを朗読した。",
+                "zh": "那位演员热情地朗诵了他的台词。",
+                "fr": "L'acteur a déclamé ses répliques avec passion."
+            }
+        },
+        {
+            "word": "exclaim",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "claim",
+                    "meaning": {
+                        "ko": "외치다",
+                        "en": "to shout",
+                        "ja": "叫ぶ",
+                        "zh": "喊叫",
+                        "fr": "crier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "감정을 '밖으로 외치다'는 의미에서, 놀라거나 아파서 '소리치다', '외치다'는 뜻입니다.",
+                "en": "From the meaning 'to shout out' emotions; expressing surprise or pain by crying out or exclaiming.",
+                "ja": "感情を『外へ叫ぶ』という意味から、驚いたり痛んだりして『叫ぶ』『声を出す』という意味です。",
+                "zh": "从「向外喊叫」感情的意思，表示惊讶或疼痛时「叫喊」、「呼喊」的意思。",
+                "fr": "Du sens de « crier ses émotions vers l'extérieur »; exprimer la surprise ou la douleur en criant ou en s'exclamant."
+            },
+            "example": "\"Ouch!\" she exclaimed.",
+            "translation": {
+                "ko": "\"아야!\" 그녀가 외쳤다.",
+                "ja": "「痛い!」と彼女は叫んだ。",
+                "zh": "「哎呀!」她叫了起来。",
+                "fr": "« Aïe ! » s'écria-t-elle."
+            }
+        },
+        {
+            "word": "acclamation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ac- (ad-)",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to",
+                        "ja": "に向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clam",
+                    "meaning": {
+                        "ko": "외치다",
+                        "en": "to shout",
+                        "ja": "叫ぶ",
+                        "zh": "呼喊",
+                        "fr": "crier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "찬성하여 '외치는 소리'라는 의미에서 '환호', '갈채'를 뜻합니다.",
+                "en": "From the shouting sounds of approval; means enthusiastic applause or cheers.",
+                "ja": "賛成して『叫ぶ声』という意味から『歓声』『喝采』を意味します。",
+                "zh": "从赞同的『呼喊声』之意，表示『欢呼声』『掌声』。",
+                "fr": "Du sens de « crier en approbation » ; signifie acclamations enthousiastes ou applaudissements."
+            },
+            "example": "He was elected by acclamation.",
+            "translation": {
+                "ko": "그는 박수갈채 속에서 선출되었다.",
+                "ja": "彼は歓声の中で選出された。",
+                "zh": "他在欢呼声中被选出。",
+                "fr": "Il a été élu par acclamation."
+            }
+        },
+        {
+            "word": "clamor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clam",
+                    "meaning": {
+                        "ko": "외치다",
+                        "en": "to shout",
+                        "ja": "叫ぶ",
+                        "zh": "呼喊",
+                        "fr": "crier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 사람이 시끄럽게 외치는 소리'라는 의미에서, '아우성', '소란', '강력한 요구'를 뜻합니다.",
+                "en": "From the sense of many people shouting loudly, meaning uproar, outcry, or strong demand",
+                "ja": "多くの人が大声で叫ぶという意味から、『喧騒』『大声での要求』『強い要望』を意味します",
+                "zh": "从多人大声呼喊的含义衍生，表示喧闹、强烈要求、舆论声浪",
+                "fr": "Du sens de plusieurs personnes criant bruyamment, signifiant vacarme, clameur ou demande pressante"
+            },
+            "example": "There was a public clamor for his resignation.",
+            "translation": {
+                "ko": "그의 사퇴를 요구하는 대중의 아우성이 있었다.",
+                "ja": "彼の辞任を求める国民の大声援があった。",
+                "zh": "要求他辞职的公众舆论声浪很大。",
+                "fr": "Il y avait une clameur publique pour sa démission."
+            }
+        },
+        {
+            "word": "reclaim",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "back",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "claim",
+                    "meaning": {
+                        "ko": "요구하다",
+                        "en": "to call for",
+                        "ja": "要求する",
+                        "zh": "要求",
+                        "fr": "réclamer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신의 것이라고 다시 요구하다'는 의미에서, 분실물 등을 '되찾다', 황무지 등을 '개간하다', 폐품을 '재활용하다'는 뜻입니다.",
+                "en": "From the sense of 'demanding back what is one's own': to recover lost items, reclaim wasteland, or recycle waste materials.",
+                "ja": "「自分のものだと再び要求する」という意味から、紛失物を「取り戻す」、荒地を「開拓する」、廃品を「リサイクルする」という意味があります。",
+                "zh": "从\"再次要求属于自己的东西\"的含义出发，表示\"找回遗失物品\"、\"开垦荒地\"或\"回收废料\"。",
+                "fr": "Du sens de « réclamer de nouveau ce qui appartient à soi » : récupérer des objets perdus, mettre en valeur des terres incultes, ou recycler des déchets."
+            },
+            "example": "We can reclaim land from the sea.",
+            "translation": {
+                "ko": "우리는 바다를 메워 땅을 간척할 수 있다.",
+                "ja": "私たちは海から土地を開拓できます。",
+                "zh": "我们可以从海洋中开垦陆地。",
+                "fr": "Nous pouvons conquérir des terres sur la mer."
+            }
+        },
+        {
+            "word": "claim",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "claim",
+                    "meaning": {
+                        "ko": "외치다, 요구하다",
+                        "en": "to shout, call for",
+                        "ja": "叫ぶ、求める",
+                        "zh": "喊叫、要求",
+                        "fr": "crier, demander"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신의 것이라고 외치다'는 의미에서, '주장하다', '요구하다'는 뜻입니다.",
+                "en": "From the sense of 'shouting that something is one's own,' meaning 'to assert' or 'to demand.'",
+                "ja": "「自分のものだと叫ぶ」という意味から、「主張する」「要求する」という意味になりました。",
+                "zh": "从「大声说某物是自己的」的意思演变而来，表示「主张」或「要求」。",
+                "fr": "Du sens de 'crier que quelque chose est à soi', signifiant 'affirmer' ou 'réclamer'."
+            },
+            "example": "He claimed that he was innocent.",
+            "translation": {
+                "ko": "그는 자신이 무죄라고 주장했다.",
+                "ja": "彼は自分が無罪だと主張した。",
+                "zh": "他声称自己是无辜的。",
+                "fr": "Il a affirmé qu'il était innocent."
+            }
+        }
+    ]
+}

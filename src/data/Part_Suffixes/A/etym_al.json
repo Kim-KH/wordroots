@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "al (pertaining to) facial, mental, nominal, physical, spiritual",
+        "origin": "Latin, -alis (relating to)",
+        "meaning": {
+            "ko": "…에 관한",
+            "en": "pertaining to",
+            "ja": "に関する",
+            "zh": "与...有关的",
+            "fr": "relatif à"
+        }
+    },
+    "words": [
+        {
+            "word": "facial",
+            "part_of_speech": "",
+            "origin": "Latin, facies (face)",
+            "meaning": {
+                "ko": "얼굴",
+                "en": "face",
+                "ja": "顔の",
+                "zh": "面部的",
+                "fr": "du visage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "faci-",
+                    "meaning": {
+                        "ko": "'얼굴'",
+                        "en": "face",
+                        "ja": "顔",
+                        "zh": "脸",
+                        "fr": "visage"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'얼굴의'라는 뜻입니다.",
+                "en": "Meaning of 'face' with possessive marker",
+                "ja": "顔を示す所有格",
+                "zh": "表示脸部的所有格",
+                "fr": "Signifie 'du visage' avec marqueur possessif"
+            },
+            "example": "He has a handsome facial structure.",
+            "translation": {
+                "ko": "그는 잘생긴 얼굴 구조를 가지고 있다.",
+                "ja": "彼は顔つきが整っている。",
+                "zh": "他的面部轮廓很帅。",
+                "fr": "Il a une belle structure faciale."
+            }
+        },
+        {
+            "word": "mental",
+            "part_of_speech": "",
+            "origin": "Latin, mens (mind)",
+            "meaning": {
+                "ko": "마음",
+                "en": "mind",
+                "ja": "心の、精神の",
+                "zh": "心理的、精神的",
+                "fr": "mental, de l'esprit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ment-",
+                    "meaning": {
+                        "ko": "'마음, 정신'",
+                        "en": "mind",
+                        "ja": "心、精神",
+                        "zh": "心、精神",
+                        "fr": "esprit, mental"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신의'라는 뜻입니다.",
+                "en": "It means 'of the mind' or 'of the spirit'",
+                "ja": "心や精神に関する意味です",
+                "zh": "表示与心理或精神相关的意思",
+                "fr": "Signifie 'de l'esprit' ou 'de la mentalité'"
+            },
+            "example": "Mental health is as important as physical health.",
+            "translation": {
+                "ko": "정신 건강은 신체 건강만큼 중요하다.",
+                "ja": "精神的な健康は身体的な健康と同じくらい重要です。",
+                "zh": "心理健康和身体健康同样重要。",
+                "fr": "La santé mentale est aussi importante que la santé physique."
+            }
+        },
+        {
+            "word": "nominal",
+            "part_of_speech": "",
+            "origin": "Latin, nominalis (of a name)",
+            "meaning": {
+                "ko": "이름의",
+                "en": "of or relating to a name",
+                "ja": "名目上の",
+                "zh": "名义上的",
+                "fr": "nominal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomin-",
+                    "meaning": {
+                        "ko": "'이름'",
+                        "en": "name",
+                        "ja": "名前",
+                        "zh": "名字",
+                        "fr": "nom"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "〜の",
+                        "zh": "〜的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이름뿐이고 실질적이지는 않은'이라는 의미에서 '명목상의'라는 뜻입니다.",
+                "en": "Meaning 'in name only, not substantive in reality'",
+                "ja": "名前だけで実質的ではないという意味",
+                "zh": "仅名义上的，实际上不实质的含义",
+                "fr": "Signifie 'de nom seulement, pas substantiel en réalité'"
+            },
+            "example": "He is the nominal leader, but she holds the real power.",
+            "translation": {
+                "ko": "그는 명목상의 지도자이지만, 그녀가 실권을 쥐고 있다.",
+                "ja": "彼は名目上のリーダーだが、彼女が実権を握っている。",
+                "zh": "他是名义上的领导者，但她掌握着实权。",
+                "fr": "Il est le leader nominal, mais elle détient le vrai pouvoir."
+            }
+        },
+        {
+            "word": "physical",
+            "part_of_speech": "",
+            "origin": "Greek, physikos (natural)",
+            "meaning": {
+                "ko": "자연의",
+                "en": "of nature",
+                "ja": "身体の、物質的な",
+                "zh": "身体的、物质的",
+                "fr": "physique, corporel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "physic-",
+                    "meaning": {
+                        "ko": "'자연, 몸'",
+                        "en": "nature, body",
+                        "ja": "自然、身体",
+                        "zh": "自然、身体",
+                        "fr": "nature, corps"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신적인 것이 아닌 자연 그대로의 몸'이라는 의미에서 '육체의', '물질의'라는 뜻입니다.",
+                "en": "Means 'bodily' or 'material' in the sense of natural body rather than spiritual things.",
+                "ja": "精神的なものではなく、自然そのままの身体という意味で、『肉体的な』『物質的な』という意味です。",
+                "zh": "指自然本身的身体而非精神性事物，意为『身体的』『物质的』。",
+                "fr": "Signifie 'corporel' ou 'matériel' au sens du corps naturel plutôt que des choses spirituelles."
+            },
+            "example": "The job requires physical strength.",
+            "translation": {
+                "ko": "그 일은 체력을 필요로 한다.",
+                "ja": "この仕事は身体的な強さが必要です。",
+                "zh": "这份工作需要身体上的力量。",
+                "fr": "Ce travail nécessite une force physique."
+            }
+        },
+        {
+            "word": "spiritual",
+            "part_of_speech": "",
+            "origin": "Latin, spiritualis (of breath, of spirit)",
+            "meaning": {
+                "ko": "영혼의",
+                "en": "of the soul",
+                "ja": "霊的な",
+                "zh": "精神的的",
+                "fr": "spirituel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spirit-",
+                    "meaning": {
+                        "ko": "'영혼'",
+                        "en": "spirit",
+                        "ja": "霊魂",
+                        "zh": "精神",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물질적인 것이 아닌 영혼과 관련된'이라는 의미에서 '정신적인', '영적인'이라는 뜻입니다.",
+                "en": "Relating to spirit rather than material things, meaning mental or spiritual.",
+                "ja": "物質的ではなく霊魂に関連した、精神的または霊的な意味です。",
+                "zh": "与精神而非物质相关，意为精神性的、灵性的。",
+                "fr": "Relatif à l'esprit plutôt qu'aux choses matérielles, signifiant mental ou spirituel."
+            },
+            "example": "He is on a spiritual journey.",
+            "translation": {
+                "ko": "그는 영적인 여정 중에 있다.",
+                "ja": "彼は精神的な旅をしています。",
+                "zh": "他在进行精神之旅。",
+                "fr": "Il est en quête spirituelle."
+            }
+        }
+    ]
+}

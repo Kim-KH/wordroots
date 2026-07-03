@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "iatry (treatment) optometry, podiatry, psychiatry",
+        "origin": "Greek, iatreia (a healing, a cure)",
+        "meaning": {
+            "ko": "치료",
+            "en": "treatment",
+            "ja": "治療",
+            "zh": "治疗",
+            "fr": "traitement"
+        }
+    },
+    "words": [
+        {
+            "word": "optometry",
+            "part_of_speech": "",
+            "origin": "Greek, optos (seen) + metron (measure) + -ia",
+            "meaning": {
+                "ko": "시력 측정",
+                "en": "measurement of vision",
+                "ja": "視力測定と矯正",
+                "zh": "视力测定和矫正",
+                "fr": "examen et correction vision"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opto-",
+                    "meaning": {
+                        "ko": "'시력'",
+                        "en": "vision",
+                        "ja": "視力",
+                        "zh": "视力",
+                        "fr": "vision"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "metry",
+                    "meaning": {
+                        "ko": "'측정'",
+                        "en": "measurement",
+                        "ja": "測定",
+                        "zh": "测定",
+                        "fr": "mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시력을 측정하고 교정하는' 분야인 '검안'을 뜻합니다.",
+                "en": "A healthcare field that measures and corrects vision, referring to optometry",
+                "ja": "視力を測定し矯正する医療分野であり、検眼学を意味します",
+                "zh": "测定和矫正视力的医疗领域，指验光学",
+                "fr": "Domaine médical qui mesure et corrige la vision, désignant l'optométrie"
+            },
+            "example": "Optometry is a healthcare profession that involves examining the eyes.",
+            "translation": {
+                "ko": "검안은 눈을 검사하는 것을 포함하는 의료 전문직이다.",
+                "ja": "検眼学",
+                "zh": "验光学",
+                "fr": "optométrie"
+            }
+        },
+        {
+            "word": "podiatry",
+            "part_of_speech": "",
+            "origin": "Greek, pous (foot) + iatreia (healing)",
+            "meaning": {
+                "ko": "발 치료",
+                "en": "medical treatment of feet",
+                "ja": "足の治療",
+                "zh": "足部治疗",
+                "fr": "traitement des pieds"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod-",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "iatry",
+                    "meaning": {
+                        "ko": "'치료'",
+                        "en": "treatment",
+                        "ja": "治療",
+                        "zh": "治疗",
+                        "fr": "traitement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발과 관련된 질병을 치료하는' 의학 분야인 '족병학'을 뜻합니다.",
+                "en": "A medical field that treats diseases related to the foot",
+                "ja": "足に関連する疾患を治療する医学分野",
+                "zh": "治疗与脚相关疾病的医学领域",
+                "fr": "Domaine médical traitant les maladies liées au pied"
+            },
+            "example": "Podiatry deals with the diagnosis and treatment of foot disorders.",
+            "translation": {
+                "ko": "족병학은 발 질환의 진단과 치료를 다룬다.",
+                "ja": "足病学",
+                "zh": "足病学",
+                "fr": "podiatrie"
+            }
+        },
+        {
+            "word": "psychiatry",
+            "part_of_speech": "",
+            "origin": "Greek, psykhe (mind) + iatreia (healing)",
+            "meaning": {
+                "ko": "정신 치료",
+                "en": "mental health treatment",
+                "ja": "精神医学",
+                "zh": "精神医学",
+                "fr": "psychiatrie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psych-",
+                    "meaning": {
+                        "ko": "'정신'",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "iatry",
+                    "meaning": {
+                        "ko": "'치료'",
+                        "en": "treatment",
+                        "ja": "治療",
+                        "zh": "治疗",
+                        "fr": "traitement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신 질환을 치료하는' 의학 분야인 '정신 의학'을 뜻합니다.",
+                "en": "Psychiatry is the medical specialty devoted to the diagnosis, prevention, and treatment of mental disorders.",
+                "ja": "精神疾患を診断・予防・治療する医学分野を指します。",
+                "zh": "指诊断、预防和治疗精神疾病的医学领域。",
+                "fr": "Domaine médical qui diagnostique, prévient et traite les troubles mentaux."
+            },
+            "example": "Psychiatry is the medical specialty devoted to the diagnosis, prevention, and treatment of mental disorders.",
+            "translation": {
+                "ko": "정신 의학은 정신 장애의 진단, 예방 및 치료에 전념하는 의학 전문 분야이다.",
+                "ja": "精神医学",
+                "zh": "精神医学",
+                "fr": "psychiatrie"
+            }
+        }
+    ]
+}

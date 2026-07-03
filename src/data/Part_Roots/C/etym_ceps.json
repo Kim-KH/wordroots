@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ceps (head) biceps, forceps, triceps",
+        "origin": "Latin, -ceps (headed), from caput (head)",
+        "meaning": {
+            "ko": "머리가 ~개인",
+            "en": "-headed",
+            "ja": "～の頭を持つ",
+            "zh": "有...头的",
+            "fr": "à tête de"
+        }
+    },
+    "words": [
+        {
+            "word": "biceps",
+            "part_of_speech": "",
+            "origin": "Latin, biceps (two-headed)",
+            "meaning": {
+                "ko": "두 개의 머리를 가진",
+                "en": "having two heads",
+                "ja": "二つの頭を持つ",
+                "zh": "两个头部",
+                "fr": "deux têtes"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "bi-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceps (caput)",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头部",
+                        "fr": "tête"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "근육이 시작되는 부분이 '두(bi) 갈래의 머리(ceps)'를 가졌다는 의미에서, 팔 위쪽의 '상완 이두근'을 뜻합니다.",
+                "en": "The muscle's origin has two distinct heads, hence the name 'bi' (two) and 'ceps' (head), referring to the biceps brachii on the upper arm.",
+                "ja": "筋肉の起点が二つの異なる頭を持つため、'bi'(二つ)と'ceps'(頭)という名前が付けられ、上腕二頭筋を指しています。",
+                "zh": "肌肉的起点有两个不同的头部，因此得名'bi'(两个)和'ceps'(头部)，指上臂二头肌。",
+                "fr": "Le muscle a deux origines distinctes, d'où son nom 'bi' (deux) et 'ceps' (tête), désignant le biceps brachial du bras."
+            },
+            "example": "He strained his biceps while lifting weights.",
+            "translation": {
+                "ko": "그는 역기를 들다가 이두근을 다쳤다.",
+                "ja": "彼は重量挙げ中に上腕二頭筋を痛めた。",
+                "zh": "他在举重时拉伤了二头肌。",
+                "fr": "Il s'est froissé le biceps en soulevant des poids."
+            }
+        },
+        {
+            "word": "forceps",
+            "part_of_speech": "",
+            "origin": "Latin, forceps (a pair of tongs)",
+            "meaning": {
+                "ko": "집게",
+                "en": "pincers or tongs",
+                "ja": "鑷子",
+                "zh": "镊子",
+                "fr": "pince"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "for- (formus)",
+                    "meaning": {
+                        "ko": "'뜨거운'",
+                        "en": "hot",
+                        "ja": "熱い",
+                        "zh": "热的",
+                        "fr": "chaud"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-ceps (capere)",
+                    "meaning": {
+                        "ko": "'잡다'",
+                        "en": "to take",
+                        "ja": "つかむ",
+                        "zh": "抓住",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "이 단어의 -ceps는 '머리(head)'를 의미하는 caput이 아닌, '잡다(to take)'를 의미하는 capere에서 유래했습니다. 본래 대장간에서 '뜨거운(for) 것을 잡는(ceps) 도구'라는 의미에서, 수술이나 실험에 쓰이는 '집게', '겸자'를 뜻하게 되었습니다.",
+                "en": "The -ceps in this word derives from capere meaning 'to take', not from caput meaning 'head'. Originally meaning 'a tool for taking hot things' in blacksmith shops, it came to mean 'forceps' or 'surgical tweezers' used in surgery and experiments.",
+                "ja": "この単語の-cepsは'頭(head)'を意味するcaputではなく、'つかむ(to take)'を意味するcapereに由来しています。元々は鍛冶屋で'熱い(for)ものをつかむ(ceps)道具'という意味でしたが、手術や実験に使う'鑷子'、'医療用鉗子'を意味するようになりました。",
+                "zh": "这个词的-ceps源自表示'抓住(to take)'的capere，而非表示'头(head)'的caput。最初在铁匠铺中指'抓住(ceps)热的(for)东西的工具'，后来指手术或实验中使用的'镊子'或'手术鉗子'。",
+                "fr": "Le suffixe -ceps de ce mot provient de capere signifiant 'saisir', non de caput signifiant 'tête'. Originellement, il désignait un 'outil pour saisir les choses chaudes' dans les forges, puis a désigné les 'pinces' ou 'pincettes chirurgicales' utilisées en chirurgie et expériences."
+            },
+            "example": "The surgeon used forceps to remove the splinter.",
+            "translation": {
+                "ko": "외과의사는 파편을 제거하기 위해 겸자를 사용했다.",
+                "ja": "外科医はピンセットで棘を取り除いた。",
+                "zh": "外科医生用镊子取出了刺。",
+                "fr": "Le chirurgien a utilisé une pince pour retirer l'écharde."
+            }
+        },
+        {
+            "word": "triceps",
+            "part_of_speech": "",
+            "origin": "Latin, triceps (three-headed)",
+            "meaning": {
+                "ko": "세 개의 머리를 가진",
+                "en": "having three heads",
+                "ja": "3つの頭を持つ",
+                "zh": "三个头部",
+                "fr": "trois têtes"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "三",
+                        "zh": "三",
+                        "fr": "trois"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceps (caput)",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头",
+                        "fr": "tête"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "근육이 시작되는 부분이 '세(tri) 갈래의 머리(ceps)'를 가졌다는 의미에서, 팔 위쪽 뒷부분의 '상완 삼두근'을 뜻합니다.",
+                "en": "The triceps muscle on the back of the upper arm is named for its three points of origin, resembling three 'heads' where the muscle begins.",
+                "ja": "上腕の背面にある三頭筋は、筋肉が始まる3つの起点を持つことから、3つの'頭'に似ていることが名前の由来です。",
+                "zh": "上臂背面的三头肌因其三个起点而得名，就像肌肉开始的地方有三个'头'。",
+                "fr": "Le triceps du dos du bras supérieur doit son nom à ses trois points d'origine, ressemblant à trois 'têtes' où le muscle commence."
+            },
+            "example": "Triceps are the muscles on the back of your upper arms.",
+            "translation": {
+                "ko": "삼두근은 위팔 뒷부분에 있는 근육이다.",
+                "ja": "三頭筋",
+                "zh": "三头肌",
+                "fr": "triceps"
+            }
+        }
+    ]
+}

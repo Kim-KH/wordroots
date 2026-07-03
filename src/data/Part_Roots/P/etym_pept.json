@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "pept (one) peptide, peptize, polypeptide",
+        "origin": "Greek, peptein (to digest)",
+        "meaning": {
+            "ko": "소화하다",
+            "en": "to digest",
+            "ja": "消化する",
+            "zh": "消化",
+            "fr": "digérer"
+        }
+    },
+    "words": [
+        {
+            "word": "peptide",
+            "part_of_speech": "",
+            "origin": "Greek, peptein (to digest)",
+            "meaning": {
+                "ko": "소화하다",
+                "en": "to digest",
+                "ja": "消化された小単位",
+                "zh": "消化的小单位",
+                "fr": "petite unité digérée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pept-",
+                    "meaning": {
+                        "ko": "'소화된'",
+                        "en": "digested",
+                        "ja": "消化された",
+                        "zh": "消化的",
+                        "fr": "digéré"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "단백질이 '소화될 때' 생기는 작은 단위라는 의미에서 '펩타이드'를 뜻합니다.",
+                "en": "Peptide refers to small units created when proteins are digested",
+                "ja": "ペプチドはタンパク質が消化されるときに生じる小さな単位を意味します",
+                "zh": "肽是指蛋白质被消化时产生的小单位",
+                "fr": "Le peptide fait référence aux petites unités créées lors de la digestion des protéines"
+            },
+            "example": "Peptides are short chains of amino acids.",
+            "translation": {
+                "ko": "펩타이드는 아미노산의 짧은 사슬이다.",
+                "ja": "ペプチドはアミノ酸の短い鎖です",
+                "zh": "肽是氨基酸的短链",
+                "fr": "Les peptides sont de courtes chaînes d'acides aminés"
+            }
+        },
+        {
+            "word": "peptize",
+            "part_of_speech": "",
+            "origin": "Greek, peptein (to digest)",
+            "meaning": {
+                "ko": "소화하다",
+                "en": "to digest or disperse",
+                "ja": "ペプチド化する",
+                "zh": "胶体分散",
+                "fr": "peptiser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pept-",
+                    "meaning": {
+                        "ko": "'소화하다'",
+                        "en": "to digest",
+                        "ja": "消化する",
+                        "zh": "消化",
+                        "fr": "digérer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "콜로이드 입자를 '소화시키듯' 더 작은 입자로 분산시키는 것을 의미하여 '펩타이드화하다'라고 합니다.",
+                "en": "The process disperses colloidal particles into smaller particles like digestion, called peptization",
+                "ja": "コロイド粒子を消化するように小さな粒子に分散させることをペプチド化と呼ぶ",
+                "zh": "将胶体颗粒如消化般分散成更小的颗粒，称为胶体分散",
+                "fr": "Dispersion de particules colloïdales en particules plus petites, appelée peptisation"
+            },
+            "example": "The process is used to peptize the protein.",
+            "translation": {
+                "ko": "그 공정은 단백질을 펩타이드화하는 데 사용된다.",
+                "ja": "このプロセスはタンパク質をペプチド化するために使用されます",
+                "zh": "该过程用于使蛋白质胶体分散",
+                "fr": "Le processus est utilisé pour peptiser la protéine"
+            }
+        },
+        {
+            "word": "polypeptide",
+            "part_of_speech": "",
+            "origin": "Greek, poly- (many) + peptein (to digest)",
+            "meaning": {
+                "ko": "많은 소화된 것",
+                "en": "many digested substances",
+                "ja": "多くのペプチド",
+                "zh": "多个肽链",
+                "fr": "nombreux peptides"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "poly-",
+                    "meaning": {
+                        "ko": "'많은'",
+                        "en": "many",
+                        "ja": "多い",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "peptide",
+                    "meaning": {
+                        "ko": "'펩타이드'",
+                        "en": "peptide",
+                        "ja": "ペプチド",
+                        "zh": "肽",
+                        "fr": "peptide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'많은 펩타이드가 연결된' 사슬로, 단백질의 기본 구조입니다.",
+                "en": "A chain of multiple connected peptides that forms the basic structure of proteins.",
+                "ja": "多くのペプチドが連結した鎖で、タンパク質の基本構造です。",
+                "zh": "由多个肽链连接而成的链，是蛋白质的基本结构。",
+                "fr": "Une chaîne de multiples peptides connectés formant la structure de base des protéines."
+            },
+            "example": "A polypeptide is a long chain of amino acids.",
+            "translation": {
+                "ko": "폴리펩타이드는 아미노산의 긴 사슬이다.",
+                "ja": "ポリペプチド",
+                "zh": "多肽",
+                "fr": "polypeptide"
+            }
+        }
+    ]
+}

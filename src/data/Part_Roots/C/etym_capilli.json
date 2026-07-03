@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "capilli (hair) capillary, capillarity",
+        "origin": "Latin, capillus (hair)",
+        "meaning": {
+            "ko": "머리카락",
+            "en": "hair",
+            "ja": "髪",
+            "zh": "头发",
+            "fr": "cheveu"
+        }
+    },
+    "words": [
+        {
+            "word": "capillary",
+            "part_of_speech": "",
+            "origin": "Latin, capillaris (relating to hair)",
+            "meaning": {
+                "ko": "머리카락에 관한",
+                "en": "relating to hair",
+                "ja": "髪の毛に関する",
+                "zh": "与头发有关",
+                "fr": "relatif aux cheveux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "capill (capillus)",
+                    "meaning": {
+                        "ko": "'머리카락'",
+                        "en": "hair",
+                        "ja": "髪の毛",
+                        "zh": "头发",
+                        "fr": "cheveux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ary",
+                    "meaning": {
+                        "ko": "'~에 관련된'",
+                        "en": "relating to",
+                        "ja": "～に関連した",
+                        "zh": "与～相关的",
+                        "fr": "relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리카락(capill)처럼 가는' 혈관이라는 의미에서 '모세혈관'을 뜻하게 되었습니다.",
+                "en": "The term came to mean capillaries because they are as thin as hair.",
+                "ja": "髪の毛のように細い血管という意味から毛細血管を意味するようになりました。",
+                "zh": "由于毛细血管像头发一样细，该词演变为毛细血管的意思。",
+                "fr": "Le terme signifie capillaires car ils sont aussi fins que les cheveux."
+            },
+            "example": "Capillaries are the smallest blood vessels in the body.",
+            "translation": {
+                "ko": "모세혈관은 신체에서 가장 작은 혈관이다.",
+                "ja": "毛細血管は体内で最も細い血管です。",
+                "zh": "毛细血管是体内最小的血管。",
+                "fr": "Les capillaires sont les plus petits vaisseaux sanguins du corps."
+            }
+        },
+        {
+            "word": "capillarity",
+            "part_of_speech": "",
+            "origin": "Latin, capillaris (relating to hair)",
+            "meaning": {
+                "ko": "머리카락에 관한",
+                "en": "relating to hair",
+                "ja": "毛細管現象",
+                "zh": "毛细管现象",
+                "fr": "capillarité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "capill (capillus)",
+                    "meaning": {
+                        "ko": "'머리카락'",
+                        "en": "hair",
+                        "ja": "髪の毛",
+                        "zh": "头发",
+                        "fr": "cheveu"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-arity",
+                    "meaning": {
+                        "ko": "'성질'",
+                        "en": "quality or state",
+                        "ja": "性質",
+                        "zh": "性质",
+                        "fr": "qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "머리카락처럼 가는 관에서 액체가 중력을 거슬러 올라가는 현상, 즉 '모세관 현상'을 의미합니다.",
+                "en": "Phenomenon where liquid rises against gravity in thin hair-like tubes, known as capillary action",
+                "ja": "髪の毛のように細い管で液体が重力に逆らって上がる現象、つまり毛細管現象を意味します",
+                "zh": "液体在像头发一样细的管中违抗重力上升的现象，即毛细管现象",
+                "fr": "Phénomène où le liquide monte contre la gravité dans des tubes fins comme des cheveux, c'est-à-dire l'action capillaire"
+            },
+            "example": "Capillarity is what allows paper towels to absorb liquid.",
+            "translation": {
+                "ko": "모세관 현상은 종이 타월이 액체를 흡수할 수 있게 하는 것이다.",
+                "ja": "毛細管現象",
+                "zh": "毛细管现象",
+                "fr": "capillarité"
+            }
+        }
+    ]
+}

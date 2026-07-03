@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "gloss (tongue) gloss, glossary",
+        "origin": "Greek, glossa (tongue, language)",
+        "meaning": {
+            "ko": "혀, 언어",
+            "en": "tongue, language",
+            "ja": "舌、言語",
+            "zh": "舌头，语言",
+            "fr": "langue, langage"
+        }
+    },
+    "words": [
+        {
+            "word": "gloss",
+            "part_of_speech": "",
+            "origin": "Greek, glossa (tongue, language)",
+            "meaning": {
+                "ko": "혀, 언어",
+                "en": "tongue, language",
+                "ja": "舌、言語",
+                "zh": "舌头、语言",
+                "fr": "langue, langage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gloss-",
+                    "meaning": {
+                        "ko": "'혀, 말'",
+                        "en": "tongue, word",
+                        "ja": "舌、言葉",
+                        "zh": "舌头、词语",
+                        "fr": "langue, parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어려운 말(외국어)에 대해 설명하는 주석' 또는 '광택'을 뜻합니다.",
+                "en": "A gloss can mean an explanatory annotation for difficult words (foreign language) or shine/luster.",
+                "ja": "難しい言葉(外国語)の説明である注釈、または光沢を意味します。",
+                "zh": "指对困难词汇(外语)的解释注释，或光泽。",
+                "fr": "Signifie une annotation explicative pour les mots difficiles (langue étrangère) ou un lustre."
+            },
+            "example": "The book has a gloss on the difficult terms.",
+            "translation": {
+                "ko": "그 책에는 어려운 용어에 대한 주석이 있다.",
+                "ja": "この本は難しい用語に対する注釈を持っています。",
+                "zh": "这本书对难词有注释。",
+                "fr": "Le livre contient une glose sur les termes difficiles."
+            }
+        },
+        {
+            "word": "glossary",
+            "part_of_speech": "",
+            "origin": "Latin, glossarium",
+            "meaning": {
+                "ko": "주석 모음",
+                "en": "collection of annotations",
+                "ja": "用語解説集",
+                "zh": "词汇解释汇编",
+                "fr": "recueil de définitions"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gloss-",
+                    "meaning": {
+                        "ko": "'말, 용어'",
+                        "en": "word, term",
+                        "ja": "言葉、用語",
+                        "zh": "词语、术语",
+                        "fr": "mot, terme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'책의 끝부분에 용어들을 모아 설명해 놓은 목록'인 '용어 해설'을 뜻합니다.",
+                "en": "A list of terms with explanations, typically found at the end of a book",
+                "ja": "本の末尾に用語をまとめて説明した目録",
+                "zh": "书籍末尾汇总解释术语的列表",
+                "fr": "liste de termes expliqués en fin de livre"
+            },
+            "example": "You can find the definition in the glossary.",
+            "translation": {
+                "ko": "용어 해설에서 그 정의를 찾을 수 있다.",
+                "ja": "用語集の中で定義を見つけることができます",
+                "zh": "你可以在词汇表中找到定义",
+                "fr": "Vous pouvez trouver la définition dans le glossaire"
+            }
+        }
+    ]
+}

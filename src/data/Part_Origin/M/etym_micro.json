@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "micro",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "작은",
+            "en": "small",
+            "ja": "小さい",
+            "zh": "小的",
+            "fr": "petit"
+        }
+    },
+    "words": [
+        {
+            "word": "microscope",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "micro",
+                    "meaning": {
+                        "ko": "작은",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scope",
+                    "meaning": {
+                        "ko": "보는 기구",
+                        "en": "viewing instrument",
+                        "ja": "見る道具",
+                        "zh": "观看工具",
+                        "fr": "instrument pour voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아주 작은 것을 보는 기구' 즉, '현미경'을 뜻합니다.",
+                "en": "An instrument for viewing very small objects; a microscope",
+                "ja": "非常に小さなものを見る道具、つまり顕微鏡を意味します。",
+                "zh": "用于观察极小物体的仪器，即显微镜。",
+                "fr": "Un instrument pour observer les très petits objets, c'est-à-dire un microscope."
+            },
+            "example": "We looked at cells under a microscope.",
+            "translation": {
+                "ko": "우리는 현미경으로 세포를 보았다.",
+                "ja": "私たちは顕微鏡で細胞を観察しました。",
+                "zh": "我们在显微镜下观察了细胞。",
+                "fr": "Nous avons observé des cellules au microscope."
+            }
+        },
+        {
+            "word": "microprocessor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "micro",
+                    "meaning": {
+                        "ko": "작은",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "processor",
+                    "meaning": {
+                        "ko": "처리기",
+                        "en": "processing unit",
+                        "ja": "処理装置",
+                        "zh": "处理器",
+                        "fr": "processeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아주 작은 처리 장치' 즉, 컴퓨터의 '중앙 처리 장치(CPU)'를 뜻합니다.",
+                "en": "A very small processing device, referring to a computer's central processing unit (CPU)",
+                "ja": "非常に小さい処理装置、つまりコンピュータの中央処理装置(CPU)を意味します",
+                "zh": "一个非常小的处理装置,即计算机的中央处理器(CPU)",
+                "fr": "Un très petit dispositif de traitement, désignant l'unité centrale de traitement (CPU) d'un ordinateur"
+            },
+            "example": "The new microprocessor is very fast.",
+            "translation": {
+                "ko": "그 새 마이크로프로세서는 매우 빠르다.",
+                "ja": "マイクロプロセッサ",
+                "zh": "微处理器",
+                "fr": "microprocesseur"
+            }
+        },
+        {
+            "word": "micrograph",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "micro",
+                    "meaning": {
+                        "ko": "작은",
+                        "en": "small",
+                        "ja": "小さい",
+                        "zh": "小的",
+                        "fr": "petit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "그림, 사진",
+                        "en": "picture or photograph",
+                        "ja": "図、写真",
+                        "zh": "图，照片",
+                        "fr": "image, photographie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'현미경으로 찍은 사진' 즉, '현미경 사진'을 뜻합니다.",
+                "en": "A photograph taken through a microscope; a microscopic image.",
+                "ja": "顕微鏡で撮影した写真、つまり顕微鏡写真を意味します。",
+                "zh": "用显微镜拍摄的照片，即显微镜照片。",
+                "fr": "Une photographie prise au microscope ; une image microscopique."
+            },
+            "example": "This is a micrograph of a virus.",
+            "translation": {
+                "ko": "이것은 바이러스의 현미경 사진이다.",
+                "ja": "これはウイルスの顕微鏡写真です。",
+                "zh": "这是病毒的显微镜照片。",
+                "fr": "Ceci est une micrographie d'un virus."
+            }
+        }
+    ]
+}

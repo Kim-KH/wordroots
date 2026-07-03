@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "twi (two) twain, twice, twin, twilight",
+        "origin": "Old English, twa (two)",
+        "meaning": {
+            "ko": "둘",
+            "en": "two",
+            "ja": "二",
+            "zh": "二",
+            "fr": "deux"
+        }
+    },
+    "words": [
+        {
+            "word": "twain",
+            "part_of_speech": "",
+            "origin": "Old English, twegen (two)",
+            "meaning": {
+                "ko": "둘",
+                "en": "two",
+                "ja": "二つ",
+                "zh": "两个",
+                "fr": "deux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tw-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'둘'을 뜻하는 옛말입니다.",
+                "en": "An archaic word meaning two",
+                "ja": "二つを意味する古い言葉です",
+                "zh": "表示两个的古词",
+                "fr": "Un mot archaïque signifiant deux"
+            },
+            "example": "\"Never the twain shall meet\" is a famous quote.",
+            "translation": {
+                "ko": "\"두 사람은 결코 만나지 못할 것이다\"는 유명한 인용구이다.",
+                "ja": "二つが決して一致することはない",
+                "zh": "两个永不相遇",
+                "fr": "Les deux ne se rencontreront jamais"
+            }
+        },
+        {
+            "word": "twice",
+            "part_of_speech": "",
+            "origin": "Old English, twiges (twice)",
+            "meaning": {
+                "ko": "두 번",
+                "en": "two times",
+                "ja": "2回",
+                "zh": "两次",
+                "fr": "deux fois"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "twi-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 번'이라는 뜻입니다.",
+                "en": "Means 'two times'",
+                "ja": "2回という意味です",
+                "zh": "表示两次的意思",
+                "fr": "Signifie deux fois"
+            },
+            "example": "I've seen that movie twice.",
+            "translation": {
+                "ko": "나는 그 영화를 두 번 봤다.",
+                "ja": "私はその映画を2回見ています。",
+                "zh": "我看过那部电影两次。",
+                "fr": "J'ai vu ce film deux fois."
+            }
+        },
+        {
+            "word": "twin",
+            "part_of_speech": "",
+            "origin": "Old English, twinn (double)",
+            "meaning": {
+                "ko": "두 배의",
+                "en": "twice as much",
+                "ja": "二倍の",
+                "zh": "双倍的",
+                "fr": "double"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "twi-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 배에서 둘이 함께 태어난' '쌍둥이'를 뜻합니다.",
+                "en": "Refers to 'two born together from one womb' or 'twins'",
+                "ja": "一つの子宮から一緒に生まれた二人、双子を意味します",
+                "zh": "指从一个子宫一起出生的两个人，孪生子",
+                "fr": "Se réfère à 'deux nés ensemble d'un seul ventre' ou 'jumeaux'"
+            },
+            "example": "She has an identical twin sister.",
+            "translation": {
+                "ko": "그녀에게는 일란성 쌍둥이 자매가 있다.",
+                "ja": "彼女は一卵性双生児の妹を持っています",
+                "zh": "她有一个同卵双胞胎妹妹",
+                "fr": "Elle a une sœur jumelle identique"
+            }
+        },
+        {
+            "word": "twilight",
+            "part_of_speech": "",
+            "origin": "Middle English, twilight",
+            "meaning": {
+                "ko": "두 개의 빛",
+                "en": "two kinds of light",
+                "ja": "薄暗い時間",
+                "zh": "两种光混合",
+                "fr": "deux lumières mélangées"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "twi-",
+                    "meaning": {
+                        "ko": "'둘'",
+                        "en": "two",
+                        "ja": "二つ",
+                        "zh": "两个",
+                        "fr": "deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "light",
+                    "meaning": {
+                        "ko": "'빛'",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'낮과 밤, 두 빛이 섞이는' 시간이라는 의미에서 '황혼', '어스름'을 뜻합니다.",
+                "en": "The time when day and night blend together, meaning twilight or dusk",
+                "ja": "昼と夜の二つの光が混ざる時間を意味し、黄昏や薄暮を指します",
+                "zh": "白天和夜晚两种光混合的时间，意为黄昏或暮光",
+                "fr": "Le moment où la lumière du jour et celle de la nuit se mélangent, signifiant crépuscule ou pénombre"
+            },
+            "example": "We sat and watched the twilight.",
+            "translation": {
+                "ko": "우리는 앉아서 황혼을 바라보았다.",
+                "ja": "私たちは座って黄昏を眺めました",
+                "zh": "我们坐着观看薄暮",
+                "fr": "Nous nous sommes assis et avons regardé le crépuscule"
+            }
+        }
+    ]
+}

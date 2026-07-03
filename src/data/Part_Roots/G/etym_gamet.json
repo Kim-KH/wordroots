@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "gamet (reproductive) gamete, gametophore, gametophyte",
+        "origin": "Greek, gametes (a husband), gamete (a wife)",
+        "meaning": {
+            "ko": "배우자",
+            "en": "husband, wife",
+            "ja": "夫、妻",
+            "zh": "丈夫，妻子",
+            "fr": "mari, femme"
+        }
+    },
+    "words": [
+        {
+            "word": "gamete",
+            "part_of_speech": "",
+            "origin": "Greek, gamete (a wife)",
+            "meaning": {
+                "ko": "아내, 배우자",
+                "en": "wife, spouse",
+                "ja": "生殖細胞",
+                "zh": "生殖细胞",
+                "fr": "cellule reproductrice"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gamet-",
+                    "meaning": {
+                        "ko": "'배우자'",
+                        "en": "spouse",
+                        "ja": "配偶体",
+                        "zh": "配偶体",
+                        "fr": "gamète"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'결합하여 새로운 개체를 만드는 배우자'라는 의미에서 '생식 세포(정자, 난자)'를 뜻합니다.",
+                "en": "A gamete refers to a reproductive cell (sperm or egg) that combines to create a new organism.",
+                "ja": "結合して新しい個体を作る配偶体という意味から、生殖細胞（精子、卵子）を意味します。",
+                "zh": "从结合形成新个体的配偶体的意义来看，指生殖细胞（精子、卵子）。",
+                "fr": "Un gamète désigne une cellule reproductrice (spermatozoïde ou ovule) qui se combine pour créer un nouvel organisme."
+            },
+            "example": "A zygote is formed by the fusion of two gametes.",
+            "translation": {
+                "ko": "접합자는 두 생식 세포의 융합에 의해 형성된다.",
+                "ja": "配偶子",
+                "zh": "配子",
+                "fr": "gamète"
+            }
+        },
+        {
+            "word": "gametophore",
+            "part_of_speech": "",
+            "origin": "Greek, gamete + phoros (bearing)",
+            "meaning": {
+                "ko": "생식 세포를 지닌 것",
+                "en": "bearing reproductive cells",
+                "ja": "配偶体",
+                "zh": "配子体",
+                "fr": "gamétophore"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gameto-",
+                    "meaning": {
+                        "ko": "'생식 세포'",
+                        "en": "gamete",
+                        "ja": "配偶子",
+                        "zh": "配子",
+                        "fr": "gamète"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phore",
+                    "meaning": {
+                        "ko": "'지닌 것'",
+                        "en": "bearer",
+                        "ja": "担う者",
+                        "zh": "携带者",
+                        "fr": "porteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "이끼 등에서 '생식 기관을 지니고 있는 부분'을 뜻합니다.",
+                "en": "The gametophore is the sexual reproductive structure of a moss.",
+                "ja": "コケなどで生殖器官を持つ部分を意味します。",
+                "zh": "指苔藓等植物中具有生殖器官的部分。",
+                "fr": "Désigne la partie portant les organes reproducteurs sexuels chez les mousses."
+            },
+            "example": "The gametophore is the sexual reproductive structure of a moss.",
+            "translation": {
+                "ko": "생식기탁은 이끼의 유성 생식 구조이다.",
+                "ja": "配偶体",
+                "zh": "配子体",
+                "fr": "gamétophore"
+            }
+        },
+        {
+            "word": "gametophyte",
+            "part_of_speech": "",
+            "origin": "Greek, gamete + phyton (plant)",
+            "meaning": {
+                "ko": "생식 세포 식물",
+                "en": "plant producing gametes",
+                "ja": "配偶体",
+                "zh": "配子体",
+                "fr": "gamétophyte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gameto-",
+                    "meaning": {
+                        "ko": "'생식 세포'",
+                        "en": "gamete",
+                        "ja": "配偶子",
+                        "zh": "配子",
+                        "fr": "gamète"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyte",
+                    "meaning": {
+                        "ko": "'식물'",
+                        "en": "plant",
+                        "ja": "植物",
+                        "zh": "植物",
+                        "fr": "plante"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "식물의 세대 교번에서 '생식 세포를 만들어내는 세대의 식물체'를 의미하는 '배우체'를 뜻합니다.",
+                "en": "In plant alternation of generations, refers to the plant body of the generation that produces gametes, also called gametophyte.",
+                "ja": "植物の世代交代において、配偶子を作り出す世代の植物体を意味します。",
+                "zh": "在植物的世代交替中，指产生配子的那一代的植物体。",
+                "fr": "Dans l'alternance des générations végétales, désigne le corps végétal de la génération qui produit les gamètes."
+            },
+            "example": "The fern has a dominant sporophyte generation and a small gametophyte generation.",
+            "translation": {
+                "ko": "양치류는 우세한 포자체 세대와 작은 배우체 세대를 가진다.",
+                "ja": "シダ植物は優性の胞子体世代と小さな配偶体世代を持つ。",
+                "zh": "蕨类植物有优势孢子体世代和较小的配子体世代。",
+                "fr": "La fougère a une génération de sporophyte dominante et une petite génération de gamétophyte."
+            }
+        }
+    ]
+}

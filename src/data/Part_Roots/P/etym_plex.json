@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "plex (interwoven, strike) complex, perplex, solar plexus",
+        "origin": "Latin, plexus (woven, plaited)",
+        "meaning": {
+            "ko": "얽혀 짜인",
+            "en": "interwoven",
+            "ja": "織り交ぜられた",
+            "zh": "交织在一起的",
+            "fr": "entrelacé"
+        }
+    },
+    "words": [
+        {
+            "word": "complex",
+            "part_of_speech": "",
+            "origin": "Latin, complexus (surrounding)",
+            "meaning": {
+                "ko": "둘러싸는",
+                "en": "to surround",
+                "ja": "複雑な、複合体",
+                "zh": "复杂的、综合体",
+                "fr": "complexe, composé"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に、共に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble, avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plex (plicare 'to fold')",
+                    "meaning": {
+                        "ko": "'접다, 짜다'",
+                        "en": "to fold, weave",
+                        "ja": "折る、織る",
+                        "zh": "折叠、编织",
+                        "fr": "plier, tisser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 요소가 함께 얽혀 짜여 있는' 상태라는 의미에서 '복잡한' 또는 '복합체', '강박관념'을 뜻합니다.",
+                "en": "Multiple elements intertwined and woven together; means complicated, composite, or obsession",
+                "ja": "複数の要素が絡み合い織られている状態；複雑な、複合体、強迫観念を意味します",
+                "zh": "多个要素相互缠绕并织在一起的状态；表示复杂、复合体或强迫观念",
+                "fr": "État où plusieurs éléments sont entrelacés et tissés ensemble; signifie compliqué, composite ou obsession"
+            },
+            "example": "This is a complex problem with no easy solution.",
+            "translation": {
+                "ko": "이것은 쉬운 해결책이 없는 복잡한 문제이다.",
+                "ja": "これは簡単な解決策がない複雑な問題です。",
+                "zh": "这是一个没有简单解决方案的复杂问题。",
+                "fr": "C'est un problème complexe sans solution facile."
+            }
+        },
+        {
+            "word": "perplex",
+            "part_of_speech": "",
+            "origin": "Latin, perplexus (entangled, confused)",
+            "meaning": {
+                "ko": "얽힌, 혼란스러운",
+                "en": "tangled, confused",
+                "ja": "困惑させる、混乱させる",
+                "zh": "困惑、混乱",
+                "fr": "perplexe, confus"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "'완전히'",
+                        "en": "thoroughly",
+                        "ja": "完全に",
+                        "zh": "完全地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plex",
+                    "meaning": {
+                        "ko": "'얽히게 하다'",
+                        "en": "to entangle",
+                        "ja": "絡ませる",
+                        "zh": "缠绕、纠缠",
+                        "fr": "enchevêtrer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 얽혀서 어찌할 바를 모르게 만들다'는 의미에서 '당혹하게 하다'라는 뜻입니다.",
+                "en": "Means to confuse or bewilder by being completely tangled or entangled, making one not know what to do",
+                "ja": "完全に絡まって、どうしたらよいか分からなくさせることから、当惑させるという意味です",
+                "zh": "从完全纠缠而不知所措的意思引申为困惑、使人不知所措",
+                "fr": "Signifie rendre quelqu'un complètement confus ou embrouillé, ne sachant pas quoi faire"
+            },
+            "example": "The question perplexed me.",
+            "translation": {
+                "ko": "그 질문은 나를 당혹스럽게 했다.",
+                "ja": "その質問は私を困惑させた。",
+                "zh": "那个问题使我感到困惑。",
+                "fr": "La question m'a perplexe."
+            }
+        },
+        {
+            "word": "solar plexus",
+            "part_of_speech": "",
+            "origin": "Latin, solaris (of the sun) + plexus (a network)",
+            "meaning": {
+                "ko": "태양의 신경망",
+                "en": "network of nerves in the abdomen",
+                "ja": "太陽神経叢",
+                "zh": "太阳神经丛",
+                "fr": "plexus solaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "solar",
+                    "meaning": {
+                        "ko": "'태양의'",
+                        "en": "of the sun",
+                        "ja": "太陽の",
+                        "zh": "太阳的",
+                        "fr": "solaire"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plexus",
+                    "meaning": {
+                        "ko": "'신경망'",
+                        "en": "nerve network",
+                        "ja": "神経網",
+                        "zh": "神经网络",
+                        "fr": "plexus nerveux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신경이 태양처럼 방사형으로 뻗어 나간' 모양이라는 의미에서 '명치' 부위의 '태양 신경총'을 뜻합니다.",
+                "en": "Named for the radiating pattern of nerves resembling the sun's rays at the solar plexus region near the stomach",
+                "ja": "太陽のように放射状に広がる神経の形状から、みぞおち付近の神経叢を意味します",
+                "zh": "因神经像太阳一样呈放射状分布的形状而得名，指上腹部的神经丛",
+                "fr": "Nommé d'après la forme radiante des nerfs ressemblant aux rayons du soleil au niveau du plexus solaire près de l'estomac"
+            },
+            "example": "A blow to the solar plexus can knock the wind out of you.",
+            "translation": {
+                "ko": "명치를 맞으면 숨이 막힐 수 있다.",
+                "ja": "腹部への打撃は、あなたから息を奪うことができます。",
+                "zh": "对太阳神经丛的打击可能会使你喘不过气来。",
+                "fr": "Un coup au plexus solaire peut vous couper le souffle."
+            }
+        }
+    ]
+}

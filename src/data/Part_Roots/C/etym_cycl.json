@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "cycl (wheel) cycle, cyclonic, encyclical, unicycle",
+        "origin": "Greek, kyklos (circle, wheel)",
+        "meaning": {
+            "ko": "원, 바퀴",
+            "en": "circle, wheel",
+            "ja": "円、車輪",
+            "zh": "圆，轮子",
+            "fr": "cercle, roue"
+        }
+    },
+    "words": [
+        {
+            "word": "cycle",
+            "part_of_speech": "",
+            "origin": "Greek, kyklos (circle)",
+            "meaning": {
+                "ko": "원",
+                "en": "circle or round",
+                "ja": "循環、周期",
+                "zh": "循环、周期",
+                "fr": "cycle, période"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cycl-",
+                    "meaning": {
+                        "ko": "'원, 순환'",
+                        "en": "circle",
+                        "ja": "円、循環",
+                        "zh": "圆、循环",
+                        "fr": "cercle, circulation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'하나의 원처럼 반복되는 과정'이라는 의미에서 '순환', '주기'를 뜻하며 '자전거'를 의미하기도 합니다.",
+                "en": "Means 'circulation' or 'period' from the concept of a repeating process like a circle, and also refers to 'bicycle'.",
+                "ja": "円のように繰り返されるプロセスという意味から「循環」「周期」を意味し、「自転車」を意味することもあります。",
+                "zh": "从像圆一样重复的过程这一概念表示\"循环\"和\"周期\"，也可以表示\"自行车\"。",
+                "fr": "Signifie 'circulation' ou 'période' à partir du concept d'un processus répétitif comme un cercle, et désigne aussi 'bicyclette'."
+            },
+            "example": "The life cycle of a butterfly is fascinating.",
+            "translation": {
+                "ko": "나비의 생활사는 매혹적이다.",
+                "ja": "チョウのライフサイクルは魅力的です。",
+                "zh": "蝴蝶的生命周期很迷人。",
+                "fr": "Le cycle de vie du papillon est fascinant."
+            }
+        },
+        {
+            "word": "cyclonic",
+            "part_of_speech": "",
+            "origin": "Greek, kyklon (moving in a circle)",
+            "meaning": {
+                "ko": "원으로 움직이는",
+                "en": "moving in a circle",
+                "ja": "円形に回転する",
+                "zh": "圆形旋转的",
+                "fr": "tournant en spirale"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cycl-",
+                    "meaning": {
+                        "ko": "'원'",
+                        "en": "circle",
+                        "ja": "円",
+                        "zh": "圆形",
+                        "fr": "cercle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원형으로 회전하는'이라는 의미에서 '사이클론(열대성 저기압)의'라는 뜻입니다.",
+                "en": "Meaning 'rotating in a circular form', it refers to 'of a cyclone (tropical depression)'",
+                "ja": "円形で回転する意味から、サイクロン(熱帯低気圧)のという意味",
+                "zh": "从圆形旋转的意思，指热带气旋的",
+                "fr": "Du sens de rotation circulaire, cela signifie 'de cyclone tropical'"
+            },
+            "example": "The coastal region was hit by a cyclonic storm.",
+            "translation": {
+                "ko": "해안 지역은 사이클론성 폭풍의 강타를 받았다.",
+                "ja": "沿岸地域は回転嵐に襲われた。",
+                "zh": "沿海地区遭到旋转风暴的袭击。",
+                "fr": "La région côtière a été frappée par une tempête cyclonique."
+            }
+        },
+        {
+            "word": "encyclical",
+            "part_of_speech": "",
+            "origin": "Greek, enkyklios (circular, general)",
+            "meaning": {
+                "ko": "원 안의, 일반적인",
+                "en": "within a circle, general or circular",
+                "ja": "円形の、一般的な",
+                "zh": "圆形的、普遍的",
+                "fr": "circulaire, général"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...中",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cycl-",
+                    "meaning": {
+                        "ko": "'원'",
+                        "en": "circle",
+                        "ja": "円",
+                        "zh": "圆",
+                        "fr": "cercle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원을 그리며 모든 사람에게 회람되는 편지'라는 의미에서 로마 교황이 발표하는 '회칙'을 뜻합니다.",
+                "en": "A letter circulated to all people in a circular manner, referring to papal encyclicals issued by the Roman Pope.",
+                "ja": "円を描いてすべての人に回覧される手紙という意味から、ローマ教皇が発表する教皇回勅を指します。",
+                "zh": "从圆形方式向所有人传阅的信件之意，指罗马教皇颁布的教宗通谕。",
+                "fr": "Une lettre circulée à tous les gens de manière circulaire, se référant aux encycliques papales émises par le Pape romain."
+            },
+            "example": "The Pope issued an encyclical on climate change.",
+            "translation": {
+                "ko": "교황은 기후 변화에 대한 회칙을 발표했다.",
+                "ja": "教皇回勅",
+                "zh": "教宗通谕",
+                "fr": "encyclique"
+            }
+        },
+        {
+            "word": "unicycle",
+            "part_of_speech": "",
+            "origin": "Latin, unus (one) + Greek, kyklos (circle)",
+            "meaning": {
+                "ko": "하나의 바퀴",
+                "en": "one wheel",
+                "ja": "一輪車",
+                "zh": "独轮车",
+                "fr": "monocycle"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "uni-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "one",
+                        "ja": "一つ",
+                        "zh": "一个",
+                        "fr": "un"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cycle",
+                    "meaning": {
+                        "ko": "'바퀴'",
+                        "en": "wheel",
+                        "ja": "車輪",
+                        "zh": "轮子",
+                        "fr": "roue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바퀴가 하나인 자전거'라는 의미에서 '외발자전거'를 뜻합니다.",
+                "en": "A bicycle with a single wheel, meaning 'one-wheeled bicycle'",
+                "ja": "一つの車輪を持つ自転車、『一輪自転車』を意味します",
+                "zh": "有一个轮子的自行车，意思是'独轮自行车'",
+                "fr": "Un vélo avec une seule roue, signifiant 'vélo à une roue'"
+            },
+            "example": "He learned to ride a unicycle at the circus school.",
+            "translation": {
+                "ko": "그는 서커스 학교에서 외발자전거 타는 법을 배웠다.",
+                "ja": "彼はサーカススクールで一輪車の乗り方を学びました。",
+                "zh": "他在马戏学校学会了骑独轮车。",
+                "fr": "Il a appris à faire du monocycle à l'école de cirque."
+            }
+        }
+    ]
+}

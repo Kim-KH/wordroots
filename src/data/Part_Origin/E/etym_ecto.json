@@ -1,0 +1,99 @@
+{
+    "root_info": {
+        "roots": "ecto",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "바깥",
+            "en": "outside, external",
+            "ja": "外",
+            "zh": "外",
+            "fr": "extérieur"
+        }
+    },
+    "words": [
+        {
+            "word": "ectomorph",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ecto",
+                    "meaning": {
+                        "ko": "바깥",
+                        "en": "outside",
+                        "ja": "外側",
+                        "zh": "外部",
+                        "fr": "extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "morph",
+                    "meaning": {
+                        "ko": "형태",
+                        "en": "form or shape",
+                        "ja": "形態",
+                        "zh": "形态",
+                        "fr": "forme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "배아의 '바깥' 층인 외배엽에서 주로 발달한 체형이라는 의미에서 '외배엽형 인간'(마른 체형)을 뜻합니다.",
+                "en": "Body type that develops primarily from the ectoderm, the outer layer of the embryo, referring to a lean body type.",
+                "ja": "胚芽の外側の層である外胚葉から主に発達した体型という意味で、「外胚葉型の人間」（やせた体型）を指します。",
+                "zh": "指主要从胚胎外层外胚层发育而来的身体类型，意为「外胚层型人类」（瘦弱体型）。",
+                "fr": "Type de corps développé principalement à partir de l'ectoderme, la couche externe de l'embryon, désignant un type de corps mince."
+            },
+            "example": "An ectomorph has a lean and delicate body.",
+            "translation": {
+                "ko": "외배엽형 인간은 마르고 섬세한 몸을 가지고 있다.",
+                "ja": "外胚葉型の人間は細くて華奢な体を持っている。",
+                "zh": "外胚层型人的身体瘦长而纤细。",
+                "fr": "Un ectomorphe a un corps mince et délicat."
+            }
+        },
+        {
+            "word": "ectoderm",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ecto",
+                    "meaning": {
+                        "ko": "바깥",
+                        "en": "outside",
+                        "ja": "外側",
+                        "zh": "外部",
+                        "fr": "extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "derm",
+                    "meaning": {
+                        "ko": "피부, 층",
+                        "en": "skin, layer",
+                        "ja": "皮膚、層",
+                        "zh": "皮肤、层",
+                        "fr": "peau, couche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "배아의 세 층 중 '가장 바깥쪽 층'인 '외배엽'을 뜻합니다.",
+                "en": "The outermost of three embryonic layers; forms the nervous system and skin epidermis.",
+                "ja": "胚の3つの層の中で最も外側の層である『外胚葉』を意味します。",
+                "zh": "胚胎三层中最外层的『外胚层』，形成神经系统和皮肤表皮。",
+                "fr": "La couche la plus externe des trois couches embryonnaires, formant le système nerveux et l'épiderme."
+            },
+            "example": "The nervous system develops from the ectoderm.",
+            "translation": {
+                "ko": "신경계는 외배엽에서 발달한다.",
+                "ja": "神経系は外胚葉から発達する。",
+                "zh": "神经系统由外胚层发育而来。",
+                "fr": "Le système nerveux se développe à partir de l'ectoderme."
+            }
+        }
+    ]
+}

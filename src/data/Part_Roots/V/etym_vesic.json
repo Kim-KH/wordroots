@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "vesic (bladder) vesicant, vesicle, vesicular",
+        "origin": "Latin, vesica (a bladder, a blister)",
+        "meaning": {
+            "ko": "방광, 물집",
+            "en": "a bladder",
+            "ja": "膀胱",
+            "zh": "膀胱",
+            "fr": "vessie"
+        }
+    },
+    "words": [
+        {
+            "word": "vesicant",
+            "part_of_speech": "",
+            "origin": "Latin, vesicare (to blister)",
+            "meaning": {
+                "ko": "물집이 생기게 하다",
+                "en": "to cause blistering",
+                "ja": "水疱を生じさせる",
+                "zh": "引起水疱",
+                "fr": "produire des ampoules"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vesic-",
+                    "meaning": {
+                        "ko": "'물집'",
+                        "en": "blister",
+                        "ja": "水疱",
+                        "zh": "水疱",
+                        "fr": "ampoule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부에 물집을 생기게 하는' 물질인 '수포제'를 뜻합니다.",
+                "en": "Refers to a substance that causes blisters on the skin",
+                "ja": "皮膚に水疱を生じさせる物質である水疱剤を意味します",
+                "zh": "指在皮肤上引起水疱的物质称为起疱剂",
+                "fr": "Désigne une substance qui provoque des ampoules sur la peau"
+            },
+            "example": "Mustard gas is a powerful vesicant.",
+            "translation": {
+                "ko": "겨자 가스는 강력한 수포제이다.",
+                "ja": "マスタードガスは強力な水疱性物質です",
+                "zh": "芥子气是一种强大的起疱剂",
+                "fr": "Le gaz moutarde est un vésicant puissant"
+            }
+        },
+        {
+            "word": "vesicle",
+            "part_of_speech": "",
+            "origin": "Latin, vesicula (a small blister)",
+            "meaning": {
+                "ko": "작은 물집",
+                "en": "small blister or sac",
+                "ja": "小さい液胞",
+                "zh": "小囊泡",
+                "fr": "petite vésicule"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vesic-",
+                    "meaning": {
+                        "ko": "'물집, 주머니'",
+                        "en": "blister",
+                        "ja": "水疱、袋",
+                        "zh": "水疱、囊",
+                        "fr": "ampoule, poche"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-cle",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さい物",
+                        "zh": "小的东西",
+                        "fr": "petite chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 주머니'라는 의미로, '물집' 또는 세포 내의 '소포'를 뜻합니다.",
+                "en": "A small sac-like structure, referring to a blister or a vesicle (small sac) within cells.",
+                "ja": "小さな袋という意味で、水疱または細胞内の小胞を指します。",
+                "zh": "小囊的意思，指水疱或细胞内的小囊泡。",
+                "fr": "Signifie un petit sac, désignant une ampoule ou une vésicule (petit sac) dans les cellules."
+            },
+            "example": "A vesicle is a small, fluid-filled sac.",
+            "translation": {
+                "ko": "소포는 액체로 채워진 작은 주머니이다.",
+                "ja": "小液胞は液体で満たされた小さな袋です。",
+                "zh": "小囊泡是一个充满液体的小囊。",
+                "fr": "Une vésicule est un petit sac rempli de liquide."
+            }
+        },
+        {
+            "word": "vesicular",
+            "part_of_speech": "",
+            "origin": "Latin, vesicula (a small blister)",
+            "meaning": {
+                "ko": "작은 물집",
+                "en": "small blister or fluid-filled sac",
+                "ja": "小さな水疱のある",
+                "zh": "小水疱的",
+                "fr": "vésiculaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vesicul-",
+                    "meaning": {
+                        "ko": "'소포, 물집'",
+                        "en": "vesicle, small sac",
+                        "ja": "小胞、水疱",
+                        "zh": "囊泡、水疱",
+                        "fr": "vésicule, ampoule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소포의' 또는 '물집이 있는'이라는 뜻입니다.",
+                "en": "Meaning having small blisters or vesicles",
+                "ja": "小さな水疱または囊胞がある",
+                "zh": "具有小水疱或囊泡",
+                "fr": "signifiant ayant des petites vésicules"
+            },
+            "example": "It is a vesicular rash.",
+            "translation": {
+                "ko": "그것은 수포성 발진이다.",
+                "ja": "これは水疱性発疹です。",
+                "zh": "这是水疱性皮疹。",
+                "fr": "C'est une éruption vésiculeuse."
+            }
+        }
+    ]
+}

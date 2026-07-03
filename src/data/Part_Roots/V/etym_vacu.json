@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "vacu (hole) vacuum, vacuole, vacuous",
+        "origin": "Latin, vacuus (empty)",
+        "meaning": {
+            "ko": "빈",
+            "en": "empty",
+            "ja": "空",
+            "zh": "空",
+            "fr": "vide"
+        }
+    },
+    "words": [
+        {
+            "word": "vacuum",
+            "part_of_speech": "",
+            "origin": "Latin, vacuum (an empty space)",
+            "meaning": {
+                "ko": "빈 공간",
+                "en": "an empty space",
+                "ja": "空の空間",
+                "zh": "空的空间",
+                "fr": "espace vide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vacu-",
+                    "meaning": {
+                        "ko": "'빈'",
+                        "en": "empty",
+                        "ja": "空の",
+                        "zh": "空的",
+                        "fr": "vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물질이 전혀 없는 빈 공간'인 '진공'을 뜻합니다.",
+                "en": "Refers to a vacuum or empty space with no matter at all",
+                "ja": "物質が全くない空の空間を意味します",
+                "zh": "指没有任何物质的完全空的空间",
+                "fr": "Désigne un espace complètement vide sans matière"
+            },
+            "example": "The food is sealed in a vacuum to keep it fresh.",
+            "translation": {
+                "ko": "그 음식은 신선함을 유지하기 위해 진공 상태로 밀봉되어 있다.",
+                "ja": "食べ物は新鮮さを保つために真空で密閉されています",
+                "zh": "食物被密封在真空中以保持新鲜",
+                "fr": "La nourriture est scellée sous vide pour rester fraîche"
+            }
+        },
+        {
+            "word": "vacuole",
+            "part_of_speech": "",
+            "origin": "Latin, vacuus (empty)",
+            "meaning": {
+                "ko": "빈",
+                "en": "empty",
+                "ja": "空の",
+                "zh": "空的",
+                "fr": "vide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vacu-",
+                    "meaning": {
+                        "ko": "'빈'",
+                        "en": "empty",
+                        "ja": "空の",
+                        "zh": "空的",
+                        "fr": "vide"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ole",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さいもの",
+                        "zh": "小的东西",
+                        "fr": "petite chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포 안의 작은 빈 공간'이라는 의미에서 '액포'를 뜻합니다.",
+                "en": "Means a small empty space within a cell",
+                "ja": "細胞内の小さな空のスペースを意味する液胞",
+                "zh": "细胞内小的空心空间，称为液泡",
+                "fr": "Désigne une petite cavité vide dans une cellule"
+            },
+            "example": "A plant cell has a large central vacuole.",
+            "translation": {
+                "ko": "식물 세포는 큰 중심 액포를 가지고 있다.",
+                "ja": "液胞",
+                "zh": "液泡",
+                "fr": "vacuole"
+            }
+        },
+        {
+            "word": "vacuous",
+            "part_of_speech": "",
+            "origin": "Latin, vacuus (empty)",
+            "meaning": {
+                "ko": "빈",
+                "en": "empty",
+                "ja": "空虚な",
+                "zh": "空洞的",
+                "fr": "vide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vacu-",
+                    "meaning": {
+                        "ko": "'빈'",
+                        "en": "empty",
+                        "ja": "空の",
+                        "zh": "空的",
+                        "fr": "vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머릿속이 텅 비어 있는'이라는 의미에서 '얼빠진', '공허한'이라는 뜻입니다.",
+                "en": "Meaning empty-minded or vacant; lacking substance or intelligence",
+                "ja": "頭の中が空っぽという意味で、抜けている、空虚なという意味",
+                "zh": "从脑子里空空的意思引申为愚钝、空虚的含义",
+                "fr": "Signifie vide d'esprit ou vacant; manquant de substance ou d'intelligence"
+            },
+            "example": "He had a vacuous expression on his face.",
+            "translation": {
+                "ko": "그는 얼굴에 멍한 표정을 짓고 있었다.",
+                "ja": "彼の顔には空虚な表情があった。",
+                "zh": "他脸上带着空洞的表情。",
+                "fr": "Il avait une expression vide sur le visage."
+            }
+        }
+    ]
+}

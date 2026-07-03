@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "articul (joint) articulate, articulation",
+        "origin": "Latin, articulus (a small joint)",
+        "meaning": {
+            "ko": "작은 관절",
+            "en": "small joint",
+            "ja": "小さな関節",
+            "zh": "小关节",
+            "fr": "petite articulation"
+        }
+    },
+    "words": [
+        {
+            "word": "articulate",
+            "part_of_speech": "",
+            "origin": "Latin, articulatus (jointed, distinct)",
+            "meaning": {
+                "ko": "마디로 나누어진",
+                "en": "jointed",
+                "ja": "関節で分かれた",
+                "zh": "有关节的",
+                "fr": "articulé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "articul (articulus)",
+                    "meaning": {
+                        "ko": "'작은 관절, 부분'",
+                        "en": "small joint, part",
+                        "ja": "小さな関節、部分",
+                        "zh": "小关节、部分",
+                        "fr": "petite articulation, partie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "'~로 만들다, ~의 성질을 띤'",
+                        "en": "to make, to have the quality of",
+                        "ja": "~にする、~の性質を持つ",
+                        "zh": "使~、具有~的性质",
+                        "fr": "rendre ~, avoir la qualité de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마디(articul)로 나누다'는 의미에서 유래하여, 생각을 마디마디 분명하게 '분명히 표현하다' 또는 말이 '또렷한'이라는 뜻으로 사용됩니다. 또한, 뼈들이 '관절로 연결되다'라는 해부학적 의미도 가집니다.",
+                "en": "From the meaning of dividing by joints, it evolved to mean expressing thoughts clearly in segments or having clear speech. It also has anatomical meaning of bones being connected by joints.",
+                "ja": "マディ(articul)で分ける意味から派生し、考えを明確に段階的に表現する、または話が明確であるという意味で使われます。また、骨が関節で結ばれるという解剖学的意味も持ちます。",
+                "zh": "源自用关节分段的含义，演变为清晰分段地表达思想，或指说话清晰。也具有骨骼通过关节连接的解剖学含义。",
+                "fr": "Dérivé du sens de diviser par articulations, il a évolué pour signifier exprimer clairement ses pensées par segments ou avoir une parole claire. Il a aussi le sens anatomique d'os connectés par articulations."
+            },
+            "example": "She gave a witty, entertaining, and articulate speech.",
+            "translation": {
+                "ko": "그녀는 재치 있고, 재미있으며, 또렷한 연설을 했다.",
+                "ja": "彼女は機知に富んだ、面白く、明確な演説をした。",
+                "zh": "她做了一个机智、有趣、表达清晰的演讲。",
+                "fr": "Elle a prononcé un discours spirituel, divertissant et articulé."
+            }
+        },
+        {
+            "word": "articulation",
+            "part_of_speech": "",
+            "origin": "Latin, articulatio (a jointing)",
+            "meaning": {
+                "ko": "관절로 연결함",
+                "en": "a jointing",
+                "ja": "関節で繋ぐこと",
+                "zh": "关节连接",
+                "fr": "articulation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "articul (articulus)",
+                    "meaning": {
+                        "ko": "'작은 관절, 부분'",
+                        "en": "small joint, part",
+                        "ja": "小さな関節、部分",
+                        "zh": "小关节、部分",
+                        "fr": "petite articulation, partie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "'행위, 과정'",
+                        "en": "act, process",
+                        "ja": "行為、過程",
+                        "zh": "行为、过程",
+                        "fr": "action, processus"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마디로 나누는 행위'라는 의미에서 '분명한 발음' 또는 해부학에서 뼈와 뼈가 만나는 '관절'을 의미합니다.",
+                "en": "Refers to clear pronunciation or joints where bones meet in anatomy, derived from the meaning of dividing into segments",
+                "ja": "マディで分ける行為から、明確な発音または解剖学で骨と骨が出会う関節を意味します",
+                "zh": "源于分段的含义，指清晰的发音或解剖学中骨骼相接的关节",
+                "fr": "Signifie prononciation claire ou articulations où les os se rencontrent en anatomie, dérivé du sens de division en segments"
+            },
+            "example": "The speech therapist is working on the child's articulation.",
+            "translation": {
+                "ko": "그 언어 치료사는 아이의 발음 교정을 위해 노력하고 있다.",
+                "ja": "言語療法士はその子の発音改善に取り組んでいます",
+                "zh": "言语治疗师正在改善这个孩子的发音",
+                "fr": "L'orthophoniste travaille sur la prononciation de l'enfant"
+            }
+        }
+    ]
+}

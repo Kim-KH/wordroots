@@ -1,0 +1,707 @@
+{
+    "root_info": {
+        "roots": "act, ave, draw, lead, set in motion",
+        "origin": "Latin, agere",
+        "meaning": {
+            "ko": "몰다, 행하다, 움직이다",
+            "en": "to drive, to do, to act",
+            "ja": "駆る、行う、動かす",
+            "zh": "驱动、做、行动",
+            "fr": "conduire, faire, agir"
+        }
+    },
+    "words": [
+        {
+            "word": "act",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "act",
+                    "meaning": {
+                        "ko": "행하다",
+                        "en": "to do",
+                        "ja": "行う",
+                        "zh": "做",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'행해진 것'이라는 의미에서 '행위', '행동'을 뜻하며, 연극의 '막(幕)'을 의미하기도 합니다.",
+                "en": "From the sense of 'something done': means action or deed; also refers to a scene or division in a play.",
+                "ja": "「行われたこと」という意味から、「行為」「行動」を意味し、演劇の「幕」を意味することもあります。",
+                "zh": "从「所做之事」的含义引申，表示行为、行动；也可指戏剧中的一幕。",
+                "fr": "Du sens de « ce qui a été fait » : signifie action ou acte ; désigne aussi un acte ou une scène au théâtre."
+            },
+            "example": "This was an act of kindness.",
+            "translation": {
+                "ko": "이것은 친절한 행동이었다.",
+                "ja": "これは親切な行動でした。",
+                "zh": "这是一个善意的行为。",
+                "fr": "C'était un acte de bonté."
+            }
+        },
+        {
+            "word": "enact",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "~이 되게 하다",
+                        "en": "to make",
+                        "ja": "〜させる",
+                        "zh": "使得，让",
+                        "fr": "faire, rendre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "act",
+                    "meaning": {
+                        "ko": "행동, 법령",
+                        "en": "act",
+                        "ja": "行動、法令",
+                        "zh": "行为，法令",
+                        "fr": "acte, loi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법령으로 만들다'는 의미에서 법률을 '제정하다'는 뜻이 되었습니다.",
+                "en": "From the sense 'to make by law,' it came to mean 'to enact legislation.'",
+                "ja": "「法律によって作る」という意味から、法律を「制定する」という意味になりました。",
+                "zh": "从「用法律制定」的含义演变为「制定法律」的意思。",
+                "fr": "Du sens « faire par la loi », il est devenu signifier « promulguer une loi »."
+            },
+            "example": "The government will enact a new law.",
+            "translation": {
+                "ko": "정부는 새로운 법을 제정할 것이다.",
+                "ja": "政府は新しい法律を制定するでしょう。",
+                "zh": "政府将制定一项新法律。",
+                "fr": "Le gouvernement promulguera une nouvelle loi."
+            }
+        },
+        {
+            "word": "exact",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "act (agere)",
+                    "meaning": {
+                        "ko": "몰다, 무게를 달다",
+                        "en": "to drive, weigh",
+                        "ja": "駆り立てる、重さを量る",
+                        "zh": "驱赶、称重",
+                        "fr": "chasser, peser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무게를 달아 밖으로 내보낼 만큼' 오차가 없다는 의미에서 '정확한'이라는 뜻으로 발전했습니다.",
+                "en": "Developed from the sense of 'without error, as if weighed and measured precisely' — meaning having no discrepancy.",
+                "ja": "「重さを量って外に出すほど」誤差がないという意味から「正確な」という意味に発展しました。",
+                "zh": "从「称重后无误地送出」的意思发展而来，表示「精确的、没有误差的」。",
+                "fr": "Développé du sens « sans erreur, comme s'il était pesé et mesuré avec précision » — signifiant sans discordance."
+            },
+            "example": "I need the exact measurements.",
+            "translation": {
+                "ko": "나는 정확한 치수가 필요하다.",
+                "ja": "私は正確な寸法が必要です。",
+                "zh": "我需要精确的尺寸。",
+                "fr": "J'ai besoin des mesures exactes."
+            }
+        },
+        {
+            "word": "interaction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "action",
+                    "meaning": {
+                        "ko": "행동",
+                        "en": "action",
+                        "ja": "行動",
+                        "zh": "行动",
+                        "fr": "action"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 사이에서 하는 행동'이라는 의미로, '상호작용'을 뜻합니다.",
+                "en": "Mutual action occurring between parties; mutual influence or exchange.",
+                "ja": "互いの間で起こる行動という意味で、相互作用を表します。",
+                "zh": "相互之间发生的行动，表示相互作用或相互影响。",
+                "fr": "Action mutuelle entre deux parties; signifie influence ou échange réciproque."
+            },
+            "example": "Interaction between students is important.",
+            "translation": {
+                "ko": "학생들 간의 상호작용은 중요하다.",
+                "ja": "学生間の相互作用は重要です。",
+                "zh": "学生之间的相互作用很重要。",
+                "fr": "L'interaction entre les étudiants est importante."
+            }
+        },
+        {
+            "word": "overact",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "over-",
+                    "meaning": {
+                        "ko": "과도하게",
+                        "en": "too much",
+                        "ja": "過度に",
+                        "zh": "过度地",
+                        "fr": "trop"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "act",
+                    "meaning": {
+                        "ko": "연기하다",
+                        "en": "to act",
+                        "ja": "演じる",
+                        "zh": "表演",
+                        "fr": "jouer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과도하게 연기하다'는 뜻입니다.",
+                "en": "to act excessively or with exaggeration",
+                "ja": "過度に演じることを意味します",
+                "zh": "表示过度地或夸张地表演",
+                "fr": "signifie jouer avec excès ou exagération"
+            },
+            "example": "The actor tended to overact.",
+            "translation": {
+                "ko": "그 배우는 과장되게 연기하는 경향이 있었다.",
+                "ja": "その俳優は過度に演技する傾向があった。",
+                "zh": "那位演员往往过度表演。",
+                "fr": "L'acteur avait tendance à surjouer."
+            }
+        },
+        {
+            "word": "redact",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "red- (re-)",
+                    "meaning": {
+                        "ko": "뒤로, 다시",
+                        "en": "back, again",
+                        "ja": "後ろへ、再び",
+                        "zh": "向后、再次",
+                        "fr": "arrière, de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "act (agere)",
+                    "meaning": {
+                        "ko": "정리하다, 이끌다",
+                        "en": "to arrange, drive",
+                        "ja": "整理する、導く",
+                        "zh": "整理、引导",
+                        "fr": "arranger, conduire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 정리하여 되돌리다'는 의미에서, 출판을 위해 글을 '편집하다', '교정하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'arrange and restore again', it came to mean 'edit' or 'proofread' text for publication.",
+                "ja": "「再び整理して元に戻す」という意味から、出版のために文章を「編集する」「校正する」という意味になりました。",
+                "zh": "从「重新整理和恢复」的含义演变而来，指为出版而对文本进行「编辑」或「校对」。",
+                "fr": "Du sens de « réorganiser et restaurer à nouveau », il en est venu à signifier « éditer » ou « corriger » un texte pour la publication."
+            },
+            "example": "The sensitive information was redacted from the report.",
+            "translation": {
+                "ko": "민감한 정보는 그 보고서에서 편집되어 삭제되었다.",
+                "ja": "機密情報はその報告書から編集削除されました。",
+                "zh": "敏感信息已从该报告中编辑删除。",
+                "fr": "Les informations sensibles ont été supprimées du rapport."
+            }
+        },
+        {
+            "word": "counteract",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "counter-",
+                    "meaning": {
+                        "ko": "~에 대항하여",
+                        "en": "against",
+                        "ja": "〜に対抗して",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "act",
+                    "meaning": {
+                        "ko": "행동하다",
+                        "en": "to act",
+                        "ja": "行動する",
+                        "zh": "作用",
+                        "fr": "agir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반대로 행동하다'는 의미에서, 효과 등을 '중화시키다', '반대로 작용하다'는 뜻입니다.",
+                "en": "From 'acting against,' meaning to neutralize effects or work in opposition.",
+                "ja": "「反対に行動する」という意味から、効果などを「中和する」「反対に作用する」という意味です。",
+                "zh": "从「反对行动」的意思出发，表示「抵消效果」或「相反作用」。",
+                "fr": "Du sens « agir contre », signifiant neutraliser les effets ou agir en opposition."
+            },
+            "example": "This medicine will counteract the poison.",
+            "translation": {
+                "ko": "이 약이 그 독을 중화시킬 것이다.",
+                "ja": "この薬はその毒を中和するでしょう。",
+                "zh": "这种药物会中和毒药。",
+                "fr": "Ce médicament neutralisera le poison."
+            }
+        },
+        {
+            "word": "agenda",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ag",
+                    "meaning": {
+                        "ko": "행하다",
+                        "en": "to do",
+                        "ja": "行う",
+                        "zh": "做",
+                        "fr": "faire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-enda",
+                    "meaning": {
+                        "ko": "~해야 할 것들",
+                        "en": "things to be done",
+                        "ja": "すべきこと",
+                        "zh": "待做的事",
+                        "fr": "choses à faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 agendum('해야 할 일')의 복수형으로, '해야 할 일들의 목록' 즉 회의의 '안건', '의제'를 의미합니다.",
+                "en": "Plural of Latin agendum ('thing to be done'), meaning a list of matters to be discussed; items for discussion at a meeting.",
+                "ja": "ラテン語のagendum（「すべき仕事」）の複数形で、「すべき仕事のリスト」つまり会議の「議題」「議事」を意味します。",
+                "zh": "拉丁语agendum（\"要做的事\"）的复数形式，意为\"要做的事的清单\"，即会议的\"议题\"、\"议程\"。",
+                "fr": "Pluriel du latin agendum (« chose à faire »), signifiant une liste de points à discuter ; sujets à débattre lors d'une réunion."
+            },
+            "example": "What is on the agenda for today's meeting?",
+            "translation": {
+                "ko": "오늘 회의 안건은 무엇인가요?",
+                "ja": "今日の会議の議題は何ですか？",
+                "zh": "今天会议的议程是什么？",
+                "fr": "Quel est l'ordre du jour de la réunion d'aujourd'hui ?"
+            }
+        },
+        {
+            "word": "actor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "act",
+                    "meaning": {
+                        "ko": "연기하다",
+                        "en": "to act",
+                        "ja": "演技する",
+                        "zh": "表演",
+                        "fr": "jouer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "사람",
+                        "en": "person who",
+                        "ja": "人",
+                        "zh": "人",
+                        "fr": "personne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'연기하는 사람' 즉, '배우'를 뜻합니다.",
+                "en": "A person who acts; a performer or player in films, theater, etc.",
+                "ja": "演技をする人、つまり俳優を意味します。",
+                "zh": "表演的人，即演员。",
+                "fr": "Une personne qui joue, c'est-à-dire un comédien."
+            },
+            "example": "He is a famous Hollywood actor.",
+            "translation": {
+                "ko": "그는 유명한 할리우드 배우이다.",
+                "ja": "彼は有名なハリウッド俳優です。",
+                "zh": "他是著名的好莱坞演员。",
+                "fr": "Il est un célèbre acteur de Hollywood."
+            }
+        },
+        {
+            "word": "agent",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ag",
+                    "meaning": {
+                        "ko": "행동하다",
+                        "en": "to act",
+                        "ja": "行動する",
+                        "zh": "行动",
+                        "fr": "agir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ent",
+                    "meaning": {
+                        "ko": "사람",
+                        "en": "person who",
+                        "ja": "～する人",
+                        "zh": "人物",
+                        "fr": "personne qui"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대신 행동하는 사람'이라는 의미에서 '대리인', '중개인', '첩보원' 등을 뜻합니다.",
+                "en": "A person who acts on behalf of another; refers to representative, intermediary, or spy.",
+                "ja": "他人の代わりに行動する人という意味から、代理人、仲介者、スパイなどを指します。",
+                "zh": "从'代替他人行动的人'的含义引申，指代理人、中介人、特务等。",
+                "fr": "D'après le sens 'personne qui agit à la place d'une autre', désigne un représentant, un intermédiaire, un espion, etc."
+            },
+            "example": "She works as a secret agent.",
+            "translation": {
+                "ko": "그녀는 비밀 요원으로 일한다.",
+                "ja": "彼女は秘密工作員として働いている。",
+                "zh": "她担任特务工作。",
+                "fr": "Elle travaille comme agent secret."
+            }
+        },
+        {
+            "word": "agility",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ag",
+                    "meaning": {
+                        "ko": "움직이다",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动",
+                        "fr": "se mouvoir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ility",
+                    "meaning": {
+                        "ko": "성질",
+                        "en": "quality",
+                        "ja": "性質",
+                        "zh": "性质",
+                        "fr": "qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빠르게 움직이는 성질'이라는 의미에서, '민첩함', '명민함'을 뜻합니다.",
+                "en": "From the quality of moving quickly; means nimbleness or mental sharpness.",
+                "ja": "素早く動く性質から、素早さ、敏捷さを意味します。",
+                "zh": "从快速移动的性质出发，意为灵活、敏捷。",
+                "fr": "De la qualité de se mouvoir rapidement; signifie souplesse et vivacité d'esprit."
+            },
+            "example": "Cats are known for their agility.",
+            "translation": {
+                "ko": "고양이는 민첩함으로 알려져 있다.",
+                "ja": "猫は敏捷さで知られている。",
+                "zh": "猫以敏捷性而闻名。",
+                "fr": "Les chats sont connus pour leur agilité."
+            }
+        },
+        {
+            "word": "agitation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ag",
+                    "meaning": {
+                        "ko": "움직이다, 휘젓다",
+                        "en": "to stir up",
+                        "ja": "かき混ぜる、揺さぶる",
+                        "zh": "搅动、激动",
+                        "fr": "agiter, remuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "마음을 '휘젓는 것'이라는 의미에서 '불안', '동요'를 뜻하며, 사회적인 '선동'을 의미하기도 합니다.",
+                "en": "From the sense of 'stirring the mind,' it means unrest or agitation, and can also refer to social incitement.",
+                "ja": "心を『かき混ぜる』という意味から、不安や動揺を意味し、社会的な『扇動』を指すこともあります。",
+                "zh": "从'搅动心灵'的含义演变而来，表示不安、震动，也可指社会'煽动'。",
+                "fr": "Du sens d'« agiter l'esprit », il signifie l'inquiétude ou le trouble, et peut aussi désigner l'agitation sociale."
+            },
+            "example": "The news caused great agitation.",
+            "translation": {
+                "ko": "그 소식은 큰 동요를 일으켰다.",
+                "ja": "そのニュースは大きな動揺を引き起こした。",
+                "zh": "这个消息引起了很大的骚动。",
+                "fr": "Cette nouvelle a causé une grande agitation."
+            }
+        },
+        {
+            "word": "ambiguous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ambi-",
+                    "meaning": {
+                        "ko": "양쪽의",
+                        "en": "both ways",
+                        "ja": "両方の",
+                        "zh": "两个方向",
+                        "fr": "les deux côtés"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ig (agere)",
+                    "meaning": {
+                        "ko": "몰다",
+                        "en": "to drive",
+                        "ja": "駆り立てる",
+                        "zh": "驱赶",
+                        "fr": "pousser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의미를 양쪽으로 몰고 가는'이라는 뉘앙스에서 '모호한', '애매한'이라는 뜻이 되었습니다.",
+                "en": "From the sense of 'driving meaning in both directions,' it came to mean unclear or ambiguous.",
+                "ja": "「意味を両方の方向に駆り立てる」という意味合いから、「曖昧な」という意味になりました。",
+                "zh": "从「将意义朝两个方向驱赶」的含义引申出「模糊的」、「不清楚的」之意。",
+                "fr": "Du sens de « pousser le sens dans deux directions », il en vint à signifier vague ou équivoque."
+            },
+            "example": "The instructions were ambiguous.",
+            "translation": {
+                "ko": "그 지시사항들은 모호했다.",
+                "ja": "その指示は曖昧だった。",
+                "zh": "那些指示很模糊。",
+                "fr": "Les instructions étaient ambiguës."
+            }
+        },
+        {
+            "word": "purge",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pur (purus)",
+                    "meaning": {
+                        "ko": "깨끗한",
+                        "en": "pure",
+                        "ja": "清潔な",
+                        "zh": "纯净的",
+                        "fr": "pur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ge (agere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨끗하게 만들다'는 의미에서, 불순물이나 반대 세력을 '제거하다', '숙청하다'는 뜻입니다.",
+                "en": "From 'make pure': to remove impurities or eliminate political opponents; to purge.",
+                "ja": "「清潔にする」という意味から、不純物や政治的敵対者を「除去する」「粛清する」という意味になった。",
+                "zh": "从\"使纯净\"的意思引申，指\"清除杂质或政治对手\"，即\"肃清\"。",
+                "fr": "Du sens de « rendre pur » : éliminer les impuretés ou les rivaux politiques ; épurer."
+            },
+            "example": "The dictator purged his political rivals.",
+            "translation": {
+                "ko": "그 독재자는 그의 정적들을 숙청했다.",
+                "ja": "その独裁者は政治的なライバルを粛清した。",
+                "zh": "那位独裁者清除了他的政治对手。",
+                "fr": "Le dictateur a épuré ses rivaux politiques."
+            }
+        },
+        {
+            "word": "castigate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cast (castus)",
+                    "meaning": {
+                        "ko": "순수한",
+                        "en": "pure",
+                        "ja": "純粋な",
+                        "zh": "纯净的",
+                        "fr": "pur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "igate (agere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制造",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'순수하게 만들다' 즉, 잘못을 바로잡는다는 의미에서 '크게 책망하다', '혹평하다'는 뜻으로 발전했습니다.",
+                "en": "'To make pure'—meaning to correct wrongs—evolved to mean 'to criticize severely' or 'to censure harshly.'",
+                "ja": "「純粋に作る」つまり過ちを正すという意味から、「厳しく非難する」「酷評する」という意味に発展しました。",
+                "zh": "\"使之纯净\"即纠正错误之意，后来发展为\"严厉批评\"、\"严厉谴责\"的含义。",
+                "fr": "« Rendre pur », c'est-à-dire corriger les fautes, a évolué vers le sens de « critiquer sévèrement » ou « censurer durement »."
+            },
+            "example": "The coach castigated the team for their poor performance.",
+            "translation": {
+                "ko": "코치는 형편없는 경기력에 대해 팀을 혹평했다.",
+                "ja": "コーチはチームの不十分なパフォーマンスを厳しく非難した。",
+                "zh": "教练因球队表现不佳而严厉批评了他们。",
+                "fr": "L'entraîneur a sévèrement critiqué l'équipe pour sa piètre performance."
+            }
+        },
+        {
+            "word": "mitigate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mit (mitis)",
+                    "meaning": {
+                        "ko": "부드러운",
+                        "en": "mild",
+                        "ja": "柔らかな",
+                        "zh": "温和的",
+                        "fr": "doux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "igate (agere)",
+                    "meaning": {
+                        "ko": "만들다",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "使成为",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'부드럽게 만들다'는 의미에서, 고통이나 형벌 등을 '완화시키다', '덜어주다'는 뜻입니다.",
+                "en": "From 'to make mild': to lessen or reduce suffering, pain, or punishment.",
+                "ja": "「柔らかく作る」の意から、苦痛や罰などを「緩和する」「軽くする」という意味です。",
+                "zh": "从「使变温和」的意思延伸，表示「减轻」或「缓解」痛苦、惩罚等。",
+                "fr": "Du sens « rendre doux » : atténuer ou réduire la souffrance, la douleur ou le châtiment."
+            },
+            "example": "We need to mitigate the effects of climate change.",
+            "translation": {
+                "ko": "우리는 기후 변화의 영향을 완화해야 한다.",
+                "ja": "我々は気候変動の影響を緩和する必要があります。",
+                "zh": "我们需要缓解气候变化的影响。",
+                "fr": "Nous devons atténuer les effets du changement climatique."
+            }
+        },
+        {
+            "word": "retroactive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "retro-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "backward",
+                        "ja": "後ろに",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "active",
+                    "meaning": {
+                        "ko": "활동적인",
+                        "en": "active or dynamic",
+                        "ja": "活動的な",
+                        "zh": "活跃的",
+                        "fr": "actif"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 거슬러 올라가 행동하는'이라는 의미에서, 법률 등이 '소급 적용되는'이라는 뜻입니다.",
+                "en": "From the sense of 'acting backward in time,' used in law to mean 'applied retroactively.'",
+                "ja": "「時間をさかのぼって行動する」という意味から、法律などが「遡って適用される」という意味です。",
+                "zh": "从\"向后溯及而行动\"的含义来看，用于法律等\"遡及适用\"的意思。",
+                "fr": "Du sens d'«agir rétrospectivement», utilisé en droit pour signifier «s'appliquer rétroactivement»."
+            },
+            "example": "The new law is retroactive to last year.",
+            "translation": {
+                "ko": "새 법은 작년으로 소급 적용된다.",
+                "ja": "新しい法律は去年にさかのぼって適用される。",
+                "zh": "新法律遡及适用于去年。",
+                "fr": "La nouvelle loi s'applique rétroactivement à partir de l'année dernière."
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ol (alcohol) butanol, ethanol, methanol, propanol",
+        "origin": "from alcohol",
+        "meaning": {
+            "ko": "알코올",
+            "en": "alcohol",
+            "ja": "アルコール",
+            "zh": "酒精",
+            "fr": "alcool"
+        }
+    },
+    "words": [
+        {
+            "word": "butanol",
+            "part_of_speech": "",
+            "origin": "butane + -ol (alcohol)",
+            "meaning": {
+                "ko": "부탄 알코올",
+                "en": "butane alcohol",
+                "ja": "ブタノール",
+                "zh": "丁醇",
+                "fr": "butanol"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "butan-",
+                    "meaning": {
+                        "ko": "'부탄'",
+                        "en": "butane",
+                        "ja": "ブタン",
+                        "zh": "丁烷",
+                        "fr": "butane"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ol",
+                    "meaning": {
+                        "ko": "'알코올'",
+                        "en": "alcohol",
+                        "ja": "アルコール",
+                        "zh": "酒精",
+                        "fr": "alcool"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'부탄에서 유도된 알코올'이라는 의미에서 '부탄올'을 뜻합니다.",
+                "en": "An alcohol derived from butane",
+                "ja": "ブタンから誘導されたアルコール",
+                "zh": "从丁烷衍生的酒精",
+                "fr": "Alcool dérivé du butane"
+            },
+            "example": "Butanol can be used as a biofuel.",
+            "translation": {
+                "ko": "부탄올은 바이오 연료로 사용될 수 있다.",
+                "ja": "ブタノールはバイオ燃料として使用できます。",
+                "zh": "丁醇可用作生物燃料。",
+                "fr": "Le butanol peut être utilisé comme biocarburant."
+            }
+        },
+        {
+            "word": "ethanol",
+            "part_of_speech": "",
+            "origin": "ethane + -ol (alcohol)",
+            "meaning": {
+                "ko": "에탄 알코올",
+                "en": "ethane alcohol",
+                "ja": "エタノール",
+                "zh": "乙醇",
+                "fr": "éthanol"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ethan-",
+                    "meaning": {
+                        "ko": "'에탄'",
+                        "en": "ethane",
+                        "ja": "エタン",
+                        "zh": "乙烷",
+                        "fr": "éthane"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ol",
+                    "meaning": {
+                        "ko": "'알코올'",
+                        "en": "alcohol",
+                        "ja": "アルコール",
+                        "zh": "酒精",
+                        "fr": "alcool"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'에탄에서 유도된 알코올'로, 술의 주성분인 '에탄올'을 뜻합니다.",
+                "en": "Alcohol derived from ethane, referring to ethanol which is the main component of alcoholic beverages.",
+                "ja": "エタンから誘導されたアルコール。酒の主成分であるエタノールを意味します。",
+                "zh": "从乙烷衍生的酒精，表示酒的主要成分乙醇。",
+                "fr": "Alcool dérivé de l'éthane, désignant l'éthanol qui est le principal composant des boissons alcoolisées."
+            },
+            "example": "Ethanol is produced by the fermentation of sugars.",
+            "translation": {
+                "ko": "에탄올은 당의 발효에 의해 생산된다.",
+                "ja": "エタノールは糖の発酵によって生成されます。",
+                "zh": "乙醇是通过糖的发酵产生的。",
+                "fr": "L'éthanol est produit par la fermentation des sucres."
+            }
+        },
+        {
+            "word": "methanol",
+            "part_of_speech": "",
+            "origin": "methyl + -ol (alcohol)",
+            "meaning": {
+                "ko": "메틸 알코올",
+                "en": "methyl alcohol",
+                "ja": "メタノール",
+                "zh": "甲醇",
+                "fr": "méthanol"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "methan-",
+                    "meaning": {
+                        "ko": "'메탄'",
+                        "en": "methane",
+                        "ja": "メタン",
+                        "zh": "甲烷",
+                        "fr": "méthane"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ol",
+                    "meaning": {
+                        "ko": "'알코올'",
+                        "en": "alcohol",
+                        "ja": "アルコール",
+                        "zh": "酒精",
+                        "fr": "alcool"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'메탄에서 유도된 가장 간단한 형태의 알코올'인 '메탄올'을 뜻합니다.",
+                "en": "Methanol is the simplest form of alcohol derived from methane",
+                "ja": "メタンから誘導された最も単純な形のアルコール",
+                "zh": "从甲烷衍生的最简单形式的酒精",
+                "fr": "Alcool sous sa forme la plus simple dérivée du méthane"
+            },
+            "example": "Methanol is toxic and should not be consumed.",
+            "translation": {
+                "ko": "메탄올은 독성이 있으므로 섭취해서는 안 된다.",
+                "ja": "メタノールは有毒であり、摂取すべきではない。",
+                "zh": "甲醇是有毒的，不应该被消耗。",
+                "fr": "Le méthanol est toxique et ne doit pas être consommé."
+            }
+        },
+        {
+            "word": "propanol",
+            "part_of_speech": "",
+            "origin": "propane + -ol (alcohol)",
+            "meaning": {
+                "ko": "프로판 알코올",
+                "en": "propane alcohol",
+                "ja": "プロパノール",
+                "zh": "丙醇",
+                "fr": "propanol"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "propan-",
+                    "meaning": {
+                        "ko": "'프로판'",
+                        "en": "propane",
+                        "ja": "プロパン",
+                        "zh": "丙烷",
+                        "fr": "propane"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ol",
+                    "meaning": {
+                        "ko": "'알코올'",
+                        "en": "alcohol",
+                        "ja": "アルコール",
+                        "zh": "酒精",
+                        "fr": "alcool"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'프로판에서 유도된 알코올'인 '프로판올'을 뜻합니다.",
+                "en": "Propanol means an alcohol derived from propane",
+                "ja": "プロパンから誘導されたアルコール",
+                "zh": "由丙烷衍生的酒精",
+                "fr": "alcool dérivé du propane"
+            },
+            "example": "Propanol is commonly used as a solvent.",
+            "translation": {
+                "ko": "프로판올은 용매로 흔히 사용된다.",
+                "ja": "プロパノールは溶剤として一般的に使用されています。",
+                "zh": "丙醇通常用作溶剂。",
+                "fr": "Le propanol est couramment utilisé comme solvant."
+            }
+        }
+    ]
+}

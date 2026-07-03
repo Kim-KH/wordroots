@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "vade (go) evade, invade, pervade",
+        "origin": "Latin, vadere (to go, to walk)",
+        "meaning": {
+            "ko": "가다",
+            "en": "to go",
+            "ja": "行く",
+            "zh": "去",
+            "fr": "aller"
+        }
+    },
+    "words": [
+        {
+            "word": "evade",
+            "part_of_speech": "",
+            "origin": "Latin, evadere (to go out, to escape)",
+            "meaning": {
+                "ko": "밖으로 가다, 탈출하다",
+                "en": "to go outside, escape",
+                "ja": "逃げる、回避する",
+                "zh": "逃避、躲避",
+                "fr": "esquiver, éviter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vade",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 빠져나가다'는 의미에서 책임이나 의무를 '피하다', '회피하다'라는 뜻입니다.",
+                "en": "From the sense of 'going out/escaping', it means to 'avoid' or 'shirk' responsibility or obligation",
+                "ja": "外へ出て行く意味から、責任や義務を'避ける'、'回避する'という意味になります",
+                "zh": "从'向外去'的意思衍生出'躲避'、'逃避'责任或义务的含义",
+                "fr": "Du sens de 'sortir/s'échapper', il signifie 'éviter' ou 'esquiver' une responsabilité ou une obligation"
+            },
+            "example": "He tried to evade paying his taxes.",
+            "translation": {
+                "ko": "그는 세금 납부를 피하려고 했다.",
+                "ja": "彼は税金の支払いを逃れようとした。",
+                "zh": "他试图逃避支付税款。",
+                "fr": "Il a essayé d'esquiver de payer ses impôts."
+            }
+        },
+        {
+            "word": "invade",
+            "part_of_speech": "",
+            "origin": "Latin, invadere (to go into)",
+            "meaning": {
+                "ko": "안으로 가다",
+                "en": "to go inside",
+                "ja": "侵略する",
+                "zh": "侵略",
+                "fr": "envahir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in, into",
+                        "ja": "中に",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vade",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'적의 영토 안으로 들어가다'는 의미에서 '침략하다'라는 뜻입니다.",
+                "en": "Means to enter enemy territory; to invade",
+                "ja": "敵の領土に入ることを意味し、侵略することです",
+                "zh": "意思是进入敌人的领土，即侵略",
+                "fr": "Signifie entrer sur le territoire ennemi, c'est-à-dire envahir"
+            },
+            "example": "The army invaded the neighboring country.",
+            "translation": {
+                "ko": "그 군대는 이웃 나라를 침략했다.",
+                "ja": "その軍隊は隣国を侵略した。",
+                "zh": "那支军队侵略了邻国。",
+                "fr": "L'armée a envahi le pays voisin."
+            }
+        },
+        {
+            "word": "pervade",
+            "part_of_speech": "",
+            "origin": "Latin, pervadere (to go through)",
+            "meaning": {
+                "ko": "통과하여 가다",
+                "en": "to pass through",
+                "ja": "満ちる、行き渡る",
+                "zh": "遍布、充满",
+                "fr": "imprégner, envahir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "'통하여'",
+                        "en": "through",
+                        "ja": "通して",
+                        "zh": "通过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vade",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去、行",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 곳을 통과하여 가다'는 의미에서 냄새나 사상 등이 '만연하다', '스며들다'는 뜻입니다.",
+                "en": "Means that smells, ideas, etc. spread throughout everywhere, penetrate, or become prevalent",
+                "ja": "においや思想などが全体に広がる、浸透する、蔓延する意味です",
+                "zh": "气味、思想等遍布全地，渗透或普遍存在的意思",
+                "fr": "Signifie que les odeurs, idées, etc. se répandent partout, imprègnent ou deviennent omniprésentes"
+            },
+            "example": "A sense of optimism pervaded the country.",
+            "translation": {
+                "ko": "낙관적인 분위기가 나라 전체에 만연했다.",
+                "ja": "楽観的な雰囲気がその国に満ちていた。",
+                "zh": "乐观的气氛充满了整个国家。",
+                "fr": "Un sentiment d'optimisme imprégna le pays."
+            }
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "curs (run) cursor, cursory, cursive, precursor",
+        "origin": "Latin, currere, cursus (to run)",
+        "meaning": {
+            "ko": "달리다",
+            "en": "to run",
+            "ja": "走る",
+            "zh": "跑",
+            "fr": "courir"
+        }
+    },
+    "words": [
+        {
+            "word": "cursor",
+            "part_of_speech": "",
+            "origin": "Latin, cursor (runner)",
+            "meaning": {
+                "ko": "달리는 사람",
+                "en": "running person",
+                "ja": "走る人",
+                "zh": "奔跑的人",
+                "fr": "personne qui court"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curs-",
+                    "meaning": {
+                        "ko": "'달리다'",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "奔跑",
+                        "fr": "courir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "'~하는 것'",
+                        "en": "one who does",
+                        "ja": "〜すること",
+                        "zh": "〜的东西",
+                        "fr": "chose qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'화면 위를 달리는(움직이는) 것'이라는 의미에서 컴퓨터 화면의 '커서'를 뜻합니다.",
+                "en": "Refers to the 'cursor' on a computer screen, derived from the meaning 'something that runs (moves) across the screen'",
+                "ja": "画面上を走る(動く)ものという意味から、コンピュータ画面の'カーソル'を意味します",
+                "zh": "源于'在屏幕上奔跑(移动)的东西'的含义，指计算机屏幕上的'光标'",
+                "fr": "Signifie le 'curseur' sur l'écran de l'ordinateur, dérivé du sens 'quelque chose qui court (se déplace) sur l'écran'"
+            },
+            "example": "Move the cursor to the beginning of the line.",
+            "translation": {
+                "ko": "커서를 줄의 시작 부분으로 옮기세요.",
+                "ja": "カーソルを行の始まりに移動してください",
+                "zh": "将光标移动到该行的开头",
+                "fr": "Déplacez le curseur au début de la ligne"
+            }
+        },
+        {
+            "word": "cursory",
+            "part_of_speech": "",
+            "origin": "Latin, cursorius (hasty, of a runner)",
+            "meaning": {
+                "ko": "서두르는, 달리는 자의",
+                "en": "hurrying, one who runs",
+                "ja": "急いた、浅い",
+                "zh": "匆匆的、肤浅的",
+                "fr": "rapide, superficiel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curs-",
+                    "meaning": {
+                        "ko": "'달리다'",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "跑",
+                        "fr": "courir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'달리듯이 빠르게 지나가는'이라는 의미에서 '대충 하는', '피상적인'이라는 뜻입니다.",
+                "en": "From the sense of passing quickly like running, it means doing something hastily or superficially",
+                "ja": "走るように素早く通り過ぎるという意味から、いい加減にやる、表面的という意味になります",
+                "zh": "从像跑步一样快速通过的意思衍生出急促地做、表面的意思",
+                "fr": "Du sens de passer rapidement comme en courant, il signifie faire quelque chose à la hâte ou superficiellement"
+            },
+            "example": "He gave the report a cursory glance.",
+            "translation": {
+                "ko": "그는 보고서를 대충 훑어보았다.",
+                "ja": "彼はレポートをざっと見た。",
+                "zh": "他匆匆扫了一眼报告。",
+                "fr": "Il a jeté un coup d'oeil rapide sur le rapport."
+            }
+        },
+        {
+            "word": "cursive",
+            "part_of_speech": "",
+            "origin": "Latin, cursivus (running)",
+            "meaning": {
+                "ko": "달리는",
+                "en": "running, moving quickly",
+                "ja": "筆記体の",
+                "zh": "草体的",
+                "fr": "cursif"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curs-",
+                    "meaning": {
+                        "ko": "'달리다'",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "跑",
+                        "fr": "courir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'글자를 떼지 않고 달리듯이 쓰는' 서체라는 의미에서 '필기체의'라는 뜻입니다.",
+                "en": "From the meaning of handwriting style where letters flow without lifting the pen, like running",
+                "ja": "文字を途切れなく走るように書く書体という意味から、筆記体という意味です",
+                "zh": "从不间断地如流水般书写字母的笔迹风格的含义而来，表示草体",
+                "fr": "Du sens d'un style d'écriture où les lettres coulent sans lever le stylo, comme en courant"
+            },
+            "example": "She has beautiful cursive handwriting.",
+            "translation": {
+                "ko": "그녀는 아름다운 필기체 글씨를 쓴다.",
+                "ja": "彼女は美しい筆記体で書いている。",
+                "zh": "她有漂亮的草体笔迹。",
+                "fr": "Elle a une belle écriture cursive."
+            }
+        },
+        {
+            "word": "precursor",
+            "part_of_speech": "",
+            "origin": "Latin, praecursor (forerunner)",
+            "meaning": {
+                "ko": "먼저 달리는 사람",
+                "en": "person who runs ahead",
+                "ja": "先駆者、前兆",
+                "zh": "先驱者、前兆",
+                "fr": "précurseur, signe avant-coureur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "'앞에'",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "前面",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curs-",
+                    "meaning": {
+                        "ko": "'달리다'",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "奔跑",
+                        "fr": "courir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "'~하는 것/사람'",
+                        "en": "one who does or is",
+                        "ja": "~する人/物",
+                        "zh": "~的人/物",
+                        "fr": "personne/chose qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞서 달리는 것'이라는 의미에서 어떤 사건의 '선구자', '전조'를 뜻합니다.",
+                "en": "From the meaning of 'running ahead', it refers to a 'pioneer' or 'sign before an event'",
+                "ja": "前を走るという意味から、ある事象の先駆者や前兆を指します",
+                "zh": "从走在前面的意思来看，指某事件的先驱者或前兆",
+                "fr": "Du sens de 'courir devant', il désigne un 'pionnier' ou 'signe avant un événement'"
+            },
+            "example": "Dark clouds are often a precursor to a storm.",
+            "translation": {
+                "ko": "먹구름은 종종 폭풍의 전조이다.",
+                "ja": "暗い雲はしばしば嵐の前兆です",
+                "zh": "乌云常常是暴风雨的前兆",
+                "fr": "Les nuages sombres sont souvent un signe avant-coureur d'une tempête"
+            }
+        }
+    ]
+}

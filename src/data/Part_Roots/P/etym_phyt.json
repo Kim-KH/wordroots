@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "phyt(e) (plant) epiphyte, phytogenesis, phytoplankton",
+        "origin": "Greek, phyton (a plant)",
+        "meaning": {
+            "ko": "식물",
+            "en": "plant",
+            "ja": "植物",
+            "zh": "植物",
+            "fr": "plante"
+        }
+    },
+    "words": [
+        {
+            "word": "epiphyte",
+            "part_of_speech": "",
+            "origin": "Greek, epi- (upon) + phyton (plant)",
+            "meaning": {
+                "ko": "식물 위에",
+                "en": "on a plant",
+                "ja": "着生植物",
+                "zh": "附生植物",
+                "fr": "plante épiphyte"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "epi-",
+                    "meaning": {
+                        "ko": "'위에'",
+                        "en": "upon",
+                        "ja": "上に",
+                        "zh": "上面",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyte",
+                    "meaning": {
+                        "ko": "'식물'",
+                        "en": "plant",
+                        "ja": "植物",
+                        "zh": "植物",
+                        "fr": "plante"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 식물 위에 붙어서 자라는 식물'인 '착생 식물'을 뜻합니다.",
+                "en": "A plant that grows attached to another plant",
+                "ja": "他の植物に付着して成長する植物を意味します",
+                "zh": "指附着在其他植物上生长的植物",
+                "fr": "Une plante qui pousse attachée à une autre plante"
+            },
+            "example": "Orchids are a common type of epiphyte.",
+            "translation": {
+                "ko": "난초는 흔한 종류의 착생 식물이다.",
+                "ja": "蘭は一般的な着生植物の一種です。",
+                "zh": "兰花是一种常见的附生植物。",
+                "fr": "Les orchidées sont un type courant de plante épiphyte."
+            }
+        },
+        {
+            "word": "phytogenesis",
+            "part_of_speech": "",
+            "origin": "Greek, phyton (plant) + genesis (origin)",
+            "meaning": {
+                "ko": "식물의 기원",
+                "en": "origin of plants",
+                "ja": "植物の起源",
+                "zh": "植物的起源",
+                "fr": "origine des plantes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyto-",
+                    "meaning": {
+                        "ko": "'식물'",
+                        "en": "plant",
+                        "ja": "植物",
+                        "zh": "植物",
+                        "fr": "plante"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "genesis",
+                    "meaning": {
+                        "ko": "'발생, 기원'",
+                        "en": "origin",
+                        "ja": "発生、起源",
+                        "zh": "发生、起源",
+                        "fr": "origine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식물의 발생과 진화 역사'인 '식물 계통 발생'을 뜻합니다.",
+                "en": "Refers to plant phylogenesis, meaning the evolutionary development and origin history of plants.",
+                "ja": "植物の発生と進化の歴史である『植物系統発生』を意味します。",
+                "zh": "指植物的发生与进化历史的『植物系统发生』。",
+                "fr": "Se réfère à la phylogenèse des plantes, signifiant le développement évolutif et l'histoire de l'origine des plantes."
+            },
+            "example": "Phytogenesis studies the evolutionary development of plants.",
+            "translation": {
+                "ko": "식물 계통 발생학은 식물의 진화적 발달을 연구한다.",
+                "ja": "植物系統発生は植物の進化的発展を研究します。",
+                "zh": "植物系统发生研究植物的进化发展。",
+                "fr": "La phytogenèse étudie le développement évolutif des plantes."
+            }
+        },
+        {
+            "word": "phytoplankton",
+            "part_of_speech": "",
+            "origin": "Greek, phyton (plant) + planktos (wandering)",
+            "meaning": {
+                "ko": "떠다니는 식물",
+                "en": "floating plant",
+                "ja": "浮遊する植物",
+                "zh": "浮游植物",
+                "fr": "phytoplancton"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phyto-",
+                    "meaning": {
+                        "ko": "'식물'",
+                        "en": "plant",
+                        "ja": "植物",
+                        "zh": "植物",
+                        "fr": "plante"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plankton",
+                    "meaning": {
+                        "ko": "'플랑크톤'",
+                        "en": "plankton",
+                        "ja": "プランクトン",
+                        "zh": "浮游生物",
+                        "fr": "plancton"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물에 떠다니며 광합성을 하는 미세한 식물'인 '식물성 플랑크톤'을 뜻합니다.",
+                "en": "Refers to microscopic photosynthetic plants that float in water, also called phytoplankton.",
+                "ja": "水に浮遊して光合成を行う微細な植物である植物性プランクトンを意味します。",
+                "zh": "指在水中浮游并进行光合作用的微小植物，也称为植物性浮游生物。",
+                "fr": "Désigne les minuscules plantes photosynthétiques qui flottent dans l'eau, aussi appelées phytoplancton."
+            },
+            "example": "Phytoplankton are the foundation of the marine food web.",
+            "translation": {
+                "ko": "식물성 플랑크톤은 해양 먹이 그물의 기초이다.",
+                "ja": "植物プランクトンは海洋食物連鎖の基礎です。",
+                "zh": "植物性浮游生物是海洋食物链的基础。",
+                "fr": "Le phytoplancton est le fondement du réseau alimentaire marin."
+            }
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "root_info": {
+        "roots": "gram (written record) cardiogram, diagram, grammar, program, telegram",
+        "origin": "Greek, gramma (thing written, letter)",
+        "meaning": {
+            "ko": "쓰인 것",
+            "en": "thing written",
+            "ja": "書かれたもの",
+            "zh": "写的东西",
+            "fr": "chose écrite"
+        }
+    },
+    "words": [
+        {
+            "word": "cardiogram",
+            "part_of_speech": "",
+            "origin": "Greek, kardia (heart) + gramma (thing written)",
+            "meaning": {
+                "ko": "심장에 대해 쓰인 것",
+                "en": "something written about the heart",
+                "ja": "心臓の記録",
+                "zh": "心脏记录",
+                "fr": "enregistrement cardiaque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cardio-",
+                    "meaning": {
+                        "ko": "'심장'",
+                        "en": "heart",
+                        "ja": "心臓",
+                        "zh": "心脏",
+                        "fr": "cœur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "'기록'",
+                        "en": "record",
+                        "ja": "記録",
+                        "zh": "记录",
+                        "fr": "enregistrement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'심장의 활동을 기록한 그래프'인 '심전도'를 뜻합니다.",
+                "en": "A graph recording the activity of the heart, known as an electrocardiogram",
+                "ja": "心臓の活動を記録したグラフである心電図を意味します",
+                "zh": "表示心脏活动记录的图表，称为心电图",
+                "fr": "Un graphique enregistrant l'activité cardiaque, appelé électrocardiogramme"
+            },
+            "example": "The doctor examined the patient's cardiogram.",
+            "translation": {
+                "ko": "의사는 환자의 심전도를 검사했다.",
+                "ja": "医者は患者の心電図を調べた",
+                "zh": "医生检查了患者的心电图",
+                "fr": "Le médecin a examiné l'électrocardiogramme du patient"
+            }
+        },
+        {
+            "word": "diagram",
+            "part_of_speech": "",
+            "origin": "Greek, diagramma (that which is marked out by lines)",
+            "meaning": {
+                "ko": "선으로 표시된 것",
+                "en": "something marked with lines",
+                "ja": "線で示された図",
+                "zh": "用线条表示的图",
+                "fr": "figure tracée par des lignes"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dia-",
+                    "meaning": {
+                        "ko": "'가로질러'",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "穿过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "'그린 것'",
+                        "en": "drawing",
+                        "ja": "描かれたもの",
+                        "zh": "绘制的东西",
+                        "fr": "chose dessinée"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'선으로 그려서 어떤 것의 구조나 작동 원리를 보여주는' 그림인 '도해', '도표'를 뜻합니다.",
+                "en": "A picture shown by drawing lines to explain the structure or working principle of something; means 'schematic diagram' or 'chart'",
+                "ja": "線で描いて何かの構造や動作原理を示す図、つまり「図解」や「図表」を意味します",
+                "zh": "通过绘制线条来显示某物的结构或工作原理的图，即'示意图'或'表格'之意",
+                "fr": "Un dessin montrant la structure ou le principe de fonctionnement de quelque chose en traçant des lignes, signifiant 'schéma' ou 'tableau'"
+            },
+            "example": "The diagram explains how the machine works.",
+            "translation": {
+                "ko": "그 도표는 기계가 어떻게 작동하는지 설명한다.",
+                "ja": "その図表は機械の動き方を説明しています",
+                "zh": "这张图表解释了机器的工作方式",
+                "fr": "Le diagramme explique comment fonctionne la machine"
+            }
+        },
+        {
+            "word": "grammar",
+            "part_of_speech": "",
+            "origin": "Greek, grammatike tekhne (art of letters)",
+            "meaning": {
+                "ko": "글자의 기술",
+                "en": "the art of writing characters",
+                "ja": "文字の技術",
+                "zh": "字母的技巧",
+                "fr": "technique des lettres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gramm- (gramma)",
+                    "meaning": {
+                        "ko": "'글자'",
+                        "en": "letter",
+                        "ja": "文字",
+                        "zh": "字母",
+                        "fr": "lettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'글자를 다루는 기술'이라는 의미에서 '문법'을 뜻하게 되었습니다.",
+                "en": "Derived from the meaning 'technique of handling letters'",
+                "ja": "文字を扱う技術という意味から文法を表すようになりました",
+                "zh": "从处理字母的技术这一含义演变而来",
+                "fr": "Dérivé du sens 'technique de manipulation des lettres'"
+            },
+            "example": "You need to learn the basic rules of grammar.",
+            "translation": {
+                "ko": "당신은 문법의 기본 규칙을 배워야 한다.",
+                "ja": "基本的な文法のルールを学ぶ必要があります。",
+                "zh": "你需要学习基本的语法规则。",
+                "fr": "Vous devez apprendre les règles fondamentales de la grammaire."
+            }
+        },
+        {
+            "word": "program",
+            "part_of_speech": "",
+            "origin": "Greek, programma (a written public notice)",
+            "meaning": {
+                "ko": "공개적으로 쓰인 것",
+                "en": "publicly written or used",
+                "ja": "公開的に書かれたもの",
+                "zh": "公开书写的东西",
+                "fr": "chose écrite publiquement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞에, 공개적으로'",
+                        "en": "before, in public",
+                        "ja": "前に、公開的に",
+                        "zh": "在前面、公开地",
+                        "fr": "avant, publiquement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "'쓰인 것'",
+                        "en": "written thing",
+                        "ja": "書かれたもの",
+                        "zh": "书写的东西",
+                        "fr": "chose écrite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미리 써 놓은 계획이나 순서'를 의미하여 '프로그램', '계획'을 뜻합니다.",
+                "en": "Means a pre-written plan or sequence, hence program or plan",
+                "ja": "事前に書いた計画や順序を意味し、プログラム、計画を表す",
+                "zh": "表示预先写好的计划或顺序，因此意为程序、计划",
+                "fr": "Signifie un plan ou une séquence pré-écrit, d'où programme ou plan"
+            },
+            "example": "What's on the program for tonight?",
+            "translation": {
+                "ko": "오늘 밤 프로그램은 무엇인가요?",
+                "ja": "今晩のプログラムは何ですか？",
+                "zh": "今晚的节目是什么？",
+                "fr": "Quel est le programme pour ce soir?"
+            }
+        },
+        {
+            "word": "telegram",
+            "part_of_speech": "",
+            "origin": "Greek, tele- (far off) + gramma (thing written)",
+            "meaning": {
+                "ko": "멀리 쓰인 것",
+                "en": "something written from afar",
+                "ja": "遠くから送られた文",
+                "zh": "远方发送的文字",
+                "fr": "message envoyé de loin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tele-",
+                    "meaning": {
+                        "ko": "'멀리'",
+                        "en": "far",
+                        "ja": "遠く",
+                        "zh": "远方",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "'쓰인 것'",
+                        "en": "written thing",
+                        "ja": "書かれたもの",
+                        "zh": "书写的东西",
+                        "fr": "chose écrite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'멀리서 보낸 글'이라는 의미에서 '전보'를 뜻합니다.",
+                "en": "It means 'telegram' from the sense of 'text sent from afar'",
+                "ja": "遠くから送られた文という意味から'電報'を意味します",
+                "zh": "从'从远方发送的文字'的意思表示'电报'",
+                "fr": "Signifie 'télégramme' du sens de 'texte envoyé de loin'"
+            },
+            "example": "He received a telegram with urgent news.",
+            "translation": {
+                "ko": "그는 긴급한 소식이 담긴 전보를 받았다.",
+                "ja": "彼は緊急のニュースが書かれた電報を受け取りました",
+                "zh": "他收到了一份带有紧急消息的电报",
+                "fr": "Il a reçu un télégramme avec des nouvelles urgentes"
+            }
+        }
+    ]
+}

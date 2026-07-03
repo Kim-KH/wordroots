@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "urb (city) urban, urbane, urbanize, suburb",
+        "origin": "Latin, urbs (a city)",
+        "meaning": {
+            "ko": "도시",
+            "en": "a city",
+            "ja": "都市",
+            "zh": "城市",
+            "fr": "ville"
+        }
+    },
+    "words": [
+        {
+            "word": "urban",
+            "part_of_speech": "",
+            "origin": "Latin, urbanus (of the city)",
+            "meaning": {
+                "ko": "도시의",
+                "en": "of the city",
+                "ja": "都市の",
+                "zh": "城市的",
+                "fr": "urbain"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "urb-",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'도시의'라는 뜻입니다.",
+                "en": "Related to or characteristic of a city",
+                "ja": "都市に関連する、または都市的な",
+                "zh": "与城市相关或具有城市特征",
+                "fr": "Relatif à ou caractéristique d'une ville"
+            },
+            "example": "He lives in an urban area.",
+            "translation": {
+                "ko": "그는 도시 지역에 산다.",
+                "ja": "彼は都市部に住んでいます。",
+                "zh": "他住在城市地区。",
+                "fr": "Il vit dans une zone urbaine."
+            }
+        },
+        {
+            "word": "urbane",
+            "part_of_speech": "",
+            "origin": "Latin, urbanus (of the city, refined, courteous)",
+            "meaning": {
+                "ko": "도시의, 세련된",
+                "en": "urban, sophisticated",
+                "ja": "都市的で洗練された",
+                "zh": "城市的、精致的",
+                "fr": "urbain et raffiné"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "urb-",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'도시 사람처럼 세련되고 예의 바른'이라는 뜻입니다.",
+                "en": "Means refined and polite like a city person",
+                "ja": "都市の人のように洗練され丁寧という意味です",
+                "zh": "指像城市人一样精致、有礼貌的意思",
+                "fr": "Signifie raffiné et poli comme une personne citadine"
+            },
+            "example": "He is an urbane and charming man.",
+            "translation": {
+                "ko": "그는 세련되고 매력적인 남자이다.",
+                "ja": "彼は洗練された魅力的な男性です。",
+                "zh": "他是一个城市气质和迷人的男人。",
+                "fr": "Il est un homme urbain et charmant."
+            }
+        },
+        {
+            "word": "urbanize",
+            "part_of_speech": "",
+            "origin": "Latin, urbs (city)",
+            "meaning": {
+                "ko": "도시",
+                "en": "city",
+                "ja": "都市化する",
+                "zh": "城市化",
+                "fr": "urbaniser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "urban-",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'도시로 만들다', '도시화하다'는 뜻입니다.",
+                "en": "Make into a city; urbanization",
+                "ja": "都市にする、都市化する",
+                "zh": "变成城市、城市化",
+                "fr": "rendre urbain, urbanisation"
+            },
+            "example": "The government plans to urbanize the rural area.",
+            "translation": {
+                "ko": "정부는 그 농촌 지역을 도시화할 계획이다.",
+                "ja": "政府は農村地域を都市化する計画をしている。",
+                "zh": "政府计划将农村地区城市化。",
+                "fr": "Le gouvernement prévoit d'urbaniser la zone rurale."
+            }
+        },
+        {
+            "word": "suburb",
+            "part_of_speech": "",
+            "origin": "Latin, sub- (near) + urbs (city)",
+            "meaning": {
+                "ko": "도시 근처",
+                "en": "area near a city",
+                "ja": "都市近郊の住宅地",
+                "zh": "城市附近的住宅区",
+                "fr": "zone résidentielle près ville"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "'아래에, 가까이'",
+                        "en": "under, near",
+                        "ja": "下に、近く",
+                        "zh": "下面、靠近",
+                        "fr": "sous, près"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "urb",
+                    "meaning": {
+                        "ko": "'도시'",
+                        "en": "city",
+                        "ja": "都市",
+                        "zh": "城市",
+                        "fr": "ville"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'도시 가까이에 있는' 주거 지역인 '교외'를 뜻합니다.",
+                "en": "Refers to 'suburb', a residential area located near a city.",
+                "ja": "都市の近くにある住宅地である郊外を意味します",
+                "zh": "指位于城市附近的住宅区郊区的含义",
+                "fr": "Désigne la banlieue, zone résidentielle près d'une ville"
+            },
+            "example": "They live in a quiet suburb.",
+            "translation": {
+                "ko": "그들은 조용한 교외에 산다.",
+                "ja": "彼らは静かな郊外に住んでいます",
+                "zh": "他们住在安静的郊区",
+                "fr": "Ils vivent dans une banlieue tranquille"
+            }
+        }
+    ]
+}

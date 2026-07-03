@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "pect (chest) expectorate, pectoral",
+        "origin": "Latin, pectus (breast, chest)",
+        "meaning": {
+            "ko": "가슴",
+            "en": "chest",
+            "ja": "胸",
+            "zh": "胸部",
+            "fr": "poitrine"
+        }
+    },
+    "words": [
+        {
+            "word": "expectorate",
+            "part_of_speech": "",
+            "origin": "Latin, expectorare (to expel from the chest)",
+            "meaning": {
+                "ko": "가슴에서 밖으로 내보내다",
+                "en": "to expel from the chest",
+                "ja": "痰を吐き出す",
+                "zh": "吐痰",
+                "fr": "expectorer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out of",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pector- (pectus)",
+                    "meaning": {
+                        "ko": "'가슴'",
+                        "en": "chest",
+                        "ja": "胸",
+                        "zh": "胸部",
+                        "fr": "poitrine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가슴(기관지)에서 밖으로 뱉어내다'는 의미에서 '가래를 뱉다'라는 뜻입니다.",
+                "en": "Means to spit out phlegm from the chest or bronchial tubes",
+                "ja": "胸部や気管支から痰を吐き出すことを意味します",
+                "zh": "表示从胸部或支气管吐出痰液",
+                "fr": "Signifie cracher des mucosités provenant de la poitrine ou des bronches"
+            },
+            "example": "The doctor told him to expectorate the phlegm.",
+            "translation": {
+                "ko": "의사는 그에게 가래를 뱉으라고 말했다.",
+                "ja": "医者は彼に痰を吐き出すよう指示した",
+                "zh": "医生告诉他吐出痰液",
+                "fr": "Le médecin lui a dit de cracher les mucosités"
+            }
+        },
+        {
+            "word": "pectoral",
+            "part_of_speech": "",
+            "origin": "Latin, pectoralis (of the breast)",
+            "meaning": {
+                "ko": "가슴의",
+                "en": "of the chest",
+                "ja": "胸の",
+                "zh": "胸部的",
+                "fr": "pectoral"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pector- (pectus)",
+                    "meaning": {
+                        "ko": "'가슴'",
+                        "en": "chest",
+                        "ja": "胸",
+                        "zh": "胸部",
+                        "fr": "poitrine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가슴의'라는 뜻입니다. '가슴 근육(pectoral muscle)'을 줄여서 'pecs'라고도 합니다.",
+                "en": "It means 'of the chest'. The pectoral muscles are often shortened to 'pecs'.",
+                "ja": "胸に関することを意味します。胸筋は'pecs'と略されることもあります。",
+                "zh": "表示与胸部有关。胸肌常被简称为'pecs'。",
+                "fr": "Signifie 'de la poitrine'. Les muscles pectoraux sont souvent abrégés en 'pecs'."
+            },
+            "example": "He has well-developed pectoral muscles.",
+            "translation": {
+                "ko": "그는 잘 발달된 가슴 근육을 가지고 있다.",
+                "ja": "彼はよく発達した胸筋を持っている。",
+                "zh": "他有发达的胸肌。",
+                "fr": "Il a des muscles pectoraux bien développés."
+            }
+        }
+    ]
+}

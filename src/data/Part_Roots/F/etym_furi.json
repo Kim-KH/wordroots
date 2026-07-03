@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "furi (rave, insane) furious, furor, fury, infuriate",
+        "origin": "Latin, furia (rage, fury)",
+        "meaning": {
+            "ko": "격노",
+            "en": "rage",
+            "ja": "激怒",
+            "zh": "愤怒",
+            "fr": "rage"
+        }
+    },
+    "words": [
+        {
+            "word": "furious",
+            "part_of_speech": "",
+            "origin": "Latin, furiosus (full of rage)",
+            "meaning": {
+                "ko": "격노로 가득 찬",
+                "en": "filled with rage",
+                "ja": "激怒で満ちた",
+                "zh": "充满愤怒",
+                "fr": "rempli de rage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "furi-",
+                    "meaning": {
+                        "ko": "'격노'",
+                        "en": "rage",
+                        "ja": "激怒",
+                        "zh": "愤怒",
+                        "fr": "rage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몹시 화가 난', '격렬한'이라는 뜻입니다.",
+                "en": "Means 'very angry' or 'intense'",
+                "ja": "非常に怒っている、激しいという意味です",
+                "zh": "意思是非常生气、激烈",
+                "fr": "Signifie très en colère, intense"
+            },
+            "example": "She was furious at him for being late.",
+            "translation": {
+                "ko": "그녀는 그가 늦어서 몹시 화가 났다.",
+                "ja": "彼が遅刻したことで彼女は激怒していた。",
+                "zh": "她因为他迟到而感到愤怒。",
+                "fr": "Elle était furieuse contre lui d'être en retard."
+            }
+        },
+        {
+            "word": "furor",
+            "part_of_speech": "",
+            "origin": "Latin, furor (rage, madness)",
+            "meaning": {
+                "ko": "격노, 광기",
+                "en": "rage, frenzy",
+                "ja": "激怒、狂気",
+                "zh": "愤怒、疯狂",
+                "fr": "fureur, rage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "furor",
+                    "meaning": {
+                        "ko": "'격노'",
+                        "en": "rage",
+                        "ja": "激怒",
+                        "zh": "愤怒",
+                        "fr": "fureur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "대중적인 '열광' 또는 '분노'를 뜻합니다.",
+                "en": "Means public 'enthusiasm' or 'anger'.",
+                "ja": "大衆的な『熱狂』または『怒り』を意味します。",
+                "zh": "表示大众的『热情』或『愤怒』。",
+                "fr": "Signifie l'enthousiasme ou la colère publique."
+            },
+            "example": "The new book caused a furor.",
+            "translation": {
+                "ko": "그 새 책은 대단한 소동을 일으켰다.",
+                "ja": "新しい本は大騒ぎを起こした。",
+                "zh": "这部新书引起了轩然大波。",
+                "fr": "Le nouveau livre a provoqué une fureur."
+            }
+        },
+        {
+            "word": "fury",
+            "part_of_speech": "",
+            "origin": "Latin, furia (rage)",
+            "meaning": {
+                "ko": "격노",
+                "en": "intense anger or rage",
+                "ja": "激怒、猛烈な怒り",
+                "zh": "狂怒、激烈的愤怒",
+                "fr": "fureur, rage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fur-",
+                    "meaning": {
+                        "ko": "'격노'",
+                        "en": "rage",
+                        "ja": "激怒",
+                        "zh": "狂怒",
+                        "fr": "rage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'걷잡을 수 없는 분노' 또는 '격렬함'을 뜻합니다.",
+                "en": "Uncontrollable anger or intense violence",
+                "ja": "抑制できない怒りまたは激しさを意味します",
+                "zh": "指无法控制的愤怒或激烈程度",
+                "fr": "Signifie une colère incontrôlable ou une intensité violente"
+            },
+            "example": "He could not control his fury.",
+            "translation": {
+                "ko": "그는 분노를 억제할 수 없었다.",
+                "ja": "彼は自分の激怒をコントロールできませんでした。",
+                "zh": "他无法控制自己的狂怒。",
+                "fr": "Il ne pouvait pas maîtriser sa fureur."
+            }
+        },
+        {
+            "word": "infuriate",
+            "part_of_speech": "",
+            "origin": "Latin, infuriare (to madden)",
+            "meaning": {
+                "ko": "미치게 만들다",
+                "en": "to drive mad",
+                "ja": "激怒させる",
+                "zh": "使狂怒",
+                "fr": "rendre furieux"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~안에'",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "进入",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "furi-",
+                    "meaning": {
+                        "ko": "'격노'",
+                        "en": "rage",
+                        "ja": "怒り",
+                        "zh": "愤怒",
+                        "fr": "rage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'격노의 상태 안으로 몰아넣다'는 의미에서 '극도로 화나게 만들다'라는 뜻입니다.",
+                "en": "Meaning 'to drive into a state of rage', thus 'to make extremely angry'",
+                "ja": "激怒の状態に追い込む意味で、極度に怒らせることを意味する",
+                "zh": "意为'驱入愤怒状态'，因此意为'使人极其生气'",
+                "fr": "Signifie 'pousser dans un état de rage', donc 'rendre quelqu'un extrêmement en colère'"
+            },
+            "example": "His rude comments infuriated her.",
+            "translation": {
+                "ko": "그의 무례한 발언은 그녀를 격분시켰다.",
+                "ja": "彼の失礼なコメントは彼女を激怒させた。",
+                "zh": "他粗鲁的评论使她狂怒。",
+                "fr": "Ses commentaires impolis l'ont rendue furieuse."
+            }
+        }
+    ]
+}

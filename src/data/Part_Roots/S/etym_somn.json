@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "somn(i) (sleep) insomnia, somnambulism, somniferous, somnolent",
+        "origin": "Latin, somnus (sleep)",
+        "meaning": {
+            "ko": "잠",
+            "en": "sleep",
+            "ja": "睡眠",
+            "zh": "睡眠",
+            "fr": "sommeil"
+        }
+    },
+    "words": [
+        {
+            "word": "insomnia",
+            "part_of_speech": "",
+            "origin": "Latin, insomnia (sleeplessness)",
+            "meaning": {
+                "ko": "잠 못 이룸",
+                "en": "inability to sleep",
+                "ja": "眠れない状態",
+                "zh": "失眠",
+                "fr": "insomnie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "ない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "somn-",
+                    "meaning": {
+                        "ko": "'잠'",
+                        "en": "sleep",
+                        "ja": "眠り",
+                        "zh": "睡眠",
+                        "fr": "sommeil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잠을 잘 수 없는' 상태인 '불면증'을 뜻합니다.",
+                "en": "A condition in which one cannot sleep well, meaning insomnia.",
+                "ja": "睡眠をとることができない状態を示す不眠症です。",
+                "zh": "表示无法正常睡眠的状态，即失眠症。",
+                "fr": "État dans lequel on ne peut pas bien dormir, signifiant l'insomnie."
+            },
+            "example": "Many people suffer from insomnia.",
+            "translation": {
+                "ko": "많은 사람들이 불면증으로 고통받는다.",
+                "ja": "多くの人が不眠症に苦しんでいます。",
+                "zh": "许多人患有失眠症。",
+                "fr": "Beaucoup de gens souffrent d'insomnie."
+            }
+        },
+        {
+            "word": "somnambulism",
+            "part_of_speech": "",
+            "origin": "Latin, somnus (sleep) + ambulare (to walk)",
+            "meaning": {
+                "ko": "잠자면서 걷기",
+                "en": "walking while sleeping",
+                "ja": "睡眠中の歩行",
+                "zh": "睡眠中行走",
+                "fr": "marche pendant le sommeil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "somn-",
+                    "meaning": {
+                        "ko": "'잠'",
+                        "en": "sleep",
+                        "ja": "睡眠",
+                        "zh": "睡眠",
+                        "fr": "sommeil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ambul-",
+                    "meaning": {
+                        "ko": "'걷다'",
+                        "en": "to walk",
+                        "ja": "歩く",
+                        "zh": "行走",
+                        "fr": "marcher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잠을 자면서 걸어 다니는' 증상인 '몽유병'을 뜻합니다.",
+                "en": "Somnambulism refers to sleepwalking, a condition where a person walks while asleep.",
+                "ja": "睡眠中に歩き回る症状である夢遊病を意味します。",
+                "zh": "指在睡眠中行走的症状，即梦游症。",
+                "fr": "Fait référence à la somnambulisme, une condition où une personne marche pendant son sommeil."
+            },
+            "example": "Somnambulism is more common in children than in adults.",
+            "translation": {
+                "ko": "몽유병은 성인보다 어린이에게 더 흔하다.",
+                "ja": "夢遊病は成人よりも子どもの方が一般的です。",
+                "zh": "梦游症在儿童中比成人中更常见。",
+                "fr": "La somnambulisme est plus fréquente chez les enfants que chez les adultes."
+            }
+        },
+        {
+            "word": "somniferous",
+            "part_of_speech": "",
+            "origin": "Latin, somnifer (sleep-bringing)",
+            "meaning": {
+                "ko": "잠을 가져오는",
+                "en": "bringing sleep",
+                "ja": "睡眠をもたらす",
+                "zh": "引起睡眠的",
+                "fr": "qui provoque le sommeil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "somni-",
+                    "meaning": {
+                        "ko": "'잠'",
+                        "en": "sleep",
+                        "ja": "睡眠",
+                        "zh": "睡眠",
+                        "fr": "sommeil"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "'가져오다'",
+                        "en": "to bring",
+                        "ja": "もたらす",
+                        "zh": "带来",
+                        "fr": "apporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잠이 오게 하는'이라는 뜻입니다.",
+                "en": "Means causing sleep to occur",
+                "ja": "睡眠が起こるようにさせるという意味です",
+                "zh": "表示引起睡眠发生的含义",
+                "fr": "Signifie causer l'occurrence du sommeil"
+            },
+            "example": "The medicine has a somniferous effect.",
+            "translation": {
+                "ko": "그 약은 졸음을 유발하는 효과가 있다.",
+                "ja": "その薬は催眠作用があります。",
+                "zh": "这种药具有催眠效果。",
+                "fr": "Le médicament a un effet soporifique."
+            }
+        },
+        {
+            "word": "somnolent",
+            "part_of_speech": "",
+            "origin": "Latin, somnolentus (sleepy)",
+            "meaning": {
+                "ko": "졸린",
+                "en": "sleepy, drowsy",
+                "ja": "眠い",
+                "zh": "困倦的",
+                "fr": "somnolent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "somn-",
+                    "meaning": {
+                        "ko": "'잠'",
+                        "en": "sleep",
+                        "ja": "睡眠",
+                        "zh": "睡眠",
+                        "fr": "sommeil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'졸린', '나른한'이라는 뜻입니다.",
+                "en": "Means drowsy or sleepy; inducing sleep",
+                "ja": "眠い、だるい という意味です",
+                "zh": "意思是困倦的、瞌睡的",
+                "fr": "Signifie somnolent ou endormi; provoquant le sommeil"
+            },
+            "example": "The warm room made him feel somnolent.",
+            "translation": {
+                "ko": "따뜻한 방은 그를 졸리게 만들었다.",
+                "ja": "暖かい部屋は彼を眠くさせた。",
+                "zh": "温暖的房间使他感到困倦。",
+                "fr": "La pièce chaude le rendait somnolent."
+            }
+        }
+    ]
+}

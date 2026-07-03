@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "onomy (knowledge) anatomy, astronomy, economy, taxonomy",
+        "origin": "Greek, nomos (law, arrangement)",
+        "meaning": {
+            "ko": "법, 관리, 학문",
+            "en": "law, arrangement",
+            "ja": "法律、秩序",
+            "zh": "法律、安排、学问",
+            "fr": "loi, arrangement"
+        }
+    },
+    "words": [
+        {
+            "word": "anatomy",
+            "part_of_speech": "",
+            "origin": "Greek, ana- (up) + tome (a cutting)",
+            "meaning": {
+                "ko": "잘라 올리기",
+                "en": "cutting and lifting up",
+                "ja": "解剖学",
+                "zh": "解剖学",
+                "fr": "anatomie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ana-",
+                    "meaning": {
+                        "ko": "'위로, 나누어'",
+                        "en": "up, apart",
+                        "ja": "上へ、分離",
+                        "zh": "向上、分开",
+                        "fr": "vers le haut, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tomy",
+                    "meaning": {
+                        "ko": "'자르기'",
+                        "en": "cutting",
+                        "ja": "切断",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸을 잘라서 그 구조를 연구하는 학문'이라는 의미에서 '해부학'을 뜻합니다.",
+                "en": "The science of studying body structure by dissection",
+                "ja": "体を切断してその構造を研究する学問",
+                "zh": "通过解剖身体来研究其结构的学科",
+                "fr": "La science étudiant la structure du corps par dissection"
+            },
+            "example": "He has a deep understanding of human anatomy.",
+            "translation": {
+                "ko": "그는 인체 해부학에 대한 깊은 이해를 가지고 있다.",
+                "ja": "彼は人体解剖学について深い理解を持っている。",
+                "zh": "他对人体解剖学有深入的理解。",
+                "fr": "Il a une compréhension approfondie de l'anatomie humaine."
+            }
+        },
+        {
+            "word": "astronomy",
+            "part_of_speech": "",
+            "origin": "Greek, astron (star) + nomos (law)",
+            "meaning": {
+                "ko": "별의 법칙",
+                "en": "law or rule of stars",
+                "ja": "天体の学問",
+                "zh": "天体学",
+                "fr": "étude des astres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "astro-",
+                    "meaning": {
+                        "ko": "'별'",
+                        "en": "star",
+                        "ja": "星",
+                        "zh": "星",
+                        "fr": "étoile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomy",
+                    "meaning": {
+                        "ko": "'법칙, 학문'",
+                        "en": "law, doctrine, science",
+                        "ja": "法則、学問",
+                        "zh": "法则、学问",
+                        "fr": "loi, science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'별의 운행 법칙을 연구하는 학문'인 '천문학'을 뜻합니다.",
+                "en": "Astronomy refers to the study of celestial objects and their motions.",
+                "ja": "星の運行法則を研究する学問の意味です",
+                "zh": "研究星体运行规律的学问",
+                "fr": "Science étudiant les lois du mouvement céleste"
+            },
+            "example": "Astronomy is the study of celestial objects.",
+            "translation": {
+                "ko": "천문학은 천체를 연구하는 학문이다.",
+                "ja": "天文学",
+                "zh": "天文学",
+                "fr": "astronomie"
+            }
+        },
+        {
+            "word": "economy",
+            "part_of_speech": "",
+            "origin": "Greek, oikonomia (household management)",
+            "meaning": {
+                "ko": "집안 관리",
+                "en": "household management",
+                "ja": "家計管理",
+                "zh": "家务管理",
+                "fr": "gestion du ménage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "eco-",
+                    "meaning": {
+                        "ko": "'집'",
+                        "en": "house",
+                        "ja": "家",
+                        "zh": "家",
+                        "fr": "maison"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomy",
+                    "meaning": {
+                        "ko": "'관리, 법칙'",
+                        "en": "management, law",
+                        "ja": "管理、法則",
+                        "zh": "管理、法则",
+                        "fr": "gestion, loi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'집안 살림을 관리하는 것'에서 의미가 확장되어 국가의 '경제'를 뜻하게 되었습니다.",
+                "en": "The meaning expanded from 'managing household affairs' to refer to a nation's economy.",
+                "ja": "家計を管理することの意味から拡張して、国家の経済を意味するようになりました。",
+                "zh": "意思从管理家务扩展到指代国家的经济。",
+                "fr": "Le sens s'est étendu de la gestion des affaires ménagères à l'économie nationale."
+            },
+            "example": "The country is trying to boost its economy.",
+            "translation": {
+                "ko": "그 나라는 경제를 활성화시키려고 노력하고 있다.",
+                "ja": "その国は経済を強化しようとしています。",
+                "zh": "这个国家正在努力促进其经济。",
+                "fr": "Le pays essaie de stimuler son économie."
+            }
+        },
+        {
+            "word": "taxonomy",
+            "part_of_speech": "",
+            "origin": "Greek, taxis (arrangement) + nomos (law)",
+            "meaning": {
+                "ko": "배열의 법칙",
+                "en": "system of classification and arrangement",
+                "ja": "分類体系",
+                "zh": "分类法",
+                "fr": "classification"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "taxo-",
+                    "meaning": {
+                        "ko": "'배열'",
+                        "en": "arrangement",
+                        "ja": "配列",
+                        "zh": "排列",
+                        "fr": "arrangement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomy",
+                    "meaning": {
+                        "ko": "'법칙, 학문'",
+                        "en": "law, doctrine, science",
+                        "ja": "法則、学問",
+                        "zh": "法则、学科",
+                        "fr": "loi, science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생물을 체계적으로 배열하고 분류하는 학문'인 '분류학'을 뜻합니다.",
+                "en": "Refers to taxonomy, the science of systematically arranging and classifying organisms.",
+                "ja": "生物を体系的に配列し分類する学問である分類学を意味します。",
+                "zh": "指生物学中系统地排列和分类生物的学科。",
+                "fr": "Signifie la science de classifier et organiser systématiquement les organismes biologiques."
+            },
+            "example": "Taxonomy is the science of naming, defining and classifying groups of biological organisms.",
+            "translation": {
+                "ko": "분류학은 생물 유기체 그룹의 이름을 짓고, 정의하고, 분류하는 과학이다.",
+                "ja": "分類学",
+                "zh": "分类学",
+                "fr": "taxonomie"
+            }
+        }
+    ]
+}

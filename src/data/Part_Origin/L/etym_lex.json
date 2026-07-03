@@ -1,0 +1,225 @@
+{
+    "root_info": {
+        "roots": "lex, leag, leg: law",
+        "origin": "Latin, lex (law), legere (to gather, choose, read)",
+        "meaning": {
+            "ko": "",
+            "en": "이 그룹의 단어들은 '법'을 의미하는 lex와 '모으다, 읽다'를 의미하는 legere에서 파생된 단어들이 섞여 있습니다. 두 어근은 철자가 비슷하여 자주 혼동됩니다. 각 단어의 정확한 어원을 '참고'에서 설명하겠습니다.",
+            "ja": "このグループの単語は、'法律'を意味するlexと'集める、読む'を意味するlegereから派生した単語が混在しています。2つの語根は綴りが似ているため、しばしば混同されます。各単語の正確な語源は'参考'で説明します。",
+            "zh": "这组单词中混合了源自表示'法律'的lex和表示'收集、阅读'的legere的派生词。这两个词根因拼写相似而经常被混淆。每个单词的准确词源将在'参考'中说明。",
+            "fr": "Ce groupe de mots contient un mélange de mots dérivés de lex signifiant 'loi' et de legere signifiant 'rassembler, lire'. Les deux racines sont souvent confondues en raison de leur similitude orthographique. L'étymologie précise de chaque mot sera expliquée dans les 'Remarques'."
+        }
+    },
+    "words": [
+        {
+            "word": "sacrilege",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sacri (sacer)",
+                    "meaning": {
+                        "ko": "신성한",
+                        "en": "sacred",
+                        "ja": "神聖な",
+                        "zh": "神圣的",
+                        "fr": "sacré"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leg (legere)",
+                    "meaning": {
+                        "ko": "훔치다, 거두다",
+                        "en": "to steal, to gather",
+                        "ja": "盗む、集める",
+                        "zh": "偷窃、收集",
+                        "fr": "voler, recueillir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신성한 물건을 훔치는 행위'라는 의미에서 '신성 모독'이라는 뜻이 되었습니다. '법(lex)'이 아닌 '훔치다(legere)'에서 유래했습니다.",
+                "en": "From Latin sacra (sacred things) + legere (to steal). Originally meant the act of stealing sacred objects, evolving to mean 'desecration of the sacred.'",
+                "ja": "ラテン語の「sacra（神聖なもの）」と「legere（盗む）」に由来します。元々は神聖なものを盗む行為を意味し、後に「神聖冒瀆」へと発展しました。",
+                "zh": "来自拉丁语 sacra（神圣之物）和 legere（偷窃）。原义是偷窃神圣物品的行为，后来演变为\"亵渎神圣\"的含义。",
+                "fr": "Du latin sacra (choses sacrées) et legere (voler). Signifiait à l'origine l'acte de voler des objets sacrés, d'où le sens actuel de 'profanation du sacré'."
+            },
+            "example": "It is considered sacrilege to deface a holy book.",
+            "translation": {
+                "ko": "성스러운 책을 훼손하는 것은 신성 모독으로 여겨진다.",
+                "ja": "神聖な書物を傷つけることは冒涜と見なされています。",
+                "zh": "毁损圣书被认为是对神圣的亵渎。",
+                "fr": "Il est considéré comme un sacrilège de défigurer un livre sacré."
+            }
+        },
+        {
+            "word": "neglect",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "neg-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lect (legere)",
+                    "meaning": {
+                        "ko": "모으다, 선택하다",
+                        "en": "to gather, to choose",
+                        "ja": "集める、選ぶ",
+                        "zh": "聚集、选择",
+                        "fr": "rassembler, choisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'선택하지 않고 내버려두다'는 의미에서 '무시하다', '방치하다'는 뜻이 되었습니다. '법(lex)'과는 관련이 없습니다.",
+                "en": "From the sense of 'not choosing' or 'leaving alone,' it came to mean 'disregard' or 'leave unattended.' Unrelated to the word 'law' (lex).",
+                "ja": "「選択しない」「放っておく」という意味から、「無視する」「放置する」という意味になりました。「法(lex)」とは関連がありません。",
+                "zh": "从「不选择」或「任其放置」的含义转变为「忽视」「放任」的意思。与「法律(lex)」无关。",
+                "fr": "Du sens de « ne pas choisir » ou « laisser de côté », il a pris le sens de « ignorer » ou « abandonner ». Non lié au mot « loi » (lex)."
+            },
+            "example": "Do not neglect your duties.",
+            "translation": {
+                "ko": "당신의 의무를 소홀히 하지 마세요.",
+                "ja": "あなたの義務を怠ってはいけません。",
+                "zh": "不要忽视你的责任。",
+                "fr": "Ne négligez pas vos devoirs."
+            }
+        },
+        {
+            "word": "collect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "col- (con-)",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lect (legere)",
+                    "meaning": {
+                        "ko": "모으다",
+                        "en": "to gather",
+                        "ja": "集める",
+                        "zh": "聚集",
+                        "fr": "rassembler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 모으다'는 의미에서 '수집하다'는 뜻입니다. '법(lex)'과는 관련이 없습니다.",
+                "en": "'Gather together' means 'to collect.' Not related to 'law (lex)'.",
+                "ja": "「一緒に集める」という意味で「収集する」という意味です。「法律（lex）」とは関係がありません。",
+                "zh": "「一起聚集」的意思是「收集」。与「法律（lex）」无关。",
+                "fr": "« Rassembler ensemble » signifie « collecter ». N'est pas lié à « loi (lex) »."
+            },
+            "example": "I like to collect stamps.",
+            "translation": {
+                "ko": "나는 우표 수집을 좋아한다.",
+                "ja": "私は切手を集めることが好きです。",
+                "zh": "我喜欢收集邮票。",
+                "fr": "J'aime collectionner les timbres."
+            }
+        },
+        {
+            "word": "diligence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "떨어져, 따로",
+                        "en": "apart",
+                        "ja": "離れて、別に",
+                        "zh": "分开、分别",
+                        "fr": "à part, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lig (legere)",
+                    "meaning": {
+                        "ko": "선택하다",
+                        "en": "to choose",
+                        "ja": "選ぶ、選択する",
+                        "zh": "选择",
+                        "fr": "choisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'따로 신중하게 선택하다'는 의미에서, 일을 할 때의 '성실함', '근면'을 뜻하게 되었습니다.",
+                "en": "From the sense of 'choosing carefully apart,' it came to mean 'conscientiousness' and 'diligence' in work.",
+                "ja": "「別に注意深く選ぶ」という意味から、仕事をする際の「誠実さ」「勤勉さ」を意味するようになりました。",
+                "zh": "从「分别谨慎地选择」的含义演变而来，后来指工作中的「诚实」「勤勉」。",
+                "fr": "Du sens de « choisir avec soin séparément », il en vint à signifier « conscienciosité » et « assiduité » au travail."
+            },
+            "example": "Her diligence paid off.",
+            "translation": {
+                "ko": "그녀의 근면함이 결실을 보았다.",
+                "ja": "彼女の勤勉さが報われた。",
+                "zh": "她的勤勉得到了回报。",
+                "fr": "Son assiduité a porté ses fruits."
+            }
+        },
+        {
+            "word": "select",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "se-",
+                    "meaning": {
+                        "ko": "떨어져, 따로",
+                        "en": "apart",
+                        "ja": "離れて、別に",
+                        "zh": "分开、单独",
+                        "fr": "à part, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lect (legere)",
+                    "meaning": {
+                        "ko": "선택하다",
+                        "en": "to choose",
+                        "ja": "選ぶ、選択する",
+                        "zh": "选择、挑选",
+                        "fr": "choisir, sélectionner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'따로 골라내다'는 의미에서 '선택된', '엄선된'이라는 뜻입니다.",
+                "en": "From the meaning of 'carefully picking out separately', it means 'selected' or 'carefully chosen'",
+                "ja": "「別に丁寧に選び出す」という意味から、「選ばれた」「厳選された」という意味です",
+                "zh": "从「单独仔细挑选」的含义出发，表示「被选中的」「精心挑选的」",
+                "fr": "Du sens de 'choisir soigneusement à part', cela signifie 'sélectionné' ou 'soigneusement choisi'"
+            },
+            "example": "This is a select group of students.",
+            "translation": {
+                "ko": "이들은 선발된 학생 그룹이다.",
+                "ja": "これは厳選された学生グループです。",
+                "zh": "这是一组精心挑选的学生。",
+                "fr": "C'est un groupe de students sélectionnés."
+            }
+        }
+    ]
+}

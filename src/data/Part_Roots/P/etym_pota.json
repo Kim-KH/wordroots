@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "pota (river, drink) hippopotamus, potable, Mesopotamia",
+        "origin": "Greek, potamos (river); Latin, potare (to drink)",
+        "meaning": {
+            "ko": "강, 마시다",
+            "en": "river, to drink",
+            "ja": "川、飲む",
+            "zh": "河、喝",
+            "fr": "fleuve, boire"
+        }
+    },
+    "words": [
+        {
+            "word": "hippopotamus",
+            "part_of_speech": "",
+            "origin": "Greek, hippopotamos (river horse)",
+            "meaning": {
+                "ko": "강 말",
+                "en": "river horse",
+                "ja": "川の馬",
+                "zh": "河马",
+                "fr": "cheval de fleuve"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hippo-",
+                    "meaning": {
+                        "ko": "'말'",
+                        "en": "horse",
+                        "ja": "馬",
+                        "zh": "马",
+                        "fr": "cheval"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "potamus",
+                    "meaning": {
+                        "ko": "'강'",
+                        "en": "river",
+                        "ja": "川",
+                        "zh": "河",
+                        "fr": "fleuve"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'강에 사는 말'이라는 의미에서 '하마'를 뜻합니다.",
+                "en": "Literally meaning 'horse of the river', referring to the hippopotamus",
+                "ja": "川に住む馬という意味で、カバを指します",
+                "zh": "从住在河里的马的意思，指河马",
+                "fr": "Signifie littéralement cheval du fleuve, se référant à l'hippopotame"
+            },
+            "example": "The hippopotamus is a large, semi-aquatic mammal.",
+            "translation": {
+                "ko": "하마는 크고 반수생인 포유동물이다.",
+                "ja": "カバは大きな半水生哺乳動物です。",
+                "zh": "河马是一种大型半水生哺乳动物。",
+                "fr": "L'hippopotame est un grand mammifère semi-aquatique."
+            }
+        },
+        {
+            "word": "potable",
+            "part_of_speech": "",
+            "origin": "Latin, potabilis (drinkable)",
+            "meaning": {
+                "ko": "마실 수 있는",
+                "en": "drinkable or safe to drink",
+                "ja": "飲める",
+                "zh": "可饮用的",
+                "fr": "potable"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pota- (potare)",
+                    "meaning": {
+                        "ko": "'마시다'",
+                        "en": "to drink",
+                        "ja": "飲む",
+                        "zh": "喝",
+                        "fr": "boire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-able",
+                    "meaning": {
+                        "ko": "'~할 수 있는'",
+                        "en": "able to be or capable of",
+                        "ja": "できる",
+                        "zh": "能够",
+                        "fr": "pouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마실 수 있는'이라는 뜻입니다.",
+                "en": "It means drinkable or safe to drink",
+                "ja": "飲むことができるという意味です",
+                "zh": "表示可以安全饮用的",
+                "fr": "Signifie buvable ou sûr à boire"
+            },
+            "example": "Is the tap water potable?",
+            "translation": {
+                "ko": "이 수돗물은 마실 수 있나요?",
+                "ja": "水道水は飲料用ですか？",
+                "zh": "自来水可以饮用吗？",
+                "fr": "L'eau du robinet est-elle potable?"
+            }
+        },
+        {
+            "word": "Mesopotamia",
+            "part_of_speech": "",
+            "origin": "Greek, Mesopotamia (land between the rivers)",
+            "meaning": {
+                "ko": "강들 사이의 땅",
+                "en": "land between rivers",
+                "ja": "川の間の土地",
+                "zh": "河流之间的土地",
+                "fr": "terre entre les fleuves"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Meso-",
+                    "meaning": {
+                        "ko": "'중간'",
+                        "en": "middle",
+                        "ja": "中間",
+                        "zh": "中间",
+                        "fr": "milieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "potamia",
+                    "meaning": {
+                        "ko": "'강'",
+                        "en": "river",
+                        "ja": "川",
+                        "zh": "河流",
+                        "fr": "fleuve"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 강(티그리스와 유프라테스) 사이의 땅'이라는 의미의 고대 지역 이름입니다.",
+                "en": "Ancient region name meaning 'land between two rivers (Tigris and Euphrates)'",
+                "ja": "2つの川(チグリス川とユーフラテス川)の間の土地という意味の古代地域名です",
+                "zh": "意为两条河流(底格里斯河和幼发拉底河)之间的土地的古代地区名称",
+                "fr": "Nom d'une région antique signifiant 'terre entre deux fleuves (Tigre et Euphrate)'"
+            },
+            "example": "Mesopotamia is known as the cradle of civilization.",
+            "translation": {
+                "ko": "메소포타미아는 문명의 요람으로 알려져 있다.",
+                "ja": "メソポタミア",
+                "zh": "美索不达米亚",
+                "fr": "Mésopotamie"
+            }
+        }
+    ]
+}

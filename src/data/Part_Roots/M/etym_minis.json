@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "minis (assist) administer, administrator, ministry",
+        "origin": "Latin, minister (servant, attendant)",
+        "meaning": {
+            "ko": "하인, 조수",
+            "en": "servant",
+            "ja": "召し使い",
+            "zh": "仆人",
+            "fr": "serviteur"
+        }
+    },
+    "words": [
+        {
+            "word": "administer",
+            "part_of_speech": "",
+            "origin": "Latin, administrare (to manage, to serve)",
+            "meaning": {
+                "ko": "관리하다, 섬기다",
+                "en": "to manage, to serve",
+                "ja": "管理する、投与する",
+                "zh": "管理、施行",
+                "fr": "administrer, gérer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ad-",
+                    "meaning": {
+                        "ko": "'~에게'",
+                        "en": "to",
+                        "ja": "に、へ",
+                        "zh": "给、向",
+                        "fr": "à, vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "minister",
+                    "meaning": {
+                        "ko": "'섬기는 사람, 조수'",
+                        "en": "one who serves, assistant",
+                        "ja": "奉仕する人",
+                        "zh": "侍奉者、助手",
+                        "fr": "serviteur, assistant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람을 위해 일을 처리하고 관리하다'는 의미에서 '관리하다', '운영하다' 또는 약을 '투여하다'는 뜻입니다.",
+                "en": "Means to manage or conduct affairs for others, manage, operate, or administer medicine/treatment",
+                "ja": "他人のために仕事を処理・管理することを意味し、管理する、運営する、または薬を投与するという意味",
+                "zh": "表示为他人处理和管理事务，意为管理、运营或施行药物",
+                "fr": "Signifie gérer ou traiter les affaires pour autrui, administrer, exploiter ou administrer un médicament"
+            },
+            "example": "The trust is administered by the bank.",
+            "translation": {
+                "ko": "그 신탁은 은행에 의해 관리된다.",
+                "ja": "信託は銀行によって管理されている。",
+                "zh": "信托由银行管理。",
+                "fr": "La fiducie est administrée par la banque."
+            }
+        },
+        {
+            "word": "administrator",
+            "part_of_speech": "",
+            "origin": "Latin, administrator (a manager)",
+            "meaning": {
+                "ko": "관리자",
+                "en": "one who administers",
+                "ja": "管理者",
+                "zh": "管理员",
+                "fr": "administrateur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "administer",
+                    "meaning": {
+                        "ko": "'관리하다'",
+                        "en": "to manage or conduct",
+                        "ja": "管理する",
+                        "zh": "管理",
+                        "fr": "administrer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'조직이나 기관을 관리하는 사람'인 '관리자', '행정가'를 뜻합니다.",
+                "en": "A person who manages an organization or institution; an administrator or executive.",
+                "ja": "組織や機関を管理する人を意味します。",
+                "zh": "指管理组织或机构的人。",
+                "fr": "Personne qui gère une organisation ou institution."
+            },
+            "example": "She works as a hospital administrator.",
+            "translation": {
+                "ko": "그녀는 병원 행정가로 일한다.",
+                "ja": "彼女は病院の管理者として働いています。",
+                "zh": "她在医院担任管理员。",
+                "fr": "Elle travaille comme administratrice d'hôpital."
+            }
+        },
+        {
+            "word": "ministry",
+            "part_of_speech": "",
+            "origin": "Latin, ministerium (service, office)",
+            "meaning": {
+                "ko": "봉사, 직무",
+                "en": "service, duty",
+                "ja": "奉仕、職務",
+                "zh": "服务、职务",
+                "fr": "service, fonction"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "minister",
+                    "meaning": {
+                        "ko": "'섬기는 사람'",
+                        "en": "person who serves",
+                        "ja": "仕える人",
+                        "zh": "侍奉的人",
+                        "fr": "personne qui sert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'국민을 위해 봉사하는 정부 부처' 또는 '성직자의 직무'를 뜻합니다.",
+                "en": "Refers to a government department serving the public or the duties of clergy",
+                "ja": "国民に奉仕する政府機関、または聖職者の職務を意味します",
+                "zh": "指为国民服务的政府部门或神职人员的职务",
+                "fr": "Désigne un département gouvernemental servant le public ou les fonctions du clergé"
+            },
+            "example": "He works for the Ministry of Foreign Affairs.",
+            "translation": {
+                "ko": "그는 외교부에서 근무한다.",
+                "ja": "彼は外務省で働いています",
+                "zh": "他在外交部工作",
+                "fr": "Il travaille au ministère des Affaires étrangères"
+            }
+        }
+    ]
+}

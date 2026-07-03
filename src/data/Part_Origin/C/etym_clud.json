@@ -1,0 +1,298 @@
+{
+    "root_info": {
+        "roots": "clud, clus, claus",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "닫다",
+            "en": "to close",
+            "ja": "閉じる",
+            "zh": "关闭",
+            "fr": "fermer"
+        }
+    },
+    "words": [
+        {
+            "word": "include",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...里面",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clud",
+                    "meaning": {
+                        "ko": "닫다",
+                        "en": "to close",
+                        "ja": "閉じる",
+                        "zh": "关闭",
+                        "fr": "fermer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에 넣고 닫다'는 의미에서 '~을 포함하다'는 뜻입니다.",
+                "en": "From the sense of 'putting in and closing,' meaning 'to comprise or contain.'",
+                "ja": "「中に入れて閉じる」という意味から、「〜を含む」という意味になりました。",
+                "zh": "从「放进去并关闭」的意思演变为「包含」的含义。",
+                "fr": "Du sens de « mettre dedans et fermer », d'où le sens « contenir ou comprendre »."
+            },
+            "example": "The price includes tax.",
+            "translation": {
+                "ko": "그 가격은 세금을 포함한다.",
+                "ja": "その価格は税金を含んでいます。",
+                "zh": "这个价格包括税金。",
+                "fr": "Le prix inclut la taxe."
+            }
+        },
+        {
+            "word": "exclude",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clud",
+                    "meaning": {
+                        "ko": "닫다",
+                        "en": "to close",
+                        "ja": "閉じる",
+                        "zh": "关闭",
+                        "fr": "fermer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖에 두고 문을 닫다'는 의미에서 '~을 제외하다', '배제하다'는 뜻입니다.",
+                "en": "From the sense of 'shutting the door with something outside' — meaning 'to except' or 'to exclude'",
+                "ja": "「外に置いて扉を閉じる」という意味から、「〜を除く」「排除する」という意味になります。",
+                "zh": "从「把某物放在外面关上门」的意思衍生出「排除」「除外」的含义。",
+                "fr": "Du sens de « fermer la porte en laissant quelque chose dehors » — signifiant « excepter » ou « exclure »"
+            },
+            "example": "Children under 10 are excluded from this event.",
+            "translation": {
+                "ko": "10세 미만 어린이는 이 행사에서 제외된다.",
+                "ja": "10歳未満の子どもはこのイベントから除外されます。",
+                "zh": "10岁以下的儿童被排除在此活动之外。",
+                "fr": "Les enfants de moins de 10 ans sont exclus de cet événement."
+            }
+        },
+        {
+            "word": "clause",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "claus",
+                    "meaning": {
+                        "ko": "닫다",
+                        "en": "to close",
+                        "ja": "閉じる",
+                        "zh": "关闭",
+                        "fr": "fermer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "문장 안에서 '닫힌' 하나의 단위라는 의미에서, 문법의 '절(節)' 또는 법률 문서의 '조항'을 뜻합니다.",
+                "en": "In the sense of a 'closed' unit within a sentence, it refers to a 'clause' in grammar or an 'article' in legal documents.",
+                "ja": "文内の'閉じた'一つの単位という意味から、文法の'節'または法律文書の'条項'を意味します。",
+                "zh": "从句子中'封闭的'一个单位的意思出发，指语法中的'子句'或法律文件中的'条款'。",
+                "fr": "Dans le sens d'une unité 'fermée' au sein d'une phrase, il fait référence à une 'proposition' en grammaire ou à une 'clause' dans les documents juridiques."
+            },
+            "example": "This sentence has two clauses.",
+            "translation": {
+                "ko": "이 문장은 두 개의 절로 이루어져 있다.",
+                "ja": "節",
+                "zh": "子句",
+                "fr": "proposition"
+            }
+        },
+        {
+            "word": "claustrophobia",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "claustro",
+                    "meaning": {
+                        "ko": "닫힌 장소",
+                        "en": "closed place",
+                        "ja": "閉ざされた場所",
+                        "zh": "密闭的地方",
+                        "fr": "lieu fermé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phobia",
+                    "meaning": {
+                        "ko": "공포",
+                        "en": "fear",
+                        "ja": "恐怖",
+                        "zh": "恐惧",
+                        "fr": "peur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'닫힌 장소에 대한 공포' 즉, '폐소공포증'을 뜻합니다.",
+                "en": "Fear of enclosed or confined spaces; literally 'closed place' + 'fear'",
+                "ja": "密閉された空間に対する恐怖、つまり『閉所恐怖症』を意味します。",
+                "zh": "对密闭或狭小空间的恐惧，即'幽闭恐怖症'。",
+                "fr": "Peur des espaces fermés ou confinés; littéralement 'lieu fermé' + 'peur'."
+            },
+            "example": "He suffers from severe claustrophobia.",
+            "translation": {
+                "ko": "그는 심한 폐소공포증을 앓고 있다.",
+                "ja": "彼は重度の閉所恐怖症に苦しんでいる。",
+                "zh": "他患有严重的幽闭恐怖症。",
+                "fr": "Il souffre d'une claustrophobie sévère."
+            }
+        },
+        {
+            "word": "exclusive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clus",
+                    "meaning": {
+                        "ko": "닫다",
+                        "en": "to close",
+                        "ja": "閉じる",
+                        "zh": "关闭",
+                        "fr": "fermer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 것을 밖에 두고 닫아버리는'이라는 의미에서 '독점적인', '배타적인'이라는 뜻입니다.",
+                "en": "From the sense of 'shutting out other things' comes the meaning 'monopolistic' or 'exclusive'",
+                "ja": "「他のものを外に置いて閉じ出す」という意味から「独占的な」「排他的な」という意味になりました",
+                "zh": "从「将其他事物关在外面」的意思引申出「垄断性的」「排他性的」之义",
+                "fr": "Du sens de « fermer les autres choses dehors » vient la signification « monopolistique » ou « exclusif »"
+            },
+            "example": "This is an exclusive offer for our members.",
+            "translation": {
+                "ko": "이것은 우리 회원들을 위한 독점적인 혜택이다.",
+                "ja": "これは私たちの会員向けの独占的なオファーです。",
+                "zh": "这是我们会员的专属优惠。",
+                "fr": "C'est une offre exclusive pour nos membres."
+            }
+        },
+        {
+            "word": "reclusive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろ",
+                        "zh": "后退",
+                        "fr": "arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clus",
+                    "meaning": {
+                        "ko": "닫다",
+                        "en": "to close",
+                        "ja": "閉じる",
+                        "zh": "关闭",
+                        "fr": "fermer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세상을 등지고 문을 닫고 사는'이라는 의미에서 '은둔하는'이라는 뜻입니다.",
+                "en": "Meaning 'living in reclusion by turning away from society and closing one's doors'",
+                "ja": "世の中を背にして戸を閉じて生きるという意味から隠遁するという意味です",
+                "zh": "从背离社会关上大门生活的意思来看，意思是隐居",
+                "fr": "Du sens de vivre en tournant le dos à la société et en fermant ses portes, signifie se retirer du monde"
+            },
+            "example": "The famous author became reclusive.",
+            "translation": {
+                "ko": "그 유명한 작가는 은둔하게 되었다.",
+                "ja": "隠遁的な",
+                "zh": "隐居的",
+                "fr": "reclus"
+            }
+        },
+        {
+            "word": "conclude",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께, 완전히",
+                        "en": "with, completely",
+                        "ja": "共に、完全に",
+                        "zh": "一起，完全地",
+                        "fr": "avec, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "clud",
+                    "meaning": {
+                        "ko": "닫다",
+                        "en": "to close",
+                        "ja": "閉じる",
+                        "zh": "关闭",
+                        "fr": "fermer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 닫다'는 의미에서, 논의나 연설을 '끝내다', '결론을 내리다'는 뜻입니다.",
+                "en": "From 'close completely': to end a discussion or speech, to reach a conclusion",
+                "ja": "「完全に閉じる」という意味から、議論や演説を「終わらせる」「結論を出す」という意味になりました。",
+                "zh": "从「完全关闭」的意思演变而来，表示「结束讨论或演讲」「得出结论」。",
+                "fr": "Du sens « fermer complètement » : terminer une discussion ou un discours, parvenir à une conclusion."
+            },
+            "example": "I would like to conclude my speech now.",
+            "translation": {
+                "ko": "이제 제 연설을 마치겠습니다.",
+                "ja": "では、私のスピーチを締めくくりたいと思います。",
+                "zh": "我现在想结束我的演讲。",
+                "fr": "J'aimerais conclure mon discours maintenant."
+            }
+        }
+    ]
+}

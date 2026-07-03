@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "lip (fat) lipase, lipid, lipoprotein, liposuction",
+        "origin": "Greek, lipos (fat)",
+        "meaning": {
+            "ko": "지방",
+            "en": "fat",
+            "ja": "脂肪",
+            "zh": "脂肪",
+            "fr": "graisse"
+        }
+    },
+    "words": [
+        {
+            "word": "lipase",
+            "part_of_speech": "",
+            "origin": "Greek, lipos (fat)",
+            "meaning": {
+                "ko": "지방",
+                "en": "fat",
+                "ja": "脂肪分解酵素",
+                "zh": "脂肪酶",
+                "fr": "lipase"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lip-",
+                    "meaning": {
+                        "ko": "'지방'",
+                        "en": "fat",
+                        "ja": "脂肪",
+                        "zh": "脂肪",
+                        "fr": "graisse"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ase",
+                    "meaning": {
+                        "ko": "(화학) 효소를 나타내는 접미사",
+                        "en": "enzyme-forming suffix",
+                        "ja": "酵素を示す接尾辞",
+                        "zh": "表示酶的后缀",
+                        "fr": "suffixe indiquant enzyme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지방을 분해하는 효소'인 '리파아제'를 뜻합니다.",
+                "en": "Lipase is an enzyme that breaks down fats",
+                "ja": "脂肪を分解する酵素を意味します",
+                "zh": "指分解脂肪的酶",
+                "fr": "Enzyme qui décompose les graisses"
+            },
+            "example": "The pancreas produces lipase to help digest fats.",
+            "translation": {
+                "ko": "췌장은 지방 소화를 돕기 위해 리파아제를 생산한다.",
+                "ja": "膵臓はリパーゼを産生して脂肪の消化を助けます",
+                "zh": "胰腺产生脂肪酶来帮助消化脂肪",
+                "fr": "Le pancréas produit de la lipase pour aider à digérer les graisses"
+            }
+        },
+        {
+            "word": "lipid",
+            "part_of_speech": "",
+            "origin": "Greek, lipos (fat)",
+            "meaning": {
+                "ko": "지방",
+                "en": "fat",
+                "ja": "脂質",
+                "zh": "脂质",
+                "fr": "lipide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lip-",
+                    "meaning": {
+                        "ko": "'지방'",
+                        "en": "fat",
+                        "ja": "脂肪",
+                        "zh": "脂肪",
+                        "fr": "graisse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "물에 녹지 않는 유기 화합물인 '지질'을 뜻합니다.",
+                "en": "Refers to lipids, organic compounds that do not dissolve in water.",
+                "ja": "水に溶けない有機化合物である脂質を意味します。",
+                "zh": "指不溶于水的有机化合物脂质。",
+                "fr": "Désigne les lipides, composés organiques insolubles dans l'eau."
+            },
+            "example": "Fats, oils, and waxes are all lipids.",
+            "translation": {
+                "ko": "지방, 기름, 왁스는 모두 지질이다.",
+                "ja": "脂肪、油、蝋はすべて脂質です。",
+                "zh": "脂肪、油和蜡都是脂质。",
+                "fr": "Les graisses, les huiles et les cires sont tous des lipides."
+            }
+        },
+        {
+            "word": "lipoprotein",
+            "part_of_speech": "",
+            "origin": "Greek, lipos (fat) + proteion (first thing)",
+            "meaning": {
+                "ko": "지방 단백질",
+                "en": "fat protein",
+                "ja": "脂肪蛋白質",
+                "zh": "脂蛋白",
+                "fr": "lipoprotéine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lipo-",
+                    "meaning": {
+                        "ko": "'지방'",
+                        "en": "fat",
+                        "ja": "脂肪",
+                        "zh": "脂肪",
+                        "fr": "lipide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "protein",
+                    "meaning": {
+                        "ko": "'단백질'",
+                        "en": "protein",
+                        "ja": "蛋白質",
+                        "zh": "蛋白质",
+                        "fr": "protéine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지질과 단백질이 결합된 복합체'인 '지단백질'을 뜻합니다.",
+                "en": "A complex formed by combining lipids and proteins",
+                "ja": "脂質とタンパク質が結合した複合体",
+                "zh": "脂质与蛋白质结合的复合物",
+                "fr": "Complexe formé par la combinaison de lipides et de protéines"
+            },
+            "example": "Cholesterol is transported in the blood by lipoproteins.",
+            "translation": {
+                "ko": "콜레스테롤은 지단백질에 의해 혈액 속에서 운반된다.",
+                "ja": "コレステロールは血液中でリポタンパク質によって運ばれます。",
+                "zh": "胆固醇通过血液中的脂蛋白运输。",
+                "fr": "Le cholestérol est transporté dans le sang par les lipoprotéines."
+            }
+        },
+        {
+            "word": "liposuction",
+            "part_of_speech": "",
+            "origin": "Greek, lipos (fat) + English, suction",
+            "meaning": {
+                "ko": "지방 흡입",
+                "en": "surgical removal of fat",
+                "ja": "脂肪吸引",
+                "zh": "脂肪抽吸",
+                "fr": "liposuccion"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lipo-",
+                    "meaning": {
+                        "ko": "'지방'",
+                        "en": "fat",
+                        "ja": "脂肪",
+                        "zh": "脂肪",
+                        "fr": "graisse"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suction",
+                    "meaning": {
+                        "ko": "'흡입'",
+                        "en": "suction or aspiration",
+                        "ja": "吸引",
+                        "zh": "吸入",
+                        "fr": "aspiration"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피하 지방을 흡입하여 제거하는' 미용 수술인 '지방 흡입술'을 뜻합니다.",
+                "en": "Liposuction is a cosmetic surgical procedure that removes subcutaneous fat by suction.",
+                "ja": "皮下脂肪を吸引して除去する美容外科手術を意味します。",
+                "zh": "指通过吸引皮下脂肪来去除脂肪的美容手术。",
+                "fr": "Une intervention chirurgicale esthétique qui élimine la graisse sous-cutanée par aspiration."
+            },
+            "example": "Liposuction is a popular cosmetic surgery procedure.",
+            "translation": {
+                "ko": "지방 흡입술은 인기 있는 미용 성형 수술이다.",
+                "ja": "脂肪吸引は一般的な美容外科手術です。",
+                "zh": "脂肪抽吸是一种流行的美容手术。",
+                "fr": "La liposuccion est une intervention chirurgicale esthétique populaire."
+            }
+        }
+    ]
+}

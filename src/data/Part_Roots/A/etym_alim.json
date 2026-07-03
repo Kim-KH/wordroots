@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "alim (digestion) alimentary, alimony",
+        "origin": "Latin, alere (to nourish)",
+        "meaning": {
+            "ko": "영양을 공급하다",
+            "en": "to nourish",
+            "ja": "栄養を与える",
+            "zh": "滋养",
+            "fr": "nourrir"
+        }
+    },
+    "words": [
+        {
+            "word": "alimentary",
+            "part_of_speech": "",
+            "origin": "Latin, alimentarius (pertaining to nourishment)",
+            "meaning": {
+                "ko": "영양물",
+                "en": "nourishment",
+                "ja": "栄養、食物",
+                "zh": "营养",
+                "fr": "nourriture"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ali (alere)",
+                    "meaning": {
+                        "ko": "'기르다, 영양을 공급하다'",
+                        "en": "to nourish",
+                        "ja": "栄養を与える",
+                        "zh": "滋养、供养",
+                        "fr": "nourrir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-mentary",
+                    "meaning": {
+                        "ko": "'~에 관련된'",
+                        "en": "related to",
+                        "ja": "~に関連した",
+                        "zh": "与~有关",
+                        "fr": "relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'영양 공급(ali)에 관련된'이라는 의미에서 '음식물의', '소화의'라는 뜻으로 쓰이며, 'alimentary canal'은 입에서 항문까지 이어지는 '소화관'을 의미합니다.",
+                "en": "From Latin alimentum (nourishment). The alimentary canal refers to the digestive tract from mouth to anus.",
+                "ja": "ラテン語のalimentum(栄養)に由来。食物が体に入る経路である消化管を指します。",
+                "zh": "源自拉丁语alimentum(营养)。消化管是指从口腔到肛门的食物通道。",
+                "fr": "Du latin alimentum (nourriture). Le canal alimentaire désigne le tube digestif de la bouche à l'anus."
+            },
+            "example": "The alimentary canal is the pathway by which food enters the body.",
+            "translation": {
+                "ko": "소화관은 음식이 몸으로 들어가는 통로이다.",
+                "ja": "食物摂取に関連した、栄養に関する",
+                "zh": "关于营养的、消化的",
+                "fr": "relatif à la nutrition, digestif"
+            }
+        },
+        {
+            "word": "alimony",
+            "part_of_speech": "",
+            "origin": "Latin, alimonia (nourishment, sustenance)",
+            "meaning": {
+                "ko": "영양물",
+                "en": "nourishment",
+                "ja": "扶養料",
+                "zh": "赡养费",
+                "fr": "pension alimentaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ali (alere)",
+                    "meaning": {
+                        "ko": "'기르다, 영양을 공급하다'",
+                        "en": "to nourish",
+                        "ja": "養う、栄養を与える",
+                        "zh": "养育、提供营养",
+                        "fr": "nourrir, alimenter"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-mony",
+                    "meaning": {
+                        "ko": "'상태, 행위'",
+                        "en": "state or condition",
+                        "ja": "状態、行為",
+                        "zh": "状态、行为",
+                        "fr": "état, action"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어에서 '생계 유지, 부양'을 의미하던 단어가 법률 용어로 쓰이면서, 이혼 후 한쪽 배우자가 상대방에게 지급하는 '부양료' 또는 '위자료'를 뜻하게 되었습니다.",
+                "en": "In Latin, this word meant sustenance and support. As a legal term, it came to refer to the maintenance payment or alimony that one spouse pays to the other after divorce.",
+                "ja": "ラテン語で生計維持と扶養を意味した言葉が法律用語として使われるようになり、離婚後の配偶者への扶養料を指すようになりました。",
+                "zh": "这个来自拉丁语的词原意为生计维持和赡养。作为法律术语，它指离婚后一方配偶向另一方支付的赡养费。",
+                "fr": "Ce mot vient du latin et signifiait l'entretien et le soutien. En tant que terme juridique, il désigne la pension qu'un époux verse à l'autre après le divorce."
+            },
+            "example": "The court ordered him to pay alimony to his ex-wife.",
+            "translation": {
+                "ko": "법원은 그에게 전 부인에게 부양료를 지급하라고 명령했다.",
+                "ja": "裁判所は彼に元妻への扶養料の支払いを命じた。",
+                "zh": "法院命令他向前妻支付赡养费。",
+                "fr": "Le tribunal lui a ordonné de verser une pension alimentaire à son ex-femme."
+            }
+        }
+    ]
+}

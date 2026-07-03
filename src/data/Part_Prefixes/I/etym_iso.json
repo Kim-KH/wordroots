@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "iso (equal) isobar, isometric, isosceles, isotope",
+        "origin": "Greek, isos (equal)",
+        "meaning": {
+            "ko": "같은",
+            "en": "equal",
+            "ja": "等しい",
+            "zh": "平等、等",
+            "fr": "égal"
+        }
+    },
+    "words": [
+        {
+            "word": "isobar",
+            "part_of_speech": "",
+            "origin": "Greek, isobares (of equal weight)",
+            "meaning": {
+                "ko": "같은 무게의",
+                "en": "of equal weight",
+                "ja": "等しい気圧",
+                "zh": "等压线",
+                "fr": "ligne isobare"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "iso-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "等しい",
+                        "zh": "相等的",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bar",
+                    "meaning": {
+                        "ko": "'무게, 압력'",
+                        "en": "weight, pressure",
+                        "ja": "気圧、重さ",
+                        "zh": "压力、重量",
+                        "fr": "pression, poids"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기압이 같은 지점을 연결한 선'이라는 의미에서 기상학 용어 '등압선'을 뜻합니다.",
+                "en": "A meteorological term referring to a line connecting points of equal atmospheric pressure.",
+                "ja": "気圧が同じ地点を結んだ線を意味する気象学用語の等圧線です。",
+                "zh": "气象学术语，指连接气压相等的点的线。",
+                "fr": "Terme météorologique désignant une ligne reliant les points de pression atmosphérique égale."
+            },
+            "example": "The isobars on the weather map are close together, indicating strong winds.",
+            "translation": {
+                "ko": "일기도의 등압선들이 서로 가까워 강한 바람을 나타낸다.",
+                "ja": "等圧線",
+                "zh": "等压线",
+                "fr": "isobare"
+            }
+        },
+        {
+            "word": "isometric",
+            "part_of_speech": "",
+            "origin": "Greek, isometria (equality of measure)",
+            "meaning": {
+                "ko": "같은 길이의",
+                "en": "of equal length",
+                "ja": "等しい長さの",
+                "zh": "长度相等的",
+                "fr": "de longueur égale"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "iso-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "等しい",
+                        "zh": "相等的",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "metric (metron)",
+                    "meaning": {
+                        "ko": "'측정, 길이'",
+                        "en": "measure",
+                        "ja": "測定、長さ",
+                        "zh": "测量、长度",
+                        "fr": "mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'길이가 같은'이라는 의미에서 '등척성의' 또는 '1:1:1의 축척으로 그린'이라는 뜻으로 쓰입니다.",
+                "en": "Used to mean 'of equal length' or 'drawn at a 1:1:1 scale ratio', indicating isometric properties or isometric projection in technical drawing.",
+                "ja": "長さが等しいという意味から、等張性のまたは1:1:1の縮尺で描かれたという意味で使用されます。",
+                "zh": "从长度相等的含义上，用于表示等距性的或以1:1:1的比例绘制的意思。",
+                "fr": "Utilisé pour signifier 'de longueur égale' ou 'dessiné à l'échelle 1:1:1', indiquant des propriétés isométriques ou une projection isométrique."
+            },
+            "example": "Isometric exercises involve tensing muscles without moving your joints.",
+            "translation": {
+                "ko": "등척성 운동은 관절을 움직이지 않고 근육을 긴장시키는 것을 포함한다.",
+                "ja": "アイソメトリック運動は、関節を動かさずに筋肉に力を入れる運動です。",
+                "zh": "等距离运动涉及在不移动关节的情况下拉紧肌肉。",
+                "fr": "Les exercices isométriques impliquent de contracter les muscles sans bouger vos articulations."
+            }
+        },
+        {
+            "word": "isosceles",
+            "part_of_speech": "",
+            "origin": "Greek, isoskeles (with equal legs)",
+            "meaning": {
+                "ko": "같은 다리를 가진",
+                "en": "having equal legs",
+                "ja": "二等辺の",
+                "zh": "等腰的",
+                "fr": "isocèle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "iso-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "等しい",
+                        "zh": "相等的",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sceles (skelos)",
+                    "meaning": {
+                        "ko": "'다리'",
+                        "en": "leg",
+                        "ja": "脚",
+                        "zh": "腿",
+                        "fr": "jambe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개의 다리(변)의 길이가 같은' 삼각형이라는 의미에서 '이등변의'라는 뜻으로 쓰입니다.",
+                "en": "A triangle where two sides (legs) have equal length, used to describe isosceles triangles.",
+                "ja": "2つの脚(辺)の長さが等しい三角形という意味で、二等辺三角形を表します。",
+                "zh": "两条腿(边)长度相等的三角形，用来表示等腰三角形。",
+                "fr": "Un triangle où deux côtés (jambes) ont une longueur égale, utilisé pour décrire les triangles isocèles."
+            },
+            "example": "An isosceles triangle has two equal sides and two equal angles.",
+            "translation": {
+                "ko": "이등변삼각형은 두 변의 길이와 두 각의 크기가 같다.",
+                "ja": "二等辺三角形は、2つの等しい辺と2つの等しい角を持ちます。",
+                "zh": "等腰三角形有两条相等的边和两个相等的角。",
+                "fr": "Un triangle isocèle a deux côtés égaux et deux angles égaux."
+            }
+        },
+        {
+            "word": "isotope",
+            "part_of_speech": "",
+            "origin": "Greek, isos (equal) + topos (place)",
+            "meaning": {
+                "ko": "같은 장소",
+                "en": "same place",
+                "ja": "同じ位置",
+                "zh": "相同位置",
+                "fr": "même place"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "iso-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "同じ",
+                        "zh": "相同",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tope (topos)",
+                    "meaning": {
+                        "ko": "'장소'",
+                        "en": "place",
+                        "ja": "位置",
+                        "zh": "位置",
+                        "fr": "place"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원자번호는 같지만 질량수가 다른 원소, 즉 주기율표에서 '같은 장소'에 위치하는 원소라는 의미에서 '동위원소'를 뜻합니다.",
+                "en": "Elements with the same atomic number but different mass numbers, meaning elements located in the 'same place' in the periodic table, thus referring to 'isotopes'.",
+                "ja": "原子番号は同じだが質量数が異なる元素、つまり周期表で同じ位置に位置する元素という意味から同位体を指します。",
+                "zh": "原子序数相同但质量数不同的元素，即在周期表中位于同一位置的元素，因此指同位素。",
+                "fr": "Éléments ayant le même numéro atomique mais des nombres de masse différents, c'est-à-dire des éléments situés à la 'même place' dans le tableau périodique, désignant ainsi les isotopes."
+            },
+            "example": "Carbon-14 is a radioactive isotope of carbon.",
+            "translation": {
+                "ko": "탄소-14는 탄소의 방사성 동위원소이다.",
+                "ja": "同位体",
+                "zh": "同位素",
+                "fr": "isotope"
+            }
+        }
+    ]
+}

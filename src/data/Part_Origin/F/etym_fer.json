@@ -1,0 +1,1122 @@
+{
+    "root_info": {
+        "roots": "fer: bear, carry",
+        "origin": "Latin, ferre",
+        "meaning": {
+            "ko": "나르다, 지니다, 낳다",
+            "en": "to bear, to carry",
+            "ja": "運ぶ、持つ、産む",
+            "zh": "承载、携带、生育",
+            "fr": "porter, transporter, enfanter"
+        }
+    },
+    "words": [
+        {
+            "word": "aquifer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aqui (aqua)",
+                    "meaning": {
+                        "ko": "물",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "지니다",
+                        "en": "to bear",
+                        "ja": "帯びる",
+                        "zh": "承载",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물을 지니고 있는' 지층, 즉 '대수층(帶水層)'을 의미합니다.",
+                "en": "A layer of rock or soil that holds water; literally 'water-bearing'",
+                "ja": "水を帯びている地層、つまり『帯水層』を意味します。",
+                "zh": "含水的岩层或土壤层，字面意思是'承载水的'。",
+                "fr": "Une couche de roche ou de sol qui contient l'eau ; littéralement 'porteuse d'eau'."
+            },
+            "example": "The town gets its water from an aquifer.",
+            "translation": {
+                "ko": "그 마을은 대수층에서 물을 얻는다.",
+                "ja": "その町は帯水層から水を得ている。",
+                "zh": "这个城镇从含水层获取水。",
+                "fr": "La ville obtient son eau d'une nappe phréatique."
+            }
+        },
+        {
+            "word": "vociferous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "voci (vox)",
+                    "meaning": {
+                        "ko": "목소리",
+                        "en": "voice",
+                        "ja": "声",
+                        "zh": "声音",
+                        "fr": "voix"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "携带",
+                        "fr": "porter"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'목소리를 멀리 나르는' 즉, 의견 등을 '큰 소리로 외치는', '소란스러운'이라는 뜻입니다.",
+                "en": "Literally 'carrying voice far'; means to shout opinions loudly, boisterously.",
+                "ja": "文字通りには『声を遠くに運ぶ』という意味で、意見などを『大きな声で叫ぶ』、『騒々しい』という意味です。",
+                "zh": "字面意思为'将声音远距离传递'，即'用大声喊叫意见'、'吵闹的'。",
+                "fr": "Littéralement 'porter la voix loin'; signifie crier ses opinions bruyamment, de manière tonitruante."
+            },
+            "example": "The crowd was vociferous in its support.",
+            "translation": {
+                "ko": "군중은 소리 높여 지지했다.",
+                "ja": "群衆はその支持を声高に叫んだ。",
+                "zh": "群众大声疾呼表示支持。",
+                "fr": "La foule a exprimé bruyamment son soutien."
+            }
+        },
+        {
+            "word": "odoriferous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "odori (odor)",
+                    "meaning": {
+                        "ko": "냄새",
+                        "en": "smell",
+                        "ja": "匂い",
+                        "zh": "气味",
+                        "fr": "odeur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다, 풍기다",
+                        "en": "to carry",
+                        "ja": "運ぶ、放つ",
+                        "zh": "携带、散发",
+                        "fr": "porter, dégager"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'냄새를 풍기는'이라는 의미로, 주로 '향기로운'이라는 뜻으로 쓰입니다.",
+                "en": "Means 'carrying smell'; mainly used to mean 'fragrant'",
+                "ja": "「匂いを放つ」という意味で、主に「香りのよい」という意味で使われます",
+                "zh": "意为「散发气味」，主要用于表示「芬芳的」",
+                "fr": "Signifie « dégageant une odeur » ; utilisé principalement pour dire « odorant »"
+            },
+            "example": "The flowers were very odoriferous.",
+            "translation": {
+                "ko": "그 꽃들은 매우 향기로웠다.",
+                "ja": "その花はとても香りが良かった。",
+                "zh": "那些花非常芬芳。",
+                "fr": "Les fleurs étaient très odorantes."
+            }
+        },
+        {
+            "word": "ablative",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ab-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "from, away",
+                        "ja": "から、離れて",
+                        "zh": "从、离开",
+                        "fr": "de, loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lat (ferre의 과거분사형)",
+                    "meaning": {
+                        "ko": "가져가다",
+                        "en": "carried",
+                        "ja": "運ぶ、持ち去る",
+                        "zh": "携带、拿走",
+                        "fr": "porter, emporter"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ive",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞形語尾",
+                        "zh": "形容词形词尾",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'~로부터 멀어짐'을 나타내는 문법적 격(格)으로 '탈격(奪格)'이라고 합니다.",
+                "en": "A grammatical case expressing separation or movement away, called the ablative case or ablatival case.",
+                "ja": "分離や遠ざかりを表す文法的な格で、奪格と呼ばれる。",
+                "zh": "表示分离或远离的语法格，称为夺格。",
+                "fr": "Un cas grammatical exprimant la séparation ou l'éloignement, appelé cas ablatif."
+            },
+            "example": "Latin has an ablative case.",
+            "translation": {
+                "ko": "라틴어에는 탈격이 있다.",
+                "ja": "ラテン語には奪格がある。",
+                "zh": "拉丁文有夺格。",
+                "fr": "Le latin a un cas ablatif."
+            }
+        },
+        {
+            "word": "circumference",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "주위에",
+                        "en": "around",
+                        "ja": "周囲に",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "携带",
+                        "fr": "porter"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ence",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원의 중심 '주위를 두르며 가는' 선의 길이라는 의미에서 '원주', '둘레'를 뜻합니다.",
+                "en": "From Latin circum (around) + ferre (to carry). Originally referred to the distance around a circle's center.",
+                "ja": "円の中心の周囲を一周する線の長さを意味することから、「円周」「周囲」を表します。",
+                "zh": "从圆心周围绕行的线的长度而来，表示圆周或周长的意思。",
+                "fr": "De circum (autour) + ferre (porter). À l'origine, il désignait la distance autour du centre d'un cercle."
+            },
+            "example": "He measured the circumference of the tree.",
+            "translation": {
+                "ko": "그는 나무의 둘레를 쟀다.",
+                "ja": "彼は木の周囲を測定した。",
+                "zh": "他测量了树的周长。",
+                "fr": "Il a mesuré la circonférence de l'arbre."
+            }
+        },
+        {
+            "word": "pestiferous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pesti (pestis)",
+                    "meaning": {
+                        "ko": "역병, 해충",
+                        "en": "plague, pest",
+                        "ja": "疫病、害虫",
+                        "zh": "瘟疫、害虫",
+                        "fr": "peste, parasite"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르는",
+                        "en": "carrying",
+                        "ja": "運ぶ、伝える",
+                        "zh": "携带、传播",
+                        "fr": "porteur de"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'역병을 옮기는' 즉, '해로운', '성가신'이라는 뜻입니다.",
+                "en": "'carrying plague,' meaning harmful or troublesome",
+                "ja": "「疫病を運ぶ」つまり、「有害な」「厄介な」という意味です。",
+                "zh": "意为「传播瘟疫」，即「有害的」、「令人厌烦的」之意。",
+                "fr": "Littéralement « qui porte la peste », signifiant nuisible ou ennuyeux."
+            },
+            "example": "The swamp was full of pestiferous insects.",
+            "translation": {
+                "ko": "그 늪은 해로운 곤충들로 가득했다.",
+                "ja": "その沼は有害な昆虫でいっぱいだった。",
+                "zh": "那片沼泽里充满了有害的昆虫。",
+                "fr": "Le marais était rempli d'insectes nuisibles."
+            }
+        },
+        {
+            "word": "defer",
+            "part_of_speech": "2",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "아래로",
+                        "en": "down",
+                        "ja": "下へ",
+                        "zh": "向下",
+                        "fr": "vers le bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다, 두다",
+                        "en": "to carry, to put",
+                        "ja": "運ぶ、置く",
+                        "zh": "携带、放置",
+                        "fr": "porter, placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "자신을 다른 사람의 의견 '아래에 두다'는 의미에서, 존경심을 가지고 상대방의 의견이나 결정에 '따르다', '경의를 표하다'는 뜻으로 사용됩니다.",
+                "en": "From the literal sense of placing oneself 'below' another's opinion, it came to mean 'to respect and follow' someone's judgment or decision with deference.",
+                "ja": "自分を他人の意見の『下に置く』という意味から、敬意を持って相手の意見や決定に『従う』『敬意を示す』という意味で使われるようになりました。",
+                "zh": "从字面上将自己置于他人意见'之下'的含义演变而来，后来用来表示'尊重并遵从'他人的判断或决定。",
+                "fr": "Du sens littéral de se placer 'au-dessous' de l'opinion d'autrui, il en est venu à signifier 'respecter et suivre' le jugement ou la décision de quelqu'un avec déférence."
+            },
+            "example": "I will defer to your expertise.",
+            "translation": {
+                "ko": "당신의 전문적인 의견에 따르겠습니다.",
+                "ja": "私はあなたの専門知識に従います。",
+                "zh": "我会遵从你的专业意见。",
+                "fr": "Je m'en remets à votre expertise."
+            }
+        },
+        {
+            "word": "splendiferous",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "splendi (splendor)",
+                    "meaning": {
+                        "ko": "빛남, 화려함",
+                        "en": "splendor",
+                        "ja": "輝き、華やかさ",
+                        "zh": "光辉、华丽",
+                        "fr": "splendeur, éclat"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "지닌",
+                        "en": "bearing",
+                        "ja": "持つ、備える",
+                        "zh": "具有、拥有",
+                        "fr": "porteur de, ayant"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'화려함을 지닌'이라는 의미로 '정말 멋진', '훌륭한'을 뜻하는 과장된 표현입니다.",
+                "en": "An exaggerated expression meaning 'truly magnificent' or 'splendid,' literally 'bearing splendor.'",
+                "ja": "「華やかさを持つ」という意味で、「本当に素晴らしい」「見事な」を示す誇張表現です。",
+                "zh": "一种夸张的表达方式，字面意为「具有华丽」，表示「真正壮观的」或「辉煌的」。",
+                "fr": "Une expression exagérée signifiant littéralement 'porteur de splendeur', pour dire 'vraiment magnifique' ou 'splendide'."
+            },
+            "example": "It was a splendiferous feast.",
+            "translation": {
+                "ko": "그것은 아주 멋진 향연이었다.",
+                "ja": "それは素晴らしい盛宴だった。",
+                "zh": "那是一场华丽的盛宴。",
+                "fr": "C'était un festin splendifère."
+            }
+        },
+        {
+            "word": "fertile",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "낳다, 가져오다",
+                        "en": "to bear, to produce",
+                        "ja": "生む、産出する",
+                        "zh": "生育、产生",
+                        "fr": "enfanter, produire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tile",
+                    "meaning": {
+                        "ko": "~의 성질을 가진",
+                        "en": "having the quality of",
+                        "ja": "〜の性質を持つ",
+                        "zh": "具有〜的性质",
+                        "fr": "avoir la qualité de〜"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열매나 새끼를 낳는' 능력이 있는 상태를 의미하여 '비옥한', '다산의'라는 뜻을 가집니다.",
+                "en": "The state of having the ability to produce fruit or offspring; means 'fertile' or 'prolific'",
+                "ja": "果実や子孫を生み出す能力がある状態を意味し、『肥沃な』『多産の』という意味を持ちます",
+                "zh": "具有生产果实或后代能力的状态；意为『肥沃的』『多产的』",
+                "fr": "État de posséder la capacité à produire des fruits ou une descendance ; signifie « fertile » ou « fécond »"
+            },
+            "example": "The land is very fertile.",
+            "translation": {
+                "ko": "그 땅은 매우 비옥하다.",
+                "ja": "その土地は非常に肥沃である。",
+                "zh": "那片土地非常肥沃。",
+                "fr": "Cette terre est très fertile."
+            }
+        },
+        {
+            "word": "transfer",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "穿过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "运送",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 곳에서 다른 곳으로 가로질러 나르다'는 의미에서 '옮기다', '이동시키다', '이체하다'는 뜻이 되었습니다.",
+                "en": "From 'to carry across one place to another' — came to mean 'move,' 'transport,' 'transfer'",
+                "ja": "「ある場所から別の場所へ横切って運ぶ」という意味から、「移す」「移動させる」「譲渡する」という意味になりました。",
+                "zh": "从「从一个地方跨越到另一个地方运送」的含义，演变为「移动」「转移」「转账」的意思。",
+                "fr": "Du sens de 'porter d'un endroit à un autre en traversant' — devenu 'déplacer', 'transporter', 'transférer'"
+            },
+            "example": "I need to transfer some files.",
+            "translation": {
+                "ko": "나는 몇 개의 파일을 옮겨야 한다.",
+                "ja": "いくつかのファイルを転送する必要があります。",
+                "zh": "我需要转移一些文件。",
+                "fr": "Je dois transférer certains fichiers."
+            }
+        },
+        {
+            "word": "confer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다, 가져오다",
+                        "en": "to bring",
+                        "ja": "持ってくる、もたらす",
+                        "zh": "带来、携带",
+                        "fr": "apporter, porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "의견을 '함께 가져와 나누다'는 의미에서 '협의하다', '상담하다'는 뜻과, 학위나 상 등을 '함께 모인 자리에서 주다'는 의미에서 '수여하다'는 뜻이 있습니다.",
+                "en": "From Latin 'conferre' (to bring together). Means both 'to consult together' (from bringing opinions together to share) and 'to bestow' (from presenting awards in a gathered assembly).",
+                "ja": "ラテン語の 'conferre' に由来する。『意見を一緒に持ち寄って共有する』という意味から『相談する』『協議する』という意味と、『集まった場で学位や賞を与える』という意味から『授与する』という意味があります。",
+                "zh": "源自拉丁语 'conferre'（汇聚在一起）。既可表示'汇聚意见分享'之义引申的'协商、商议'，也可表示'在集会场合授予学位或奖项'之义引申的'颁授、授予'。",
+                "fr": "Du latin 'conferre' (apporter ensemble). Signifie à la fois 'discuter ensemble' (du fait de réunir et partager les opinions) et 'conférer, décerner' (du fait de présenter des diplômes ou des prix lors d'une assemblée)."
+            },
+            "example": "They will confer an award on him.",
+            "translation": {
+                "ko": "그들은 그에게 상을 수여할 것이다.",
+                "ja": "彼らは彼に賞を授与するでしょう。",
+                "zh": "他们将给他颁发奖项。",
+                "fr": "Ils lui conféreront un prix."
+            }
+        },
+        {
+            "word": "collate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "col- (con-)",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "late (ferre의 과거분사형)",
+                    "meaning": {
+                        "ko": "가져오다",
+                        "en": "brought",
+                        "ja": "持ってくる",
+                        "zh": "带来",
+                        "fr": "apporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "여러 자료들을 '함께 가져와' 순서대로 맞추거나 비교한다는 의미에서 '대조하다', '수집 분석하다'는 뜻입니다.",
+                "en": "Means to arrange multiple materials brought together in order or to compare them; to verify or analyze by examining.",
+                "ja": "複数の資料を「一緒に持ってきて」順序通りに揃えたり比較したりすることから、「対照する」「収集分析する」という意味です。",
+                "zh": "从将多份资料\"一起带来\"按顺序整理或比较的意思引申为\"对照\"、\"收集分析\"的含义。",
+                "fr": "Signifie arranger les matériaux apportés ensemble dans l'ordre ou les comparer; vérifier en examinant attentivement."
+            },
+            "example": "Please collate the pages before binding.",
+            "translation": {
+                "ko": "제본하기 전에 페이지들을 순서대로 맞추세요.",
+                "ja": "製本する前にページを順序通りに揃えてください。",
+                "zh": "装订前请按顺序整理这些页面。",
+                "fr": "Veuillez collationner les pages avant la reliure."
+            }
+        },
+        {
+            "word": "differ",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dif- (dis-)",
+                    "meaning": {
+                        "ko": "떨어져, 따로",
+                        "en": "apart",
+                        "ja": "離れて、別々に",
+                        "zh": "分开、各自",
+                        "fr": "à part, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다",
+                        "en": "to carry",
+                        "ja": "運ぶ、携える",
+                        "zh": "携带、运送",
+                        "fr": "porter, transporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "각기 '다른 방향으로 가다'는 의미에서 '다르다', '의견이 일치하지 않다'는 뜻이 되었습니다.",
+                "en": "Originally meant 'to go in different directions,' then developed to mean 'to be different' or 'to disagree.'",
+                "ja": "もともと『異なる方向に行く』という意味から、『異なる』『意見が一致しない』という意味になりました。",
+                "zh": "最初意为'各自朝不同方向去'，后来引申为'不同'或'意见不一致'。",
+                "fr": "Originellement signifiait 'aller dans des directions différentes', puis a évolué vers 'être différent' ou 'être en désaccord'."
+            },
+            "example": "Our opinions differ on this issue.",
+            "translation": {
+                "ko": "이 문제에 대해 우리의 의견은 다르다.",
+                "ja": "この問題についての私たちの意見は異なっている。",
+                "zh": "我们在这个问题上的看法不同。",
+                "fr": "Nos opinions diffèrent sur cette question."
+            }
+        },
+        {
+            "word": "conifer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "coni (conus)",
+                    "meaning": {
+                        "ko": "원뿔",
+                        "en": "cone",
+                        "ja": "円錐",
+                        "zh": "圆锥",
+                        "fr": "cône"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "지니다",
+                        "en": "to bear",
+                        "ja": "持つ",
+                        "zh": "承载",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원뿔 모양의 열매(솔방울)를 지닌' 나무, 즉 '침엽수'를 의미합니다.",
+                "en": "A tree that bears cone-shaped fruits (pinecones); refers to coniferous trees.",
+                "ja": "円錐形の実（松ぼっくり）を持つ木、つまり針葉樹を意味します。",
+                "zh": "指具有圆锥形果实（松果）的树木，即针叶树。",
+                "fr": "Un arbre portant des fruits en forme de cône (pommes de pin); désigne les arbres conifères."
+            },
+            "example": "Pine trees are conifers.",
+            "translation": {
+                "ko": "소나무는 침엽수이다.",
+                "ja": "松の木は針葉樹である。",
+                "zh": "松树是针叶树。",
+                "fr": "Les pins sont des conifères."
+            }
+        },
+        {
+            "word": "oblate",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "~를 향하여, 앞에",
+                        "en": "toward, before",
+                        "ja": "～に向かって、前に",
+                        "zh": "朝向、在...之前",
+                        "fr": "vers, devant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "late (ferre의 과거분사형)",
+                    "meaning": {
+                        "ko": "바치다",
+                        "en": "offered",
+                        "ja": "捧げられた",
+                        "zh": "奉献",
+                        "fr": "offert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "신에게 '바쳐진 사람'이라는 의미에서 수도원에 들어간 '봉헌자'를 뜻합니다.",
+                "en": "A person offered to God; refers to a 'dedicant' who entered a monastery as a consecrated lay member.",
+                "ja": "神に『捧げられた人』という意味から、修道院に入った『奉献者』を意味します。",
+                "zh": "从献给神的'被奉献的人'这一含义引申，指进入修道院的'奉献者'。",
+                "fr": "D'une personne 'offerte' à Dieu; désigne un 'dédié' qui est entré dans un monastère en tant que membre laïc consacré."
+            },
+            "example": "He became an oblate at the monastery.",
+            "translation": {
+                "ko": "그는 그 수도원의 봉헌자가 되었다.",
+                "ja": "彼は修道院の奉献者になった。",
+                "zh": "他成为了修道院的献身者。",
+                "fr": "Il est devenu un oblat du monastère."
+            }
+        },
+        {
+            "word": "elation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lat (ferre의 과거분사형)",
+                    "meaning": {
+                        "ko": "나르다",
+                        "en": "carried",
+                        "ja": "運ぶ",
+                        "zh": "携带",
+                        "fr": "porté"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ion",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "기분이 좋아서 몸이 '밖으로 들려 올려지는' 느낌이라는 의미에서 '크게 기뻐함', '의기양양함'을 뜻합니다.",
+                "en": "From the feeling of one's body being 'lifted outward' by joy; means great joy or elation.",
+                "ja": "喜びで体が『外へ持ち上げられる』感覚から、大きな喜びや意気消沈を意味します。",
+                "zh": "源于因高兴而身体'向外升起'的感觉，表示极度的喜悦或得意。",
+                "fr": "De la sensation que le corps est 'soulevé vers l'extérieur' par la joie; signifie une grande joie ou allégresse."
+            },
+            "example": "She felt a sense of elation.",
+            "translation": {
+                "ko": "그녀는 의기양양함을 느꼈다.",
+                "ja": "彼女は有頂天の感覚を感じた。",
+                "zh": "她感到了欣喜若狂的感觉。",
+                "fr": "Elle ressentait une sensation d'allégresse."
+            }
+        },
+        {
+            "word": "defer",
+            "part_of_speech": "1",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져, 뒤로",
+                        "en": "away, off",
+                        "ja": "離れて、後ろへ",
+                        "zh": "离开、向后",
+                        "fr": "loin, en arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "运送",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "해야 할 일을 '뒤로 날라 보내다'는 의미에서 '연기하다', '미루다'는 뜻으로 사용됩니다.",
+                "en": "From Latin deferre: to carry away or postpone. Originally meant 'to carry off/back,' later used to mean 'to delay' or 'to postpone'.",
+                "ja": "すべき仕事を『後ろへ運び去る』という意味から、『延期する』『先延ばしにする』という意味で使われます。",
+                "zh": "从应该做的事情『向后运送』的意思，引申为『推迟』『延期』的含义。",
+                "fr": "Du sens de 'reporter/renvoyer en arrière', il signifie 'repousser' ou 'remettre à plus tard'."
+            },
+            "example": "We have to defer the meeting.",
+            "translation": {
+                "ko": "우리는 회의를 연기해야 한다.",
+                "ja": "私たちは会議を延期しなければならない。",
+                "zh": "我们必须推迟会议。",
+                "fr": "Nous devons reporter la réunion."
+            }
+        },
+        {
+            "word": "suffer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "suf- (sub-)",
+                    "meaning": {
+                        "ko": "아래에서",
+                        "en": "under",
+                        "ja": "下から",
+                        "zh": "在...下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "견디다, 나르다",
+                        "en": "to bear",
+                        "ja": "耐える、運ぶ",
+                        "zh": "承受、携带",
+                        "fr": "porter, supporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "무거운 짐 '아래에서 견디다'는 의미에서 고통이나 질병 등을 '겪다', '고통받다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'bearing weight from below,' it came to mean 'endure' or 'experience' pain, illness, etc.",
+                "ja": "重い荷物を『下から耐える』という意味から、痛みや病気などを『経験する』『苦しむ』という意味になりました。",
+                "zh": "从「在下面承受重物」的含义演变为「经历」或「遭受」疼痛、疾病等的意思。",
+                "fr": "Du sens de « supporter un poids par en dessous », il a évolué pour signifier « endurer » ou « subir » la douleur, la maladie, etc."
+            },
+            "example": "He suffers from headaches.",
+            "translation": {
+                "ko": "그는 두통으로 고통받는다.",
+                "ja": "彼は頭痛に苦しんでいる。",
+                "zh": "他患有头痛。",
+                "fr": "Il souffre de migraines."
+            }
+        },
+        {
+            "word": "proliferation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "prole (proles)",
+                    "meaning": {
+                        "ko": "자손",
+                        "en": "offspring",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "낳다",
+                        "en": "to bear",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "nominalization suffix",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자손을 낳는 것'이라는 의미가 확장되어 세포 분열이나 핵무기 등의 '급증', '확산'을 의미하게 되었습니다.",
+                "en": "The original meaning 'bearing offspring' expanded to mean rapid increase or spread of things like cell division or nuclear weapons.",
+                "ja": "「子孫を産む」という本来の意味が拡張され、細胞分裂や核兵器などの「急増」「拡散」を意味するようになりました。",
+                "zh": "\"生育后代\"的本义扩展到表示细胞分裂或核武器等的\"急剧增加\"或\"扩散\"。",
+                "fr": "Le sens originel « engendrer une descendance » s'est étendu pour signifier l'augmentation ou la propagation rapides de choses comme la division cellulaire ou les armes nucléaires."
+            },
+            "example": "We must stop nuclear proliferation.",
+            "translation": {
+                "ko": "우리는 핵 확산을 막아야 한다.",
+                "ja": "我々は核拡散を阻止しなければならない。",
+                "zh": "我们必须阻止核武器扩散。",
+                "fr": "Nous devons arrêter la prolifération nucléaire."
+            }
+        },
+        {
+            "word": "prefer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "前面",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "두다, 나르다",
+                        "en": "to put, to carry",
+                        "ja": "置く、運ぶ",
+                        "zh": "放、携带",
+                        "fr": "mettre, porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "여러 선택지 중에서 어떤 것을 다른 것들보다 '앞에 두다'는 의미에서 '~을 더 좋아하다', '선호하다'는 뜻이 되었습니다.",
+                "en": "From the sense of placing something 'before' others among multiple choices, meaning to like or favor something more.",
+                "ja": "複数の選択肢の中から、あるものを他のものより『前に置く』という意味から、『～をより好む』『～を選好する』という意味になりました。",
+                "zh": "从在多个选择中将某物置于其他物之'前'的含义引申而来，表示'更喜欢'或'偏好'某物。",
+                "fr": "Du sens de placer quelque chose 'avant' les autres parmi plusieurs choix, d'où le sens de préférer ou favoriser quelque chose davantage."
+            },
+            "example": "I prefer tea to coffee.",
+            "translation": {
+                "ko": "나는 커피보다 차를 더 선호한다.",
+                "ja": "私はコーヒーより紅茶を好む。",
+                "zh": "我比起咖啡更喜欢茶。",
+                "fr": "Je préfère le thé au café."
+            }
+        },
+        {
+            "word": "refer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로, 다시",
+                        "en": "back",
+                        "ja": "戻る、再び",
+                        "zh": "向后、再次",
+                        "fr": "en arrière, de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "나르다, 가져가다",
+                        "en": "to carry",
+                        "ja": "運ぶ、持ち運ぶ",
+                        "zh": "携带、运送",
+                        "fr": "porter, transporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "생각이나 주의를 특정 정보로 '다시 가져가다'는 의미에서 '참조하다', '언급하다'는 뜻과, 사람을 전문가에게 '보내다'는 뜻이 있습니다.",
+                "en": "Thought or attention is 'carried back' to specific information, meaning 'consult' or 'mention'; also means 'direct someone to an expert'",
+                "ja": "思考や注意を特定の情報に『再び持ち運ぶ』という意味から『参照する』『言及する』という意味を持ち、人を専門家に『送る』という意味もあります。",
+                "zh": "从将思想或注意力'再次携带'到特定信息的意义，引申为'查阅'、'提及'的含义，以及'将某人转介给专家'的含义。",
+                "fr": "L'idée de 'porter de nouveau' la pensée ou l'attention vers une information spécifique, d'où les sens de 'consulter' ou 'mentionner', et aussi 'envoyer quelqu'un chez un expert'."
+            },
+            "example": "Please refer to the manual.",
+            "translation": {
+                "ko": "설명서를 참조하세요.",
+                "ja": "マニュアルを参照してください。",
+                "zh": "请参阅说明书。",
+                "fr": "Veuillez consulter le manuel."
+            }
+        },
+        {
+            "word": "legislator",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "legis (lex)",
+                    "meaning": {
+                        "ko": "법",
+                        "en": "law",
+                        "ja": "法律",
+                        "zh": "法律",
+                        "fr": "loi"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lat (ferre의 과거분사형)",
+                    "meaning": {
+                        "ko": "가져오다, 제안하다",
+                        "en": "brought, proposed",
+                        "ja": "もたらす、提案する",
+                        "zh": "带来、提议",
+                        "fr": "apporter, proposer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "사람",
+                        "en": "person who",
+                        "ja": "人、者",
+                        "zh": "人",
+                        "fr": "personne qui"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법안을 가져와 제안하는 사람' 즉, '입법자', '국회의원'을 의미합니다.",
+                "en": "One who brings and proposes laws; a lawmaker or member of parliament",
+                "ja": "「法律案を持ってきて提案する人」つまり、「立法者」「議員」を意味します。",
+                "zh": "「带来并提议法律案的人」即「立法者」「议员」的意思。",
+                "fr": "Celui qui apporte et propose des projets de loi; c'est-à-dire un « législateur » ou un « parlementaire »."
+            },
+            "example": "The legislator proposed a new bill.",
+            "translation": {
+                "ko": "그 입법자는 새로운 법안을 제안했다.",
+                "ja": "その立法者は新しい法案を提案した。",
+                "zh": "那位立法者提议了一项新法案。",
+                "fr": "Le législateur a proposé un nouveau projet de loi."
+            }
+        },
+        {
+            "word": "infer",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "가져오다",
+                        "en": "to bring",
+                        "ja": "持ってくる",
+                        "zh": "带来",
+                        "fr": "apporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "주어진 사실로부터 결론을 '안으로 이끌어내다'는 의미에서 '추론하다', '추측하다'는 뜻이 되었습니다.",
+                "en": "From given facts, to 'draw conclusion inward' — meaning 'to infer' or 'to deduce'",
+                "ja": "与えられた事実から結論を『内へ導き出す』という意味から、『推論する』『推測する』という意味になりました。",
+                "zh": "从给定的事实中将结论『向内引出』，由此产生了『推论』『推测』的含义。",
+                "fr": "Du sens de 'tirer la conclusion vers l'intérieur' à partir de faits donnés, d'où 'inférer' ou 'déduire'."
+            },
+            "example": "I infer from your smile that you are happy.",
+            "translation": {
+                "ko": "당신의 미소로 보아 당신이 행복하다고 추론합니다.",
+                "ja": "あなたの笑顔から、あなたが幸せだと推論します。",
+                "zh": "从你的微笑，我推断你很幸福。",
+                "fr": "Je déduis de votre sourire que vous êtes heureux."
+            }
+        },
+        {
+            "word": "offer",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "of- (ob-)",
+                    "meaning": {
+                        "ko": "~를 향하여",
+                        "en": "toward",
+                        "ja": "～に向かって",
+                        "zh": "向着",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "가져오다, 나르다",
+                        "en": "to bring, to carry",
+                        "ja": "持ってくる、運ぶ",
+                        "zh": "带来、运送",
+                        "fr": "apporter, porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "상대방을 '향해 무언가를 가져가다'는 의미에서 '제공하다', '제안하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'bringing something toward another person' developed the meanings 'to provide' and 'to propose'.",
+                "ja": "相手に『向かって何かを持ってくる』という意味から、『提供する』『提案する』という意味に発展しました。",
+                "zh": "从'朝向他人带来某物'的意义演变为'提供'和'提议'的含义。",
+                "fr": "Du sens de 'apporter quelque chose vers quelqu'un' s'est développé le sens de 'fournir' et 'proposer'."
+            },
+            "example": "He offered me a job.",
+            "translation": {
+                "ko": "그는 나에게 일자리를 제안했다.",
+                "ja": "彼は私に仕事を提案した。",
+                "zh": "他给我提供了一份工作。",
+                "fr": "Il m'a proposé un emploi."
+            }
+        }
+    ]
+}

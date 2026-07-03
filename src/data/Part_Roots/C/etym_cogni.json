@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "cogni (know) cognition, cognitive, recognize, cognizant, incognito",
+        "origin": "Latin, cognoscere (to get to know)",
+        "meaning": {
+            "ko": "알다",
+            "en": "to know",
+            "ja": "知る",
+            "zh": "知道",
+            "fr": "savoir"
+        }
+    },
+    "words": [
+        {
+            "word": "cognition",
+            "part_of_speech": "",
+            "origin": "Latin, cognitio (a getting to know, knowledge)",
+            "meaning": {
+                "ko": "앎, 지식",
+                "en": "knowing, knowledge",
+                "ja": "認知、知識",
+                "zh": "认知、知识",
+                "fr": "cognition, connaissance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cogni (cognoscere)",
+                    "meaning": {
+                        "ko": "'알다'",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "connaître"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tion",
+                    "meaning": {
+                        "ko": "'~하는 행위, 과정'",
+                        "en": "act or process of doing",
+                        "ja": "~する行為、過程",
+                        "zh": "~的行为、过程",
+                        "fr": "acte, processus de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알게 되는(cogni) 과정'이라는 의미로, 사고, 학습, 기억 등을 포함하는 정신 작용인 '인지'를 뜻합니다.",
+                "en": "The process of coming to know (cogni), referring to cognition as a mental function including thinking, learning, and memory.",
+                "ja": "知るようになる(cogni)過程という意味で、思考、学習、記憶などを含む精神活動としての認知を意味します。",
+                "zh": "意为'变得知道(cogni)的过程'，指作为包括思考、学习、记忆等心理活动的认知。",
+                "fr": "Le processus de connaître (cogni), désignant la cognition comme fonction mentale incluant la pensée, l'apprentissage et la mémoire."
+            },
+            "example": "Memory and learning are parts of cognition.",
+            "translation": {
+                "ko": "기억과 학습은 인지의 일부이다.",
+                "ja": "記憶と学習は認知の一部です。",
+                "zh": "记忆和学习是认知的一部分。",
+                "fr": "La mémoire et l'apprentissage font partie de la cognition."
+            }
+        },
+        {
+            "word": "cognitive",
+            "part_of_speech": "",
+            "origin": "Latin, cognitus (known)",
+            "meaning": {
+                "ko": "알려진",
+                "en": "known or recognized",
+                "ja": "認知に関する",
+                "zh": "与认知有关的",
+                "fr": "relatif à la cognition"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cogni (cognoscere)",
+                    "meaning": {
+                        "ko": "'알다'",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "connaître"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tive",
+                    "meaning": {
+                        "ko": "'~에 관련된'",
+                        "en": "related to or concerning",
+                        "ja": "~に関連した",
+                        "zh": "与~相关的",
+                        "fr": "relatif à ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인지(cognition)에 관련된'이라는 의미로 '인지의'라는 뜻입니다.",
+                "en": "Related to cognition; means of or pertaining to the mental process of knowing",
+                "ja": "認知(cognition)に関連する意味で、認知に関するという意味です",
+                "zh": "与认知(cognition)相关，意为与认知有关的",
+                "fr": "Relatif à la cognition; signifie lié au processus mental de connaissance"
+            },
+            "example": "Cognitive psychology studies how people think and learn.",
+            "translation": {
+                "ko": "인지 심리학은 사람들이 어떻게 생각하고 배우는지를 연구한다.",
+                "ja": "認知心理学は、人々がどのように考え、学ぶかを研究します。",
+                "zh": "认知心理学研究人们如何思考和学习。",
+                "fr": "La psychologie cognitive étudie comment les gens pensent et apprennent."
+            }
+        },
+        {
+            "word": "recognize",
+            "part_of_speech": "",
+            "origin": "Latin, recognoscere (to know again, recall)",
+            "meaning": {
+                "ko": "다시 알다",
+                "en": "to know again",
+                "ja": "認識する",
+                "zh": "认识",
+                "fr": "reconnaître"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cogn (cognoscere)",
+                    "meaning": {
+                        "ko": "'알다'",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "connaître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시(re) 알게 되다(cogn)'는 의미에서, 이전에 알던 것을 '알아보다', '인식하다' 또는 가치 등을 '인정하다'라는 뜻으로 쓰입니다.",
+                "en": "The prefix 're-' combined with 'cognition' means to identify something previously known, recognize/perceive, or acknowledge value/merit.",
+                "ja": "接頭辞『re-』と『認識』の組み合わせで、以前に知っていたものを『識別する』『認識する』または価値などを『認める』という意味で使われます。",
+                "zh": "前缀『re-』与『认知』的结合，表示识别以前知道的东西、『辨认』『认识』或『承认』价值等的含义。",
+                "fr": "Le préfixe 're-' combiné avec 'cognition' signifie identifier quelque chose de connu, reconnaître ou percevoir, ou reconnaître une valeur ou un mérite."
+            },
+            "example": "I didn't recognize you with your new haircut.",
+            "translation": {
+                "ko": "머리를 새로 자르셔서 못 알아봤어요.",
+                "ja": "新しい髪型だったので、あなたを認識できませんでした。",
+                "zh": "你换了新发型，我没有认识到你。",
+                "fr": "Je ne t'ai pas reconnu avec ta nouvelle coupe de cheveux."
+            }
+        },
+        {
+            "word": "cognizant",
+            "part_of_speech": "",
+            "origin": "Old French, conoisant (knowing)",
+            "meaning": {
+                "ko": "알고 있는",
+                "en": "aware of, knowing",
+                "ja": "認識している",
+                "zh": "认识到的",
+                "fr": "conscient de"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cogniz (cognoscere)",
+                    "meaning": {
+                        "ko": "'알다'",
+                        "en": "to know",
+                        "ja": "知る",
+                        "zh": "知道",
+                        "fr": "connaître"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ant",
+                    "meaning": {
+                        "ko": "'~하는 상태인'",
+                        "en": "having the state of being",
+                        "ja": "~する状態である",
+                        "zh": "~的状态",
+                        "fr": "état de ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알고(cogniz) 있는' 상태를 나타내며, (격식) '알고 있는', '인지하고 있는'이라는 뜻입니다.",
+                "en": "Indicates a state of knowing or being aware; formal usage meaning to know or recognize",
+                "ja": "知っている状態を示し、格式的に『認識している』『自覚している』という意味です",
+                "zh": "表示知道或认识的状态；正式用法，意为'了解'或'意识到'",
+                "fr": "Indique un état de savoir ou de conscience; usage formel signifiant connaître ou reconnaître"
+            },
+            "example": "We are cognizant of the potential risks.",
+            "translation": {
+                "ko": "우리는 잠재적 위험을 인지하고 있습니다.",
+                "ja": "私たちは潜在的なリスクを認識しています",
+                "zh": "我们认识到了潜在的风险",
+                "fr": "Nous sommes conscients des risques potentiels"
+            }
+        },
+        {
+            "word": "incognito",
+            "part_of_speech": "",
+            "origin": "Italian, incognito (unknown)",
+            "meaning": {
+                "ko": "알려지지 않은",
+                "en": "unknown or unrecognized",
+                "ja": "正体を隠した",
+                "zh": "身份不明的",
+                "fr": "incognito"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'아닌'",
+                        "en": "not",
+                        "ja": "ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cognito (cognitus)",
+                    "meaning": {
+                        "ko": "'알려진'",
+                        "en": "known",
+                        "ja": "知られた",
+                        "zh": "已知的",
+                        "fr": "connu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알려지지(cognito) 않은(in)' 상태라는 이탈리아어에서 유래하여, '신분을 숨기고', '익명으로'라는 뜻의 부사나 형용사로 쓰입니다.",
+                "en": "From Italian meaning 'unknown identity' or 'disguised'; used as an adverb or adjective meaning 'in disguise' or 'anonymously'",
+                "ja": "イタリア語に由来し、『身分を隠して』『匿名で』という意味の副詞または形容詞として使用されます",
+                "zh": "源自意大利语，意为『隐瞒身份』或『匿名地』，用作副词或形容词",
+                "fr": "Du italien signifiant 'identité inconnue'; utilisé comme adverbe ou adjectif pour dire 'en déguisement' ou 'anonymement'"
+            },
+            "example": "The prince traveled incognito to avoid attracting attention.",
+            "translation": {
+                "ko": "왕자는 사람들의 주의를 끌지 않기 위해 신분을 숨기고 여행했다.",
+                "ja": "王子は注目を避けるために変装して旅をした",
+                "zh": "王子为了避免引起注意，以身份不明的方式旅行",
+                "fr": "Le prince voyageait incognito pour éviter d'attirer l'attention"
+            }
+        }
+    ]
+}

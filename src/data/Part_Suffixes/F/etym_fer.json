@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "fer (carry) aquifer, conifer, ferry, transfer",
+        "origin": "Latin, ferre (to bear, to carry)",
+        "meaning": {
+            "ko": "나르다",
+            "en": "to carry",
+            "ja": "運ぶ",
+            "zh": "携带",
+            "fr": "porter"
+        }
+    },
+    "words": [
+        {
+            "word": "aquifer",
+            "part_of_speech": "",
+            "origin": "Latin, aqua (water) + ferre (to bear)",
+            "meaning": {
+                "ko": "물을 품고 있는 것",
+                "en": "something that holds water",
+                "ja": "地下水を含む地層",
+                "zh": "含水地层",
+                "fr": "couche aquifère"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aqui- (aqua)",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "'품다, 나르다'",
+                        "en": "to bear",
+                        "ja": "運ぶ、含む",
+                        "zh": "承载、含有",
+                        "fr": "porter, contenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지하수를 품고 있는 지층'이라는 의미에서 '대수층'을 뜻합니다.",
+                "en": "A layer of rock or soil that holds groundwater",
+                "ja": "地下水を保持する岩石または土壌層",
+                "zh": "保持地下水的岩石或土壤层",
+                "fr": "Couche de roche ou de sol contenant l'eau souterraine"
+            },
+            "example": "Aquifers are important sources of drinking water.",
+            "translation": {
+                "ko": "대수층은 중요한 식수원이다.",
+                "ja": "帯水層は飲料水の重要な源です。",
+                "zh": "含水层是重要的饮用水源。",
+                "fr": "Les aquifères sont des sources importantes d'eau potable."
+            }
+        },
+        {
+            "word": "conifer",
+            "part_of_speech": "",
+            "origin": "Latin, conus (cone) + ferre (to bear)",
+            "meaning": {
+                "ko": "솔방울을 지닌 것",
+                "en": "having pine cones",
+                "ja": "球果を持つ木",
+                "zh": "球果树",
+                "fr": "arbre à cônes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "coni-",
+                    "meaning": {
+                        "ko": "'솔방울'",
+                        "en": "cone",
+                        "ja": "球果",
+                        "zh": "球果",
+                        "fr": "cône"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "'지닌 것'",
+                        "en": "bearer",
+                        "ja": "持つもの",
+                        "zh": "持有者",
+                        "fr": "porteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'솔방울을 지닌' 나무라는 의미에서 '침엽수'를 뜻합니다.",
+                "en": "A type of tree that bears cone-shaped fruit, referring to coniferous trees",
+                "ja": "球果を持つ木という意味で針葉樹を指します",
+                "zh": "指具有球果的树木，意为针叶树",
+                "fr": "Arbre porteur de cônes, désigne les conifères"
+            },
+            "example": "Pine trees are a type of conifer.",
+            "translation": {
+                "ko": "소나무는 침엽수의 한 종류이다.",
+                "ja": "松の木は針葉樹の一種です",
+                "zh": "松树是一种球果树",
+                "fr": "Les pins sont un type de conifère"
+            }
+        },
+        {
+            "word": "ferry",
+            "part_of_speech": "",
+            "origin": "Old Norse, ferja (to carry)",
+            "meaning": {
+                "ko": "나르다",
+                "en": "to carry or transport",
+                "ja": "運搬船、渡し船",
+                "zh": "渡轮、摆渡船",
+                "fr": "traversier, bac"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer-",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ、運搬する",
+                        "zh": "运送、运输",
+                        "fr": "transporter, porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람이나 차를 강이나 해협 건너편으로 나르는' 배인 '연락선'을 뜻합니다.",
+                "en": "A boat that carries people or cars across a river or strait",
+                "ja": "人や車を川や海峡の向こう岸に運ぶ船",
+                "zh": "将人或车辆运送到河流或海峡另一侧的船",
+                "fr": "Bateau qui transporte les gens ou les voitures de l'autre côté d'un fleuve ou détroit"
+            },
+            "example": "We took a ferry to the island.",
+            "translation": {
+                "ko": "우리는 섬으로 가는 연락선을 탔다.",
+                "ja": "私たちはフェリーで島に行きました。",
+                "zh": "我们乘渡轮去了岛上。",
+                "fr": "Nous avons pris un traversier pour aller à l'île."
+            }
+        },
+        {
+            "word": "transfer",
+            "part_of_speech": "",
+            "origin": "Latin, transferre (to carry across)",
+            "meaning": {
+                "ko": "가로질러 나르다",
+                "en": "to carry across",
+                "ja": "移す、運ぶ",
+                "zh": "转移、运送",
+                "fr": "transférer, porter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "'가로질러'",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横跨",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "携带",
+                        "fr": "porter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 곳에서 다른 곳으로 옮기다'는 뜻입니다.",
+                "en": "Moving something from one place to another",
+                "ja": "ある場所から別の場所へ移す意味です",
+                "zh": "从一个地方移到另一个地方的意思",
+                "fr": "Déplacer quelque chose d'un endroit à un autre"
+            },
+            "example": "I need to transfer some money to another account.",
+            "translation": {
+                "ko": "나는 다른 계좌로 돈을 좀 이체해야 한다.",
+                "ja": "別の口座にお金を移す必要があります",
+                "zh": "我需要把一些钱转到另一个账户",
+                "fr": "Je dois transférer de l'argent sur un autre compte"
+            }
+        }
+    ]
+}

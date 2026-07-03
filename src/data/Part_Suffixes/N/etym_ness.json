@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ness (quality) correctness, helpfulness, wellness",
+        "origin": "Old English, -nes",
+        "meaning": {
+            "ko": "성질",
+            "en": "quality",
+            "ja": "性質",
+            "zh": "性质",
+            "fr": "qualité"
+        }
+    },
+    "words": [
+        {
+            "word": "correctness",
+            "part_of_speech": "",
+            "origin": "Latin, corrigere (to make straight)",
+            "meaning": {
+                "ko": "똑바르게 만들다",
+                "en": "to make straight or right",
+                "ja": "正確さ",
+                "zh": "正确性",
+                "fr": "exactitude"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "correct",
+                    "meaning": {
+                        "ko": "'올바른'",
+                        "en": "right or proper",
+                        "ja": "正しい",
+                        "zh": "正确的",
+                        "fr": "correct"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ness",
+                    "meaning": {
+                        "ko": "'성질'",
+                        "en": "quality or state of",
+                        "ja": "性質",
+                        "zh": "性质",
+                        "fr": "qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'올바른 성질'인 '정확성'을 뜻합니다.",
+                "en": "Means 'accuracy' which is the quality of being correct",
+                "ja": "正しい性質である正確さを意味します",
+                "zh": "意思是正确的性质即准确性",
+                "fr": "Signifie 'exactitude' qui est la qualité d'être correct"
+            },
+            "example": "The correctness of the data is crucial.",
+            "translation": {
+                "ko": "데이터의 정확성은 매우 중요하다.",
+                "ja": "データの正確さは重要です",
+                "zh": "数据的正确性至关重要",
+                "fr": "L'exactitude des données est cruciale"
+            }
+        },
+        {
+            "word": "helpfulness",
+            "part_of_speech": "",
+            "origin": "Old English, helpan (to help)",
+            "meaning": {
+                "ko": "돕다",
+                "en": "to help",
+                "ja": "役に立つ性質",
+                "zh": "有帮助的性质",
+                "fr": "qualité d'être utile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "helpful",
+                    "meaning": {
+                        "ko": "'도움이 되는'",
+                        "en": "being helpful or useful",
+                        "ja": "役に立つ",
+                        "zh": "有帮助的",
+                        "fr": "utile"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ness",
+                    "meaning": {
+                        "ko": "'성질'",
+                        "en": "quality or state of",
+                        "ja": "性質",
+                        "zh": "性质",
+                        "fr": "qualité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'도움이 되는 성질'인 '유용함'을 뜻합니다.",
+                "en": "Means usefulness or the quality of being helpful",
+                "ja": "役に立つ性質である有用さを意味します",
+                "zh": "指有帮助的性质，即有用性",
+                "fr": "Signifie l'utilité ou la qualité d'être utile"
+            },
+            "example": "I appreciate your helpfulness.",
+            "translation": {
+                "ko": "당신의 도움에 감사드립니다.",
+                "ja": "あなたの協力的な態度に感謝します",
+                "zh": "我感谢你的帮助",
+                "fr": "J'apprécie votre utilité"
+            }
+        },
+        {
+            "word": "wellness",
+            "part_of_speech": "",
+            "origin": "Old English, wel (well)",
+            "meaning": {
+                "ko": "잘, 건강한",
+                "en": "well and healthy",
+                "ja": "健康で良い状態",
+                "zh": "健康良好的状态",
+                "fr": "état de bonne santé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "well",
+                    "meaning": {
+                        "ko": "'건강한'",
+                        "en": "healthy",
+                        "ja": "健康な",
+                        "zh": "健康的",
+                        "fr": "sain"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ness",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신체적, 정신적으로 건강한 상태'를 뜻합니다.",
+                "en": "Physical and mental health state",
+                "ja": "身体的・精神的に健康な状態",
+                "zh": "身体和精神健康的状态",
+                "fr": "État de santé physique et mentale"
+            },
+            "example": "The company promotes employee wellness.",
+            "translation": {
+                "ko": "그 회사는 직원들의 건강을 증진시킨다.",
+                "ja": "ウェルネス",
+                "zh": "健康保健",
+                "fr": "bien-être"
+            }
+        }
+    ]
+}

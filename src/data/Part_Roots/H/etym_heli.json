@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "heli (spiral) helix, helicopter",
+        "origin": "Greek, helix (spiral)",
+        "meaning": {
+            "ko": "나선",
+            "en": "spiral",
+            "ja": "螺旋",
+            "zh": "螺旋",
+            "fr": "spirale"
+        }
+    },
+    "words": [
+        {
+            "word": "helix",
+            "part_of_speech": "",
+            "origin": "Greek, helix (spiral)",
+            "meaning": {
+                "ko": "나선",
+                "en": "spiral",
+                "ja": "螺旋",
+                "zh": "螺旋",
+                "fr": "hélice"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "heli-",
+                    "meaning": {
+                        "ko": "'나선'",
+                        "en": "spiral",
+                        "ja": "螺旋",
+                        "zh": "螺旋",
+                        "fr": "spirale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나선형'을 뜻합니다.",
+                "en": "Refers to a helical shape",
+                "ja": "螺旋形を意味します",
+                "zh": "表示螺旋形",
+                "fr": "Signifie une forme hélicoïdale"
+            },
+            "example": "The DNA molecule has a double helix structure.",
+            "translation": {
+                "ko": "DNA 분자는 이중 나선 구조를 가지고 있다.",
+                "ja": "DNA分子は二重螺旋構造を持っています",
+                "zh": "DNA分子具有双螺旋结构",
+                "fr": "La molécule d'ADN a une structure en double hélice"
+            }
+        },
+        {
+            "word": "helicopter",
+            "part_of_speech": "",
+            "origin": "Greek, helix (spiral) + pteron (wing)",
+            "meaning": {
+                "ko": "나선 날개",
+                "en": "helical blade",
+                "ja": "回転する翼",
+                "zh": "旋转的翼",
+                "fr": "aile rotative"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "heli-",
+                    "meaning": {
+                        "ko": "'나선'",
+                        "en": "spiral",
+                        "ja": "螺旋形",
+                        "zh": "螺旋形",
+                        "fr": "spirale"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "copter",
+                    "meaning": {
+                        "ko": "'날개'",
+                        "en": "wing",
+                        "ja": "翼",
+                        "zh": "翼",
+                        "fr": "aile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나선형으로 회전하는 날개'를 가진 항공기라는 의미에서 '헬리콥터'를 뜻합니다.",
+                "en": "An aircraft with helical rotating blades",
+                "ja": "螺旋状に回転する翼を持つ航空機",
+                "zh": "具有螺旋状旋转翼的飞行器",
+                "fr": "Un aéronef à pales tournantes en spirale"
+            },
+            "example": "The helicopter landed on the roof of the hospital.",
+            "translation": {
+                "ko": "헬리콥터가 병원 옥상에 착륙했다.",
+                "ja": "ヘリコプターは病院の屋根に着陸した",
+                "zh": "直升机降落在医院的屋顶上",
+                "fr": "L'hélicoptère s'est posé sur le toit de l'hôpital"
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "placeo (pacify) placate, placebo, placidity",
+        "origin": "Latin, placere (to please)",
+        "meaning": {
+            "ko": "기쁘게 하다",
+            "en": "to please",
+            "ja": "喜ばせる",
+            "zh": "使高兴",
+            "fr": "plaire"
+        }
+    },
+    "words": [
+        {
+            "word": "placate",
+            "part_of_speech": "",
+            "origin": "Latin, placare (to appease, to calm)",
+            "meaning": {
+                "ko": "달래다, 진정시키다",
+                "en": "to soothe or pacify",
+                "ja": "なだめる、鎮める",
+                "zh": "安抚、平息",
+                "fr": "apaiser, calmer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plac-",
+                    "meaning": {
+                        "ko": "'달래다'",
+                        "en": "to appease",
+                        "ja": "なだめる",
+                        "zh": "安抚",
+                        "fr": "apaiser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'화난 사람을 달래어 진정시키다'는 뜻입니다.",
+                "en": "It means to appease and calm an angry person",
+                "ja": "怒った人をなだめて落ち着かせることを意味します",
+                "zh": "意思是安抚和平息一个生气的人",
+                "fr": "Cela signifie apaiser et calmer une personne en colère"
+            },
+            "example": "He tried to placate the angry customer.",
+            "translation": {
+                "ko": "그는 화난 고객을 달래려고 노력했다.",
+                "ja": "彼は怒ったお客さんをなだめようとしました",
+                "zh": "他试图安抚那位愤怒的顾客",
+                "fr": "Il a essayé d'apaiser le client en colère"
+            }
+        },
+        {
+            "word": "placebo",
+            "part_of_speech": "",
+            "origin": "Latin, placebo (I shall please)",
+            "meaning": {
+                "ko": "나는 기쁘게 할 것이다",
+                "en": "I will gladly do it",
+                "ja": "喜ばせるもの",
+                "zh": "令人愉悦的东西",
+                "fr": "chose qui plaît"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plac-",
+                    "meaning": {
+                        "ko": "'기쁘게 하다'",
+                        "en": "to please",
+                        "ja": "喜ばせる",
+                        "zh": "令人高兴",
+                        "fr": "plaire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'환자를 기쁘게 하기 위해 주는' 약효가 없는 가짜 약, 즉 '위약'을 뜻합니다.",
+                "en": "A fake drug without medicinal effect given to please patients, meaning a dummy pill or placebo.",
+                "ja": "患者を喜ばせるために与えられる、効き目のない偽の薬、つまり「プラセボ」を意味します。",
+                "zh": "为了安慰患者而给予的无药效的假药，即所谓的\"安慰剂\"。",
+                "fr": "Un faux médicament sans effet thérapeutique donné pour rassurer les patients, c'est-à-dire un placebo."
+            },
+            "example": "The new drug was tested against a placebo.",
+            "translation": {
+                "ko": "그 신약은 위약과 비교하여 시험되었다.",
+                "ja": "プラセボ",
+                "zh": "安慰剂",
+                "fr": "placebo"
+            }
+        },
+        {
+            "word": "placidity",
+            "part_of_speech": "",
+            "origin": "Latin, placiditas (calmness)",
+            "meaning": {
+                "ko": "평온함",
+                "en": "state of being calm",
+                "ja": "穏やかさ",
+                "zh": "平静",
+                "fr": "placidité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "placid-",
+                    "meaning": {
+                        "ko": "'평온한'",
+                        "en": "calm and peaceful",
+                        "ja": "穏やかな",
+                        "zh": "平静的",
+                        "fr": "calme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마음이 평온한 상태'를 의미하여 '평온', '차분함'을 뜻합니다.",
+                "en": "State of being calm and peaceful",
+                "ja": "心が穏やかな状態",
+                "zh": "心境平静安宁的状态",
+                "fr": "État d'esprit calme et paisible"
+            },
+            "example": "She has a natural placidity of temperament.",
+            "translation": {
+                "ko": "그녀는 천성적으로 기질이 평온하다.",
+                "ja": "彼女は生まれながらの穏やかな気質を持っている。",
+                "zh": "她天生具有平静的气质。",
+                "fr": "Elle a une placidité naturelle de tempérament."
+            }
+        }
+    ]
+}

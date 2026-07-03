@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "stigma (stain) astigmatism, stigmatic, stigmatize",
+        "origin": "Greek, stigma (a mark, a brand)",
+        "meaning": {
+            "ko": "표시, 낙인",
+            "en": "a mark",
+            "ja": "印、しるし",
+            "zh": "标记、烙印",
+            "fr": "marque, empreinte"
+        }
+    },
+    "words": [
+        {
+            "word": "astigmatism",
+            "part_of_speech": "",
+            "origin": "Greek, a- (not) + stigma (a point)",
+            "meaning": {
+                "ko": "점이 아님",
+                "en": "not a point",
+                "ja": "点でない",
+                "zh": "非点",
+                "fr": "non-point"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "not, without",
+                        "ja": "ない、なし",
+                        "zh": "没有、无",
+                        "fr": "sans, sans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stigma-",
+                    "meaning": {
+                        "ko": "'점'",
+                        "en": "point",
+                        "ja": "点",
+                        "zh": "点",
+                        "fr": "point"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛이 한 점에 제대로 모이지 못하는' 눈의 굴절 이상인 '난시'를 뜻합니다.",
+                "en": "Astigmatism refers to refractive error of the eye where light does not focus properly at a single point, causing blurry vision",
+                "ja": "光が一つの点に正しく焦点を合わせられない眼の屈折異常を意味します",
+                "zh": "指光线无法正确聚焦在一个点上导致的眼睛屈光不正",
+                "fr": "Fait référence à un défaut de réfraction oculaire où la lumière ne converge pas correctement en un seul point"
+            },
+            "example": "Astigmatism can cause blurry vision.",
+            "translation": {
+                "ko": "난시는 흐릿한 시야를 유발할 수 있다.",
+                "ja": "乱視",
+                "zh": "散光",
+                "fr": "astigmatisme"
+            }
+        },
+        {
+            "word": "stigmatic",
+            "part_of_speech": "",
+            "origin": "Greek, stigma (a mark)",
+            "meaning": {
+                "ko": "표시, 낙인",
+                "en": "mark, stigma",
+                "ja": "汚名、烙印",
+                "zh": "污名、烙印",
+                "fr": "marque honteuse, stigmate"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stigma-",
+                    "meaning": {
+                        "ko": "'낙인'",
+                        "en": "stigma",
+                        "ja": "烙印",
+                        "zh": "烙印",
+                        "fr": "stigmate"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'오명의', '치욕적인'이라는 뜻입니다.",
+                "en": "Means shameful or disgraceful",
+                "ja": "恥ずべき、不名誉な意味です",
+                "zh": "意为可耻的、不光彩的",
+                "fr": "Signifie honteux ou déshonorant"
+            },
+            "example": "The crime left a stigmatic mark on his family.",
+            "translation": {
+                "ko": "그 범죄는 그의 가족에게 치욕적인 낙인을 남겼다.",
+                "ja": "その犯罪は彼の家族に汚名の烙印を残した。",
+                "zh": "那次犯罪在他的家族上留下了污名的烙印。",
+                "fr": "Le crime a laissé une marque honteuse sur sa famille."
+            }
+        },
+        {
+            "word": "stigmatize",
+            "part_of_speech": "",
+            "origin": "Greek, stigmatizein (to brand)",
+            "meaning": {
+                "ko": "낙인을 찍다",
+                "en": "to brand or mark with stigma",
+                "ja": "烙印を押す",
+                "zh": "打上烙印",
+                "fr": "stigmatiser"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stigma-",
+                    "meaning": {
+                        "ko": "'낙인'",
+                        "en": "stigma",
+                        "ja": "烙印",
+                        "zh": "烙印",
+                        "fr": "stigmate"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사회적으로 불명예스러운 낙인을 찍다'는 뜻입니다.",
+                "en": "It means to mark someone with social disgrace or shame",
+                "ja": "社会的に不名誉な烙印を押すという意味です",
+                "zh": "指对某人进行社会上的不名誉标签",
+                "fr": "Cela signifie marquer quelqu'un de déshonneur social"
+            },
+            "example": "People with mental health problems are often stigmatized.",
+            "translation": {
+                "ko": "정신 건강 문제를 가진 사람들은 종종 낙인찍힌다.",
+                "ja": "精神健康の問題を持つ人々はしばしば烙印を押される",
+                "zh": "患有心理健康问题的人经常被贬低",
+                "fr": "Les personnes souffrant de problèmes de santé mentale sont souvent stigmatisées"
+            }
+        }
+    ]
+}

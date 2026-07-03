@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "angio (vessel) angiogram, angioplasty",
+        "origin": "Greek, angeion (vessel, container)",
+        "meaning": {
+            "ko": "관, 용기",
+            "en": "vessel",
+            "ja": "容器",
+            "zh": "容器",
+            "fr": "récipient"
+        }
+    },
+    "words": [
+        {
+            "word": "angiogram",
+            "part_of_speech": "",
+            "origin": "Greek, angeion (vessel) + gramma (thing written)",
+            "meaning": {
+                "ko": "혈관 기록",
+                "en": "vessel record",
+                "ja": "血管記録",
+                "zh": "血管记录",
+                "fr": "enregistrement vasculaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "angio- (angeion)",
+                    "meaning": {
+                        "ko": "'혈관'",
+                        "en": "vessel",
+                        "ja": "血管",
+                        "zh": "血管",
+                        "fr": "vaisseau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "'기록'",
+                        "en": "record",
+                        "ja": "記録",
+                        "zh": "记录",
+                        "fr": "enregistrement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈관(angio)에 대한 기록(gram)'이라는 의미로, X선 촬영을 통해 혈관을 검사하는 '혈관 조영술' 또는 그 결과물을 뜻합니다.",
+                "en": "An angiogram is a medical imaging technique where X-rays are used to examine blood vessels, or the resulting image/record of this examination.",
+                "ja": "血管(angio)に対する記録(gram)という意味で、X線撮影を通じて血管を検査する血管造影術またはその結果物を意味します。",
+                "zh": "血管(angio)的记录(gram)之意，通过X射线摄影检查血管的血管造影术或其结果。",
+                "fr": "Un angiogramme est une technique d'imagerie médicale utilisant les rayons X pour examiner les vaisseaux sanguins, ou l'image/enregistrement résultant de cet examen."
+            },
+            "example": "An angiogram can help doctors find blockages in the arteries.",
+            "translation": {
+                "ko": "혈관 조영술은 의사들이 동맥의 막힌 부분을 찾는 데 도움을 줄 수 있다.",
+                "ja": "アンジオグラムは、X線撮影を通じて血管を検査する血管造影術またはその結果物です。",
+                "zh": "血管造影是通过X射线摄影检查血管的医学成像技术或其结果。",
+                "fr": "Un angiogramme est une technique d'imagerie médicale ou son résultat pour examiner les vaisseaux sanguins par rayons X."
+            }
+        },
+        {
+            "word": "angioplasty",
+            "part_of_speech": "",
+            "origin": "Greek, angeion (vessel) + plastos (formed, molded)",
+            "meaning": {
+                "ko": "혈관 성형",
+                "en": "vessel molding",
+                "ja": "血管形成術",
+                "zh": "血管成形术",
+                "fr": "angioplastie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "angio- (angeion)",
+                    "meaning": {
+                        "ko": "'혈관'",
+                        "en": "vessel",
+                        "ja": "血管",
+                        "zh": "血管",
+                        "fr": "vaisseau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plasty (plastos)",
+                    "meaning": {
+                        "ko": "'성형'",
+                        "en": "molding, surgical repair",
+                        "ja": "形成、手術修復",
+                        "zh": "成形、外科修复",
+                        "fr": "modelage, réparation chirurgicale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "좁아지거나 막힌 '혈관(angio)을 외과적으로 바로잡는(plasty) 시술'이라는 의미에서 '혈관 성형술'을 뜻합니다.",
+                "en": "A surgical procedure that corrects narrowed or blocked blood vessels (angio) through surgical repair (plasty), literally meaning 'vessel molding surgery'",
+                "ja": "狭くなったり詰まったりした血管(angio)を外科的に修正する(plasty)手術を意味し、文字通り血管形成術という意味です",
+                "zh": "对狭窄或堵塞的血管(angio)进行外科修复(plasty)的手术，字面意思为血管成形术",
+                "fr": "Intervention chirurgicale qui corrige les vaisseaux sanguins rétrécis ou obstrués (angio) par réparation chirurgicale (plasty), signifiant littéralement chirurgie de modelage vasculaire"
+            },
+            "example": "The patient underwent an angioplasty to open a blocked coronary artery.",
+            "translation": {
+                "ko": "그 환자는 막힌 관상 동맥을 뚫기 위해 혈관 성형술을 받았다.",
+                "ja": "その患者は、詰まった冠動脈を開くために血管形成術を受けた",
+                "zh": "该患者接受了血管成形术以打开堵塞的冠状动脉",
+                "fr": "Le patient a subi une angioplastie pour ouvrir une artère coronaire obstruée"
+            }
+        }
+    ]
+}

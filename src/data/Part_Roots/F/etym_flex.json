@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "flex (bend) circumflex, flexible, flexor",
+        "origin": "Latin, flectere, flexus (to bend)",
+        "meaning": {
+            "ko": "구부리다",
+            "en": "to bend",
+            "ja": "曲げる",
+            "zh": "弯曲",
+            "fr": "plier"
+        }
+    },
+    "words": [
+        {
+            "word": "circumflex",
+            "part_of_speech": "",
+            "origin": "Latin, circumflexus (bent around)",
+            "meaning": {
+                "ko": "주위로 구부러진",
+                "en": "bent around",
+                "ja": "周囲に曲がった記号",
+                "zh": "周围弯曲的符号",
+                "fr": "signe courbé autour"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "circum-",
+                    "meaning": {
+                        "ko": "'주위에'",
+                        "en": "around",
+                        "ja": "周囲に",
+                        "zh": "周围",
+                        "fr": "autour"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flex",
+                    "meaning": {
+                        "ko": "'구부리다'",
+                        "en": "to bend",
+                        "ja": "曲げる",
+                        "zh": "弯曲",
+                        "fr": "courber"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주위로 구부러진' 모양의 부호라는 의미에서, 프랑스어 등에서 쓰이는 '곡절 부호(^)'를 뜻합니다.",
+                "en": "This refers to the circumflex accent (^) used in French and other languages, based on its shape of being bent around.",
+                "ja": "フランス語などで使われる、周囲に曲がった形の抑音符号(^)を意味しています。",
+                "zh": "指的是法语等语言中使用的、周围弯曲形状的音调符号(^)。",
+                "fr": "Il s'agit de l'accent circonflexe (^) utilisé en français et dans d'autres langues, basé sur sa forme courbée."
+            },
+            "example": "The word \"château\" has a circumflex over the \"a\".",
+            "translation": {
+                "ko": "\"château\"라는 단어의 \"a\" 위에는 곡절 부호가 있다.",
+                "ja": "単語'château'の'a'の上に抑音符号があります。",
+                "zh": "单词'château'中的'a'上面有一个音调符号。",
+                "fr": "Le mot 'château' a un accent circonflexe sur le 'a'."
+            }
+        },
+        {
+            "word": "flexible",
+            "part_of_speech": "",
+            "origin": "Latin, flexibilis (that can be bent)",
+            "meaning": {
+                "ko": "구부릴 수 있는",
+                "en": "able to be bent",
+                "ja": "曲げられる",
+                "zh": "可弯曲的",
+                "fr": "flexible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flex-",
+                    "meaning": {
+                        "ko": "'구부리다'",
+                        "en": "to bend",
+                        "ja": "曲げる",
+                        "zh": "弯曲",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘 구부러지는'이라는 의미에서 '유연한', '융통성 있는'이라는 뜻입니다.",
+                "en": "From the meaning of 'bending easily' to 'adaptable' and 'versatile'",
+                "ja": "よく曲がるという意味から、適応性がある、融通性があるという意味へ",
+                "zh": "从容易弯曲的含义扩展到适应性强、通融的含义",
+                "fr": "Du sens de 'plier facilement' au sens d'adaptable et polyvalent"
+            },
+            "example": "This material is very flexible.",
+            "translation": {
+                "ko": "이 소재는 매우 유연하다.",
+                "ja": "この素材はとても柔軟です。",
+                "zh": "这种材料非常灵活。",
+                "fr": "Ce matériau est très flexible."
+            }
+        },
+        {
+            "word": "flexor",
+            "part_of_speech": "",
+            "origin": "Latin, flectere (to bend)",
+            "meaning": {
+                "ko": "구부리다",
+                "en": "to bend or flex",
+                "ja": "曲げる筋肉",
+                "zh": "弯曲肌肉",
+                "fr": "muscle fléchisseur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flex-",
+                    "meaning": {
+                        "ko": "'구부리다'",
+                        "en": "to bend",
+                        "ja": "曲げる",
+                        "zh": "弯曲",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'관절을 구부리는 근육'이라는 의미에서 '굴근'을 뜻합니다.",
+                "en": "A muscle that bends a joint",
+                "ja": "関節を曲げる筋肉",
+                "zh": "弯曲关节的肌肉",
+                "fr": "muscle qui plie une articulation"
+            },
+            "example": "The biceps is a flexor muscle.",
+            "translation": {
+                "ko": "이두근은 굴근이다.",
+                "ja": "二頭筋は屈筋です。",
+                "zh": "二头肌是弯曲肌。",
+                "fr": "Le biceps est un muscle fléchisseur."
+            }
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "root_info": {
+        "roots": "nov: new",
+        "origin": "Latin, novus",
+        "meaning": {
+            "ko": "새로운",
+            "en": "new",
+            "ja": "新しい",
+            "zh": "新的",
+            "fr": "nouveau"
+        }
+    },
+    "words": [
+        {
+            "word": "innovate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nov",
+                    "meaning": {
+                        "ko": "새로운",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "동사형 어미",
+                        "en": "verb forming suffix",
+                        "ja": "動詞化接尾辞",
+                        "zh": "动词化后缀",
+                        "fr": "suffixe verbal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새로운 것을 안으로 들여오다'는 의미에서 '혁신하다', '쇄신하다'는 뜻입니다.",
+                "en": "The meaning derives from bringing something new inward, meaning to revolutionize or reform",
+                "ja": "新しいものを中に取り入れるという意味から、革新する、刷新するという意味です",
+                "zh": "从将新事物引入内部的意思演变而来，意为革新、改革",
+                "fr": "Le sens vient de l'apport de quelque chose de nouveau vers l'intérieur, signifiant révolutionner ou réformer"
+            },
+            "example": "The company continues to innovate.",
+            "translation": {
+                "ko": "그 회사는 계속해서 혁신하고 있다.",
+                "ja": "革新する",
+                "zh": "创新",
+                "fr": "innover"
+            }
+        },
+        {
+            "word": "renovation",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nov",
+                    "meaning": {
+                        "ko": "새로운",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 새롭게 만드는 것'이라는 의미에서 건물 등의 '수리', '보수', '혁신'을 뜻합니다.",
+                "en": "From the concept of 'making anew again,' it means repair, restoration, or improvement of buildings and structures.",
+                "ja": "「もう一度新しく作ること」という概念から、建物などの「修理」「修復」「改善」を意味します。",
+                "zh": "从「重新创新」的概念出发，指建筑物等的「修缮」、「翻新」或「改革」。",
+                "fr": "Du concept de « refaire à nouveau », il signifie la réparation, la restauration ou l'amélioration de bâtiments et de structures."
+            },
+            "example": "The building is closed for renovation.",
+            "translation": {
+                "ko": "그 건물은 보수 공사로 폐쇄되었다.",
+                "ja": "その建物は改修工事のため閉鎖されている。",
+                "zh": "该建筑因翻新工程而关闭。",
+                "fr": "Le bâtiment est fermé pour rénovation."
+            }
+        },
+        {
+            "word": "novice",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nov",
+                    "meaning": {
+                        "ko": "새로운",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ice",
+                    "meaning": {
+                        "ko": "사람",
+                        "en": "person",
+                        "ja": "人",
+                        "zh": "人",
+                        "fr": "personne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "어떤 분야에 '새로 들어온 사람'이라는 의미에서 '초심자', '신출내기'를 뜻합니다.",
+                "en": "A person newly entering a field; a beginner or inexperienced person.",
+                "ja": "ある分野に新しく入った人という意味で、初心者や未熟者を意味します。",
+                "zh": "指新进入某领域的人，意思是初学者或缺乏经验的人。",
+                "fr": "Une personne nouvellement entrée dans un domaine; signifie débutant ou inexpérimenté."
+            },
+            "example": "He is a novice at playing chess.",
+            "translation": {
+                "ko": "그는 체스를 두는 데 초심자이다.",
+                "ja": "彼はチェスをするのは初心者です。",
+                "zh": "他是下棋的初学者。",
+                "fr": "Il est novice au jeu d'échecs."
+            }
+        },
+        {
+            "word": "novelty",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "novel (novus)",
+                    "meaning": {
+                        "ko": "새로운",
+                        "en": "new",
+                        "ja": "新しい",
+                        "zh": "新的",
+                        "fr": "nouveau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ty",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새로운 것' 또는 '새로운 성질'이라는 의미에서 '참신함', '진기함'을 뜻합니다.",
+                "en": "From 'new thing' or 'new quality,' meaning freshness or originality.",
+                "ja": "「新しいもの」または「新しい性質」から、「新鮮さ」や「珍しさ」を意味します。",
+                "zh": "从「新的东西」或「新的特性」衍生，表示「新颖」或「奇特」的意思。",
+                "fr": "De « chose nouvelle » ou « qualité nouvelle », signifiant fraîcheur ou originalité."
+            },
+            "example": "The novelty of the new toy soon wore off.",
+            "translation": {
+                "ko": "그 새 장난감의 신기함은 곧 사라졌다.",
+                "ja": "その新しいおもちゃの珍しさはすぐに薄れた。",
+                "zh": "那个新玩具的新奇感很快就消退了。",
+                "fr": "La nouveauté du nouveau jouet a vite disparu."
+            }
+        }
+    ]
+}

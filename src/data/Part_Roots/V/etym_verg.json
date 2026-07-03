@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "verg (incline) converge, diverge, verge",
+        "origin": "Latin, vergere (to bend, to turn, to incline)",
+        "meaning": {
+            "ko": "기울다",
+            "en": "to incline",
+            "ja": "傾く",
+            "zh": "倾斜",
+            "fr": "incliner"
+        }
+    },
+    "words": [
+        {
+            "word": "converge",
+            "part_of_speech": "",
+            "origin": "Latin, convergere (to incline together)",
+            "meaning": {
+                "ko": "함께 기울다",
+                "en": "to lean together",
+                "ja": "一点に向かって集まる",
+                "zh": "汇聚、聚合",
+                "fr": "converger, se réunir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble, avec"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verge",
+                    "meaning": {
+                        "ko": "'기울다'",
+                        "en": "to incline",
+                        "ja": "傾く",
+                        "zh": "倾斜、倾向",
+                        "fr": "s'incliner, pencher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 선이나 길이 한 점을 향해 함께 기울다'는 의미에서 '모이다', '수렴하다'라는 뜻입니다.",
+                "en": "Multiple lines or paths incline together toward one point, meaning to gather or converge",
+                "ja": "複数の線や道が一つの点に向かって一緒に傾くという意味で、集まる、収束するという意味です",
+                "zh": "多条线或路径一起倾向于一点，表示汇聚、收敛的意思",
+                "fr": "Plusieurs lignes ou chemins s'inclinent ensemble vers un point, signifiant se rassembler ou converger"
+            },
+            "example": "The two roads converge at the town square.",
+            "translation": {
+                "ko": "두 길은 마을 광장에서 만난다.",
+                "ja": "2本の道は町の広場で収束する",
+                "zh": "两条道路在城镇广场汇聚",
+                "fr": "Les deux routes convergent sur la place de la ville"
+            }
+        },
+        {
+            "word": "diverge",
+            "part_of_speech": "",
+            "origin": "Latin, divergere (to incline apart)",
+            "meaning": {
+                "ko": "떨어져 기울다",
+                "en": "to lean away",
+                "ja": "分かれて傾く",
+                "zh": "分开倾斜",
+                "fr": "diverger"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "apart",
+                        "ja": "離れて",
+                        "zh": "分开",
+                        "fr": "à part"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verge",
+                    "meaning": {
+                        "ko": "'기울다'",
+                        "en": "to incline",
+                        "ja": "傾く",
+                        "zh": "倾斜",
+                        "fr": "incliner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 점에서 서로 다른 방향으로 기울어지다'는 의미에서 '갈라지다'라는 뜻입니다.",
+                "en": "From one point, inclines in different directions, meaning to split or branch apart",
+                "ja": "一点から互いに異なる方向に傾く意味で、分岐する",
+                "zh": "从一点出发，向不同方向倾斜的意思，表示分开",
+                "fr": "D'un point, s'incline dans différentes directions, signifie se diviser"
+            },
+            "example": "Their opinions diverged on the issue.",
+            "translation": {
+                "ko": "그 문제에 대한 그들의 의견은 갈렸다.",
+                "ja": "彼らの意見はその問題について分かれた",
+                "zh": "他们在这个问题上的意见分歧",
+                "fr": "Leurs opinions ont divergé sur la question"
+            }
+        },
+        {
+            "word": "verge",
+            "part_of_speech": "",
+            "origin": "Latin, virga (a rod, a staff)",
+            "meaning": {
+                "ko": "막대기",
+                "en": "rod or stick",
+                "ja": "縁、端、寸前",
+                "zh": "边缘、边界、即将",
+                "fr": "bord, limite, point de"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "verg-",
+                    "meaning": {
+                        "ko": "'막대기, 가장자리'",
+                        "en": "rod or edge",
+                        "ja": "棒、端、境界",
+                        "zh": "棍子、边缘、边界",
+                        "fr": "bâton, bord, limite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'길의 가장자리에 있는 경계'라는 의미에서 '가장자리', '경계'를 뜻하며, 동사로는 '~에 가깝다'는 뜻입니다. (incline의 vergere와 어원적으로 연관됨)",
+                "en": "From the sense of boundary at the edge of a road, meaning edge or boundary; as a verb means to be close to. Etymologically related to vergere (incline).",
+                "ja": "道路の端にある境界という意味から、端、境界を意味し、動詞では～に近いという意味です。vergere（傾く）と語源的に関連しています。",
+                "zh": "从道路边缘的边界义引申，表示边缘、边界；作为动词表示接近。与vergere（倾斜）在语源上相关。",
+                "fr": "Du sens de limite au bord d'une route, signifiant bord ou limite; en tant que verbe signifie être proche. Étymologiquement lié à vergere (pencher)."
+            },
+            "example": "He was on the verge of tears.",
+            "translation": {
+                "ko": "그는 울기 직전이었다.",
+                "ja": "彼は涙ぐむ寸前だった。",
+                "zh": "他差点哭了。",
+                "fr": "Il était au bord des larmes."
+            }
+        }
+    ]
+}

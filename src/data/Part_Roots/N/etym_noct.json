@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "noct (night) nocturnal, nocturne, noctambulism",
+        "origin": "Latin, nox, noctis (night)",
+        "meaning": {
+            "ko": "밤",
+            "en": "night",
+            "ja": "夜",
+            "zh": "夜",
+            "fr": "nuit"
+        }
+    },
+    "words": [
+        {
+            "word": "nocturnal",
+            "part_of_speech": "",
+            "origin": "Latin, nocturnus (of the night)",
+            "meaning": {
+                "ko": "밤의",
+                "en": "of the night",
+                "ja": "夜間の",
+                "zh": "夜间的",
+                "fr": "nocturne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "noct-",
+                    "meaning": {
+                        "ko": "'밤'",
+                        "en": "night",
+                        "ja": "夜",
+                        "zh": "夜晚",
+                        "fr": "nuit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밤에 활동하는'이라는 의미에서 '야행성의'라는 뜻입니다.",
+                "en": "Meaning 'active at night' or 'nocturnal'",
+                "ja": "夜間に活動する意味で夜行性の",
+                "zh": "在夜间活动的意思，表示夜行性的",
+                "fr": "Signifiant 'actif la nuit' ou 'qui a des habitudes nocturnes'"
+            },
+            "example": "Owls are nocturnal birds.",
+            "translation": {
+                "ko": "올빼미는 야행성 새이다.",
+                "ja": "フクロウは夜行性の鳥です。",
+                "zh": "猫头鹰是夜行性的鸟。",
+                "fr": "Les hiboux sont des oiseaux nocturnes."
+            }
+        },
+        {
+            "word": "nocturne",
+            "part_of_speech": "",
+            "origin": "Latin, nocturnus (of the night)",
+            "meaning": {
+                "ko": "밤의",
+                "en": "of the night",
+                "ja": "夜曲",
+                "zh": "夜曲",
+                "fr": "nocturne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "noct-",
+                    "meaning": {
+                        "ko": "'밤'",
+                        "en": "night",
+                        "ja": "夜",
+                        "zh": "夜晚",
+                        "fr": "nuit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밤의 조용하고 몽환적인 분위기를 표현한' 음악인 '야상곡'을 뜻합니다.",
+                "en": "A musical piece expressing the quiet and dreamy atmosphere of night, also called a nocturne.",
+                "ja": "夜の静かで幻想的な雰囲気を表現した音楽である夜曲を意味します。",
+                "zh": "表达夜晚安静而梦幻般氛围的音乐作品，也称为夜曲。",
+                "fr": "Une pièce musicale exprimant l'atmosphère calme et rêveuse de la nuit, appelée aussi nocturne."
+            },
+            "example": "Chopin's nocturnes are famous for their beauty.",
+            "translation": {
+                "ko": "쇼팽의 야상곡은 그 아름다움으로 유명하다.",
+                "ja": "ショパンの夜曲は美しさで有名です。",
+                "zh": "肖邦的夜曲以其美妙而闻名。",
+                "fr": "Les nocturnes de Chopin sont célèbres pour leur beauté."
+            }
+        },
+        {
+            "word": "noctambulism",
+            "part_of_speech": "",
+            "origin": "Latin, nox (night) + ambulare (to walk)",
+            "meaning": {
+                "ko": "밤에 걷기",
+                "en": "walking at night",
+                "ja": "夜間の歩行",
+                "zh": "夜间行走",
+                "fr": "marche nocturne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "noct-",
+                    "meaning": {
+                        "ko": "'밤'",
+                        "en": "night",
+                        "ja": "夜",
+                        "zh": "夜晚",
+                        "fr": "nuit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ambul-",
+                    "meaning": {
+                        "ko": "'걷다'",
+                        "en": "to walk",
+                        "ja": "歩く",
+                        "zh": "行走",
+                        "fr": "marcher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밤에 잠든 상태에서 걸어 다니는' 증상인 '몽유병'을 뜻합니다.",
+                "en": "Noctambulism is another term for sleepwalking.",
+                "ja": "夜間に睡眠状態で歩き回る症状である'夢遊病'を意味します。",
+                "zh": "指在睡眠状态下在夜间行走的症状，即'梦游症'。",
+                "fr": "Terme désignant le somnambulisme, symptôme de marche pendant le sommeil la nuit."
+            },
+            "example": "Noctambulism is another term for sleepwalking.",
+            "translation": {
+                "ko": "야간 보행증은 몽유병의 다른 용어이다.",
+                "ja": "夜間歩行症",
+                "zh": "夜间行走症",
+                "fr": "noctambulisme"
+            }
+        }
+    ]
+}

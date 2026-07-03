@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "milli (thousand, one-thousandth) millennium, milliliter, millimeter, millipede",
+        "origin": "Latin, mille (thousand)",
+        "meaning": {
+            "ko": "천",
+            "en": "thousand",
+            "ja": "千",
+            "zh": "千",
+            "fr": "mille"
+        }
+    },
+    "words": [
+        {
+            "word": "millennium",
+            "part_of_speech": "",
+            "origin": "Latin, millennium (a period of 1000 years)",
+            "meaning": {
+                "ko": "천 년의 기간",
+                "en": "period of one thousand years",
+                "ja": "千年間",
+                "zh": "千年期间",
+                "fr": "période de mille ans"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "milli- (mille)",
+                    "meaning": {
+                        "ko": "'천'",
+                        "en": "thousand",
+                        "ja": "千",
+                        "zh": "千",
+                        "fr": "mille"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ennium (annus)",
+                    "meaning": {
+                        "ko": "'해, 년'",
+                        "en": "year",
+                        "ja": "年",
+                        "zh": "年",
+                        "fr": "année"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'천 년'이라는 의미에서 '천년 간'을 뜻합니다.",
+                "en": "From 'thousand years', meaning a period of one thousand years",
+                "ja": "千年という意味から千年間を意味します",
+                "zh": "从千年的意思表示一千年的时期",
+                "fr": "Du sens de mille ans signifiant une période de mille ans"
+            },
+            "example": "We are living in the third millennium.",
+            "translation": {
+                "ko": "우리는 제3의 천년기에 살고 있다.",
+                "ja": "私たちは3番目の千年紀に住んでいます。",
+                "zh": "我们生活在第三个千年纪。",
+                "fr": "Nous vivons dans le troisième millénaire."
+            }
+        },
+        {
+            "word": "milliliter",
+            "part_of_speech": "",
+            "origin": "French, millilitre",
+            "meaning": {
+                "ko": "천분의 일 리터",
+                "en": "one thousandth of a liter",
+                "ja": "リットルの千分の一",
+                "zh": "升的千分之一",
+                "fr": "millième de litre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "milli-",
+                    "meaning": {
+                        "ko": "'천분의 일'",
+                        "en": "one-thousandth",
+                        "ja": "千分の一",
+                        "zh": "千分之一",
+                        "fr": "un millième"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "liter",
+                    "meaning": {
+                        "ko": "'리터'",
+                        "en": "liter",
+                        "ja": "リットル",
+                        "zh": "升",
+                        "fr": "litre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'리터의 1000분의 1'을 나타내는 부피의 단위입니다.",
+                "en": "A unit of volume representing one-thousandth of a liter",
+                "ja": "リットルの1000分の1を示す体積の単位です",
+                "zh": "表示升的1000分之1的体积单位",
+                "fr": "Une unité de volume représentant un millième de litre"
+            },
+            "example": "The recipe calls for 100 milliliters of milk.",
+            "translation": {
+                "ko": "조리법에는 우유 100밀리리터가 필요하다.",
+                "ja": "レシピは100ミリリットルの牛乳を必要としています",
+                "zh": "食谱需要100毫升牛奶",
+                "fr": "La recette demande 100 millilitres de lait"
+            }
+        },
+        {
+            "word": "millimeter",
+            "part_of_speech": "",
+            "origin": "French, millimètre",
+            "meaning": {
+                "ko": "천분의 일 미터",
+                "en": "one thousandth of a meter",
+                "ja": "千分の一メートル",
+                "zh": "千分之一米",
+                "fr": "un millième de mètre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "milli-",
+                    "meaning": {
+                        "ko": "'천분의 일'",
+                        "en": "one-thousandth",
+                        "ja": "千分の一",
+                        "zh": "千分之一",
+                        "fr": "un millième"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'미터'",
+                        "en": "meter",
+                        "ja": "メートル",
+                        "zh": "米",
+                        "fr": "mètre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미터의 1000분의 1'을 나타내는 길이의 단위입니다.",
+                "en": "A unit of length representing 1/1000 of a meter",
+                "ja": "メートルの1000分の1を表す長さの単位です",
+                "zh": "表示米的千分之一的长度单位",
+                "fr": "Unité de longueur égale à un millième de mètre"
+            },
+            "example": "The insect was only a few millimeters long.",
+            "translation": {
+                "ko": "그 곤충의 길이는 불과 몇 밀리미터였다.",
+                "ja": "昆虫は数ミリメートルの長さしかありませんでした",
+                "zh": "这只昆虫只有几毫米长",
+                "fr": "L'insecte ne mesurait que quelques millimètres de long"
+            }
+        },
+        {
+            "word": "millipede",
+            "part_of_speech": "",
+            "origin": "Latin, millepeda (thousand-footed)",
+            "meaning": {
+                "ko": "천 개의 발",
+                "en": "thousand feet",
+                "ja": "千本の足",
+                "zh": "千条腿",
+                "fr": "mille pattes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "milli- (mille)",
+                    "meaning": {
+                        "ko": "'천'",
+                        "en": "thousand",
+                        "ja": "千",
+                        "zh": "千",
+                        "fr": "mille"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pede (pes)",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "腿",
+                        "fr": "patte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발이 천 개나 될 정도로 많다'는 의미에서 절지동물인 '노래기'를 뜻합니다.",
+                "en": "A millipede is an arthropod creature called 'noraegi' in Korean, named from the idea of having as many as a thousand legs.",
+                "ja": "ムカデは千本もの足を持つほど多くの脚を持つという意味から、節足動物のヤスデを指します。",
+                "zh": "千足虫是一种节肢动物，名字来自于拥有多达千条腿这一概念。",
+                "fr": "Un mille-pattes est un arthropode appelé 'noraegi' en coréen, nommé d'après l'idée d'avoir autant de mille pattes."
+            },
+            "example": "A millipede curls up into a ball when it feels threatened.",
+            "translation": {
+                "ko": "노래기는 위협을 느끼면 몸을 공처럼 만다.",
+                "ja": "ヤスデが脅されていると感じると、丸く丸まります。",
+                "zh": "千足虫在感到受到威胁时会卷成一个球。",
+                "fr": "Un mille-pattes s'enroule en boule quand il se sent menacé."
+            }
+        }
+    ]
+}

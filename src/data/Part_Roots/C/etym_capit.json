@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "capit (head) capital, decapitate, captain",
+        "origin": "Latin, caput (head)",
+        "meaning": {
+            "ko": "머리",
+            "en": "head",
+            "ja": "頭",
+            "zh": "头",
+            "fr": "tête"
+        }
+    },
+    "words": [
+        {
+            "word": "capital",
+            "part_of_speech": "",
+            "origin": "Latin, capitalis (of the head, chief)",
+            "meaning": {
+                "ko": "머리의, 으뜸의",
+                "en": "of the head, principal",
+                "ja": "頭の、最高の",
+                "zh": "头部的、首要的",
+                "fr": "de la tête, principal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "capit (caput)",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头",
+                        "fr": "tête"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of, pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리(capit)'가 되는, 즉 '가장 중요한'이라는 의미에서 나라의 '수도', 사업의 '자본', '대문자', '으뜸가는' 등 다양한 뜻으로 확장되었습니다.",
+                "en": "Derived from the meaning 'of/from the head' (capit), it expanded to various meanings: 'capital city' of a nation, 'capital' in business, 'capital letter', 'foremost', etc.",
+                "ja": "「頭になる」という意味から、国の「首都」、事業の「資本」、「大文字」、「一流の」など様々な意味に拡張されました。",
+                "zh": "源自「成为头部」的含义，扩展为国家的「首都」、事业的「资本」、「大写字母」、「最好的」等多种含义。",
+                "fr": "Dérivé du sens 'qui est à la tête', il s'est étendu à diverses significations : 'capitale' d'un pays, 'capital' en affaires, 'lettre majuscule', 'principal', etc."
+            },
+            "example": "Paris is the capital of France.",
+            "translation": {
+                "ko": "파리는 프랑스의 수도이다.",
+                "ja": "パリはフランスの首都です。",
+                "zh": "巴黎是法国的首都。",
+                "fr": "Paris est la capitale de la France."
+            }
+        },
+        {
+            "word": "decapitate",
+            "part_of_speech": "",
+            "origin": "Latin, decapitare (to behead)",
+            "meaning": {
+                "ko": "머리를 베다",
+                "en": "to cut off the head",
+                "ja": "首を切る",
+                "zh": "斩首",
+                "fr": "décapiter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'분리, 제거'",
+                        "en": "off, away",
+                        "ja": "分離、除去",
+                        "zh": "分离、移除",
+                        "fr": "séparation, enlèvement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "capit (caput)",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头",
+                        "fr": "tête"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to cause to become",
+                        "ja": "～させる",
+                        "zh": "使～",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리(capit)를 잘라내다(de-)'라는 의미로 '참수하다'라는 뜻이 되었습니다.",
+                "en": "Formed from de- (off, away) + capit (head), meaning to cut off the head, resulting in the sense of beheading.",
+                "ja": "de-（離す）+ capit（頭）から成り、頭を切り落とすという意味で参首という意味になりました。",
+                "zh": "由de-（分离）+ capit（头）组成，表示砍掉头部，因此意为斩首。",
+                "fr": "Formé de de- (séparation) + capit (tête), signifiant couper la tête, d'où le sens d'exécution."
+            },
+            "example": "The king ordered to decapitate the traitor.",
+            "translation": {
+                "ko": "왕은 반역자를 참수하라고 명령했다.",
+                "ja": "王は裏切り者を首切りにすることを命じた。",
+                "zh": "国王命令斩首叛徒。",
+                "fr": "Le roi ordonna de décapiter le traître."
+            }
+        },
+        {
+            "word": "captain",
+            "part_of_speech": "",
+            "origin": "Latin, capitaneus (chief)",
+            "meaning": {
+                "ko": "우두머리",
+                "en": "chief or leader",
+                "ja": "指導者、統率者",
+                "zh": "领导者、首领",
+                "fr": "chef, meneur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "capt (caput)",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭、指導者",
+                        "zh": "头、领导者",
+                        "fr": "tête, chef"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무리(group)의 머리(captain)'라는 의미에서 배의 '선장', 팀의 '주장', 군대의 '대위' 등 조직의 우두머리를 뜻하게 되었습니다.",
+                "en": "Originally meant 'head of a group'. Later evolved to mean various organizational leaders: ship's captain, team captain, military captain, etc.",
+                "ja": "元々は'グループの頭'を意味していました。その後、船の船長、チームの主将、軍隊の大尉など、組織の指導者を指すようになりました。",
+                "zh": "原意为'群体的首领'。后来演变为船的船长、队伍的队长、军队的上尉等各种组织的领导者。",
+                "fr": "Signifiait à l'origine 'chef d'un groupe'. Puis a évolué pour désigner divers leaders organisationnels: capitaine de navire, capitaine d'équipe, capitaine militaire, etc."
+            },
+            "example": "He was the captain of the winning team.",
+            "translation": {
+                "ko": "그는 우승팀의 주장이었다.",
+                "ja": "彼は優勝チームの主将だった。",
+                "zh": "他是获胜队伍的队长。",
+                "fr": "Il était le capitaine de l'équipe gagnante."
+            }
+        }
+    ]
+}

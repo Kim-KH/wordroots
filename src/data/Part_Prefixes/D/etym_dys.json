@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "dys (bad, ill) dysfunctional, dystrophy, dyslexia",
+        "origin": "Greek, dys- (bad, ill, abnormal)",
+        "meaning": {
+            "ko": "나쁜, 아픈, 비정상적인",
+            "en": "bad, ill, abnormal",
+            "ja": "悪い、病的な、異常な",
+            "zh": "坏的、病态的、异常的",
+            "fr": "mauvais, morbide, anormal"
+        }
+    },
+    "words": [
+        {
+            "word": "dysfunctional",
+            "part_of_speech": "",
+            "origin": "English, dys- + functional",
+            "meaning": {
+                "ko": "제대로 기능하지 않는",
+                "en": "not functioning properly",
+                "ja": "正常に機能しない",
+                "zh": "功能失调",
+                "fr": "dysfonctionnel"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dys-",
+                    "meaning": {
+                        "ko": "'나쁜, 비정상적인'",
+                        "en": "bad, abnormal",
+                        "ja": "悪い、異常な",
+                        "zh": "坏的、异常的",
+                        "fr": "mauvais, anormal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "functional",
+                    "meaning": {
+                        "ko": "'기능적인'",
+                        "en": "functional",
+                        "ja": "機能的な",
+                        "zh": "功能性的",
+                        "fr": "fonctionnel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'제대로 기능하지 않는'다는 의미에서 가족이나 조직 등이 '역기능적인'이라는 뜻으로 쓰입니다.",
+                "en": "Used to describe families or organizations that do not function properly as 'dysfunctional'",
+                "ja": "家族や組織などが正常に機能していない状態を表すのに使われます",
+                "zh": "用来描述家庭或组织等不能正常运作的状态",
+                "fr": "Utilisé pour décrire les familles ou organisations qui ne fonctionnent pas correctement"
+            },
+            "example": "He comes from a dysfunctional family.",
+            "translation": {
+                "ko": "그는 역기능 가정 출신이다.",
+                "ja": "彼は機能不全の家族出身です。",
+                "zh": "他来自一个功能失调的家庭。",
+                "fr": "Il vient d'une famille dysfonctionnelle."
+            }
+        },
+        {
+            "word": "dystrophy",
+            "part_of_speech": "",
+            "origin": "German, dystrophie",
+            "meaning": {
+                "ko": "영양 장애",
+                "en": "nutritional disorder",
+                "ja": "栄養障害",
+                "zh": "营养不良",
+                "fr": "dystrophie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dys-",
+                    "meaning": {
+                        "ko": "'나쁜'",
+                        "en": "bad",
+                        "ja": "悪い",
+                        "zh": "坏的",
+                        "fr": "mauvais"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "trophy (trophe)",
+                    "meaning": {
+                        "ko": "'영양'",
+                        "en": "nourishment",
+                        "ja": "栄養",
+                        "zh": "营养",
+                        "fr": "nutrition"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'영양 상태가 나쁜 것'을 의미하는 의학 용어로, '영양실조', '근위축증' 등을 뜻합니다.",
+                "en": "Medical term meaning poor nutritional condition, referring to malnutrition or muscle wasting",
+                "ja": "栄養状態が悪い医学用語で、栄養不良や筋萎縮を意味します",
+                "zh": "医学术语，表示营养状态不良，指营养不足或肌肉萎缩",
+                "fr": "Terme médical signifiant mauvais état nutritionnel, se référant à la malnutrition ou l'atrophie musculaire"
+            },
+            "example": "Muscular dystrophy is a genetic disease.",
+            "translation": {
+                "ko": "근위축증은 유전 질환이다.",
+                "ja": "筋ジストロフィーは遺伝性疾患である。",
+                "zh": "肌肉营养不良是一种遗传性疾病。",
+                "fr": "La dystrophie musculaire est une maladie génétique."
+            }
+        },
+        {
+            "word": "dyslexia",
+            "part_of_speech": "",
+            "origin": "German, dyslexie",
+            "meaning": {
+                "ko": "읽기 장애",
+                "en": "reading disorder",
+                "ja": "読字障害",
+                "zh": "阅读障碍",
+                "fr": "dyslexie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dys-",
+                    "meaning": {
+                        "ko": "'어려움'",
+                        "en": "difficult",
+                        "ja": "困難",
+                        "zh": "困难",
+                        "fr": "difficile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lexia (lexis)",
+                    "meaning": {
+                        "ko": "'단어, 말'",
+                        "en": "word, speech",
+                        "ja": "単語、言葉",
+                        "zh": "单词、言语",
+                        "fr": "mot, parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단어를 읽는 데 어려움이 있는' 증상을 의미하는 용어로 '난독증'을 뜻합니다.",
+                "en": "A term referring to a condition where there is difficulty reading words.",
+                "ja": "単語を読むことが困難な症状を意味する用語で、読字障害を指します。",
+                "zh": "指难以阅读单词的症状的术语，表示阅读障碍。",
+                "fr": "Un terme désignant un trouble caractérisé par une difficulté à lire les mots."
+            },
+            "example": "Dyslexia is a common learning difficulty.",
+            "translation": {
+                "ko": "난독증은 흔한 학습 장애이다.",
+                "ja": "難読症は一般的な学習困難です。",
+                "zh": "阅读障碍是常见的学习困难。",
+                "fr": "La dyslexie est une difficulté d'apprentissage courante."
+            }
+        }
+    ]
+}

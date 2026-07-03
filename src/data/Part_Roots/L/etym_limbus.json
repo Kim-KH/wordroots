@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "limbus (edge) limb, limbic, limbo",
+        "origin": "Latin, limbus (border, edge)",
+        "meaning": {
+            "ko": "가장자리",
+            "en": "edge",
+            "ja": "端",
+            "zh": "边缘",
+            "fr": "bord"
+        }
+    },
+    "words": [
+        {
+            "word": "limb",
+            "part_of_speech": "",
+            "origin": "Old English, lim (limb of the body)",
+            "meaning": {
+                "ko": "사지",
+                "en": "arm or leg",
+                "ja": "腕や脚",
+                "zh": "四肢",
+                "fr": "membre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "limb- (limbus)",
+                    "meaning": {
+                        "ko": "'가장자리, 일부'",
+                        "en": "edge or border",
+                        "ja": "端、一部",
+                        "zh": "边缘、部分",
+                        "fr": "bord, partie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸의 가장자리 부분'이라는 의미에서 '팔다리', '사지'를 뜻합니다.",
+                "en": "Refers to arms and legs as the peripheral parts of the body",
+                "ja": "体の端の部分という意味から、腕や脚を意味します",
+                "zh": "从身体边缘部分的含义引申为四肢的意思",
+                "fr": "Signifie les bras et les jambes comme parties périphériques du corps"
+            },
+            "example": "The tree's lower limbs were covered in moss.",
+            "translation": {
+                "ko": "그 나무의 아래쪽 큰 가지들은 이끼로 덮여 있었다.",
+                "ja": "木の下の枝は苔で覆われていました",
+                "zh": "树的下部枝条被苔藓覆盖",
+                "fr": "Les branches inférieures de l'arbre étaient couvertes de mousse"
+            }
+        },
+        {
+            "word": "limbic",
+            "part_of_speech": "",
+            "origin": "Latin, limbus (border)",
+            "meaning": {
+                "ko": "가장자리",
+                "en": "edge or border",
+                "ja": "辺縁の",
+                "zh": "边缘的",
+                "fr": "limbique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "limb-",
+                    "meaning": {
+                        "ko": "'가장자리'",
+                        "en": "border",
+                        "ja": "境界",
+                        "zh": "边界",
+                        "fr": "bordure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대뇌 피질의 가장자리에 있는' 신경계라는 의미에서 '대뇌 변연계의'라는 뜻입니다.",
+                "en": "Refers to the nervous system located at the border of the cerebral cortex, meaning 'of the limbic system of the brain'",
+                "ja": "大脳皮質の辺縁にある神経系という意味で、大脳辺縁系のという意味です",
+                "zh": "指位于大脑皮层边缘的神经系统，意为大脑边缘系统的",
+                "fr": "Désigne le système nerveux situé à la bordure du cortex cérébral, signifiant du système limbique du cerveau"
+            },
+            "example": "The limbic system is involved in emotion and memory.",
+            "translation": {
+                "ko": "대뇌 변연계는 감정과 기억에 관여한다.",
+                "ja": "辺縁系は感情と記憶に関与しています",
+                "zh": "边缘系统与情感和记忆有关",
+                "fr": "Le système limbique est impliqué dans l'émotion et la mémoire"
+            }
+        },
+        {
+            "word": "limbo",
+            "part_of_speech": "",
+            "origin": "Latin, in limbo (on the edge of hell)",
+            "meaning": {
+                "ko": "지옥의 가장자리",
+                "en": "edge of hell",
+                "ja": "不確定な状態",
+                "zh": "不确定的状态",
+                "fr": "état d'incertitude"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "limb- (limbus)",
+                    "meaning": {
+                        "ko": "'가장자리'",
+                        "en": "border",
+                        "ja": "境界",
+                        "zh": "边界",
+                        "fr": "bordure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지옥의 가장자리'에 있는, 세례받지 못하고 죽은 아기들의 영혼이 머무는 곳이라는 신학적 개념에서 유래하여, '불확실한 상태', '어중간한 상태'를 뜻합니다.",
+                "en": "Derived from the theological concept of a place where unbaptized babies' souls reside at the edge of hell, it means an uncertain or intermediate state.",
+                "ja": "地獄の周辺にいる洗礼を受けずに死んだ赤ちゃんの霊が留まる場所という神学的概念に由来し、不確定な状態や中途半端な状態を意味します。",
+                "zh": "源于神学概念，指未受洗而死亡的婴儿灵魂滞留的地狱边缘，表示不确定或中间状态。",
+                "fr": "Dérivé du concept théologique d'un lieu où résident les âmes de bébés non baptisés à la limite de l'enfer, signifiant un état d'incertitude ou intermédiaire."
+            },
+            "example": "His career is in limbo.",
+            "translation": {
+                "ko": "그의 경력은 불확실한 상태에 있다.",
+                "ja": "キャリアは不確定な状態にある。",
+                "zh": "他的职业生涯处于不确定状态。",
+                "fr": "Sa carrière est en suspens."
+            }
+        }
+    ]
+}

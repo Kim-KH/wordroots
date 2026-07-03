@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "vibr (shake) vibrant, vibrate, vibrato",
+        "origin": "Latin, vibrare (to shake, to vibrate)",
+        "meaning": {
+            "ko": "흔들다",
+            "en": "to shake",
+            "ja": "揺する",
+            "zh": "摇晃",
+            "fr": "secouer"
+        }
+    },
+    "words": [
+        {
+            "word": "vibrant",
+            "part_of_speech": "",
+            "origin": "Latin, vibrans (vibrating)",
+            "meaning": {
+                "ko": "진동하는",
+                "en": "vibrating or oscillating",
+                "ja": "活気に満ちた",
+                "zh": "充满活力的",
+                "fr": "vibrant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vibr-",
+                    "meaning": {
+                        "ko": "'흔들리다'",
+                        "en": "to shake",
+                        "ja": "揺れ動く",
+                        "zh": "摇动",
+                        "fr": "secouer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생기가 넘쳐 흔들리는' 듯한 모습이라는 의미에서 '활기찬', '생생한'이라는 뜻입니다.",
+                "en": "Derived from the image of something shaking with overflowing energy, meaning lively or vivid",
+                "ja": "エネルギーであふれて揺れ動くようなイメージから、活気に満ちた、生き生きしたという意味になります",
+                "zh": "从充满活力且摇动的形象引申出来，意思是充满生气的、生动的",
+                "fr": "Dérivé de l'image de quelque chose qui vibre d'énergie débordante, signifiant vivant ou vivide"
+            },
+            "example": "The city has a vibrant nightlife.",
+            "translation": {
+                "ko": "그 도시는 활기찬 밤 문화를 가지고 있다.",
+                "ja": "その街は活気に満ちたナイトライフを持っています",
+                "zh": "这座城市有充满活力的夜生活",
+                "fr": "La ville a une vie nocturne vibrante"
+            }
+        },
+        {
+            "word": "vibrate",
+            "part_of_speech": "",
+            "origin": "Latin, vibrare (to shake)",
+            "meaning": {
+                "ko": "흔들다",
+                "en": "to shake or move back and forth",
+                "ja": "振動する",
+                "zh": "振动",
+                "fr": "vibrer"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vibr-",
+                    "meaning": {
+                        "ko": "'흔들리다'",
+                        "en": "to shake",
+                        "ja": "揺れる",
+                        "zh": "摇晃",
+                        "fr": "secouer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빠르게 계속해서 흔들리다'는 의미에서 '진동하다'라는 뜻입니다.",
+                "en": "It means to shake rapidly and continuously",
+                "ja": "速く継続して揺れることを意味します",
+                "zh": "快速持续地摇晃的意思",
+                "fr": "Signifie secouer rapidement et continuellement"
+            },
+            "example": "The windows vibrated as the train passed by.",
+            "translation": {
+                "ko": "기차가 지나갈 때 창문이 진동했다.",
+                "ja": "列車が通り過ぎるとき、窓が振動した。",
+                "zh": "火车驶过时，窗户振动了。",
+                "fr": "Les fenêtres ont vibré quand le train est passé."
+            }
+        },
+        {
+            "word": "vibrato",
+            "part_of_speech": "",
+            "origin": "Italian, vibrato (vibrated)",
+            "meaning": {
+                "ko": "진동된",
+                "en": "vibrated",
+                "ja": "振動された",
+                "zh": "振动的",
+                "fr": "vibré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vibr- (vibrare)",
+                    "meaning": {
+                        "ko": "'흔들리다'",
+                        "en": "to shake",
+                        "ja": "揺れる",
+                        "zh": "摇晃",
+                        "fr": "trembler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'목소리나 악기 소리를 부드럽게 떨리게 하는' 연주 기법인 '비브라토'를 뜻합니다.",
+                "en": "A playing technique that makes the voice or instrument sound gently trembling.",
+                "ja": "声や楽器の音を柔らかく震わせる演奏技法。",
+                "zh": "使声音或乐器音调柔和颤动的演奏技巧。",
+                "fr": "Technique de jeu qui fait trembler doucement la voix ou le son instrumental."
+            },
+            "example": "The singer has a beautiful vibrato.",
+            "translation": {
+                "ko": "그 가수는 아름다운 비브라토를 가지고 있다.",
+                "ja": "歌手は美しいビブラートを持っている。",
+                "zh": "歌手有美妙的颤音。",
+                "fr": "La chanteuse a un beau vibrato."
+            }
+        }
+    ]
+}

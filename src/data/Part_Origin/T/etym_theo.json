@@ -1,0 +1,130 @@
+{
+    "root_info": {
+        "roots": "theo, the",
+        "origin": "Greek",
+        "meaning": {
+            "ko": "신",
+            "en": "God",
+            "ja": "神",
+            "zh": "神",
+            "fr": "Dieu"
+        }
+    },
+    "words": [
+        {
+            "word": "theology",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "theo",
+                    "meaning": {
+                        "ko": "신",
+                        "en": "god",
+                        "ja": "神",
+                        "zh": "神",
+                        "fr": "dieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-logy",
+                    "meaning": {
+                        "ko": "학문",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신에 관한 학문' 즉, '신학'을 뜻합니다.",
+                "en": "Study of God or the divine, literally 'the science of God'",
+                "ja": "神に関する学問、つまり神学を意味します",
+                "zh": "关于神的学问，即神学的意思",
+                "fr": "L'étude de Dieu ou du divin, littéralement 'la science de Dieu'"
+            },
+            "example": "He is a professor of theology.",
+            "translation": {
+                "ko": "그는 신학 교수이다.",
+                "ja": "彼は神学の教授です。",
+                "zh": "他是神学教授。",
+                "fr": "Il est professeur de théologie."
+            }
+        },
+        {
+            "word": "theist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "the",
+                    "meaning": {
+                        "ko": "신",
+                        "en": "god",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신이 있다고 믿는 사람' 즉, '유신론자'를 뜻합니다.",
+                "en": "A person who believes in the existence of a god or gods; a theist.",
+                "ja": "神の存在を信じる人、つまり有神論者を意味します。",
+                "zh": "相信神或众神存在的人，即有神论者。",
+                "fr": "Une personne qui croit à l'existence d'un dieu ou de dieux ; un théiste."
+            },
+            "example": "A theist believes in the existence of a god or gods.",
+            "translation": {
+                "ko": "유신론자는 신 또는 신들의 존재를 믿는다.",
+                "ja": "有神論者は、神または複数の神の存在を信じている。",
+                "zh": "有神论者相信神或众神的存在。",
+                "fr": "Un théiste croit à l'existence d'un dieu ou de plusieurs dieux."
+            }
+        },
+        {
+            "word": "polytheist",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "poly",
+                    "meaning": {
+                        "ko": "많은",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多的",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "theist",
+                    "meaning": {
+                        "ko": "신을 믿는 사람",
+                        "en": "person who believes in god",
+                        "ja": "神を信じる人",
+                        "zh": "信神的人",
+                        "fr": "personne qui croit en dieu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'많은 신을 믿는 사람' 즉, '다신교도'를 뜻합니다.",
+                "en": "A person who believes in many gods; a follower of polytheism.",
+                "ja": "多くの神を信じる人、つまり多神教信仰者を意味します。",
+                "zh": "信仰许多神灵的人，即多神教徒的意思。",
+                "fr": "Une personne qui croit en plusieurs dieux; un adepte du polythéisme."
+            },
+            "example": "The ancient Egyptians were polytheists.",
+            "translation": {
+                "ko": "고대 이집트인들은 다신교도였다.",
+                "ja": "古代エジプト人は多神教信仰者でした。",
+                "zh": "古代埃及人是多神教徒。",
+                "fr": "Les anciens Égyptiens étaient des polythéistes."
+            }
+        }
+    ]
+}

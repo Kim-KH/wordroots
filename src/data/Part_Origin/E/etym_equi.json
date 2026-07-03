@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "equi",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "같은",
+            "en": "equal",
+            "ja": "等しい",
+            "zh": "相等的",
+            "fr": "égal"
+        }
+    },
+    "words": [
+        {
+            "word": "equidistant",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "equi",
+                    "meaning": {
+                        "ko": "같은",
+                        "en": "equal",
+                        "ja": "同じ",
+                        "zh": "相同的",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "distant",
+                    "meaning": {
+                        "ko": "거리",
+                        "en": "distance",
+                        "ja": "距離",
+                        "zh": "距离",
+                        "fr": "distance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'같은 거리에 있는'이라는 뜻입니다.",
+                "en": "Meaning 'at equal distance'",
+                "ja": "「同じ距離にある」という意味です",
+                "zh": "意思是「距离相等」",
+                "fr": "Signifie « à égale distance »"
+            },
+            "example": "All points on the circle are equidistant from the center.",
+            "translation": {
+                "ko": "원 위의 모든 점은 중심에서 같은 거리에 있다.",
+                "ja": "円周上のすべての点は中心から等距離にある。",
+                "zh": "圆上的所有点到中心的距离相等。",
+                "fr": "Tous les points du cercle sont équidistants du centre."
+            }
+        },
+        {
+            "word": "equilateral",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "equi",
+                    "meaning": {
+                        "ko": "같은",
+                        "en": "equal",
+                        "ja": "等しい",
+                        "zh": "相等的",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lateral",
+                    "meaning": {
+                        "ko": "변",
+                        "en": "side",
+                        "ja": "辺",
+                        "zh": "边",
+                        "fr": "côté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 변의 길이가 같은'이라는 의미에서 '정삼각형' 등을 설명할 때 쓰입니다.",
+                "en": "Used to describe shapes like equilateral triangles, meaning 'having all sides of equal length'",
+                "ja": "すべての辺の長さが等しいという意味で、正三角形などを説明するときに使われます。",
+                "zh": "用于描述所有边长相等的形状，如等边三角形。",
+                "fr": "Utilisé pour décrire des formes comme le triangle équilatéral, signifiant « ayant tous les côtés de longueur égale »."
+            },
+            "example": "This is an equilateral triangle.",
+            "translation": {
+                "ko": "이것은 정삼각형이다.",
+                "ja": "これは正三角形です。",
+                "zh": "这是一个等边三角形。",
+                "fr": "C'est un triangle équilatéral."
+            }
+        },
+        {
+            "word": "equilibrium",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "equi",
+                    "meaning": {
+                        "ko": "같은",
+                        "en": "equal",
+                        "ja": "同じ",
+                        "zh": "相同的",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "libr",
+                    "meaning": {
+                        "ko": "저울, 균형",
+                        "en": "balance",
+                        "ja": "釣り合い、バランス",
+                        "zh": "平衡",
+                        "fr": "équilibre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'같은 균형' 상태, 즉 '평형', '균형'을 뜻합니다.",
+                "en": "A state of 'equal balance,' meaning 'equilibrium' or 'balance.'",
+                "ja": "「同じ釣り合い」の状態、つまり「平衡」や「バランス」を意味します。",
+                "zh": "「相同的平衡」状态，即「平衡」、「均衡」的意思。",
+                "fr": "Un état d'« équilibre égal », signifiant « équilibre » ou « balance »."
+            },
+            "example": "The two forces are in equilibrium.",
+            "translation": {
+                "ko": "그 두 힘은 평형을 이루고 있다.",
+                "ja": "その2つの力は平衡状態にある。",
+                "zh": "这两个力处于平衡状态。",
+                "fr": "Les deux forces sont en équilibre."
+            }
+        },
+        {
+            "word": "equinox",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "equi",
+                    "meaning": {
+                        "ko": "같은",
+                        "en": "equal",
+                        "ja": "等しい",
+                        "zh": "相等",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nox",
+                    "meaning": {
+                        "ko": "밤",
+                        "en": "night",
+                        "ja": "夜",
+                        "zh": "夜晚",
+                        "fr": "nuit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'낮과 밤의 길이가 같은' 날, 즉 '춘분', '추분'을 뜻합니다.",
+                "en": "A day when the length of day and night are equal, referring to 'spring equinox' and 'autumn equinox'.",
+                "ja": "昼と夜の長さが等しい日、つまり春分と秋分を意味します。",
+                "zh": "白天和夜晚长度相等的日子，即春分和秋分。",
+                "fr": "Un jour où la durée du jour et de la nuit sont égales, c'est-à-dire l'équinoxe de printemps et l'équinoxe d'automne."
+            },
+            "example": "The spring equinox is in March.",
+            "translation": {
+                "ko": "춘분은 3월에 있다.",
+                "ja": "昼夜平分時",
+                "zh": "春分点",
+                "fr": "équinoxe"
+            }
+        }
+    ]
+}

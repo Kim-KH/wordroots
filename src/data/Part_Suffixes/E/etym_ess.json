@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ess (female) actress, princess, waitress",
+        "origin": "Greek, -issa (feminine suffix)",
+        "meaning": {
+            "ko": "여성을 나타냄",
+            "en": "female",
+            "ja": "女性を表す",
+            "zh": "表示女性",
+            "fr": "désigner une femme"
+        }
+    },
+    "words": [
+        {
+            "word": "actress",
+            "part_of_speech": "",
+            "origin": "English, actor + -ess",
+            "meaning": {
+                "ko": "여성 배우",
+                "en": "female actor",
+                "ja": "女性俳優",
+                "zh": "女性演员",
+                "fr": "actrice"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "actor",
+                    "meaning": {
+                        "ko": "'배우'",
+                        "en": "actor",
+                        "ja": "俳優",
+                        "zh": "演员",
+                        "fr": "acteur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ess",
+                    "meaning": {
+                        "ko": "'여성'",
+                        "en": "female",
+                        "ja": "女性",
+                        "zh": "女性",
+                        "fr": "femme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여자 배우'를 뜻합니다.",
+                "en": "Means a female actor",
+                "ja": "女性の俳優を意味します",
+                "zh": "指女性演员",
+                "fr": "Signifie une actrice"
+            },
+            "example": "She is a famous Hollywood actress.",
+            "translation": {
+                "ko": "그녀는 유명한 할리우드 여배우이다.",
+                "ja": "彼女は有名なハリウッド女優です。",
+                "zh": "她是著名的好莱坞女演员。",
+                "fr": "Elle est une célèbre actrice de Hollywood."
+            }
+        },
+        {
+            "word": "princess",
+            "part_of_speech": "",
+            "origin": "French, princesse",
+            "meaning": {
+                "ko": "여성 군주",
+                "en": "female ruler",
+                "ja": "女性の君主",
+                "zh": "女性统治者",
+                "fr": "souveraine femme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "prince",
+                    "meaning": {
+                        "ko": "'왕자'",
+                        "en": "prince",
+                        "ja": "王子",
+                        "zh": "王子",
+                        "fr": "prince"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ess",
+                    "meaning": {
+                        "ko": "'여성'",
+                        "en": "female",
+                        "ja": "女性",
+                        "zh": "女性",
+                        "fr": "femme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'왕자'의 여성형으로, '공주' 또는 '왕비'를 뜻합니다.",
+                "en": "Feminine form of prince, meaning princess or queen",
+                "ja": "王子の女性形で、公主または王妃を意味します",
+                "zh": "王子的女性形式，意为公主或王后",
+                "fr": "Forme féminine de prince, signifiant princesse ou reine"
+            },
+            "example": "The princess lived in a beautiful castle.",
+            "translation": {
+                "ko": "공주는 아름다운 성에 살았다.",
+                "ja": "その王女は美しい城に住んでいました",
+                "zh": "那位公主住在一座美丽的城堡里",
+                "fr": "La princesse vivait dans un beau château"
+            }
+        },
+        {
+            "word": "waitress",
+            "part_of_speech": "",
+            "origin": "English, waiter + -ess",
+            "meaning": {
+                "ko": "여성 웨이터",
+                "en": "female waiter",
+                "ja": "女性ウェイター",
+                "zh": "女性服务员",
+                "fr": "serveuse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "waiter",
+                    "meaning": {
+                        "ko": "'웨이터'",
+                        "en": "waiter",
+                        "ja": "ウェイター",
+                        "zh": "服务员",
+                        "fr": "serveur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ess",
+                    "meaning": {
+                        "ko": "'여성'",
+                        "en": "female",
+                        "ja": "女性",
+                        "zh": "女性",
+                        "fr": "femme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'식당에서 시중드는 여자 종업원'을 뜻합니다.",
+                "en": "A female employee who serves at a restaurant",
+                "ja": "レストランで給仕する女性従業員",
+                "zh": "在餐厅服侍客人的女性员工",
+                "fr": "Employée qui sert les clients au restaurant"
+            },
+            "example": "The waitress took our order.",
+            "translation": {
+                "ko": "그 여종업원이 우리 주문을 받았다.",
+                "ja": "ウェイトレスは私たちの注文を取った。",
+                "zh": "女服务员记下了我们的订单。",
+                "fr": "La serveuse a pris notre commande."
+            }
+        }
+    ]
+}

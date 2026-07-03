@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "phase (stage) anaphase, metaphase, prophase",
+        "origin": "Greek, phasis (an appearance, a phase of the moon)",
+        "meaning": {
+            "ko": "모습, 단계",
+            "en": "appearance, stage",
+            "ja": "外観、段階",
+            "zh": "外观、阶段",
+            "fr": "apparence, étape"
+        }
+    },
+    "words": [
+        {
+            "word": "anaphase",
+            "part_of_speech": "",
+            "origin": "German, Anaphase",
+            "meaning": {
+                "ko": "뒤로 가는 단계",
+                "en": "stage of moving backward",
+                "ja": "後期",
+                "zh": "后期",
+                "fr": "anaphase"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ana-",
+                    "meaning": {
+                        "ko": "'뒤로, 위로'",
+                        "en": "back, up",
+                        "ja": "後ろに、上に",
+                        "zh": "向后、向上",
+                        "fr": "arrière, vers le haut"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phase",
+                    "meaning": {
+                        "ko": "'단계'",
+                        "en": "stage",
+                        "ja": "段階",
+                        "zh": "阶段",
+                        "fr": "stade"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 분열 시 염색체가 양극 '뒤로' 끌려가는 '단계'인 '후기'를 뜻합니다.",
+                "en": "During cell division, the stage where chromosomes are pulled toward opposite poles backward.",
+                "ja": "細胞分裂時に、染色体が両極に向かって後ろに引き出される段階を意味します。",
+                "zh": "细胞分裂时，染色体被拉向两极的向后阶段。",
+                "fr": "Stade de la division cellulaire où les chromatides sœurs sont tirées vers les pôles opposés."
+            },
+            "example": "During anaphase, the sister chromatids separate.",
+            "translation": {
+                "ko": "후기 동안 자매 염색 분체가 분리된다.",
+                "ja": "後期",
+                "zh": "后期",
+                "fr": "anaphase"
+            }
+        },
+        {
+            "word": "metaphase",
+            "part_of_speech": "",
+            "origin": "German, Metaphase",
+            "meaning": {
+                "ko": "다음 단계",
+                "en": "next stage",
+                "ja": "中期",
+                "zh": "中期",
+                "fr": "métaphase"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "meta-",
+                    "meaning": {
+                        "ko": "'다음의, 중간의'",
+                        "en": "after, between",
+                        "ja": "後、中間",
+                        "zh": "之后、中间",
+                        "fr": "après, entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phase",
+                    "meaning": {
+                        "ko": "'단계'",
+                        "en": "stage",
+                        "ja": "段階",
+                        "zh": "阶段",
+                        "fr": "stade"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 분열 시 염색체가 세포 중앙에 배열되는 '중기'를 뜻합니다.",
+                "en": "At metaphase, the chromosomes align at the equatorial plate.",
+                "ja": "細胞分裂時に染色体が細胞中央に配列される『中期』を意味します。",
+                "zh": "在细胞分裂时，染色体排列在细胞中央的『中期』的意思。",
+                "fr": "Signifie la 'métaphase' où les chromosomes s'alignent au centre de la cellule lors de la division cellulaire."
+            },
+            "example": "At metaphase, the chromosomes align at the equatorial plate.",
+            "translation": {
+                "ko": "중기에는 염색체가 적도판에 정렬한다.",
+                "ja": "中期",
+                "zh": "中期",
+                "fr": "métaphase"
+            }
+        },
+        {
+            "word": "prophase",
+            "part_of_speech": "",
+            "origin": "German, Prophase",
+            "meaning": {
+                "ko": "이전 단계",
+                "en": "previous stage",
+                "ja": "前期",
+                "zh": "前期",
+                "fr": "prophase"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'이전의'",
+                        "en": "before",
+                        "ja": "以前の",
+                        "zh": "之前的",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phase",
+                    "meaning": {
+                        "ko": "'단계'",
+                        "en": "stage",
+                        "ja": "段階",
+                        "zh": "阶段",
+                        "fr": "phase"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "세포 분열의 '첫 번째 단계'인 '전기'를 뜻합니다.",
+                "en": "The first stage of cell division, referring to 'prophase'.",
+                "ja": "細胞分裂の最初の段階である'前期'を意味します。",
+                "zh": "指细胞分裂的第一个阶段'前期'。",
+                "fr": "Désigne la prophase, premier stade de la division cellulaire."
+            },
+            "example": "In prophase, the chromatin condenses into visible chromosomes.",
+            "translation": {
+                "ko": "전기에는 염색질이 응축되어 눈에 보이는 염색체가 된다.",
+                "ja": "前期では、クロマチンが目に見える染色体に凝縮します。",
+                "zh": "在前期，核质浓聚成可见的染色体。",
+                "fr": "En prophase, la chromatine se condense en chromosomes visibles."
+            }
+        }
+    ]
+}

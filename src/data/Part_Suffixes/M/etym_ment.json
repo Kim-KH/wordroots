@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ment (act of, related to) ailment, fragment, government, movement",
+        "origin": "Latin, -mentum (result of)",
+        "meaning": {
+            "ko": "…의 행위",
+            "en": "act of",
+            "ja": "…の行為",
+            "zh": "…的行为",
+            "fr": "acte de …"
+        }
+    },
+    "words": [
+        {
+            "word": "ailment",
+            "part_of_speech": "",
+            "origin": "Old English, eglan (to trouble, to afflict)",
+            "meaning": {
+                "ko": "괴롭히다",
+                "en": "to trouble or distress",
+                "ja": "病気、不調",
+                "zh": "疾病、不适",
+                "fr": "maladie, affection"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ail",
+                    "meaning": {
+                        "ko": "'아프다'",
+                        "en": "to be sick or in pain",
+                        "ja": "痛い、苦しい",
+                        "zh": "疼痛、痛苦",
+                        "fr": "douleur, souffrance"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ment",
+                    "meaning": {
+                        "ko": "'상태, 결과'",
+                        "en": "state or condition",
+                        "ja": "状態、結果",
+                        "zh": "状态、结果",
+                        "fr": "état, condition"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸을 괴롭히는' 가벼운 병을 뜻합니다.",
+                "en": "Refers to a minor illness that causes physical discomfort",
+                "ja": "身体を苦しめる軽い病気を意味します",
+                "zh": "指使身体感到不适的轻微疾病",
+                "fr": "Désigne une maladie bénigne qui cause un inconfort physique"
+            },
+            "example": "He suffers from a minor ailment.",
+            "translation": {
+                "ko": "그는 가벼운 질병을 앓고 있다.",
+                "ja": "彼は軽い病気に苦しんでいます",
+                "zh": "他患有轻微疾病",
+                "fr": "Il souffre d'une légère affection"
+            }
+        },
+        {
+            "word": "fragment",
+            "part_of_speech": "",
+            "origin": "Latin, fragmentum (a broken piece)",
+            "meaning": {
+                "ko": "깨진 조각",
+                "en": "broken piece",
+                "ja": "破片、欠片",
+                "zh": "碎片、断片",
+                "fr": "fragment, morceau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "frag- (frangere)",
+                    "meaning": {
+                        "ko": "'깨뜨리다'",
+                        "en": "to break",
+                        "ja": "壊す",
+                        "zh": "打破、破裂",
+                        "fr": "casser, briser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ment",
+                    "meaning": {
+                        "ko": "'결과물'",
+                        "en": "result or product",
+                        "ja": "結果物",
+                        "zh": "结果物",
+                        "fr": "résultat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'깨져서 나온 조각'이라는 의미에서 '파편', '조각'을 뜻합니다.",
+                "en": "Refers to a piece or shard resulting from something being broken, meaning fragment or piece.",
+                "ja": "壊れて出た欠片という意味で、破片や欠片を意味します。",
+                "zh": "指破裂后产生的碎片，意为破片或碎片。",
+                "fr": "Désigne un morceau ou un éclat résultant de la rupture, signifiant fragment ou morceau."
+            },
+            "example": "A fragment of the vase was found on the floor.",
+            "translation": {
+                "ko": "그 꽃병의 파편이 바닥에서 발견되었다.",
+                "ja": "花瓶の破片が床に見つかった。",
+                "zh": "花瓶的碎片在地板上被发现了。",
+                "fr": "Un fragment du vase a été trouvé sur le sol."
+            }
+        },
+        {
+            "word": "government",
+            "part_of_speech": "",
+            "origin": "Latin, gubernare (to steer, to govern)",
+            "meaning": {
+                "ko": "조종하다, 다스리다",
+                "en": "to control, to rule",
+                "ja": "統治する、支配する",
+                "zh": "统治、管理",
+                "fr": "gouverner, diriger"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "govern",
+                    "meaning": {
+                        "ko": "'다스리다'",
+                        "en": "to rule",
+                        "ja": "統治する",
+                        "zh": "统治",
+                        "fr": "gouverner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ment",
+                    "meaning": {
+                        "ko": "'조직, 행위'",
+                        "en": "organization, action",
+                        "ja": "組織、行為",
+                        "zh": "组织、行为",
+                        "fr": "organisation, action"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나라를 다스리는 조직'인 '정부'를 뜻합니다.",
+                "en": "Refers to the organization that governs a country",
+                "ja": "国を統治する組織である政府を意味します",
+                "zh": "指统治国家的组织，即政府",
+                "fr": "Désigne l'organisation qui gouverne un pays"
+            },
+            "example": "The government is responsible for the welfare of its citizens.",
+            "translation": {
+                "ko": "정부는 시민의 복지를 책임진다.",
+                "ja": "政府",
+                "zh": "政府",
+                "fr": "gouvernement"
+            }
+        },
+        {
+            "word": "movement",
+            "part_of_speech": "",
+            "origin": "Latin, movere (to move)",
+            "meaning": {
+                "ko": "움직이다",
+                "en": "to move",
+                "ja": "動き、運動",
+                "zh": "动作、运动",
+                "fr": "mouvement, action"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "move",
+                    "meaning": {
+                        "ko": "'움직이다'",
+                        "en": "to move",
+                        "ja": "動く",
+                        "zh": "移动、动作",
+                        "fr": "bouger, se mouvoir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ment",
+                    "meaning": {
+                        "ko": "'행위, 결과'",
+                        "en": "action or result",
+                        "ja": "行為、結果",
+                        "zh": "行为、结果",
+                        "fr": "action, résultat"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'움직이는 행위' 또는 '사회적 운동'을 뜻합니다.",
+                "en": "The act of moving or a social movement",
+                "ja": "動く行為または社会的運動を意味します",
+                "zh": "表示移动的行为或社会运动",
+                "fr": "Signifie l'acte de bouger ou un mouvement social"
+            },
+            "example": "She has a graceful movement.",
+            "translation": {
+                "ko": "그녀는 우아한 몸짓을 가지고 있다.",
+                "ja": "彼女は優雅な動きをしている。",
+                "zh": "她的动作很优雅。",
+                "fr": "Elle a un mouvement gracieux."
+            }
+        }
+    ]
+}

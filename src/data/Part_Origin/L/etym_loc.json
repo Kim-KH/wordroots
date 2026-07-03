@@ -1,0 +1,329 @@
+{
+    "root_info": {
+        "roots": "loc: place, area",
+        "origin": "Latin, locus (place), locare (to place)",
+        "meaning": {
+            "ko": "장소, 구역",
+            "en": "place, area",
+            "ja": "場所、区域",
+            "zh": "地点、区域",
+            "fr": "lieu, zone"
+        }
+    },
+    "words": [
+        {
+            "word": "allocate",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "al- (ad-)",
+                    "meaning": {
+                        "ko": "~에",
+                        "en": "to",
+                        "ja": "〜に",
+                        "zh": "给",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "loc",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to place",
+                        "ja": "置く",
+                        "zh": "放置",
+                        "fr": "placer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 목적에 맞게 자리를 정해 두다'는 의미에서, 자금이나 자원 등을 '할당하다', '배분하다'는 뜻입니다.",
+                "en": "From the sense of 'assigning a place for a specific purpose,' it means to 'allocate' or 'distribute' funds or resources.",
+                "ja": "「特定の目的に合わせて場所を定めて置く」という意味から、資金やリソースなどを「配分する」「割り当てる」という意味になります。",
+                "zh": "从\"根据特定目的分配位置\"的含义引申，表示对资金或资源等进行\"分配\"或\"拨款\"。",
+                "fr": "Du sens d'« assigner une place à un objectif spécifique », il signifie « répartir » ou « attribuer » des fonds ou des ressources."
+            },
+            "example": "The government will allocate more funds.",
+            "translation": {
+                "ko": "정부는 더 많은 자금을 할당할 것이다.",
+                "ja": "政府はより多くの資金を配分するでしょう。",
+                "zh": "政府将分配更多资金。",
+                "fr": "Le gouvernement allouera davantage de fonds."
+            }
+        },
+        {
+            "word": "locate",
+            "part_of_speech": "v.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "loc",
+                    "meaning": {
+                        "ko": "장소",
+                        "en": "place",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ate",
+                    "meaning": {
+                        "ko": "동사형 어미",
+                        "en": "verb-forming suffix",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 장소에 두다' 또는 '장소를 찾아내다'는 의미에서 '~의 위치를 찾아내다', '~에 위치하다'는 뜻입니다.",
+                "en": "From the meaning 'to put something in a place' or 'to find a place,' it evolved to mean 'to find the location of something' or 'to be situated at.'",
+                "ja": "『ある場所に置く』または『場所を見つける』という意味から、『〜の位置を特定する』、『〜に位置する』という意味に発展しました。",
+                "zh": "从'把某物放在某个地方'或'找到一个地点'的含义演变而来，现指'确定某物的位置'或'位于'的意思。",
+                "fr": "Du sens 'placer quelque chose à un endroit' ou 'trouver un endroit', il a évolué pour signifier 'déterminer la localisation de quelque chose' ou 'être situé à'."
+            },
+            "example": "Can you locate the city on the map?",
+            "translation": {
+                "ko": "지도에서 그 도시의 위치를 찾을 수 있나요?",
+                "ja": "地図でその都市の位置を特定できますか？",
+                "zh": "你能在地图上找到那个城市的位置吗？",
+                "fr": "Pouvez-vous localiser la ville sur la carte ?"
+            }
+        },
+        {
+            "word": "dislocate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "apart, away",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "loc",
+                    "meaning": {
+                        "ko": "두다",
+                        "en": "to place",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래의 장소에서 벗어나게 두다'는 의미에서, 뼈를 '탈골시키다' 또는 계획 등을 '혼란에 빠뜨리다'는 뜻입니다.",
+                "en": "To move from its original place; to disrupt the normal position of a bone or disrupt plans.",
+                "ja": "元の場所から外れた状態にすること。骨を脱臼させたり、計画などを混乱させたりする意味。",
+                "zh": "使某物脱离原来的位置；使骨脱臼或使计划陷入混乱。",
+                "fr": "Déplacer de sa position d'origine; luxer un os ou perturber des plans."
+            },
+            "example": "He dislocated his shoulder.",
+            "translation": {
+                "ko": "그는 어깨가 탈골되었다.",
+                "ja": "彼は肩を脱臼した。",
+                "zh": "他肩膀脱臼了。",
+                "fr": "Il s'est disloqué l'épaule."
+            }
+        },
+        {
+            "word": "locus",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "locus",
+                    "meaning": {
+                        "ko": "장소",
+                        "en": "place",
+                        "ja": "場所",
+                        "zh": "地点",
+                        "fr": "lieu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어에서 직접 온 단어로, 특정 사건이 일어나는 '장소', '중심지'를 의미하는 학술적 용어입니다.",
+                "en": "A word directly from Latin, an academic term meaning the 'place' or 'center' where a specific event occurs.",
+                "ja": "ラテン語から直接来た言葉で、特定の事件が起こる'場所'、'中心地'を意味する学術用語です。",
+                "zh": "直接来自拉丁语的词汇，学术术语，表示特定事件发生的'地点'、'中心'。",
+                "fr": "Un mot directement issu du latin, terme académique désignant le 'lieu' ou le 'centre' où un événement spécifique se produit."
+            },
+            "example": "The locus of the debate was the university.",
+            "translation": {
+                "ko": "그 토론의 중심지는 대학이었다.",
+                "ja": "その議論の焦点は大学にあった。",
+                "zh": "辩论的中心是大学。",
+                "fr": "Le centre du débat était l'université."
+            }
+        },
+        {
+            "word": "local",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "loc",
+                    "meaning": {
+                        "ko": "장소",
+                        "en": "place",
+                        "ja": "場所",
+                        "zh": "地点",
+                        "fr": "lieu"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞化接尾辞",
+                        "zh": "形容词化后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 장소에 관한'이라는 의미로, '지역의', '현지의'라는 뜻입니다.",
+                "en": "Meaning 'relating to a specific place'; refers to regional or community-based.",
+                "ja": "『特定の場所に関する』という意味で、『地域の』『地元の』という意味です。",
+                "zh": "'与特定地点相关'的意思，表示'地区的''本地的'。",
+                "fr": "Signifie 'relatif à un endroit spécifique' ; désigne ce qui est 'régional' ou 'local'."
+            },
+            "example": "I prefer to shop at local stores.",
+            "translation": {
+                "ko": "나는 지역 상점에서 쇼핑하는 것을 선호한다.",
+                "ja": "私は地元の店で買い物をするのが好きです。",
+                "zh": "我喜欢在本地商店购物。",
+                "fr": "Je préfère faire mes achats dans les magasins locaux."
+            }
+        },
+        {
+            "word": "locomotion",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "loco",
+                    "meaning": {
+                        "ko": "장소",
+                        "en": "place",
+                        "ja": "場所",
+                        "zh": "地点",
+                        "fr": "lieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot",
+                    "meaning": {
+                        "ko": "움직임",
+                        "en": "movement",
+                        "ja": "動き",
+                        "zh": "运动",
+                        "fr": "mouvement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'장소를 움직여 가는 것'이라는 의미에서 '운동', '이동'을 뜻합니다.",
+                "en": "From Latin 'locus' (place) and 'motio' (movement): the act of moving from place to place.",
+                "ja": "ラテン語の「locus」(場所)と「motio」(動き)から：ある場所から別の場所へ移動する行為を意味します。",
+                "zh": "来自拉丁语\"locus\"(地点)和\"motio\"(运动)：从一个地点移动到另一个地点的行为。",
+                "fr": "Du latin 'locus' (lieu) et 'motio' (mouvement) : l'action de se déplacer d'un lieu à un autre."
+            },
+            "example": "Walking is a form of locomotion.",
+            "translation": {
+                "ko": "걷기는 이동의 한 형태이다.",
+                "ja": "歩くことは移動の一形態である。",
+                "zh": "走路是运动的一种形式。",
+                "fr": "La marche est une forme de locomotion."
+            }
+        },
+        {
+            "word": "locale",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "loc",
+                    "meaning": {
+                        "ko": "장소",
+                        "en": "place",
+                        "ja": "場所",
+                        "zh": "地点",
+                        "fr": "lieu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "프랑스어를 거쳐 들어온 단어로, 어떤 사건이 일어나거나 이야기가 설정된 '현장', '장소'를 의미합니다.",
+                "en": "Word borrowed through French, meaning the 'scene' or 'place' where an event occurs or a story is set.",
+                "ja": "フランス語を経由して入ってきた単語で、ある出来事が起こったり、物語が設定されたりする『現場』『場所』を意味します。",
+                "zh": "通过法语传入的词汇，指某事件发生或故事发生的'现场''地点'。",
+                "fr": "Mot emprunté au français, désignant le 'lieu' ou la 'scène' où se déroule un événement ou où une histoire se situe."
+            },
+            "example": "The novel's locale is a small village.",
+            "translation": {
+                "ko": "그 소설의 배경은 작은 마을이다.",
+                "ja": "その小説の舞台は小さな村です。",
+                "zh": "那部小说的背景是一个小村庄。",
+                "fr": "Le cadre du roman est un petit village."
+            }
+        },
+        {
+            "word": "locomotive",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "loco",
+                    "meaning": {
+                        "ko": "장소",
+                        "en": "place",
+                        "ja": "場所",
+                        "zh": "地点",
+                        "fr": "lieu"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mot",
+                    "meaning": {
+                        "ko": "움직임",
+                        "en": "movement",
+                        "ja": "動き",
+                        "zh": "运动",
+                        "fr": "mouvement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'장소를 움직이는'이라는 의미에서 '운동의'라는 뜻이며, 명사로는 열차를 끄는 '기관차'를 의미합니다.",
+                "en": "From the meaning of 'moving place', it means 'of motion'. As a noun, it refers to a 'locomotive engine' that pulls trains.",
+                "ja": "「場所を動かす」という意味から「運動の」という意味になり、名詞としては列車を引く「機関車」を意味します。",
+                "zh": "从「移动地点」的含义引申为「运动的」，名词指拉动列车的「机车」。",
+                "fr": "Du sens de «déplacer un lieu», cela signifie «du mouvement». En tant que nom, il désigne une «locomotive» qui tire les trains."
+            },
+            "example": "The locomotive pulled the long train.",
+            "translation": {
+                "ko": "기관차가 긴 열차를 끌었다.",
+                "ja": "機関車",
+                "zh": "机车",
+                "fr": "locomotive"
+            }
+        }
+    ]
+}

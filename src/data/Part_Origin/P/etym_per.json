@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "per",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "통하여, 철저하게",
+            "en": "through, intensive",
+            "ja": "通じて、徹底的に",
+            "zh": "通过、彻底地",
+            "fr": "à travers, intensif"
+        }
+    },
+    "words": [
+        {
+            "word": "permit",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "통하여",
+                        "en": "through",
+                        "ja": "通して",
+                        "zh": "通过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mit",
+                    "meaning": {
+                        "ko": "보내다",
+                        "en": "to let go",
+                        "ja": "放す",
+                        "zh": "放开",
+                        "fr": "laisser aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'통과하도록 놔두다'는 의미에서 '허락하다', '허가하다'는 뜻입니다.",
+                "en": "From the meaning 'to let through,' it came to mean 'to allow' or 'to authorize.'",
+                "ja": "「通すことを許す」という意味から、「許可する」という意味になりました。",
+                "zh": "从「让...通过」的意思引申为「允许」或「授权」。",
+                "fr": "Du sens « laisser passer » au sens « autoriser » ou « accorder une permission »."
+            },
+            "example": "Parking is not permitted here.",
+            "translation": {
+                "ko": "이곳은 주차가 허용되지 않습니다.",
+                "ja": "ここでの駐車は許可されていません。",
+                "zh": "此处不允许停车。",
+                "fr": "Le stationnement n'est pas autorisé ici."
+            }
+        },
+        {
+            "word": "perspire",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "통하여",
+                        "en": "through",
+                        "ja": "通して",
+                        "zh": "通过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spire",
+                    "meaning": {
+                        "ko": "숨 쉬다",
+                        "en": "to breathe",
+                        "ja": "呼吸する",
+                        "zh": "呼吸",
+                        "fr": "respirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부를 통해 숨 쉬다'는 의미에서 '땀을 흘리다'는 뜻입니다.",
+                "en": "From the sense of 'breathing through the skin,' meaning 'to sweat.'",
+                "ja": "「皮膚を通して呼吸する」という意味から、「汗をかく」という意味になりました。",
+                "zh": "从「通过皮肤呼吸」的意思演变为「出汗」的含义。",
+                "fr": "Du sens de « respirer à travers la peau », signifiant « transpirer »."
+            },
+            "example": "We perspire more in hot weather.",
+            "translation": {
+                "ko": "우리는 더운 날씨에 땀을 더 많이 흘린다.",
+                "ja": "私たちは暑い天候でより多く汗をかきます。",
+                "zh": "我们在炎热的天气里出汗更多。",
+                "fr": "Nous transpirons davantage par temps chaud."
+            }
+        },
+        {
+            "word": "perforate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "통하여",
+                        "en": "through",
+                        "ja": "を通して",
+                        "zh": "通过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "forate",
+                    "meaning": {
+                        "ko": "구멍을 뚫다",
+                        "en": "to make holes through",
+                        "ja": "穴を開ける",
+                        "zh": "打孔",
+                        "fr": "percer des trous"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뚫고 지나가다'는 의미에서 '구멍을 내다'는 뜻입니다.",
+                "en": "From the sense of 'pass through' to 'make holes'",
+                "ja": "'貫き通す'という意味から'穴を開ける'という意味へ",
+                "zh": "从'穿过'的含义演变为'打孔'的含义",
+                "fr": "Du sens de 'passer à travers' au sens de 'faire des trous'"
+            },
+            "example": "Please perforate the paper along the dotted line.",
+            "translation": {
+                "ko": "점선을 따라 종이에 구멍을 내주세요.",
+                "ja": "点線に沿って紙に穴を開けてください。",
+                "zh": "请沿着虚线在纸上打孔。",
+                "fr": "Veuillez perforer le papier le long de la ligne pointillée."
+            }
+        },
+        {
+            "word": "persuade",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "철저하게",
+                        "en": "thoroughly",
+                        "ja": "徹底的に",
+                        "zh": "彻底地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "suade",
+                    "meaning": {
+                        "ko": "권하다",
+                        "en": "to urge or recommend",
+                        "ja": "勧める",
+                        "zh": "劝告",
+                        "fr": "exhorter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'철저하게 권하다'는 의미에서 '설득하다'는 뜻입니다.",
+                "en": "From Latin persuadere: 'thoroughly' + 'to advise' = to convince someone completely",
+                "ja": "「徹底的に勧める」という意味から「説得する」という意味になります。",
+                "zh": "从「彻底地劝告」的含义中产生「说服」的意思。",
+                "fr": "De « conseiller complètement » vient le sens « convaincre »."
+            },
+            "example": "I persuaded him to join us.",
+            "translation": {
+                "ko": "나는 그가 우리와 함께하도록 설득했다.",
+                "ja": "私は彼に私たちに参加するよう説得した。",
+                "zh": "我说服了他和我们一起。",
+                "fr": "Je l'ai persuadé de nous rejoindre."
+            }
+        }
+    ]
+}

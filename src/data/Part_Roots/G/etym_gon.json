@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "gon (angle) octagon, pentagon, polygon",
+        "origin": "Greek, gonia (angle, corner)",
+        "meaning": {
+            "ko": "각",
+            "en": "angle",
+            "ja": "角度",
+            "zh": "角度",
+            "fr": "angle"
+        }
+    },
+    "words": [
+        {
+            "word": "octagon",
+            "part_of_speech": "",
+            "origin": "Greek, oktagonon (eight-angled)",
+            "meaning": {
+                "ko": "여덟 개의 각",
+                "en": "eight angles",
+                "ja": "8つの角",
+                "zh": "八个角",
+                "fr": "huit angles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "octa-",
+                    "meaning": {
+                        "ko": "'여덟'",
+                        "en": "eight",
+                        "ja": "8つ",
+                        "zh": "八",
+                        "fr": "huit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gon",
+                    "meaning": {
+                        "ko": "'각'",
+                        "en": "angle",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "angle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여덟 개의 각을 가진 도형'이라는 의미에서 '8각형'을 뜻합니다.",
+                "en": "Shape with eight angles, meaning octagon (8-sided polygon)",
+                "ja": "8つの角を持つ形から、八角形を意味します",
+                "zh": "从有八个角的形状，指八边形",
+                "fr": "Forme avec huit angles, signifiant octogone (polygone à 8 côtés)"
+            },
+            "example": "A stop sign has the shape of an octagon.",
+            "translation": {
+                "ko": "정지 표지판은 팔각형 모양이다.",
+                "ja": "停止標識は八角形の形をしています。",
+                "zh": "停止标志的形状是八边形。",
+                "fr": "Un panneau d'arrêt a la forme d'un octogone."
+            }
+        },
+        {
+            "word": "pentagon",
+            "part_of_speech": "",
+            "origin": "Greek, pentagonon (five-angled)",
+            "meaning": {
+                "ko": "다섯 개의 각",
+                "en": "five angles",
+                "ja": "五つの角",
+                "zh": "五个角",
+                "fr": "cinq angles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "penta-",
+                    "meaning": {
+                        "ko": "'다섯'",
+                        "en": "five",
+                        "ja": "五",
+                        "zh": "五",
+                        "fr": "cinq"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gon",
+                    "meaning": {
+                        "ko": "'각'",
+                        "en": "angle",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "angle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다섯 개의 각을 가진 도형'이라는 의미에서 '5각형'을 뜻합니다.",
+                "en": "A shape with five angles, meaning a pentagon",
+                "ja": "五つの角を持つ図形を意味します",
+                "zh": "意为具有五个角的形状",
+                "fr": "Signifie une forme à cinq angles"
+            },
+            "example": "The Pentagon is the headquarters of the U.S. Department of Defense.",
+            "translation": {
+                "ko": "펜타곤은 미국 국방부의 본부이다.",
+                "ja": "五角形は米国防衛省の本部です。",
+                "zh": "五角大楼是美国国防部总部。",
+                "fr": "Le Pentagone est le siège du Département de la Défense des États-Unis."
+            }
+        },
+        {
+            "word": "polygon",
+            "part_of_speech": "",
+            "origin": "Greek, polygonon (many-angled)",
+            "meaning": {
+                "ko": "많은 각",
+                "en": "many angles",
+                "ja": "多くの角",
+                "zh": "许多角",
+                "fr": "plusieurs angles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "poly-",
+                    "meaning": {
+                        "ko": "'많은'",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多",
+                        "fr": "plusieurs"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gon",
+                    "meaning": {
+                        "ko": "'각'",
+                        "en": "angle",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "angle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 개의 각을 가진 도형'이라는 의미에서 '다각형'을 뜻합니다.",
+                "en": "Means 'polygon' as a shape with multiple angles",
+                "ja": "複数の角を持つ図形を意味する'多角形'",
+                "zh": "表示具有多个角的图形'多边形'",
+                "fr": "Signifie 'polygone' comme forme avec plusieurs angles"
+            },
+            "example": "Squares and triangles are both types of polygons.",
+            "translation": {
+                "ko": "정사각형과 삼각형은 모두 다각형의 한 종류이다.",
+                "ja": "正方形と三角形の両方は多角形の一種です。",
+                "zh": "正方形和三角形都是多边形的类型。",
+                "fr": "Les carrés et les triangles sont tous deux des types de polygones."
+            }
+        }
+    ]
+}

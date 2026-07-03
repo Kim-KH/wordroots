@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "apo (detached, off) apogee, apocalypse",
+        "origin": "Greek, apo (from, off, away)",
+        "meaning": {
+            "ko": "떨어져서",
+            "en": "off, away from",
+            "ja": "離れて、遠く",
+            "zh": "离开、远离",
+            "fr": "loin de, éloigné de"
+        }
+    },
+    "words": [
+        {
+            "word": "apogee",
+            "part_of_speech": "",
+            "origin": "Greek, apogaion (away from the earth)",
+            "meaning": {
+                "ko": "지구에서 멀리",
+                "en": "away from the earth",
+                "ja": "地球から最も遠い点",
+                "zh": "离地球最远的点",
+                "fr": "point le plus éloigné de la Terre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "apo-",
+                    "meaning": {
+                        "ko": "'떨어져서'",
+                        "en": "away from",
+                        "ja": "離れて",
+                        "zh": "远离",
+                        "fr": "loin de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gee (gē)",
+                    "meaning": {
+                        "ko": "'지구'",
+                        "en": "earth",
+                        "ja": "地球",
+                        "zh": "地球",
+                        "fr": "Terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "달이나 인공위성이 궤도상에서 '지구(gee)로부터 가장 멀리 떨어지는(apo) 지점'인 '원지점'을 의미합니다. 비유적으로는 성공이나 발전의 '최고점', '정점'을 뜻하기도 합니다.",
+                "en": "Refers to the point in the orbit of the Moon or satellite that is farthest from Earth. Figuratively, it also means the highest point or peak of success and development.",
+                "ja": "月や人工衛星の軌道上で地球から最も遠い地点を意味します。比喩的には成功や発展の最高点、頂点を表します。",
+                "zh": "指月球或人工卫星轨道上离地球最远的点。比喻地也表示成功或发展的最高点、顶峰。",
+                "fr": "Désigne le point de l'orbite lunaire ou satellitaire le plus éloigné de la Terre. Au figuré, signifie le plus haut point ou sommet du succès et du développement."
+            },
+            "example": "The satellite reaches its apogee at the farthest point in its orbit.",
+            "translation": {
+                "ko": "위성은 궤도의 가장 먼 지점에서 원지점에 도달한다.",
+                "ja": "人工衛星は軌道上の最も遠い地点である遠地点に到達します。",
+                "zh": "卫星在其轨道上的最远点处到达远地点。",
+                "fr": "Le satellite atteint son apogée au point le plus éloigné de son orbite."
+            }
+        },
+        {
+            "word": "apocalypse",
+            "part_of_speech": "",
+            "origin": "Greek, apokalypsis (revelation)",
+            "meaning": {
+                "ko": "덮개를 벗기다",
+                "en": "to uncover",
+                "ja": "明かす、暴露する",
+                "zh": "揭露、暴露",
+                "fr": "révéler, découvrir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "apo-",
+                    "meaning": {
+                        "ko": "'떨어져서, 벗어나'",
+                        "en": "off, away from",
+                        "ja": "離れて、離す",
+                        "zh": "离开、远离",
+                        "fr": "loin de, éloignement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "calypse (kalyptein)",
+                    "meaning": {
+                        "ko": "'덮다, 숨기다'",
+                        "en": "to cover, hide",
+                        "ja": "覆う、隠す",
+                        "zh": "覆盖、隐藏",
+                        "fr": "couvrir, cacher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'덮개를 벗겨(apo)내다'는 의미에서 숨겨진 것을 드러내는 '계시'나 '묵시'를 뜻했으나, 성경의 '요한계시록(The Apocalypse)'이 세상의 종말을 다루기 때문에 현재는 '세상의 종말', '대재앙'이라는 의미로 주로 사용됩니다.",
+                "en": "Originally meant 'revelation' or 'disclosure' of hidden things, but because the biblical Book of Revelation deals with the end of the world, it now primarily means 'end of the world' or 'catastrophe'.",
+                "ja": "元々は隠されたものを明かす'啓示'や'黙示'を意味していたが、聖書の'ヨハネの黙示録(The Apocalypse)'が世界の終末を扱うため、現在は'世界の終末'や'大惨事'の意味で主に使われています。",
+                "zh": "原本指揭露隐藏事物的'启示'或'默示'，但因圣经的'启示录(The Apocalypse)'涉及世界末日，现在主要用来表示'世界末日'或'大灾难'。",
+                "fr": "Signifiait originellement 'révélation' ou 'divulgation' de choses cachées, mais comme l'Apocalypse biblique traite de la fin du monde, il désigne maintenant principalement 'fin du monde' ou 'catastrophe'."
+            },
+            "example": "The movie depicts a post-apocalypse world struggling to survive.",
+            "translation": {
+                "ko": "그 영화는 대재앙 이후 생존을 위해 고군분투하는 세계를 묘사한다.",
+                "ja": "映画は黙示録後の世界で生き残りに苦しむ世界を描いている。",
+                "zh": "这部电影描绘了启示录后的世界在艰难中挣扎求生。",
+                "fr": "Le film dépeint un monde post-apocalyptique luttant pour survivre."
+            }
+        }
+    ]
+}

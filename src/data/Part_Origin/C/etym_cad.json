@@ -1,0 +1,550 @@
+{
+    "root_info": {
+        "roots": "cad, cap, cas, ceiv, cept, cid: to take, to seize, to hold",
+        "origin": "Latin, capere",
+        "meaning": {
+            "ko": "잡다",
+            "en": "to take, to hold",
+            "ja": "つかむ、持つ (tsukamu, motsu)",
+            "zh": "抓住、拿 (zhuāzhù, ná)",
+            "fr": "prendre, tenir"
+        }
+    },
+    "words": [
+        {
+            "word": "conceive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께, 완전히",
+                        "en": "with, thoroughly",
+                        "ja": "一緒に、完全に",
+                        "zh": "一起、彻底地",
+                        "fr": "avec, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceive",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "つかむ、握る",
+                        "zh": "抓住、拿取",
+                        "fr": "prendre, saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "생각이나 아이를 '마음속이나 몸속에 완전히 품다'는 의미에서, '생각해 내다', '상상하다', '임신하다'는 뜻이 되었습니다.",
+                "en": "Originally meant to 'hold completely in the mind or body' (a thought or child), developing into 'think of', 'imagine', or 'become pregnant'.",
+                "ja": "元々は「考えや子どもを心や体に完全に抱く」という意味で、「思いつく」「想像する」「妊娠する」という意味に発展しました。",
+                "zh": "最初意为「将想法或孩子完全放在心中或体内」，后来发展出「想到」「想象」「怀孕」等含义。",
+                "fr": "Signifiait à l'origine « tenir complètement en esprit ou en corps » (une pensée ou un enfant), d'où les sens « imaginer », « concevoir une idée » et « devenir enceinte »."
+            },
+            "example": "I cannot conceive of a world without music.",
+            "translation": {
+                "ko": "나는 음악 없는 세상을 상상할 수 없다.",
+                "ja": "音楽のない世界を想像することはできません。",
+                "zh": "我无法想象没有音乐的世界。",
+                "fr": "Je ne peux pas concevoir un monde sans musique."
+            }
+        },
+        {
+            "word": "capacity",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cap",
+                    "meaning": {
+                        "ko": "잡다, 담다",
+                        "en": "to hold",
+                        "ja": "保つ、入れる",
+                        "zh": "持有、容纳",
+                        "fr": "tenir, contenir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-acity",
+                    "meaning": {
+                        "ko": "성질",
+                        "en": "quality or state",
+                        "ja": "性質、能力",
+                        "zh": "性质、能力",
+                        "fr": "nature, capacité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'담을 수 있는 능력'이라는 의미에서 '수용력', '용량' 또는 사람의 '능력'을 뜻합니다.",
+                "en": "Refers to the ability to hold or contain; means 'capacity', 'volume', or a person's 'ability'",
+                "ja": "保つ、または含むことができる能力を指します。'収容力'、'容量'、または人の'能力'を意味します。",
+                "zh": "指持有或容纳的能力；意为'容量'、'体积'或人的'能力'。",
+                "fr": "Désigne la capacité à tenir ou contenir ; signifie 'capacité', 'volume' ou 'aptitude' d'une personne."
+            },
+            "example": "The stadium has a seating capacity of 50,000.",
+            "translation": {
+                "ko": "그 경기장은 5만 명의 수용 능력을 가지고 있다.",
+                "ja": "収容力、容量、能力",
+                "zh": "容量、容纳能力、能力",
+                "fr": "capacité, volume, aptitude"
+            }
+        },
+        {
+            "word": "intercept",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cept",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "捕らえる",
+                        "zh": "抓住",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'중간에 들어가 잡다'는 의미에서 공이나 통신 등을 '가로채다'는 뜻입니다.",
+                "en": "Meaning 'to seize in the middle,' used for intercepting balls, communications, etc.",
+                "ja": "「中間に入って捕らえる」という意味から、ボールや通信などを「横取りする」という意味になります。",
+                "zh": "从「在中间捕捉」的意思出发，用于「拦截」球或通信等。",
+                "fr": "Du sens de « saisir au milieu », utilisé pour intercepter des balles, des communications, etc."
+            },
+            "example": "The defender intercepted the pass.",
+            "translation": {
+                "ko": "그 수비수가 패스를 가로챘다.",
+                "ja": "そのディフェンダーがパスをインターセプトした。",
+                "zh": "那名后卫拦截了传球。",
+                "fr": "Le défenseur a intercepté la passe."
+            }
+        },
+        {
+            "word": "captive",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "capt",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "つかまえる",
+                        "zh": "抓住",
+                        "fr": "saisir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ive",
+                    "meaning": {
+                        "ko": "~된 사람",
+                        "en": "person who is",
+                        "ja": "~された人",
+                        "zh": "~的人",
+                        "fr": "~personne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'붙잡힌 사람'이라는 의미에서 '포로'를 뜻합니다.",
+                "en": "From the sense of 'a person seized/taken,' meaning 'prisoner of war'",
+                "ja": "「つかまえられた人」という意味から「捕虜」を意味します",
+                "zh": "从「被抓住的人」的含义引申为「战俘」",
+                "fr": "Du sens de « personne saisie », signifie « prisonnier de guerre »"
+            },
+            "example": "The soldier was held captive for two years.",
+            "translation": {
+                "ko": "그 군인은 2년 동안 포로로 잡혀 있었다.",
+                "ja": "その兵士は2年間捕虜として捕らえられていた。",
+                "zh": "那名士兵被俘虏了两年。",
+                "fr": "Le soldat a été tenu captif pendant deux ans."
+            }
+        },
+        {
+            "word": "deceive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져, 나쁘게",
+                        "en": "away, badly",
+                        "ja": "離れて、悪く",
+                        "zh": "离开、坏地",
+                        "fr": "loin, mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceive",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "つかむ",
+                        "zh": "抓住",
+                        "fr": "prendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못된 방향으로 잡아가다'는 의미에서 '속이다', '기만하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'to take in the wrong direction' came to mean 'to trick' or 'to mislead'",
+                "ja": "『間違った方向に連れ去る』という意味から『欺く』『だます』という意味になりました。",
+                "zh": "从'以错误的方向带走'的意思演变为'欺骗'、'误导'的含义。",
+                "fr": "Du sens de 'mener dans la mauvaise direction' est né le sens de 'tromper' ou 'induire en erreur'."
+            },
+            "example": "Don't be deceived by his friendly smile.",
+            "translation": {
+                "ko": "그의 친근한 미소에 속지 마세요.",
+                "ja": "彼の親しみやすい笑顔に騙されないでください。",
+                "zh": "不要被他亲切的笑容所欺骗。",
+                "fr": "Ne vous laissez pas tromper par son sourire bienveillant."
+            }
+        },
+        {
+            "word": "except",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cept",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "取る",
+                        "zh": "取",
+                        "fr": "prendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 잡아내다'는 의미에서, '~을 제외하고'라는 뜻이 되었습니다.",
+                "en": "From 'take out' meaning, became 'excluding'",
+                "ja": "「外へ取り出す」という意味から、「～を除いて」という意味になりました。",
+                "zh": "从\"取出\"的意思，演变成了\"除了...之外\"的含义。",
+                "fr": "Du sens de « retirer dehors », est devenu « à l'exclusion de »"
+            },
+            "example": "Everyone was there except John.",
+            "translation": {
+                "ko": "존을 제외하고 모두가 거기에 있었다.",
+                "ja": "ジョンを除いて、みんなそこにいました。",
+                "zh": "除了约翰，每个人都在那里。",
+                "fr": "Tout le monde était là sauf Jean."
+            }
+        },
+        {
+            "word": "accept",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ac- (ad-)",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "to",
+                        "ja": "〜に向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cept",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "つかむ",
+                        "zh": "抓住",
+                        "fr": "prendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신 쪽으로 잡다'는 의미에서, 제안이나 선물을 '받아들이다', '수락하다'는 뜻입니다.",
+                "en": "From the sense of 'to take toward oneself': to receive or agree to an offer or gift.",
+                "ja": "「自分の方へつかむ」という意味から、提案や贈り物を「受け入れる」「受け入れる」という意味になります。",
+                "zh": "从「把某物抓向自己」的含义来，表示「接受」或「同意」提议或礼物。",
+                "fr": "Du sens de « saisir vers soi » : recevoir ou consentir à une offre ou un cadeau."
+            },
+            "example": "I accept your apology.",
+            "translation": {
+                "ko": "당신의 사과를 받아들이겠습니다.",
+                "ja": "あなたの謝罪を受け入れます。",
+                "zh": "我接受你的道歉。",
+                "fr": "J'accepte vos excuses."
+            }
+        },
+        {
+            "word": "susceptible",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sus- (sub-)",
+                    "meaning": {
+                        "ko": "아래에서",
+                        "en": "from under",
+                        "ja": "下から",
+                        "zh": "从下面",
+                        "fr": "d'en dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cept",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "つかむ",
+                        "zh": "抓住",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아래에서 쉽게 잡히는'이라는 의미에서, 질병이나 영향에 '걸리기 쉬운', '영향받기 쉬운'이라는 뜻입니다.",
+                "en": "From 'easily caught from under,' meaning easily affected by illness or influence.",
+                "ja": "「下から簡単につかまる」という意味から、病気や影響に「かかりやすい」、「影響を受けやすい」という意味になります。",
+                "zh": "从「容易从下面被抓住」的意思，引申为「容易染上疾病」、「容易受到影响」的含义。",
+                "fr": "Du sens « facilement saisi d'en dessous », signifiant facilement affecté par la maladie ou l'influence."
+            },
+            "example": "Young children are susceptible to colds.",
+            "translation": {
+                "ko": "어린 아이들은 감기에 걸리기 쉽다.",
+                "ja": "幼い子どもたちは風邪にかかりやすい。",
+                "zh": "幼小的孩子容易患感冒。",
+                "fr": "Les jeunes enfants sont susceptibles d'attraper des rhumes."
+            }
+        },
+        {
+            "word": "perceive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "per-",
+                    "meaning": {
+                        "ko": "통하여, 완전히",
+                        "en": "through",
+                        "ja": "通して、完全に",
+                        "zh": "通过、完全地",
+                        "fr": "à travers, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceive",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "つかむ、捉える",
+                        "zh": "抓住、获取",
+                        "fr": "saisir, prendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "감각을 '통해 완전히 파악하다'는 의미에서 '인지하다', '알아차리다'는 뜻입니다.",
+                "en": "From the sense of 'grasping completely through the senses' comes the meaning 'to become aware of', 'to notice'.",
+                "ja": "感覚を『通して完全に把握する』という意味から『認識する』『気づく』という意味になります。",
+                "zh": "从'通过感觉完全掌握'的意义引申为'认知''察觉'的含义。",
+                "fr": "Du sens de 'saisir complètement par les sens' dérive le sens de 'prendre conscience de', 'remarquer'."
+            },
+            "example": "I perceived a change in his attitude.",
+            "translation": {
+                "ko": "나는 그의 태도에 변화가 있음을 감지했다.",
+                "ja": "私は彼の態度の変化に気づいた。",
+                "zh": "我察觉到了他态度的变化。",
+                "fr": "J'ai perçu un changement dans son attitude."
+            }
+        },
+        {
+            "word": "occupy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "oc- (ob-)",
+                    "meaning": {
+                        "ko": "~에 대하여, 위에",
+                        "en": "against, on",
+                        "ja": "に対して、上に",
+                        "zh": "对着、在上面",
+                        "fr": "contre, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cupy (capere)",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "つかむ、占める",
+                        "zh": "抓住、占据",
+                        "fr": "saisir, occuper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "공간이나 시간을 '잡다'는 의미에서, '차지하다', '점령하다'는 뜻입니다.",
+                "en": "From the meaning of 'to take' space or time, it means 'to occupy', 'to seize', or 'to control'.",
+                "ja": "空間や時間を『つかむ』という意味から、『占める』、『支配する』という意味になります。",
+                "zh": "从『抓住』空间或时间的含义，引申为『占据』、『控制』的意思。",
+                "fr": "Du sens de 'saisir' l'espace ou le temps, cela signifie 'occuper', 'contrôler'."
+            },
+            "example": "The army occupied the city.",
+            "translation": {
+                "ko": "군대가 그 도시를 점령했다.",
+                "ja": "軍隊がその都市を占領した。",
+                "zh": "军队占领了这座城市。",
+                "fr": "L'armée a occupé la ville."
+            }
+        },
+        {
+            "word": "anticipate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "anti- (ante-)",
+                    "meaning": {
+                        "ko": "미리",
+                        "en": "before",
+                        "ja": "前もって",
+                        "zh": "提前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cip",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "つかむ",
+                        "zh": "抓住",
+                        "fr": "saisir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마음속에 미리 잡아두다'는 의미에서, '예상하다', '기대하다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'holding something in one's mind beforehand', it came to mean 'to expect' or 'to look forward to'.",
+                "ja": "心の中に前もってつかんでおくという意味から、期待する、予想するという意味になりました。",
+                "zh": "从'提前在心中抓住'的含义出发，演变为'期待'、'预期'的意思。",
+                "fr": "Du sens de 'saisir d'avance dans son esprit', il en est venu à signifier 's'attendre à' ou 'anticiper'."
+            },
+            "example": "We anticipate a large crowd.",
+            "translation": {
+                "ko": "우리는 많은 군중을 예상한다.",
+                "ja": "大勢の来場を予想しています。",
+                "zh": "我们预期会有大量人群。",
+                "fr": "Nous anticipons une grande foule."
+            }
+        },
+        {
+            "word": "receive",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로, 다시",
+                        "en": "back",
+                        "ja": "後ろに、再び",
+                        "zh": "向后、再次",
+                        "fr": "arrière, de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ceive",
+                    "meaning": {
+                        "ko": "잡다",
+                        "en": "to take",
+                        "ja": "取る",
+                        "zh": "拿、取",
+                        "fr": "prendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자기 쪽으로 잡아오다'는 의미에서, '받다'는 뜻입니다.",
+                "en": "From the sense of 'take back toward oneself,' meaning 'to receive'",
+                "ja": "「自分の方へ取ってくる」という意味から、「受け取る」という意味になります",
+                "zh": "从「向自己拿来」的意思，引申为「接收」的意思",
+                "fr": "Du sens de « prendre vers soi », signifiant « recevoir »"
+            },
+            "example": "Did you receive my letter?",
+            "translation": {
+                "ko": "제 편지를 받으셨나요?",
+                "ja": "私の手紙を受け取られましたか？",
+                "zh": "你收到我的信了吗？",
+                "fr": "Avez-vous reçu ma lettre ?"
+            }
+        },
+        {
+            "word": "capable",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cap",
+                    "meaning": {
+                        "ko": "잡다, 할 수 있다",
+                        "en": "to hold, to be able",
+                        "ja": "持つ、できる",
+                        "zh": "持有、能够",
+                        "fr": "tenir, pouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 일을 해낼 수 있는 능력을 가진'이라는 의미에서, '~을 할 수 있는', '유능한'이라는 뜻입니다.",
+                "en": "From the sense of having the ability to accomplish a task; meaning able to do something, competent",
+                "ja": "ある仕事をやり遂げることができる能力を持つという意味から、〜ができる、有能なという意味です",
+                "zh": "从具有完成某项任务的能力这一含义出发，表示能够做某事、有能力的意思",
+                "fr": "Du sens d'avoir la capacité d'accomplir une tâche; signifie capable de faire quelque chose, compétent"
+            },
+            "example": "He is capable of lifting heavy weights.",
+            "translation": {
+                "ko": "그는 무거운 역기를 들 수 있다.",
+                "ja": "彼は重い物を持ち上げることができる。",
+                "zh": "他能够举起重物。",
+                "fr": "Il est capable de soulever des poids lourds."
+            }
+        }
+    ]
+}

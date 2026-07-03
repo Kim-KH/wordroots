@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "gyn(ec) (female) androgyny, gynecology, gynecologist",
+        "origin": "Greek, gyne (woman)",
+        "meaning": {
+            "ko": "여성",
+            "en": "woman",
+            "ja": "女性",
+            "zh": "女性",
+            "fr": "femme"
+        }
+    },
+    "words": [
+        {
+            "word": "androgyny",
+            "part_of_speech": "",
+            "origin": "Greek, androgynos (man-woman)",
+            "meaning": {
+                "ko": "남자-여자",
+                "en": "male and female",
+                "ja": "両性性",
+                "zh": "双性特征",
+                "fr": "androgynie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "andro-",
+                    "meaning": {
+                        "ko": "'남자'",
+                        "en": "man",
+                        "ja": "男性",
+                        "zh": "男性",
+                        "fr": "homme"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gyn",
+                    "meaning": {
+                        "ko": "'여자'",
+                        "en": "woman",
+                        "ja": "女性",
+                        "zh": "女性",
+                        "fr": "femme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'남자와 여자의 특징을 모두 가진 상태'를 의미하여 '양성성'을 뜻합니다.",
+                "en": "State of having both masculine and feminine characteristics",
+                "ja": "男性と女性の両方の特徴を持つ状態",
+                "zh": "同时具有男性和女性特征的状态",
+                "fr": "État possédant les caractéristiques masculines et féminines"
+            },
+            "example": "The artist explores themes of androgyny in her work.",
+            "translation": {
+                "ko": "그 예술가는 작품에서 양성성이라는 주제를 탐구한다.",
+                "ja": "その芸術家は彼女の作品で両性性のテーマを探求している。",
+                "zh": "这位艺术家在她的作品中探索了双性特征的主题。",
+                "fr": "L'artiste explore les thèmes d'androgynie dans son travail."
+            }
+        },
+        {
+            "word": "gynecology",
+            "part_of_speech": "",
+            "origin": "Greek, gyne (woman) + logos (study)",
+            "meaning": {
+                "ko": "여성 연구",
+                "en": "study of women",
+                "ja": "女性医学",
+                "zh": "女性医学",
+                "fr": "médecine des femmes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gyneco-",
+                    "meaning": {
+                        "ko": "'여성'",
+                        "en": "woman",
+                        "ja": "女性",
+                        "zh": "女性",
+                        "fr": "femme"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여성의 생식 기관 및 질병을 연구하는 의학 분야'인 '부인과학'을 뜻합니다.",
+                "en": "A medical field that studies the reproductive organs and diseases of women",
+                "ja": "女性の生殖器官および疾患を研究する医学分野",
+                "zh": "研究女性生殖器官和疾病的医学领域",
+                "fr": "Un domaine médical étudiant les organes reproducteurs et maladies féminins"
+            },
+            "example": "Gynecology is a branch of medicine that deals with the health of the female reproductive system.",
+            "translation": {
+                "ko": "부인과학은 여성 생식기 계통의 건강을 다루는 의학의 한 분야이다.",
+                "ja": "婦人科学",
+                "zh": "妇科学",
+                "fr": "gynécologie"
+            }
+        },
+        {
+            "word": "gynecologist",
+            "part_of_speech": "",
+            "origin": "Greek, gyne (woman) + logos (study)",
+            "meaning": {
+                "ko": "여성 연구가",
+                "en": "female researcher",
+                "ja": "婦人科医",
+                "zh": "妇科医生",
+                "fr": "gynécologue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gyneco-",
+                    "meaning": {
+                        "ko": "'여성'",
+                        "en": "woman",
+                        "ja": "女性",
+                        "zh": "女性",
+                        "fr": "femme"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자, 전문가'",
+                        "en": "scholar, expert",
+                        "ja": "学者、専門家",
+                        "zh": "学者、专家",
+                        "fr": "savant, spécialiste"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'부인과를 전문으로 하는 의사'인 '부인과 의사'를 뜻합니다.",
+                "en": "A doctor who specializes in gynecology, treating diseases of the female reproductive system",
+                "ja": "女性の生殖器官の疾患を専門に扱う医師",
+                "zh": "专门治疗女性生殖器官疾病的医生",
+                "fr": "médecin spécialisé dans les maladies du système reproducteur féminin"
+            },
+            "example": "She has an appointment with her gynecologist.",
+            "translation": {
+                "ko": "그녀는 부인과 의사와 진료 예약이 있다.",
+                "ja": "彼女は婦人科医の診察予約がある。",
+                "zh": "她有和妇科医生的预约。",
+                "fr": "Elle a un rendez-vous avec sa gynécologue."
+            }
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "be",
+        "origin": "Old English",
+        "meaning": {
+            "ko": "철저하게",
+            "en": "thoroughly",
+            "ja": "徹底的に",
+            "zh": "彻底地",
+            "fr": "complètement"
+        }
+    },
+    "words": [
+        {
+            "word": "bedecked",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "be-",
+                    "meaning": {
+                        "ko": "철저하게",
+                        "en": "thoroughly",
+                        "ja": "徹底的に",
+                        "zh": "彻底地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "deck",
+                    "meaning": {
+                        "ko": "장식하다",
+                        "en": "to decorate",
+                        "ja": "装飾する",
+                        "zh": "装饰",
+                        "fr": "décorer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'온통 장식된'이라는 뜻입니다.",
+                "en": "Meaning: completely decorated",
+                "ja": "意味：すっかり装飾された",
+                "zh": "意思：完全装饰的",
+                "fr": "Signifie : complètement décoré"
+            },
+            "example": "The hall was bedecked with flowers.",
+            "translation": {
+                "ko": "그 홀은 꽃으로 온통 장식되어 있었다.",
+                "ja": "そのホールは花で完全に装飾されていた。",
+                "zh": "那个大厅被花朵完全装饰着。",
+                "fr": "Le hall était entièrement décoré de fleurs."
+            }
+        },
+        {
+            "word": "besmirch",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "be-",
+                    "meaning": {
+                        "ko": "철저하게",
+                        "en": "thoroughly",
+                        "ja": "徹底的に",
+                        "zh": "彻底地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "smirch",
+                    "meaning": {
+                        "ko": "더럽히다",
+                        "en": "to make dirty",
+                        "ja": "汚す",
+                        "zh": "弄脏",
+                        "fr": "souiller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 더럽히다'는 의미에서 명예나 평판을 '훼손하다'는 뜻입니다.",
+                "en": "'To soil thoroughly' evolved to mean 'to damage or tarnish someone's honor or reputation'",
+                "ja": "「徹底的に汚す」という意味から、名誉や評判を「損なう」という意味に発展しました",
+                "zh": "从「彻底弄脏」的含义演变为「损害或玷污某人的荣誉或声誉」",
+                "fr": "Du sens de 'salir complètement', il a évolué pour signifier 'endommager ou ternir l'honneur ou la réputation'"
+            },
+            "example": "He tried to besmirch her reputation.",
+            "translation": {
+                "ko": "그는 그녀의 명성을 훼손하려 했다.",
+                "ja": "彼は彼女の名誉を傷つけようとした。",
+                "zh": "他试图玷污她的名誉。",
+                "fr": "Il a tenté de ternir sa réputation."
+            }
+        },
+        {
+            "word": "besprinkled",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "be-",
+                    "meaning": {
+                        "ko": "철저하게, 온통",
+                        "en": "all over",
+                        "ja": "全体に、至るところに",
+                        "zh": "到处、全部",
+                        "fr": "partout, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sprinkle",
+                    "meaning": {
+                        "ko": "뿌리다",
+                        "en": "to scatter or sprinkle",
+                        "ja": "撒く、ふりかける",
+                        "zh": "撒、洒",
+                        "fr": "saupoudrer, parsemer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'온통 뿌려진'이라는 뜻입니다.",
+                "en": "Sprinkled all over; scattered throughout",
+                "ja": "全体に撒き散らされた状態を表す",
+                "zh": "表示撒满、完全覆盖的状态",
+                "fr": "Saupoudré partout; répandu sur toute la surface"
+            },
+            "example": "The cake was besprinkled with sugar.",
+            "translation": {
+                "ko": "그 케이크에는 설탕이 온통 뿌려져 있었다.",
+                "ja": "そのケーキには砂糖が全体にふりかけられていた。",
+                "zh": "蛋糕上撒满了糖。",
+                "fr": "Le gâteau était saupoudré de sucre partout."
+            }
+        }
+    ]
+}

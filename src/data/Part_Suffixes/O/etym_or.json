@@ -1,0 +1,315 @@
+{
+    "root_info": {
+        "roots": "or, er (one who) accelerator, doctor, governor, orator, rector, renter",
+        "origin": "Latin, -or / Old English, -ere",
+        "meaning": {
+            "ko": "…하는 사람/것",
+            "en": "one who",
+            "ja": "〜する人/もの",
+            "zh": "…做…的人/物",
+            "fr": "celui qui / ce qui …"
+        }
+    },
+    "words": [
+        {
+            "word": "accelerator",
+            "part_of_speech": "",
+            "origin": "Latin, accelerare (to hasten)",
+            "meaning": {
+                "ko": "서두르게 하다",
+                "en": "to speed up",
+                "ja": "加速させるもの",
+                "zh": "加速器",
+                "fr": "accélérateur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "accelerat-",
+                    "meaning": {
+                        "ko": "'가속하다'",
+                        "en": "to accelerate",
+                        "ja": "加速する",
+                        "zh": "加速",
+                        "fr": "accélérer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "'~하는 것'",
+                        "en": "one that does",
+                        "ja": "~するもの",
+                        "zh": "~的东西",
+                        "fr": "~qui fait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'속도를 더하게 하는 장치'인 '가속 장치', '액셀러레이터'를 뜻합니다.",
+                "en": "A device that increases speed; accelerator pedal",
+                "ja": "速度を増加させる装置。アクセルペダル。",
+                "zh": "增加速度的装置，油门踏板。",
+                "fr": "Dispositif augmentant la vitesse, pédale d'accélérateur."
+            },
+            "example": "He pressed his foot on the accelerator.",
+            "translation": {
+                "ko": "그는 가속 페달에 발을 눌렀다.",
+                "ja": "彼はアクセルペダルに足を踏んだ。",
+                "zh": "他踩下油门踏板。",
+                "fr": "Il a appuyé sur la pédale d'accélérateur."
+            }
+        },
+        {
+            "word": "doctor",
+            "part_of_speech": "",
+            "origin": "Latin, doctor (a teacher)",
+            "meaning": {
+                "ko": "교사",
+                "en": "teacher",
+                "ja": "医者",
+                "zh": "医生",
+                "fr": "médecin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "doc- (docere)",
+                    "meaning": {
+                        "ko": "'가르치다'",
+                        "en": "to teach",
+                        "ja": "教える",
+                        "zh": "教导",
+                        "fr": "enseigner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tor",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 '가르치는 사람', '박사'를 의미했으나, 지금은 '의사'를 뜻하는 말로 널리 쓰입니다.",
+                "en": "Originally meant 'teacher' or 'scholar', but now widely used to mean 'physician'",
+                "ja": "元々は'教える人'や'博士'を意味していたが、今は'医者'を意味する言葉として広く使われている",
+                "zh": "原本意为'教师'或'博士'，但现在广泛用来指'医生'",
+                "fr": "Signifiait à l'origine 'enseignant' ou 'savant', mais désigne maintenant largement 'médecin'"
+            },
+            "example": "You should see a doctor if you are not feeling well.",
+            "translation": {
+                "ko": "몸이 좋지 않으면 의사의 진찰을 받아야 한다.",
+                "ja": "気分が悪いなら医者に診てもらうべきです。",
+                "zh": "如果你感到不适，应该去看医生。",
+                "fr": "Vous devriez consulter un médecin si vous ne vous sentez pas bien."
+            }
+        },
+        {
+            "word": "governor",
+            "part_of_speech": "",
+            "origin": "Latin, gubernator (a pilot, a ruler)",
+            "meaning": {
+                "ko": "조종사, 통치자",
+                "en": "pilot, ruler",
+                "ja": "州知事、統治者",
+                "zh": "州长、统治者",
+                "fr": "gouverneur, dirigeant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "govern",
+                    "meaning": {
+                        "ko": "'다스리다'",
+                        "en": "to rule",
+                        "ja": "統治する",
+                        "zh": "统治",
+                        "fr": "gouverner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "one who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주(州)를 다스리는 사람'인 '주지사'를 뜻합니다.",
+                "en": "A governor is a person who governs a state or province",
+                "ja": "州を統治する人、すなわち州知事を意味します",
+                "zh": "指统治州或省份的人，即州长",
+                "fr": "Personne qui gouverne un état ou une province"
+            },
+            "example": "The governor has the power to veto legislation.",
+            "translation": {
+                "ko": "주지사는 법안에 대한 거부권을 가지고 있다.",
+                "ja": "州知事は法律を拒否する権力を持っている",
+                "zh": "州长拥有否决立法的权力",
+                "fr": "Le gouverneur a le pouvoir de rejeter la législation"
+            }
+        },
+        {
+            "word": "orator",
+            "part_of_speech": "",
+            "origin": "Latin, orator (a speaker)",
+            "meaning": {
+                "ko": "연설가",
+                "en": "person who gives speeches",
+                "ja": "演説家",
+                "zh": "演说家",
+                "fr": "orateur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ora- (orare)",
+                    "meaning": {
+                        "ko": "'말하다'",
+                        "en": "to speak",
+                        "ja": "話す",
+                        "zh": "说话",
+                        "fr": "parler"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tor",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'연설을 하는 사람'인 '연설가'를 뜻합니다.",
+                "en": "A person who gives speeches",
+                "ja": "演説をする人という意味の演説家",
+                "zh": "意思是做演讲的人",
+                "fr": "Personne qui prononce des discours"
+            },
+            "example": "He is a gifted orator.",
+            "translation": {
+                "ko": "그는 타고난 연설가이다.",
+                "ja": "彼は才能のある演説家です。",
+                "zh": "他是一位有天赋的演说家。",
+                "fr": "C'est un orateur talentueux."
+            }
+        },
+        {
+            "word": "rector",
+            "part_of_speech": "",
+            "origin": "Latin, rector (a ruler, a director)",
+            "meaning": {
+                "ko": "지배자, 지도자",
+                "en": "ruler, leader",
+                "ja": "支配者、指導者",
+                "zh": "统治者、领导者",
+                "fr": "gouverneur, chef"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rect- (regere)",
+                    "meaning": {
+                        "ko": "'다스리다'",
+                        "en": "to rule",
+                        "ja": "支配する",
+                        "zh": "统治",
+                        "fr": "gouverner"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-or",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "one who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'대학이나 특정 교회를 다스리는' '총장', '교구장'을 뜻합니다.",
+                "en": "The rector of the university delivered the opening speech.",
+                "ja": "大学や特定の教会を統治する総長、教区長を意味します。",
+                "zh": "指管理大学或特定教堂的校长、教区长。",
+                "fr": "Désigne le recteur d'université ou le vicaire d'une paroisse."
+            },
+            "example": "The rector of the university delivered the opening speech.",
+            "translation": {
+                "ko": "그 대학의 총장이 개회사를 했다.",
+                "ja": "その大学の学長は開会の辞を述べました。",
+                "zh": "该大学的校长发表了开幕致辞。",
+                "fr": "Le recteur de l'université a prononcé le discours d'ouverture."
+            }
+        },
+        {
+            "word": "renter",
+            "part_of_speech": "",
+            "origin": "English, rent + -er",
+            "meaning": {
+                "ko": "빌리는 사람",
+                "en": "person who rents",
+                "ja": "借りる人",
+                "zh": "租借人",
+                "fr": "locataire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rent",
+                    "meaning": {
+                        "ko": "'빌리다'",
+                        "en": "to rent",
+                        "ja": "借りる",
+                        "zh": "租借",
+                        "fr": "louer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-er",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does",
+                        "ja": "~する人",
+                        "zh": "~的人",
+                        "fr": "personne qui ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'집이나 물건을 빌려 쓰는 사람'인 '임차인'을 뜻합니다.",
+                "en": "Refers to a tenant who rents a house or item",
+                "ja": "家や物を借りて使う人である『借主』を意味します",
+                "zh": "指借用房屋或物品的人，即『承租人』",
+                "fr": "Désigne une personne qui loue une maison ou un bien"
+            },
+            "example": "The renter is responsible for paying the utilities.",
+            "translation": {
+                "ko": "임차인은 공과금을 납부할 책임이 있다.",
+                "ja": "その借り手は公共料金の支払いに責任がある。",
+                "zh": "承租人负责支付公用事业费。",
+                "fr": "Le locataire est responsable du paiement des services publics."
+            }
+        }
+    ]
+}

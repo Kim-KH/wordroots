@@ -1,0 +1,76 @@
+{
+    "root_info": {
+        "roots": "copious",
+        "origin": "",
+        "meaning": {
+            "ko": "with",
+            "en": "'함께'",
+            "ja": "一緒に",
+            "zh": "一起",
+            "fr": "ensemble"
+        }
+    },
+    "words": [
+        {
+            "word": "",
+            "part_of_speech": "",
+            "analysis": [],
+            "note": {
+                "ko": "라틴어 ops는 opus와 관련이 있습니다. '풍요로움이 함께하는'이라는 의미에서 '풍부한', '막대한'이라는 뜻입니다.",
+                "en": "Latin 'ops' is related to 'opus'. It means 'abundant' or 'plentiful' in the sense of 'with abundance'.",
+                "ja": "ラテン語の'ops'は'opus'に関連しています。'豊かさを伴う'という意味で'豊富な'、'膨大な'という意味です。",
+                "zh": "拉丁语'ops'与'opus'相关。在'伴随丰富'的意义上意为'丰富的'、'大量的'。",
+                "fr": "Le latin 'ops' est lié à 'opus'. Il signifie 'abondant' ou 'copieux' au sens de 'accompagné d'abondance'."
+            },
+            "example": "He took copious notes during the lecture.",
+            "translation": {
+                "ko": "그는 강의 중에 엄청나게 많은 필기를 했다.",
+                "ja": "彼は講義中に膨大な量のノートを取った。",
+                "zh": "他在讲座期间记了大量的笔记。",
+                "fr": "Il a pris des notes abondantes pendant la conférence."
+            }
+        },
+        {
+            "word": "inure",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ure (oeuvre, opus)",
+                    "meaning": {
+                        "ko": "일, 실행",
+                        "en": "work, practice",
+                        "ja": "仕事、実行",
+                        "zh": "工作、实践",
+                        "fr": "travail, pratique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일 안에 계속 두다'는 의미에서, 어려운 상황 등에 '익숙하게 하다', '단련시키다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'keep in work/practice,' came to mean 'accustom' or 'harden' through repeated exposure to difficult situations.",
+                "ja": "「仕事の中に継続して置く」という意味から、困難な状況などに「慣れさせる」「鍛える」という意味になりました。",
+                "zh": "从「持续置于工作中」的意思，演变为通过反复经历困难情况来「使习惯」或「磨练」的含义。",
+                "fr": "Du sens de « maintenir dans le travail/la pratique », le mot en est venu à signifier « habituer » ou « endurcir » par l'exposition répétée à des situations difficiles."
+            },
+            "example": "Soldiers are inured to hardship.",
+            "translation": {
+                "ko": "군인들은 어려움에 단련되어 있다.",
+                "ja": "兵士たちは困難に慣らされている。",
+                "zh": "士兵们已经习惯了艰辛。",
+                "fr": "Les soldats sont endurcis à la souffrance."
+            }
+        }
+    ]
+}

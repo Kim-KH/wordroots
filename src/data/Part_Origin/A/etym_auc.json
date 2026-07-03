@@ -1,0 +1,170 @@
+{
+    "root_info": {
+        "roots": "auc, aug, aut: to originate, to increase",
+        "origin": "Latin, augere",
+        "meaning": {
+            "ko": "증가시키다",
+            "en": "to increase",
+            "ja": "増やす",
+            "zh": "增加",
+            "fr": "augmenter"
+        }
+    },
+    "words": [
+        {
+            "word": "auxiliary",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aux (augere)",
+                    "meaning": {
+                        "ko": "증가시키다, 돕다",
+                        "en": "to increase, help",
+                        "ja": "増やす、助ける",
+                        "zh": "增加、帮助",
+                        "fr": "augmenter, aider"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'힘을 더하여 돕는'이라는 의미에서 '보조의', '예비의'라는 뜻입니다. 문법에서는 '조동사'를 의미합니다.",
+                "en": "From the sense of 'helping by adding strength,' it means 'supplementary' or 'reserve.' In grammar, it refers to 'modal verb' or 'helping verb.'",
+                "ja": "「力を加えて助ける」という意味から、「補助的な」「予備の」という意味になります。文法では「助動詞」を意味します。",
+                "zh": "从「增加力量来帮助」的意思引申出「辅助的」、「备用的」的含义。在语法中指「助动词」。",
+                "fr": "Du sens « aider en ajoutant de la force », il signifie « supplémentaire » ou « de réserve ». En grammaire, il désigne un « verbe auxiliaire »."
+            },
+            "example": "The hospital has an auxiliary power generator.",
+            "translation": {
+                "ko": "그 병원에는 보조 발전기가 있다.",
+                "ja": "その病院には補助発電機がある。",
+                "zh": "那家医院有备用发电机。",
+                "fr": "L'hôpital dispose d'un générateur électrique auxiliaire."
+            }
+        },
+        {
+            "word": "augment",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aug",
+                    "meaning": {
+                        "ko": "증가시키다",
+                        "en": "to increase",
+                        "ja": "増やす",
+                        "zh": "增加",
+                        "fr": "augmenter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "수량이나 가치를 '늘리다', '증가시키다'는 뜻의 격식 있는 단어입니다.",
+                "en": "A formal word meaning to 'increase' or 'enlarge' in quantity or value.",
+                "ja": "数量や価値を『増やす』『増加させる』という意味の格式ばった言葉です。",
+                "zh": "表示'增加'或'增大'数量或价值的正式用语。",
+                "fr": "Un mot formel signifiant « augmenter » ou « accroître » la quantité ou la valeur."
+            },
+            "example": "He took a second job to augment his income.",
+            "translation": {
+                "ko": "그는 수입을 늘리기 위해 부업을 했다.",
+                "ja": "彼は収入を増やすために副業を始めた。",
+                "zh": "他为了增加收入而做了第二份工作。",
+                "fr": "Il a pris un deuxième emploi pour augmenter son revenu."
+            }
+        },
+        {
+            "word": "augur",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "augur",
+                    "meaning": {
+                        "ko": "점쟁이",
+                        "en": "diviner",
+                        "ja": "占い師",
+                        "zh": "占卜者",
+                        "fr": "devin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마에서 새의 행동을 보고 신의 뜻을 점치던 '점쟁이'를 의미합니다. 여기서 파생되어 어떤 일의 '전조가 되다'는 동사로도 쓰입니다.",
+                "en": "In ancient Rome, a diviner who predicted the will of gods by observing bird behavior. Later derived as a verb meaning 'to be an omen of' or 'to portend.'",
+                "ja": "古代ローマで鳥の行動を観察して神の意志を予言した占い師を意味します。後に『〜の前兆となる』という動詞としても使われるようになりました。",
+                "zh": "在古代罗马，指通过观察鸟类行为来预言神意的占卜者。后来引申为动词，表示'成为...的前兆'或'预示'。",
+                "fr": "Dans la Rome antique, devin qui prédisait la volonté des dieux en observant le comportement des oiseaux. Dérivé plus tard comme verbe signifiant 'être un présage de' ou 'présager.'"
+            },
+            "example": "The dark clouds augur a storm.",
+            "translation": {
+                "ko": "먹구름은 폭풍의 전조이다.",
+                "ja": "暗い雲は嵐の前兆だ。",
+                "zh": "乌云预示着暴风雨。",
+                "fr": "Les nuages noirs présagent une tempête."
+            }
+        },
+        {
+            "word": "auction",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "auct (augere)",
+                    "meaning": {
+                        "ko": "증가시키다",
+                        "en": "to increase",
+                        "ja": "増やす",
+                        "zh": "增加",
+                        "fr": "augmenter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가격을 계속 증가시키는' 판매 방식이라는 의미에서 '경매'를 뜻합니다.",
+                "en": "From the sense of a sales method that continually increases prices; means 'auction'",
+                "ja": "価格を継続的に上げていく販売方式という意味から「競売」を意味します",
+                "zh": "从持续提高价格的销售方式的含义引申出「拍卖」的意思",
+                "fr": "Du sens d'une méthode de vente qui augmente continuellement les prix ; signifie « vente aux enchères »"
+            },
+            "example": "The painting was sold at auction.",
+            "translation": {
+                "ko": "그 그림은 경매에서 팔렸다.",
+                "ja": "その絵画はオークションで売られた。",
+                "zh": "这幅画在拍卖会上被卖出了。",
+                "fr": "Le tableau a été vendu aux enchères."
+            }
+        },
+        {
+            "word": "author",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "auth (auctor)",
+                    "meaning": {
+                        "ko": "만든 사람, 창시자",
+                        "en": "originator",
+                        "ja": "作成者、創始者",
+                        "zh": "创作者、奠基人",
+                        "fr": "créateur, fondateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 auctor는 augere('증가시키다', '만들어내다')에서 유래했습니다. '무언가를 만들어낸 사람'이라는 의미에서 '저자', '작가'를 뜻합니다.",
+                "en": "From Latin auctor, derived from augere ('to increase', 'to create'). Originally meant 'one who brings forth something,' leading to the sense of 'writer' or 'author.'",
+                "ja": "ラテン語の auctor は augere（「増やす」「作り出す」）に由来します。「何かを生み出した人」という意味から、「著者」「作家」を意味するようになりました。",
+                "zh": "来自拉丁语 auctor，源自 augere（\"增加\"、\"创作\"）。从\"创造某物的人\"的含义演变为\"作者\"、\"作家\"的意思。",
+                "fr": "Du latin auctor, dérivé de augere (« augmenter », « créer »). Signifiait à l'origine « celui qui produit quelque chose », d'où le sens de « auteur » ou « écrivain »."
+            },
+            "example": "Who is the author of this book?",
+            "translation": {
+                "ko": "이 책의 저자는 누구입니까?",
+                "ja": "この本の著者は誰ですか？",
+                "zh": "这本书的作者是谁？",
+                "fr": "Qui est l'auteur de ce livre ?"
+            }
+        }
+    ]
+}

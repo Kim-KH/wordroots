@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "jud(ic) (judge) judge, judicial, judiciary, injudicious",
+        "origin": "Latin, judex (a judge)",
+        "meaning": {
+            "ko": "판사",
+            "en": "judge",
+            "ja": "判官",
+            "zh": "法官",
+            "fr": "juge"
+        }
+    },
+    "words": [
+        {
+            "word": "judge",
+            "part_of_speech": "",
+            "origin": "Latin, judicare (to judge)",
+            "meaning": {
+                "ko": "판단하다",
+                "en": "to judge or determine",
+                "ja": "判断する",
+                "zh": "判断",
+                "fr": "juger"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "jud-",
+                    "meaning": {
+                        "ko": "'판단하다'",
+                        "en": "to judge",
+                        "ja": "判断する",
+                        "zh": "判断",
+                        "fr": "juger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'법에 따라 판단하는 사람'인 '판사' 또는 '판단하다'라는 뜻입니다.",
+                "en": "Means either 'judge' (a person who judges according to law) or 'to judge' (the act of making a judgment).",
+                "ja": "法律に従って判断する人を意味する'裁判官'、またはその行為を意味する'判断する'です。",
+                "zh": "指根据法律进行判断的人'法官'，或表示'判断'这一行为。",
+                "fr": "Désigne soit un 'juge' (personne qui juge selon la loi), soit l'action de 'juger'."
+            },
+            "example": "The judge sentenced the defendant to five years in prison.",
+            "translation": {
+                "ko": "판사는 피고에게 징역 5년을 선고했다.",
+                "ja": "裁判官は被告人に懲役5年を言い渡した。",
+                "zh": "法官判处被告人五年监禁。",
+                "fr": "Le juge a condamné le défendeur à cinq ans de prison."
+            }
+        },
+        {
+            "word": "judicial",
+            "part_of_speech": "",
+            "origin": "Latin, judicialis (relating to a court of justice)",
+            "meaning": {
+                "ko": "재판에 관한",
+                "en": "related to court proceedings",
+                "ja": "裁判に関する",
+                "zh": "与审判有关的",
+                "fr": "relatif à la justice"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "judic-",
+                    "meaning": {
+                        "ko": "'판사, 재판'",
+                        "en": "judge",
+                        "ja": "裁判官、裁判",
+                        "zh": "法官、审判",
+                        "fr": "juge"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'재판의', '사법의'라는 뜻입니다.",
+                "en": "Means 'of/relating to courts' or 'of/relating to the administration of justice'",
+                "ja": "裁判の、司法の という意味です",
+                "zh": "意思是'与法庭有关的'或'与司法管理有关的'",
+                "fr": "Signifie 'relatif aux tribunaux' ou 'relatif à l'administration de la justice'"
+            },
+            "example": "The judicial system is an important part of a democracy.",
+            "translation": {
+                "ko": "사법 제도는 민주주의의 중요한 부분이다.",
+                "ja": "司法制度は民主主義の重要な部分です",
+                "zh": "司法制度是民主制度的重要组成部分",
+                "fr": "Le système judiciaire est une partie importante de la démocratie"
+            }
+        },
+        {
+            "word": "judiciary",
+            "part_of_speech": "",
+            "origin": "Latin, judiciarius (relating to a court of justice)",
+            "meaning": {
+                "ko": "재판에 관한",
+                "en": "relating to trial or judgment",
+                "ja": "裁判に関する",
+                "zh": "与审判有关",
+                "fr": "relatif à la justice"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "judic-",
+                    "meaning": {
+                        "ko": "'판사, 재판'",
+                        "en": "judge",
+                        "ja": "判事、裁判",
+                        "zh": "法官、审判",
+                        "fr": "juge"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'국가의 사법 체계 전체'를 의미하는 '사법부'를 뜻합니다.",
+                "en": "The entire judicial system of the state",
+                "ja": "国家の司法体系全体",
+                "zh": "国家司法体系的整体",
+                "fr": "l'ensemble du système judiciaire de l'État"
+            },
+            "example": "The judiciary is responsible for interpreting the laws.",
+            "translation": {
+                "ko": "사법부는 법을 해석할 책임이 있다.",
+                "ja": "司法部は法律を解釈する責任がある。",
+                "zh": "司法部门负责解释法律。",
+                "fr": "La magistrature est responsable de l'interprétation des lois."
+            }
+        },
+        {
+            "word": "injudicious",
+            "part_of_speech": "",
+            "origin": "Latin, in- (not) + judicium (judgment)",
+            "meaning": {
+                "ko": "판단력이 없는",
+                "en": "lacking judgment or discernment",
+                "ja": "判断力がない",
+                "zh": "缺乏判断力",
+                "fr": "manque de jugement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "~ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "judic-",
+                    "meaning": {
+                        "ko": "'판단'",
+                        "en": "judgment",
+                        "ja": "判断",
+                        "zh": "判断",
+                        "fr": "jugement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'판단력이 부족한'이라는 의미에서 '지혜롭지 못한', '부적절한'이라는 뜻입니다.",
+                "en": "Lacking in judgment or discretion; characterized by lack of wisdom or poor decision-making",
+                "ja": "判断力が不足して、知恵がない、不適切という意味です",
+                "zh": "判断力不足，意为不明智、不适当",
+                "fr": "Manque de discernement ou de sagesse dans la prise de décision"
+            },
+            "example": "It was an injudicious decision to invest all his money in one company.",
+            "translation": {
+                "ko": "그의 모든 돈을 한 회사에 투자한 것은 현명하지 못한 결정이었다.",
+                "ja": "彼がすべてのお金を1つの会社に投資するのは判断力がない決定でした。",
+                "zh": "把所有的钱投资于一家公司是缺乏判断力的决定。",
+                "fr": "C'était une décision peu judicieuse d'investir tout son argent dans une seule entreprise."
+            }
+        }
+    ]
+}

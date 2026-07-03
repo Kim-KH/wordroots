@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "scene (stage) scenic, scenario, scenery",
+        "origin": "Greek, skene (a stage, a tent)",
+        "meaning": {
+            "ko": "무대",
+            "en": "a stage",
+            "ja": "舞台",
+            "zh": "舞台",
+            "fr": "scène"
+        }
+    },
+    "words": [
+        {
+            "word": "scenic",
+            "part_of_speech": "",
+            "origin": "Greek, skenikos (of the stage)",
+            "meaning": {
+                "ko": "무대의",
+                "en": "of the stage",
+                "ja": "風景の良い",
+                "zh": "风景优美的",
+                "fr": "pittoresque"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scen-",
+                    "meaning": {
+                        "ko": "'무대, 풍경'",
+                        "en": "stage, view",
+                        "ja": "舞台、景色",
+                        "zh": "舞台、风景",
+                        "fr": "scène, vue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'무대 배경처럼 아름다운'이라는 의미에서 '경치가 좋은'이라는 뜻입니다.",
+                "en": "From the sense of 'beautiful like a stage backdrop', meaning 'having nice scenery'",
+                "ja": "舞台背景のように美しいという意味から、景色が良いという意味です",
+                "zh": "从'像舞台背景一样美丽'的意思演变为'风景优美'的含义",
+                "fr": "Du sens de 'beau comme un décor de scène', signifiant 'ayant un beau paysage'"
+            },
+            "example": "We took the scenic route along the coast.",
+            "translation": {
+                "ko": "우리는 해안을 따라 경치 좋은 길을 택했다.",
+                "ja": "海岸沿いの風景の良いルートを走った",
+                "zh": "我们沿着海岸走了风景优美的路线",
+                "fr": "Nous avons pris le chemin pittoresque le long de la côte"
+            }
+        },
+        {
+            "word": "scenario",
+            "part_of_speech": "",
+            "origin": "Italian, scenario (a sketch of a plot)",
+            "meaning": {
+                "ko": "줄거리 스케치",
+                "en": "plot sketch",
+                "ja": "筋書き 脚本",
+                "zh": "情节 剧本",
+                "fr": "scénario intrigue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scen-",
+                    "meaning": {
+                        "ko": "'무대'",
+                        "en": "stage",
+                        "ja": "舞台",
+                        "zh": "舞台",
+                        "fr": "scène"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'연극의 무대 배경이나 줄거리'에서 유래하여, 앞으로 일어날 수 있는 '시나리오', '각본'을 뜻합니다.",
+                "en": "Derived from the stage setting or plot of theatrical works, it now means a 'scenario' or 'script' that could happen in the future.",
+                "ja": "演劇の舞台背景や筋書きに由来し、今後起こりうる『シナリオ』『脚本』を意味します。",
+                "zh": "源于戏剧的舞台背景或情节，现指可能发生的『情节』『剧本』。",
+                "fr": "Dérivé du décor ou de l'intrigue théâtrale, il signifie maintenant un 'scénario' ou 'script' qui pourrait se produire."
+            },
+            "example": "Let's consider a worst-case scenario.",
+            "translation": {
+                "ko": "최악의 시나리오를 고려해 봅시다.",
+                "ja": "最悪のシナリオを考えてみましょう。",
+                "zh": "让我们考虑最坏的情况。",
+                "fr": "Considérons un scénario catastrophe."
+            }
+        },
+        {
+            "word": "scenery",
+            "part_of_speech": "",
+            "origin": "Italian, scenario",
+            "meaning": {
+                "ko": "줄거리 스케치",
+                "en": "plot sketch",
+                "ja": "風景、景色",
+                "zh": "景色、风景",
+                "fr": "paysage, décor"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scen-",
+                    "meaning": {
+                        "ko": "'무대, 풍경'",
+                        "en": "stage, view",
+                        "ja": "舞台、眺め",
+                        "zh": "舞台、景观",
+                        "fr": "scène, vue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'연극의 무대 배경' 또는 자연의 '풍경', '경치'를 뜻합니다.",
+                "en": "Refers to the stage background of a play or the 'scenery' and 'landscape' of nature.",
+                "ja": "劇場の舞台背景、または自然の風景や景色を意味します。",
+                "zh": "指戏剧舞台背景或自然的风景、景观。",
+                "fr": "Désigne le décor de scène d'une pièce de théâtre ou le 'paysage' et la 'vue' de la nature."
+            },
+            "example": "The scenery in the mountains is breathtaking.",
+            "translation": {
+                "ko": "산의 경치는 숨이 멎을 듯하다.",
+                "ja": "山の風景は息をのむほど美しい。",
+                "zh": "山上的风景令人惊艳。",
+                "fr": "Le paysage dans les montagnes est à couper le souffle."
+            }
+        }
+    ]
+}

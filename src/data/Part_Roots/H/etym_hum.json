@@ -1,0 +1,204 @@
+{
+    "root_info": {
+        "roots": "hum (earth) exhume, humus, inhume, posthumous",
+        "origin": "Latin, humus (earth, ground)",
+        "meaning": {
+            "ko": "흙, 땅",
+            "en": "earth",
+            "ja": "地球、土",
+            "zh": "地球，土地",
+            "fr": "terre"
+        }
+    },
+    "words": [
+        {
+            "word": "exhume",
+            "part_of_speech": "",
+            "origin": "Latin, exhumare (to take out of the ground)",
+            "meaning": {
+                "ko": "땅 밖으로 파내다",
+                "en": "to dig out from the ground",
+                "ja": "遺体を掘り出す",
+                "zh": "挖掘尸体",
+                "fr": "exhumer un cadavre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out of",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hume",
+                    "meaning": {
+                        "ko": "'땅'",
+                        "en": "earth",
+                        "ja": "土地",
+                        "zh": "土地",
+                        "fr": "terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'땅 밖으로 파내다'는 의미에서 시체 등을 '발굴하다'라는 뜻입니다.",
+                "en": "In the sense of 'digging out of the earth', it means to 'excavate' bodies, etc.",
+                "ja": "土地から掘り出すという意味で、遺体などを'発掘する'という意味です",
+                "zh": "在'从土地中挖出'的意义上，指'发掘'尸体等",
+                "fr": "Au sens de 'creuser hors de terre', cela signifie 'exhumer' des cadavres, etc."
+            },
+            "example": "The police decided to exhume the body.",
+            "translation": {
+                "ko": "경찰은 시신을 발굴하기로 결정했다.",
+                "ja": "警察は遺体を掘り出すことに決めた",
+                "zh": "警察决定挖掘尸体",
+                "fr": "La police a décidé d'exhumer le cadavre"
+            }
+        },
+        {
+            "word": "humus",
+            "part_of_speech": "",
+            "origin": "Latin, humus (earth)",
+            "meaning": {
+                "ko": "흙",
+                "en": "soil",
+                "ja": "腐植土",
+                "zh": "腐殖质",
+                "fr": "humus"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hum-",
+                    "meaning": {
+                        "ko": "'흙'",
+                        "en": "earth",
+                        "ja": "土",
+                        "zh": "土壤",
+                        "fr": "terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "식물이 썩어서 생긴 '부식토'를 뜻합니다.",
+                "en": "Humus is rich in nutrients and improves soil structure.",
+                "ja": "植物が腐って生じた'腐植土'を意味します。",
+                "zh": "指植物腐烂后产生的'腐殖质'。",
+                "fr": "Désigne le 'humus' produit par la décomposition des plantes."
+            },
+            "example": "Humus is rich in nutrients and improves soil structure.",
+            "translation": {
+                "ko": "부식토는 영양분이 풍부하고 토양 구조를 개선한다.",
+                "ja": "腐植土は栄養が豊富で、土壌構造を改善します。",
+                "zh": "腐殖质营养丰富，改善土壤结构。",
+                "fr": "L'humus est riche en nutriments et améliore la structure du sol."
+            }
+        },
+        {
+            "word": "inhume",
+            "part_of_speech": "",
+            "origin": "Latin, inhumare (to bury)",
+            "meaning": {
+                "ko": "땅에 묻다",
+                "en": "to bury in the ground",
+                "ja": "土に埋葬する",
+                "zh": "埋葬于土中",
+                "fr": "inhumer dans la terre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...里面",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hume",
+                    "meaning": {
+                        "ko": "'땅'",
+                        "en": "earth",
+                        "ja": "土",
+                        "zh": "土地",
+                        "fr": "terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'땅 안에 묻다'는 의미에서 '매장하다'라는 뜻입니다.",
+                "en": "Means to bury, from the sense of 'burying in the earth'",
+                "ja": "土の中に埋めるという意味から、埋葬するという意味です",
+                "zh": "从'埋在土中'的意思引申为'埋葬'",
+                "fr": "Signifie enterrer, du sens de 'enterrer dans la terre'"
+            },
+            "example": "The body was inhumed in the local cemetery.",
+            "translation": {
+                "ko": "그 시신은 지역 묘지에 매장되었다.",
+                "ja": "その遺体は地元の墓地に埋葬された。",
+                "zh": "遗体被埋葬在当地的墓地里。",
+                "fr": "Le corps a été inhumé dans le cimetière local."
+            }
+        },
+        {
+            "word": "posthumous",
+            "part_of_speech": "",
+            "origin": "Latin, postumus (last), influenced by humus (ground)",
+            "meaning": {
+                "ko": "마지막의, 땅에 묻힌 후의",
+                "en": "last, after being buried in earth",
+                "ja": "死後の",
+                "zh": "身后的",
+                "fr": "posthume"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "post-",
+                    "meaning": {
+                        "ko": "'후에'",
+                        "en": "after",
+                        "ja": "後に",
+                        "zh": "之后",
+                        "fr": "après"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "humous",
+                    "meaning": {
+                        "ko": "'땅, 흙'",
+                        "en": "ground",
+                        "ja": "土地、地面",
+                        "zh": "土地、地面",
+                        "fr": "terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'땅에 묻힌(죽은) 후에'라는 의미에서 '사후의'라는 뜻이 되었습니다.",
+                "en": "From the meaning 'after being buried in the ground (after death)', it came to mean 'after death'",
+                "ja": "土に埋もれた（死んだ）後という意味から、死後のという意味になった",
+                "zh": "从'埋在地下（死亡）之后'的含义演变而来，意为'身后的'",
+                "fr": "Du sens 'après avoir été enterré dans le sol (après la mort)', il a pris le sens 'après la mort'"
+            },
+            "example": "He received a posthumous award for his bravery.",
+            "translation": {
+                "ko": "그는 그의 용맹함으로 사후 상을 받았다.",
+                "ja": "彼は勇敢さで死後の賞を受けた。",
+                "zh": "他因勇敢而获得了身后的奖项。",
+                "fr": "Il a reçu une récompense posthume pour son courage."
+            }
+        }
+    ]
+}

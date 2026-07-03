@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "lapid (stone) dilapidate, lapidary",
+        "origin": "Latin, lapis, lapidis (stone)",
+        "meaning": {
+            "ko": "돌",
+            "en": "stone",
+            "ja": "石",
+            "zh": "石",
+            "fr": "pierre"
+        }
+    },
+    "words": [
+        {
+            "word": "dilapidate",
+            "part_of_speech": "",
+            "origin": "Latin, dilapidare (to squander, demolish)",
+            "meaning": {
+                "ko": "낭비하다, 파괴하다",
+                "en": "to squander or destroy",
+                "ja": "浪費する、破壊する",
+                "zh": "浪费、破坏",
+                "fr": "gaspiller, détruire"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "'떨어져'",
+                        "en": "apart",
+                        "ja": "離れて",
+                        "zh": "分开",
+                        "fr": "à part"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lapid-",
+                    "meaning": {
+                        "ko": "'돌'",
+                        "en": "stone",
+                        "ja": "石",
+                        "zh": "石头",
+                        "fr": "pierre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'건물에서 돌이 떨어져 나가도록 방치하다'는 의미에서 '건물 등을 헐다', '황폐하게 만들다'라는 뜻이 되었습니다.",
+                "en": "From the sense of allowing stones to fall away from buildings, it came to mean to demolish buildings, make them desolate",
+                "ja": "建物から石が落ちるのを放置するという意味から、建物などを取り壊す、荒廃させるという意味になった",
+                "zh": "从允许建筑物的石头脱落的意思，演变为拆除建筑物、使其荒废的意思",
+                "fr": "Du sens de laisser les pierres tomber des bâtiments, cela signifie démolir des bâtiments, les rendre désolés"
+            },
+            "example": "The old house has become dilapidated.",
+            "translation": {
+                "ko": "그 낡은 집은 황폐해졌다.",
+                "ja": "その古い家は荒廃してしまった",
+                "zh": "那座老房子已经破败了",
+                "fr": "La vieille maison est devenue délabrée"
+            }
+        },
+        {
+            "word": "lapidary",
+            "part_of_speech": "",
+            "origin": "Latin, lapidarius (of stones)",
+            "meaning": {
+                "ko": "돌의",
+                "en": "of stone",
+                "ja": "宝石加工術",
+                "zh": "宝石加工艺",
+                "fr": "art de tailler les pierres"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lapid-",
+                    "meaning": {
+                        "ko": "'돌'",
+                        "en": "stone",
+                        "ja": "石",
+                        "zh": "石头",
+                        "fr": "pierre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'돌(보석)을 다루는 기술' 또는 '보석 세공인'을 뜻합니다.",
+                "en": "Refers to the technique of working with stones (gems) or a gem cutter",
+                "ja": "宝石(石)を扱う技術または宝石職人を意味します",
+                "zh": "指处理宝石(石头)的技术或宝石工匠",
+                "fr": "Désigne la technique de travail des pierres (gemmes) ou un artisan joaillier"
+            },
+            "example": "Lapidary is the art of cutting and polishing stones.",
+            "translation": {
+                "ko": "보석 세공은 돌을 자르고 광내는 기술이다.",
+                "ja": "宝石加工職人は石を研磨する技術です",
+                "zh": "宝石切割师是切割和抛光石头的艺术",
+                "fr": "La lapidaire est l'art de tailler et polir les pierres"
+            }
+        }
+    ]
+}

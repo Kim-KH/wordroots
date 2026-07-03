@@ -1,0 +1,183 @@
+{
+    "root_info": {
+        "roots": "re",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "뒤로, 다시",
+            "en": "back, again",
+            "ja": "戻る、再び",
+            "zh": "回、再",
+            "fr": "arrière, de nouveau"
+        }
+    },
+    "words": [
+        {
+            "word": "realign",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "align",
+                    "meaning": {
+                        "ko": "정렬하다",
+                        "en": "to arrange in line",
+                        "ja": "整列する",
+                        "zh": "排列",
+                        "fr": "aligner"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 정렬하다', '재조정하다'는 뜻입니다.",
+                "en": "To arrange or adjust again; to reposition for proper alignment",
+                "ja": "再び整列させる、再調整するという意味です",
+                "zh": "再次排列或调整；重新定位以实现正确对齐",
+                "fr": "Réarranger ou réajuster à nouveau ; repositionner pour un alignement correct"
+            },
+            "example": "We need to realign our goals.",
+            "translation": {
+                "ko": "우리는 목표를 재조정해야 한다.",
+                "ja": "私たちは目標を再調整する必要があります",
+                "zh": "我们需要重新调整我们的目标",
+                "fr": "Nous devons réaligner nos objectifs"
+            }
+        },
+        {
+            "word": "retract",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "vers l'arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tract",
+                    "meaning": {
+                        "ko": "끌다",
+                        "en": "to pull",
+                        "ja": "引く",
+                        "zh": "拉",
+                        "fr": "tirer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 끌어당기다'는 의미에서, 했던 말이나 약속을 '취소하다', '철회하다'는 뜻입니다.",
+                "en": "From 'pull backward': to withdraw or cancel a statement or promise",
+                "ja": "「後ろへ引く」という意味から、述べた言葉や約束を「取り消す」「撤回する」という意味になります",
+                "zh": "从「向后拉」的意思，引申为「撤销」或「收回」所说的话或承诺",
+                "fr": "Du sens « tirer vers l'arrière », signifie annuler ou retirer une déclaration ou une promesse"
+            },
+            "example": "He retracted his statement.",
+            "translation": {
+                "ko": "그는 자신의 진술을 철회했다.",
+                "ja": "彼は自分の陳述を撤回した。",
+                "zh": "他撤回了自己的陈述。",
+                "fr": "Il a retiré sa déclaration."
+            }
+        },
+        {
+            "word": "revise",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vise",
+                    "meaning": {
+                        "ko": "보다",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "regarder"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 보다'는 의미에서, 글이나 계획을 '수정하다', '개정하다'는 뜻입니다.",
+                "en": "From 'look again', meaning to modify or amend writing or plans",
+                "ja": "「もう一度見る」という意味から、文章や計画を「修正する」「改定する」という意味です",
+                "zh": "从「再次看」的意思，表示「修改」或「修订」文字或计划",
+                "fr": "De 'regarder à nouveau', signifiant modifier ou amender un écrit ou un plan"
+            },
+            "example": "The author revised the manuscript.",
+            "translation": {
+                "ko": "그 저자는 원고를 수정했다.",
+                "ja": "著者は原稿を修正した",
+                "zh": "作者修改了手稿",
+                "fr": "L'auteur a révisé le manuscrit"
+            }
+        },
+        {
+            "word": "regain",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gain",
+                    "meaning": {
+                        "ko": "얻다",
+                        "en": "to obtain",
+                        "ja": "得る",
+                        "zh": "获得",
+                        "fr": "obtenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 얻다', '되찾다'는 뜻입니다.",
+                "en": "To get back or recover something lost",
+                "ja": "失ったものを取り戻す、回復するという意味",
+                "zh": "重新获得或恢复失去的东西",
+                "fr": "Retrouver ou récupérer quelque chose de perdu"
+            },
+            "example": "He is trying to regain his health.",
+            "translation": {
+                "ko": "그는 건강을 되찾으려고 노력 중이다.",
+                "ja": "彼は健康を取り戻そうと努力している。",
+                "zh": "他正在努力恢复健康。",
+                "fr": "Il essaie de retrouver sa santé."
+            }
+        }
+    ]
+}

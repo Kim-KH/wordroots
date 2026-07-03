@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "thromb (clot) thrombophlebitis, thromboplastic, thrombosis",
+        "origin": "Greek, thrombos (a lump, a clot)",
+        "meaning": {
+            "ko": "덩어리, 혈전",
+            "en": "a clot",
+            "ja": "血塊",
+            "zh": "血凝块",
+            "fr": "caillot"
+        }
+    },
+    "words": [
+        {
+            "word": "thrombophlebitis",
+            "part_of_speech": "",
+            "origin": "Greek, thrombos (clot) + phleps (vein) + -itis (inflammation)",
+            "meaning": {
+                "ko": "혈전 정맥 염증",
+                "en": "blood clot vein inflammation",
+                "ja": "血栓性静脈炎",
+                "zh": "血栓性静脉炎",
+                "fr": "thrombophlébite"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thrombo-",
+                    "meaning": {
+                        "ko": "'혈전'",
+                        "en": "clot",
+                        "ja": "血栓",
+                        "zh": "血栓",
+                        "fr": "caillot"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phleb-",
+                    "meaning": {
+                        "ko": "'정맥'",
+                        "en": "vein",
+                        "ja": "静脈",
+                        "zh": "静脉",
+                        "fr": "veine"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-itis",
+                    "meaning": {
+                        "ko": "'염증'",
+                        "en": "inflammation",
+                        "ja": "炎症",
+                        "zh": "炎症",
+                        "fr": "inflammation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈전으로 인해 정맥에 염증이 생기는 병'인 '혈전 정맥염'을 뜻합니다.",
+                "en": "Inflammation of veins caused by blood clots",
+                "ja": "血栓により静脈に炎症が生じる疾患",
+                "zh": "由血栓引起的静脉炎症疾病",
+                "fr": "Inflammation des veines causée par des caillots sanguins"
+            },
+            "example": "Thrombophlebitis often affects the veins in the legs.",
+            "translation": {
+                "ko": "혈전 정맥염은 종종 다리의 정맥에 영향을 미친다.",
+                "ja": "血栓性静脈炎はしばしば脚の静脈に影響を与えます",
+                "zh": "血栓性静脉炎经常影响腿部的静脉",
+                "fr": "La thrombophlébite affecte souvent les veines des jambes"
+            }
+        },
+        {
+            "word": "thromboplastic",
+            "part_of_speech": "",
+            "origin": "Greek, thrombos (clot) + plastos (formed)",
+            "meaning": {
+                "ko": "혈전을 형성하는",
+                "en": "forming blood clots",
+                "ja": "血栓形成促進",
+                "zh": "血栓形成促进",
+                "fr": "favorisant la formation de caillot"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thrombo-",
+                    "meaning": {
+                        "ko": "'혈전'",
+                        "en": "clot",
+                        "ja": "血栓",
+                        "zh": "血栓",
+                        "fr": "caillot"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "plastic",
+                    "meaning": {
+                        "ko": "'형성하는'",
+                        "en": "forming or producing",
+                        "ja": "形成する",
+                        "zh": "形成",
+                        "fr": "formant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈액 응고(혈전 형성)를 촉진하는'이라는 뜻입니다.",
+                "en": "Substances that promote blood coagulation and clot formation",
+                "ja": "血液凝固(血栓形成)を促進する物質",
+                "zh": "促进血液凝固和血栓形成的物质",
+                "fr": "Substances favorisant la coagulation et la thrombose"
+            },
+            "example": "Thromboplastic substances are involved in the blood clotting process.",
+            "translation": {
+                "ko": "혈전 형성 촉진 물질은 혈액 응고 과정에 관여한다.",
+                "ja": "血栓形成促進物質が血液凝固過程に関与している。",
+                "zh": "血栓形成促进物质参与血液凝固过程。",
+                "fr": "Les substances thromboplastiques sont impliquées dans le processus de coagulation du sang."
+            }
+        },
+        {
+            "word": "thrombosis",
+            "part_of_speech": "",
+            "origin": "Greek, thrombosis (a curdling, a clotting)",
+            "meaning": {
+                "ko": "응고",
+                "en": "clotting or coagulation",
+                "ja": "血液凝固",
+                "zh": "血液凝固",
+                "fr": "coagulation sanguine"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thromb-",
+                    "meaning": {
+                        "ko": "'혈전'",
+                        "en": "clot",
+                        "ja": "血栓",
+                        "zh": "血栓",
+                        "fr": "caillot"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'혈관 속에서 피가 굳어 혈전이 생기는' 증상인 '혈전증'을 뜻합니다.",
+                "en": "A medical condition where blood clots form inside blood vessels, resulting in thrombosis.",
+                "ja": "血管内で血液が凝固して血栓が生じる症状を意味します。",
+                "zh": "指血管内血液凝固形成血栓的症状。",
+                "fr": "Condition médicale où le sang se coagule à l'intérieur des vaisseaux sanguins."
+            },
+            "example": "Deep vein thrombosis is a serious medical condition.",
+            "translation": {
+                "ko": "심부 정맥 혈전증은 심각한 의학적 상태이다.",
+                "ja": "深部静脈血栓症は深刻な医学的状態です。",
+                "zh": "深静脉血栓症是一种严重的医学状况。",
+                "fr": "La thrombose veineuse profonde est une condition médicale grave."
+            }
+        }
+    ]
+}

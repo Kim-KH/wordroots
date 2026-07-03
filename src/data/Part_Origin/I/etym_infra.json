@@ -1,0 +1,99 @@
+{
+    "root_info": {
+        "roots": "infra",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "아래에",
+            "en": "beneath",
+            "ja": "下に",
+            "zh": "下面",
+            "fr": "sous"
+        }
+    },
+    "words": [
+        {
+            "word": "infrared",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "infra-",
+                    "meaning": {
+                        "ko": "아래",
+                        "en": "below",
+                        "ja": "下",
+                        "zh": "下方",
+                        "fr": "au-dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "red",
+                    "meaning": {
+                        "ko": "빨간색",
+                        "en": "red color",
+                        "ja": "赤色",
+                        "zh": "红色",
+                        "fr": "rouge"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "빛 스펙트럼에서 '빨간색 아래' 영역에 있다는 의미에서 '적외선'을 뜻합니다.",
+                "en": "Named for its position below red in the light spectrum",
+                "ja": "光スペクトラムで赤色の下の領域にあることから名付けられた",
+                "zh": "因为它在光谱中红色之下的区域而得名",
+                "fr": "Nommé ainsi car il se situe sous le rouge dans le spectre lumineux"
+            },
+            "example": "We used an infrared camera.",
+            "translation": {
+                "ko": "우리는 적외선 카메라를 사용했다.",
+                "ja": "私たちは赤外線カメラを使った。",
+                "zh": "我们使用了红外线摄像机。",
+                "fr": "Nous avons utilisé une caméra infrarouge."
+            }
+        },
+        {
+            "word": "infrastructure",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "infra-",
+                    "meaning": {
+                        "ko": "아래",
+                        "en": "beneath",
+                        "ja": "下の",
+                        "zh": "下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "structure",
+                    "meaning": {
+                        "ko": "구조",
+                        "en": "structure",
+                        "ja": "構造",
+                        "zh": "结构",
+                        "fr": "structure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "사회 '기반 아래에' 깔려있는 구조물이라는 의미에서 도로, 통신, 전력 등의 '사회 기반 시설'을 뜻합니다.",
+                "en": "Refers to basic public facilities like roads, communications, and power systems that form the foundation of society.",
+                "ja": "社会の基盤となる道路、通信、電力などの公共施設を意味します。",
+                "zh": "指支撑社会运行的道路、通信、电力等基础公共设施。",
+                "fr": "Désigne les installations publiques essentielles comme les routes, les communications et l'électricité qui forment la base de la société."
+            },
+            "example": "The country needs to improve its infrastructure.",
+            "translation": {
+                "ko": "그 나라는 사회 기반 시설을 개선해야 한다.",
+                "ja": "その国はインフラストラクチャーを改善する必要があります。",
+                "zh": "那个国家需要改善其基础设施。",
+                "fr": "Le pays doit améliorer ses infrastructures."
+            }
+        }
+    ]
+}

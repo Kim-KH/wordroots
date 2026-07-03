@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ance (the act of) avoidance, dominance, substance",
+        "origin": "Latin, -antia (the act of)",
+        "meaning": {
+            "ko": "…하는 행위",
+            "en": "the act of",
+            "ja": "…する行為",
+            "zh": "…的行为",
+            "fr": "l'acte de …"
+        }
+    },
+    "words": [
+        {
+            "word": "avoidance",
+            "part_of_speech": "",
+            "origin": "Old French, evuider (to empty out)",
+            "meaning": {
+                "ko": "비우다",
+                "en": "to empty or vacate",
+                "ja": "回避、避けること",
+                "zh": "回避、避免",
+                "fr": "évitement, action d'éviter"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "avoid",
+                    "meaning": {
+                        "ko": "'피하다'",
+                        "en": "to evade or shun",
+                        "ja": "避ける",
+                        "zh": "避免、躲避",
+                        "fr": "éviter"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ance",
+                    "meaning": {
+                        "ko": "'행위'",
+                        "en": "act or state of",
+                        "ja": "行為、行動",
+                        "zh": "行为、行为",
+                        "fr": "action, comportement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피하는 행위'인 '회피'를 뜻합니다.",
+                "en": "Avoidance refers to the act of avoiding or keeping away from something",
+                "ja": "何かを避ける行為を意味します",
+                "zh": "指避免或远离某事的行为",
+                "fr": "Signifie l'acte d'éviter ou de s'éloigner de quelque chose"
+            },
+            "example": "Avoidance is not a good way to deal with problems.",
+            "translation": {
+                "ko": "회피는 문제를 다루는 좋은 방법이 아니다.",
+                "ja": "回避は問題に対処する良い方法ではありません",
+                "zh": "回避不是解决问题的好办法",
+                "fr": "L'évitement n'est pas une bonne façon de faire face aux problèmes"
+            }
+        },
+        {
+            "word": "dominance",
+            "part_of_speech": "",
+            "origin": "Latin, dominans (ruling)",
+            "meaning": {
+                "ko": "지배하는",
+                "en": "ruling or controlling",
+                "ja": "支配",
+                "zh": "支配",
+                "fr": "domination"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "domin-",
+                    "meaning": {
+                        "ko": "'지배하다'",
+                        "en": "to rule",
+                        "ja": "支配する",
+                        "zh": "统治",
+                        "fr": "dominer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ance",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 것보다 우세하거나 지배적인 상태'인 '우세', '지배'를 뜻합니다.",
+                "en": "Refers to superiority or dominance over others",
+                "ja": "他より優れているまたは支配的な状態",
+                "zh": "比其他事物更优越或具有主导地位的状态",
+                "fr": "État de supériorité ou de domination sur les autres"
+            },
+            "example": "The lion's dominance was challenged by a younger male.",
+            "translation": {
+                "ko": "그 사자의 지배력은 더 어린 수컷에게 도전을 받았다.",
+                "ja": "ライオンの支配は若いオスに挑戦された",
+                "zh": "狮子的统治受到了更年轻雄狮的挑战",
+                "fr": "La domination du lion a été remise en question par un mâle plus jeune"
+            }
+        },
+        {
+            "word": "substance",
+            "part_of_speech": "",
+            "origin": "Latin, substantia (being, essence)",
+            "meaning": {
+                "ko": "존재, 본질",
+                "en": "existence, essential nature",
+                "ja": "存在、本質",
+                "zh": "存在、本质",
+                "fr": "existence, essence"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sub-",
+                    "meaning": {
+                        "ko": "'아래에'",
+                        "en": "under",
+                        "ja": "下に",
+                        "zh": "下面",
+                        "fr": "sous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "st- (stare)",
+                    "meaning": {
+                        "ko": "'서다'",
+                        "en": "to stand",
+                        "ja": "立つ",
+                        "zh": "站立",
+                        "fr": "se tenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'변화하는 현상 아래에 서 있는' 변치 않는 실체라는 의미에서 '물질', '본질'을 뜻합니다.",
+                "en": "Means matter or essence from the concept of unchanging reality standing beneath changing phenomena.",
+                "ja": "変化する現象の下に立っている変わらない実体という意味から、物質、本質を意味します。",
+                "zh": "从变化现象下面站立的不变实体的概念，表示物质和本质的含义。",
+                "fr": "Signifie matière ou essence du concept de réalité immuable se tenant sous les phénomènes changeants."
+            },
+            "example": "The substance was identified as a type of poison.",
+            "translation": {
+                "ko": "그 물질은 일종의 독극물로 확인되었다.",
+                "ja": "その物質は毒の一種として特定された。",
+                "zh": "这种物质被确定为一种毒药。",
+                "fr": "La substance a été identifiée comme un type de poison."
+            }
+        }
+    ]
+}

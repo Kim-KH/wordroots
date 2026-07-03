@@ -1,0 +1,221 @@
+{
+    "root_info": {
+        "roots": "text (weave) context, text, textile, textual, texture",
+        "origin": "Latin, texere, textus (to weave)",
+        "meaning": {
+            "ko": "짜다",
+            "en": "to weave",
+            "ja": "織る",
+            "zh": "编织",
+            "fr": "tisser"
+        }
+    },
+    "words": [
+        {
+            "word": "context",
+            "part_of_speech": "",
+            "origin": "Latin, contextus (a joining together)",
+            "meaning": {
+                "ko": "함께 짜기",
+                "en": "weaving together",
+                "ja": "文脈、前後関係",
+                "zh": "上下文、语境",
+                "fr": "contexte, contexte linguistique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起、共同",
+                        "fr": "ensemble, conjointement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "text",
+                    "meaning": {
+                        "ko": "'짜다'",
+                        "en": "to weave",
+                        "ja": "織く",
+                        "zh": "编织",
+                        "fr": "tisser, entrelacer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'글의 앞뒤에 함께 짜여 있는' 내용이라는 의미에서 '문맥', '맥락'을 뜻합니다.",
+                "en": "Meaning derives from content that is woven together before and after text, referring to textual context or coherence.",
+                "ja": "テキストの前後に一緒に織かれている内容という意味から、文脈や文の流れを表します。",
+                "zh": "源自在文本前后一起编织的内容之意，指文章的上下文或语境。",
+                "fr": "Signification dérivée du contenu tissé ensemble avant et après le texte, se référant au contexte textuel ou à la cohérence."
+            },
+            "example": "You should consider the context of the sentence.",
+            "translation": {
+                "ko": "당신은 그 문장의 맥락을 고려해야 한다.",
+                "ja": "文の前後関係を考慮すべきです。",
+                "zh": "你应该考虑句子的上下文。",
+                "fr": "Vous devriez considérer le contexte de la phrase."
+            }
+        },
+        {
+            "word": "text",
+            "part_of_speech": "",
+            "origin": "Latin, textus (that which is woven, a text)",
+            "meaning": {
+                "ko": "짜인 것, 글",
+                "en": "woven thing, writing",
+                "ja": "織られたもの、文章",
+                "zh": "织成的东西、文字",
+                "fr": "tissu, texte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "text-",
+                    "meaning": {
+                        "ko": "'짜다'",
+                        "en": "to weave",
+                        "ja": "織く",
+                        "zh": "织",
+                        "fr": "tisser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단어들이 함께 짜여 만들어진' '글', '본문'을 뜻합니다.",
+                "en": "Words woven together to create written content, main body of text",
+                "ja": "単語が一緒に織られて作られた文章、本文を意味します",
+                "zh": "由单词编织在一起形成的文字、正文的意思",
+                "fr": "Les mots tissés ensemble pour créer du contenu écrit, le corps principal du texte"
+            },
+            "example": "Please read the text on page 10.",
+            "translation": {
+                "ko": "10페이지의 본문을 읽어주세요.",
+                "ja": "10ページのテキストを読んでください",
+                "zh": "请阅读第10页的文本",
+                "fr": "Veuillez lire le texte à la page 10"
+            }
+        },
+        {
+            "word": "textile",
+            "part_of_speech": "",
+            "origin": "Latin, textilis (woven)",
+            "meaning": {
+                "ko": "짜인",
+                "en": "woven or interlaced",
+                "ja": "織られた布",
+                "zh": "织织的布料",
+                "fr": "tissu tissé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "text-",
+                    "meaning": {
+                        "ko": "'짜다'",
+                        "en": "to weave",
+                        "ja": "織く",
+                        "zh": "织",
+                        "fr": "tisser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'실로 짠' '직물', '옷감'을 뜻합니다.",
+                "en": "Refers to woven fabric, cloth, or textile materials made from thread.",
+                "ja": "糸で織った布地、生地、衣料を意味します。",
+                "zh": "指用线织成的布料、织物、服装材料。",
+                "fr": "Désigne le tissu tissé, l'étoffe ou les matériaux textiles fabriqués à partir de fil."
+            },
+            "example": "The textile industry is important to the country's economy.",
+            "translation": {
+                "ko": "섬유 산업은 국가 경제에 중요하다.",
+                "ja": "繊維産業はその国の経済にとって重要です。",
+                "zh": "纺织业对该国的经济很重要。",
+                "fr": "L'industrie textile est importante pour l'économie du pays."
+            }
+        },
+        {
+            "word": "textual",
+            "part_of_speech": "",
+            "origin": "Latin, textus (text)",
+            "meaning": {
+                "ko": "글",
+                "en": "written text or writing",
+                "ja": "文章の、本文の",
+                "zh": "文本的、原文的",
+                "fr": "textuel, du texte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "text-",
+                    "meaning": {
+                        "ko": "'글'",
+                        "en": "text",
+                        "ja": "文章",
+                        "zh": "文本",
+                        "fr": "texte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'본문의', '원문의'라는 뜻입니다.",
+                "en": "Means 'of the text' or 'of the original text'",
+                "ja": "テキストに関する、本文に関するという意味です",
+                "zh": "与文本相关、与原文相关的意思",
+                "fr": "Signifie relatif au texte ou au texte original"
+            },
+            "example": "The scholar provided a textual analysis of the poem.",
+            "translation": {
+                "ko": "그 학자는 그 시에 대한 원문 분석을 제공했다.",
+                "ja": "学者はその詩の文章分析を提供した。",
+                "zh": "那位学者提供了对这首诗的文本分析。",
+                "fr": "Le savant a fourni une analyse textuelle du poème."
+            }
+        },
+        {
+            "word": "texture",
+            "part_of_speech": "",
+            "origin": "Latin, textura (a weaving, a texture)",
+            "meaning": {
+                "ko": "짜임새",
+                "en": "woven structure or fabric composition",
+                "ja": "織り目、肌触り",
+                "zh": "织物感、质地",
+                "fr": "texture, toucher"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "text-",
+                    "meaning": {
+                        "ko": "'짜다'",
+                        "en": "to weave",
+                        "ja": "織く",
+                        "zh": "织",
+                        "fr": "tisser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'직물이 짜여진 느낌'이라는 의미에서 '질감', '감촉'을 뜻합니다.",
+                "en": "The fabric has a soft texture.",
+                "ja": "織られた布の感触という意味で、質感や肌触りを表します。",
+                "zh": "从织物被编织的感觉来看，表示质地或手感。",
+                "fr": "Signifie la sensation tactile et la qualité du tissu tressé."
+            },
+            "example": "The fabric has a soft texture.",
+            "translation": {
+                "ko": "그 직물은 부드러운 질감을 가지고 있다.",
+                "ja": "この布は柔らかい肌触りがある。",
+                "zh": "这种布料有柔软的质地。",
+                "fr": "Le tissu a une texture douce."
+            }
+        }
+    ]
+}

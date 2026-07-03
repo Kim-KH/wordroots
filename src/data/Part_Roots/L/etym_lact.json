@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "lact (milk) lactation, lactic, lactose",
+        "origin": "Latin, lac, lactis (milk)",
+        "meaning": {
+            "ko": "우유",
+            "en": "milk",
+            "ja": "牛乳",
+            "zh": "牛奶",
+            "fr": "lait"
+        }
+    },
+    "words": [
+        {
+            "word": "lactation",
+            "part_of_speech": "",
+            "origin": "Latin, lactare (to suckle)",
+            "meaning": {
+                "ko": "젖을 빨리다",
+                "en": "to suck milk",
+                "ja": "授乳、乳汁分泌",
+                "zh": "哺乳、泌乳",
+                "fr": "lactation, allaitement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lact-",
+                    "meaning": {
+                        "ko": "'젖'",
+                        "en": "milk",
+                        "ja": "乳",
+                        "zh": "乳",
+                        "fr": "lait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'젖을 분비하는 과정'인 '수유', '비유'를 뜻합니다.",
+                "en": "The process of secreting and producing milk for nursing",
+                "ja": "出産後に乳汁を分泌する過程",
+                "zh": "产后分泌乳汁的过程",
+                "fr": "processus de sécrétion lactée après l'accouchement"
+            },
+            "example": "Lactation begins after a woman gives birth.",
+            "translation": {
+                "ko": "수유는 여성이 출산한 후에 시작된다.",
+                "ja": "出産後、女性の授乳が始まります。",
+                "zh": "女性分娩后开始哺乳。",
+                "fr": "La lactation commence après qu'une femme donne naissance."
+            }
+        },
+        {
+            "word": "lactic",
+            "part_of_speech": "",
+            "origin": "Latin, lac (milk)",
+            "meaning": {
+                "ko": "우유",
+                "en": "milk",
+                "ja": "乳に関する",
+                "zh": "乳的",
+                "fr": "lactique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lact-",
+                    "meaning": {
+                        "ko": "'젖'",
+                        "en": "milk",
+                        "ja": "乳",
+                        "zh": "乳",
+                        "fr": "lait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'젖에서 발견되는' 산이라는 의미에서 '젖산'을 뜻합니다.",
+                "en": "Refers to lactic acid found in milk",
+                "ja": "牛乳に含まれる乳酸を意味します",
+                "zh": "指的是在牛奶中发现的乳酸",
+                "fr": "Fait référence à l'acide lactique trouvé dans le lait"
+            },
+            "example": "Lactic acid builds up in your muscles during strenuous exercise.",
+            "translation": {
+                "ko": "격렬한 운동 중에 젖산이 근육에 축적된다.",
+                "ja": "激しい運動中、乳酸があなたの筋肉に蓄積します。",
+                "zh": "剧烈运动期间，乳酸在你的肌肉中积累。",
+                "fr": "L'acide lactique s'accumule dans vos muscles pendant l'exercice intense."
+            }
+        },
+        {
+            "word": "lactose",
+            "part_of_speech": "",
+            "origin": "Latin, lac (milk)",
+            "meaning": {
+                "ko": "우유",
+                "en": "milk",
+                "ja": "乳糖",
+                "zh": "乳糖",
+                "fr": "lactose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lact-",
+                    "meaning": {
+                        "ko": "'젖'",
+                        "en": "milk",
+                        "ja": "乳、牛乳",
+                        "zh": "乳、牛乳",
+                        "fr": "lait"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "(화학) 당을 나타내는 접미사",
+                        "en": "chemical suffix for sugar",
+                        "ja": "化学的糖を示す接尾辞",
+                        "zh": "化学糖类后缀",
+                        "fr": "suffixe indiquant sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'젖에 포함된 당'이라는 의미에서 '유당', '젖당'을 뜻합니다.",
+                "en": "Means milk sugar, referring to the sugar contained in milk",
+                "ja": "牛乳に含まれる糖という意味で、乳糖を意味します",
+                "zh": "指牛奶中含有的糖，意为乳糖",
+                "fr": "Signifie sucre du lait, se référant au sucre contenu dans le lait"
+            },
+            "example": "Lactose intolerance is the inability to digest lactose.",
+            "translation": {
+                "ko": "유당 불내증은 유당을 소화하지 못하는 것이다.",
+                "ja": "乳糖不耐症は、乳糖を消化できない状態です",
+                "zh": "乳糖不耐症是无法消化乳糖的状况",
+                "fr": "L'intolérance au lactose est l'incapacité à digérer le lactose"
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "leve (balance) level, lever",
+        "origin": "Latin, libra (balance, scales)",
+        "meaning": {
+            "ko": "균형",
+            "en": "balance",
+            "ja": "バランス",
+            "zh": "平衡",
+            "fr": "équilibre"
+        }
+    },
+    "words": [
+        {
+            "word": "level",
+            "part_of_speech": "",
+            "origin": "Latin, libella (a balance)",
+            "meaning": {
+                "ko": "작은 저울",
+                "en": "small scale",
+                "ja": "水平、段階、程度",
+                "zh": "水平、等级、高度",
+                "fr": "niveau, étage, degré"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "leve- (libra)",
+                    "meaning": {
+                        "ko": "'저울, 수평'",
+                        "en": "balance",
+                        "ja": "天秤、水平",
+                        "zh": "天平、水平",
+                        "fr": "balance, équilibre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'저울처럼 수평을 맞추는' 도구에서 유래하여 '수준', '높이', '수평'을 뜻합니다.",
+                "en": "Derived from a tool that balances like a scale, meaning standard, height, or horizontality",
+                "ja": "天秤のように水平を調整する道具から派生し、『水準』『高さ』『水平』を意味します。",
+                "zh": "源自像天平一样调平的工具，表示'标准''高度''水平'的意思。",
+                "fr": "Dérivé d'un outil qui équilibre comme une balance, signifiant niveau, hauteur ou horizontalité."
+            },
+            "example": "The water level in the river is rising.",
+            "translation": {
+                "ko": "강의 수위가 상승하고 있다.",
+                "ja": "河川の水位が上昇しています。",
+                "zh": "河流的水位在上升。",
+                "fr": "Le niveau d'eau du fleuve monte."
+            }
+        },
+        {
+            "word": "lever",
+            "part_of_speech": "",
+            "origin": "Latin, levare (to raise)",
+            "meaning": {
+                "ko": "들어 올리다",
+                "en": "to lift up",
+                "ja": "持ち上げる",
+                "zh": "举起",
+                "fr": "soulever"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lev-",
+                    "meaning": {
+                        "ko": "'들어 올리다'",
+                        "en": "to raise",
+                        "ja": "持ち上げる",
+                        "zh": "举起",
+                        "fr": "soulever"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'적은 힘으로 무거운 것을 들어 올리는' 도구인 '지렛대'를 뜻합니다.",
+                "en": "A tool used to lift heavy objects with little effort",
+                "ja": "小さな力で重いものを持ち上げるための道具",
+                "zh": "用小力气举起重物的工具",
+                "fr": "Outil pour soulever des objets lourds avec peu d'effort"
+            },
+            "example": "He used a lever to move the heavy rock.",
+            "translation": {
+                "ko": "그는 무거운 바위를 옮기기 위해 지렛대를 사용했다.",
+                "ja": "彼は重い岩を動かすためにてこを使った",
+                "zh": "他用杠杆移动了重石头",
+                "fr": "Il a utilisé un levier pour déplacer le rocher lourd"
+            }
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "root_info": {
+        "roots": "term: end, boundary, limit",
+        "origin": "Latin, terminus",
+        "meaning": {
+            "ko": "끝, 한계",
+            "en": "end, limit",
+            "ja": "終わり、限界",
+            "zh": "结束、限制",
+            "fr": "fin, limite"
+        }
+    },
+    "words": [
+        {
+            "word": "terminus",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "termin",
+                    "meaning": {
+                        "ko": "끝",
+                        "en": "end",
+                        "ja": "終わり",
+                        "zh": "结束",
+                        "fr": "fin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어에서 직접 온 단어로, 버스나 기차 노선의 '종점'을 의미합니다.",
+                "en": "From Latin, meaning the final stop of a bus or train route.",
+                "ja": "ラテン語から直接来た言葉で、バスや電車路線の「終点」を意味します。",
+                "zh": "直接来自拉丁语，指公交车或火车路线的\"终点站\"。",
+                "fr": "Du latin, désignant le dernier arrêt d'une ligne de bus ou de train."
+            },
+            "example": "This is the bus terminus.",
+            "translation": {
+                "ko": "이곳은 버스 종점이다.",
+                "ja": "ここはバスの終点です。",
+                "zh": "这是公交车的终点站。",
+                "fr": "Ceci est le terminus d'autobus."
+            }
+        },
+        {
+            "word": "terminator",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "termin",
+                    "meaning": {
+                        "ko": "끝내다",
+                        "en": "to end",
+                        "ja": "終わらせる",
+                        "zh": "结束",
+                        "fr": "terminer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ator",
+                    "meaning": {
+                        "ko": "사람/것",
+                        "en": "person or thing",
+                        "ja": "人/もの",
+                        "zh": "人/物",
+                        "fr": "personne/chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'끝내는 사람 또는 장치'를 의미합니다.",
+                "en": "One who or that which ends",
+                "ja": "終わらせる人またはもの",
+                "zh": "结束某事物的人或物",
+                "fr": "Personne ou chose qui termine"
+            },
+            "example": "The hero faced the terminator.",
+            "translation": {
+                "ko": "영웅은 터미네이터와 맞섰다.",
+                "ja": "英雄はターミネーターと対峙した。",
+                "zh": "英雄面对终结者。",
+                "fr": "Le héros a affronté le Terminator."
+            }
+        },
+        {
+            "word": "determine",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져, 완전히",
+                        "en": "off, completely",
+                        "ja": "離れて、完全に",
+                        "zh": "离开、完全地",
+                        "fr": "loin, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "termine",
+                    "meaning": {
+                        "ko": "한계를 정하다",
+                        "en": "to limit",
+                        "ja": "限界を定める",
+                        "zh": "限制、确定",
+                        "fr": "limiter, fixer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한계를 명확히 정하다'는 의미에서, '결정하다', '알아내다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'setting clear boundaries', it came to mean 'to decide' and 'to find out'.",
+                "ja": "「明確に限界を定める」という意味から、「決定する」「調べる」という意味になりました。",
+                "zh": "从「明确地设定界限」的含义演变为「决定」和「查明」的意思。",
+                "fr": "Du sens de 'fixer des limites claires', il est devenu signifier 'décider' et 'découvrir'."
+            },
+            "example": "We must determine the cause of the problem.",
+            "translation": {
+                "ko": "우리는 그 문제의 원인을 알아내야 한다.",
+                "ja": "我々はその問題の原因を特定しなければならない。",
+                "zh": "我们必须查明这个问题的原因。",
+                "fr": "Nous devons déterminer la cause du problème."
+            }
+        },
+        {
+            "word": "termination",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "termin",
+                    "meaning": {
+                        "ko": "끝",
+                        "en": "end",
+                        "ja": "終わり",
+                        "zh": "结束",
+                        "fr": "fin"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ation",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe nominalisateur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'끝내는 행위'라는 의미에서 '종료', '종결'을 뜻합니다.",
+                "en": "Means ending or conclusion, derived from the sense of 'act of finishing'",
+                "ja": "『終わらせる行為』という意味から『終了』『終結』を意味します",
+                "zh": "从'结束行为'的含义引申出'终止''结束'之意",
+                "fr": "Signifie fin ou conclusion, dérivé du sens d'« action de terminer »"
+            },
+            "example": "His employment termination was unexpected.",
+            "translation": {
+                "ko": "그의 고용 종료는 예상 밖이었다.",
+                "ja": "彼の雇用契約の終了は予期しないものだった。",
+                "zh": "他的雇佣关系终止是出乎意料的。",
+                "fr": "La résiliation de son emploi était inattendue."
+            }
+        },
+        {
+            "word": "exterminate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out of",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "hors de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "termin",
+                    "meaning": {
+                        "ko": "경계",
+                        "en": "boundary",
+                        "ja": "境界",
+                        "zh": "边界",
+                        "fr": "limite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'경계 밖으로 몰아내 끝내다'는 의미에서, 해충이나 특정 집단을 '몰살하다', '전멸시키다'는 뜻입니다.",
+                "en": "From 'drive out beyond boundaries' — to completely destroy pests or specific groups",
+                "ja": "境界の外に追い出して終わらせる意味から、害虫や特定の集団を『根絶する』『全滅させる』という意味です",
+                "zh": "从'将其驱赶出边界之外'的含义出发，表示'彻底消灭'害虫或特定群体",
+                "fr": "Du sens 'chasser au-delà des limites' — détruire complètement les parasites ou des groupes spécifiques"
+            },
+            "example": "We need to exterminate the pests.",
+            "translation": {
+                "ko": "우리는 해충을 박멸해야 한다.",
+                "ja": "私たちは害虫を駆除する必要があります",
+                "zh": "我们需要消灭害虫",
+                "fr": "Nous devons exterminer les parasites"
+            }
+        },
+        {
+            "word": "interminable",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "부정",
+                        "en": "not",
+                        "ja": "否定",
+                        "zh": "否定",
+                        "fr": "négation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "termin",
+                    "meaning": {
+                        "ko": "끝",
+                        "en": "end",
+                        "ja": "終わり",
+                        "zh": "结束",
+                        "fr": "fin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'끝낼 수 없는'이라는 의미에서, 지루할 정도로 '끝없이 계속되는'이라는 뜻입니다.",
+                "en": "From 'unable to end,' meaning tediously 'continuing without end.'",
+                "ja": "「終わらせることができない」という意味から、退屈なほど「終わりなく続く」という意味です。",
+                "zh": "从「无法结束」的意思，引申为烦人地「无休止地继续」。",
+                "fr": "De « incapable de finir », signifiant « qui continue sans fin » de manière ennuyeuse."
+            },
+            "example": "The meeting was interminable.",
+            "translation": {
+                "ko": "그 회의는 끝이 없었다.",
+                "ja": "その会議は終わりがなかった。",
+                "zh": "那次会议没完没了。",
+                "fr": "La réunion a été interminable."
+            }
+        }
+    ]
+}

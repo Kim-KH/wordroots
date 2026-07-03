@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "opt(i/o) (eye, vision) optical, optician, optometrist",
+        "origin": "Greek, optikos (of sight)",
+        "meaning": {
+            "ko": "시력의",
+            "en": "of sight",
+            "ja": "視力の",
+            "zh": "视力的",
+            "fr": "de la vision"
+        }
+    },
+    "words": [
+        {
+            "word": "optical",
+            "part_of_speech": "",
+            "origin": "Greek, optikos (of sight)",
+            "meaning": {
+                "ko": "시력의",
+                "en": "relating to vision or sight",
+                "ja": "視覚の、光学の",
+                "zh": "视觉的、光学的",
+                "fr": "optique, visuel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opt-",
+                    "meaning": {
+                        "ko": "'눈, 시력'",
+                        "en": "eye, vision",
+                        "ja": "目、視覚",
+                        "zh": "眼睛、视觉",
+                        "fr": "oeil, vision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시각의' 또는 '빛의 원리를 다루는'이라는 의미에서 '광학의'라는 뜻입니다.",
+                "en": "Relating to vision or the principles of light; concerned with sight or optics",
+                "ja": "視覚または光の原理に関する；視力または光学に関する",
+                "zh": "与视觉或光的原理有关；与视力或光学相关",
+                "fr": "Relatif à la vision ou aux principes de la lumière; concerne la vue ou l'optique"
+            },
+            "example": "An optical illusion makes you see things that are not really there.",
+            "translation": {
+                "ko": "착시는 실제로는 없는 것을 보게 만든다.",
+                "ja": "光学的幻覚はあなたに本当にそこにないものを見させます",
+                "zh": "光学幻觉让你看到实际上不存在的东西",
+                "fr": "Une illusion d'optique vous fait voir des choses qui ne sont pas vraiment là"
+            }
+        },
+        {
+            "word": "optician",
+            "part_of_speech": "",
+            "origin": "Greek, optikos (of sight)",
+            "meaning": {
+                "ko": "시력의",
+                "en": "of or relating to vision",
+                "ja": "眼鏡士、視力専門家",
+                "zh": "眼镜师、视光师",
+                "fr": "opticien, spécialiste de la vision"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opt-",
+                    "meaning": {
+                        "ko": "'눈, 시력'",
+                        "en": "eye, vision",
+                        "ja": "目、視力",
+                        "zh": "眼睛、视力",
+                        "fr": "oeil, vision"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시력에 관한 전문가'라는 의미에서 '안경사'를 뜻합니다.",
+                "en": "Means optician, an expert in vision-related matters",
+                "ja": "視力に関する専門家という意味で眼鏡士を意味します",
+                "zh": "表示与视力相关的专家，即眼镜师",
+                "fr": "Signifie opticien, expert en matière de vision"
+            },
+            "example": "The optician helped me choose a new pair of glasses.",
+            "translation": {
+                "ko": "안경사가 내가 새 안경을 고르는 것을 도와주었다.",
+                "ja": "眼鏡士が新しいメガネを選ぶのを手伝ってくれました",
+                "zh": "眼镜师帮我选择了一副新眼镜",
+                "fr": "L'opticien m'a aidé à choisir une nouvelle paire de lunettes"
+            }
+        },
+        {
+            "word": "optometrist",
+            "part_of_speech": "",
+            "origin": "Greek, optos (seen, visible) + metron (measure)",
+            "meaning": {
+                "ko": "시력을 재는 사람",
+                "en": "person who measures vision",
+                "ja": "視力検査の専門家",
+                "zh": "视力检查专家",
+                "fr": "spécialiste de la vision"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opto-",
+                    "meaning": {
+                        "ko": "'시력'",
+                        "en": "vision",
+                        "ja": "視力",
+                        "zh": "视力",
+                        "fr": "vision"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "metrist",
+                    "meaning": {
+                        "ko": "'측정하는 사람'",
+                        "en": "person who measures",
+                        "ja": "測定する人",
+                        "zh": "测量的人",
+                        "fr": "personne qui mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시력을 측정하고 교정하는 전문가'인 '검안사'를 뜻합니다.",
+                "en": "An optometrist is a professional who measures and corrects vision",
+                "ja": "視力を測定し矯正する専門家です",
+                "zh": "测量和矫正视力的专业人士",
+                "fr": "Professionnel qui mesure et corrige la vision"
+            },
+            "example": "An optometrist can prescribe glasses and contact lenses.",
+            "translation": {
+                "ko": "검안사는 안경과 콘택트렌즈를 처방할 수 있다.",
+                "ja": "検眼医",
+                "zh": "验光师",
+                "fr": "optométriste"
+            }
+        }
+    ]
+}

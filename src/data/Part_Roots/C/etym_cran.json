@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "cran (skull, brain) cranium, craniology, craniosacral",
+        "origin": "Greek, kranion (skull, upper part of the head)",
+        "meaning": {
+            "ko": "두개골",
+            "en": "skull",
+            "ja": "頭蓋骨",
+            "zh": "颅骨",
+            "fr": "crâne"
+        }
+    },
+    "words": [
+        {
+            "word": "cranium",
+            "part_of_speech": "",
+            "origin": "Greek, kranion (skull)",
+            "meaning": {
+                "ko": "두개골",
+                "en": "skull or cranial bone",
+                "ja": "頭蓋骨",
+                "zh": "颅骨",
+                "fr": "crâne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crani (kranion)",
+                    "meaning": {
+                        "ko": "'두개골'",
+                        "en": "skull",
+                        "ja": "頭蓋骨",
+                        "zh": "颅骨",
+                        "fr": "crâne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "그리스어 단어 그대로 뇌를 감싸고 있는 뼈인 '두개골'을 의미하는 해부학 용어입니다.",
+                "en": "An anatomical term from Greek meaning the bone that encloses and protects the brain.",
+                "ja": "ギリシャ語に由来し、脳を包み保護している骨を意味する解剖学用語です。",
+                "zh": "源自希腊语，指包裹并保护大脑的骨头的解剖学术语。",
+                "fr": "Terme anatomique d'origine grecque désignant l'os qui enveloppe et protège le cerveau."
+            },
+            "example": "The cranium protects the brain from injury.",
+            "translation": {
+                "ko": "두개골은 뇌가 다치지 않도록 보호한다.",
+                "ja": "頭蓋骨は脳を損傷から保護します。",
+                "zh": "颅骨保护大脑免受损伤。",
+                "fr": "Le crâne protège le cerveau contre les blessures."
+            }
+        },
+        {
+            "word": "craniology",
+            "part_of_speech": "",
+            "origin": "Greek, kranion (skull) + -logia (study)",
+            "meaning": {
+                "ko": "두개골 연구",
+                "en": "study of skulls",
+                "ja": "頭蓋骨学",
+                "zh": "颅骨学",
+                "fr": "cranologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cranio (kranion)",
+                    "meaning": {
+                        "ko": "'두개골'",
+                        "en": "skull",
+                        "ja": "頭蓋骨",
+                        "zh": "颅骨",
+                        "fr": "crâne"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy (logia)",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study of",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "étude de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두개골(cranio)을 연구하는 학문(logy)'으로 '두개골학'을 뜻합니다.",
+                "en": "Craniology refers to the study of skulls, combining 'cranio' (skull) and 'logy' (study of).",
+                "ja": "頭蓋骨(cranio)を研究する学問(logy)で、頭蓋骨学を意味します。",
+                "zh": "颅骨(cranio)研究的学科(logy)，意为颅骨学。",
+                "fr": "Cranologie combine 'cranio' (crâne) et 'logie' (étude de) pour désigner l'étude des crânes."
+            },
+            "example": "Craniology was a popular field of study in the 19th century.",
+            "translation": {
+                "ko": "두개골학은 19세기에 인기 있는 연구 분야였다.",
+                "ja": "19世紀に頭蓋骨学は人気のある研究分野でした。",
+                "zh": "颅骨学在19世纪是一个受欢迎的研究领域。",
+                "fr": "La cranologie était un domaine d'étude populaire au 19e siècle."
+            }
+        },
+        {
+            "word": "craniosacral",
+            "part_of_speech": "",
+            "origin": "Greek, kranion (skull) + Latin, sacrum (sacred bone)",
+            "meaning": {
+                "ko": "두개골-천골",
+                "en": "skull to sacrum",
+                "ja": "頭蓋骨と仙骨に関連した",
+                "zh": "颅骨与骶骨相关的",
+                "fr": "crâne et sacrum"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cranio (kranion)",
+                    "meaning": {
+                        "ko": "'두개골'",
+                        "en": "skull",
+                        "ja": "頭蓋骨",
+                        "zh": "颅骨",
+                        "fr": "crâne"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sacral (sacrum)",
+                    "meaning": {
+                        "ko": "'천골의'",
+                        "en": "sacrum",
+                        "ja": "仙骨の",
+                        "zh": "骶骨的",
+                        "fr": "du sacrum"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두개골(cranio)과 엉치뼈(sacrum)에 관련된'이라는 의미로, 대체 의학의 한 분야인 '두개천골 요법' 등에서 사용됩니다.",
+                "en": "Term used in alternative medicine fields such as craniosacral therapy, relating to the skull and sacral bone.",
+                "ja": "頭蓋骨と仙骨に関連し、頭蓋天骨療法などの代替医療分野で使用されます",
+                "zh": "与头蓋骨和骶骨相关，用于颅骶疗法等替代医学领域",
+                "fr": "Terme utilisé en médecines alternatives comme la thérapie crâniosacrale, reliant le crâne et l'os sacré"
+            },
+            "example": "Craniosacral therapy is a gentle, hands-on treatment.",
+            "translation": {
+                "ko": "두개천골 요법은 부드러운 수기 치료법이다.",
+                "ja": "頭蓋天骨療法は優しく、手を使った治療です",
+                "zh": "颅骶疗法是一种温和的手法治疗",
+                "fr": "La thérapie crâniosacrale est un traitement doux et manuel"
+            }
+        }
+    ]
+}

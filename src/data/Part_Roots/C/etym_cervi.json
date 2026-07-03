@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "cervi (neck) cervical, cervix",
+        "origin": "Latin, cervix (neck)",
+        "meaning": {
+            "ko": "목",
+            "en": "neck",
+            "ja": "首",
+            "zh": "脖子",
+            "fr": "cou"
+        }
+    },
+    "words": [
+        {
+            "word": "cervical",
+            "part_of_speech": "",
+            "origin": "Latin, cervicalis (relating to the neck)",
+            "meaning": {
+                "ko": "목에 관련된",
+                "en": "relating to the neck",
+                "ja": "首に関連した",
+                "zh": "与颈部相关的",
+                "fr": "relatif au cou"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cervic (cervix)",
+                    "meaning": {
+                        "ko": "'목'",
+                        "en": "neck",
+                        "ja": "首",
+                        "zh": "颈部",
+                        "fr": "cou"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or pertaining to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'목(cervic)에 관련된'이라는 의미로, '목의', '경추의' 또는 '자궁경부의'라는 뜻으로 사용됩니다.",
+                "en": "Meaning 'related to the neck', used as 'of the neck', 'of the cervical vertebrae' or 'of the cervix'",
+                "ja": "首に関連するという意味で、首の、頸椎の、または子宮頸部のという意味で使用されます",
+                "zh": "意思是与颈部相关，用作颈部的、颈椎的或宫颈的",
+                "fr": "Signifiant relatif au cou, utilisé comme du cou, des vertèbres cervicales ou du col utérin"
+            },
+            "example": "The patient suffered a cervical spine injury.",
+            "translation": {
+                "ko": "그 환자는 경추 손상을 입었다.",
+                "ja": "患者は頸椎損傷を患っていた。",
+                "zh": "患者遭受了颈椎损伤。",
+                "fr": "Le patient a subi une blessure à la colonne cervicale."
+            }
+        },
+        {
+            "word": "cervix",
+            "part_of_speech": "",
+            "origin": "Latin, cervix (neck)",
+            "meaning": {
+                "ko": "목",
+                "en": "neck",
+                "ja": "子宮頸部",
+                "zh": "子宫颈",
+                "fr": "col de l'utérus"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cervix (cervix)",
+                    "meaning": {
+                        "ko": "'목'",
+                        "en": "neck",
+                        "ja": "首、頸部",
+                        "zh": "颈部、脖子",
+                        "fr": "cou, col"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 단어 그대로 '목'을 의미하며, 해부학에서는 신체의 '목' 부분 또는 자궁의 아래쪽 좁은 부분인 '자궁경부'를 지칭합니다.",
+                "en": "The Latin word meaning 'neck' is used in anatomy to refer to the neck region of the body or the narrow lower part of the uterus called the cervix.",
+                "ja": "ラテン語の語源で'首'を意味し、解剖学では体の'首'部分または子宮の下部の狭い部分'子宮頸部'を指します。",
+                "zh": "拉丁语原词意为'颈部'，在解剖学中指身体的'颈部'或子宫下部狭窄的部分'子宫颈'。",
+                "fr": "Le mot latin signifiant 'cou' désigne en anatomie la région du cou du corps ou la partie étroite inférieure de l'utérus appelée col de l'utérus."
+            },
+            "example": "The cervix connects the uterus to the vagina.",
+            "translation": {
+                "ko": "자궁경부는 자궁과 질을 연결한다.",
+                "ja": "子宮頸部は子宮を膣に繋いでいます。",
+                "zh": "子宫颈将子宫与阴道相连。",
+                "fr": "Le col de l'utérus relie l'utérus au vagin."
+            }
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "root_info": {
+        "roots": "speci (type) special, speciation, species, specific, specimen",
+        "origin": "Latin, species (a sight, a kind, a form)",
+        "meaning": {
+            "ko": "종류",
+            "en": "a kind",
+            "ja": "一種",
+            "zh": "种类",
+            "fr": "une sorte"
+        }
+    },
+    "words": [
+        {
+            "word": "special",
+            "part_of_speech": "",
+            "origin": "Latin, specialis (particular, individual)",
+            "meaning": {
+                "ko": "특별한, 개별적인",
+                "en": "special, individual",
+                "ja": "特別な、個別的な",
+                "zh": "特别的、个别的",
+                "fr": "spécial, particulier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "speci-",
+                    "meaning": {
+                        "ko": "'종류, 특별한'",
+                        "en": "kind",
+                        "ja": "種類、特別な",
+                        "zh": "种类、特别的",
+                        "fr": "sorte, spécial"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'보통의 종류와 다른'이라는 의미에서 '특별한'이라는 뜻입니다.",
+                "en": "Meaning 'special' from the sense of being different from ordinary kinds",
+                "ja": "普通の種類と異なるという意味から'特別な'という意味です",
+                "zh": "从'与普通种类不同'的意思引申为'特别的'含义",
+                "fr": "Sens 'spécial' provenant de l'idée d'être différent des sortes ordinaires"
+            },
+            "example": "This is a special occasion.",
+            "translation": {
+                "ko": "오늘은 특별한 날이다.",
+                "ja": "これは特別な機会です",
+                "zh": "这是一个特别的场合",
+                "fr": "C'est une occasion spéciale"
+            }
+        },
+        {
+            "word": "speciation",
+            "part_of_speech": "",
+            "origin": "Latin, species (a kind)",
+            "meaning": {
+                "ko": "종류",
+                "en": "type or kind",
+                "ja": "種の分化",
+                "zh": "物种形成",
+                "fr": "spéciation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "speci-",
+                    "meaning": {
+                        "ko": "'종'",
+                        "en": "species",
+                        "ja": "種",
+                        "zh": "物种",
+                        "fr": "espèce"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새로운 생물 종이 형성되는 과정'인 '종 분화'를 뜻합니다.",
+                "en": "The process by which new biological species are formed",
+                "ja": "新しい生物種が形成される過程",
+                "zh": "新的生物物种形成的过程",
+                "fr": "Le processus de formation de nouvelles espèces biologiques"
+            },
+            "example": "Speciation can occur through geographical isolation.",
+            "translation": {
+                "ko": "종 분화는 지리적 격리를 통해 일어날 수 있다.",
+                "ja": "種の分化は地理的隔離を通じて起こることができます。",
+                "zh": "物种形成可以通过地理隔离而发生。",
+                "fr": "La spéciation peut se produire par l'isolement géographique."
+            }
+        },
+        {
+            "word": "species",
+            "part_of_speech": "",
+            "origin": "Latin, species (a kind, a form)",
+            "meaning": {
+                "ko": "종류",
+                "en": "type or kind",
+                "ja": "種類",
+                "zh": "物种",
+                "fr": "espèce"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "speci-",
+                    "meaning": {
+                        "ko": "'종류'",
+                        "en": "kind",
+                        "ja": "種類",
+                        "zh": "种类",
+                        "fr": "sorte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "생물 분류의 기본 단위인 '종(種)'을 뜻합니다.",
+                "en": "Refers to the basic unit of biological classification called 'species'.",
+                "ja": "生物分類の基本単位である『種』を意味します。",
+                "zh": "指生物分类的基本单位『种』。",
+                "fr": "Désigne l'unité fondamentale de la classification biologique appelée 'espèce'."
+            },
+            "example": "There are millions of different species of insects.",
+            "translation": {
+                "ko": "수백만 종의 다른 곤충들이 있다.",
+                "ja": "何百万種もの異なる昆虫の種が存在します。",
+                "zh": "有数百万种不同的昆虫物种。",
+                "fr": "Il existe des millions d'espèces d'insectes différentes."
+            }
+        },
+        {
+            "word": "specific",
+            "part_of_speech": "",
+            "origin": "Latin, specificus (constituting a species)",
+            "meaning": {
+                "ko": "종을 구성하는",
+                "en": "constituting a species",
+                "ja": "特定の種類を構成する",
+                "zh": "构成特定的种类",
+                "fr": "constituer une sorte particulière"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "speci-",
+                    "meaning": {
+                        "ko": "'종류'",
+                        "en": "kind",
+                        "ja": "種類",
+                        "zh": "种类",
+                        "fr": "sorte"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fic (facere)",
+                    "meaning": {
+                        "ko": "'만들다'",
+                        "en": "to make",
+                        "ja": "作る",
+                        "zh": "制作",
+                        "fr": "faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정한 종류를 만드는'이라는 의미에서 '구체적인', '특정한'이라는 뜻입니다.",
+                "en": "From the meaning 'making a particular kind', it means concrete, particular, or specified",
+                "ja": "特定の種類を作るという意味から、具体的な、特定のという意味です",
+                "zh": "从制作特定种类的意思，表示具体的、特定的含义",
+                "fr": "Du sens de faire une sorte particulière, cela signifie concret, particulier ou spécifié"
+            },
+            "example": "I gave you specific instructions.",
+            "translation": {
+                "ko": "나는 당신에게 구체적인 지시를 내렸다.",
+                "ja": "具体的な指示を与えた",
+                "zh": "我给了你具体的指示",
+                "fr": "Je vous ai donné des instructions précises"
+            }
+        },
+        {
+            "word": "specimen",
+            "part_of_speech": "",
+            "origin": "Latin, specimen (a mark, an example)",
+            "meaning": {
+                "ko": "표시, 예시",
+                "en": "display or example",
+                "ja": "見本、標本",
+                "zh": "样本、标本",
+                "fr": "échantillon, spécimen"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spec- (specere)",
+                    "meaning": {
+                        "ko": "'보다'",
+                        "en": "to look",
+                        "ja": "見る",
+                        "zh": "看、观察",
+                        "fr": "regarder, observer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전체를 대표하여 볼 수 있는' 예라는 의미에서 '견본', '표본'을 뜻합니다.",
+                "en": "Means a sample or example that represents the whole, referring to 'sample' or 'specimen'",
+                "ja": "全体を代表して見ることができる例という意味で、'見本'、'標本'を意味します",
+                "zh": "表示可以代表整体的例子，意思是'样本'或'标本'",
+                "fr": "Signifie un exemple ou un échantillon qui représente le tout, désignant 'modèle' ou 'spécimen'"
+            },
+            "example": "The doctor took a blood specimen for testing.",
+            "translation": {
+                "ko": "의사는 검사를 위해 혈액 표본을 채취했다.",
+                "ja": "医者は検査のために血液標本を採取した",
+                "zh": "医生采集了血液样本进行检测",
+                "fr": "Le médecin a prélevé un échantillon de sang pour analyse"
+            }
+        }
+    ]
+}

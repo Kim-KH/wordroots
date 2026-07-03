@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "copia (abundance) copious, cornucopia",
+        "origin": "Latin, copia (abundance, plenty)",
+        "meaning": {
+            "ko": "풍부함",
+            "en": "abundance",
+            "ja": "豊富",
+            "zh": "丰富",
+            "fr": "abondance"
+        }
+    },
+    "words": [
+        {
+            "word": "copious",
+            "part_of_speech": "",
+            "origin": "Latin, copiosus (abundant)",
+            "meaning": {
+                "ko": "풍부한",
+                "en": "abundant or plentiful",
+                "ja": "豊富な",
+                "zh": "丰富的",
+                "fr": "abondant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "copi (copia)",
+                    "meaning": {
+                        "ko": "'풍부함'",
+                        "en": "abundance",
+                        "ja": "豊かさ",
+                        "zh": "丰富",
+                        "fr": "abondance"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "'~이 많은'",
+                        "en": "full of",
+                        "ja": "~が多い",
+                        "zh": "充满~",
+                        "fr": "plein de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'풍부함(copi)이 많은(ous)'이라는 의미에서, 양이 '엄청난', '방대한'이라는 뜻으로 사용됩니다.",
+                "en": "From the meaning of 'abundance(copi) full of(ous)', it is used to mean quantity is 'tremendous' or 'vast'",
+                "ja": "豊かさ(copi)が多い(ous)という意味から、量が『膨大な』『莫大な』という意味で使われます",
+                "zh": "从'丰富(copi)充满(ous)'的含义来看，用来表示数量'巨大的''广泛的'",
+                "fr": "Du sens 'abondance(copi) plein de(ous)', il est utilisé pour signifier que la quantité est 'énorme' ou 'vaste'"
+            },
+            "example": "He took copious notes during the lecture.",
+            "translation": {
+                "ko": "그는 강의 중에 엄청나게 많은 필기를 했다.",
+                "ja": "彼は講義中に大量のメモを取った。",
+                "zh": "他在讲座中记了大量笔记。",
+                "fr": "Il a pris des notes abondantes pendant la conférence."
+            }
+        },
+        {
+            "word": "cornucopia",
+            "part_of_speech": "",
+            "origin": "Latin, cornu copiae (horn of plenty)",
+            "meaning": {
+                "ko": "풍요의 뿔",
+                "en": "horn of plenty",
+                "ja": "豊かさの角",
+                "zh": "丰饶之角",
+                "fr": "corne d'abondance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cornu",
+                    "meaning": {
+                        "ko": "'뿔'",
+                        "en": "horn",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "corne"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "copia",
+                    "meaning": {
+                        "ko": "'풍요, 풍부함'",
+                        "en": "plenty, abundance",
+                        "ja": "豊かさ、豊富さ",
+                        "zh": "丰富、充裕",
+                        "fr": "abondance, richesse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "제우스에게 젖을 먹인 염소의 뿔에서 과일과 곡식이 끊임없이 나왔다는 그리스 신화의 '풍요의 뿔(cornu copiae)'에서 유래하여, '풍요', '풍부함'을 상징하는 단어가 되었습니다.",
+                "en": "Derived from Greek mythology's 'cornucopia' (cornu copiae), the horn of a goat that fed Zeus, from which fruits and grains flowed endlessly. It became a symbol of abundance and plenty.",
+                "ja": "ゼウスに授乳した山羊の角から果物と穀物が絶えず流れ出たというギリシャ神話の『豊かさの角（cornu copiae）』に由来し、『豊かさ』『豊富さ』を象徴する言葉になりました。",
+                "zh": "源自希腊神话中哺育宙斯的山羊的角『丰饶之角（cornu copiae）』，从中不断流出水果和谷物，后来成为象征丰富和充裕的词汇。",
+                "fr": "Dérivé de la mythologie grecque de la 'corne d'abondance' (cornu copiae), la corne de la chèvre qui allaita Zeus, d'où coulaient sans fin fruits et grains. Elle est devenue un symbole d'abondance et de richesse."
+            },
+            "example": "The market was a cornucopia of fresh fruits and vegetables.",
+            "translation": {
+                "ko": "그 시장은 신선한 과일과 채소가 넘쳐나는 풍요의 뿔이었다.",
+                "ja": "その市場は新鮮な果物と野菜の豊かさであふれていました。",
+                "zh": "那个市场新鲜水果和蔬菜应有尽有。",
+                "fr": "Le marché était une corne d'abondance de fruits et légumes frais."
+            }
+        }
+    ]
+}

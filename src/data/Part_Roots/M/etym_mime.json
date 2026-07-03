@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "mime (mimic) mimetic, mimicry, pantomime",
+        "origin": "Greek, mimos (imitator, actor)",
+        "meaning": {
+            "ko": "흉내 내는 사람",
+            "en": "mimic",
+            "ja": "物真似をする人",
+            "zh": "模仿者",
+            "fr": "imitateur"
+        }
+    },
+    "words": [
+        {
+            "word": "mimetic",
+            "part_of_speech": "",
+            "origin": "Greek, mimetikos (imitative)",
+            "meaning": {
+                "ko": "모방하는",
+                "en": "imitating or copying",
+                "ja": "模倣的な",
+                "zh": "模仿的",
+                "fr": "mimétique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mime-",
+                    "meaning": {
+                        "ko": "'흉내 내다'",
+                        "en": "to mimic",
+                        "ja": "真似をする",
+                        "zh": "模仿",
+                        "fr": "imiter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모방하는', '의태의'라는 뜻입니다.",
+                "en": "Means imitative or imitation-like",
+                "ja": "模倣的、擬態的という意味です",
+                "zh": "表示模仿的、拟态的",
+                "fr": "Signifie imitatif ou d'imitation"
+            },
+            "example": "Art is a mimetic representation of reality.",
+            "translation": {
+                "ko": "예술은 현실의 모방적 재현이다.",
+                "ja": "芸術は現実の模倣的表現です。",
+                "zh": "艺术是对现实的模仿表现。",
+                "fr": "L'art est une représentation mimétique de la réalité."
+            }
+        },
+        {
+            "word": "mimicry",
+            "part_of_speech": "",
+            "origin": "Greek, mimos (imitator)",
+            "meaning": {
+                "ko": "흉내 내는 사람",
+                "en": "person who mimics",
+                "ja": "模倣すること",
+                "zh": "模仿",
+                "fr": "imitation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mimic-",
+                    "meaning": {
+                        "ko": "'흉내 내다'",
+                        "en": "to mimic",
+                        "ja": "模倣する",
+                        "zh": "模仿",
+                        "fr": "imiter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람이나 동물의 행동, 소리 등을 흉내 내는 것'인 '모방', '의태'를 뜻합니다.",
+                "en": "The act of imitating the behavior, voice, etc. of another person or animal; imitation or onomatopoeia.",
+                "ja": "他の人や動物の行動、声などを真似すること。模倣や擬声語を意味します。",
+                "zh": "模仿他人或动物的行为、声音等的行为。意味着模仿或拟声词。",
+                "fr": "L'action d'imiter le comportement, la voix, etc. d'une autre personne ou d'un animal; imitation ou onomatopée."
+            },
+            "example": "The parrot's mimicry of human speech was impressive.",
+            "translation": {
+                "ko": "그 앵무새의 인간 말 흉내는 인상적이었다.",
+                "ja": "オウムの人間の言葉の模倣は印象的でした。",
+                "zh": "鹦鹉对人类言语的模仿令人印象深刻。",
+                "fr": "L'imitation du langage humain par le perroquet était impressionnante."
+            }
+        },
+        {
+            "word": "pantomime",
+            "part_of_speech": "",
+            "origin": "Greek, pantomimos (all-imitating actor)",
+            "meaning": {
+                "ko": "모든 것을 흉내 내는 배우",
+                "en": "actor who mimics everything",
+                "ja": "身振りだけで演じる役者",
+                "zh": "用肢体语言表演的演员",
+                "fr": "acteur mimant tout sans paroles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "panto-",
+                    "meaning": {
+                        "ko": "'모든'",
+                        "en": "all",
+                        "ja": "すべて",
+                        "zh": "所有的",
+                        "fr": "tous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mime",
+                    "meaning": {
+                        "ko": "'흉내 내는 사람'",
+                        "en": "person who mimics",
+                        "ja": "真似をする人",
+                        "zh": "模仿的人",
+                        "fr": "personne imitant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'말없이 모든 것을 몸짓으로만 연기하는' 연극인 '팬터마임', '무언극'을 뜻합니다.",
+                "en": "Pantomime refers to theatrical performance using only body movements and gestures without speech, also called silent drama.",
+                "ja": "言葉を使わず、身振りと表情だけで演技する演劇形式の『パントマイム』、『無言劇』を意味します。",
+                "zh": "指不说话，只用身体动作和手势表演的戏剧形式，也称为'哑剧'。",
+                "fr": "Désigne une forme de théâtre où l'on joue uniquement avec les gestes et les expressions sans paroles, appelée aussi 'mime muet'."
+            },
+            "example": "He performed a hilarious pantomime of a man trying to swat a fly.",
+            "translation": {
+                "ko": "그는 파리를 잡으려는 남자를 익살스러운 팬터마임으로 연기했다.",
+                "ja": "彼は蝿を叩こうとする男の滑稽なパントマイムを演じた。",
+                "zh": "他表演了一个人试图拍苍蝇的滑稽哑剧。",
+                "fr": "Il a exécuté un pantomime hilarant d'un homme essayant de tuer une mouche."
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ious (full of) bilious, cautious, religious, rubiginous",
+        "origin": "Latin, -osus (full of)",
+        "meaning": {
+            "ko": "…으로 가득 찬",
+            "en": "full of",
+            "ja": "…でいっぱいの",
+            "zh": "充满…的",
+            "fr": "plein de…"
+        }
+    },
+    "words": [
+        {
+            "word": "bilious",
+            "part_of_speech": "",
+            "origin": "Latin, biliosus (full of bile)",
+            "meaning": {
+                "ko": "담즙으로 가득 찬",
+                "en": "full of bile",
+                "ja": "胆汁に満ちた",
+                "zh": "充满胆汁的",
+                "fr": "bilieux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bil- (bilis)",
+                    "meaning": {
+                        "ko": "'담즙'",
+                        "en": "bile",
+                        "ja": "胆汁",
+                        "zh": "胆汁",
+                        "fr": "bile"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ious",
+                    "meaning": {
+                        "ko": "'~으로 가득한'",
+                        "en": "full of",
+                        "ja": "~で満ちた",
+                        "zh": "充满~的",
+                        "fr": "plein de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'담즙이 많은'이라는 의미에서 '화를 잘 내는'이라는 뜻입니다.",
+                "en": "From the meaning of having much bile, it means easily angered",
+                "ja": "胆汁が多いという意味から、怒りやすいという意味です",
+                "zh": "从'胆汁很多'的含义衍生出'容易生气'的意思",
+                "fr": "Du sens d'avoir beaucoup de bile, cela signifie s'énerver facilement"
+            },
+            "example": "He is a bilious old man who complains about everything.",
+            "translation": {
+                "ko": "그는 모든 것에 대해 불평하는 성미가 까다로운 늙은이다.",
+                "ja": "彼は何についても文句を言う気難しい老人です",
+                "zh": "他是一个脾气坏的老人，对什么都在抱怨",
+                "fr": "C'est un vieil homme bilieux qui se plaint de tout"
+            }
+        },
+        {
+            "word": "cautious",
+            "part_of_speech": "",
+            "origin": "Latin, cautus (careful)",
+            "meaning": {
+                "ko": "조심스러운",
+                "en": "careful and wary",
+                "ja": "用心深い",
+                "zh": "谨慎的",
+                "fr": "prudent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "caut-",
+                    "meaning": {
+                        "ko": "'조심하는'",
+                        "en": "wary",
+                        "ja": "注意深い",
+                        "zh": "警惕的",
+                        "fr": "vigilant"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ious",
+                    "meaning": {
+                        "ko": "'~하는'",
+                        "en": "having quality of",
+                        "ja": "~している",
+                        "zh": "~的",
+                        "fr": "~ant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'조심하는'이라는 뜻입니다.",
+                "en": "Means being wary or careful",
+                "ja": "注意深いという意味です",
+                "zh": "表示警惕或谨慎的意思",
+                "fr": "Cela signifie être vigilant ou prudent"
+            },
+            "example": "Be cautious when crossing the street.",
+            "translation": {
+                "ko": "길을 건널 때는 조심하세요.",
+                "ja": "道を渡るときは用心深くしてください",
+                "zh": "过马路时要谨慎",
+                "fr": "Soyez prudent en traversant la rue"
+            }
+        },
+        {
+            "word": "religious",
+            "part_of_speech": "",
+            "origin": "Latin, religiosus (pious, devout)",
+            "meaning": {
+                "ko": "경건한",
+                "en": "devout and reverent",
+                "ja": "信仰心厚い",
+                "zh": "虔诚的",
+                "fr": "pieux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "relig- (religio)",
+                    "meaning": {
+                        "ko": "'종교'",
+                        "en": "religion",
+                        "ja": "宗教",
+                        "zh": "宗教",
+                        "fr": "religion"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ious",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or having quality of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'종교의' 또는 '독실한'이라는 뜻입니다.",
+                "en": "Means 'of religion' or 'devout'",
+                "ja": "宗教の、または信仰深いという意味です",
+                "zh": "宗教的或虔诚的意思",
+                "fr": "Signifie 'de religion' ou 'dévot'"
+            },
+            "example": "He is a very religious man.",
+            "translation": {
+                "ko": "그는 매우 독실한 사람이다.",
+                "ja": "彼は非常に信仰心の厚い人です。",
+                "zh": "他是一个很虔诚的人。",
+                "fr": "C'est un homme très pieux."
+            }
+        },
+        {
+            "word": "rubiginous",
+            "part_of_speech": "",
+            "origin": "Latin, rubiginosus (rusty)",
+            "meaning": {
+                "ko": "녹슨",
+                "en": "rusty or rust-colored",
+                "ja": "さび色の",
+                "zh": "锈色的",
+                "fr": "rouillé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rubigin- (rubigo)",
+                    "meaning": {
+                        "ko": "'녹'",
+                        "en": "rust",
+                        "ja": "さび",
+                        "zh": "锈",
+                        "fr": "rouille"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ous",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or having quality of",
+                        "ja": "〜的な",
+                        "zh": "〜的",
+                        "fr": "〜的"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'녹슨' 또는 '적갈색의'라는 뜻입니다.",
+                "en": "Means rusty or reddish-brown in color",
+                "ja": "さび色またはスミレ色を意味します",
+                "zh": "表示锈色或红褐色",
+                "fr": "Signifie rouillé ou couleur brun rougeâtre"
+            },
+            "example": "The old iron gate was rubiginous.",
+            "translation": {
+                "ko": "그 낡은 철문은 녹슬어 있었다.",
+                "ja": "古い鉄製の門はさび色だった。",
+                "zh": "那扇老铁门是锈色的。",
+                "fr": "L'ancien portail en fer était rouillé."
+            }
+        }
+    ]
+}

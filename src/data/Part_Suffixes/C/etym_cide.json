@@ -1,0 +1,315 @@
+{
+    "root_info": {
+        "roots": "cide (kill) insecticide, herbicide, homicide, patricide, genocide, suicide",
+        "origin": "Latin, caedere (to cut, to kill)",
+        "meaning": {
+            "ko": "죽이다",
+            "en": "to kill",
+            "ja": "殺す",
+            "zh": "杀死",
+            "fr": "tuer"
+        }
+    },
+    "words": [
+        {
+            "word": "insecticide",
+            "part_of_speech": "",
+            "origin": "Latin, insectum (insect) + caedere (to kill)",
+            "meaning": {
+                "ko": "곤충 죽이기",
+                "en": "killing insects",
+                "ja": "昆虫を殺す薬",
+                "zh": "杀死昆虫的药",
+                "fr": "produit tuant les insectes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "insecti-",
+                    "meaning": {
+                        "ko": "'곤충'",
+                        "en": "insect",
+                        "ja": "昆虫",
+                        "zh": "昆虫",
+                        "fr": "insecte"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cide",
+                    "meaning": {
+                        "ko": "'죽이기'",
+                        "en": "killing",
+                        "ja": "殺す",
+                        "zh": "杀死",
+                        "fr": "tuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'곤충을 죽이는 약'인 '살충제'를 뜻합니다.",
+                "en": "A substance used to kill insects",
+                "ja": "昆虫を殺すために使用される物質です",
+                "zh": "用于杀死昆虫的物质",
+                "fr": "Une substance utilisée pour tuer les insectes"
+            },
+            "example": "He sprayed insecticide on the plants.",
+            "translation": {
+                "ko": "그는 식물에 살충제를 뿌렸다.",
+                "ja": "彼は植物に殺虫剤を噴霧した。",
+                "zh": "他在植物上喷洒了杀虫剂。",
+                "fr": "Il a vaporisé un insecticide sur les plantes."
+            }
+        },
+        {
+            "word": "herbicide",
+            "part_of_speech": "",
+            "origin": "Latin, herba (plant) + caedere (to kill)",
+            "meaning": {
+                "ko": "식물 죽이기",
+                "en": "killing plants",
+                "ja": "植物を枯らす",
+                "zh": "杀死植物",
+                "fr": "tuer les plantes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "herbi-",
+                    "meaning": {
+                        "ko": "'풀'",
+                        "en": "plant",
+                        "ja": "草",
+                        "zh": "草",
+                        "fr": "herbe"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cide",
+                    "meaning": {
+                        "ko": "'죽이기'",
+                        "en": "killing",
+                        "ja": "枯らす",
+                        "zh": "杀死",
+                        "fr": "tuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잡초를 죽이는 약'인 '제초제'를 뜻합니다.",
+                "en": "A substance that kills weeds",
+                "ja": "雑草を枯らす薬を意味します",
+                "zh": "指杀死杂草的药物",
+                "fr": "Une substance qui tue les mauvaises herbes"
+            },
+            "example": "Farmers use herbicides to control weeds.",
+            "translation": {
+                "ko": "농부들은 잡초를 통제하기 위해 제초제를 사용한다.",
+                "ja": "除草剤",
+                "zh": "除草剂",
+                "fr": "herbicide"
+            }
+        },
+        {
+            "word": "homicide",
+            "part_of_speech": "",
+            "origin": "Latin, homo (man) + caedere (to kill)",
+            "meaning": {
+                "ko": "사람 죽이기",
+                "en": "killing a person",
+                "ja": "人を殺すこと",
+                "zh": "杀害人类",
+                "fr": "meurtre d'une personne"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "homi-",
+                    "meaning": {
+                        "ko": "'사람'",
+                        "en": "man",
+                        "ja": "人",
+                        "zh": "人",
+                        "fr": "homme"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cide",
+                    "meaning": {
+                        "ko": "'죽이기'",
+                        "en": "killing",
+                        "ja": "殺すこと",
+                        "zh": "杀死",
+                        "fr": "tuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람을 죽이는 행위'인 '살인'을 뜻합니다.",
+                "en": "Homicide refers to the act of killing a person",
+                "ja": "人を殺す行為である殺人を意味します",
+                "zh": "指杀害一个人的行为",
+                "fr": "Désigne l'acte de tuer une personne"
+            },
+            "example": "Homicide is the most serious of crimes.",
+            "translation": {
+                "ko": "살인은 가장 심각한 범죄이다.",
+                "ja": "殺人は最も深刻な犯罪です",
+                "zh": "杀人是最严重的犯罪",
+                "fr": "L'homicide est le crime le plus grave"
+            }
+        },
+        {
+            "word": "patricide",
+            "part_of_speech": "",
+            "origin": "Latin, pater (father) + caedere (to kill)",
+            "meaning": {
+                "ko": "아버지 죽이기",
+                "en": "killing one's father",
+                "ja": "父親殺害",
+                "zh": "弑父",
+                "fr": "parricide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "patri-",
+                    "meaning": {
+                        "ko": "'아버지'",
+                        "en": "father",
+                        "ja": "父親",
+                        "zh": "父亲",
+                        "fr": "père"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cide",
+                    "meaning": {
+                        "ko": "'죽이기'",
+                        "en": "killing",
+                        "ja": "殺害",
+                        "zh": "杀害",
+                        "fr": "meurtre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아버지를 죽이는 행위'인 '부친 살해'를 뜻합니다.",
+                "en": "The act of killing one's father",
+                "ja": "自分の父親を殺す行為",
+                "zh": "杀死自己父亲的行为",
+                "fr": "l'acte de tuer son père"
+            },
+            "example": "He was convicted of patricide.",
+            "translation": {
+                "ko": "그는 부친 살해 혐의로 유죄 판결을 받았다.",
+                "ja": "彼は父親殺害罪で有罪判決を受けた。",
+                "zh": "他因弑父罪被判有罪。",
+                "fr": "Il a été reconnu coupable de parricide."
+            }
+        },
+        {
+            "word": "genocide",
+            "part_of_speech": "",
+            "origin": "Greek, genos (race) + Latin, caedere (to kill)",
+            "meaning": {
+                "ko": "종족 죽이기",
+                "en": "killing of a race or ethnic group",
+                "ja": "民族大量殺害",
+                "zh": "种族灭绝",
+                "fr": "génocide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "geno-",
+                    "meaning": {
+                        "ko": "'종족'",
+                        "en": "race",
+                        "ja": "民族",
+                        "zh": "种族",
+                        "fr": "race"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cide",
+                    "meaning": {
+                        "ko": "'죽이기'",
+                        "en": "killing",
+                        "ja": "殺害",
+                        "zh": "杀害",
+                        "fr": "tuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 인종이나 민족을 말살하려는' '집단 학살'을 뜻합니다.",
+                "en": "Genocide refers to the systematic mass killing of a specific race or ethnic group.",
+                "ja": "特定の人種や民族を抹殺しようとする組織的な集団殺害を意味します。",
+                "zh": "指有组织地大规模杀害特定种族或民族的行为。",
+                "fr": "Désigne le massacre systématique d'une race ou d'un groupe ethnique spécifique."
+            },
+            "example": "Genocide is a crime against humanity.",
+            "translation": {
+                "ko": "집단 학살은 인류에 대한 범죄이다.",
+                "ja": "ジェノサイドは人道に対する犯罪です。",
+                "zh": "种族灭绝是反人类罪。",
+                "fr": "Le génocide est un crime contre l'humanité."
+            }
+        },
+        {
+            "word": "suicide",
+            "part_of_speech": "",
+            "origin": "Latin, sui (of oneself) + caedere (to kill)",
+            "meaning": {
+                "ko": "자신을 죽이기",
+                "en": "killing oneself",
+                "ja": "自分を殺すこと",
+                "zh": "自杀",
+                "fr": "se donner la mort"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sui-",
+                    "meaning": {
+                        "ko": "'자신'",
+                        "en": "self",
+                        "ja": "自分",
+                        "zh": "自己",
+                        "fr": "soi-même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cide",
+                    "meaning": {
+                        "ko": "'죽이기'",
+                        "en": "killing",
+                        "ja": "殺すこと",
+                        "zh": "杀死",
+                        "fr": "tuer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자기 자신을 죽이는 행위'인 '자살'을 뜻합니다.",
+                "en": "The act of intentionally ending one's own life",
+                "ja": "自分自身の命を意図的に終わらせる行為",
+                "zh": "故意结束自己生命的行为",
+                "fr": "L'acte de mettre intentionnellement fin à sa propre vie"
+            },
+            "example": "He attempted suicide.",
+            "translation": {
+                "ko": "그는 자살을 시도했다.",
+                "ja": "彼は自殺を試みた。",
+                "zh": "他试图自杀。",
+                "fr": "Il a tenté de se donner la mort."
+            }
+        }
+    ]
+}

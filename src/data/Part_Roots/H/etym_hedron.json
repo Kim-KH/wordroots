@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "hedron (shape) dodecahedron, heptahedron, polyhedron, tetrahedron",
+        "origin": "Greek, hedra (base, seat, face)",
+        "meaning": {
+            "ko": "면",
+            "en": "face",
+            "ja": "顔",
+            "zh": "脸",
+            "fr": "visage"
+        }
+    },
+    "words": [
+        {
+            "word": "dodecahedron",
+            "part_of_speech": "",
+            "origin": "Greek, dodeka (twelve) + hedra (base, face)",
+            "meaning": {
+                "ko": "열두 개의 면",
+                "en": "twelve faces",
+                "ja": "12個の面",
+                "zh": "十二个面",
+                "fr": "douze faces"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "do- (two) + deca- (ten)",
+                    "meaning": {
+                        "ko": "'둘 + 열 = 열둘'",
+                        "en": "twelve",
+                        "ja": "12",
+                        "zh": "十二",
+                        "fr": "douze"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hedron",
+                    "meaning": {
+                        "ko": "'면'",
+                        "en": "face",
+                        "ja": "面",
+                        "zh": "面",
+                        "fr": "face"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'열두 개의 면을 가진 입체'라는 의미에서 '12면체'를 뜻합니다.",
+                "en": "A polyhedron with twelve flat pentagonal faces",
+                "ja": "12個の五角形の面を持つ立体を意味します",
+                "zh": "指具有12个五边形面的立体",
+                "fr": "Un polyèdre avec douze faces pentagonales plates"
+            },
+            "example": "A dodecahedron has twelve flat faces, each of which is a pentagon.",
+            "translation": {
+                "ko": "12면체는 12개의 평평한 면을 가지고 있으며, 각 면은 5각형이다.",
+                "ja": "十二面体",
+                "zh": "十二面体",
+                "fr": "dodécaèdre"
+            }
+        },
+        {
+            "word": "heptahedron",
+            "part_of_speech": "",
+            "origin": "Greek, hepta (seven) + hedra (base, face)",
+            "meaning": {
+                "ko": "일곱 개의 면",
+                "en": "seven faces",
+                "ja": "7つの面を持つ立体",
+                "zh": "七个面的立体",
+                "fr": "solide à sept faces"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hepta-",
+                    "meaning": {
+                        "ko": "'일곱'",
+                        "en": "seven",
+                        "ja": "7つ",
+                        "zh": "七个",
+                        "fr": "sept"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hedron",
+                    "meaning": {
+                        "ko": "'면'",
+                        "en": "face",
+                        "ja": "面",
+                        "zh": "面",
+                        "fr": "face"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일곱 개의 면을 가진 입체'라는 의미에서 '7면체'를 뜻합니다.",
+                "en": "A three-dimensional shape with seven faces, derived from the Greek 'hepta' (seven) and 'hedron' (face)",
+                "ja": "ギリシャ語の'hepta'(7つ)と'hedron'(面)に由来する、7つの面を持つ3次元図形です",
+                "zh": "源自希腊语'hepta'(七个)和'hedron'(面),表示有七个面的三维图形",
+                "fr": "Figure tridimensionnelle ayant sept faces, dérivée du grec 'hepta' (sept) et 'hedron' (face)"
+            },
+            "example": "There are several different types of heptahedrons.",
+            "translation": {
+                "ko": "7면체에는 여러 다른 종류가 있다.",
+                "ja": "複数の異なる種類の7面体があります。",
+                "zh": "存在几种不同类型的七面体。",
+                "fr": "Il existe plusieurs types différents d'heptaèdres."
+            }
+        },
+        {
+            "word": "polyhedron",
+            "part_of_speech": "",
+            "origin": "Greek, poly- (many) + hedra (base, face)",
+            "meaning": {
+                "ko": "많은 면",
+                "en": "many faces",
+                "ja": "多くの面",
+                "zh": "许多面",
+                "fr": "plusieurs faces"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "poly-",
+                    "meaning": {
+                        "ko": "'많은'",
+                        "en": "many",
+                        "ja": "多い",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hedron",
+                    "meaning": {
+                        "ko": "'면'",
+                        "en": "face",
+                        "ja": "面",
+                        "zh": "面",
+                        "fr": "face"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 개의 평면으로 둘러싸인 입체'라는 의미에서 '다면체'를 뜻합니다.",
+                "en": "Refers to a solid figure enclosed by multiple planes",
+                "ja": "複数の平面で囲まれた立体図形を意味します",
+                "zh": "指由多个平面围成的立体图形",
+                "fr": "Désigne une figure solide entourée par plusieurs plans"
+            },
+            "example": "A cube is a simple example of a polyhedron.",
+            "translation": {
+                "ko": "정육면체는 다면체의 간단한 예이다.",
+                "ja": "多面体",
+                "zh": "多面体",
+                "fr": "polyèdre"
+            }
+        },
+        {
+            "word": "tetrahedron",
+            "part_of_speech": "",
+            "origin": "Greek, tetra- (four) + hedra (base, face)",
+            "meaning": {
+                "ko": "네 개의 면",
+                "en": "four faces",
+                "ja": "四つの面",
+                "zh": "四个面",
+                "fr": "quatre faces"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tetra-",
+                    "meaning": {
+                        "ko": "'넷'",
+                        "en": "four",
+                        "ja": "四",
+                        "zh": "四",
+                        "fr": "quatre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hedron",
+                    "meaning": {
+                        "ko": "'면'",
+                        "en": "face",
+                        "ja": "面",
+                        "zh": "面",
+                        "fr": "face"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'네 개의 면을 가진 입체'라는 의미에서 '4면체'를 뜻합니다.",
+                "en": "A tetrahedron is a pyramid with a triangular base.",
+                "ja": "四つの面を持つ立体を意味する4面体です",
+                "zh": "具有四个面的立体形状，即四面体",
+                "fr": "Un solide ayant quatre faces, c'est-à-dire un tétraèdre"
+            },
+            "example": "A tetrahedron is a pyramid with a triangular base.",
+            "translation": {
+                "ko": "4면체는 밑면이 삼각형인 피라미드이다.",
+                "ja": "四面体",
+                "zh": "四面体",
+                "fr": "tétraèdre"
+            }
+        }
+    ]
+}

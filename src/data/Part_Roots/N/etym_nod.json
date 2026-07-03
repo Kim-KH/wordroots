@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "nod(o) (knot) nodular, nodule",
+        "origin": "Latin, nodus (a knot)",
+        "meaning": {
+            "ko": "매듭",
+            "en": "knot",
+            "ja": "結び目",
+            "zh": "结",
+            "fr": "nœud"
+        }
+    },
+    "words": [
+        {
+            "word": "nodular",
+            "part_of_speech": "",
+            "origin": "Latin, nodulus (a little knot)",
+            "meaning": {
+                "ko": "작은 매듭",
+                "en": "small knot",
+                "ja": "小さなこぶ状の",
+                "zh": "小结节的",
+                "fr": "nodulaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nod-",
+                    "meaning": {
+                        "ko": "'매듭, 결절'",
+                        "en": "knot",
+                        "ja": "こぶ、結節",
+                        "zh": "结、节点",
+                        "fr": "nœud"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 결절로 이루어진' 또는 '결절 모양의'라는 뜻입니다.",
+                "en": "Describes something composed of or characterized by small knots or nodules.",
+                "ja": "小さな結節で構成された、または結節状の",
+                "zh": "由小结节组成或具有结节状特征",
+                "fr": "Composé de petits nœuds ou caractérisé par des nodules"
+            },
+            "example": "The rock had a nodular texture.",
+            "translation": {
+                "ko": "그 암석은 결절 조직을 가지고 있었다.",
+                "ja": "その岩は結節状の質感を持っていた。",
+                "zh": "这块岩石有结节状的纹理。",
+                "fr": "La roche avait une texture noduleuse."
+            }
+        },
+        {
+            "word": "nodule",
+            "part_of_speech": "",
+            "origin": "Latin, nodulus (a little knot)",
+            "meaning": {
+                "ko": "작은 매듭",
+                "en": "small knot or lump",
+                "ja": "小さな結節",
+                "zh": "小结节",
+                "fr": "petit nodule"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nod-",
+                    "meaning": {
+                        "ko": "'매듭'",
+                        "en": "knot",
+                        "ja": "結び目",
+                        "zh": "结",
+                        "fr": "noeud"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ule",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さいもの",
+                        "zh": "小的东西",
+                        "fr": "petite chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸속 조직에 생긴 작은 덩어리'인 '결절'을 뜻합니다.",
+                "en": "A small lump formed in body tissue, meaning nodule or nodulus",
+                "ja": "体内組織にできた小さな塊を意味する結節",
+                "zh": "身体组织中形成的小肿块，意为结节",
+                "fr": "Une petite masse formée dans les tissus corporels, signifiant nodule"
+            },
+            "example": "A small nodule was found on his lung.",
+            "translation": {
+                "ko": "그의 폐에서 작은 결절이 발견되었다.",
+                "ja": "彼の肺に小さな結節が見つかった。",
+                "zh": "在他的肺上发现了一个小结节。",
+                "fr": "Un petit nodule a été trouvé sur son poumon."
+            }
+        }
+    ]
+}

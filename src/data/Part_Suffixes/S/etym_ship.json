@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ship (rank, quality) courtship, readership, relationship, scholarship",
+        "origin": "Old English, -scipe (state, condition)",
+        "meaning": {
+            "ko": "상태, 자질",
+            "en": "state, quality",
+            "ja": "状態、性質",
+            "zh": "状态、品质",
+            "fr": "état, qualité"
+        }
+    },
+    "words": [
+        {
+            "word": "courtship",
+            "part_of_speech": "",
+            "origin": "English, court + -ship",
+            "meaning": {
+                "ko": "구애 상태",
+                "en": "courting state or behavior",
+                "ja": "求愛の状態",
+                "zh": "求爱的状态",
+                "fr": "état de cour amoureuse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "court",
+                    "meaning": {
+                        "ko": "'궁정, 구애하다'",
+                        "en": "court, to woo",
+                        "ja": "宮廷、求愛する",
+                        "zh": "宫廷、求爱",
+                        "fr": "cour, courtiser"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ship",
+                    "meaning": {
+                        "ko": "'상태, 행위'",
+                        "en": "state, action",
+                        "ja": "状態、行為",
+                        "zh": "状态、行为",
+                        "fr": "état, action"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'궁정에서 신사들이 숙녀에게 하던 것처럼 구애하는 행위나 기간'을 뜻합니다.",
+                "en": "The act or period of courting, as gentlemen in court would court ladies",
+                "ja": "宮廷の紳士が貴婦人に求愛するような求愛行為や時期を意味します",
+                "zh": "指如宫廷绅士对淑女那样进行求爱的行为或时期",
+                "fr": "L'acte ou la période de séduction, comme les gentilshommes de cour courtisaient les dames"
+            },
+            "example": "Their courtship lasted for two years.",
+            "translation": {
+                "ko": "그들의 연애 기간은 2년 동안 지속되었다.",
+                "ja": "彼らの求愛は2年間続きました",
+                "zh": "他们的求爱持续了两年",
+                "fr": "Leur cour amoureuse a duré deux ans"
+            }
+        },
+        {
+            "word": "readership",
+            "part_of_speech": "",
+            "origin": "English, reader + -ship",
+            "meaning": {
+                "ko": "독자의 집단",
+                "en": "collective body of readers",
+                "ja": "読者の集団",
+                "zh": "读者的群体",
+                "fr": "ensemble de lecteurs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "reader",
+                    "meaning": {
+                        "ko": "'독자'",
+                        "en": "reader",
+                        "ja": "読者",
+                        "zh": "读者",
+                        "fr": "lecteur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ship",
+                    "meaning": {
+                        "ko": "'집단'",
+                        "en": "group or collective",
+                        "ja": "集団",
+                        "zh": "群体",
+                        "fr": "groupe"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'특정 신문이나 잡지를 읽는 독자 전체'를 의미하는 '독자층'을 뜻합니다.",
+                "en": "Refers to the entire group of readers of a specific newspaper or magazine",
+                "ja": "特定の新聞や雑誌を読む読者全体を意味する",
+                "zh": "指阅读特定报纸或杂志的全部读者",
+                "fr": "Désigne l'ensemble des lecteurs d'un journal ou magazine spécifique"
+            },
+            "example": "The magazine has a wide readership.",
+            "translation": {
+                "ko": "그 잡지는 폭넓은 독자층을 가지고 있다.",
+                "ja": "その雑誌は広い読者層を持っている。",
+                "zh": "这份杂志拥有广泛的读者群。",
+                "fr": "Le magazine a un lectorat très large."
+            }
+        },
+        {
+            "word": "relationship",
+            "part_of_speech": "",
+            "origin": "English, relation + -ship",
+            "meaning": {
+                "ko": "관계 상태",
+                "en": "state of being related",
+                "ja": "関係の状態",
+                "zh": "关系状态",
+                "fr": "état de relation"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "relation",
+                    "meaning": {
+                        "ko": "'관계'",
+                        "en": "relation",
+                        "ja": "関係",
+                        "zh": "关系",
+                        "fr": "relation"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ship",
+                    "meaning": {
+                        "ko": "'상태'",
+                        "en": "state or condition",
+                        "ja": "状態",
+                        "zh": "状态",
+                        "fr": "état"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람이나 사물들이 서로 관련을 맺고 있는 상태'인 '관계'를 뜻합니다.",
+                "en": "The state in which people or things are related to each other",
+                "ja": "人や物が互いに関連を持っている状態",
+                "zh": "人或物彼此相互关联的状态",
+                "fr": "L'état dans lequel les personnes ou les choses sont liées entre elles"
+            },
+            "example": "They have a close working relationship.",
+            "translation": {
+                "ko": "그들은 긴밀한 업무 관계를 맺고 있다.",
+                "ja": "彼らは密接な仕事上の関係を持っている。",
+                "zh": "他们有密切的工作关系。",
+                "fr": "Ils ont une relation de travail étroite."
+            }
+        },
+        {
+            "word": "scholarship",
+            "part_of_speech": "",
+            "origin": "Latin, scholaris (of a school)",
+            "meaning": {
+                "ko": "학교의",
+                "en": "학교의",
+                "ja": "奨学金",
+                "zh": "奖学金",
+                "fr": "bourse d'études"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "scholar",
+                    "meaning": {
+                        "ko": "'학자'",
+                        "en": "scholar",
+                        "ja": "学者",
+                        "zh": "学者",
+                        "fr": "savant"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ship",
+                    "meaning": {
+                        "ko": "'자질, 자격'",
+                        "en": "quality, qualification",
+                        "ja": "資質、資格",
+                        "zh": "品质、资格",
+                        "fr": "qualité, qualification"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'학자로서의 자질'이라는 의미에서 '학문' 또는 학자에게 주어지는 '장학금'을 뜻합니다.",
+                "en": "Refers to financial aid given to scholars or students for their academic qualifications and merit",
+                "ja": "学者としての資質から、学問研究や学生に与えられる財政支援を意味します",
+                "zh": "从学者的品质出发，指给予学生的学术研究或财政援助",
+                "fr": "Désigne l'aide financière accordée aux étudiants en fonction de leurs qualités académiques et leurs mérites"
+            },
+            "example": "He won a scholarship to Harvard.",
+            "translation": {
+                "ko": "그는 하버드 대학교 장학금을 받았다.",
+                "ja": "彼はハーバード大学の奨学金を獲得した",
+                "zh": "他获得了哈佛大学的奖学金",
+                "fr": "Il a remporté une bourse d'études à Harvard"
+            }
+        }
+    ]
+}

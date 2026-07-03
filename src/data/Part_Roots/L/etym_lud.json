@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "lud (play) allude, elude, ludicrous",
+        "origin": "Latin, ludere (to play)",
+        "meaning": {
+            "ko": "놀다, 연기하다",
+            "en": "to play",
+            "ja": "遊ぶ、演じる",
+            "zh": "玩、表演",
+            "fr": "jouer, performer"
+        }
+    },
+    "words": [
+        {
+            "word": "allude",
+            "part_of_speech": "",
+            "origin": "Latin, alludere (to play with, to joke)",
+            "meaning": {
+                "ko": "~를 가지고 놀다, 농담하다",
+                "en": "to play with, to joke",
+                "ja": "ほのめかす、暗に言及する",
+                "zh": "暗指、影射",
+                "fr": "faire allusion à"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "al- (ad-)",
+                    "meaning": {
+                        "ko": "'~에'",
+                        "en": "to",
+                        "ja": "へ",
+                        "zh": "向",
+                        "fr": "à"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lude",
+                    "meaning": {
+                        "ko": "'놀다'",
+                        "en": "to play",
+                        "ja": "遊ぶ",
+                        "zh": "玩",
+                        "fr": "jouer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것을 빗대어 장난치듯 말하다'는 의미에서 '암시하다', '넌지시 말하다'라는 뜻이 되었습니다.",
+                "en": "From the sense of jokingly or playfully referring to something indirectly, came to mean hint at or suggest obliquely",
+                "ja": "何かをさりげなく言及する、冗談めかして暗に示すという意味から、ほのめかす、さりげなく言うという意味になりました",
+                "zh": "从戏弄地或间接提及某事的意思衍生出暗示、隐约表达的含义",
+                "fr": "Du sens de faire référence à quelque chose indirectement ou de manière ludique, a acquis le sens de faire allusion ou d'insinuer subtilement"
+            },
+            "example": "He alluded to a recent scandal.",
+            "translation": {
+                "ko": "그는 최근의 스캔들을 넌지시 비쳤다.",
+                "ja": "彼は最近のスキャンダルに言及した",
+                "zh": "他暗指最近的丑闻",
+                "fr": "Il a fait allusion à un scandale récent"
+            }
+        },
+        {
+            "word": "elude",
+            "part_of_speech": "",
+            "origin": "Latin, eludere (to deceive, to frustrate)",
+            "meaning": {
+                "ko": "속이다, 좌절시키다",
+                "en": "to deceive, to frustrate",
+                "ja": "巧みに逃れる",
+                "zh": "巧妙地躲避",
+                "fr": "échapper habilement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out of",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "hors de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lude",
+                    "meaning": {
+                        "ko": "'놀다, 속이다'",
+                        "en": "to play, mock",
+                        "ja": "遊ぶ、騙す",
+                        "zh": "玩耍、欺骗",
+                        "fr": "jouer, tromper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상대를 속여 밖으로 빠져나가다'는 의미에서 '교묘히 피하다'라는 뜻입니다.",
+                "en": "From the sense of tricking an opponent to escape outward, meaning to skillfully evade",
+                "ja": "相手を騙して外へ抜け出すという意味から、巧みに避けるという意味です",
+                "zh": "从欺骗对方逃脱的意思引申为巧妙地躲避的含义",
+                "fr": "Du sens de tromper l'adversaire pour s'échapper, signifiant esquiver habilement"
+            },
+            "example": "The fugitive managed to elude the police.",
+            "translation": {
+                "ko": "그 도망자는 경찰을 교묘히 피했다.",
+                "ja": "その逃亡者は警察を巧みに逃れることができた。",
+                "zh": "那个逃犯设法躲避了警察。",
+                "fr": "Le fugitif a réussi à échapper habilement à la police."
+            }
+        },
+        {
+            "word": "ludicrous",
+            "part_of_speech": "",
+            "origin": "Latin, ludicrus (done in sport, jocular)",
+            "meaning": {
+                "ko": "장난으로 하는",
+                "en": "done as a joke",
+                "ja": "ばかげた、滑稽な",
+                "zh": "荒唐的、可笑的",
+                "fr": "absurde, ridicule"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lud-",
+                    "meaning": {
+                        "ko": "'놀이'",
+                        "en": "play",
+                        "ja": "遊び",
+                        "zh": "游戏、玩耍",
+                        "fr": "jeu, amusement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'장난처럼 터무니없고 말이 안 된다'는 의미에서 '웃기는', '터무니없는'이라는 뜻입니다.",
+                "en": "The meaning derives from the sense of 'like a joke' or 'nonsensical' — 'ridiculous' or 'absurd'",
+                "ja": "『遊びのような』『ばかげた』という意味から『おかしい』『ばかげた』という意味です",
+                "zh": "从'像玩笑一样'、'荒唐无理'的含义引申出'可笑的'、'荒唐的'意思",
+                "fr": "Le sens dérive de 'comme une blague' ou 'insensé' — 'ridicule' ou 'absurde'"
+            },
+            "example": "It was a ludicrous suggestion.",
+            "translation": {
+                "ko": "그것은 터무니없는 제안이었다.",
+                "ja": "それはばかげた提案でした。",
+                "zh": "那是一个荒唐的建议。",
+                "fr": "C'était une suggestion absurde."
+            }
+        }
+    ]
+}

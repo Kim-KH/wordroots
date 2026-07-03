@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ism (condition, belief) alcoholism, communism, socialism",
+        "origin": "Greek, -ismos",
+        "meaning": {
+            "ko": "상태, 신념",
+            "en": "condition, belief",
+            "ja": "状態、信念",
+            "zh": "状态、信念",
+            "fr": "état, croyance"
+        }
+    },
+    "words": [
+        {
+            "word": "alcoholism",
+            "part_of_speech": "",
+            "origin": "English, alcohol + -ism",
+            "meaning": {
+                "ko": "알코올 상태",
+                "en": "state of alcohol consumption",
+                "ja": "アルコール中毒",
+                "zh": "酒精成瘾",
+                "fr": "alcoolisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "alcohol",
+                    "meaning": {
+                        "ko": "'알코올'",
+                        "en": "alcohol",
+                        "ja": "アルコール",
+                        "zh": "酒精",
+                        "fr": "alcool"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ism",
+                    "meaning": {
+                        "ko": "'상태, 중독'",
+                        "en": "state or addiction",
+                        "ja": "状態、中毒",
+                        "zh": "状态、成瘾",
+                        "fr": "état, dépendance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'알코올에 중독된 상태'인 '알코올 중독'을 뜻합니다.",
+                "en": "A condition of addiction to alcohol",
+                "ja": "アルコールに中毒された状態",
+                "zh": "酒精成瘾的状态",
+                "fr": "État de dépendance à l'alcool"
+            },
+            "example": "Alcoholism is a serious disease.",
+            "translation": {
+                "ko": "알코올 중독은 심각한 질병이다.",
+                "ja": "アルコール中毒は深刻な病気です。",
+                "zh": "酒精成瘾是一种严重的疾病。",
+                "fr": "L'alcoolisme est une maladie grave."
+            }
+        },
+        {
+            "word": "communism",
+            "part_of_speech": "",
+            "origin": "French, communisme",
+            "meaning": {
+                "ko": "공동체주의",
+                "en": "communalism or community-based ideology",
+                "ja": "共産主義",
+                "zh": "共产主义",
+                "fr": "communisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "commun-",
+                    "meaning": {
+                        "ko": "'공동의'",
+                        "en": "common",
+                        "ja": "共通の",
+                        "zh": "共同的",
+                        "fr": "commun"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ism",
+                    "meaning": {
+                        "ko": "'주의'",
+                        "en": "ideology or principle",
+                        "ja": "主義",
+                        "zh": "主义",
+                        "fr": "doctrine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 것을 공동으로 소유하는' 사상인 '공산주의'를 뜻합니다.",
+                "en": "Refers to communism, an ideology where everything is commonly owned.",
+                "ja": "すべてを共同で所有する思想である共産主義を意味します。",
+                "zh": "指所有东西都共同所有的思想共产主义。",
+                "fr": "Désigne le communisme, une idéologie où tout est possédé collectivement."
+            },
+            "example": "The Soviet Union was a communist state.",
+            "translation": {
+                "ko": "소비에트 연방은 공산주의 국가였다.",
+                "ja": "ソビエト連邦は共産主義国家でした。",
+                "zh": "苏联是一个共产主义国家。",
+                "fr": "L'Union soviétique était un État communiste."
+            }
+        },
+        {
+            "word": "socialism",
+            "part_of_speech": "",
+            "origin": "French, socialisme",
+            "meaning": {
+                "ko": "사회주의",
+                "en": "political system based on collective ownership",
+                "ja": "社会主義",
+                "zh": "社会主义",
+                "fr": "socialisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "social",
+                    "meaning": {
+                        "ko": "'사회의'",
+                        "en": "of society",
+                        "ja": "社会的な",
+                        "zh": "社会的",
+                        "fr": "social"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ism",
+                    "meaning": {
+                        "ko": "'주의'",
+                        "en": "doctrine or practice",
+                        "ja": "主義",
+                        "zh": "主义",
+                        "fr": "doctrine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생산 수단을 사회가 공동으로 소유하는' 사상인 '사회주의'를 뜻합니다.",
+                "en": "Socialism refers to an ideology where the means of production are collectively owned by society",
+                "ja": "生産手段を社会が共同で所有する思想を意味します",
+                "zh": "生产资料由社会共同拥有的思想体系",
+                "fr": "Idéologie où les moyens de production sont collectivement possédés par la société"
+            },
+            "example": "Socialism emphasizes cooperation over competition.",
+            "translation": {
+                "ko": "사회주의는 경쟁보다 협력을 강조한다.",
+                "ja": "社会主義は協力を競争より強調します",
+                "zh": "社会主义强调合作胜于竞争",
+                "fr": "Le socialisme met l'accent sur la coopération plutôt que la concurrence"
+            }
+        }
+    ]
+}

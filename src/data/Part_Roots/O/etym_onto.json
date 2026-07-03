@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "onto (existence) ontological, ontology",
+        "origin": "Greek, on, ontos (being)",
+        "meaning": {
+            "ko": "존재",
+            "en": "being",
+            "ja": "存在",
+            "zh": "存在",
+            "fr": "être"
+        }
+    },
+    "words": [
+        {
+            "word": "ontological",
+            "part_of_speech": "",
+            "origin": "Greek, on (being) + logos (study)",
+            "meaning": {
+                "ko": "존재 연구",
+                "en": "study of being",
+                "ja": "存在に関する",
+                "zh": "关于存在的",
+                "fr": "relatif à l'être"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "onto-",
+                    "meaning": {
+                        "ko": "'존재'",
+                        "en": "being",
+                        "ja": "存在",
+                        "zh": "存在",
+                        "fr": "être"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logical",
+                    "meaning": {
+                        "ko": "'학문의'",
+                        "en": "of or relating to study",
+                        "ja": "学問の",
+                        "zh": "学问的",
+                        "fr": "de la science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'존재의 본질을 다루는 학문'인 '존재론의'라는 뜻입니다.",
+                "en": "Relating to ontology, the branch of philosophy dealing with the nature of being",
+                "ja": "存在の本質を扱う哲学分野の",
+                "zh": "处理存在本质的哲学领域的",
+                "fr": "relatif à l'ontologie, domaine philosophique"
+            },
+            "example": "The book discusses the ontological argument for the existence of God.",
+            "translation": {
+                "ko": "그 책은 신의 존재에 대한 존재론적 논증을 논한다.",
+                "ja": "存在論的な論証は神の存在を論じている。",
+                "zh": "这本书讨论了关于上帝存在的本体论论证。",
+                "fr": "Le livre discute l'argument ontologique pour l'existence de Dieu."
+            }
+        },
+        {
+            "word": "ontology",
+            "part_of_speech": "",
+            "origin": "Greek, on (being) + logos (study)",
+            "meaning": {
+                "ko": "존재 연구",
+                "en": "study of existence",
+                "ja": "存在の研究",
+                "zh": "存在研究",
+                "fr": "étude de l'être"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "onto-",
+                    "meaning": {
+                        "ko": "'존재'",
+                        "en": "being",
+                        "ja": "存在",
+                        "zh": "存在",
+                        "fr": "être"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'존재의 본질을 연구하는 철학 분야'인 '존재론'을 뜻합니다.",
+                "en": "A branch of philosophy studying the nature of being and existence",
+                "ja": "存在の本質を研究する哲学分野",
+                "zh": "研究存在本质的哲学分支",
+                "fr": "Une branche de la philosophie étudiant la nature de l'être"
+            },
+            "example": "Ontology is a branch of metaphysics.",
+            "translation": {
+                "ko": "존재론은 형이상학의 한 분야이다.",
+                "ja": "存在論",
+                "zh": "本体论",
+                "fr": "ontologie"
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "eso (within) esophagus, esoteric",
+        "origin": "Greek, eso (within)",
+        "meaning": {
+            "ko": "안에",
+            "en": "within",
+            "ja": "以内に",
+            "zh": "在...之内",
+            "fr": "dans"
+        }
+    },
+    "words": [
+        {
+            "word": "esophagus",
+            "part_of_speech": "",
+            "origin": "Greek, oisophagos",
+            "meaning": {
+                "ko": "음식을 나르는 것",
+                "en": "tube that carries food",
+                "ja": "食べ物を運ぶ通路",
+                "zh": "运送食物的通道",
+                "fr": "conduit transportant la nourriture"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "eso- (oiso-)",
+                    "meaning": {
+                        "ko": "'나르다'",
+                        "en": "to carry",
+                        "ja": "運ぶ",
+                        "zh": "运输",
+                        "fr": "transporter"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phagos",
+                    "meaning": {
+                        "ko": "'먹다'",
+                        "en": "to eat",
+                        "ja": "食べる",
+                        "zh": "吃",
+                        "fr": "manger"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음식을 (위장으로) 나르는 통로'라는 의미에서 '식도'를 뜻합니다. (어원적으로 eso- '안으로'의 의미도 연관됨)",
+                "en": "The esophagus is the tube that carries food from the throat to the stomach. The prefix 'eso-' (Greek: inside/within) is etymologically related.",
+                "ja": "食道は喉から胃へ食べ物を運ぶ通路です。接頭辞「eso-」（ギリシャ語：内側）は語源的に関連しています。",
+                "zh": "食管是从喉咙到胃运送食物的通道。前缀「eso-」（希腊语：内部）在语源上相关。",
+                "fr": "L'œsophage est le conduit qui transporte la nourriture de la gorge à l'estomac. Le préfixe 'eso-' (grec : intérieur) est étymologiquement lié."
+            },
+            "example": "The esophagus carries food from the throat to the stomach.",
+            "translation": {
+                "ko": "식도는 음식을 목구멍에서 위로 운반한다.",
+                "ja": "食道",
+                "zh": "食管",
+                "fr": "œsophage"
+            }
+        },
+        {
+            "word": "esoteric",
+            "part_of_speech": "",
+            "origin": "Greek, esoterikos (belonging to an inner circle)",
+            "meaning": {
+                "ko": "내부의",
+                "en": "inner or internal",
+                "ja": "内部の",
+                "zh": "内部的",
+                "fr": "intérieur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "eso-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "within",
+                        "ja": "内側に",
+                        "zh": "在里面",
+                        "fr": "à l'intérieur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소수의 선택된 집단 안에서만' 이해되는 지식이라는 의미에서 '소수만 이해하는', '비전(秘傳)의'라는 뜻입니다.",
+                "en": "Knowledge understood only within a select group; meaning 'understood by few' or 'secret teaching'",
+                "ja": "選ばれた集団の中でのみ理解される知識という意味で、'少数のみが理解する'、'秘伝の'という意味です",
+                "zh": "在精选群体内仅被理解的知识之意，表示'仅少数人理解的'、'秘传的'之义",
+                "fr": "Connaissance comprise uniquement dans un groupe restreint; signifiant 'compris par peu' ou 'enseignement secret'"
+            },
+            "example": "He has an esoteric taste in music.",
+            "translation": {
+                "ko": "그는 음악에 있어 소수만 이해하는 취향을 가지고 있다.",
+                "ja": "彼は音楽の趣味が秘伝的だ",
+                "zh": "他的音乐品味很神秘",
+                "fr": "Il a un goût ésotérique en musique"
+            }
+        }
+    ]
+}

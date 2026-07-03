@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "pnea/pneum (lungs, breathe) apnea, pneumonia, pneumatic",
+        "origin": "Greek, pneuma (wind, breath), pnein (to breathe)",
+        "meaning": {
+            "ko": "숨 쉬다",
+            "en": "to breathe",
+            "ja": "呼吸する",
+            "zh": "呼吸",
+            "fr": "respirer"
+        }
+    },
+    "words": [
+        {
+            "word": "apnea",
+            "part_of_speech": "",
+            "origin": "Greek, apnoia (want of breath)",
+            "meaning": {
+                "ko": "숨이 없음",
+                "en": "absence of breath",
+                "ja": "呼吸がない",
+                "zh": "没有呼吸",
+                "fr": "absence de respiration"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "a-",
+                    "meaning": {
+                        "ko": "'~이 없는'",
+                        "en": "not, without",
+                        "ja": "ない、なし",
+                        "zh": "没有、无",
+                        "fr": "sans, pas de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pnea",
+                    "meaning": {
+                        "ko": "'숨'",
+                        "en": "breath",
+                        "ja": "呼吸",
+                        "zh": "呼吸",
+                        "fr": "souffle, respiration"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'숨을 쉬지 않는' 상태인 '무호흡'을 뜻합니다.",
+                "en": "A condition of not breathing, commonly known as apnea",
+                "ja": "呼吸をしない状態である無呼吸を意味します",
+                "zh": "指不呼吸的状态，称为无呼吸",
+                "fr": "État d'absence de respiration, connu sous le nom d'apnée"
+            },
+            "example": "Sleep apnea is a common sleep disorder.",
+            "translation": {
+                "ko": "수면 무호흡증은 흔한 수면 장애이다.",
+                "ja": "睡眠時無呼吸は一般的な睡眠障害です",
+                "zh": "睡眠呼吸暂停是常见的睡眠障碍",
+                "fr": "L'apnée du sommeil est un trouble du sommeil courant"
+            }
+        },
+        {
+            "word": "pneumonia",
+            "part_of_speech": "",
+            "origin": "Greek, pneumon (lung)",
+            "meaning": {
+                "ko": "폐",
+                "en": "lung",
+                "ja": "肺炎",
+                "zh": "肺炎",
+                "fr": "pneumonie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pneumon-",
+                    "meaning": {
+                        "ko": "'폐'",
+                        "en": "lung",
+                        "ja": "肺",
+                        "zh": "肺",
+                        "fr": "poumon"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'폐에 염증이 생기는 병'인 '폐렴'을 뜻합니다.",
+                "en": "Pneumonia means a disease where inflammation occurs in the lungs",
+                "ja": "肺に炎症が生じる病気を意味します",
+                "zh": "指肺部发生炎症的疾病",
+                "fr": "Signifie une maladie avec inflammation des poumons"
+            },
+            "example": "Pneumonia can be a serious illness, especially for the elderly.",
+            "translation": {
+                "ko": "폐렴은 특히 노인들에게 심각한 질병이 될 수 있다.",
+                "ja": "肺炎は特に高齢者にとって深刻な病気になる可能性があります。",
+                "zh": "肺炎可能是一种严重的疾病，尤其是对老年人而言。",
+                "fr": "La pneumonie peut être une maladie grave, en particulier pour les personnes âgées."
+            }
+        },
+        {
+            "word": "pneumatic",
+            "part_of_speech": "",
+            "origin": "Greek, pneumatikos (of wind or breath)",
+            "meaning": {
+                "ko": "바람의, 숨의",
+                "en": "of air or breath",
+                "ja": "空気の、風の",
+                "zh": "空气的、风的",
+                "fr": "pneumatique, relatif à l'air"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pneum-",
+                    "meaning": {
+                        "ko": "'공기, 바람'",
+                        "en": "air, wind",
+                        "ja": "空気、風",
+                        "zh": "空气、风",
+                        "fr": "air, vent"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공기나 가스의 압력으로 작동하는'이라는 뜻입니다.",
+                "en": "Operated by the pressure of air or gas",
+                "ja": "空気やガスの圧力で作動する",
+                "zh": "由空气或气体的压力驱动的",
+                "fr": "Actionné par la pression de l'air ou du gaz"
+            },
+            "example": "A pneumatic drill is used to break up concrete.",
+            "translation": {
+                "ko": "공기 드릴은 콘크리트를 부수는 데 사용된다.",
+                "ja": "空気圧ドリルはコンクリートを破砕するために使用されます",
+                "zh": "气动钻用于破碎混凝土",
+                "fr": "Un foret pneumatique est utilisé pour briser le béton"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "limin (threshold) eliminate, liminal, limit",
+        "origin": "Latin, limen (threshold)",
+        "meaning": {
+            "ko": "문지방",
+            "en": "threshold",
+            "ja": "敷居",
+            "zh": "门槛",
+            "fr": "seuil"
+        }
+    },
+    "words": [
+        {
+            "word": "eliminate",
+            "part_of_speech": "",
+            "origin": "Latin, eliminare (to turn out of doors)",
+            "meaning": {
+                "ko": "문밖으로 내쫓다",
+                "en": "to drive out of the door",
+                "ja": "除去する、排除する",
+                "zh": "排除、消除",
+                "fr": "éliminer, supprimer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "limin-",
+                    "meaning": {
+                        "ko": "'문지방'",
+                        "en": "threshold",
+                        "ja": "敷居、門閾",
+                        "zh": "门槛",
+                        "fr": "seuil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'문지방 밖으로 내보내다'는 의미에서 '제거하다', '없애다'라는 뜻이 되었습니다.",
+                "en": "From the meaning 'to send out beyond the threshold', it came to mean 'to remove' or 'to eliminate'.",
+                "ja": "敷居の外に出すという意味から、除去する、消除するという意味になりました。",
+                "zh": "从把东西赶出门槛之外的意思演变为消除、排除的含义。",
+                "fr": "Du sens 'envoyer au-delà du seuil', le mot a acquis le sens d'éliminer ou de supprimer."
+            },
+            "example": "We must eliminate the possibility of error.",
+            "translation": {
+                "ko": "우리는 오류의 가능성을 제거해야 한다.",
+                "ja": "誤りの可能性を排除しなければなりません。",
+                "zh": "我们必须消除出错的可能性。",
+                "fr": "Nous devons éliminer la possibilité d'erreur."
+            }
+        },
+        {
+            "word": "liminal",
+            "part_of_speech": "",
+            "origin": "Latin, limen (threshold)",
+            "meaning": {
+                "ko": "문지방",
+                "en": "threshold or doorstep",
+                "ja": "敷居の",
+                "zh": "门槛的",
+                "fr": "liminaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "limin-",
+                    "meaning": {
+                        "ko": "'문지방'",
+                        "en": "threshold",
+                        "ja": "敷居",
+                        "zh": "门槛",
+                        "fr": "seuil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'문지방에 있는'이라는 의미에서, 두 상태 사이의 '과도기적인' 또는 '모호한' 상태를 뜻합니다.",
+                "en": "From the meaning of 'at the threshold', it refers to a 'transitional' or 'ambiguous' state between two conditions.",
+                "ja": "敷居にある意味から、2つの状態間の過渡的またはあいまいな状態を指します。",
+                "zh": "从处于门槛处的含义，指两种状态之间的过渡性或模糊状态。",
+                "fr": "Du sens 'au seuil', désigne un état transitoire ou ambigu entre deux conditions."
+            },
+            "example": "She was in a liminal state between sleep and wakefulness.",
+            "translation": {
+                "ko": "그녀는 잠과 깨어남 사이의 어중간한 상태에 있었다.",
+                "ja": "彼女は睡眠と覚醒の間の過渡的な状態にいました。",
+                "zh": "她处于睡眠和清醒之间的过渡状态。",
+                "fr": "Elle était dans un état liminaire entre le sommeil et la veille."
+            }
+        },
+        {
+            "word": "limit",
+            "part_of_speech": "",
+            "origin": "Latin, limes, limitis (boundary, frontier)",
+            "meaning": {
+                "ko": "경계",
+                "en": "boundary or border",
+                "ja": "限界、制限",
+                "zh": "界限、限制",
+                "fr": "limite, restriction"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "limit- (limen)",
+                    "meaning": {
+                        "ko": "'경계, 문지방'",
+                        "en": "boundary",
+                        "ja": "境界、敷居",
+                        "zh": "边界、门槛",
+                        "fr": "frontière, seuil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'넘어서는 안 되는 경계'라는 의미에서 '한계', '제한'을 뜻합니다.",
+                "en": "Means 'limit' or 'restriction' from the sense of a boundary that should not be crossed.",
+                "ja": "越えてはいけない境界という意味から、限界や制限を意味します。",
+                "zh": "从不应该越过的边界这一含义引申出限制或界限的意思。",
+                "fr": "Signifie 'limite' ou 'restriction' à partir du sens d'une frontière à ne pas dépasser."
+            },
+            "example": "There is a limit to how much I can do.",
+            "translation": {
+                "ko": "내가 할 수 있는 일에는 한계가 있다.",
+                "ja": "私にできることには限界があります。",
+                "zh": "我能做的事情是有限的。",
+                "fr": "Il y a une limite à ce que je peux faire."
+            }
+        }
+    ]
+}

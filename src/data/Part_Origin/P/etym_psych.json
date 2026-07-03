@@ -1,0 +1,298 @@
+{
+    "root_info": {
+        "roots": "psych: mind",
+        "origin": "Greek, psykhe",
+        "meaning": {
+            "ko": "정신, 영혼",
+            "en": "mind, soul",
+            "ja": "心、精神",
+            "zh": "心灵、灵魂",
+            "fr": "esprit, âme"
+        }
+    },
+    "words": [
+        {
+            "word": "psyche",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psych",
+                    "meaning": {
+                        "ko": "정신, 영혼",
+                        "en": "mind, soul",
+                        "ja": "心、精神",
+                        "zh": "心灵、精神",
+                        "fr": "esprit, âme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "그리스어에서 직접 온 단어로, '마음', '정신', '영혼'을 의미하는 심리학 용어입니다.",
+                "en": "A word borrowed directly from Greek, a psychology term meaning 'mind', 'spirit', or 'soul'.",
+                "ja": "ギリシャ語から直接来た言葉で、心理学用語として「心」「精神」「魂」を意味します。",
+                "zh": "直接来自希腊语的词汇，是心理学术语，表示「心灵」、「精神」、「灵魂」。",
+                "fr": "Un mot emprunté directement au grec, terme de psychologie signifiant 'esprit', 'âme' ou 'soul'."
+            },
+            "example": "The trauma had a deep effect on her psyche.",
+            "translation": {
+                "ko": "그 정신적 충격은 그녀의 정신에 깊은 영향을 미쳤다.",
+                "ja": "トラウマは彼女の精神に深い影響を与えていました。",
+                "zh": "创伤对她的心灵造成了深远的影响。",
+                "fr": "Le trauma avait un effet profond sur son psychisme."
+            }
+        },
+        {
+            "word": "psychosis",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psych",
+                    "meaning": {
+                        "ko": "정신",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-osis",
+                    "meaning": {
+                        "ko": "비정상적인 상태",
+                        "en": "abnormal condition",
+                        "ja": "異常な状態",
+                        "zh": "异常状态",
+                        "fr": "état anormal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신의 비정상적인 상태'를 의미하며, 환각이나 망상을 동반하는 심각한 '정신병'을 뜻합니다.",
+                "en": "Refers to an abnormal state of mind, meaning a serious mental illness accompanied by hallucinations and delusions.",
+                "ja": "心の異常な状態を意味し、幻覚や妄想を伴う深刻な精神病を指します。",
+                "zh": "指心理的异常状态，意为伴有幻觉和妄想的严重精神病。",
+                "fr": "Fait référence à un état anormal de l'esprit, signifiant une maladie mentale grave accompagnée d'hallucinations et de délires."
+            },
+            "example": "He suffers from a form of psychosis.",
+            "translation": {
+                "ko": "그는 일종의 정신병을 앓고 있다.",
+                "ja": "精神病",
+                "zh": "精神病",
+                "fr": "psychose"
+            }
+        },
+        {
+            "word": "psychotic",
+            "part_of_speech": "adj.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psych",
+                    "meaning": {
+                        "ko": "정신",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心智",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-otic",
+                    "meaning": {
+                        "ko": "~와 관련된",
+                        "en": "relating to",
+                        "ja": "~に関する",
+                        "zh": "与~相关",
+                        "fr": "relatif à~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신병과 관련된'이라는 의미에서 '정신병의'라는 뜻입니다.",
+                "en": "Relating to mental illness; characteristic of psychosis",
+                "ja": "精神病に関連する意味で、精神病の特徴を示すという意味です",
+                "zh": "与精神疾病相关，表示具有精神病的特征",
+                "fr": "Relatif à la maladie mentale; caractéristique de la psychose"
+            },
+            "example": "He was having a psychotic episode.",
+            "translation": {
+                "ko": "그는 정신병적 증세를 보이고 있었다.",
+                "ja": "彼は精神病的エピソードを経験していた",
+                "zh": "他正在经历精神病发作",
+                "fr": "Il traversait un épisode psychotique"
+            }
+        },
+        {
+            "word": "psychedelic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psyche",
+                    "meaning": {
+                        "ko": "정신",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "deloun",
+                    "meaning": {
+                        "ko": "보이게 하다",
+                        "en": "to make visible",
+                        "ja": "目に見えるようにする",
+                        "zh": "使其可见",
+                        "fr": "rendre visible"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신을 보이게 하는' 즉, 마음속의 환각을 드러낸다는 의미에서 '환각을 일으키는'이라는 뜻입니다.",
+                "en": "Psychedelic literally means 'mind-revealing,' referring to substances that cause hallucinations by making inner mental experiences visible.",
+                "ja": "サイケデリックは文字通り「心を表現させる」という意味で、心の中の幻覚を明らかにすることから「幻覚を引き起こす」という意味になります。",
+                "zh": "迷幻的字面意思是'显示心灵'，指通过使内心体验可见而引起幻觉的物质。",
+                "fr": "Psychédélique signifie littéralement 'révélateur d'esprit', se référant aux substances qui provoquent des hallucinations en rendant visibles les expériences mentales intérieures."
+            },
+            "example": "Psychedelic drugs are illegal.",
+            "translation": {
+                "ko": "환각제는 불법이다.",
+                "ja": "サイケデリック薬物は違法です。",
+                "zh": "迷幻药物是非法的。",
+                "fr": "Les drogues psychédéliques sont illégales."
+            }
+        },
+        {
+            "word": "psychosomatic",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psycho",
+                    "meaning": {
+                        "ko": "정신",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心灵",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "somatic",
+                    "meaning": {
+                        "ko": "신체의",
+                        "en": "of the body",
+                        "ja": "身体の",
+                        "zh": "身体的",
+                        "fr": "du corps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신과 신체의'라는 의미로, 정신적 스트레스가 원인이 되어 신체적 증상이 나타나는 '정신 신체적인' 질병을 가리킵니다.",
+                "en": "Relating to mind and body; refers to physical symptoms caused by psychological stress or emotional factors.",
+                "ja": "心と身体の関係を表し、精神的ストレスが原因で身体的症状が現れる状態を指します。",
+                "zh": "表示心与身体的关系，指由心理压力或情绪因素引起的身体症状。",
+                "fr": "Désigne la relation entre l'esprit et le corps ; se rapporte aux symptômes physiques causés par le stress psychologique."
+            },
+            "example": "Headaches can sometimes be psychosomatic.",
+            "translation": {
+                "ko": "두통은 때때로 정신 신체적인 것일 수 있다.",
+                "ja": "頭痛は時々心身症的なことがあります。",
+                "zh": "头痛有时可能是心理躯体性的。",
+                "fr": "Les maux de tête peuvent parfois être psychosomatiques."
+            }
+        },
+        {
+            "word": "psychiatry",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psych",
+                    "meaning": {
+                        "ko": "정신",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心灵",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-iatry",
+                    "meaning": {
+                        "ko": "치료",
+                        "en": "medical treatment",
+                        "ja": "医学的治療",
+                        "zh": "医学治疗",
+                        "fr": "traitement médical"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신을 치료하는 의술' 즉, '정신 의학'을 의미합니다.",
+                "en": "The medical science that treats the mind; mental medicine.",
+                "ja": "心を治療する医学、つまり精神医学を意味します。",
+                "zh": "治疗心灵的医学，即精神医学。",
+                "fr": "La science médicale qui traite l'esprit, c'est-à-dire la médecine mentale."
+            },
+            "example": "Psychiatry is a branch of medicine.",
+            "translation": {
+                "ko": "정신 의학은 의학의 한 분야이다.",
+                "ja": "精神医学は医学の一分野である。",
+                "zh": "精神医学是医学的一个分支。",
+                "fr": "La psychiatrie est une branche de la médecine."
+            }
+        },
+        {
+            "word": "psychoanalysis",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psycho",
+                    "meaning": {
+                        "ko": "정신",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心灵",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "analysis",
+                    "meaning": {
+                        "ko": "분석",
+                        "en": "analysis",
+                        "ja": "分析",
+                        "zh": "分析",
+                        "fr": "analyse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신을 분석하는 것' 즉, 프로이트가 창시한 '정신 분석학'을 의미합니다.",
+                "en": "Analysis of the mind; the psychiatric method founded by Freud",
+                "ja": "心を分析すること。フロイトが創始した精神分析学を意味する。",
+                "zh": "分析心灵，即弗洛伊德创立的精神分析学。",
+                "fr": "L'analyse de l'esprit ; la méthode psychiatrique fondée par Freud."
+            },
+            "example": "He is undergoing psychoanalysis.",
+            "translation": {
+                "ko": "그는 정신 분석 치료를 받고 있다.",
+                "ja": "彼は精神分析を受けている。",
+                "zh": "他正在接受精神分析治疗。",
+                "fr": "Il suit une psychanalyse."
+            }
+        }
+    ]
+}

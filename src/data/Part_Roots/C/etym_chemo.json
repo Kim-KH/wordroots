@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "chemo (chemical) chemical, chemotherapy",
+        "origin": "Greek, chēmeia (alchemy)",
+        "meaning": {
+            "ko": "연금술",
+            "en": "alchemy",
+            "ja": "錬金術",
+            "zh": "炼金术",
+            "fr": "alchimie"
+        }
+    },
+    "words": [
+        {
+            "word": "chemical",
+            "part_of_speech": "",
+            "origin": "Medieval Latin, chimicus (relating to alchemy)",
+            "meaning": {
+                "ko": "연금술에 관한",
+                "en": "related to alchemy",
+                "ja": "化学の、化学物質",
+                "zh": "化学的、化学物质",
+                "fr": "chimique, substance chimique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chem (chēmeia)",
+                    "meaning": {
+                        "ko": "'연금술, 화학'",
+                        "en": "alchemy, chemistry",
+                        "ja": "錬金術、化学",
+                        "zh": "炼金术、化学",
+                        "fr": "alchimie, chimie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ical",
+                    "meaning": {
+                        "ko": "'~에 관련된'",
+                        "en": "related to",
+                        "ja": "~に関連した",
+                        "zh": "~相关的",
+                        "fr": "relatif à ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "물질을 변환시키려던 '연금술'에서 발전한 '화학'에서 유래하여 '화학의' 또는 '화학 물질'을 의미합니다.",
+                "en": "Derived from 'alchemy' and 'chemistry', which developed from attempts to transform materials. Means 'of chemistry' or 'chemical substance'.",
+                "ja": "物質を変換しようとした『錬金術』から発展した『化学』に由来し、『化学の』または『化学物質』を意味します。",
+                "zh": "源自试图转变物质的『炼金术』发展而来的『化学』，意为『化学的』或『化学物质』。",
+                "fr": "Dérivé de l'alchimie et de la chimie, développés à partir de tentatives de transformation des matériaux. Signifie 'de la chimie' ou 'substance chimique'."
+            },
+            "example": "Many household cleaning products contain harsh chemicals.",
+            "translation": {
+                "ko": "많은 가정용 청소 제품에는 독한 화학 물질이 들어 있다.",
+                "ja": "多くの家庭用洗浄製品は強力な化学物質を含んでいます。",
+                "zh": "许多家用清洁产品含有强烈的化学物质。",
+                "fr": "De nombreux produits de nettoyage ménagers contiennent des produits chimiques agressifs."
+            }
+        },
+        {
+            "word": "chemotherapy",
+            "part_of_speech": "",
+            "origin": "chemical + Greek, therapeia (healing)",
+            "meaning": {
+                "ko": "화학적 치료",
+                "en": "chemical healing",
+                "ja": "化学療法",
+                "zh": "化学治疗",
+                "fr": "guérison chimique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chemo (chemical)",
+                    "meaning": {
+                        "ko": "'화학'",
+                        "en": "chemical",
+                        "ja": "化学の",
+                        "zh": "化学的",
+                        "fr": "chimique"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "therapy (therapeia)",
+                    "meaning": {
+                        "ko": "'치료'",
+                        "en": "healing",
+                        "ja": "治癒",
+                        "zh": "治疗",
+                        "fr": "guérison"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'화학(chemo) 약품을 이용한 치료(therapy)'라는 의미로, 특히 암 치료를 위한 '화학 요법'을 가리킵니다.",
+                "en": "Treatment (therapy) using chemical (chemo) drugs; primarily used to treat cancer.",
+                "ja": "「化学(chemo)薬品を用いた治療(therapy)」から、特にがん治療のための「化学療法」。",
+                "zh": "意为「使用化学(chemo)药品的治疗(therapy)」，特指癌症的「化学疗法」。",
+                "fr": "Traitement (therapy) utilisant des médicaments chimiques (chemo); principalement utilisé pour traiter le cancer."
+            },
+            "example": "The patient is undergoing chemotherapy to treat cancer.",
+            "translation": {
+                "ko": "그 환자는 암을 치료하기 위해 화학 요법을 받고 있다.",
+                "ja": "彼女は6ヶ月間の化学療法を受けた。",
+                "zh": "她接受了六个月的化疗。",
+                "fr": "Elle a subi six mois de chimiothérapie."
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "orb (circle) orb, orbit, orbital",
+        "origin": "Latin, orbis (a circle, ring, wheel)",
+        "meaning": {
+            "ko": "원",
+            "en": "circle",
+            "ja": "円",
+            "zh": "圆",
+            "fr": "cercle"
+        }
+    },
+    "words": [
+        {
+            "word": "orb",
+            "part_of_speech": "",
+            "origin": "Latin, orbis (circle)",
+            "meaning": {
+                "ko": "원",
+                "en": "circle or sphere",
+                "ja": "球体、宝珠",
+                "zh": "球体、宝珠",
+                "fr": "sphère, globe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "orb-",
+                    "meaning": {
+                        "ko": "'원, 구'",
+                        "en": "circle, sphere",
+                        "ja": "円、球",
+                        "zh": "圆、球体",
+                        "fr": "cercle, sphère"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'둥근 구체'를 뜻하며, 특히 왕권의 상징인 '보주(寶珠)'나 '천체'를 가리킵니다.",
+                "en": "A round sphere, particularly referring to a 'jewel orb' as a symbol of royal power or celestial bodies.",
+                "ja": "丸い球体を意味し、特に王権の象徴である宝珠や天体を指す。",
+                "zh": "表示圆形球体，特别指作为王权象征的宝珠或天体。",
+                "fr": "Une sphère ronde, particulièrement un globe en tant que symbole du pouvoir royal ou des corps célestes."
+            },
+            "example": "The king held a scepter in one hand and an orb in the other.",
+            "translation": {
+                "ko": "왕은 한 손에는 홀을, 다른 손에는 보주를 들고 있었다.",
+                "ja": "王は一方の手に笏を、もう一方の手に宝珠を握っていた。",
+                "zh": "国王一只手拿着权杖，另一只手拿着宝珠。",
+                "fr": "Le roi tenait un sceptre dans une main et un globe dans l'autre."
+            }
+        },
+        {
+            "word": "orbit",
+            "part_of_speech": "",
+            "origin": "Latin, orbita (a wheel track, a course)",
+            "meaning": {
+                "ko": "바퀴 자국, 경로",
+                "en": "wheel track, path",
+                "ja": "軌道、円形の道",
+                "zh": "轨道、圆形路径",
+                "fr": "orbite, trajectoire circulaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "orb-",
+                    "meaning": {
+                        "ko": "'원'",
+                        "en": "circle",
+                        "ja": "円",
+                        "zh": "圆",
+                        "fr": "cercle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'천체가 원을 그리며 도는 길'이라는 의미에서 '궤도'를 뜻합니다.",
+                "en": "Refers to the path that celestial bodies travel in a circular motion",
+                "ja": "天体が円を描いて回る道という意味から軌道を意味します",
+                "zh": "从天体绕圆形轨道运行的含义引申为轨道之意",
+                "fr": "Désigne le chemin circulaire que suivent les corps célestes"
+            },
+            "example": "The Earth is in orbit around the Sun.",
+            "translation": {
+                "ko": "지구는 태양 주위의 궤도를 돌고 있다.",
+                "ja": "地球は太陽の周りを軌道運動しています",
+                "zh": "地球绕太阳运行",
+                "fr": "La Terre est en orbite autour du Soleil"
+            }
+        },
+        {
+            "word": "orbital",
+            "part_of_speech": "",
+            "origin": "Latin, orbita (orbit)",
+            "meaning": {
+                "ko": "궤도",
+                "en": "path around a celestial body",
+                "ja": "軌道の",
+                "zh": "轨道的",
+                "fr": "orbital"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "orbit-",
+                    "meaning": {
+                        "ko": "'궤도'",
+                        "en": "path or trajectory",
+                        "ja": "軌道",
+                        "zh": "轨道",
+                        "fr": "orbite"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'궤도의'라는 뜻이며, 물리학에서는 '원자핵 주위의 전자 궤도'를 의미합니다.",
+                "en": "Means 'of or relating to orbit'. In physics, refers to the electron orbit around atomic nucleus.",
+                "ja": "軌道に関する意味。物理学では、原子核周辺の電子軌道を指します。",
+                "zh": "表示与轨道相关。物理学中指原子核周围的电子轨道。",
+                "fr": "Signifie 'relatif à l'orbite'. En physique, désigne l'orbite des électrons autour du noyau atomique."
+            },
+            "example": "The space station is in a stable orbital path.",
+            "translation": {
+                "ko": "우주 정거장은 안정적인 궤도 경로에 있다.",
+                "ja": "宇宙ステーションは安定した軌道経路上にあります。",
+                "zh": "空间站处于稳定的轨道路径上。",
+                "fr": "La station spatiale est sur une trajectoire orbitale stable."
+            }
+        }
+    ]
+}

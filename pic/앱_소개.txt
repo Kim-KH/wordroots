@@ -1,0 +1,86 @@
+========================================
+어원 분석 단어장 — 앱 소개 (개발 참고용)
+========================================
+
+■ 앱 이름
+  어원 분석 단어장 (Etymology Analysis Vocabulary)
+  패키지: com.etymologyapp
+  버전: 1.0.0
+
+■ 앱 목적
+  영어 단어를 어원(접두사·어근·접미사) 중심으로 분석하여
+  단순 암기가 아닌 구조적 이해를 통해 어휘력을 키우는 학습 앱.
+
+■ 지원 언어 (UI 전환 가능)
+  한국어(ko), 영어(en), 일본어(ja), 중국어(zh), 프랑스어(fr)
+
+■ 카테고리 구성
+  - Part_Origin   : 어원 기원 단어
+  - Part_Prefixes : 접두사 (225개 단어)
+  - Part_Roots    : 어근 (1,875개 단어)
+  - Part_Suffixes : 접미사 (364개 단어)
+
+■ 화면 구성
+  1) 카테고리 탭 → 어근 그룹 카드 (어원/의미 표시)
+  2) 단어 카드 터치 → 아코디언 펼침:
+     - 어원(origin), 의미(meaning)
+     - 형태소 분석 테이블 (접두사/어근/접미사별 의미)
+     - Remarque/Note (파란 박스, 어원 설명)
+     - 예문 + 번역
+  3) 언어 전환 버튼 (우상단 "Langue▼")
+  4) TTS: 단어·예문·번역 터치 시 음성 재생
+
+■ 핵심 컴포넌트
+  src/components/WordCard.js
+    - 아코디언 열림/닫힘 (LayoutAnimation)
+    - getMeaning(), getNote(), getTranslation() — 언어별 필드 추출
+    - isLikelySentence() — 번역 표시 여부 판단
+      (문장부호 있거나 6단어 이상이면 표시, 일본어/중국어는 。필수)
+
+■ 데이터 파이프라인
+  src/data/Part_*/**/*.json  (개별 소스 파일)
+    ↓ node scripts/build-etymology-data.js
+  src/data/etymologyData.json  (통합 번들 파일)
+    ↓ npx expo run:android --variant release
+  APK에 정적 번들링
+
+  ※ 주의: App.js가 etymologyData.json을 import로 번들링하므로
+    소스 JSON 수정 후 반드시 build 스크립트를 실행해야 앱에 반영됨.
+
+■ 관련 스크립트
+  scripts/build-etymology-data.js   소스 JSON → etymologyData.json 통합
+  scripts/translate-data.js         note/translation/analysis.meaning 5개 언어 번역
+  scripts/fix-english-fields.js     .en 필드의 한국어를 영어로 번역 교정
+  scripts/apply-overlays.js         오버레이 패치 적용 (완료, 재실행 불필요)
+
+■ 개별 JSON 구조 예시
+  {
+    "root_info": {
+      "roots": "...",
+      "origin": "...",
+      "meaning": { "ko": "", "en": "", "ja": "", "zh": "", "fr": "" }
+    },
+    "words": [
+      {
+        "word": "example",
+        "part_of_speech": "",
+        "origin": "Latin, ...",
+        "meaning": { "ko": "", "en": "", "ja": "", "zh": "", "fr": "" },
+        "analysis": [
+          {
+            "type": "접두사 (Prefix)",
+            "morpheme": "ex-",
+            "meaning": { "ko": "", "en": "", "ja": "", "zh": "", "fr": "" }
+          }
+        ],
+        "note": { "ko": "", "en": "", "ja": "", "zh": "", "fr": "" },
+        "example": "English example sentence.",
+        "translation": { "ko": "", "ja": "", "zh": "", "fr": "" }
+      }
+    ]
+  }
+
+■ 알려진 주의사항
+  - 일본어/중국어 번역은 문장 끝에 반드시 。가 있어야 앱에 표시됨
+  - translation 필드에 en 키 없음 (영어 설정 시 번역란 비표시가 정상)
+  - analysis[].type 값: "접두사 (Prefix)" / "어근 (Root)" / "접미사 (Suffix)"

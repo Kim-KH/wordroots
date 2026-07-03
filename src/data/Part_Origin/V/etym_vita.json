@@ -1,0 +1,172 @@
+{
+    "root_info": {
+        "roots": "vita",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "생명",
+            "en": "life",
+            "ja": "生命",
+            "zh": "生命",
+            "fr": "vie"
+        }
+    },
+    "words": [
+        {
+            "word": "vital",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vit",
+                    "meaning": {
+                        "ko": "생명",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생명의'라는 의미에서 '필수적인', '중요한', '활기 넘치는'이라는 뜻입니다.",
+                "en": "From the meaning of 'life', it means 'essential', 'important', 'full of vitality'",
+                "ja": "「生命の」という意味から「必須的な」「重要な」「活気溢れる」という意味です",
+                "zh": "从「生命的」的含义引申为「必不可少的」「重要的」「充满活力的」",
+                "fr": "Du sens de 'vie', il signifie 'essentiel', 'important', 'plein de vitalité'"
+            },
+            "example": "Water is vital for survival.",
+            "translation": {
+                "ko": "물은 생존에 필수적이다.",
+                "ja": "水は生存のために不可欠です。",
+                "zh": "水对生存至关重要。",
+                "fr": "L'eau est essentielle à la survie."
+            }
+        },
+        {
+            "word": "vitality",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vit",
+                    "meaning": {
+                        "ko": "생명",
+                        "en": "life",
+                        "ja": "生命力",
+                        "zh": "生命力",
+                        "fr": "vitalité"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생명력', '활기'를 뜻합니다.",
+                "en": "Means liveliness, vigor, or life force",
+                "ja": "生命力、活気を意味します",
+                "zh": "意为生命力、活力",
+                "fr": "Signifie vigueur, dynamisme ou force vitale"
+            },
+            "example": "He is full of vitality.",
+            "translation": {
+                "ko": "그는 활력이 넘친다.",
+                "ja": "彼は活力に満ちている。",
+                "zh": "他充满了生命力。",
+                "fr": "Il est plein de vitalité."
+            }
+        },
+        {
+            "word": "vitamins",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vita",
+                    "meaning": {
+                        "ko": "생명",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "amin(e)",
+                    "meaning": {
+                        "ko": "아민",
+                        "en": "amine",
+                        "ja": "アミン",
+                        "zh": "胺",
+                        "fr": "amine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생명에 필수적인 아민'이라는 생각에서 '비타민'이라는 이름이 붙었습니다.",
+                "en": "Named from the idea of 'amines essential to life'",
+                "ja": "生命に必須のアミンという考えから「ビタミン」という名前がつきました。",
+                "zh": "因为这些物质是「生命所必需的胺」而得名「维生素」。",
+                "fr": "Le nom « vitamine » vient de l'idée d'« amines essentielles à la vie »."
+            },
+            "example": "You should take your vitamins every day.",
+            "translation": {
+                "ko": "당신은 매일 비타민을 섭취해야 한다.",
+                "ja": "毎日ビタミンを摂取するべきです。",
+                "zh": "你应该每天补充维生素。",
+                "fr": "Vous devriez prendre vos vitamines tous les jours."
+            }
+        },
+        {
+            "word": "revitalize",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vital",
+                    "meaning": {
+                        "ko": "생기",
+                        "en": "life or vigor",
+                        "ja": "生気",
+                        "zh": "生机",
+                        "fr": "vitalité"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ize",
+                    "meaning": {
+                        "ko": "~하게 만들다",
+                        "en": "to make or cause to be",
+                        "ja": "~するようにする",
+                        "zh": "使~",
+                        "fr": "rendre~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 생기를 불어넣다', '재활성화하다'는 뜻입니다.",
+                "en": "To breathe new life into; to revitalize",
+                "ja": "再び生気を吹き込むこと、再活性化させること",
+                "zh": "重新注入生机，使其恢复活力",
+                "fr": "Insuffler une nouvelle vie, réactiver"
+            },
+            "example": "The new project will revitalize the city.",
+            "translation": {
+                "ko": "그 새 프로젝트는 도시에 새로운 활력을 불어넣을 것이다.",
+                "ja": "その新しいプロジェクトは都市に活気をもたらすだろう。",
+                "zh": "这个新项目将为城市注入新的生机。",
+                "fr": "Le nouveau projet ravivera la ville."
+            }
+        }
+    ]
+}

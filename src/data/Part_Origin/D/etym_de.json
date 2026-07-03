@@ -1,0 +1,225 @@
+{
+    "root_info": {
+        "roots": "de",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "떨어져, 아래로",
+            "en": "from, down, away",
+            "ja": "から、下へ、離れて",
+            "zh": "从、向下、离开",
+            "fr": "de, vers le bas, loin"
+        }
+    },
+    "words": [
+        {
+            "word": "detach",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져",
+                        "en": "away",
+                        "ja": "離れて",
+                        "zh": "离开",
+                        "fr": "loin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tach",
+                    "meaning": {
+                        "ko": "붙이다",
+                        "en": "to attach",
+                        "ja": "付ける",
+                        "zh": "粘贴",
+                        "fr": "attacher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'붙어 있는 것을 떼어내다'는 뜻입니다.",
+                "en": "To remove something that is attached",
+                "ja": "付いているものを取り外すという意味です",
+                "zh": "指移除或分离附着的东西",
+                "fr": "Signifie retirer ou séparer quelque chose qui est attaché"
+            },
+            "example": "Please detach the form and mail it back.",
+            "translation": {
+                "ko": "그 양식을 떼어서 우편으로 보내주세요.",
+                "ja": "その用紙を切り離して郵送でお送りください。",
+                "zh": "请将该表格分离开来并通过邮件寄回。",
+                "fr": "Veuillez détacher le formulaire et le renvoyer par courrier."
+            }
+        },
+        {
+            "word": "deploy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de- (dis-)",
+                    "meaning": {
+                        "ko": "반대",
+                        "en": "un-",
+                        "ja": "反対",
+                        "zh": "相反",
+                        "fr": "contraire"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ploy",
+                    "meaning": {
+                        "ko": "접다",
+                        "en": "to fold",
+                        "ja": "折る",
+                        "zh": "折叠",
+                        "fr": "plier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'접힌 것을 펼치다'는 의미에서, 군대나 장비 등을 '배치하다', '전개하다'는 뜻으로 쓰입니다.",
+                "en": "From the sense of 'unfolding what is folded' — used to mean 'position' or 'spread out' military forces and equipment",
+                "ja": "「折られたものを広げる」という意味から、軍隊や装備などを「配置する」「展開する」という意味で使われます",
+                "zh": "源于「展开折叠物」的意思，用于表示军队或装备等的「部署」、「展开」",
+                "fr": "Du sens de « déplier ce qui est plié » — utilisé pour signifier « positionner » ou « étendre » les forces militaires et l'équipement"
+            },
+            "example": "The army will deploy troops to the region.",
+            "translation": {
+                "ko": "군대는 그 지역에 군대를 배치할 것이다.",
+                "ja": "軍隊はその地域に部隊を展開するでしょう。",
+                "zh": "军队将向该地区部署军队。",
+                "fr": "L'armée déploiera des troupes dans la région."
+            }
+        },
+        {
+            "word": "devoid",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "완전히",
+                        "en": "completely",
+                        "ja": "完全に",
+                        "zh": "完全地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "void",
+                    "meaning": {
+                        "ko": "빈",
+                        "en": "empty",
+                        "ja": "空の",
+                        "zh": "空的",
+                        "fr": "vide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 비어 있는'이라는 의미에서 '~이 전혀 없는'이라는 뜻입니다.",
+                "en": "Meaning 'completely empty' or 'entirely lacking'",
+                "ja": "「完全に空である」という意味から「～が全くない」という意味になります。",
+                "zh": "从\"完全空的\"的意思衍生出\"完全没有~\"的含义。",
+                "fr": "Du sens de 'complètement vide' au sens de 'dépourvu de ~'"
+            },
+            "example": "The landscape was devoid of any vegetation.",
+            "translation": {
+                "ko": "그 풍경에는 어떤 식물도 전혀 없었다.",
+                "ja": "その風景には何の植生もなかった。",
+                "zh": "那片风景完全没有任何植被。",
+                "fr": "Le paysage était dépourvu de toute végétation."
+            }
+        },
+        {
+            "word": "deflate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "반대",
+                        "en": "opposite",
+                        "ja": "反対",
+                        "zh": "相反",
+                        "fr": "opposé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flate",
+                    "meaning": {
+                        "ko": "부풀리다",
+                        "en": "to inflate or puff up",
+                        "ja": "膨らませる",
+                        "zh": "膨胀",
+                        "fr": "gonfler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'부풀린 것을 반대로 하다'는 의미에서 '공기를 빼다', '수축시키다'는 뜻입니다.",
+                "en": "From the opposite of inflating: to let air out, to reduce in size",
+                "ja": "「膨らませたものを反対にする」という意味から、「空気を抜く」「縮小させる」という意味です。",
+                "zh": "从膨胀的反面：放出空气、收缩的意思。",
+                "fr": "Du contraire de gonfler : laisser s'échapper l'air, réduire la taille."
+            },
+            "example": "I need to deflate the tires a little.",
+            "translation": {
+                "ko": "나는 타이어의 공기를 약간 빼야 한다.",
+                "ja": "タイヤの空気を少し抜く必要があります。",
+                "zh": "我需要放出轮胎里的一些空气。",
+                "fr": "Je dois dégonfler un peu les pneus."
+            }
+        },
+        {
+            "word": "degenerate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "아래로",
+                        "en": "down from",
+                        "ja": "下へ",
+                        "zh": "向下",
+                        "fr": "vers le bas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gener",
+                    "meaning": {
+                        "ko": "종류, 본성",
+                        "en": "kind, nature",
+                        "ja": "種類、本性",
+                        "zh": "种类、本性",
+                        "fr": "genre, nature"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원래의 좋은 종류(본성)에서 벗어나 아래로 떨어진' 상태를 의미하며, '퇴보한', '타락한'이라는 뜻입니다.",
+                "en": "Literally 'fallen down from original good kind/nature'; means degraded or debased",
+                "ja": "本来の良い種類（本性）から外れて下に落ちた状態を意味し、『退歩した』『堕落した』という意味です",
+                "zh": "字面意思为'从原本良好的种类（本性）中偏离而向下衰退'，意为'退化的'、'堕落的'",
+                "fr": "Littéralement 'tombé du bon genre/nature originel'; signifie dégradé ou avilissant"
+            },
+            "example": "The quality of the show has degenerated.",
+            "translation": {
+                "ko": "그 쇼의 질이 퇴보했다.",
+                "ja": "そのショーの質が低下した。",
+                "zh": "那个节目的质量已经退化了。",
+                "fr": "La qualité du spectacle s'est dégradée."
+            }
+        }
+    ]
+}

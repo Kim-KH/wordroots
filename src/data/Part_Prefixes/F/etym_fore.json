@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "fore (preceding) forecast, forehead, foreshadow, foreshorten",
+        "origin": "Old English, fore (before, in front of)",
+        "meaning": {
+            "ko": "앞에, 이전에",
+            "en": "before, in front of",
+            "ja": "前に、前方に",
+            "zh": "前、在前面",
+            "fr": "avant, devant"
+        }
+    },
+    "words": [
+        {
+            "word": "forecast",
+            "part_of_speech": "",
+            "origin": "English, fore- + cast",
+            "meaning": {
+                "ko": "미리 던지다",
+                "en": "to throw ahead",
+                "ja": "予測する",
+                "zh": "预测",
+                "fr": "prévoir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "fore-",
+                    "meaning": {
+                        "ko": "'미리'",
+                        "en": "beforehand",
+                        "ja": "事前に",
+                        "zh": "提前",
+                        "fr": "à l'avance"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cast",
+                    "meaning": {
+                        "ko": "'던지다'",
+                        "en": "to throw",
+                        "ja": "投げる",
+                        "zh": "抛出",
+                        "fr": "jeter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미리 예측을 던져보다'는 의미에서 날씨 등을 '예보하다' 또는 '예측', '예보'를 뜻합니다.",
+                "en": "From the meaning 'throw a prediction beforehand', it means to predict or forecast weather, etc.",
+                "ja": "事前に予測を投げるという意味から、天気などを予報または予測することを意味します。",
+                "zh": "从事先投出预测的含义来说，指预报或预测天气等。",
+                "fr": "Du sens de jeter une prédiction à l'avance, cela signifie prévoir ou prédire la météo, etc."
+            },
+            "example": "The weather forecast is for rain tomorrow.",
+            "translation": {
+                "ko": "내일 날씨 예보는 비입니다.",
+                "ja": "明日の天気予報は雨です。",
+                "zh": "明天的天气预报是下雨。",
+                "fr": "La prévision météorologique pour demain est la pluie."
+            }
+        },
+        {
+            "word": "forehead",
+            "part_of_speech": "",
+            "origin": "English, fore- + head",
+            "meaning": {
+                "ko": "머리의 앞부분",
+                "en": "front part of the head",
+                "ja": "額",
+                "zh": "前额",
+                "fr": "front du visage"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "fore-",
+                    "meaning": {
+                        "ko": "'앞의'",
+                        "en": "front part of",
+                        "ja": "前の部分",
+                        "zh": "前面的",
+                        "fr": "partie avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "head",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头",
+                        "fr": "tête"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리의 앞부분'이라는 의미로 '이마'를 뜻합니다.",
+                "en": "Refers to the front part of the head, specifically the forehead area",
+                "ja": "頭の前部分を指し、額を意味します",
+                "zh": "指头部前面部分，意为额头",
+                "fr": "Désigne la partie avant de la tête, le front"
+            },
+            "example": "He wiped the sweat from his forehead.",
+            "translation": {
+                "ko": "그는 이마의 땀을 닦았다.",
+                "ja": "彼は額から汗を拭いた。",
+                "zh": "他擦去额头上的汗水。",
+                "fr": "Il s'essuya la sueur du front."
+            }
+        },
+        {
+            "word": "foreshadow",
+            "part_of_speech": "",
+            "origin": "English, fore- + shadow",
+            "meaning": {
+                "ko": "미리 그림자를 드리우다",
+                "en": "to cast a shadow beforehand",
+                "ja": "前もって暗示する",
+                "zh": "预示",
+                "fr": "présager"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "fore-",
+                    "meaning": {
+                        "ko": "'미리'",
+                        "en": "beforehand",
+                        "ja": "あらかじめ",
+                        "zh": "预先",
+                        "fr": "d'avance"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "shadow",
+                    "meaning": {
+                        "ko": "'그림자'",
+                        "en": "shadow",
+                        "ja": "影",
+                        "zh": "影子",
+                        "fr": "ombre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 일어날 일에 대해 미리 그림자를 드리우다'는 의미에서 '전조가 되다', '징조를 보이다'라는 뜻입니다.",
+                "en": "To foreshadow means to be a sign or indication of something that will happen in the future",
+                "ja": "これから起こることについて前もって暗示を与えることを意味します",
+                "zh": "表示将来会发生的事情的预兆或迹象",
+                "fr": "Signifier d'avance ce qui se produira dans l'avenir"
+            },
+            "example": "The dark clouds foreshadowed a storm.",
+            "translation": {
+                "ko": "먹구름은 폭풍의 전조였다.",
+                "ja": "暗い雲は嵐の到来を暗示していた。",
+                "zh": "乌云预示着暴风雨的来临。",
+                "fr": "Les nuages sombres présageaient une tempête."
+            }
+        },
+        {
+            "word": "foreshorten",
+            "part_of_speech": "",
+            "origin": "English, fore- + shorten",
+            "meaning": {
+                "ko": "앞에서 짧게 하다",
+                "en": "to shorten from the front",
+                "ja": "遠近法で短縮する",
+                "zh": "透视缩短法",
+                "fr": "raccourcir en perspective"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "fore-",
+                    "meaning": {
+                        "ko": "'앞쪽을'",
+                        "en": "the front",
+                        "ja": "前面",
+                        "zh": "前面",
+                        "fr": "le devant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "shorten",
+                    "meaning": {
+                        "ko": "'짧게 하다'",
+                        "en": "to make short",
+                        "ja": "短くする",
+                        "zh": "缩短",
+                        "fr": "raccourcir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "미술에서 원근법을 표현하기 위해 '사물의 앞쪽을 짧게 그리다'는 의미의 '단축법으로 그리다' 또는 시간이나 거리를 '단축하다'는 뜻으로 쓰입니다.",
+                "en": "In art, used to express perspective by drawing the front of objects shortened (foreshortening technique) or to shorten time or distance.",
+                "ja": "美術では遠近法を表現するために、物体の前面を短く描く単縮法または時間や距離を短縮する意味で使われます。",
+                "zh": "在艺术中，通过缩短物体前面的表现来表达透视法（透视缩短技法）或缩短时间和距离。",
+                "fr": "En art, utilisé pour exprimer la perspective en dessinant le devant des objets raccourci (technique de raccourcissement) ou pour raccourcir le temps ou la distance."
+            },
+            "example": "The artist used foreshortening to create a sense of depth.",
+            "translation": {
+                "ko": "그 화가는 깊이감을 표현하기 위해 단축법을 사용했다.",
+                "ja": "芸術家は奥行きの感覚を作り出すために遠近法の短縮を使いました。",
+                "zh": "艺术家使用透视缩短法来营造深度感。",
+                "fr": "L'artiste a utilisé le raccourcissement perspectif pour créer une sensation de profondeur."
+            }
+        }
+    ]
+}

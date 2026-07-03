@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "revi (see again) review, revise, revision",
+        "origin": "Latin, videre (to see)",
+        "meaning": {
+            "ko": "보다",
+            "en": "to see",
+            "ja": "見る",
+            "zh": "看",
+            "fr": "voir"
+        }
+    },
+    "words": [
+        {
+            "word": "review",
+            "part_of_speech": "",
+            "origin": "Old French, reveue (a viewing)",
+            "meaning": {
+                "ko": "보기",
+                "en": "a viewing",
+                "ja": "閲覧、検討",
+                "zh": "查看、审视",
+                "fr": "examen, révision"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "view (videre)",
+                    "meaning": {
+                        "ko": "'보다'",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 한번 보다'는 의미에서 '검토하다', '비평', '복습'을 뜻합니다.",
+                "en": "From 'to see again', meaning to examine, critique, or study again",
+                "ja": "再び見ることから、検討、評論、復習を意味します",
+                "zh": "从再次查看，意为检查、评论、复习",
+                "fr": "De voir à nouveau, signifiant examiner, critiquer ou étudier de nouveau"
+            },
+            "example": "Please review this document before the meeting.",
+            "translation": {
+                "ko": "회의 전에 이 문서를 검토해 주세요.",
+                "ja": "会議前にこの文書を検討してください",
+                "zh": "请在会议前审视这份文件",
+                "fr": "Veuillez examiner ce document avant la réunion"
+            }
+        },
+        {
+            "word": "revise",
+            "part_of_speech": "",
+            "origin": "Latin, revisere (to look at again)",
+            "meaning": {
+                "ko": "다시 보다",
+                "en": "to look at again",
+                "ja": "もう一度見る",
+                "zh": "再看一遍",
+                "fr": "regarder à nouveau"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vise (videre)",
+                    "meaning": {
+                        "ko": "'보다'",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 보고 고치다'는 의미에서 '수정하다', '개정하다'라는 뜻입니다.",
+                "en": "Means to look at again and correct, hence revise or amend",
+                "ja": "もう一度見て直すという意味で、修正する、改定するという意味です",
+                "zh": "再看一遍并纠正，因此意为修订或修改",
+                "fr": "Signifie regarder à nouveau et corriger, d'où réviser ou amender"
+            },
+            "example": "The author decided to revise his manuscript.",
+            "translation": {
+                "ko": "그 작가는 원고를 수정하기로 결정했다.",
+                "ja": "著者は彼の原稿を修正することにしました",
+                "zh": "作者决定修订他的手稿",
+                "fr": "L'auteur a décidé de réviser son manuscrit"
+            }
+        },
+        {
+            "word": "revision",
+            "part_of_speech": "",
+            "origin": "Latin, revisio (a seeing again)",
+            "meaning": {
+                "ko": "다시 보기",
+                "en": "a seeing again",
+                "ja": "もう一度見ること",
+                "zh": "再次查看",
+                "fr": "examen attentif"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'다시'",
+                        "en": "again",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vis- (videre)",
+                    "meaning": {
+                        "ko": "'보다'",
+                        "en": "to see",
+                        "ja": "見る",
+                        "zh": "看",
+                        "fr": "voir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 보고 고치는 행위'라는 의미에서 '수정', '개정'을 뜻합니다.",
+                "en": "Means correction and amendment from seeing again and correcting",
+                "ja": "もう一度見て直す行為を意味する修正や改定",
+                "zh": "再次查看并改正的修订或修改",
+                "fr": "Signifie correction et révision par relecture"
+            },
+            "example": "The book is in need of a thorough revision.",
+            "translation": {
+                "ko": "그 책은 철저한 개정이 필요하다.",
+                "ja": "その本は徹底的な改定が必要である。",
+                "zh": "这本书需要进行彻底的修订。",
+                "fr": "Le livre nécessite une révision complète."
+            }
+        }
+    ]
+}

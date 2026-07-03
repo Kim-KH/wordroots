@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "sol (sun) solar, solarium, solarimeter",
+        "origin": "Latin, sol (the sun)",
+        "meaning": {
+            "ko": "태양",
+            "en": "sun",
+            "ja": "太陽",
+            "zh": "太阳",
+            "fr": "soleil"
+        }
+    },
+    "words": [
+        {
+            "word": "solar",
+            "part_of_speech": "",
+            "origin": "Latin, solaris (of the sun)",
+            "meaning": {
+                "ko": "태양의",
+                "en": "of the sun",
+                "ja": "太陽の",
+                "zh": "太阳的",
+                "fr": "solaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sol-",
+                    "meaning": {
+                        "ko": "'태양'",
+                        "en": "sun",
+                        "ja": "太陽",
+                        "zh": "太阳",
+                        "fr": "soleil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'태양의'라는 뜻입니다.",
+                "en": "It means 'of the sun'",
+                "ja": "太陽に関する、という意味です",
+                "zh": "意思是与太阳有关的",
+                "fr": "Cela signifie 'relatif au soleil'"
+            },
+            "example": "The solar system consists of the sun and the planets that orbit it.",
+            "translation": {
+                "ko": "태양계는 태양과 그 주위를 도는 행성들로 구성된다.",
+                "ja": "太陽系は太陽とそれを公転する惑星で構成されています。",
+                "zh": "太阳系由太阳和围绕它公转的行星组成。",
+                "fr": "Le système solaire est composé du soleil et des planètes qui l'orbite."
+            }
+        },
+        {
+            "word": "solarium",
+            "part_of_speech": "",
+            "origin": "Latin, solarium (a sundial, a place exposed to the sun)",
+            "meaning": {
+                "ko": "해시계, 햇빛이 드는 곳",
+                "en": "sundial, place where sunlight enters",
+                "ja": "日時計、日光浴室",
+                "zh": "日晷、日光浴室",
+                "fr": "cadran solaire, solarium"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sol-",
+                    "meaning": {
+                        "ko": "'태양'",
+                        "en": "sun",
+                        "ja": "太陽",
+                        "zh": "太阳",
+                        "fr": "soleil"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'햇빛을 쬐기 위한 유리로 된 방'인 '일광욕실'을 뜻합니다.",
+                "en": "A glass room for sunbathing",
+                "ja": "日光浴をするためのガラス張りの部屋",
+                "zh": "用于日光浴的玻璃房间",
+                "fr": "Pièce vitrée pour prendre un bain de soleil"
+            },
+            "example": "He enjoys relaxing in the solarium.",
+            "translation": {
+                "ko": "그는 일광욕실에서 휴식하는 것을 즐긴다.",
+                "ja": "彼は日光浴室でくつろぐのが好きです。",
+                "zh": "他喜欢在日光浴室里放松。",
+                "fr": "Il aime se détendre dans le solarium."
+            }
+        },
+        {
+            "word": "solarimeter",
+            "part_of_speech": "",
+            "origin": "Latin, solaris (of the sun) + Greek, metron (measure)",
+            "meaning": {
+                "ko": "태양을 재는 것",
+                "en": "measuring the sun",
+                "ja": "太陽を測定する",
+                "zh": "测量太阳",
+                "fr": "mesurer le soleil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "solari-",
+                    "meaning": {
+                        "ko": "'태양의'",
+                        "en": "solar",
+                        "ja": "太陽の",
+                        "zh": "太阳的",
+                        "fr": "solaire"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'측정기'",
+                        "en": "measuring instrument",
+                        "ja": "測定器",
+                        "zh": "测量仪",
+                        "fr": "appareil de mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'태양 복사 에너지를 측정하는 기계'인 '일사계'를 뜻합니다.",
+                "en": "A device that measures solar radiation energy, also known as a pyranometer",
+                "ja": "太陽放射エネルギーを測定する機械を意味します",
+                "zh": "测量太阳辐射能量的仪器",
+                "fr": "Appareil mesurant l'énergie du rayonnement solaire"
+            },
+            "example": "A solarimeter is used to measure the power of sunlight.",
+            "translation": {
+                "ko": "일사계는 햇빛의 힘을 측정하는 데 사용된다.",
+                "ja": "日射計",
+                "zh": "日照计",
+                "fr": "pyranomètre"
+            }
+        }
+    ]
+}

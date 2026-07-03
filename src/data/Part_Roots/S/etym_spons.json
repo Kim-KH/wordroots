@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "spons (promise) response, responsible, sponsor, spouse",
+        "origin": "Latin, spondere, sponsus (to promise, to pledge)",
+        "meaning": {
+            "ko": "약속하다",
+            "en": "to promise",
+            "ja": "約束する",
+            "zh": "承诺",
+            "fr": "promettre"
+        }
+    },
+    "words": [
+        {
+            "word": "response",
+            "part_of_speech": "",
+            "origin": "Latin, responsum (an answer)",
+            "meaning": {
+                "ko": "대답",
+                "en": "answer or reply",
+                "ja": "返答、応答",
+                "zh": "回答、反应",
+                "fr": "réponse, action de répondre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤로, 다시'",
+                        "en": "back",
+                        "ja": "後ろへ、再び",
+                        "zh": "向后、再次",
+                        "fr": "arrière, de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sponse",
+                    "meaning": {
+                        "ko": "'약속하다, 대답하다'",
+                        "en": "to promise or answer",
+                        "ja": "約束する、答える",
+                        "zh": "承诺、回答",
+                        "fr": "promettre, répondre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'질문 등에 대해 다시 대답하는 것'이라는 의미에서 '응답', '반응'을 뜻합니다.",
+                "en": "Meaning of responding or reacting to a question or stimulus",
+                "ja": "質問や刺激に対して再び答えることの意味",
+                "zh": "对问题或刺激再次作出回答的含义",
+                "fr": "sens de répondre ou réagir à une question ou stimulus"
+            },
+            "example": "I am waiting for his response to my email.",
+            "translation": {
+                "ko": "나는 내 이메일에 대한 그의 답장을 기다리고 있다.",
+                "ja": "彼のメール返信を待っています",
+                "zh": "我在等待他对我邮件的回复",
+                "fr": "J'attends sa réponse à mon email"
+            }
+        },
+        {
+            "word": "responsible",
+            "part_of_speech": "",
+            "origin": "Latin, respondere (to answer)",
+            "meaning": {
+                "ko": "대답하다",
+                "en": "to answer or respond",
+                "ja": "責任がある",
+                "zh": "有责任",
+                "fr": "responsable"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "respons-",
+                    "meaning": {
+                        "ko": "'대답하다'",
+                        "en": "to answer",
+                        "ja": "答える",
+                        "zh": "回答",
+                        "fr": "répondre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신의 행동에 대해 대답할(설명할) 의무가 있는'이라는 의미에서 '책임이 있는'이라는 뜻입니다.",
+                "en": "Meaning 'accountable' from the sense of having a duty to answer for or explain one's actions",
+                "ja": "自分の行動に対して答える（説明する）義務があるという意味から、責任があるという意味です",
+                "zh": "从对自己的行为有责任回答（解释）的义务的意义引申为有责任的意思",
+                "fr": "Du sens d'avoir l'obligation de répondre ou d'expliquer ses actes"
+            },
+            "example": "You are responsible for your own actions.",
+            "translation": {
+                "ko": "당신은 당신 자신의 행동에 책임이 있다.",
+                "ja": "あなたは自分の行動に責任がある",
+                "zh": "你对自己的行为负责",
+                "fr": "Vous êtes responsable de vos propres actions"
+            }
+        },
+        {
+            "word": "sponsor",
+            "part_of_speech": "",
+            "origin": "Latin, sponsor (a surety, a guarantor)",
+            "meaning": {
+                "ko": "보증인",
+                "en": "guarantor or backer",
+                "ja": "後援者、保証人",
+                "zh": "赞助人、担保人",
+                "fr": "parrain, garant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spons-",
+                    "meaning": {
+                        "ko": "'약속하다'",
+                        "en": "to promise",
+                        "ja": "約束する",
+                        "zh": "承诺、约定",
+                        "fr": "promettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다른 사람을 위해 책임을 약속하는 사람'이라는 의미에서 '후원자'를 뜻합니다.",
+                "en": "A person who promises responsibility for another person, meaning a sponsor or supporter.",
+                "ja": "他の人のために責任を約束する人という意味で、後援者を意味します。",
+                "zh": "为他人承诺责任的人，意思是赞助者或支持者。",
+                "fr": "Une personne qui promet une responsabilité pour une autre personne, signifiant un parrain ou un soutien."
+            },
+            "example": "The event was sponsored by a local company.",
+            "translation": {
+                "ko": "그 행사는 지역 회사에 의해 후원되었다.",
+                "ja": "そのイベントは地元の企業によって後援されていました。",
+                "zh": "该活动由当地一家公司赞助。",
+                "fr": "L'événement a été parrainé par une entreprise locale."
+            }
+        },
+        {
+            "word": "spouse",
+            "part_of_speech": "",
+            "origin": "Latin, sponsus (a betrothed man), sponsa (a betrothed woman)",
+            "meaning": {
+                "ko": "약혼한 사람",
+                "en": "betrothed person",
+                "ja": "配偶者",
+                "zh": "配偶",
+                "fr": "époux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spous- (spondere)",
+                    "meaning": {
+                        "ko": "'약속하다'",
+                        "en": "to promise",
+                        "ja": "約束する",
+                        "zh": "承诺",
+                        "fr": "promettre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'결혼을 약속한 사람'이라는 의미에서 '배우자'를 뜻합니다.",
+                "en": "Means a person who has promised marriage",
+                "ja": "結婚を約束した人という意味",
+                "zh": "承诺结婚的人的意思",
+                "fr": "Désigne une personne ayant promis le mariage"
+            },
+            "example": "Your spouse is your husband or wife.",
+            "translation": {
+                "ko": "당신의 배우자는 당신의 남편 또는 아내이다.",
+                "ja": "Your spouse is your husband or wife.",
+                "zh": "你的配偶是你的丈夫或妻子。",
+                "fr": "Votre époux est votre mari ou votre femme."
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "thorac/thorax) (chest) thoracic, thorax, cephalothorax",
+        "origin": "Greek, thorax (the chest)",
+        "meaning": {
+            "ko": "가슴",
+            "en": "chest",
+            "ja": "胸",
+            "zh": "胸部",
+            "fr": "poitrine"
+        }
+    },
+    "words": [
+        {
+            "word": "thoracic",
+            "part_of_speech": "",
+            "origin": "Greek, thorax",
+            "meaning": {
+                "ko": "가슴",
+                "en": "chest",
+                "ja": "胸部の",
+                "zh": "胸部的",
+                "fr": "thoracique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thorac-",
+                    "meaning": {
+                        "ko": "'가슴'",
+                        "en": "chest",
+                        "ja": "胸",
+                        "zh": "胸部",
+                        "fr": "poitrine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가슴의', '흉부의'라는 뜻입니다.",
+                "en": "Means 'of the chest' or 'of the thorax'",
+                "ja": "胸部に関する、胸腔に関する",
+                "zh": "与胸部有关、与胸腔有关",
+                "fr": "Relatif à la poitrine ou au thorax"
+            },
+            "example": "The thoracic cavity contains the heart and lungs.",
+            "translation": {
+                "ko": "흉강은 심장과 폐를 포함한다.",
+                "ja": "胸腔には心臓と肺が含まれています。",
+                "zh": "胸腔包含心脏和肺。",
+                "fr": "La cavité thoracique contient le cœur et les poumons."
+            }
+        },
+        {
+            "word": "thorax",
+            "part_of_speech": "",
+            "origin": "Greek, thorax",
+            "meaning": {
+                "ko": "가슴",
+                "en": "chest",
+                "ja": "胸部",
+                "zh": "胸部",
+                "fr": "thorax"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thorax",
+                    "meaning": {
+                        "ko": "'가슴'",
+                        "en": "chest",
+                        "ja": "胸部",
+                        "zh": "胸部",
+                        "fr": "thorax"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가슴', '흉부'를 뜻하는 해부학 용어입니다.",
+                "en": "An anatomical term meaning the chest or thoracic region.",
+                "ja": "胸部や胸腔を意味する解剖学用語です。",
+                "zh": "表示胸部或胸腔的解剖学术语。",
+                "fr": "Terme anatomique désignant le thorax ou la région thoracique."
+            },
+            "example": "The thorax is the part of the body between the neck and the abdomen.",
+            "translation": {
+                "ko": "흉부는 목과 복부 사이의 신체 부위이다.",
+                "ja": "胸部は首と腹部の間の体の部分です。",
+                "zh": "胸部是颈部和腹部之间的身体部分。",
+                "fr": "Le thorax est la partie du corps entre le cou et l'abdomen."
+            }
+        },
+        {
+            "word": "cephalothorax",
+            "part_of_speech": "",
+            "origin": "Greek, kephale (head) + thorax (chest)",
+            "meaning": {
+                "ko": "머리가슴",
+                "en": "head and thorax",
+                "ja": "頭胸部",
+                "zh": "头胸部",
+                "fr": "céphalothorax"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cephalo-",
+                    "meaning": {
+                        "ko": "'머리'",
+                        "en": "head",
+                        "ja": "頭",
+                        "zh": "头",
+                        "fr": "tête"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "thorax",
+                    "meaning": {
+                        "ko": "'가슴'",
+                        "en": "chest",
+                        "ja": "胸",
+                        "zh": "胸",
+                        "fr": "thorax"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'머리와 가슴이 하나로 합쳐진 부분'으로, 거미나 갑각류 등에서 볼 수 있는 '두흉부'를 뜻합니다.",
+                "en": "The fused region of head and thorax found in spiders and crustaceans",
+                "ja": "クモや甲殻類などで見られる頭と胸が一体化した部分",
+                "zh": "蜘蛛和甲壳类等动物中头部与胸部融合的部分",
+                "fr": "Région fusionnée de la tête et du thorax chez les araignées et les crustacés"
+            },
+            "example": "In spiders, the head and thorax are fused to form a cephalothorax.",
+            "translation": {
+                "ko": "거미의 경우, 머리와 가슴이 융합하여 두흉부를 형성한다.",
+                "ja": "クモでは頭と胸が融合して頭胸部を形成します。",
+                "zh": "在蜘蛛中,头部和胸部融合形成头胸部。",
+                "fr": "Chez les araignées, la tête et le thorax fusionnent pour former un céphalothorax."
+            }
+        }
+    ]
+}

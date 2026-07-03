@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "equ (equal) equate, equator, equilateral",
+        "origin": "Latin, aequus (equal, even)",
+        "meaning": {
+            "ko": "같은",
+            "en": "equal",
+            "ja": "等しい",
+            "zh": "相等",
+            "fr": "égal"
+        }
+    },
+    "words": [
+        {
+            "word": "equate",
+            "part_of_speech": "",
+            "origin": "Latin, aequare (to make equal)",
+            "meaning": {
+                "ko": "같게 만들다",
+                "en": "to make equal",
+                "ja": "同じにする",
+                "zh": "使相等",
+                "fr": "rendre égal"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "equ-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "同じ",
+                        "zh": "相等的",
+                        "fr": "égal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두 개 이상의 것을 같게 만들다'는 의미에서 '동일시하다'라는 뜻입니다.",
+                "en": "To treat two or more things as the same; to consider as equivalent",
+                "ja": "二つ以上のものを同じものとして扱う意味で、同一視することです",
+                "zh": "将两个或多个事物视为相同，具有相同或等价的意思",
+                "fr": "Traiter deux ou plusieurs choses comme identiques, les considérer comme équivalentes"
+            },
+            "example": "You cannot equate wealth with happiness.",
+            "translation": {
+                "ko": "부와 행복을 동일시할 수는 없다.",
+                "ja": "富と幸福を同じにすることはできません",
+                "zh": "你不能把财富和幸福划等号",
+                "fr": "Vous ne pouvez pas assimiler la richesse au bonheur"
+            }
+        },
+        {
+            "word": "equator",
+            "part_of_speech": "",
+            "origin": "Latin, aequator (one who equalizes)",
+            "meaning": {
+                "ko": "같게 만드는 것",
+                "en": "making equal",
+                "ja": "昼夜を等しくする線",
+                "zh": "使昼夜相等的线",
+                "fr": "ligne égalisant le jour et la nuit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "equ-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "等しい",
+                        "zh": "相等的",
+                        "fr": "égal"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'낮과 밤의 길이를 같게 만드는 선'이라는 의미에서 '적도'를 뜻합니다.",
+                "en": "The term 'equator' comes from the meaning of a line that makes the length of day and night equal",
+                "ja": "「赤道」という用語は、昼と夜の長さを等しくする線という意味に由来します",
+                "zh": "「赤道」这个术语源于使昼夜长度相等的线这一含义",
+                "fr": "Le terme 'équateur' vient du sens d'une ligne qui rend égales les longueurs du jour et de la nuit"
+            },
+            "example": "The equator divides the Earth into the Northern and Southern Hemispheres.",
+            "translation": {
+                "ko": "적도는 지구를 북반구와 남반구로 나눈다.",
+                "ja": "赤道",
+                "zh": "赤道",
+                "fr": "équateur"
+            }
+        },
+        {
+            "word": "equilateral",
+            "part_of_speech": "",
+            "origin": "Latin, aequus (equal) + latus (side)",
+            "meaning": {
+                "ko": "같은 변",
+                "en": "equal side",
+                "ja": "等辺の",
+                "zh": "等边的",
+                "fr": "équilatéral"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "equi-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "等しい",
+                        "zh": "相等的",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lateral",
+                    "meaning": {
+                        "ko": "'변'",
+                        "en": "side",
+                        "ja": "辺",
+                        "zh": "边",
+                        "fr": "côté"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 변의 길이가 같은'이라는 뜻으로, '등변의'라고 합니다.",
+                "en": "All sides have equal length",
+                "ja": "すべての辺の長さが等しい",
+                "zh": "所有边的长度相等",
+                "fr": "Tous les côtés ont une longueur égale"
+            },
+            "example": "An equilateral triangle has three equal sides.",
+            "translation": {
+                "ko": "정삼각형은 세 변의 길이가 같다.",
+                "ja": "正三角形は3つの等しい辺を持っています。",
+                "zh": "等边三角形有三条相等的边。",
+                "fr": "Un triangle équilatéral a trois côtés égaux."
+            }
+        }
+    ]
+}

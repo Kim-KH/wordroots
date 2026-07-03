@@ -1,0 +1,433 @@
+{
+    "root_info": {
+        "roots": "cour, cur, curr, curs: run, course",
+        "origin": "Latin, currere",
+        "meaning": {
+            "ko": "달리다",
+            "en": "to run",
+            "ja": "走る",
+            "zh": "跑",
+            "fr": "courir"
+        }
+    },
+    "words": [
+        {
+            "word": "currency",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curr",
+                    "meaning": {
+                        "ko": "흐르다, 달리다",
+                        "en": "to run, flow",
+                        "ja": "流れる、走る",
+                        "zh": "流动、奔跑",
+                        "fr": "couler, circuler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시중에 흘러 다니는' 돈이라는 의미에서 '통화', '화폐'를 뜻합니다.",
+                "en": "Money that circulates in society; refers to currency or medium of exchange",
+                "ja": "社会で流通するお金という意味から、「通貨」を指します",
+                "zh": "从「在社会上流通的」钱的含义，指「货币」、「通货」",
+                "fr": "De l'argent qui circule dans la société ; désigne la monnaie ou les moyens d'échange"
+            },
+            "example": "What is the currency of Japan?",
+            "translation": {
+                "ko": "일본의 통화는 무엇인가요?",
+                "ja": "日本の通貨は何ですか？",
+                "zh": "日本的货币是什么？",
+                "fr": "Quelle est la monnaie du Japon ?"
+            }
+        },
+        {
+            "word": "cursor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curs",
+                    "meaning": {
+                        "ko": "달리는 것",
+                        "en": "runner",
+                        "ja": "走るもの",
+                        "zh": "奔跑的东西",
+                        "fr": "coureur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "화면 위를 '달리는' 표시라는 의미에서 컴퓨터 화면의 '커서'를 뜻합니다.",
+                "en": "From Latin 'currere' (to run). The cursor is named for how it appears to move across the screen.",
+                "ja": "画面上を『走る』表示という意味から、コンピュータ画面の『カーソル』を指します。",
+                "zh": "从在屏幕上『运行』的指示的意义来看，指计算机屏幕上的『光标』。",
+                "fr": "Du sens de l'indicateur qui « court » sur l'écran, désignant le « curseur » de l'écran informatique."
+            },
+            "example": "Move the cursor to the end of the line.",
+            "translation": {
+                "ko": "커서를 줄 끝으로 이동하세요.",
+                "ja": "カーソルを行の終わりに移動してください。",
+                "zh": "将光标移动到行尾。",
+                "fr": "Déplacez le curseur à la fin de la ligne."
+            }
+        },
+        {
+            "word": "concur",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cur",
+                    "meaning": {
+                        "ko": "달리다",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "跑",
+                        "fr": "courir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "의견이 '함께 달리다'는 의미에서 '동의하다', '의견이 일치하다'는 뜻이 되었습니다.",
+                "en": "Opinions 'running together' developed into meaning 'to agree' or 'to have matching views.'",
+                "ja": "意見が「一緒に走る」という意味から、「同意する」「意見が一致する」という意味になりました。",
+                "zh": "意见「一起跑」的含义演变为「同意」、「观点一致」的意思。",
+                "fr": "Les opinions « courant ensemble » ont évolué pour signifier « être d'accord » ou « avoir des avis concordants »."
+            },
+            "example": "I concur with your opinion.",
+            "translation": {
+                "ko": "당신의 의견에 동의합니다.",
+                "ja": "あなたの意見に同意します。",
+                "zh": "我同意你的意见。",
+                "fr": "Je suis d'accord avec votre avis."
+            }
+        },
+        {
+            "word": "discourse",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 여기저기",
+                        "en": "apart, about",
+                        "ja": "離れて、あちこち",
+                        "zh": "分开、各处",
+                        "fr": "à part, çà et là"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "course",
+                    "meaning": {
+                        "ko": "달리다",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "跑",
+                        "fr": "courir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "주제를 중심으로 '이리저리 오가는 말'이라는 의미에서 '담화', '담론'을 뜻합니다.",
+                "en": "From Latin 'discurrere' (to run about): 'discourse' originally meant words running back and forth around a topic, hence 'discussion' or 'treatise'",
+                "ja": "トピックを中心に『あちこちを行き来する話』という意味から、『談話』『論述』を意味します。",
+                "zh": "围绕一个主题'来回往返的言论'之意，衍生为'讨论''论述'的含义。",
+                "fr": "Du sens de 'paroles allant et venant autour d'un sujet', d'où 'discussion' ou 'traité'."
+            },
+            "example": "He gave a long discourse on politics.",
+            "translation": {
+                "ko": "그는 정치에 대해 긴 담론을 펼쳤다.",
+                "ja": "彼は政治について長い論述を展開した。",
+                "zh": "他就政治问题发表了冗长的论述。",
+                "fr": "Il a présenté un long discours sur la politique."
+            }
+        },
+        {
+            "word": "recur",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "もう一度",
+                        "zh": "再次",
+                        "fr": "de nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cur",
+                    "meaning": {
+                        "ko": "달리다",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "跑",
+                        "fr": "courir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 달려오다'는 의미에서, 사건이나 문제가 '재발하다', '반복되다'는 뜻입니다.",
+                "en": "From 'run again': when an event or problem happens repeatedly or occurs again",
+                "ja": "「もう一度走ってくる」の意味から、事件や問題が「再発する」「繰り返される」という意味です。",
+                "zh": "从「再次跑来」的含义演变而来，表示事件或问题「再次发生」、「重复发生」的意思。",
+                "fr": "Du sens de « courir à nouveau » : quand un événement ou un problème se reproduit ou se répète."
+            },
+            "example": "I hope this problem does not recur.",
+            "translation": {
+                "ko": "이 문제가 재발하지 않기를 바랍니다.",
+                "ja": "この問題が再発しないことを願っています。",
+                "zh": "我希望这个问题不会再次发生。",
+                "fr": "J'espère que ce problème ne se reproduira pas."
+            }
+        },
+        {
+            "word": "course",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cours (currere)",
+                    "meaning": {
+                        "ko": "달리다",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "跑",
+                        "fr": "courir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'달려가는 길'이라는 의미에서 '경로', '과정', '강의' 등 다양한 뜻으로 쓰입니다.",
+                "en": "From the meaning 'a path where one runs', it is used in various senses such as 'route', 'process', 'lecture', etc.",
+                "ja": "「走る道」という意味から、「経路」「過程」「講義」など様々な意味で使われます。",
+                "zh": "从「跑的路」的意思出发，被用来表示「路线」「过程」「课程」等多种含义。",
+                "fr": "Du sens 'chemin où l'on court', il est utilisé dans diverses acceptions comme 'route', 'processus', 'cours', etc."
+            },
+            "example": "This is a difficult course.",
+            "translation": {
+                "ko": "이것은 어려운 과정(강의)이다.",
+                "ja": "これは難しい講義です。",
+                "zh": "这是一门困难的课程。",
+                "fr": "C'est un cours difficile."
+            }
+        },
+        {
+            "word": "cursory",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curs",
+                    "meaning": {
+                        "ko": "달리다",
+                        "en": "to run",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'달리듯이 빠르게 지나가는'이라는 의미에서 '대충 하는', '피상적인'이라는 뜻입니다.",
+                "en": "From the sense of passing quickly like running, came to mean doing something superficially or hastily.",
+                "ja": "走るように素早く通り過ぎるという意味から、『ざっと済ませる』『表面的な』という意味になりました。",
+                "zh": "从\"像奔跑一样快速掠过\"的含义，引申为\"粗略地做\"、\"表面的\"的意思。",
+                "fr": "Du sens de passer rapidement comme en courant, d'où le sens de faire quelque chose superficiellement ou hâtivement."
+            },
+            "example": "He gave the report a cursory glance.",
+            "translation": {
+                "ko": "그는 보고서를 대충 훑어보았다.",
+                "ja": "彼はレポートにさっと目を通した。",
+                "zh": "他粗略地浏览了一遍报告。",
+                "fr": "Il a jeté un coup d'œil rapide au rapport."
+            }
+        },
+        {
+            "word": "intercourse",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "course",
+                    "meaning": {
+                        "ko": "달리다",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "奔跑",
+                        "fr": "courir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 사이를 오가는 것'이라는 의미에서, '교류', '교제', '소통'을 뜻합니다.",
+                "en": "From the sense of 'going back and forth between each other,' meaning exchange, association, or communication.",
+                "ja": "「互いに間を往来する」という意味から、「交流」「交際」「相互作用」を意味します。",
+                "zh": "从「相互之间来往」的含义出发，表示交流、交往、沟通。",
+                "fr": "Du sens de « circuler mutuellement entre », signifiant échange, association ou communication."
+            },
+            "example": "They had a friendly intercourse of ideas.",
+            "translation": {
+                "ko": "그들은 우호적인 아이디어 교류를 가졌다.",
+                "ja": "彼らは友好的なアイデアの交流を持っていた。",
+                "zh": "他们进行了友好的想法交流。",
+                "fr": "Ils ont eu un échange amical d'idées."
+            }
+        },
+        {
+            "word": "incur",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "into",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cur",
+                    "meaning": {
+                        "ko": "달리다",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "跑动",
+                        "fr": "courir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "좋지 않은 상황 '속으로 달려 들어가다'는 의미에서, 빚이나 위험 등을 '초래하다', '입다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'running into an unfavorable situation,' it came to mean 'to bring about' or 'to suffer' debts, risks, etc.",
+                "ja": "不利な状況に『走って入る』という意味から、借金や危険などを『招く』『被る』という意味になりました。",
+                "zh": "从'跑进不利状况'的含义演变而来，表示'招致'或'承受'债务、风险等。",
+                "fr": "Du sens de « courir dans une situation défavorable », le mot en est venu à signifier « entraîner » ou « subir » des dettes, des risques, etc."
+            },
+            "example": "The company incurred heavy losses.",
+            "translation": {
+                "ko": "그 회사는 막대한 손실을 입었다.",
+                "ja": "その企業は多大な損失を被った。",
+                "zh": "那家公司遭受了巨大损失。",
+                "fr": "L'entreprise a subi de lourdes pertes."
+            }
+        },
+        {
+            "word": "precursor",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "앞에",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "前面",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "curs",
+                    "meaning": {
+                        "ko": "달리는 사람",
+                        "en": "runner",
+                        "ja": "走る人",
+                        "zh": "奔跑的人",
+                        "fr": "coureur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞서 달리는 사람'이라는 의미에서, 어떤 일의 '선구자' 또는 '전조'를 뜻합니다.",
+                "en": "From 'one who runs before,' meaning a forerunner or harbinger of something.",
+                "ja": "「前を走る人」という意味から、何かの「先駆者」または「前兆」を意味します。",
+                "zh": "源自「前面奔跑的人」，表示某事的「先驱者」或「预兆」。",
+                "fr": "Du sens de « celui qui court devant », désignant un précédent ou un signe avant-coureur de quelque chose."
+            },
+            "example": "Dark clouds are a precursor to a storm.",
+            "translation": {
+                "ko": "먹구름은 폭풍의 전조이다.",
+                "ja": "暗い雲は嵐の前兆である。",
+                "zh": "乌云是暴风雨的前兆。",
+                "fr": "Les nuages sombres sont un précurseur de tempête."
+            }
+        },
+        {
+            "word": "occur",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "oc- (ob-)",
+                    "meaning": {
+                        "ko": "~를 향해",
+                        "en": "toward",
+                        "ja": "に向かって",
+                        "zh": "朝向",
+                        "fr": "vers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cur",
+                    "meaning": {
+                        "ko": "달리다",
+                        "en": "to run",
+                        "ja": "走る",
+                        "zh": "跑",
+                        "fr": "courir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 지점을 향해 달려오다'는 의미에서, 사건이 '발생하다', '일어나다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'running toward a point', it came to mean an event 'happens' or 'takes place'.",
+                "ja": "「ある地点に向かって走ってくる」という意味から、出来事が「起こる」「発生する」という意味になりました。",
+                "zh": "从「朝向某一点奔跑而来」的含义演变为事件「发生」、「出现」的意思。",
+                "fr": "Du sens de « courir vers un point », il a pris le sens qu'un événement « se produit » ou « arrive »."
+            },
+            "example": "When did the accident occur?",
+            "translation": {
+                "ko": "그 사고는 언제 일어났나요?",
+                "ja": "その事故はいつ起きましたか？",
+                "zh": "那场事故是什么时候发生的？",
+                "fr": "Quand l'accident s'est-il produit ?"
+            }
+        }
+    ]
+}

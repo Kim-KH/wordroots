@@ -1,0 +1,159 @@
+{
+    "root_info": {
+        "roots": "avi(s) (bird) avian, aviary, aviator",
+        "origin": "Latin, avis (bird)",
+        "meaning": {
+            "ko": "새",
+            "en": "bird",
+            "ja": "鳥",
+            "zh": "鸟",
+            "fr": "oiseau"
+        }
+    },
+    "words": [
+        {
+            "word": "avian",
+            "part_of_speech": "",
+            "origin": "Latin, avis (bird)",
+            "meaning": {
+                "ko": "새",
+                "en": "bird",
+                "ja": "鳥",
+                "zh": "鸟",
+                "fr": "oiseau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "avi (avis)",
+                    "meaning": {
+                        "ko": "'새'",
+                        "en": "bird",
+                        "ja": "鳥",
+                        "zh": "鸟",
+                        "fr": "oiseau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-an",
+                    "meaning": {
+                        "ko": "'~에 관련된'",
+                        "en": "related to"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새(avi)에 관련된'이라는 의미로, '새의', '조류의'라는 뜻을 나타내는 형용사입니다.",
+                "en": "From Latin 'of birds (avi)'; an adjective meaning 'relating to birds.'",
+                "ja": "ラテン語の「鳥（avi）の」から、「鳥の」「鳥類の」を意味する形容詞。",
+                "zh": "源自拉丁语「鸟（avi）的」，意为「与鸟类相关的」形容词。",
+                "fr": "Du latin 'des oiseaux (avi)'; un adjectif signifiant 'relatif aux oiseaux.'"
+            },
+            "example": "Avian flu is a disease that affects birds.",
+            "translation": {
+                "ko": "조류 독감은 새에게 영향을 미치는 질병이다.",
+                "ja": "鳥インフルエンザの流行は何百万羽もの家禽に影響を与えた。",
+                "zh": "禽流感爆发影响了数百万只家禽。",
+                "fr": "L'épidémie de grippe aviaire a touché des millions de volailles."
+            }
+        },
+        {
+            "word": "aviary",
+            "part_of_speech": "",
+            "origin": "Latin, aviarium (a place for birds)",
+            "meaning": {
+                "ko": "새를 위한 장소",
+                "en": "a place for birds",
+                "ja": "鳥のための場所",
+                "zh": "鸟类饲养场所",
+                "fr": "lieu pour les oiseaux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "avi (avis)",
+                    "meaning": {
+                        "ko": "'새'",
+                        "en": "bird",
+                        "ja": "鳥",
+                        "zh": "鸟",
+                        "fr": "oiseau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ary",
+                    "meaning": {
+                        "ko": "'장소'",
+                        "en": "place for",
+                        "ja": "場所",
+                        "zh": "场所",
+                        "fr": "lieu"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'새(avi)를 위한 장소(ary)'라는 의미로, 동물원 등에 있는 큰 '새장'을 뜻합니다.",
+                "en": "Derived from 'avi' (bird) and 'ary' (place for), referring to a large birdcage found in zoos.",
+                "ja": "「avi」(鳥)と「ary」(〜のための場所)から成り、動物園などにある大きな鳥舎を意味します。",
+                "zh": "由「avi」(鸟)和「ary」(场所)组成，指动物园等处的大型鸟舍。",
+                "fr": "Dérivé de 'avi' (oiseau) et 'ary' (lieu pour), désignant une grande volière dans les zoos."
+            },
+            "example": "The aviary houses a wide variety of exotic birds.",
+            "translation": {
+                "ko": "그 새장에는 다양한 종류의 이국적인 새들이 살고 있다.",
+                "ja": "その鳥舎には多様な珍しい鳥が飼育されています。",
+                "zh": "这个鸟舍饲养着各种各样的珍稀鸟类。",
+                "fr": "La volière abrite une grande variété d'oiseaux exotiques."
+            }
+        },
+        {
+            "word": "aviator",
+            "part_of_speech": "",
+            "origin": "Latin, avis (bird)",
+            "meaning": {
+                "ko": "새",
+                "en": "bird",
+                "ja": "鳥",
+                "zh": "鸟",
+                "fr": "oiseau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "avi (avis)",
+                    "meaning": {
+                        "ko": "'새'",
+                        "en": "bird",
+                        "ja": "鳥",
+                        "zh": "鸟",
+                        "fr": "oiseau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ator",
+                    "meaning": {
+                        "ko": "'~하는 사람'",
+                        "en": "person who does"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "새처럼 하늘을 나는 사람이라는 의미에서, 비행기를 조종하는 '비행사'를 뜻하는 단어로 만들어졌습니다.",
+                "en": "One who flies like a bird; a pilot of an aircraft.",
+                "ja": "鳥のように空を飛ぶ人という意味から、航空機を操縦する「飛行士」。",
+                "zh": "像鸟一样飞翔的人，指驾驶飞机的「飞行员」。",
+                "fr": "Celui qui vole comme un oiseau; un pilote d'aéronef."
+            },
+            "example": "Amelia Earhart was a pioneering American aviator.",
+            "translation": {
+                "ko": "아멜리아 이어하트는 미국의 선구적인 여성 비행사였다.",
+                "ja": "その飛行士は革ジャケットとゴーグルをつけていた。",
+                "zh": "那位飞行员戴着皮夹克和护目镜。",
+                "fr": "L'aviateur portait une veste en cuir et des lunettes de protection."
+            }
+        }
+    ]
+}

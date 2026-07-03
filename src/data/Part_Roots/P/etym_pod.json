@@ -1,0 +1,254 @@
+{
+    "root_info": {
+        "roots": "pod(a) (foot) arthropod, gastropod, pseudopod, podium, tripod",
+        "origin": "Greek, pous, podos (foot)",
+        "meaning": {
+            "ko": "발",
+            "en": "foot",
+            "ja": "足",
+            "zh": "脚",
+            "fr": "pied"
+        }
+    },
+    "words": [
+        {
+            "word": "arthropod",
+            "part_of_speech": "",
+            "origin": "Greek, arthron (joint) + podos (foot)",
+            "meaning": {
+                "ko": "마디 있는 발",
+                "en": "jointed leg",
+                "ja": "節足動物",
+                "zh": "节肢动物",
+                "fr": "arthropode"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "arthro-",
+                    "meaning": {
+                        "ko": "'관절이 있는, 마디가 있는'",
+                        "en": "jointed",
+                        "ja": "関節のある",
+                        "zh": "有关节的",
+                        "fr": "articulé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod",
+                    "meaning": {
+                        "ko": "'발, 다리'",
+                        "en": "foot",
+                        "ja": "足、脚",
+                        "zh": "脚、腿",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마디로 된 다리를 가진 동물'이라는 의미에서 곤충, 거미, 갑각류 등을 포함하는 '절지동물'을 뜻합니다.",
+                "en": "Animals with jointed legs, including insects, spiders, and crustaceans",
+                "ja": "昆虫、クモ、甲殻類などの関節のある脚を持つ動物",
+                "zh": "具有分节的腿的动物，包括昆虫、蜘蛛和甲壳类",
+                "fr": "Animaux possédant des pattes articulées, y compris les insectes, les araignées et les crustacés"
+            },
+            "example": "Insects and spiders are both arthropods.",
+            "translation": {
+                "ko": "곤충과 거미는 모두 절지동물이다.",
+                "ja": "昆虫とクモはどちらも節足動物です。",
+                "zh": "昆虫和蜘蛛都是节肢动物。",
+                "fr": "Les insectes et les araignées sont tous deux des arthropodes."
+            }
+        },
+        {
+            "word": "gastropod",
+            "part_of_speech": "",
+            "origin": "Greek, gaster (stomach) + podos (foot)",
+            "meaning": {
+                "ko": "배 발",
+                "en": "belly foot",
+                "ja": "腹足類",
+                "zh": "腹足类",
+                "fr": "gastéropode"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gastro-",
+                    "meaning": {
+                        "ko": "'배'",
+                        "en": "belly",
+                        "ja": "胃",
+                        "zh": "胃",
+                        "fr": "estomac"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'배 부분이 발 역할을 하는 동물'이라는 의미에서 달팽이, 민달팽이 등을 포함하는 '복족류'를 뜻합니다.",
+                "en": "Refers to mollusks like snails and slugs where the ventral part functions as a foot for movement",
+                "ja": "腹部が足の役割を果たす動物という意味で、カタツムリ、ナメクジなどを含む軟体動物を指します",
+                "zh": "指腹部起足的作用的动物，包括蜗牛、鼻涕虫等软体动物",
+                "fr": "Désigne les mollusques comme les escargots et les limaces où la partie ventrale agit comme un pied"
+            },
+            "example": "A snail is a type of gastropod.",
+            "translation": {
+                "ko": "달팽이는 복족류의 일종이다.",
+                "ja": "カタツムリは腹足類の一種です",
+                "zh": "蜗牛是腹足类的一种",
+                "fr": "Un escargot est un type de gastéropode"
+            }
+        },
+        {
+            "word": "pseudopod",
+            "part_of_speech": "",
+            "origin": "Greek, pseudes (false) + podos (foot)",
+            "meaning": {
+                "ko": "거짓 발",
+                "en": "false foot",
+                "ja": "偽足",
+                "zh": "伪足",
+                "fr": "pseudopode"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pseudo-",
+                    "meaning": {
+                        "ko": "'거짓의'",
+                        "en": "false",
+                        "ja": "偽の",
+                        "zh": "虚假的",
+                        "fr": "faux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "足",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "아메바 등이 움직이거나 먹이를 잡기 위해 일시적으로 내미는 '거짓 발'이라는 의미에서 '위족(僞足)'을 뜻합니다.",
+                "en": "A temporary foot-like projection extended by amoebas and similar organisms for movement and capturing food, literally meaning 'false foot'.",
+                "ja": "アメーバなどが一時的に伸ばす『偽の足』という意味で、運動と食物摂取に使用されます。",
+                "zh": "阿米巴虫等生物为了移动和捕食而临时伸出的『虚假的足』，字面意思为『假足』。",
+                "fr": "Projection temporaire en forme de pied que les amibes et organismes similaires étendent pour se déplacer et capturer la nourriture, littéralement 'faux pied'."
+            },
+            "example": "An amoeba uses pseudopods for movement and feeding.",
+            "translation": {
+                "ko": "아메바는 이동과 섭식을 위해 위족을 사용한다.",
+                "ja": "アメーバは運動と摂食のために偽足を使用します。",
+                "zh": "阿米巴虫使用伪足进行运动和进食。",
+                "fr": "Une amibe utilise des pseudopodes pour le mouvement et l'alimentation."
+            }
+        },
+        {
+            "word": "podium",
+            "part_of_speech": "",
+            "origin": "Greek, podion (a little foot, a base)",
+            "meaning": {
+                "ko": "작은 발, 받침대",
+                "en": "small foot, base or support",
+                "ja": "小さな足、台",
+                "zh": "小脚、讲台",
+                "fr": "petit pied, estrade"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod-",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발을 올려놓는 작은 단상'이라는 의미에서 '연단', '지휘대'를 뜻합니다.",
+                "en": "Means a small platform where one places their feet, referring to a lectern or conductor's stand",
+                "ja": "足を置く小さな台という意味から、演壇や指揮台を指す",
+                "zh": "从放置脚的小台子的含义引申，指讲台或指挥台",
+                "fr": "Signifie une petite plateforme où l'on pose ses pieds, se référant à un pupitre ou à un podium de chef d'orchestre"
+            },
+            "example": "The speaker stood at the podium.",
+            "translation": {
+                "ko": "연사는 연단에 섰다.",
+                "ja": "講演者は演壇に立っていました。",
+                "zh": "演讲者站在讲台上。",
+                "fr": "L'orateur se tenait au podium."
+            }
+        },
+        {
+            "word": "tripod",
+            "part_of_speech": "",
+            "origin": "Greek, tripous (three-footed)",
+            "meaning": {
+                "ko": "세 개의 발",
+                "en": "three legs",
+                "ja": "三本脚の台",
+                "zh": "三脚架",
+                "fr": "trépied"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tri-",
+                    "meaning": {
+                        "ko": "'셋'",
+                        "en": "three",
+                        "ja": "三つ",
+                        "zh": "三个",
+                        "fr": "trois"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pod",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "脚",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'발이 세 개 달린' 받침대인 '삼각대'를 뜻합니다.",
+                "en": "A stand with three legs for supporting equipment",
+                "ja": "三本の脚を持つ支持台のこと",
+                "zh": "有三条腿的支撑架",
+                "fr": "Un support avec trois pieds pour maintenir un équipement"
+            },
+            "example": "He set up his camera on a tripod.",
+            "translation": {
+                "ko": "그는 카메라를 삼각대에 설치했다.",
+                "ja": "彼はカメラを三脚の上にセットした。",
+                "zh": "他把相机放在三脚架上。",
+                "fr": "Il a installé son appareil photo sur un trépied."
+            }
+        }
+    ]
+}

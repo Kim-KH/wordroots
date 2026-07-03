@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ech (sound) echo, echocardiogram, echolocation",
+        "origin": "Greek, ekho (a sound)",
+        "meaning": {
+            "ko": "소리",
+            "en": "sound",
+            "ja": "音",
+            "zh": "声音",
+            "fr": "son"
+        }
+    },
+    "words": [
+        {
+            "word": "echo",
+            "part_of_speech": "",
+            "origin": "Greek, ekho (a sound)",
+            "meaning": {
+                "ko": "소리",
+                "en": "sound",
+                "ja": "音の反響",
+                "zh": "声音回响",
+                "fr": "écho sonore"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ech-",
+                    "meaning": {
+                        "ko": "'소리'",
+                        "en": "sound",
+                        "ja": "音",
+                        "zh": "声音",
+                        "fr": "son"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "소리가 반사되어 다시 들리는 현상이라는 의미에서 '메아리'를 뜻합니다.",
+                "en": "Sound that is reflected and heard again, meaning 'echo'",
+                "ja": "音が反射して再び聞こえる現象を意味し、メアリを示しています",
+                "zh": "声音反射后再次被听到的现象，意思是回声",
+                "fr": "Un phénomène où le son est réfléchi et entendu à nouveau, signifiant écho"
+            },
+            "example": "His voice produced an echo in the empty hall.",
+            "translation": {
+                "ko": "그의 목소리는 텅 빈 홀에서 메아리쳤다.",
+                "ja": "彼の声は空っぽのホールでメアリを生じさせた",
+                "zh": "他的声音在空荡荡的大厅里产生了回声",
+                "fr": "Sa voix a produit un écho dans la salle vide"
+            }
+        },
+        {
+            "word": "echocardiogram",
+            "part_of_speech": "",
+            "origin": "Greek, ekho (sound) + kardia (heart) + gramma (thing written)",
+            "meaning": {
+                "ko": "소리 심장 기록",
+                "en": "sound heart recording",
+                "ja": "音響心臓記録",
+                "zh": "音响心脏记录",
+                "fr": "enregistrement cardiaque sonore"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "echo-",
+                    "meaning": {
+                        "ko": "'소리, 메아리'",
+                        "en": "echo",
+                        "ja": "反響、こだま",
+                        "zh": "回声、回响",
+                        "fr": "écho, résonance"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cardio-",
+                    "meaning": {
+                        "ko": "'심장'",
+                        "en": "heart",
+                        "ja": "心臓",
+                        "zh": "心脏",
+                        "fr": "cœur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "'기록'",
+                        "en": "record",
+                        "ja": "記録",
+                        "zh": "记录",
+                        "fr": "enregistrement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "초음파(소리의 메아리)를 이용하여 심장의 움직임을 기록한 영상이라는 의미에서 '심장 초음파 사진'을 뜻합니다.",
+                "en": "The doctor ordered an echocardiogram to check his heart function.",
+                "ja": "超音波(音の反響)を使用して心臓の動きを記録した画像という意味で、心臓超音波画像を意味します。",
+                "zh": "使用超声波(声音的回声)记录心脏运动的图像，意思是心脏超声波图像。",
+                "fr": "Une image enregistrant les mouvements du cœur en utilisant des ultrasons (échos sonores), signifiant une image échographique cardiaque."
+            },
+            "example": "The doctor ordered an echocardiogram to check his heart function.",
+            "translation": {
+                "ko": "의사는 그의 심장 기능을 확인하기 위해 심장 초음파 검사를 지시했다.",
+                "ja": "心臓超音波検査",
+                "zh": "心脏超声波检查",
+                "fr": "échocardiographie"
+            }
+        },
+        {
+            "word": "echolocation",
+            "part_of_speech": "",
+            "origin": "Greek, ekho (sound) + Latin, locatio (a placing)",
+            "meaning": {
+                "ko": "소리 위치 파악",
+                "en": "locating by sound",
+                "ja": "音の反響で位置を把握する能力",
+                "zh": "通过声音回声定位",
+                "fr": "localisation par écho sonore"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "echo-",
+                    "meaning": {
+                        "ko": "'메아리'",
+                        "en": "echo",
+                        "ja": "反響",
+                        "zh": "回声",
+                        "fr": "écho"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "location",
+                    "meaning": {
+                        "ko": "'위치'",
+                        "en": "location",
+                        "ja": "位置",
+                        "zh": "位置",
+                        "fr": "localisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "소리의 메아리를 이용하여 물체의 위치를 파악하는 능력으로, 박쥐나 돌고래 등이 사용합니다.",
+                "en": "The ability to determine the location of objects by using the echo of sound, used by bats and dolphins.",
+                "ja": "音の反響を利用して物体の位置を特定する能力で、コウモリやイルカなどが使用します。",
+                "zh": "利用声音回声确定物体位置的能力，蝙蝠和海豚等使用此能力。",
+                "fr": "Capacité à déterminer la localisation d'objets en utilisant l'écho du son, utilisée par les chauves-souris et les dauphins."
+            },
+            "example": "Bats use echolocation to navigate and find food in the dark.",
+            "translation": {
+                "ko": "박쥐는 어둠 속에서 길을 찾고 먹이를 찾기 위해 반향정위를 사용한다.",
+                "ja": "エコーロケーション",
+                "zh": "回声定位",
+                "fr": "écholocalisation"
+            }
+        }
+    ]
+}

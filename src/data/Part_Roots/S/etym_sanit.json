@@ -1,0 +1,210 @@
+{
+    "root_info": {
+        "roots": "sanit (health) sanity, sanitary, sanitize, sanitation, sanitarium",
+        "origin": "Latin, sanus (healthy)",
+        "meaning": {
+            "ko": "건강한",
+            "en": "healthy",
+            "ja": "健康的な",
+            "zh": "健康的",
+            "fr": "sain"
+        }
+    },
+    "words": [
+        {
+            "word": "sanity",
+            "part_of_speech": "",
+            "origin": "Latin, sanitas (health, soundness of mind)",
+            "meaning": {
+                "ko": "건강, 건전한 정신",
+                "en": "health, sound mind",
+                "ja": "精神の健全性",
+                "zh": "心智健全",
+                "fr": "santé mentale"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "san-",
+                    "meaning": {
+                        "ko": "'건강한'",
+                        "en": "healthy",
+                        "ja": "健康な",
+                        "zh": "健康的",
+                        "fr": "sain"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신이 건강한 상태'인 '온전한 정신'을 뜻합니다.",
+                "en": "State of having a sound and healthy mind",
+                "ja": "健全で健康な精神状態を意味します",
+                "zh": "指精神健康完整的状态",
+                "fr": "État d'esprit sain et équilibré"
+            },
+            "example": "I began to doubt his sanity.",
+            "translation": {
+                "ko": "나는 그의 온전한 정신을 의심하기 시작했다.",
+                "ja": "彼の正気を疑い始めた",
+                "zh": "我开始怀疑他的理智",
+                "fr": "J'ai commencé à douter de sa raison"
+            }
+        },
+        {
+            "word": "sanitary",
+            "part_of_speech": "",
+            "origin": "Latin, sanitas (health)",
+            "meaning": {
+                "ko": "건강",
+                "en": "health",
+                "ja": "衛生的な",
+                "zh": "卫生的",
+                "fr": "hygiénique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sanit-",
+                    "meaning": {
+                        "ko": "'건강'",
+                        "en": "health",
+                        "ja": "健康",
+                        "zh": "健康",
+                        "fr": "santé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'건강을 지키기 위한'이라는 의미에서 '위생의', '위생적인'이라는 뜻입니다.",
+                "en": "Means 'hygienic' or 'health-related' in the context of maintaining health",
+                "ja": "健康を守るための衛生的なという意味です",
+                "zh": "在保持健康的意义上指卫生的",
+                "fr": "Signifie hygiénique ou relatif à la santé pour maintenir la santé"
+            },
+            "example": "The restaurant has poor sanitary conditions.",
+            "translation": {
+                "ko": "그 식당은 위생 상태가 좋지 않다.",
+                "ja": "そのレストランは衛生状態が悪い。",
+                "zh": "那家餐厅的卫生条件很差。",
+                "fr": "Le restaurant a de mauvaises conditions sanitaires."
+            }
+        },
+        {
+            "word": "sanitize",
+            "part_of_speech": "",
+            "origin": "Latin, sanus (healthy)",
+            "meaning": {
+                "ko": "건강한",
+                "en": "healthy, clean",
+                "ja": "衛生的にする",
+                "zh": "使卫生",
+                "fr": "rendre hygiénique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sanit-",
+                    "meaning": {
+                        "ko": "'건강한, 깨끗한'",
+                        "en": "healthy, clean",
+                        "ja": "健康的で清潔な",
+                        "zh": "健康的、清洁的",
+                        "fr": "sain, propre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'병균을 없애 위생적으로 만들다'는 의미에서 '살균 소독하다'라는 뜻입니다.",
+                "en": "Meaning to sterilize and disinfect by eliminating germs to make hygienic",
+                "ja": "病菌を除去して衛生的にすることを意味します",
+                "zh": "通过消除细菌使其卫生的意思",
+                "fr": "Signifie stériliser et désinfecter en éliminant les germes pour rendre hygiénique"
+            },
+            "example": "You should sanitize your hands before eating.",
+            "translation": {
+                "ko": "식사 전에 손을 소독해야 한다.",
+                "ja": "食べる前に手を消毒すべきです",
+                "zh": "吃饭前你应该给手消毒",
+                "fr": "Vous devriez désinfecter vos mains avant de manger"
+            }
+        },
+        {
+            "word": "sanitation",
+            "part_of_speech": "",
+            "origin": "Latin, sanitas (health)",
+            "meaning": {
+                "ko": "건강",
+                "en": "health",
+                "ja": "衛生管理",
+                "zh": "卫生设施",
+                "fr": "assainissement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sanit-",
+                    "meaning": {
+                        "ko": "'건강'",
+                        "en": "health",
+                        "ja": "健康",
+                        "zh": "健康",
+                        "fr": "santé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'공중 보건을 위한 위생 시설 및 관리'를 뜻합니다.",
+                "en": "Sanitation facilities and management for public health",
+                "ja": "公衆衛生のための衛生施設及び管理",
+                "zh": "公共卫生的卫生设施和管理",
+                "fr": "installations et gestion sanitaires pour la santé publique"
+            },
+            "example": "Poor sanitation can lead to the spread of disease.",
+            "translation": {
+                "ko": "열악한 위생 시설은 질병의 확산을 초래할 수 있다.",
+                "ja": "病気の蔓延につながる可能性があります。",
+                "zh": "不良的卫生状况会导致疾病传播。",
+                "fr": "Une mauvaise hygiène peut entraîner la propagation de maladies."
+            }
+        },
+        {
+            "word": "sanitarium",
+            "part_of_speech": "",
+            "origin": "Latin, sanitas (health)",
+            "meaning": {
+                "ko": "건강",
+                "en": "health",
+                "ja": "健康回復施設",
+                "zh": "疗养院",
+                "fr": "sanatorium"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sanit-",
+                    "meaning": {
+                        "ko": "'건강'",
+                        "en": "health",
+                        "ja": "健康",
+                        "zh": "健康",
+                        "fr": "santé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'건강을 회복하기 위한 장소'인 '요양소'를 뜻합니다.",
+                "en": "A facility for recovering health",
+                "ja": "健康を回復するための施設を意味します",
+                "zh": "指用于恢复健康的地方",
+                "fr": "Un établissement pour rétablir la santé"
+            },
+            "example": "He was sent to a sanitarium to recover from his illness.",
+            "translation": {
+                "ko": "그는 병에서 회복하기 위해 요양소로 보내졌다.",
+                "ja": "彼は病気から回復するために療養所に送られました",
+                "zh": "他被送到疗养院以从疾病中恢复",
+                "fr": "Il a été envoyé dans un sanatorium pour se rétablir de sa maladie"
+            }
+        }
+    ]
+}

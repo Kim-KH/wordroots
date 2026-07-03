@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "phren (brain) phrenetic, phrenic, phrenology",
+        "origin": "Greek, phren (mind, diaphragm)",
+        "meaning": {
+            "ko": "마음, 정신",
+            "en": "mind",
+            "ja": "心, 精神",
+            "zh": "心, 精神",
+            "fr": "esprit, mental"
+        }
+    },
+    "words": [
+        {
+            "word": "phrenetic",
+            "part_of_speech": "",
+            "origin": "Greek, phrenitikos (suffering from inflammation of the brain)",
+            "meaning": {
+                "ko": "뇌염을 앓는",
+                "en": "suffering from brain inflammation",
+                "ja": "狂乱的な、熱狂的な",
+                "zh": "疯狂的、狂乱的",
+                "fr": "frénétique, délirant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phren-",
+                    "meaning": {
+                        "ko": "'마음, 정신'",
+                        "en": "mind",
+                        "ja": "心、精神",
+                        "zh": "心、精神",
+                        "fr": "esprit, mental"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신이 나간 듯이 광적인'이라는 의미로, 'frenetic'과 같은 뜻입니다.",
+                "en": "Meaning 'frenzied as if out of one's mind', same as 'frenetic'",
+                "ja": "心がなくなったように狂乱的という意味で、'frenetic'と同じ",
+                "zh": "意为'如同失去理智般疯狂'，与'frenetic'同义",
+                "fr": "Signifiant 'frénétique comme hors de soi', même sens que 'frenetic'"
+            },
+            "example": "The phrenetic pace of modern life can be stressful.",
+            "translation": {
+                "ko": "현대 생활의 정신없는 속도는 스트레스를 줄 수 있다.",
+                "ja": "現代生活の狂乱的なペースはストレスを引き起こすことができる。",
+                "zh": "现代生活的疯狂节奏可能会导致压力。",
+                "fr": "Le rythme frénétique de la vie moderne peut être stressant."
+            }
+        },
+        {
+            "word": "phrenic",
+            "part_of_speech": "",
+            "origin": "Greek, phren (diaphragm, mind)",
+            "meaning": {
+                "ko": "횡격막, 마음",
+                "en": "diaphragm, mind",
+                "ja": "横隔膜、心",
+                "zh": "横膈膜、心",
+                "fr": "diaphragme, esprit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phren-",
+                    "meaning": {
+                        "ko": "'횡격막'",
+                        "en": "diaphragm",
+                        "ja": "横隔膜",
+                        "zh": "横膈膜",
+                        "fr": "diaphragme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'횡격막의'라는 해부학 용어입니다.",
+                "en": "An anatomical term relating to the diaphragm",
+                "ja": "横隔膜に関する解剖学用語です",
+                "zh": "与横膈膜有关的解剖学术语",
+                "fr": "Terme anatomique relatif au diaphragme"
+            },
+            "example": "The phrenic nerve controls the diaphragm.",
+            "translation": {
+                "ko": "횡격 신경은 횡격막을 조절한다.",
+                "ja": "横隔膜神経は横隔膜を支配する。",
+                "zh": "膈神经控制横膈膜。",
+                "fr": "Le nerf phrénique contrôle le diaphragme."
+            }
+        },
+        {
+            "word": "phrenology",
+            "part_of_speech": "",
+            "origin": "Greek, phren (mind) + logos (study)",
+            "meaning": {
+                "ko": "마음 연구",
+                "en": "study of the mind",
+                "ja": "心の研究",
+                "zh": "心灵研究",
+                "fr": "étude de l'esprit"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phreno-",
+                    "meaning": {
+                        "ko": "'마음, 정신'",
+                        "en": "mind",
+                        "ja": "心、精神",
+                        "zh": "心灵、精神",
+                        "fr": "esprit, mental"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "science, étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'두개골의 형태로 사람의 성격과 정신 능력을 알 수 있다'고 주장했던 유사 과학인 '골상학'을 뜻합니다.",
+                "en": "Phrenology is a pseudoscience that claimed to determine a person's character and mental abilities based on skull shape.",
+                "ja": "頭蓋骨の形状から人間の性格と精神能力を判断できると主張した疑似科学です。",
+                "zh": "一种伪科学，声称能根据头骨形状判断人的性格和精神能力。",
+                "fr": "Pseudoscience affirmant que la forme du crâne révèle le caractère et les capacités mentales."
+            },
+            "example": "Phrenology was popular in the 19th century.",
+            "translation": {
+                "ko": "골상학은 19세기에 유행했다.",
+                "ja": "骨相学は19世紀に人気がありました。",
+                "zh": "颅相学在19世纪很受欢迎。",
+                "fr": "La phrénologie était populaire au 19e siècle."
+            }
+        }
+    ]
+}

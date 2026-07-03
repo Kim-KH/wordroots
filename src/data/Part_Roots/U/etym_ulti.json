@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "ulti (beyond) ulterior, ultimate, ultimatum",
+        "origin": "Latin, ultra (beyond)",
+        "meaning": {
+            "ko": "저편에, 넘어서",
+            "en": "beyond",
+            "ja": "向こう側に、超えて",
+            "zh": "超越、那一边",
+            "fr": "au-delà, dépasser"
+        }
+    },
+    "words": [
+        {
+            "word": "ulterior",
+            "part_of_speech": "",
+            "origin": "Latin, ulterior (further, on the other side)",
+            "meaning": {
+                "ko": "더 먼",
+                "en": "further or more distant",
+                "ja": "隠れた",
+                "zh": "隐藏的",
+                "fr": "caché"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ult-",
+                    "meaning": {
+                        "ko": "'저편의'",
+                        "en": "beyond",
+                        "ja": "向こう側の",
+                        "zh": "更远的",
+                        "fr": "au-delà"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'표면 너머에 숨겨져 있는'이라는 의미에서 '이면의', '숨은'이라는 뜻입니다.",
+                "en": "Hidden or concealed beyond the surface",
+                "ja": "表面の奥に隠された意味",
+                "zh": "隐藏在表面之后的含义",
+                "fr": "Sens caché au-delà de la surface"
+            },
+            "example": "He has an ulterior motive for helping her.",
+            "translation": {
+                "ko": "그는 그녀를 돕는 데 숨은 동기가 있다.",
+                "ja": "彼女を手伝うことに隠れた動機がある。",
+                "zh": "他帮助她有隐藏的动机。",
+                "fr": "Il a une arrière-pensée en l'aidant."
+            }
+        },
+        {
+            "word": "ultimate",
+            "part_of_speech": "",
+            "origin": "Latin, ultimus (last, final)",
+            "meaning": {
+                "ko": "마지막의",
+                "en": "final or last",
+                "ja": "最終的な、究極的な",
+                "zh": "最终的、根本的",
+                "fr": "ultime, final"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ult-",
+                    "meaning": {
+                        "ko": "'저편의, 마지막'",
+                        "en": "beyond, last",
+                        "ja": "向こう側の、最後",
+                        "zh": "彼岸的、最后",
+                        "fr": "au-delà, dernier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 과정의 가장 마지막'이라는 의미에서 '궁극적인', '최후의'라는 뜻입니다.",
+                "en": "Meaning 'the very last of all processes', thus 'fundamental' or 'final'",
+                "ja": "すべての過程の最も最後という意味から、'根本的な'、'最終的な'という意味です",
+                "zh": "从'所有过程中最后的'这个意思出发，表示'根本的'、'最终的'之意",
+                "fr": "Du sens 'le tout dernier de tous les processus', d'où 'fondamental', 'final'"
+            },
+            "example": "Our ultimate goal is to achieve world peace.",
+            "translation": {
+                "ko": "우리의 궁극적인 목표는 세계 평화를 달성하는 것이다.",
+                "ja": "私たちの究極の目標は世界平和を達成することです。",
+                "zh": "我们的最终目标是实现世界和平。",
+                "fr": "Notre objectif ultime est d'atteindre la paix mondiale."
+            }
+        },
+        {
+            "word": "ultimatum",
+            "part_of_speech": "",
+            "origin": "Latin, ultimus (last)",
+            "meaning": {
+                "ko": "마지막의",
+                "en": "final or last",
+                "ja": "最後通牒",
+                "zh": "最后通牒",
+                "fr": "ultimatum"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ult-",
+                    "meaning": {
+                        "ko": "'마지막'",
+                        "en": "last",
+                        "ja": "最後の",
+                        "zh": "最后的",
+                        "fr": "dernier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'상대방에게 제시하는 마지막 제안'인 '최후통첩'을 뜻합니다.",
+                "en": "It means a final demand or proposal presented to the other party",
+                "ja": "相手方に提示する最後の提案である最後通牒を意味します",
+                "zh": "指向对方提出的最后提案，即最后通牒",
+                "fr": "Cela signifie une demande ou une proposition finale présentée à l'autre partie"
+            },
+            "example": "They issued an ultimatum to the enemy.",
+            "translation": {
+                "ko": "그들은 적에게 최후통첩을 보냈다.",
+                "ja": "敵に最後通牒を突きつけた",
+                "zh": "他们向敌人发出了最后通牒",
+                "fr": "Ils ont lancé un ultimatum à l'ennemi"
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "rrhea (flow) diarrhea, gonorrhea, menorrhea",
+        "origin": "Greek, rhein (to flow)",
+        "meaning": {
+            "ko": "흐르다",
+            "en": "to flow",
+            "ja": "流れる",
+            "zh": "流动",
+            "fr": "couler"
+        }
+    },
+    "words": [
+        {
+            "word": "diarrhea",
+            "part_of_speech": "",
+            "origin": "Greek, diarrhoia (a flowing through)",
+            "meaning": {
+                "ko": "통과하여 흐름",
+                "en": "flowing through",
+                "ja": "通して流れる",
+                "zh": "通过流动",
+                "fr": "flux à travers"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dia-",
+                    "meaning": {
+                        "ko": "'통하여'",
+                        "en": "through",
+                        "ja": "通して",
+                        "zh": "通过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rrhea",
+                    "meaning": {
+                        "ko": "'흐르다'",
+                        "en": "to flow",
+                        "ja": "流れる",
+                        "zh": "流动",
+                        "fr": "couler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸을 통해 (묽은 변이) 흘러나오는' 증상인 '설사'를 뜻합니다.",
+                "en": "Diarrhea refers to a symptom where loose stool flows out through the body",
+                "ja": "下痢とは、体を通して（緩い便が）流れ出る症状を意味します",
+                "zh": "腹泻是指（稀便）通过身体流出的症状",
+                "fr": "La diarrhée désigne un symptôme où les selles molles s'écoulent à travers le corps"
+            },
+            "example": "Diarrhea can be a symptom of food poisoning.",
+            "translation": {
+                "ko": "설사는 식중독의 증상일 수 있다.",
+                "ja": "下痢",
+                "zh": "腹泻",
+                "fr": "diarrhée"
+            }
+        },
+        {
+            "word": "gonorrhea",
+            "part_of_speech": "",
+            "origin": "Greek, gonorrhoia (morbid flow of semen)",
+            "meaning": {
+                "ko": "정액의 병적인 흐름",
+                "en": "pathological discharge of semen",
+                "ja": "淋病",
+                "zh": "淋病",
+                "fr": "gonorrhée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gono-",
+                    "meaning": {
+                        "ko": "'씨, 정액'",
+                        "en": "seed, semen",
+                        "ja": "種子、精液",
+                        "zh": "种子、精液",
+                        "fr": "graine, sperme"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rrhea",
+                    "meaning": {
+                        "ko": "'흐름'",
+                        "en": "flow",
+                        "ja": "流れ",
+                        "zh": "流动",
+                        "fr": "flux, écoulement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'성기에서 고름이 흘러나오는' 성병인 '임질'을 뜻합니다.",
+                "en": "A sexually transmitted infection characterized by discharge of pus from the genitals",
+                "ja": "性器から膿が流れ出る性感染症",
+                "zh": "生殖器流脓的性传播感染",
+                "fr": "infection sexuellement transmissible caractérisée par un écoulement purulent des organes génitaux"
+            },
+            "example": "Gonorrhea is a sexually transmitted infection.",
+            "translation": {
+                "ko": "임질은 성병이다.",
+                "ja": "淋菌感染症は性感染症です。",
+                "zh": "淋病是性传播感染。",
+                "fr": "La gonorrhée est une infection sexuellement transmissible."
+            }
+        },
+        {
+            "word": "menorrhea",
+            "part_of_speech": "",
+            "origin": "Greek, men (month) + rhein (to flow)",
+            "meaning": {
+                "ko": "달마다 흐름",
+                "en": "monthly flow",
+                "ja": "月経、毎月の流れ",
+                "zh": "月经、每月流血",
+                "fr": "menstruation, flux mensuel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meno-",
+                    "meaning": {
+                        "ko": "'달, 월경'",
+                        "en": "month",
+                        "ja": "月、月経",
+                        "zh": "月、月经",
+                        "fr": "mois, menstruation"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "rrhea",
+                    "meaning": {
+                        "ko": "'흐름'",
+                        "en": "flow",
+                        "ja": "流れ、流出",
+                        "zh": "流、流出",
+                        "fr": "flux, écoulement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'매달 일어나는 흐름'이라는 의미에서 '월경'을 뜻하는 의학 용어입니다.",
+                "en": "Medical term meaning monthly flow that occurs every month, referring to menstruation",
+                "ja": "毎月起こる流れという意味で、月経を指す医学用語です",
+                "zh": "医学术语，意思是每月发生的流血，指月经",
+                "fr": "Terme médical désignant le flux mensuel, se référant à la menstruation"
+            },
+            "example": "Amenorrhea is the absence of menorrhea.",
+            "translation": {
+                "ko": "무월경은 월경이 없는 것이다.",
+                "ja": "月経閉止症は月経の欠如を意味します",
+                "zh": "闭经是指月经的缺失",
+                "fr": "L'aménorrhée est l'absence de menstruation"
+            }
+        }
+    ]
+}

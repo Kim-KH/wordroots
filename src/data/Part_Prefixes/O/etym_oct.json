@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "oct(o) (eight) octave, octagon, octopus, October",
+        "origin": "Greek, okto / Latin, octo (eight)",
+        "meaning": {
+            "ko": "여덟",
+            "en": "eight",
+            "ja": "8つ",
+            "zh": "八",
+            "fr": "huit"
+        }
+    },
+    "words": [
+        {
+            "word": "octave",
+            "part_of_speech": "",
+            "origin": "Latin, octava (eighth)",
+            "meaning": {
+                "ko": "여덟 번째",
+                "en": "eighth",
+                "ja": "8度の音程",
+                "zh": "八度音程",
+                "fr": "intervalle de huit notes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oct-",
+                    "meaning": {
+                        "ko": "'여덟'",
+                        "en": "eight",
+                        "ja": "8",
+                        "zh": "八",
+                        "fr": "huit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여덟 번째 음'이라는 의미에서 음악의 '옥타브(8도 음정)'를 뜻합니다.",
+                "en": "Refers to a musical interval spanning eight notes, derived from the meaning 'eighth sound'",
+                "ja": "8番目の音という意味から、音楽の8度音程を指します",
+                "zh": "源自'第八个音'的含义，指音乐中的八度音程",
+                "fr": "Désigne un intervalle musical de huit degrés, dérivé du sens 'huitième son'"
+            },
+            "example": "She can sing a full octave higher than me.",
+            "translation": {
+                "ko": "그녀는 나보다 한 옥타브 더 높게 노래할 수 있다.",
+                "ja": "彼女は私より1オクターブ高く歌うことができます",
+                "zh": "她能唱得比我高一个八度",
+                "fr": "Elle peut chanter une octave plus haut que moi"
+            }
+        },
+        {
+            "word": "octagon",
+            "part_of_speech": "",
+            "origin": "Greek, oktagonon (eight-angled)",
+            "meaning": {
+                "ko": "여덟 개의 각",
+                "en": "eight angles",
+                "ja": "八つの角",
+                "zh": "八个角",
+                "fr": "huit angles"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "octa-",
+                    "meaning": {
+                        "ko": "'여덟'",
+                        "en": "eight",
+                        "ja": "八",
+                        "zh": "八",
+                        "fr": "huit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gon",
+                    "meaning": {
+                        "ko": "'각'",
+                        "en": "angle",
+                        "ja": "角",
+                        "zh": "角",
+                        "fr": "angle"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여덟 개의 각을 가진 도형'이라는 의미에서 '8각형'을 뜻합니다.",
+                "en": "Refers to an octagon, an 8-sided polygon",
+                "ja": "8つの角を持つ図形、八角形を意味します",
+                "zh": "指有8个角的图形，即八边形",
+                "fr": "Fait référence à un octogone, un polygone à 8 côtés"
+            },
+            "example": "A stop sign has the shape of an octagon.",
+            "translation": {
+                "ko": "정지 표지판은 팔각형 모양이다.",
+                "ja": "一時停止標識は八角形の形をしています。",
+                "zh": "停止标志具有八边形的形状。",
+                "fr": "Un panneau d'arrêt a la forme d'un octogone."
+            }
+        },
+        {
+            "word": "octopus",
+            "part_of_speech": "",
+            "origin": "Greek, oktopous (eight-footed)",
+            "meaning": {
+                "ko": "여덟 개의 발",
+                "en": "eight arms",
+                "ja": "八本の足",
+                "zh": "八条腿",
+                "fr": "huit pieds"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "octo-",
+                    "meaning": {
+                        "ko": "'여덟'",
+                        "en": "eight",
+                        "ja": "八",
+                        "zh": "八",
+                        "fr": "huit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pus (pous)",
+                    "meaning": {
+                        "ko": "'발'",
+                        "en": "foot",
+                        "ja": "足",
+                        "zh": "腿",
+                        "fr": "pied"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여덟 개의 다리를 가진 동물'이라는 의미에서 '문어'를 뜻합니다.",
+                "en": "An animal with eight legs, meaning 'octopus'",
+                "ja": "八本の足を持つ動物を意味する'タコ'",
+                "zh": "具有八条腿的动物，意为'章鱼'",
+                "fr": "Un animal avec huit pattes, signifiant 'poulpe'"
+            },
+            "example": "The octopus can change its color to blend in with its surroundings.",
+            "translation": {
+                "ko": "문어는 주변 환경과 섞이기 위해 색깔을 바꿀 수 있다.",
+                "ja": "タコは周囲に溶け込むために色を変えることができます。",
+                "zh": "章鱼能够改变颜色以融入周围环境。",
+                "fr": "La pieuvre peut changer de couleur pour se fondre dans son environnement."
+            }
+        },
+        {
+            "word": "October",
+            "part_of_speech": "",
+            "origin": "Latin, October",
+            "meaning": {
+                "ko": "여덟 번째 달",
+                "en": "eighth month",
+                "ja": "8番目の月",
+                "zh": "第八个月",
+                "fr": "huitième mois"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "Octo-",
+                    "meaning": {
+                        "ko": "'여덟'",
+                        "en": "eight",
+                        "ja": "8",
+                        "zh": "八",
+                        "fr": "huit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마 달력에서 '여덟 번째 달'이었기 때문에 이 이름이 붙었으나, 현재는 열 번째 달인 '10월'을 의미합니다.",
+                "en": "In the ancient Roman calendar, it was the eighth month, but now it refers to the tenth month (October).",
+                "ja": "古代ローマ暦では8番目の月でしたが、現在は10月を意味します。",
+                "zh": "在古罗马历法中是第八个月,但现在表示第十个月。",
+                "fr": "C'était le huitième mois du calendrier romain antique, mais désigne maintenant le dixième mois."
+            },
+            "example": "His birthday is in October.",
+            "translation": {
+                "ko": "그의 생일은 10월이다.",
+                "ja": "彼の誕生日は10月です。",
+                "zh": "他的生日在十月。",
+                "fr": "Son anniversaire est en octobre."
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "erg(y) (work) energy, ergonomic, synergy",
+        "origin": "Greek, ergon (work)",
+        "meaning": {
+            "ko": "일",
+            "en": "work",
+            "ja": "仕事",
+            "zh": "工作",
+            "fr": "travail"
+        }
+    },
+    "words": [
+        {
+            "word": "energy",
+            "part_of_speech": "",
+            "origin": "Greek, energeia (activity, operation)",
+            "meaning": {
+                "ko": "활동",
+                "en": "activity",
+                "ja": "活動、活力",
+                "zh": "活动、活力",
+                "fr": "activité, vitalité"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "en-",
+                    "meaning": {
+                        "ko": "'안에'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...里面",
+                        "fr": "dans, en"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "erg-",
+                    "meaning": {
+                        "ko": "'일'",
+                        "en": "work",
+                        "ja": "仕事",
+                        "zh": "工作",
+                        "fr": "travail"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에서 일할 수 있는 힘'이라는 의미에서 '에너지', '활기'를 뜻합니다.",
+                "en": "From the meaning 'power to work within', it means 'energy' or 'vitality'.",
+                "ja": "'中で仕事ができる力'という意味から、'エネルギー'や'活力'を意味します。",
+                "zh": "从'在内部工作的力量'的含义，表示'能量'或'活力'。",
+                "fr": "Du sens 'force pour travailler dedans', signifie 'énergie' ou 'vitalité'."
+            },
+            "example": "I don't have enough energy to go for a run.",
+            "translation": {
+                "ko": "나는 달리기를 하러 갈 기운이 없다.",
+                "ja": "走るのに十分なエネルギーがありません。",
+                "zh": "我没有足够的精力去跑步。",
+                "fr": "Je n'ai pas assez d'énergie pour aller courir."
+            }
+        },
+        {
+            "word": "ergonomic",
+            "part_of_speech": "",
+            "origin": "Greek, ergon (work) + nomos (law)",
+            "meaning": {
+                "ko": "일의 법칙",
+                "en": "law of work",
+                "ja": "人間工学的な",
+                "zh": "人体工程学的",
+                "fr": "ergonomique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ergo-",
+                    "meaning": {
+                        "ko": "'일'",
+                        "en": "work",
+                        "ja": "仕事",
+                        "zh": "工作",
+                        "fr": "travail"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "nomic",
+                    "meaning": {
+                        "ko": "'법칙의'",
+                        "en": "of law",
+                        "ja": "法則",
+                        "zh": "规则",
+                        "fr": "loi"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'일을 더 효율적이고 편안하게 할 수 있도록 하는 법칙'에 관한 것이라는 의미에서 '인간 공학적인'이라는 뜻입니다.",
+                "en": "Related to principles that make work more efficient and comfortable by designing for human needs and capabilities",
+                "ja": "人間の必要性と能力に合わせて、仕事をより効率的で快適にするための設計原則に関するもの",
+                "zh": "与根据人类需求和能力来设计，使工作更高效和舒适的原则有关",
+                "fr": "Relatif aux principes de conception qui rendent le travail plus efficace et confortable en tenant compte des besoins humains"
+            },
+            "example": "This office chair has an ergonomic design.",
+            "translation": {
+                "ko": "이 사무용 의자는 인체공학적 디자인을 가지고 있다.",
+                "ja": "このオフィスチェアはエルゴノミック設計です",
+                "zh": "这张办公椅采用人体工程学设计",
+                "fr": "Cette chaise de bureau a un design ergonomique"
+            }
+        },
+        {
+            "word": "synergy",
+            "part_of_speech": "",
+            "origin": "Greek, synergia (cooperation)",
+            "meaning": {
+                "ko": "협력",
+                "en": "cooperation",
+                "ja": "協力",
+                "zh": "协作",
+                "fr": "synergie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "syn-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "erg-",
+                    "meaning": {
+                        "ko": "'일'",
+                        "en": "work",
+                        "ja": "仕事",
+                        "zh": "工作",
+                        "fr": "travail"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 일하여 더 큰 효과를 내는 것'이라는 의미에서 '시너지 효과', '동반 상승 효과'를 뜻합니다.",
+                "en": "When working together to create greater effect",
+                "ja": "一緒に働いてより大きな効果を生み出すことを意味します",
+                "zh": "一起工作产生更大效果的含义",
+                "fr": "Travailler ensemble pour créer un effet plus puissant"
+            },
+            "example": "The synergy between the two companies created a powerful new business.",
+            "translation": {
+                "ko": "두 회사 간의 시너지 효과는 강력한 신규 사업을 창출했다.",
+                "ja": "2つの企業間のシナジーは強力な新しいビジネスを生み出しました。",
+                "zh": "两家公司之间的协作产生了强大的新业务。",
+                "fr": "La synergie entre les deux entreprises a créé une nouvelle activité puissante."
+            }
+        }
+    ]
+}

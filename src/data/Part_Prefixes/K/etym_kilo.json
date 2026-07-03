@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "kilo (thousand) kilocalorie, kilogram, kilometer, kilowatt",
+        "origin": "Greek, khilioi (thousand)",
+        "meaning": {
+            "ko": "천",
+            "en": "thousand",
+            "ja": "千",
+            "zh": "千",
+            "fr": "mille"
+        }
+    },
+    "words": [
+        {
+            "word": "kilocalorie",
+            "part_of_speech": "",
+            "origin": "English, kilo- + calorie",
+            "meaning": {
+                "ko": "천 칼로리",
+                "en": "one thousand calories",
+                "ja": "千カロリー",
+                "zh": "千卡路里",
+                "fr": "kilocalorie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "kilo-",
+                    "meaning": {
+                        "ko": "'천'",
+                        "en": "thousand",
+                        "ja": "千",
+                        "zh": "千",
+                        "fr": "mille"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "calorie",
+                    "meaning": {
+                        "ko": "'칼로리'",
+                        "en": "calorie",
+                        "ja": "カロリー",
+                        "zh": "卡路里",
+                        "fr": "calorie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'1000 칼로리'를 의미하며, 일반적으로 칼로리(Cal)라고 부르는 에너지 단위입니다.",
+                "en": "1000 calories, an energy unit commonly called calorie (Cal)",
+                "ja": "1000カロリーを意味し、一般的にカロリー(Cal)と呼ばれるエネルギー単位です",
+                "zh": "表示1000卡路里，通常称为卡路里(Cal)的能量单位",
+                "fr": "Signifie 1000 calories, unité d'énergie généralement appelée calorie (Cal)"
+            },
+            "example": "An average adult needs about 2,000 to 2,500 kilocalories per day.",
+            "translation": {
+                "ko": "평균적인 성인은 하루에 약 2,000에서 2,500 킬로칼로리가 필요하다.",
+                "ja": "平均的な成人は1日約2000～2500キロカロリーが必要です",
+                "zh": "普通成年人每天需要约2000至2500千卡路里",
+                "fr": "Un adulte moyen a besoin d'environ 2000 à 2500 kilocalories par jour"
+            }
+        },
+        {
+            "word": "kilogram",
+            "part_of_speech": "",
+            "origin": "French, kilogramme",
+            "meaning": {
+                "ko": "천 그램",
+                "en": "one thousand grams",
+                "ja": "千グラム",
+                "zh": "千克",
+                "fr": "kilogramme"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "kilo-",
+                    "meaning": {
+                        "ko": "'천'",
+                        "en": "thousand",
+                        "ja": "千",
+                        "zh": "千",
+                        "fr": "mille"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gram",
+                    "meaning": {
+                        "ko": "'그램'",
+                        "en": "gram",
+                        "ja": "グラム",
+                        "zh": "克",
+                        "fr": "gramme"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'1000 그램'을 나타내는 질량의 기본 단위입니다.",
+                "en": "A basic unit of mass representing 1000 grams.",
+                "ja": "1000グラムを表す質量の基本単位です。",
+                "zh": "表示1000克的质量基本单位。",
+                "fr": "Unité de base de masse égale à 1000 grammes."
+            },
+            "example": "One kilogram is equal to 1,000 grams.",
+            "translation": {
+                "ko": "1킬로그램은 1,000그램과 같다.",
+                "ja": "1キログラムは1000グラムに相当します。",
+                "zh": "一千克等于1000克。",
+                "fr": "Un kilogramme est égal à 1000 grammes."
+            }
+        },
+        {
+            "word": "kilometer",
+            "part_of_speech": "",
+            "origin": "French, kilomètre",
+            "meaning": {
+                "ko": "천 미터",
+                "en": "천 미터",
+                "ja": "千メートル",
+                "zh": "千米",
+                "fr": "mille mètres"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "kilo-",
+                    "meaning": {
+                        "ko": "'천'",
+                        "en": "thousand",
+                        "ja": "千",
+                        "zh": "千",
+                        "fr": "mille"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meter",
+                    "meaning": {
+                        "ko": "'미터'",
+                        "en": "meter",
+                        "ja": "メートル",
+                        "zh": "米",
+                        "fr": "mètre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'1000 미터'를 나타내는 거리의 단위입니다.",
+                "en": "A unit of distance representing 1000 meters",
+                "ja": "1000メートルを表す距離の単位です",
+                "zh": "表示1000米的距离单位",
+                "fr": "Une unité de distance représentant 1000 mètres"
+            },
+            "example": "The distance between the two cities is about 100 kilometers.",
+            "translation": {
+                "ko": "두 도시 사이의 거리는 약 100킬로미터이다.",
+                "ja": "2つの都市間の距離は約100キロメートルです",
+                "zh": "两个城市之间的距离约为100公里",
+                "fr": "La distance entre les deux villes est d'environ 100 kilomètres"
+            }
+        },
+        {
+            "word": "kilowatt",
+            "part_of_speech": "",
+            "origin": "English, kilo- + watt",
+            "meaning": {
+                "ko": "천 와트",
+                "en": "one thousand watts",
+                "ja": "千ワット",
+                "zh": "千瓦",
+                "fr": "kilowatt"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "kilo-",
+                    "meaning": {
+                        "ko": "'천'",
+                        "en": "thousand",
+                        "ja": "千",
+                        "zh": "千",
+                        "fr": "mille"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "watt",
+                    "meaning": {
+                        "ko": "'와트'",
+                        "en": "watt",
+                        "ja": "ワット",
+                        "zh": "瓦",
+                        "fr": "watt"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'1000 와트'를 나타내는 전력의 단위입니다.",
+                "en": "A unit of power representing 1000 watts",
+                "ja": "1000ワットを表す電力の単位です",
+                "zh": "表示1000瓦特的电力单位",
+                "fr": "Unité de puissance représentant 1000 watts"
+            },
+            "example": "This power plant can generate 500,000 kilowatts of electricity.",
+            "translation": {
+                "ko": "이 발전소는 50만 킬로와트의 전기를 생산할 수 있다.",
+                "ja": "この発電所は50万キロワットの電気を発電できます",
+                "zh": "这座发电厂可以产生50万千瓦的电力",
+                "fr": "Cette centrale électrique peut générer 500 000 kilowatts d'électricité"
+            }
+        }
+    ]
+}

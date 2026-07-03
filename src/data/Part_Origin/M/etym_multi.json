@@ -1,0 +1,130 @@
+{
+    "root_info": {
+        "roots": "multi",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "많은",
+            "en": "many",
+            "ja": "多い",
+            "zh": "多",
+            "fr": "nombreux"
+        }
+    },
+    "words": [
+        {
+            "word": "multitude",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "multi",
+                    "meaning": {
+                        "ko": "많은",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多的",
+                        "fr": "nombreux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아주 많은 수' 또는 '다수', '군중'을 뜻합니다.",
+                "en": "A very large number of people or things; a crowd or multitude.",
+                "ja": "非常に多くの数、または多数の人々、群衆を意味します。",
+                "zh": "表示非常多的数量、众多的人或事物、群众。",
+                "fr": "Un très grand nombre de personnes ou de choses ; une foule ou multitude."
+            },
+            "example": "A multitude of people attended the event.",
+            "translation": {
+                "ko": "수많은 사람들이 그 행사에 참석했다.",
+                "ja": "大勢の人々がそのイベントに参加しました。",
+                "zh": "众多的人参加了该活动。",
+                "fr": "Une multitude de personnes ont assisté à l'événement."
+            }
+        },
+        {
+            "word": "multiply",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "multi",
+                    "meaning": {
+                        "ko": "많은",
+                        "en": "many",
+                        "ja": "多い",
+                        "zh": "多的",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ply",
+                    "meaning": {
+                        "ko": "겹",
+                        "en": "fold",
+                        "ja": "重ね",
+                        "zh": "层",
+                        "fr": "couche"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'여러 겹으로 만들다'는 의미에서 '곱하다', '증가시키다'는 뜻이 되었습니다.",
+                "en": "From the meaning 'to make in multiple layers' came to mean 'to multiply' or 'to increase.'",
+                "ja": "「複数の層を作る」という意味から「掛ける」「増やす」という意味になりました。",
+                "zh": "从「分层制作」的含义演变为「相乘」或「增加」的含义。",
+                "fr": "Du sens « créer en plusieurs couches » a émergé le sens « multiplier » ou « augmenter »."
+            },
+            "example": "If you multiply 5 by 3, you get 15.",
+            "translation": {
+                "ko": "5에 3을 곱하면 15가 된다.",
+                "ja": "5に3を掛けると、15になります。",
+                "zh": "如果你用3乘以5，你会得到15。",
+                "fr": "Si vous multipliez 5 par 3, vous obtenez 15."
+            }
+        },
+        {
+            "word": "multipurpose",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "multi",
+                    "meaning": {
+                        "ko": "많은",
+                        "en": "many",
+                        "ja": "多くの",
+                        "zh": "许多",
+                        "fr": "nombreux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "purpose",
+                    "meaning": {
+                        "ko": "목적",
+                        "en": "purpose",
+                        "ja": "目的",
+                        "zh": "目的",
+                        "fr": "objectif"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'많은 목적을 가진' 즉, '다목적의'라는 뜻입니다.",
+                "en": "Having many purposes; meaning multi-purpose",
+                "ja": "多くの目的を持つこと、つまり多目的という意味です",
+                "zh": "具有许多目的，即多用途的意思",
+                "fr": "Ayant de nombreux objectifs, c'est-à-dire polyvalent"
+            },
+            "example": "This is a multipurpose tool.",
+            "translation": {
+                "ko": "이것은 다목적 도구이다.",
+                "ja": "多目的",
+                "zh": "多用途",
+                "fr": "polyvalent"
+            }
+        }
+    ]
+}

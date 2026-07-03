@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "spasm (draw, rend) spastic, spasmodic, spasticity",
+        "origin": "Greek, spasmos (a convulsion)",
+        "meaning": {
+            "ko": "경련",
+            "en": "a convulsion",
+            "ja": "けいれん",
+            "zh": "痉挛",
+            "fr": "convulsion"
+        }
+    },
+    "words": [
+        {
+            "word": "spastic",
+            "part_of_speech": "",
+            "origin": "Greek, spastikos (drawing in)",
+            "meaning": {
+                "ko": "끌어당기는",
+                "en": "pulling or drawing",
+                "ja": "引き引く",
+                "zh": "拉扯的",
+                "fr": "tirant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spas-",
+                    "meaning": {
+                        "ko": "'경련'",
+                        "en": "convulsion",
+                        "ja": "けいれん",
+                        "zh": "痉挛",
+                        "fr": "convulsion"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'근육 경련과 관련된'이라는 의미에서 '경련성의'라는 뜻입니다.",
+                "en": "Related to muscle convulsions, meaning 'characterized by convulsions'",
+                "ja": "筋肉けいれんに関連して、けいれん性のという意味です",
+                "zh": "与肌肉痉挛有关，意为痉挛性的",
+                "fr": "Relatif aux convulsions musculaires, signifiant spasmodique"
+            },
+            "example": "He has spastic cerebral palsy.",
+            "translation": {
+                "ko": "그는 경련성 뇌성마비를 앓고 있다.",
+                "ja": "彼は痙性脳性麻痺があります",
+                "zh": "他患有痉挛型脑瘫",
+                "fr": "Il a une paralysie cérébrale spastique"
+            }
+        },
+        {
+            "word": "spasmodic",
+            "part_of_speech": "",
+            "origin": "Greek, spasmodes (convulsive)",
+            "meaning": {
+                "ko": "경련성의",
+                "en": "of or relating to spasms",
+                "ja": "痙攣性の",
+                "zh": "痉挛性的",
+                "fr": "spasmodique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spasm-",
+                    "meaning": {
+                        "ko": "'경련'",
+                        "en": "convulsion",
+                        "ja": "痙攣",
+                        "zh": "痉挛",
+                        "fr": "convulsion"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'경련처럼 갑자기, 불규칙적으로 일어나는'이라는 뜻입니다.",
+                "en": "Occurring suddenly and irregularly like a convulsion",
+                "ja": "痙攣のように突然、不規則に起こる",
+                "zh": "像痉挛一样突然、不规则地发生",
+                "fr": "Se produit soudainement et irrégulièrement comme une convulsion"
+            },
+            "example": "He has spasmodic fits of coughing.",
+            "translation": {
+                "ko": "그는 발작적인 기침을 한다.",
+                "ja": "彼は痙攣的な咳の発作がある。",
+                "zh": "他有痉挛性的咳嗽发作。",
+                "fr": "Il a des crises de toux spasmodiques."
+            }
+        },
+        {
+            "word": "spasticity",
+            "part_of_speech": "",
+            "origin": "Greek, spastikos",
+            "meaning": {
+                "ko": "끌어당기는",
+                "en": "pulling or drawing tight",
+                "ja": "筋肉の硬直",
+                "zh": "肌肉僵硬",
+                "fr": "raideur musculaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spastic-",
+                    "meaning": {
+                        "ko": "'경련성의'",
+                        "en": "relating to muscle spasms",
+                        "ja": "痙攣性の",
+                        "zh": "痉挛性的",
+                        "fr": "spastique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'근육이 비정상적으로 뻣뻣하고 경직되는' 상태인 '경직'을 뜻합니다.",
+                "en": "A condition where muscles become abnormally stiff and rigid",
+                "ja": "筋肉が異常に硬くなる状態",
+                "zh": "肌肉异常僵硬的状态",
+                "fr": "État de rigidité musculaire anormale"
+            },
+            "example": "Spasticity is a common symptom of cerebral palsy.",
+            "translation": {
+                "ko": "경직은 뇌성마비의 흔한 증상이다.",
+                "ja": "脳性麻痺の一般的な症状は筋肉の硬直です。",
+                "zh": "肌肉僵硬是脑性瘫痪的常见症状。",
+                "fr": "La spasticité est un symptôme courant de la paralysie cérébrale."
+            }
+        }
+    ]
+}

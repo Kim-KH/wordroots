@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "gen(y) (kind, tribe) genealogy, genotype, homogeny, progeny",
+        "origin": "Greek, genos (race, kind)",
+        "meaning": {
+            "ko": "종족, 종류",
+            "en": "race, kind",
+            "ja": "人種、種類",
+            "zh": "种族、种类",
+            "fr": "race, espèce"
+        }
+    },
+    "words": [
+        {
+            "word": "genealogy",
+            "part_of_speech": "",
+            "origin": "Greek, genealogia (the tracing of a family)",
+            "meaning": {
+                "ko": "가족의 추적",
+                "en": "tracing of family",
+                "ja": "系図学、家系図",
+                "zh": "家系学、族谱",
+                "fr": "généalogie, arbre généalogique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "genea- (genos)",
+                    "meaning": {
+                        "ko": "'가족, 종족'",
+                        "en": "family, race",
+                        "ja": "家族、民族",
+                        "zh": "家族、种族",
+                        "fr": "famille, race"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문, 연구'",
+                        "en": "study of",
+                        "ja": "学問、研究",
+                        "zh": "学问、研究",
+                        "fr": "étude de, science de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가족의 계보를 연구하는 학문'이라는 의미에서 '계보학', '족보'를 뜻합니다.",
+                "en": "The study of family lineage and ancestry",
+                "ja": "家族の系統を研究する学問",
+                "zh": "研究家族系谱的学科",
+                "fr": "Science étudiant l'origine et l'histoire familiales"
+            },
+            "example": "He has traced his genealogy back to the 16th century.",
+            "translation": {
+                "ko": "그는 그의 족보를 16세기까지 거슬러 올라갔다.",
+                "ja": "彼は系図を16世紀まで遡った。",
+                "zh": "他将家系追溯到了16世纪。",
+                "fr": "Il a retracé sa généalogie jusqu'au 16e siècle."
+            }
+        },
+        {
+            "word": "genotype",
+            "part_of_speech": "",
+            "origin": "German, Genotypus",
+            "meaning": {
+                "ko": "유전자형",
+                "en": "genetic makeup of an organism",
+                "ja": "遺伝子型",
+                "zh": "基因型",
+                "fr": "génotype"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "geno- (genos)",
+                    "meaning": {
+                        "ko": "'유전자, 종류'",
+                        "en": "gene, kind",
+                        "ja": "遺伝子、種類",
+                        "zh": "基因、种类",
+                        "fr": "gène, sorte"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "type",
+                    "meaning": {
+                        "ko": "'유형'",
+                        "en": "type",
+                        "ja": "型",
+                        "zh": "类型",
+                        "fr": "type"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'한 개체의 유전적 구성'을 의미하는 '유전자형'을 뜻합니다.",
+                "en": "Refers to the genetic composition of an individual organism",
+                "ja": "個体の遺伝的構成を意味する",
+                "zh": "指个体的遗传构成",
+                "fr": "Désigne la composition génétique d'un organisme"
+            },
+            "example": "The genotype determines the potential characteristics of an organism.",
+            "translation": {
+                "ko": "유전자형은 유기체의 잠재적 특성을 결정한다.",
+                "ja": "遺伝子型は生物の潜在的な特性を決定する。",
+                "zh": "基因型决定生物的潜在特征。",
+                "fr": "Le génotype détermine les caractéristiques potentielles d'un organisme."
+            }
+        },
+        {
+            "word": "homogeny",
+            "part_of_speech": "",
+            "origin": "Greek, homogenes (of the same kind)",
+            "meaning": {
+                "ko": "같은 종류의",
+                "en": "of the same kind",
+                "ja": "同じ種類の",
+                "zh": "同类的",
+                "fr": "du même type"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "homo-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "same",
+                        "ja": "同じ",
+                        "zh": "相同的",
+                        "fr": "même"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "geny",
+                    "meaning": {
+                        "ko": "'종류, 기원'",
+                        "en": "kind, origin",
+                        "ja": "種類、起源",
+                        "zh": "种类、来源",
+                        "fr": "type, origine"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'기원이나 구조가 같은 상태'를 의미하여 '동일 기원', '상동'을 뜻합니다.",
+                "en": "Refers to a state where origin or structure is the same, meaning 'common origin' or 'homology'",
+                "ja": "起源や構造が同じ状態を意味し、同一起源、相同性を表す",
+                "zh": "指起源或结构相同的状态，表示同一起源、相同性",
+                "fr": "État d'une origine ou structure identique, signifiant origine commune ou homologie"
+            },
+            "example": "The two species show a remarkable homogeny in their bone structure.",
+            "translation": {
+                "ko": "그 두 종은 뼈 구조에서 놀라운 상동성을 보여준다.",
+                "ja": "2つの種は骨構造に顕著な同一性を示しています。",
+                "zh": "这两个物种在骨骼结构中显示出显著的同类性。",
+                "fr": "Les deux espèces montrent une homogénéité remarquable dans leur structure osseuse."
+            }
+        },
+        {
+            "word": "progeny",
+            "part_of_speech": "",
+            "origin": "Latin, pro- (forth) + gignere (to beget)",
+            "meaning": {
+                "ko": "앞으로 낳다",
+                "en": "to give birth in the future",
+                "ja": "子孫、後継者",
+                "zh": "后代、子孙",
+                "fr": "descendance, progéniture"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞으로'",
+                        "en": "forward, forth",
+                        "ja": "前へ、進んで",
+                        "zh": "向前、前进",
+                        "fr": "en avant, vers l'avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gen-",
+                    "meaning": {
+                        "ko": "'낳다'",
+                        "en": "to beget",
+                        "ja": "生む、産む",
+                        "zh": "生育、产生",
+                        "fr": "engendrer, procréer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 이어지는 자손'이라는 의미에서 '자손'을 뜻합니다.",
+                "en": "Means 'descendants' from the sense of 'offspring that continues forward'",
+                "ja": "先へ続く子孫という意味から子孫を意味します",
+                "zh": "从向前延续的后代之意引申为子孙的意思",
+                "fr": "Signifie 'descendants' au sens de 'progéniture qui continue'."
+            },
+            "example": "The king had no male progeny.",
+            "translation": {
+                "ko": "왕에게는 남자 후손이 없었다.",
+                "ja": "王には男の子孫がいなかった。",
+                "zh": "国王没有男性后代。",
+                "fr": "Le roi n'avait pas de progéniture mâle."
+            }
+        }
+    ]
+}

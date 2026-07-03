@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ful (full of) colorful, grateful, hopeful, respectful",
+        "origin": "Old English, -full (full of)",
+        "meaning": {
+            "ko": "…으로 가득 찬",
+            "en": "full of",
+            "ja": "…でいっぱいの",
+            "zh": "…充满的",
+            "fr": "…plein de"
+        }
+    },
+    "words": [
+        {
+            "word": "colorful",
+            "part_of_speech": "",
+            "origin": "English, color + -ful",
+            "meaning": {
+                "ko": "색으로 가득 찬",
+                "en": "full of color",
+                "ja": "色彩に満ちた",
+                "zh": "色彩丰富的",
+                "fr": "riche en couleurs"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "color",
+                    "meaning": {
+                        "ko": "'색'",
+                        "en": "color",
+                        "ja": "色",
+                        "zh": "颜色",
+                        "fr": "couleur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ful",
+                    "meaning": {
+                        "ko": "'~으로 가득 찬'",
+                        "en": "full of",
+                        "ja": "満ちた",
+                        "zh": "充满",
+                        "fr": "rempli de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다양한 색으로 가득 찬'이라는 의미에서 '다채로운'이라는 뜻입니다.",
+                "en": "Means full of various colors; vibrant and diverse in color",
+                "ja": "様々な色に満ちている意味で、鮮やかで多様な色彩という意味です",
+                "zh": "表示充满各种各样的颜色，色彩鲜艳多样",
+                "fr": "Signifie rempli de diverses couleurs; vibrant et diversifié en couleur"
+            },
+            "example": "She wore a colorful dress.",
+            "translation": {
+                "ko": "그녀는 화려한 드레스를 입고 있었다.",
+                "ja": "彼女はカラフルなドレスを着ていました。",
+                "zh": "她穿着一件色彩丰富的连衣裙。",
+                "fr": "Elle portait une robe colorée."
+            }
+        },
+        {
+            "word": "grateful",
+            "part_of_speech": "",
+            "origin": "Latin, gratus (pleasing, thankful)",
+            "meaning": {
+                "ko": "기분 좋은, 감사하는",
+                "en": "feeling good, thankful",
+                "ja": "感謝する、うれしい",
+                "zh": "感谢的、高兴的",
+                "fr": "reconnaissant, heureux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "grate-",
+                    "meaning": {
+                        "ko": "'감사'",
+                        "en": "thanks",
+                        "ja": "感謝",
+                        "zh": "感谢",
+                        "fr": "gratitude"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ful",
+                    "meaning": {
+                        "ko": "'~으로 가득 찬'",
+                        "en": "full of, filled with",
+                        "ja": "~で満ちた",
+                        "zh": "充满~",
+                        "fr": "rempli de~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'감사하는 마음으로 가득 찬'이라는 의미입니다.",
+                "en": "Full of feelings of gratitude and appreciation",
+                "ja": "感謝の気持ちで満ちた意味です",
+                "zh": "充满感谢之心的意思",
+                "fr": "Cela signifie rempli de gratitude et d'appréciation"
+            },
+            "example": "I am grateful for your help.",
+            "translation": {
+                "ko": "당신의 도움에 감사합니다.",
+                "ja": "私はあなたの助けに感謝しています",
+                "zh": "我为你的帮助感到感谢",
+                "fr": "Je suis reconnaissant pour votre aide"
+            }
+        },
+        {
+            "word": "hopeful",
+            "part_of_speech": "",
+            "origin": "English, hope + -ful",
+            "meaning": {
+                "ko": "희망으로 가득 찬",
+                "en": "full of hope",
+                "ja": "希望に満ちた",
+                "zh": "充满希望的",
+                "fr": "plein d'espoir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hope",
+                    "meaning": {
+                        "ko": "'희망'",
+                        "en": "hope",
+                        "ja": "希望",
+                        "zh": "希望",
+                        "fr": "espoir"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ful",
+                    "meaning": {
+                        "ko": "'~으로 가득 찬'",
+                        "en": "full of",
+                        "ja": "~で満ちた",
+                        "zh": "充满~的",
+                        "fr": "rempli de~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'희망으로 가득 찬'이라는 뜻입니다.",
+                "en": "Means filled with hope or optimism",
+                "ja": "希望や楽観主義に満ちているという意味です",
+                "zh": "表示充满希望或乐观的意思",
+                "fr": "Signifie rempli d'espoir ou d'optimisme"
+            },
+            "example": "He is hopeful about the future.",
+            "translation": {
+                "ko": "그는 미래에 대해 희망적이다.",
+                "ja": "彼は未来について希望に満ちている。",
+                "zh": "他对未来充满希望。",
+                "fr": "Il est plein d'espoir quant à l'avenir."
+            }
+        },
+        {
+            "word": "respectful",
+            "part_of_speech": "",
+            "origin": "English, respect + -ful",
+            "meaning": {
+                "ko": "존경으로 가득 찬",
+                "en": "full of respect",
+                "ja": "敬意に満ちた",
+                "zh": "充满敬意的",
+                "fr": "plein de respect"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "respect",
+                    "meaning": {
+                        "ko": "'존경'",
+                        "en": "respect",
+                        "ja": "敬意",
+                        "zh": "敬意",
+                        "fr": "respect"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ful",
+                    "meaning": {
+                        "ko": "'~으로 가득 찬'",
+                        "en": "full of",
+                        "ja": "~で満ちた",
+                        "zh": "~充满",
+                        "fr": "~plein de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'존경심으로 가득 찬'이라는 의미에서 '공손한'이라는 뜻입니다.",
+                "en": "Means 'polite' from the sense of 'full of respect'",
+                "ja": "敬意に満ちた意味で礼儀正しいという意味です",
+                "zh": "从充满敬意的意义上表示礼貌的意思",
+                "fr": "Signifie 'poli' au sens de 'plein de respect'"
+            },
+            "example": "You should be respectful to your elders.",
+            "translation": {
+                "ko": "당신은 어른들에게 공손해야 한다.",
+                "ja": "あなたは年上の人に敬意を払うべきです",
+                "zh": "你应该尊重你的长辈",
+                "fr": "Vous devriez être respectueux envers vos aînés"
+            }
+        }
+    ]
+}

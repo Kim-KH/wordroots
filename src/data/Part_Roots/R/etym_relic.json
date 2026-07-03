@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "relic (leave, neglect) relic, derelict, dereliction",
+        "origin": "Latin, relinquere (to leave behind)",
+        "meaning": {
+            "ko": "뒤에 남기다",
+            "en": "to leave behind",
+            "ja": "後に残す",
+            "zh": "留在后面",
+            "fr": "laisser derrière"
+        }
+    },
+    "words": [
+        {
+            "word": "relic",
+            "part_of_speech": "",
+            "origin": "Latin, reliquiae (remains)",
+            "meaning": {
+                "ko": "남은 것들",
+                "en": "remaining things",
+                "ja": "遺された物",
+                "zh": "遗留的东西",
+                "fr": "choses laissées"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤에'",
+                        "en": "behind",
+                        "ja": "後ろに",
+                        "zh": "在后面",
+                        "fr": "derrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lic- (linquere)",
+                    "meaning": {
+                        "ko": "'남기다'",
+                        "en": "to leave",
+                        "ja": "残す",
+                        "zh": "留下",
+                        "fr": "laisser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'과거에 남겨진' 물건이라는 의미에서 '유물', '유적'을 뜻합니다.",
+                "en": "Objects left behind from the past, meaning archaeological artifacts or historic remains",
+                "ja": "過去に残された物という意味で、遺物や遺跡を指します",
+                "zh": "过去遗留下来的物品，指考古文物或历史遗迹",
+                "fr": "Objets laissés du passé, signifiant artefacts archéologiques ou vestiges historiques"
+            },
+            "example": "The museum has a collection of ancient relics.",
+            "translation": {
+                "ko": "그 박물관은 고대 유물들을 소장하고 있다.",
+                "ja": "博物館は古代遺物の収集を持っています",
+                "zh": "博物馆拥有古代文物的收藏",
+                "fr": "Le musée possède une collection de reliques anciennes"
+            }
+        },
+        {
+            "word": "derelict",
+            "part_of_speech": "",
+            "origin": "Latin, derelinquere (to abandon)",
+            "meaning": {
+                "ko": "버리다",
+                "en": "to abandon or forsake",
+                "ja": "放棄された",
+                "zh": "被遗弃的",
+                "fr": "abandonné"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "'완전히'",
+                        "en": "completely",
+                        "ja": "完全に",
+                        "zh": "完全地",
+                        "fr": "complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "relict",
+                    "meaning": {
+                        "ko": "'남겨진'",
+                        "en": "left behind or abandoned",
+                        "ja": "捨てられた",
+                        "zh": "被留下的",
+                        "fr": "laissé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 버려져 돌보지 않는' 상태라는 의미에서 '버려진', '유기된'이라는 뜻입니다.",
+                "en": "Means abandoned or neglected in a completely forsaken state",
+                "ja": "完全に放棄され世話されない状態を意味する",
+                "zh": "表示完全被遗弃且无人照管的状态",
+                "fr": "Signifie abandonné ou négligé dans un état complètement délaissé"
+            },
+            "example": "The old factory is now derelict.",
+            "translation": {
+                "ko": "그 낡은 공장은 이제 버려졌다.",
+                "ja": "その古い工場は今放棄されている。",
+                "zh": "那座旧工厂现在被遗弃了。",
+                "fr": "L'ancienne usine est maintenant abandonnée."
+            }
+        },
+        {
+            "word": "dereliction",
+            "part_of_speech": "",
+            "origin": "Latin, derelictio (an abandoning)",
+            "meaning": {
+                "ko": "버림",
+                "en": "abandonment",
+                "ja": "職務放棄、怠慢",
+                "zh": "玩忽职守、失职",
+                "fr": "abandon du devoir, négligence"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "derelict-",
+                    "meaning": {
+                        "ko": "'버려진'",
+                        "en": "abandoned",
+                        "ja": "捨てられた",
+                        "zh": "被遗弃的",
+                        "fr": "abandonné"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'의무를 버리는 행위'라는 의미에서 '직무유기', '태만'을 뜻합니다.",
+                "en": "Means duty abandonment or negligence in the context of neglecting one's obligations",
+                "ja": "義務を放棄する行為という意味で、職務放棄、怠慢を意味します",
+                "zh": "在放弃义务的背景下，意思是玩忽职守、失职",
+                "fr": "Signifie l'abandon des devoirs ou la négligence dans le contexte du non-respect des obligations"
+            },
+            "example": "He was found guilty of dereliction of duty.",
+            "translation": {
+                "ko": "그는 직무유기로 유죄 판결을 받았다.",
+                "ja": "彼は職務放棄の罪で有罪判決を受けた。",
+                "zh": "他因玩忽职守罪被判有罪。",
+                "fr": "Il a été reconnu coupable de déreliction de devoir."
+            }
+        }
+    ]
+}

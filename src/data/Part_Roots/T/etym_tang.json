@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "tang (touch) intangible, tangible, tangent",
+        "origin": "Latin, tangere (to touch)",
+        "meaning": {
+            "ko": "만지다",
+            "en": "to touch",
+            "ja": "触れる",
+            "zh": "接触",
+            "fr": "toucher"
+        }
+    },
+    "words": [
+        {
+            "word": "intangible",
+            "part_of_speech": "",
+            "origin": "Latin, in- (not) + tangibilis (touchable)",
+            "meaning": {
+                "ko": "만질 수 없는",
+                "en": "cannot be touched",
+                "ja": "触れられない",
+                "zh": "无形的",
+                "fr": "intangible"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "〜ではない",
+                        "zh": "不是",
+                        "fr": "non"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tangible",
+                    "meaning": {
+                        "ko": "'만질 수 있는'",
+                        "en": "able to be touched",
+                        "ja": "触れられる",
+                        "zh": "可以触摸",
+                        "fr": "tangible"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 만질 수 없는'이라는 의미에서 '무형의'라는 뜻입니다.",
+                "en": "Cannot be touched by hand, meaning intangible or non-physical",
+                "ja": "手で触れられない意味で、無形のという意味です",
+                "zh": "无法用手触摸的意思，表示无形的",
+                "fr": "Ne peut pas être touché à la main, signifiant immatériel"
+            },
+            "example": "Goodwill is an intangible asset.",
+            "translation": {
+                "ko": "영업권은 무형 자산이다.",
+                "ja": "親切心は無形資産です",
+                "zh": "商誉是无形资产",
+                "fr": "La bonne volonté est un actif immatériel"
+            }
+        },
+        {
+            "word": "tangible",
+            "part_of_speech": "",
+            "origin": "Latin, tangibilis (touchable)",
+            "meaning": {
+                "ko": "만질 수 있는",
+                "en": "able to be touched",
+                "ja": "触れることができる",
+                "zh": "可以触摸的",
+                "fr": "tangible"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tang-",
+                    "meaning": {
+                        "ko": "'만지다'",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "触摸",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'손으로 만질 수 있는'이라는 의미에서 '유형의', '명백한'이라는 뜻입니다.",
+                "en": "From the meaning of 'able to touch with hands', it means 'concrete' or 'clear'.",
+                "ja": "手で触れることができるという意味から、『有形の』『明白な』という意味になります。",
+                "zh": "从'用手能触摸到'的意思引申为'有形的''明确的'意思。",
+                "fr": "Du sens de 'pouvoir toucher avec les mains', il signifie 'concret' ou 'clair'."
+            },
+            "example": "We need tangible evidence to prove his guilt.",
+            "translation": {
+                "ko": "우리는 그의 유죄를 입증할 명백한 증거가 필요하다.",
+                "ja": "我々は彼の罪を証明するための具体的な証拠が必要です。",
+                "zh": "我们需要确凿的证据来证明他的罪行。",
+                "fr": "Nous avons besoin de preuves concrètes pour prouver sa culpabilité."
+            }
+        },
+        {
+            "word": "tangent",
+            "part_of_speech": "",
+            "origin": "Latin, tangens (touching)",
+            "meaning": {
+                "ko": "만지는",
+                "en": "touching",
+                "ja": "接する、触れる",
+                "zh": "接触、相切",
+                "fr": "tangent, qui touche"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tang-",
+                    "meaning": {
+                        "ko": "'만지다'",
+                        "en": "to touch",
+                        "ja": "触れる",
+                        "zh": "触碰",
+                        "fr": "toucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'곡선에 한 점에서 만나는(touching) 직선'인 '접선'을 뜻합니다. 비유적으로는 '주제에서 벗어난'이라는 의미로도 쓰입니다.",
+                "en": "A straight line that touches a curve at one point (接線/tangent line). Figuratively means 'deviating from the topic'.",
+                "ja": "曲線のある一点に接する(touching)直線を意味する'接線'です。比喩的には'話題から外れた'という意味でも使われます。",
+                "zh": "指与曲线在某一点相切(touching)的直线'切线'。比喻上也用来表示'偏离主题'的意思。",
+                "fr": "Une ligne droite qui touche une courbe en un point (tangente). Au sens figuré, signifie 's'écarter du sujet'."
+            },
+            "example": "The road follows a tangent to the coastline.",
+            "translation": {
+                "ko": "그 도로는 해안선에 접해서 이어진다.",
+                "ja": "道路は海岸線に沿って接している。",
+                "zh": "道路沿着海岸线的切线延伸。",
+                "fr": "La route suit une tangente à la ligne côtière."
+            }
+        }
+    ]
+}

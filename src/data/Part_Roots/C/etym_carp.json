@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "carp (wrist) carpus, carpal-tunnel syndrome",
+        "origin": "Greek, karpos (wrist)",
+        "meaning": {
+            "ko": "손목",
+            "en": "wrist",
+            "ja": "手首",
+            "zh": "手腕",
+            "fr": "poignet"
+        }
+    },
+    "words": [
+        {
+            "word": "carpus",
+            "part_of_speech": "",
+            "origin": "Greek, karpos (wrist)",
+            "meaning": {
+                "ko": "손목",
+                "en": "wrist",
+                "ja": "手首",
+                "zh": "手腕",
+                "fr": "poignet"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carp (karpos)",
+                    "meaning": {
+                        "ko": "'손목'",
+                        "en": "wrist",
+                        "ja": "手首",
+                        "zh": "手腕",
+                        "fr": "poignet"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "손목을 구성하는 뼈 그룹인 '손목뼈' 또는 '수근골'을 의미하는 해부학 용어입니다.",
+                "en": "The anatomical term for the group of bones forming the wrist.",
+                "ja": "手首を構成する骨群「手根骨」を意味する解剖学用語。",
+                "zh": "构成手腕的骨骼群「腕骨」的解剖学术语。",
+                "fr": "Le terme anatomique pour le groupe d'os formant le poignet."
+            },
+            "example": "The carpus consists of eight small bones.",
+            "translation": {
+                "ko": "손목뼈는 8개의 작은 뼈로 구성되어 있다.",
+                "ja": "手根骨の骨折は手の動きに影響することがある。",
+                "zh": "腕骨骨折会影响手部运动。",
+                "fr": "Une fracture du carpe peut affecter le mouvement de la main."
+            }
+        },
+        {
+            "word": "carpal-tunnel syndrome",
+            "part_of_speech": "",
+            "origin": "Greek, karpos (wrist) + English, tunnel + syndrome",
+            "meaning": {
+                "ko": "손목 터널 증상",
+                "en": "wrist tunnel condition",
+                "ja": "手根管症候群",
+                "zh": "腕管综合征",
+                "fr": "syndrome du canal carpien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carp (karpos)",
+                    "meaning": {
+                        "ko": "'손목'",
+                        "en": "wrist",
+                        "ja": "手首",
+                        "zh": "手腕",
+                        "fr": "poignet"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "손목(carpal)의 신경 통로(tunnel)가 좁아져 신경이 눌리면서 발생하는 '증후군(syndrome)'이라는 의미로, '수근관 증후군'이라고도 합니다.",
+                "en": "A condition where the nerve in the wrist (carpal) tunnel is compressed, causing pain and numbness.",
+                "ja": "手首(carpal)の神経通路(tunnel)が狭くなり神経が圧迫される「症候群(syndrome)」から「手根管症候群」。",
+                "zh": "手腕(carpal)神经通道(tunnel)变窄导致神经受压的「综合症(syndrome)」，即「腕管综合症」。",
+                "fr": "Une condition où le nerf dans le tunnel du poignet (carpal) est comprimé, causant douleur et engourdissement."
+            },
+            "example": "Repetitive hand movements can lead to carpal-tunnel syndrome.",
+            "translation": {
+                "ko": "반복적인 손 움직임은 수근관 증후군으로 이어질 수 있다.",
+                "ja": "毎日何時間もタイピングして彼女は手根管症候群になった。",
+                "zh": "每天长时间打字使她患上了腕管综合症。",
+                "fr": "Elle a développé le syndrome du canal carpien à force de taper des heures chaque jour."
+            }
+        }
+    ]
+}

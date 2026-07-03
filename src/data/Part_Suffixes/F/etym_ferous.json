@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ferous (bearing) coniferous, crystalliferous, pestiferous, soporiferous",
+        "origin": "Latin, -fer (bearing)",
+        "meaning": {
+            "ko": "…을 지닌",
+            "en": "bearing",
+            "ja": "帯びている",
+            "zh": "具有的",
+            "fr": "portant"
+        }
+    },
+    "words": [
+        {
+            "word": "coniferous",
+            "part_of_speech": "",
+            "origin": "Latin, conus (cone) + ferre (to bear)",
+            "meaning": {
+                "ko": "솔방울을 지닌",
+                "en": "bearing pine cones",
+                "ja": "松ぼっくりを持つ",
+                "zh": "具有球果的",
+                "fr": "porteur de cônes"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "coni-",
+                    "meaning": {
+                        "ko": "'솔방울'",
+                        "en": "cone",
+                        "ja": "松ぼっくり",
+                        "zh": "球果",
+                        "fr": "cône"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ferous",
+                    "meaning": {
+                        "ko": "'지닌'",
+                        "en": "bearing",
+                        "ja": "持つ",
+                        "zh": "具有",
+                        "fr": "porteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'솔방울을 지닌'이라는 의미에서 '침엽수의'라는 뜻입니다.",
+                "en": "From the meaning 'bearing cones', referring to coniferous trees (cone-bearing trees)",
+                "ja": "松ぼっくりを持つという意味から、針葉樹（球果を持つ木）を指します",
+                "zh": "从具有球果的意思引申，指针叶树（具有球果的树木）",
+                "fr": "Du sens 'porteur de cônes', désignant les conifères (arbres porteurs de cônes)"
+            },
+            "example": "The coniferous forest is home to many animals.",
+            "translation": {
+                "ko": "그 침엽수림은 많은 동물들의 서식지이다.",
+                "ja": "その針葉樹林は多くの動物の家です。",
+                "zh": "那片针叶林是许多动物的家园。",
+                "fr": "La forêt de conifères abrite de nombreux animaux."
+            }
+        },
+        {
+            "word": "crystalliferous",
+            "part_of_speech": "",
+            "origin": "Greek, krystallos (crystal) + Latin, ferre (to bear)",
+            "meaning": {
+                "ko": "결정을 지닌",
+                "en": "bearing crystals",
+                "ja": "結晶を含む",
+                "zh": "含有晶体的",
+                "fr": "porteur de cristaux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crystalli-",
+                    "meaning": {
+                        "ko": "'결정'",
+                        "en": "crystal",
+                        "ja": "結晶",
+                        "zh": "晶体",
+                        "fr": "cristal"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ferous",
+                    "meaning": {
+                        "ko": "'지닌'",
+                        "en": "bearing",
+                        "ja": "を持つ",
+                        "zh": "携带的",
+                        "fr": "porteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'결정을 포함하는'이라는 뜻입니다.",
+                "en": "Meaning: containing crystals",
+                "ja": "意味：結晶を含むこと",
+                "zh": "含义：包含晶体的",
+                "fr": "Signification : contenant des cristaux"
+            },
+            "example": "The rock was identified as crystalliferous quartz.",
+            "translation": {
+                "ko": "그 암석은 결정질 석영으로 확인되었다.",
+                "ja": "その岩は結晶質石英として同定された。",
+                "zh": "那块岩石被鉴定为含晶体的石英。",
+                "fr": "Le rocher a été identifié comme quartz cristallifère."
+            }
+        },
+        {
+            "word": "pestiferous",
+            "part_of_speech": "",
+            "origin": "Latin, pestis (a plague) + ferre (to bear)",
+            "meaning": {
+                "ko": "역병을 옮기는",
+                "en": "carrying plague or pestilence",
+                "ja": "疫病を広げる",
+                "zh": "传播瘟疫的",
+                "fr": "qui propage la peste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pesti-",
+                    "meaning": {
+                        "ko": "'역병, 해충'",
+                        "en": "pest",
+                        "ja": "害虫、疫病",
+                        "zh": "害虫、瘟疫",
+                        "fr": "peste, nuisible"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ferous",
+                    "meaning": {
+                        "ko": "'옮기는'",
+                        "en": "bearing",
+                        "ja": "運ぶ、広げる",
+                        "zh": "传播、携带",
+                        "fr": "porteur, vecteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'병을 옮기는' 또는 '성가신'이라는 뜻입니다.",
+                "en": "Means disease-spreading or annoying",
+                "ja": "病気を広げるまたは迷惑という意味です",
+                "zh": "意思是传播疾病或令人讨厌的",
+                "fr": "Signifie qui propage les maladies ou gênant"
+            },
+            "example": "The pestiferous mosquitoes were a constant annoyance.",
+            "translation": {
+                "ko": "그 성가신 모기들은 끊임없는 골칫거리였다.",
+                "ja": "その疫病を広げる蚊は絶えず迷惑だった。",
+                "zh": "那些传播瘟疫的蚊子不断令人烦恼。",
+                "fr": "Les moustiques pestifères étaient une nuisance constante."
+            }
+        },
+        {
+            "word": "soporiferous",
+            "part_of_speech": "",
+            "origin": "Latin, sopor (deep sleep) + ferre (to bring)",
+            "meaning": {
+                "ko": "잠을 가져오는",
+                "en": "bringing sleep",
+                "ja": "眠りをもたらす",
+                "zh": "引起睡眠的",
+                "fr": "qui provoque le sommeil"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sopori-",
+                    "meaning": {
+                        "ko": "'잠'",
+                        "en": "sleep",
+                        "ja": "眠り",
+                        "zh": "睡眠",
+                        "fr": "sommeil"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ferous",
+                    "meaning": {
+                        "ko": "'가져오는'",
+                        "en": "bearing",
+                        "ja": "もたらす",
+                        "zh": "带来",
+                        "fr": "apporter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잠을 가져오는', 즉 '최면성의'라는 뜻입니다.",
+                "en": "Meaning sleep-inducing or having a hypnotic effect",
+                "ja": "つまり催眠性のという意味です",
+                "zh": "即具有催眠性的意思",
+                "fr": "C'est-à-dire ayant un effet hypnotique"
+            },
+            "example": "The medicine had a soporiferous effect.",
+            "translation": {
+                "ko": "그 약은 졸음을 유발하는 효과가 있었다.",
+                "ja": "その薬は催眠作用を持っていた",
+                "zh": "这种药物具有催眠效果",
+                "fr": "Le médicament avait un effet soporifique"
+            }
+        }
+    ]
+}

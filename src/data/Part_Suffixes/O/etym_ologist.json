@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ologist (one who studies) anthropologist, biologist, entomologist, psychologist",
+        "origin": "Greek, logos + -istes",
+        "meaning": {
+            "ko": "…을 연구하는 사람",
+            "en": "one who studies",
+            "ja": "研究する人",
+            "zh": "研究的人",
+            "fr": "celui qui étudie"
+        }
+    },
+    "words": [
+        {
+            "word": "anthropologist",
+            "part_of_speech": "",
+            "origin": "Greek, anthropos (man) + logos (study)",
+            "meaning": {
+                "ko": "인간 연구가",
+                "en": "human researcher",
+                "ja": "人間研究者",
+                "zh": "人类研究者",
+                "fr": "chercheur en anthropologie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anthropo-",
+                    "meaning": {
+                        "ko": "'인간'",
+                        "en": "human",
+                        "ja": "人間",
+                        "zh": "人类",
+                        "fr": "humain"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자'",
+                        "en": "scholar",
+                        "ja": "学者",
+                        "zh": "学者",
+                        "fr": "savant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인간을 연구하는 학자'인 '인류학자'를 뜻합니다.",
+                "en": "Refers to a scholar who studies humans, meaning anthropologist",
+                "ja": "人間を研究する学者である人類学者を意味します",
+                "zh": "指研究人类的学者，即人类学家",
+                "fr": "Désigne un savant qui étudie les humains, c'est-à-dire anthropologue"
+            },
+            "example": "The anthropologist studied the culture of a remote tribe.",
+            "translation": {
+                "ko": "그 인류학자는 외딴 부족의 문화를 연구했다.",
+                "ja": "人類学者はある遠い部族の文化を研究した。",
+                "zh": "人类学家研究了一个偏远部落的文化。",
+                "fr": "L'anthropologue a étudié la culture d'une tribu isolée."
+            }
+        },
+        {
+            "word": "biologist",
+            "part_of_speech": "",
+            "origin": "Greek, bios (life) + logos (study)",
+            "meaning": {
+                "ko": "생명 연구가",
+                "en": "person who studies life",
+                "ja": "生命を研究する学者",
+                "zh": "研究生命的学者",
+                "fr": "scientifique qui étudie la vie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio-",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자'",
+                        "en": "scholar",
+                        "ja": "学者",
+                        "zh": "学者",
+                        "fr": "savant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'생물을 연구하는 학자'인 '생물학자'를 뜻합니다.",
+                "en": "A biologist is a scientist who studies living organisms.",
+                "ja": "生物を研究する学者である生物学者を意味します",
+                "zh": "指研究生物的科学家生物学家",
+                "fr": "Un biologiste est un savant qui étudie les organismes vivants"
+            },
+            "example": "A biologist is a scientist who studies living organisms.",
+            "translation": {
+                "ko": "생물학자는 살아있는 유기체를 연구하는 과학자이다.",
+                "ja": "生物学者",
+                "zh": "生物学家",
+                "fr": "biologiste"
+            }
+        },
+        {
+            "word": "entomologist",
+            "part_of_speech": "",
+            "origin": "Greek, entomon (insect) + logos (study)",
+            "meaning": {
+                "ko": "곤충 연구가",
+                "en": "insect researcher",
+                "ja": "昆虫研究家",
+                "zh": "昆虫研究者",
+                "fr": "entomologiste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "entomo-",
+                    "meaning": {
+                        "ko": "'곤충'",
+                        "en": "insect",
+                        "ja": "昆虫",
+                        "zh": "昆虫",
+                        "fr": "insecte"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자'",
+                        "en": "scholar",
+                        "ja": "学者",
+                        "zh": "学者",
+                        "fr": "savant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'곤충을 연구하는 학자'인 '곤충학자'를 뜻합니다.",
+                "en": "A scholar who studies insects, called entomologist",
+                "ja": "昆虫を研究する学者である昆虫学者を意味します",
+                "zh": "研究昆虫的学者，称为昆虫学家",
+                "fr": "Un savant qui étudie les insectes, appelé entomologiste"
+            },
+            "example": "The entomologist identified the new species of beetle.",
+            "translation": {
+                "ko": "그 곤충학자는 그 새로운 종의 딱정벌레를 확인했다.",
+                "ja": "昆虫学者がその甲虫の新種を同定した。",
+                "zh": "昆虫学家鉴定了那个甲虫的新物种。",
+                "fr": "L'entomologiste a identifié la nouvelle espèce de coléoptère."
+            }
+        },
+        {
+            "word": "psychologist",
+            "part_of_speech": "",
+            "origin": "Greek, psykhe (mind) + logos (study)",
+            "meaning": {
+                "ko": "정신 연구가",
+                "en": "one who studies the mind",
+                "ja": "心理学者",
+                "zh": "心理学家",
+                "fr": "psychologue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psycho-",
+                    "meaning": {
+                        "ko": "'정신'",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자'",
+                        "en": "scholar",
+                        "ja": "学者",
+                        "zh": "学者",
+                        "fr": "savant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인간의 정신과 행동을 연구하는 학자'인 '심리학자'를 뜻합니다.",
+                "en": "A scholar who studies human mind and behavior",
+                "ja": "人間の心と行動を研究する学者",
+                "zh": "研究人类心理和行为的学者",
+                "fr": "Savant qui étudie l'esprit et le comportement humain"
+            },
+            "example": "She is a clinical psychologist.",
+            "translation": {
+                "ko": "그녀는 임상 심리학자이다.",
+                "ja": "彼女は臨床心理学者です。",
+                "zh": "她是临床心理学家。",
+                "fr": "Elle est psychologue clinicienne."
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "en (cause to be) harden, lighten, spoken, stolen",
+        "origin": "Old English, -nian (verb suffix)",
+        "meaning": {
+            "ko": "…하게 만들다",
+            "en": "cause to be",
+            "ja": "〜させる",
+            "zh": "使…",
+            "fr": "faire être"
+        }
+    },
+    "words": [
+        {
+            "word": "harden",
+            "part_of_speech": "",
+            "origin": "English, hard + -en",
+            "meaning": {
+                "ko": "단단하게 만들다",
+                "en": "to make solid or firm",
+                "ja": "硬くする",
+                "zh": "使变硬",
+                "fr": "durcir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hard",
+                    "meaning": {
+                        "ko": "'단단한'",
+                        "en": "solid or firm",
+                        "ja": "硬い",
+                        "zh": "硬的",
+                        "fr": "dur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-en",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make or cause to be",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단단하게 만들다'는 뜻입니다.",
+                "en": "It means to make hard",
+                "ja": "硬くすることを意味します",
+                "zh": "意思是使变硬",
+                "fr": "Cela signifie rendre dur"
+            },
+            "example": "The clay will harden in the sun.",
+            "translation": {
+                "ko": "그 점토는 햇볕에 굳을 것이다.",
+                "ja": "粘土は日光で硬くなります",
+                "zh": "粘土会在阳光下变硬",
+                "fr": "L'argile durcira au soleil"
+            }
+        },
+        {
+            "word": "lighten",
+            "part_of_speech": "",
+            "origin": "English, light + -en",
+            "meaning": {
+                "ko": "가볍게/밝게 만들다",
+                "en": "to make light or bright",
+                "ja": "軽くする、明るくする",
+                "zh": "使变轻、使变亮",
+                "fr": "alléger, éclaircir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "light",
+                    "meaning": {
+                        "ko": "'가벼운, 밝은'",
+                        "en": "light, bright",
+                        "ja": "軽い、明るい",
+                        "zh": "轻的、亮的",
+                        "fr": "léger, lumineux"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-en",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make, to cause to become",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더 가볍게 만들다' 또는 '더 밝게 만들다'는 뜻입니다.",
+                "en": "means to make lighter or make brighter",
+                "ja": "より軽くするまたはより明るくすることを意味します",
+                "zh": "意思是使其更轻或更亮",
+                "fr": "signifie rendre plus léger ou plus lumineux"
+            },
+            "example": "You should lighten your suitcase, it's too heavy.",
+            "translation": {
+                "ko": "가방이 너무 무거우니, 짐을 좀 줄여야 한다.",
+                "ja": "あなたのスーツケースを軽くするべきです、それは重すぎます。",
+                "zh": "你应该减轻你的手提箱，它太重了。",
+                "fr": "Vous devriez alléger votre valise, elle est trop lourde."
+            }
+        },
+        {
+            "word": "spoken",
+            "part_of_speech": "",
+            "origin": "Old English, specan (to speak)",
+            "meaning": {
+                "ko": "말하다",
+                "en": "to speak",
+                "ja": "話された",
+                "zh": "说出的",
+                "fr": "parlé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spoke (speak의 과거형)",
+                    "meaning": {
+                        "ko": "",
+                        "en": "",
+                        "ja": "話す",
+                        "zh": "说话",
+                        "fr": "parler"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-n",
+                    "meaning": {
+                        "ko": "과거분사형",
+                        "en": "",
+                        "ja": "過去分詞形",
+                        "zh": "过去分词形",
+                        "fr": "forme participe passé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'말해진'이라는 의미의 'speak'의 과거분사입니다.",
+                "en": "Past participle of 'speak' meaning 'was said'",
+                "ja": "'話された'という意味の'speak'の過去分詞です",
+                "zh": "'speak'的过去分词，意为'被说出'",
+                "fr": "Participe passé de 'speak' signifiant 'a été dit'"
+            },
+            "example": "The words were spoken in a low voice.",
+            "translation": {
+                "ko": "그 말들은 낮은 목소리로 말해졌다.",
+                "ja": "その言葉は低い声で話された。",
+                "zh": "这些话用低沉的声音说出来了。",
+                "fr": "Les paroles ont été prononcées d'une voix basse."
+            }
+        },
+        {
+            "word": "stolen",
+            "part_of_speech": "",
+            "origin": "Old English, stelan (to steal)",
+            "meaning": {
+                "ko": "훔치다",
+                "en": "to steal",
+                "ja": "盗まれた",
+                "zh": "被盗的",
+                "fr": "volé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stole (steal의 과거형)",
+                    "meaning": {
+                        "ko": "",
+                        "en": "",
+                        "ja": "盗む",
+                        "zh": "偷窃",
+                        "fr": "voler"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-n",
+                    "meaning": {
+                        "ko": "과거분사형",
+                        "en": "",
+                        "ja": "過去分詞形",
+                        "zh": "过去分词形式",
+                        "fr": "forme participe passé"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'훔쳐진'이라는 의미의 'steal'의 과거분사입니다.",
+                "en": "Past participle of 'steal' meaning 'taken by theft'",
+                "ja": "'盗む'の過去分詞で'盗まれた'という意味です",
+                "zh": "'偷窃'的过去分词,表示'被盗的'",
+                "fr": "Participe passé de 'voler' signifiant 'pris par vol'"
+            },
+            "example": "My wallet has been stolen.",
+            "translation": {
+                "ko": "내 지갑이 도난당했다.",
+                "ja": "私の財布は盗まれました",
+                "zh": "我的钱包被偷了",
+                "fr": "Mon portefeuille a été volé"
+            }
+        }
+    ]
+}

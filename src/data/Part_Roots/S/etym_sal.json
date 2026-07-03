@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "sal (salt) saline, salary",
+        "origin": "Latin, sal (salt)",
+        "meaning": {
+            "ko": "소금",
+            "en": "salt",
+            "ja": "塩",
+            "zh": "盐",
+            "fr": "sel"
+        }
+    },
+    "words": [
+        {
+            "word": "saline",
+            "part_of_speech": "",
+            "origin": "Latin, sal (salt)",
+            "meaning": {
+                "ko": "소금",
+                "en": "salt",
+                "ja": "塩を含む",
+                "zh": "含盐的",
+                "fr": "salin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sal-",
+                    "meaning": {
+                        "ko": "'소금'",
+                        "en": "salt",
+                        "ja": "塩",
+                        "zh": "盐",
+                        "fr": "sel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'소금을 포함한' 또는 '짠'이라는 뜻입니다.",
+                "en": "Means containing salt or salty",
+                "ja": "塩を含む、または塩辛いという意味です",
+                "zh": "含盐或咸的意思",
+                "fr": "Signifie contenant du sel ou salé"
+            },
+            "example": "Saline solution is a mixture of salt and water.",
+            "translation": {
+                "ko": "식염수는 소금과 물의 혼합물이다.",
+                "ja": "生理食塩水は塩と水の混合物です",
+                "zh": "盐水溶液是盐和水的混合物",
+                "fr": "La solution saline est un mélange de sel et d'eau"
+            }
+        },
+        {
+            "word": "salary",
+            "part_of_speech": "",
+            "origin": "Latin, salarium (a soldier's allowance for buying salt)",
+            "meaning": {
+                "ko": "소금 값",
+                "en": "salt price",
+                "ja": "塩の値段",
+                "zh": "盐的价格",
+                "fr": "prix du sel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sal-",
+                    "meaning": {
+                        "ko": "'소금'",
+                        "en": "salt",
+                        "ja": "塩",
+                        "zh": "盐",
+                        "fr": "sel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 로마에서 '병사들에게 소금 값으로 주던 돈'에서 유래하여 '급여', '월급'을 뜻하게 되었습니다.",
+                "en": "In ancient Rome, it originated from 'money given to soldiers as payment for salt', and came to mean 'salary' or 'monthly wage'.",
+                "ja": "古代ローマで、兵士たちに塩の代金として与えられたお金に由来し、給与や月給を意味するようになりました。",
+                "zh": "源于古罗马时期给士兵作为盐价报酬的金钱，后来演变为薪水、月薪的含义。",
+                "fr": "Originaire de l'Antiquité romaine, où il désignait l'argent versé aux soldats comme paiement du sel, devenant ainsi synonyme de salaire ou traitement mensuel."
+            },
+            "example": "He has a high salary.",
+            "translation": {
+                "ko": "그는 월급이 많다.",
+                "ja": "彼は高い給与をもらっています。",
+                "zh": "他的薪水很高。",
+                "fr": "Il a un salaire élevé."
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "lumen (light) bioluminescent, illumine, luminary, luminous",
+        "origin": "Latin, lumen (light)",
+        "meaning": {
+            "ko": "빛",
+            "en": "light",
+            "ja": "光",
+            "zh": "光",
+            "fr": "lumière"
+        }
+    },
+    "words": [
+        {
+            "word": "bioluminescent",
+            "part_of_speech": "",
+            "origin": "Greek, bios (life) + Latin, lumen (light)",
+            "meaning": {
+                "ko": "생명 빛",
+                "en": "living light",
+                "ja": "生物が発光する",
+                "zh": "生物发光的",
+                "fr": "bioluminescent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio-",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "luminescent",
+                    "meaning": {
+                        "ko": "'빛을 내는'",
+                        "en": "emitting light",
+                        "ja": "光を放つ",
+                        "zh": "发出光",
+                        "fr": "émettant de la lumière"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'살아있는 생물이 스스로 빛을 내는'이라는 의미에서 '생물 발광의'라는 뜻입니다.",
+                "en": "Living organisms that emit light by themselves",
+                "ja": "生きた生物が自ら光を放つことを意味する",
+                "zh": "活生物自身发出光的意思",
+                "fr": "Les organismes vivants émettent eux-mêmes la lumière"
+            },
+            "example": "Fireflies are bioluminescent insects.",
+            "translation": {
+                "ko": "반딧불이는 생물 발광 곤충이다.",
+                "ja": "ホタルは生物発光性の昆虫です",
+                "zh": "萤火虫是生物发光的昆虫",
+                "fr": "Les lucioles sont des insectes bioluminescents"
+            }
+        },
+        {
+            "word": "illumine",
+            "part_of_speech": "",
+            "origin": "Latin, illuminare (to light up)",
+            "meaning": {
+                "ko": "밝히다",
+                "en": "to brighten or make bright",
+                "ja": "明るくする",
+                "zh": "照亮",
+                "fr": "illuminer"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "il- (in-)",
+                    "meaning": {
+                        "ko": "'안을, 위를'",
+                        "en": "in, upon",
+                        "ja": "中に、上に",
+                        "zh": "在...中、在...上",
+                        "fr": "dans, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lumin-",
+                    "meaning": {
+                        "ko": "'빛'",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'환하게 비추다', '밝게 하다'라는 뜻입니다.",
+                "en": "To shine brightly, to make bright",
+                "ja": "明るく照らす、明るくする",
+                "zh": "明亮地照射、使明亮",
+                "fr": "briller vivement, rendre lumineux"
+            },
+            "example": "The rising sun began to illumine the landscape.",
+            "translation": {
+                "ko": "떠오르는 해가 풍경을 비추기 시작했다.",
+                "ja": "昇る太陽は風景を照らし始めた。",
+                "zh": "升起的太阳开始照亮风景。",
+                "fr": "Le soleil levant commença à illuminer le paysage."
+            }
+        },
+        {
+            "word": "luminary",
+            "part_of_speech": "",
+            "origin": "Latin, luminare (a light)",
+            "meaning": {
+                "ko": "빛",
+                "en": "light",
+                "ja": "光を放つ人",
+                "zh": "杰出人物",
+                "fr": "personnage illustre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lumin-",
+                    "meaning": {
+                        "ko": "'빛'",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumiere"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛을 내는 존재'라는 의미에서 '발광체(해, 달)' 또는 특정 분야의 '선각자', '권위자'를 뜻합니다.",
+                "en": "Originally refers to celestial bodies that emit light such as the sun and moon, but also means a pioneer or authority in a specific field.",
+                "ja": "光を発する天体(太陽、月)を指していましたが、特定分野の先駆者や権威者を意味します。",
+                "zh": "原指发光的天体(太阳、月亮)，也指特定领域的先驱者或权威人士。",
+                "fr": "S'applique aux corps celestes lumineux comme le soleil et la lune, mais designe aussi un pionnier ou une autorite dans un domaine specifique."
+            },
+            "example": "He is a luminary in the field of physics.",
+            "translation": {
+                "ko": "그는 물리학 분야의 권위자이다.",
+                "ja": "彼は物理学分野の傑出した人物です。",
+                "zh": "他是物理学领域的杰出人物。",
+                "fr": "Il est un personnage illustre dans le domaine de la physique."
+            }
+        },
+        {
+            "word": "luminous",
+            "part_of_speech": "",
+            "origin": "Latin, luminosus (shining)",
+            "meaning": {
+                "ko": "빛나는",
+                "en": "shining or glowing brightly",
+                "ja": "光り輝く",
+                "zh": "发光的",
+                "fr": "lumineux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lumin-",
+                    "meaning": {
+                        "ko": "'빛'",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'스스로 빛을 내는', '아주 밝은'이라는 뜻입니다.",
+                "en": "Means emitting light on its own or very bright",
+                "ja": "自ら光を放つ、非常に明るいという意味です",
+                "zh": "自身发光、非常明亮的意思",
+                "fr": "Signifie émettre sa propre lumière ou très brillant"
+            },
+            "example": "The watch has luminous hands.",
+            "translation": {
+                "ko": "그 시계는 야광 바늘을 가지고 있다.",
+                "ja": "その腕時計は蛍光針を持っています",
+                "zh": "这只手表有发光的指针",
+                "fr": "La montre a des aiguilles lumineuses"
+            }
+        }
+    ]
+}

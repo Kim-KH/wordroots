@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "pharyng (throat) pharyngeal, pharynx",
+        "origin": "Greek, pharynx (throat)",
+        "meaning": {
+            "ko": "목구멍",
+            "en": "throat",
+            "ja": "喉",
+            "zh": "喉咙",
+            "fr": "gorge"
+        }
+    },
+    "words": [
+        {
+            "word": "pharyngeal",
+            "part_of_speech": "",
+            "origin": "Greek, pharynx",
+            "meaning": {
+                "ko": "목구멍",
+                "en": "throat",
+                "ja": "咽頭の",
+                "zh": "咽喉的",
+                "fr": "pharyngé"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pharyng-",
+                    "meaning": {
+                        "ko": "'인두'",
+                        "en": "pharynx",
+                        "ja": "咽頭",
+                        "zh": "咽喉",
+                        "fr": "pharynx"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인두의'라는 뜻입니다.",
+                "en": "Means relating to the pharynx",
+                "ja": "咽頭に関する意味です",
+                "zh": "表示与咽喉有关的意思",
+                "fr": "Signifie relatif au pharynx"
+            },
+            "example": "The pharyngeal tonsils are also known as the adenoids.",
+            "translation": {
+                "ko": "인두 편도는 아데노이드로도 알려져 있다.",
+                "ja": "咽頭扁桃腺はアデノイドとしても知られています",
+                "zh": "咽喉扁桃体也称为腺样体",
+                "fr": "Les amygdales pharyngées sont aussi connues sous le nom d'adénoïdes"
+            }
+        },
+        {
+            "word": "pharynx",
+            "part_of_speech": "",
+            "origin": "Greek, pharynx",
+            "meaning": {
+                "ko": "목구멍",
+                "en": "throat or pharynx",
+                "ja": "咽頭",
+                "zh": "咽喉",
+                "fr": "pharynx"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pharyng-",
+                    "meaning": {
+                        "ko": "'인두'",
+                        "en": "pharynx or throat",
+                        "ja": "咽頭",
+                        "zh": "咽喉",
+                        "fr": "pharynx"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "코와 입 뒤쪽, 식도와 후두 앞쪽에 위치한 '인두'를 뜻합니다.",
+                "en": "The pharynx refers to the throat located behind the nose and mouth, in front of the esophagus and larynx.",
+                "ja": "鼻と口の後ろ、食道と喉頭の前に位置する咽頭を意味します。",
+                "zh": "指位于鼻腔和口腔后方、食道和喉部前方的咽喉部分。",
+                "fr": "Le pharynx désigne la gorge située à l'arrière du nez et de la bouche, en avant de l'œsophage et du larynx."
+            },
+            "example": "The pharynx is part of both the respiratory and digestive systems.",
+            "translation": {
+                "ko": "인두는 호흡계와 소화계 모두의 일부이다.",
+                "ja": "咽頭は呼吸器系と消化器系の両方の一部です。",
+                "zh": "咽喉是呼吸系统和消化系统的一部分。",
+                "fr": "Le pharynx fait partie des systèmes respiratoire et digestif."
+            }
+        }
+    ]
+}

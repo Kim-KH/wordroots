@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "acet (acid, vinegar) acetic acid, acetyline",
+        "origin": "Latin, acetum (vinegar)",
+        "meaning": {
+            "ko": "식초",
+            "en": "vinegar",
+            "ja": "酢",
+            "zh": "醋",
+            "fr": "vinaigre"
+        }
+    },
+    "words": [
+        {
+            "word": "acetic acid",
+            "part_of_speech": "",
+            "origin": "Latin, acetum (vinegar)",
+            "meaning": {
+                "ko": "식초",
+                "en": "vinegar",
+                "ja": "酢酸",
+                "zh": "醋酸",
+                "fr": "acide acétique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "acet (acetum)",
+                    "meaning": {
+                        "ko": "'식초, 신'",
+                        "en": "vinegar, sour",
+                        "ja": "酢、酸っぱい",
+                        "zh": "醋、酸",
+                        "fr": "vinaigre, acide"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ic",
+                    "meaning": {
+                        "ko": "'~의, ~과 관련된'",
+                        "en": "of, related to",
+                        "ja": "〜の、〜に関連した",
+                        "zh": "的、相关的",
+                        "fr": "de, relatif à"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "식초(acet)와 관련된(ic) 산(acid)이라는 의미에서, 식초의 주성분인 '아세트산' 또는 '초산'을 의미하게 되었습니다.",
+                "en": "From vinegar (acet) and related to (ic) acid, meaning the main component of vinegar, 'acetic acid' or 'acetous acid'.",
+                "ja": "酢(acet)と関連した(ic)酸(acid)という意味から、酢の主成分である'酢酸'を意味するようになりました。",
+                "zh": "从醋(acet)和相关(ic)的酸(acid)的含义出发，成为醋的主要成分'醋酸'的含义。",
+                "fr": "Du vinaigre (acet) et lié à (ic) acide, signifiant le composant principal du vinaigre, l'acide acétique."
+            },
+            "example": "Kitchen vinegar is 5 percent acetic acid.",
+            "translation": {
+                "ko": "주방용 식초는 5%의 아세트산으로 이루어져 있습니다.",
+                "ja": "台所の酢は酢酸5パーセント含まれています。",
+                "zh": "厨房醋含有百分之五的醋酸。",
+                "fr": "Le vinaigre de cuisine contient 5 pour cent d'acide acétique."
+            }
+        },
+        {
+            "word": "acetylene",
+            "part_of_speech": "",
+            "origin": "French, acétylène (from acetyl + -ene)",
+            "meaning": {
+                "ko": "화학 접미사",
+                "en": "acetyl + ene",
+                "ja": "アセチレン",
+                "zh": "乙炔",
+                "fr": "acétylène"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "acetyl (acetic+yl)",
+                    "meaning": {
+                        "ko": "'아세틸'",
+                        "en": "acyl group",
+                        "ja": "アセチル基",
+                        "zh": "乙酰基",
+                        "fr": "groupe acétyle"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ene",
+                    "meaning": {
+                        "ko": "'탄화수소'",
+                        "en": "hydrocarbon",
+                        "ja": "炭化水素",
+                        "zh": "烃",
+                        "fr": "hydrocarbure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "1860년 프랑스 화학자가 '아세틸(acetyl)'이라는 화학 작용기에 탄화수소를 의미하는 접미사 '-ene'을 붙여 만든 이름으로, 용접용 가스 등으로 사용되는 '아세틸렌'을 지칭합니다.",
+                "en": "In 1860, a French chemist created the name by combining 'acetyl', a chemical functional group, with the suffix '-ene' meaning hydrocarbon, referring to acetylene used as welding gas and other applications.",
+                "ja": "1860年、フランス化学者が化学官能基『アセチル』に炭化水素を意味する接尾辞『-ene』を付けて命名し、溶接用ガスなどに使用される『アセチレン』を指します。",
+                "zh": "1860年，法国化学家将表示化学官能基的『乙酰』与表示烃的后缀『-ene』结合，创造了用于焊接气体等的『乙炔』。",
+                "fr": "En 1860, un chimiste français a créé le nom en combinant 'acétyle', un groupe fonctionnel chimique, avec le suffixe '-ène' signifiant hydrocarbure, désignant l'acétylène utilisé comme gaz de soudage."
+            },
+            "example": "The acetylene gas lighting in the station has been replaced by electric lighting.",
+            "translation": {
+                "ko": "역의 아세틸렌 가스등은 전기 조명으로 교체되었습니다.",
+                "ja": "駅のアセチレンガス照明は電灯に置き換えられています。",
+                "zh": "车站的乙炔气照明已被电灯所取代。",
+                "fr": "L'éclairage au gaz acétylène à la gare a été remplacé par l'éclairage électrique."
+            }
+        }
+    ]
+}

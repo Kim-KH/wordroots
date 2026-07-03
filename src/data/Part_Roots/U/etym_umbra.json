@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "umbra (shadow) penumbra, umbrage, umbrella",
+        "origin": "Latin, umbra (a shadow)",
+        "meaning": {
+            "ko": "그림자",
+            "en": "a shadow",
+            "ja": "影",
+            "zh": "影子",
+            "fr": "ombre"
+        }
+    },
+    "words": [
+        {
+            "word": "penumbra",
+            "part_of_speech": "",
+            "origin": "Latin, paene (almost) + umbra (shadow)",
+            "meaning": {
+                "ko": "거의 그림자",
+                "en": "almost shadow",
+                "ja": "ほぼ影",
+                "zh": "几乎影子",
+                "fr": "presque ombre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pen-",
+                    "meaning": {
+                        "ko": "'거의'",
+                        "en": "almost",
+                        "ja": "ほぼ",
+                        "zh": "几乎",
+                        "fr": "presque"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "umbra",
+                    "meaning": {
+                        "ko": "'그림자'",
+                        "en": "shadow",
+                        "ja": "影",
+                        "zh": "影子",
+                        "fr": "ombre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전한 그림자는 아닌 주변의 희미한 그림자'인 '반영'을 뜻합니다.",
+                "en": "A partial shadow in the surrounding area, not a completely dark shadow",
+                "ja": "完全な影ではなく周辺の薄暗い影である半影を意味します",
+                "zh": "指不完全的影子，而是周围模糊的半影",
+                "fr": "Désigne une ombre partielle autour de l'ombre complète, une demi-ombre"
+            },
+            "example": "During a solar eclipse, the penumbra is the area where the sun is only partially obscured.",
+            "translation": {
+                "ko": "일식 동안, 반영은 태양이 부분적으로만 가려지는 지역이다.",
+                "ja": "日食の間、半影は太陽が部分的にしか隠れない領域です",
+                "zh": "在日食期间，半影是太阳只被部分遮挡的区域",
+                "fr": "Pendant une éclipse solaire, la pénombre est la zone où le soleil n'est que partiellement obscurci"
+            }
+        },
+        {
+            "word": "umbrage",
+            "part_of_speech": "",
+            "origin": "Latin, umbraticum (that which is in shadow)",
+            "meaning": {
+                "ko": "그림자 속에 있는 것",
+                "en": "something in shadow",
+                "ja": "不快感、怒り",
+                "zh": "不满、愤怒",
+                "fr": "ressentiment, offense"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "umbr-",
+                    "meaning": {
+                        "ko": "'그림자'",
+                        "en": "shadow",
+                        "ja": "影、陰",
+                        "zh": "影子、阴影",
+                        "fr": "ombre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마음속에 드리워진 그림자'라는 의미에서 '불쾌감', '분노'를 뜻합니다.",
+                "en": "Means displeasure or offense from the metaphorical shadow cast over the mind",
+                "ja": "心に落ちた影という意味から、不快感や怒りを表す",
+                "zh": "从心灵投下的影子的含义，表示不满或愤怒",
+                "fr": "De l'idée d'ombre jetée sur l'esprit, signifie offense ou mécontentement"
+            },
+            "example": "He took umbrage at her remarks.",
+            "translation": {
+                "ko": "그는 그녀의 말에 불쾌감을 느꼈다.",
+                "ja": "彼女の発言に彼は不快感を感じた",
+                "zh": "他对她的言论感到不满",
+                "fr": "Il a pris offense à ses remarques"
+            }
+        },
+        {
+            "word": "umbrella",
+            "part_of_speech": "",
+            "origin": "Italian, ombrella (a little shadow)",
+            "meaning": {
+                "ko": "작은 그림자",
+                "en": "small shadow",
+                "ja": "小さな影",
+                "zh": "小影子",
+                "fr": "petite ombre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "umbr-",
+                    "meaning": {
+                        "ko": "'그림자'",
+                        "en": "shadow",
+                        "ja": "影",
+                        "zh": "影子",
+                        "fr": "ombre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ella",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さいもの",
+                        "zh": "小的东西",
+                        "fr": "petite chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'햇빛을 가려주는 작은 그림자'라는 의미에서 '우산', '양산'을 뜻하게 되었습니다.",
+                "en": "Came to mean 'umbrella' or 'parasol' from the sense of 'a small shadow that shields from sunlight'.",
+                "ja": "日光を遮る小さな影という意味から、傘を意味するようになりました。",
+                "zh": "从遮挡阳光的小影子的意思演变为伞的含义。",
+                "fr": "Est devenu synonyme de parapluie à partir du sens de petite ombre qui protège du soleil."
+            },
+            "example": "Don't forget to take an umbrella, it might rain.",
+            "translation": {
+                "ko": "비가 올지도 모르니 우산 챙기는 것 잊지 마세요.",
+                "ja": "傘を持つのを忘れないで、雨が降るかもしれません。",
+                "zh": "别忘了带伞，可能会下雨。",
+                "fr": "N'oublie pas de prendre un parapluie, il pourrait pleuvoir."
+            }
+        }
+    ]
+}

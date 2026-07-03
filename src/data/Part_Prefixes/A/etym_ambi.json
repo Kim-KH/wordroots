@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ambi (both, around) ambidextrous, ambiguous, ambivalent",
+        "origin": "Latin, ambi- (around, round about)",
+        "meaning": {
+            "ko": "양쪽의, 주위의",
+            "en": "both, around",
+            "ja": "両方、周囲",
+            "zh": "两者、周围",
+            "fr": "les deux, autour"
+        }
+    },
+    "words": [
+        {
+            "word": "ambidextrous",
+            "part_of_speech": "",
+            "origin": "Medieval Latin, ambidexter (right-handed on both sides)[1]",
+            "meaning": {
+                "ko": "양손을 다 잘 쓰는",
+                "en": "able to use both hands skillfully",
+                "ja": "両手が器用",
+                "zh": "双手都灵巧",
+                "fr": "ambidextre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ambi-",
+                    "meaning": {
+                        "ko": "'양쪽의'",
+                        "en": "both",
+                        "ja": "両方の",
+                        "zh": "两个的",
+                        "fr": "les deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dexter",
+                    "meaning": {
+                        "ko": "'오른손의, 숙련된' (right-handed, skillful)[1]",
+                        "en": "right-handed, skillful",
+                        "ja": "右手の、熟練した",
+                        "zh": "右手的、熟练的",
+                        "fr": "droitier, adroit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양손이 모두 오른손처럼 능숙하다'는 의미에서 '양손을 똑같이 잘 쓰는' 이라는 뜻이 되었습니다.[1][2]",
+                "en": "Both hands are as skillful as the right hand, meaning equal proficiency with both hands.",
+                "ja": "両手がともに右手のように巧みであるという意味から、両手を同じくらい上手に使うという意味になりました。",
+                "zh": "从两只手都像右手一样灵巧的意思，演变成用两只手同样熟练的意思。",
+                "fr": "Les deux mains sont aussi habiles que la main droite, ce qui signifie une égale maîtrise des deux mains."
+            },
+            "example": "He was an ambidextrous pitcher, throwing with his right and left hands.",
+            "translation": {
+                "ko": "그는 오른손과 왼손으로 모두 던지는 양손잡이 투수였습니다.",
+                "ja": "彼は両手で投げられる器用なピッチャーで、右手と左手の両方で投げることができた。",
+                "zh": "他是一位双手都灵巧的投手，能用右手和左手投球。",
+                "fr": "C'était un lanceur ambidextre, capable de lancer avec sa main droite et sa main gauche."
+            }
+        },
+        {
+            "word": "ambiguous",
+            "part_of_speech": "",
+            "origin": "Latin, ambiguus (doubtful)",
+            "meaning": {
+                "ko": "의심스러운",
+                "en": "doubtful",
+                "ja": "曖昧な",
+                "zh": "模糊的",
+                "fr": "ambigu"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ambi-",
+                    "meaning": {
+                        "ko": "'주위의, 양쪽의'",
+                        "en": "around, both",
+                        "ja": "周囲の、両方の",
+                        "zh": "周围的、两边的",
+                        "fr": "autour, les deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "agere",
+                    "meaning": {
+                        "ko": "'이끌다, 움직이다'",
+                        "en": "to drive, to move",
+                        "ja": "引く、動かす",
+                        "zh": "驱动、移动",
+                        "fr": "conduire, mouvoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'양쪽으로 이끌리는' 상태, 즉 '이쪽으로도 저쪽으로도 해석될 수 있는'이라는 의미에서 '모호한', '애매한'이라는 뜻이 되었습니다.",
+                "en": "Both directions pulling state, meaning interpretable either way, thus ambiguous or vague",
+                "ja": "両方向に引かれる状態、つまりどちらにも解釈できることから、曖昧、不明確という意味になった",
+                "zh": "向两个方向拉扯的状态，即可以向任何一方解释，因此变成了模糊、不清楚的意思",
+                "fr": "État tiré dans les deux sens, c'est-à-dire pouvant être interprété de plusieurs façons, d'où le sens d'ambigu, vague"
+            },
+            "example": "The ending of the movie was ambiguous.",
+            "translation": {
+                "ko": "그 영화의 결말은 모호했다.",
+                "ja": "その映画の結末は曖昧だった。",
+                "zh": "这部电影的结局是模糊的。",
+                "fr": "La fin du film était ambiguë."
+            }
+        },
+        {
+            "word": "ambivalent",
+            "part_of_speech": "",
+            "origin": "German, ambivalent (simultaneous attraction and repulsion)",
+            "meaning": {
+                "ko": "동시적인 끌림과 반발",
+                "en": "simultaneous attraction and repulsion",
+                "ja": "相反する感情の共存",
+                "zh": "相互矛盾的感情共存",
+                "fr": "sentiments contradictoires coexistants"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ambi-",
+                    "meaning": {
+                        "ko": "'양쪽의'",
+                        "en": "both",
+                        "ja": "両方の",
+                        "zh": "两者的",
+                        "fr": "les deux"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "valentia (valere)",
+                    "meaning": {
+                        "ko": "'힘, 가치'",
+                        "en": "strength, value",
+                        "ja": "力、価値",
+                        "zh": "力量、价值",
+                        "fr": "force, valeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "독일어 'ambivalent'에서 유래했으며, '두 가지의 가치'를 동시에 느낀다는 의미에서 '상반된 감정이 공존하는', '양면적인'이라는 뜻으로 쓰입니다.",
+                "en": "Derived from German 'ambivalent', meaning experiencing two values simultaneously; used to express conflicting emotions coexisting or having dual aspects.",
+                "ja": "ドイツ語の'ambivalent'に由来し、二つの価値を同時に感じることを意味し、相反する感情が共存する、二面的という意味で使われます。",
+                "zh": "源自德语'ambivalent'，意为同时感受两种价值；用来表达相互矛盾的感情共存或具有双重性质。",
+                "fr": "Dérivé de l'allemand 'ambivalent', signifiant ressentir deux valeurs simultanément; utilisé pour exprimer des émotions conflictuelles coexistantes ou des aspects duels."
+            },
+            "example": "She has ambivalent feelings about her new job.",
+            "translation": {
+                "ko": "그녀는 새 직장에 대해 상반된 감정을 가지고 있다.",
+                "ja": "彼女は新しい仕事について相反する感情を持っている。",
+                "zh": "她对新工作有矛盾的感受。",
+                "fr": "Elle a des sentiments mitigés concernant son nouvel emploi."
+            }
+        }
+    ]
+}

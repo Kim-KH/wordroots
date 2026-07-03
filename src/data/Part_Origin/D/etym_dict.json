@@ -1,0 +1,307 @@
+{
+    "root_info": {
+        "roots": "dict",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "말하다",
+            "en": "speak",
+            "ja": "話す",
+            "zh": "说",
+            "fr": "parler"
+        }
+    },
+    "words": [
+        {
+            "word": "predict",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pre-",
+                    "meaning": {
+                        "ko": "미리",
+                        "en": "before",
+                        "ja": "前に",
+                        "zh": "之前",
+                        "fr": "avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "말하다",
+                        "en": "to say",
+                        "ja": "言う",
+                        "zh": "说",
+                        "fr": "dire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미리 말하다'는 의미에서, '예측하다', '예언하다'는 뜻입니다.",
+                "en": "From 'say beforehand': means to forecast or prophesy",
+                "ja": "「前に言う」という意味から、「予測する」「予言する」という意味になります",
+                "zh": "从「提前说」的意思，引申为「预测」「预言」的含义",
+                "fr": "De « dire d'avance », signifiant prévoir ou prophétiser"
+            },
+            "example": "It's hard to predict the weather.",
+            "translation": {
+                "ko": "날씨를 예측하기는 어렵다.",
+                "ja": "天気を予測することは難しい。",
+                "zh": "很难预测天气。",
+                "fr": "Il est difficile de prédire la météo."
+            }
+        },
+        {
+            "word": "verdict",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ver",
+                    "meaning": {
+                        "ko": "진실",
+                        "en": "true",
+                        "ja": "真実",
+                        "zh": "真实",
+                        "fr": "vrai"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "말",
+                        "en": "saying",
+                        "ja": "言葉",
+                        "zh": "说话",
+                        "fr": "parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'진실을 말하는 것'이라는 의미에서, 배심원단의 '평결' 또는 '판단'을 뜻합니다.",
+                "en": "From 'true saying,' referring to a jury's formal decision or judgment in court.",
+                "ja": "「真実を述べること」という意味から、陪審団の「評決」または「判断」を意味します。",
+                "zh": "源自「说出真实」的含义，指陪审团的「裁决」或「判断」。",
+                "fr": "Du sens de « dire la vérité », désignant le verdict ou le jugement d'un jury."
+            },
+            "example": "The jury reached a guilty verdict.",
+            "translation": {
+                "ko": "배심원단은 유죄 평결에 이르렀다.",
+                "ja": "陪審団は有罪評決に達した。",
+                "zh": "陪审团做出了有罪裁决。",
+                "fr": "Le jury a rendu un verdict de culpabilité."
+            }
+        },
+        {
+            "word": "malediction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "male",
+                    "meaning": {
+                        "ko": "나쁘게",
+                        "en": "badly",
+                        "ja": "悪く",
+                        "zh": "坏地",
+                        "fr": "mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "말하기",
+                        "en": "speaking",
+                        "ja": "話すこと",
+                        "zh": "说话",
+                        "fr": "parole"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나쁜 말' 즉, '저주', '악담'을 의미합니다.",
+                "en": "A curse or harsh words spoken against someone",
+                "ja": "誰かに対して言う『悪い言葉』つまり『呪い』『悪口』を意味します",
+                "zh": "'坏话'即'诅咒''辱骂'的意思",
+                "fr": "Une 'mauvaise parole' c'est-à-dire une 'malédiction' ou 'insulte'"
+            },
+            "example": "He uttered a malediction against his enemies.",
+            "translation": {
+                "ko": "그는 그의 적들에게 저주를 퍼부었다.",
+                "ja": "彼は敵たちに対して呪いの言葉を浴びせた。",
+                "zh": "他对敌人说出了诅咒。",
+                "fr": "Il proféra une malédiction contre ses ennemis."
+            }
+        },
+        {
+            "word": "dictionary",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "말",
+                        "en": "word",
+                        "ja": "言葉",
+                        "zh": "词",
+                        "fr": "mot"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'말(단어)을 모아놓은 책'이라는 의미에서 '사전'을 뜻합니다.",
+                "en": "From the meaning 'a book collecting words,' referring to a reference book of words and their meanings.",
+                "ja": "『言葉（単語）を集めた本』という意味から、単語とその意味を記載した参考書を指します。",
+                "zh": "从'收集词汇的书籍'的含义而来，指记载词汇及其含义的参考书。",
+                "fr": "Du sens de 'livre rassemblant les mots', désignant un ouvrage de référence contenant les mots et leurs significations."
+            },
+            "example": "Look up the word in a dictionary.",
+            "translation": {
+                "ko": "사전에서 그 단어를 찾아보세요.",
+                "ja": "辞書でその単語を調べてください。",
+                "zh": "在字典里查一下那个词。",
+                "fr": "Cherchez le mot dans le dictionnaire."
+            }
+        },
+        {
+            "word": "dictate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "말하다",
+                        "en": "to say",
+                        "ja": "言う",
+                        "zh": "说",
+                        "fr": "dire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "반복해서 말하는 행위에서 '받아쓰게 하다', '명령하다', '좌우하다'는 의미로 확장되었습니다.",
+                "en": "Expanded from repeated speech to mean 'dictate to be written down', 'command', 'control'.",
+                "ja": "繰り返し言う行為から、「書き取らせる」「命令する」「支配する」という意味に拡張されました。",
+                "zh": "从重复说话的行为扩展为「让人笔录」「命令」「控制」的意思。",
+                "fr": "Étendu de l'acte de parler répétition à signifier « faire écrire sous dictée », « commander », « contrôler »."
+            },
+            "example": "He dictated a letter to his secretary.",
+            "translation": {
+                "ko": "그는 비서에게 편지를 구술했다.",
+                "ja": "彼は秘書に手紙を口述した。",
+                "zh": "他向秘书口述了一封信。",
+                "fr": "Il a dicté une lettre à sa secrétaire."
+            }
+        },
+        {
+            "word": "dictum",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "말하다",
+                        "en": "to say",
+                        "ja": "言う",
+                        "zh": "说",
+                        "fr": "dire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'말해진 것'이라는 의미로, 권위 있는 '의견'이나 '격언'을 뜻합니다.",
+                "en": "Means 'something said', referring to an authoritative 'opinion' or 'maxim'.",
+                "ja": "'言われたこと'という意味で、権威のある'意見'や'格言'を意味します。",
+                "zh": "意思是'被说的东西'，指权威的'观点'或'格言'。",
+                "fr": "Signifie 'quelque chose de dit', désignant une 'opinion' ou une 'maxime' faisant autorité."
+            },
+            "example": "\"Know yourself\" is a famous dictum.",
+            "translation": {
+                "ko": "\"너 자신을 알라\"는 유명한 격언이다.",
+                "ja": "「汝自身を知れ」は有名な格言である。",
+                "zh": "「认识你自己」是一条著名的格言。",
+                "fr": "« Connais-toi toi-même » est un célèbre dictum."
+            }
+        },
+        {
+            "word": "diction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "말하기",
+                        "en": "speaking",
+                        "ja": "話し方",
+                        "zh": "说话方式",
+                        "fr": "manière de parler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "말하는 방식, 즉 '말씨', '용어 선택', '발음'을 의미합니다.",
+                "en": "Refers to manner of speaking, word choice, and pronunciation",
+                "ja": "話し方、つまり『話しぶり』『語彙選択』『発音』を意味します。",
+                "zh": "指说话的方式，即『说话风格』『词汇选择』『发音』。",
+                "fr": "Désigne la manière de parler, c'est-à-dire le 'style d'élocution', le 'choix des mots' et la 'prononciation'."
+            },
+            "example": "An actor must have clear diction.",
+            "translation": {
+                "ko": "배우는 명확한 발음을 가져야 한다.",
+                "ja": "俳優は明確な発音を持つ必要がある。",
+                "zh": "演员必须有清晰的发音。",
+                "fr": "Un acteur doit avoir une diction claire."
+            }
+        },
+        {
+            "word": "indict",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "~에 대하여",
+                        "en": "against",
+                        "ja": "〜に対して",
+                        "zh": "针对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "말하다, 선언하다",
+                        "en": "to declare",
+                        "ja": "述べる、宣言する",
+                        "zh": "陈述、宣布",
+                        "fr": "déclarer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'범죄 사실에 대해 공식적으로 선언하다'는 의미에서, 법적으로 '기소하다', '고발하다'는 뜻입니다. ('c'는 묵음)",
+                "en": "From Latin 'indict-' meaning to declare formally against a crime; legally means to formally charge or accuse. (The 'c' is silent)",
+                "ja": "犯罪事実に対して公式に宣言する意味から、法律用語として「起訴する」「告発する」という意味です。（'c'は発音しません）",
+                "zh": "从拉丁语'indict-'演变而来，表示对犯罪事实的正式宣告；法律上指\"正式指控\"或\"控告\"。（'c'不发音）",
+                "fr": "Du latin 'indict-' signifiant déclarer formellement contre un crime; légalement signifie inculper ou accuser formellement. (Le 'c' est muet)"
+            },
+            "example": "He was indicted for fraud.",
+            "translation": {
+                "ko": "그는 사기죄로 기소되었다.",
+                "ja": "彼は詐欺罪で起訴された。",
+                "zh": "他因欺诈罪被起诉。",
+                "fr": "Il a été inculpé de fraude."
+            }
+        }
+    ]
+}

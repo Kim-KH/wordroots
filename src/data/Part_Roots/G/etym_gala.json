@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "gala (milk-white) galaxy, galactose",
+        "origin": "Greek, gala, galaktos (milk)",
+        "meaning": {
+            "ko": "우유",
+            "en": "milk",
+            "ja": "牛乳",
+            "zh": "牛奶",
+            "fr": "lait"
+        }
+    },
+    "words": [
+        {
+            "word": "galaxy",
+            "part_of_speech": "",
+            "origin": "Greek, galaxias (milky)",
+            "meaning": {
+                "ko": "우유의",
+                "en": "of milk",
+                "ja": "銀河、銀河系",
+                "zh": "银河、星系",
+                "fr": "galaxie, voie lactée"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gala-",
+                    "meaning": {
+                        "ko": "'우유'",
+                        "en": "milk",
+                        "ja": "牛乳",
+                        "zh": "牛奶",
+                        "fr": "lait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "고대 그리스인들이 밤하늘의 은하수를 '흘러내린 우유'라고 생각한 데서 유래하여 '은하', '은하계'를 뜻하게 되었습니다.",
+                "en": "Ancient Greeks thought the Milky Way in the night sky was 'spilled milk', which led to the meaning of 'galaxy' or 'galactic system'.",
+                "ja": "古代ギリシア人が夜空の銀河を「流れ落ちた牛乳」と考えたことに由来し、「銀河」「銀河系」を意味するようになりました。",
+                "zh": "古代希腊人将夜空中的银河视为「流淌的牛奶」，由此演变出「银河」「星系」的含义。",
+                "fr": "Les anciens Grecs pensaient que la Voie lactée était du 'lait renversé', d'où l'étymologie du mot 'galaxie'."
+            },
+            "example": "Our solar system is part of the Milky Way galaxy.",
+            "translation": {
+                "ko": "우리 태양계는 은하수의 일부이다.",
+                "ja": "私たちの太陽系は銀河系の一部です。",
+                "zh": "我们的太阳系是银河系的一部分。",
+                "fr": "Notre système solaire fait partie de la galaxie de la Voie lactée."
+            }
+        },
+        {
+            "word": "galactose",
+            "part_of_speech": "",
+            "origin": "Greek, galaktos (milk)",
+            "meaning": {
+                "ko": "우유",
+                "en": "milk",
+                "ja": "乳糖",
+                "zh": "乳糖",
+                "fr": "galactose"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "galact-",
+                    "meaning": {
+                        "ko": "'우유'",
+                        "en": "milk",
+                        "ja": "乳",
+                        "zh": "乳",
+                        "fr": "lait"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ose",
+                    "meaning": {
+                        "ko": "(화학) 당을 나타내는 접미사",
+                        "en": "chemical suffix indicating sugar",
+                        "ja": "糖を示す接尾辞",
+                        "zh": "表示糖的后缀",
+                        "fr": "suffixe indiquant sucre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'우유에 포함된 당'이라는 의미에서 '갈락토스'를 뜻합니다.",
+                "en": "Galactose is a component of lactose, the sugar in milk",
+                "ja": "牛乳に含まれる糖という意味で、ガラクトースを指します",
+                "zh": "指牛奶中含有的糖，即半乳糖",
+                "fr": "Galactose désigne le sucre contenu dans le lait"
+            },
+            "example": "Galactose is a component of lactose, the sugar in milk.",
+            "translation": {
+                "ko": "갈락토스는 우유에 있는 당인 유당의 성분이다.",
+                "ja": "ガラクトース",
+                "zh": "半乳糖",
+                "fr": "galactose"
+            }
+        }
+    ]
+}

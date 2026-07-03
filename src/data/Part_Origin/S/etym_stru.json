@@ -1,0 +1,309 @@
+{
+    "root_info": {
+        "roots": "stru, struct, stroy: build",
+        "origin": "Latin, struere",
+        "meaning": {
+            "ko": "세우다, 짓다",
+            "en": "to build",
+            "ja": "建てる、造る",
+            "zh": "建造、修建",
+            "fr": "construire, bâtir"
+        }
+    },
+    "words": [
+        {
+            "word": "obstruction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ob-",
+                    "meaning": {
+                        "ko": "~에 맞서",
+                        "en": "in the way of",
+                        "ja": "邪魔になる",
+                        "zh": "挡路",
+                        "fr": "en travers de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "struct",
+                    "meaning": {
+                        "ko": "세우다",
+                        "en": "to build",
+                        "ja": "建てる",
+                        "zh": "建造",
+                        "fr": "construire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "길 '앞에 세워놓은 것'이라는 의미에서 '방해', '장애물'을 뜻합니다.",
+                "en": "From the sense of 'something built in front of a path,' meaning obstruction or obstacle.",
+                "ja": "道の前に立てられたもの という意味から、障害や障害物を意味します。",
+                "zh": "从'在道路前竖立的东西'的含义引申为'障碍'或'障碍物'。",
+                "fr": "Du sens de 'quelque chose de construit devant un chemin', signifiant obstruction ou obstacle."
+            },
+            "example": "There is an obstruction on the road.",
+            "translation": {
+                "ko": "길에 장애물이 있다.",
+                "ja": "道路上に障害物がある。",
+                "zh": "道路上有障碍物。",
+                "fr": "Il y a une obstruction sur la route."
+            }
+        },
+        {
+            "word": "instruction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "in, on",
+                        "ja": "中に、上に",
+                        "zh": "在…中；在…上",
+                        "fr": "dans, sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "struct",
+                    "meaning": {
+                        "ko": "세우다",
+                        "en": "to build",
+                        "ja": "建てる、構築する",
+                        "zh": "建造、建立",
+                        "fr": "construire, édifier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "머릿속에 지식을 '세워 넣어주는 것'이라는 의미에서 '가르침', '지시', '설명'을 뜻합니다.",
+                "en": "From the idea of 'building knowledge in the mind'; means teaching, guidance, or explanation",
+                "ja": "頭の中に知識を『組み立てて入れてあげること』という意味から、『教え』『指示』『説明』を意味します。",
+                "zh": "源自「在脑中建立知识」的概念；表示教学、指导或解释。",
+                "fr": "De l'idée de « construire le savoir dans l'esprit »; signifie enseignement, guidance ou explication."
+            },
+            "example": "Please follow the instructions carefully.",
+            "translation": {
+                "ko": "설명서를 주의 깊게 따라 주세요.",
+                "ja": "説明書を注意深く従ってください。",
+                "zh": "请仔细按照说明进行。",
+                "fr": "Veuillez suivre les instructions avec attention."
+            }
+        },
+        {
+            "word": "construction",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "struct",
+                    "meaning": {
+                        "ko": "세우다",
+                        "en": "to build",
+                        "ja": "建てる",
+                        "zh": "建造",
+                        "fr": "construire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "여러 재료를 '함께 쌓아 올리는 것'이라는 의미에서 '건설', '공사', '구조'를 뜻합니다.",
+                "en": "From the idea of stacking materials together; means construction, building work, or structure",
+                "ja": "複数の材料を「一緒に積み上げる」という意味から、「建設」「工事」「構造」を意味します",
+                "zh": "从「把多种材料堆积在一起」的含义引申，表示建设、施工或结构",
+                "fr": "De l'idée d'empiler ensemble des matériaux ; signifie construction, travaux de bâtiment ou structure"
+            },
+            "example": "The building is under construction.",
+            "translation": {
+                "ko": "그 건물은 공사 중이다.",
+                "ja": "その建物は建設中です。",
+                "zh": "这栋楼正在施工中。",
+                "fr": "Le bâtiment est en construction."
+            }
+        },
+        {
+            "word": "destroy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "반대",
+                        "en": "un-",
+                        "ja": "反対",
+                        "zh": "相反",
+                        "fr": "contre-"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stroy (struere)",
+                    "meaning": {
+                        "ko": "짓다",
+                        "en": "to build",
+                        "ja": "建てる",
+                        "zh": "建造",
+                        "fr": "construire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지은 것을 반대로 허물다'는 의미에서, '파괴하다', '망치다'는 뜻이 되었습니다.",
+                "en": "From the sense of undoing what was built, it came to mean 'to demolish' or 'to ruin'.",
+                "ja": "建てたものを反対に壊すという意味から、『破壊する』『台無しにする』という意味になりました。",
+                "zh": "从反向破坏已建造的东西的意思演变而来，后来表示'摧毁'或'毁坏'。",
+                "fr": "Du sens de défaire ce qui a été construit, il en est venu à signifier 'démolir' ou 'ruiner'."
+            },
+            "example": "The fire destroyed the forest.",
+            "translation": {
+                "ko": "화재가 숲을 파괴했다.",
+                "ja": "火災が森を破壊した。",
+                "zh": "大火摧毁了森林。",
+                "fr": "L'incendie a détruit la forêt."
+            }
+        },
+        {
+            "word": "industry",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "indu-",
+                    "meaning": {
+                        "ko": "안에",
+                        "en": "within",
+                        "ja": "中に",
+                        "zh": "在...内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stry (struere)",
+                    "meaning": {
+                        "ko": "세우다",
+                        "en": "to build",
+                        "ja": "建てる",
+                        "zh": "建立",
+                        "fr": "construire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안에서부터 부지런히 쌓아 올리는 것'이라는 의미에서, 원래 '근면'을 뜻했으나 지금은 '산업', '공업'을 의미합니다.",
+                "en": "Originally meant 'diligence' from the sense of 'building up steadily from within,' now means 'industry' or 'manufacturing.'",
+                "ja": "「内から勤勉に積み上げること」の意味から、元々は「勤勉さ」を意味していましたが、現在は「産業」「工業」を意味します。",
+                "zh": "源于「在内部勤勉地建立」的含义，原来表示「勤勉」，现在表示「产业」、「工业」。",
+                "fr": "Du sens « construire assidûment de l'intérieur », signifiait autrefois « diligence », mais désigne maintenant « industrie » ou « manufacture »."
+            },
+            "example": "He works in the tech industry.",
+            "translation": {
+                "ko": "그는 기술 산업 분야에서 일한다.",
+                "ja": "彼は技術産業で働いている。",
+                "zh": "他在科技产业工作。",
+                "fr": "Il travaille dans l'industrie technologique."
+            }
+        },
+        {
+            "word": "structure",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "struct",
+                    "meaning": {
+                        "ko": "세우다",
+                        "en": "to build",
+                        "ja": "建てる",
+                        "zh": "建造",
+                        "fr": "construire"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ure",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun-forming suffix",
+                        "ja": "名詞形接尾辞",
+                        "zh": "名词形后缀",
+                        "fr": "suffixe de forme nominale"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세워진 것'이라는 의미에서, 건물 등의 '구조', '구조물' 또는 조직의 '체계'를 뜻합니다.",
+                "en": "From the meaning of 'something built', it refers to the 'structure' or 'framework' of buildings, etc., or the 'system' of organizations.",
+                "ja": "'建てられたもの'という意味から、建物などの'構造'、'構造物'または組織の'体系'を意味します。",
+                "zh": "从'被建造的东西'的意思来看，指建筑物等的'结构'、'构造物'或组织的'体系'。",
+                "fr": "Du sens de 'quelque chose de construit', il fait référence à la 'structure' ou au 'cadre' des bâtiments, etc., ou au 'système' des organisations."
+            },
+            "example": "The structure of the building is very complex.",
+            "translation": {
+                "ko": "그 건물의 구조는 매우 복잡하다.",
+                "ja": "構造",
+                "zh": "结构",
+                "fr": "structure"
+            }
+        },
+        {
+            "word": "misconstrue",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "mis-",
+                    "meaning": {
+                        "ko": "잘못",
+                        "en": "wrongly",
+                        "ja": "誤って",
+                        "zh": "错误地",
+                        "fr": "mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "construe (con + struere)",
+                    "meaning": {
+                        "ko": "함께 쌓다, 해석하다",
+                        "en": "to build together, interpret",
+                        "ja": "一緒に解釈する",
+                        "zh": "一起解释",
+                        "fr": "construire ensemble, interpréter"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘못 해석하다'는 의미에서, 말이나 행동의 의미를 '오해하다'는 뜻입니다.",
+                "en": "In the sense of 'misinterpret', it means to misunderstand the meaning of words or actions.",
+                "ja": "『誤って解釈する』という意味では、言葉や行動の意味を『誤解する』ことを意味します。",
+                "zh": "在『误解释』的意义上，意思是『误解』言语或行为的含义。",
+                "fr": "Au sens de 'mal interpréter', cela signifie 'mal comprendre' le sens des paroles ou des actions."
+            },
+            "example": "It is easy to misconstrue his comments.",
+            "translation": {
+                "ko": "그의 논평을 오해하기 쉽다.",
+                "ja": "彼のコメントを誤解しやすい。",
+                "zh": "很容易误解他的评论。",
+                "fr": "Il est facile de mal interpréter ses commentaires."
+            }
+        }
+    ]
+}

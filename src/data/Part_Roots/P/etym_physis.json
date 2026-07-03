@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "physis (change, growth) epiphysis, physical, physique",
+        "origin": "Greek, physis (nature, growth)",
+        "meaning": {
+            "ko": "성장",
+            "en": "growth",
+            "ja": "成長",
+            "zh": "增长",
+            "fr": "croissance"
+        }
+    },
+    "words": [
+        {
+            "word": "epiphysis",
+            "part_of_speech": "",
+            "origin": "Greek, epi- (upon) + physis (growth)",
+            "meaning": {
+                "ko": "위에서 성장함",
+                "en": "growth from above",
+                "ja": "上で成長する",
+                "zh": "上端生长",
+                "fr": "croissance par le haut"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "epi-",
+                    "meaning": {
+                        "ko": "'위에'",
+                        "en": "upon",
+                        "ja": "上に",
+                        "zh": "上面",
+                        "fr": "sur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "physis",
+                    "meaning": {
+                        "ko": "'성장'",
+                        "en": "growth",
+                        "ja": "成長",
+                        "zh": "生长",
+                        "fr": "croissance"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "긴 뼈의 '끝부분에 덧붙어 성장하는' 부분인 '골단'을 뜻합니다.",
+                "en": "The epiphysis is the rounded end part of a long bone.",
+                "ja": "長い骨の端部に付着して成長する部分である骨端を意味します。",
+                "zh": "指长骨末端附着生长的部分，即骨骺。",
+                "fr": "Désigne l'épiphyse, la partie arrondie qui pousse à l'extrémité d'un os long."
+            },
+            "example": "The epiphysis is the rounded end part of a long bone.",
+            "translation": {
+                "ko": "골단은 긴 뼈의 둥근 끝 부분이다.",
+                "ja": "骨端",
+                "zh": "骨骺",
+                "fr": "épiphyse"
+            }
+        },
+        {
+            "word": "physical",
+            "part_of_speech": "",
+            "origin": "Greek, physikos (natural)",
+            "meaning": {
+                "ko": "자연의",
+                "en": "of nature",
+                "ja": "身体的な",
+                "zh": "身体的",
+                "fr": "physique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "physi-",
+                    "meaning": {
+                        "ko": "'자연, 몸'",
+                        "en": "nature, body",
+                        "ja": "自然、身体",
+                        "zh": "自然、身体",
+                        "fr": "nature, corps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신적인 것이 아닌 자연 그대로의 몸'이라는 의미에서 '육체의', '물질의'라는 뜻입니다.",
+                "en": "Means 'bodily' or 'material' in the sense of nature itself rather than spiritual or mental things.",
+                "ja": "精神的なものではなく、自然そのままの身体という意味で、『肉体的な』『物質的な』という意味です。",
+                "zh": "指不是精神方面而是自然本身的身体，意为『身体的』『物质的』。",
+                "fr": "Signifie 'corporel' ou 'matériel' dans le sens de la nature elle-même plutôt que des choses spirituelles."
+            },
+            "example": "He is in good physical condition.",
+            "translation": {
+                "ko": "그는 신체 상태가 좋다.",
+                "ja": "彼は良い身体状態にある。",
+                "zh": "他身体状况很好。",
+                "fr": "Il est en bon état physique."
+            }
+        },
+        {
+            "word": "physique",
+            "part_of_speech": "",
+            "origin": "French, physique (physical form)",
+            "meaning": {
+                "ko": "신체 형태",
+                "en": "body shape and form",
+                "ja": "体格、身体の形態",
+                "zh": "体格、身体形态",
+                "fr": "physique, constitution corporelle"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phys- (physis)",
+                    "meaning": {
+                        "ko": "'몸, 자연'",
+                        "en": "body, nature",
+                        "ja": "身体、自然",
+                        "zh": "身体、自然",
+                        "fr": "corps, nature"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'사람의 몸 형태'인 '체격'을 뜻합니다.",
+                "en": "Refers to the bodily form or build of a person",
+                "ja": "人間の身体の形態である体格を意味します",
+                "zh": "指人的身体形态或体格",
+                "fr": "Désigne la forme ou la constitution physique d'une personne"
+            },
+            "example": "He has a muscular physique.",
+            "translation": {
+                "ko": "그는 근육질의 체격을 가지고 있다.",
+                "ja": "彼は筋肉質な体格をしている",
+                "zh": "他有着肌肉发达的体格",
+                "fr": "Il a une physique musclée"
+            }
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+  실행 방법:
+  $env:ANTHROPIC_API_KEY = "sk-ant-..."
+  node scripts/translate-data.js
+
+  번역 완료 후:
+  node scripts/build-etymology-data.js
+
+
+
+
+========================================
+어원 앱 (etymology-expo) 작업 인수인계
+========================================
+
+■ 프로젝트 위치
+E:\myapp\etymology-expo (React Native / Expo, Windows 11)
+
+■ 앱 구성
+- 4개 카테고리: 어원(Part_Origin), 접두어(Part_Prefixes), 어근(Part_Roots), 접미어(Part_Suffixes)
+- 5개 언어 지원: 한국어(ko), 영어(en), 일본어(ja), 중국어(zh), 프랑스어(fr)
+- 데이터: src/data/etymologyData.json (전체 집계 파일, 3.13MB) — 앱이 이 파일을 로드함
+- 원본 개별 파일: src/data/Part_Origin/, Part_Prefixes/, Part_Roots/, Part_Suffixes/
+- 핵심 컴포넌트: src/components/WordCard.js, src/components/EtymologyView.js
+
+
+========================================
+현재 완료된 것
+========================================
+
+[완료] Part_Origin (어원) — 완벽 작동
+- 1,104개 단어 전부 5개 언어 번역 완료 (Claude Haiku API 사용)
+- note, translation, analysis[].meaning 모두 {ko, en, ja, zh, fr} 형식
+- 모든 언어 설정에서 정상 표시
+
+[일부] Part_Prefixes (접두어) — note만 작동
+- 225개 단어 중 note는 99% 5개 언어 완비
+- 문제: analysis[].meaning, word.meaning, root_info.meaning이 {ko, en}만 있고
+  ja/zh/fr 없음 → 일본어/중국어/프랑스어 설정 시 영어로 표시됨
+
+[미완] Part_Roots (어근) — 19%만 번역
+- 1,877개 단어 중 note 5개 언어 완비는 366개(19%)뿐
+- 나머지 81%는 한국어 note만 존재, ja/zh/fr은 빈 문자열("")
+- analysis[].meaning도 {ko, en}만 있음
+
+[미완] Part_Suffixes (접미어) — 12%만 번역
+- 364개 단어 중 note 5개 언어 완비는 44개(12%)뿐
+- 나머지는 Part_Roots와 동일한 상태
+
+
+========================================
+JSON 데이터 형식
+========================================
+
+■ 완성된 형식 (Part_Origin 예시)
+{
+  "root_info": {
+    "meaning": { "ko": "떨어져", "en": "away from", "ja": "離れて", "zh": "离开", "fr": "loin de" }
+  },
+  "words": [{
+    "word": "absent",
+    "meaning": { "ko": "없는", "en": "absent", "ja": "欠席", "zh": "缺席", "fr": "absent" },
+    "analysis": [{
+      "type": "접두사 (Prefix)",
+      "morpheme": "ab-",
+      "meaning": { "ko": "떨어져", "en": "away", "ja": "離れて", "zh": "离开", "fr": "loin" }
+    }],
+    "note": { "ko": "...", "en": "...", "ja": "...", "zh": "...", "fr": "..." },
+    "example": "Why were you absent yesterday?",
+    "translation": { "ko": "...", "ja": "...", "zh": "...", "fr": "..." }
+  }]
+}
+
+■ 미완성 형식 (Part_Prefixes/Roots/Suffixes 현재 상태)
+- meaning: { "ko": "~쪽으로", "en": "toward" }
+  → ja/zh/fr 없음. 런타임에서 en으로 fallback됨.
+
+- note: { "ko": "...", "en": "", "ja": "", "zh": "", "fr": "" }
+  → 한국어 외 빈 문자열. 한국어 이외 설정에서는 note 박스 자체가 안 보임.
+
+
+========================================
+해야 할 작업 (핵심)
+========================================
+
+Part_Prefixes / Part_Roots / Part_Suffixes 전체 번역 필요.
+
+현재 scripts/translate-data.js의 DATA_DIR이 Part_Origin만 가리킴:
+  const DATA_DIR = path.resolve(__dirname, '../src/data/Part_Origin');
+
+■ 수정 방향
+
+1. DATA_DIR을 Part_Prefixes, Part_Roots, Part_Suffixes 각각에 적용되도록 변경
+
+2. isConverted() 함수를 강화 — ja/zh/fr가 실제로 있는지 확인:
+   function isConverted(word) {
+     return (
+       word.note && typeof word.note === 'object' && word.note.ja
+       && word.translation && typeof word.translation === 'object' && word.translation.ja
+       && (!word.analysis?.length || word.analysis[0].meaning?.ja)
+     );
+   }
+
+3. Claude API 프롬프트에서 아래 필드도 번역하도록 추가:
+   - analysis[].meaning (각 형태소 의미)
+   - word.meaning (단어 자체 의미)
+   - root_info.meaning (어근 전체 의미)
+
+4. 번역 후 반드시 실행:
+   node scripts/build-etymology-data.js
+   → src/data/etymologyData.json 재빌드
+
+■ API 설정
+- 모델: claude-haiku-4-5-20251001
+- 환경변수 설정: $env:ANTHROPIC_API_KEY = "sk-ant-..."
+- 스크립트 실행: node scripts/translate-data.js
+
+
+========================================
+핵심 코드 파일 현재 상태
+========================================
+
+src/components/WordCard.js
+- 완전 동기식 (API 호출 없음) [완료]
+- getMeaning(): 객체/문자열 양쪽 처리, 앞뒤 따옴표 제거 [완료]
+- getNote(): 해당 언어 없으면 영어 fallback, 한국어로 절대 fallback 안 함 [완료]
+- getTranslation(): 짧은 키워드(문장 아닌 것) 필터링 [완료]
+- isLikelySentence(): 문장부호(. ! ? 。！？) 또는 6단어 이상이면 문장으로 판단
+
+src/components/EtymologyView.js
+- 동기식, useMemo로 헤더 표시 [완료]
+
+src/utils/translateService.js
+- 빈 stub 파일 (API 호출 완전 제거) [완료]
+
+scripts/translate-data.js
+- Claude Haiku API 사용, Part_Origin만 처리 (수정 필요)
+- 단어별 저장 (크래시 안전 / 재시작 가능)
+- JSON 파싱 오류 자동 수정 로직 내장
+
+scripts/build-etymology-data.js
+- 모든 Part_* 폴더 스캔하여 etymologyData.json 재빌드 [완료]
+- 번역 작업 후 반드시 실행 필요
+
+scripts/apply-overlays.js
+- Part_Prefixes/Roots/Suffixes에 오버레이 번역 적용 (부분 커버)
+- 이미 실행 완료, 재실행 불필요
+
+
+========================================
+번역 완료 후 확인 명령어
+========================================
+
+node -e "
+const fs = require('fs');
+const data = JSON.parse(fs.readFileSync('src/data/etymologyData.json'));
+const cats = ['Part_Prefixes', 'Part_Roots', 'Part_Suffixes'];
+for (const cat of cats) {
+  let total = 0, ok = 0;
+  for (const [f, e] of Object.entries(data)) {
+    if (!f.startsWith(cat)) continue;
+    for (const w of (e.words ?? [])) {
+      total++;
+      if (w.note?.ja && w.analysis?.[0]?.meaning?.ja) ok++;
+    }
+  }
+  console.log(cat, ok + '/' + total);
+}
+"
+
+목표: 세 카테고리 모두 ok/total = 100%
+
+
+========================================
+최종 요약
+========================================
+
+어원(Part_Origin)은 완성.
+접두어/어근/접미어의 meaning 필드들(note 포함)을
+Claude API로 번역하고 build-etymology-data.js로 재빌드하면 완성.
+
+
+
+
+구글 플레이 출시 관점에서 필수와 권장으로 나눠 말씀드릴게요.
+
+---
+필수 (심사 통과 조건)
+
+1. 계정 삭제 기능 — 2024년 5월부터 구글 정책상 앱 내에서 계정 삭제가 가능해야 합니다. 현재 설정 화면에는 없습니다.
+2. 개인정보처리방침 웹 URL — 앱 내 텍스트만으로는 부족하고, 외부에서 접근 가능한 URL이 있어야 스토어 등록 시 입력할 수 있습니다. (GitHub Pages, Notion 공개 페이지 등으로 무료 호스팅 가능)
+
+권장 (UX 완성도)
+
+3. 온보딩 화면 — 처음 설치한 사용자에게 앱 기능을 간단히 소개하는 1~3장짜리 슬라이드
+4. 학습 통계 요약 — 홈 화면 상단에 "총 완료 지문 수 / 저장 단어 수" 같은 간단한 현황 표시
+5. 이메일 인증 후 처리 — 회원가입 후 "이메일을 확인하세요" 메시지는 있지만, 인증 완료 전 로그인 시도 시 안내가 부족합니다.

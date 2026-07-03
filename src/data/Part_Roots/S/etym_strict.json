@@ -1,0 +1,193 @@
+{
+    "root_info": {
+        "roots": "strict (bind) constrict, restrict, strict, stricture",
+        "origin": "Latin, stringere, strictus (to draw tight, to bind)",
+        "meaning": {
+            "ko": "묶다",
+            "en": "to bind",
+            "ja": "縛る",
+            "zh": "绑定",
+            "fr": "lier"
+        }
+    },
+    "words": [
+        {
+            "word": "constrict",
+            "part_of_speech": "",
+            "origin": "Latin, constringere (to bind together)",
+            "meaning": {
+                "ko": "함께 묶다",
+                "en": "to bind together",
+                "ja": "締め付ける",
+                "zh": "收缩",
+                "fr": "étrangler"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strict",
+                    "meaning": {
+                        "ko": "'묶다, 조이다'",
+                        "en": "to bind",
+                        "ja": "縛る",
+                        "zh": "束缚",
+                        "fr": "lier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'함께 꽉 묶다'는 의미에서 '수축시키다', '죄다'라는 뜻입니다.",
+                "en": "Means to bind tightly together, expressing the sense of shrinking or squeezing",
+                "ja": "密に一緒に束縛することを意味し、収縮または圧迫の意味を表します",
+                "zh": "紧密地束缚在一起的意思，表示收缩或压迫的含义",
+                "fr": "Signifie lier ensemble étroitement, exprimant le sens de rétrécissement ou de compression"
+            },
+            "example": "The snake constricted its prey.",
+            "translation": {
+                "ko": "그 뱀은 먹이를 조였다.",
+                "ja": "ヘビはその獲物を締め付けた。",
+                "zh": "蛇收缩了它的猎物。",
+                "fr": "Le serpent a étranglé sa proie."
+            }
+        },
+        {
+            "word": "restrict",
+            "part_of_speech": "",
+            "origin": "Latin, restringere (to bind back, to confine)",
+            "meaning": {
+                "ko": "뒤로 묶다, 제한하다",
+                "en": "to bind back, restrict",
+                "ja": "制限する、束縛する",
+                "zh": "限制、束缚",
+                "fr": "restreindre, limiter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "'뒤로'",
+                        "en": "back",
+                        "ja": "後ろへ",
+                        "zh": "向后",
+                        "fr": "arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strict",
+                    "meaning": {
+                        "ko": "'묶다'",
+                        "en": "to bind",
+                        "ja": "縛る",
+                        "zh": "绑定",
+                        "fr": "lier"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 묶어두다'는 의미에서 '제한하다', '한정하다'라는 뜻입니다.",
+                "en": "From the meaning 'to bind back', it evolved to mean 'to restrict' or 'to limit'",
+                "ja": "後ろに縛ることから、制限する、限定するという意味に発展しました",
+                "zh": "从向后绑定的含义演变为限制、限定的意思",
+                "fr": "De la signification 'lier vers l'arrière', elle a évolué pour signifier 'restreindre' ou 'limiter'"
+            },
+            "example": "The new law will restrict the sale of firearms.",
+            "translation": {
+                "ko": "새 법은 총기 판매를 제한할 것이다.",
+                "ja": "新しい法律は銃器の販売を制限するでしょう",
+                "zh": "新法律将限制枪支的销售",
+                "fr": "La nouvelle loi restreindra la vente d'armes à feu"
+            }
+        },
+        {
+            "word": "strict",
+            "part_of_speech": "",
+            "origin": "Latin, strictus (drawn tight)",
+            "meaning": {
+                "ko": "꽉 묶인",
+                "en": "tightly bound",
+                "ja": "厳しい、厳格な",
+                "zh": "严格的、严厉的",
+                "fr": "strict, rigoureux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strict-",
+                    "meaning": {
+                        "ko": "'묶다'",
+                        "en": "to bind",
+                        "ja": "縛る、結ぶ",
+                        "zh": "绑定、束缚",
+                        "fr": "lier, attacher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'느슨하지 않고 꽉 묶인' 상태라는 의미에서 '엄격한', '엄한'이라는 뜻입니다.",
+                "en": "Derived from the meaning of being tightly bound, implying strictness and severity",
+                "ja": "きつく束ねられた状態から、厳格で厳しいという意味になります",
+                "zh": "从紧紧束缚的意思引申出严格、严厉的含义",
+                "fr": "Du sens de lier fermement, d'où le sens de stricte et sévère"
+            },
+            "example": "He is a very strict teacher.",
+            "translation": {
+                "ko": "그는 매우 엄격한 선생님이다.",
+                "ja": "彼はとても厳しい先生です。",
+                "zh": "他是一位非常严格的老师。",
+                "fr": "C'est un professeur très strict."
+            }
+        },
+        {
+            "word": "stricture",
+            "part_of_speech": "",
+            "origin": "Latin, strictura (a drawing together)",
+            "meaning": {
+                "ko": "함께 묶음",
+                "en": "binding together",
+                "ja": "束縛、制約",
+                "zh": "束缚、限制",
+                "fr": "restriction, contrainte"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "strict-",
+                    "meaning": {
+                        "ko": "'묶다, 조이다'",
+                        "en": "to bind",
+                        "ja": "縛る、締める",
+                        "zh": "束缚、收紧",
+                        "fr": "lier, serrer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'엄격하게 얽매는 것'이라는 의미에서 '제약', '혹평' 또는 의학적으로 '협착'을 뜻합니다.",
+                "en": "Means 'constraint', 'criticism', or medically 'stenosis' from the sense of tightly binding",
+                "ja": "厳しく束縛することから、制約、厳しい批判、または医学的に狭窄を意味します",
+                "zh": "从严格束缚的意义引申，表示限制、尖锐批评或医学上的狭窄",
+                "fr": "Signifie restriction, critique sévère ou médicalement sténose, du sens de lier fortement"
+            },
+            "example": "He faced severe strictures from the critics.",
+            "translation": {
+                "ko": "그는 비평가들로부터 심한 혹평에 직면했다.",
+                "ja": "批評家からの厳しい制約に直面した。",
+                "zh": "他面临评论家的严厉批评。",
+                "fr": "Il a fait face à des critiques sévères des critiques."
+            }
+        }
+    ]
+}

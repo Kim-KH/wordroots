@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "linum (flax) linen, linnet, linoleum",
+        "origin": "Latin, linum (flax)",
+        "meaning": {
+            "ko": "아마",
+            "en": "flax",
+            "ja": "亜麻",
+            "zh": "亚麻",
+            "fr": "lin"
+        }
+    },
+    "words": [
+        {
+            "word": "linen",
+            "part_of_speech": "",
+            "origin": "Latin, linum (flax)",
+            "meaning": {
+                "ko": "아마",
+                "en": "flax",
+                "ja": "亜麻布",
+                "zh": "亚麻布",
+                "fr": "lin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lin-",
+                    "meaning": {
+                        "ko": "'아마'",
+                        "en": "flax",
+                        "ja": "亜麻",
+                        "zh": "亚麻",
+                        "fr": "lin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아마 섬유로 짠 직물'인 '리넨'을 뜻합니다.",
+                "en": "Refers to 'linen', a fabric woven from flax fibers.",
+                "ja": "亜麻繊維で織った織物の'リネン'を意味します。",
+                "zh": "指用亚麻纤维织成的织物'亚麻布'。",
+                "fr": "Désigne le 'lin', un tissu tissé à partir de fibres de lin."
+            },
+            "example": "The tablecloth is made of pure linen.",
+            "translation": {
+                "ko": "그 식탁보는 순수 리넨으로 만들어졌다.",
+                "ja": "そのテーブルクロスは純粋なリネンでできています。",
+                "zh": "那块桌布是用纯亚麻布制成的。",
+                "fr": "La nappe est faite de pur lin."
+            }
+        },
+        {
+            "word": "linnet",
+            "part_of_speech": "",
+            "origin": "Old French, linette (from lin 'flax')",
+            "meaning": {
+                "ko": "아마씨를 먹는 새",
+                "en": "bird that eats flax seeds",
+                "ja": "アマの種を食べる鳥",
+                "zh": "吃亚麻籽的鸟",
+                "fr": "oiseau mangeur de graines de lin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lin-",
+                    "meaning": {
+                        "ko": "'아마'",
+                        "en": "flax",
+                        "ja": "アマ",
+                        "zh": "亚麻",
+                        "fr": "lin"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아마씨를 먹는 작은 새'인 '홍방울새'를 뜻합니다.",
+                "en": "Refers to a small bird that eats flax seeds, known as the common linnet",
+                "ja": "アマの種を食べる小さな鳥で、ベニヒワとして知られています",
+                "zh": "指吃亚麻籽的小鸟，即普通朱顶雀",
+                "fr": "Désigne un petit oiseau qui mange des graines de lin, connu sous le nom de chardonneret élégant"
+            },
+            "example": "A linnet was singing in the tree.",
+            "translation": {
+                "ko": "홍방울새가 나무에서 노래하고 있었다.",
+                "ja": "ホンダワラが木で歌っていた。",
+                "zh": "一只赤雀在树上唱歌。",
+                "fr": "Une linotte chantait dans l'arbre."
+            }
+        },
+        {
+            "word": "linoleum",
+            "part_of_speech": "",
+            "origin": "Latin, linum (flax) + oleum (oil)",
+            "meaning": {
+                "ko": "아마 기름",
+                "en": "linseed oil",
+                "ja": "亜麻油製の床材",
+                "zh": "亚麻油制地板材",
+                "fr": "revêtement de sol à huile de lin"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lin-",
+                    "meaning": {
+                        "ko": "'아마'",
+                        "en": "flax",
+                        "ja": "亜麻",
+                        "zh": "亚麻",
+                        "fr": "lin"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "oleum",
+                    "meaning": {
+                        "ko": "'기름'",
+                        "en": "oil",
+                        "ja": "油",
+                        "zh": "油",
+                        "fr": "huile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아마인유를 산화시켜 만든 바닥재'인 '리놀륨'을 뜻합니다.",
+                "en": "Linoleum refers to a flooring material made by oxidizing linseed oil.",
+                "ja": "リノリウムは亜麻仁油を酸化させて作られた床材を意味します。",
+                "zh": "亚麻油地板是指通过氧化亚麻籽油制成的地板材料。",
+                "fr": "Le linoléum désigne un matériau de revêtement de sol fabriqué par oxydation de l'huile de lin."
+            },
+            "example": "The kitchen floor was covered with linoleum.",
+            "translation": {
+                "ko": "주방 바닥은 리놀륨으로 덮여 있었다.",
+                "ja": "キッチンの床はリノリウムで覆われていました。",
+                "zh": "厨房地板铺着亚麻油地板。",
+                "fr": "Le sol de la cuisine était recouvert de linoléum."
+            }
+        }
+    ]
+}

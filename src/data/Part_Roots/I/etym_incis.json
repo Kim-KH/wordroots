@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "incis (cut into) incision, incisor, incisive",
+        "origin": "Latin, incidere (to cut into)",
+        "meaning": {
+            "ko": "안으로 자르다",
+            "en": "to cut into",
+            "ja": "切り込む",
+            "zh": "切入",
+            "fr": "couper dans"
+        }
+    },
+    "words": [
+        {
+            "word": "incision",
+            "part_of_speech": "",
+            "origin": "Latin, incisio (a cutting into)",
+            "meaning": {
+                "ko": "안으로 자름",
+                "en": "cutting inward",
+                "ja": "内側に切ること",
+                "zh": "向内切割",
+                "fr": "couper vers l'intérieur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "into",
+                        "ja": "内側へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cis- (caedere)",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "수술 등을 위해 '안으로 자른 자국'인 '절개'를 뜻합니다.",
+                "en": "Refers to a 'cut mark made inward' for surgery, meaning 'incision'",
+                "ja": "手術などのために内側に切った跡である切開を意味します",
+                "zh": "指为手术等目的向内切割留下的痕迹，即切口",
+                "fr": "Désigne une 'coupure faite vers l'intérieur' pour la chirurgie, signifiant 'incision'"
+            },
+            "example": "The surgeon made a small incision.",
+            "translation": {
+                "ko": "외과 의사는 작게 절개했다.",
+                "ja": "外科医は小さな切開をした",
+                "zh": "外科医生做了一个小切口",
+                "fr": "Le chirurgien a fait une petite incision"
+            }
+        },
+        {
+            "word": "incisor",
+            "part_of_speech": "",
+            "origin": "Latin, incidere (to cut into)",
+            "meaning": {
+                "ko": "안으로 자르다",
+                "en": "to cut inward",
+                "ja": "前歯を切る",
+                "zh": "向内切割",
+                "fr": "incisive"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "into",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cis- (caedere)",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'음식물을 자르는' 이라는 의미에서 '앞니'를 뜻합니다.",
+                "en": "Refers to front teeth that cut food",
+                "ja": "食べ物を切る前歯を意味します",
+                "zh": "指切割食物的前牙",
+                "fr": "Désigne les dents de devant qui coupent la nourriture"
+            },
+            "example": "Humans have eight incisors.",
+            "translation": {
+                "ko": "인간은 8개의 앞니를 가지고 있다.",
+                "ja": "人間は8本の前歯を持っています",
+                "zh": "人类有八颗门牙",
+                "fr": "Les humains ont huit incisives"
+            }
+        },
+        {
+            "word": "incisive",
+            "part_of_speech": "",
+            "origin": "Latin, incisivus (cutting)",
+            "meaning": {
+                "ko": "자르는",
+                "en": "cutting",
+                "ja": "鋭い、痛烈な",
+                "zh": "尖锐的、敏锐的",
+                "fr": "mordant, perspicace"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "into",
+                        "ja": "内へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cis- (caedere)",
+                    "meaning": {
+                        "ko": "'자르다'",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "trancher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'예리하게 잘라내듯이' 명확하고 날카롭다는 의미에서 '예리한', '통렬한'이라는 뜻입니다.",
+                "en": "Metaphorically means sharp, keen, or penetrating in insight or expression",
+                "ja": "鋭く切り込むように、明確で鋭い意味から、鋭い、痛烈という意味です",
+                "zh": "如同锐利地切割一样，从明确和尖锐的含义引申为敏锐的、痛切的意思",
+                "fr": "Signifie littéralement mordant ou perspicace, comme une coupure nette et précise"
+            },
+            "example": "He is known for his incisive comments.",
+            "translation": {
+                "ko": "그는 예리한 논평으로 유명하다.",
+                "ja": "彼は痛烈なコメントで知られている。",
+                "zh": "他以尖锐的评论而闻名。",
+                "fr": "Il est connu pour ses remarques mordantes."
+            }
+        }
+    ]
+}

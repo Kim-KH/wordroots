@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "fy, ify (make, cause to) exemplify, purify, putrefy, simplify, stupefy",
+        "origin": "Latin, -ficare (to make)",
+        "meaning": {
+            "ko": "…하게 만들다",
+            "en": "to make",
+            "ja": "作る / させる",
+            "zh": "使得 / 让...做",
+            "fr": "faire / rendre"
+        }
+    },
+    "words": [
+        {
+            "word": "exemplify",
+            "part_of_speech": "",
+            "origin": "Latin, exemplum (example) + -ficare (to make)",
+            "meaning": {
+                "ko": "예를 만들다",
+                "en": "to make an example of",
+                "ja": "例を示す",
+                "zh": "举例说明",
+                "fr": "exemplifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "exempl- (example)",
+                    "meaning": {
+                        "ko": "'예'",
+                        "en": "example",
+                        "ja": "例",
+                        "zh": "例子",
+                        "fr": "exemple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ify",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make or cause to be",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'전형적인 예를 보여주다'는 뜻입니다.",
+                "en": "Means to show a typical example",
+                "ja": "典型的な例を示すという意味です",
+                "zh": "表示展示典型例子的意思",
+                "fr": "Signifie montrer un exemple typique"
+            },
+            "example": "His courage exemplifies the spirit of the team.",
+            "translation": {
+                "ko": "그의 용기는 그 팀의 정신을 전형적으로 보여준다.",
+                "ja": "彼の勇気はチームの精神を象徴している。",
+                "zh": "他的勇气体现了球队的精神。",
+                "fr": "Son courage exemplifie l'esprit de l'équipe."
+            }
+        },
+        {
+            "word": "purify",
+            "part_of_speech": "",
+            "origin": "Latin, purificare (to make pure)",
+            "meaning": {
+                "ko": "순수하게 만들다",
+                "en": "to make pure",
+                "ja": "純粋にする",
+                "zh": "使纯净",
+                "fr": "rendre pur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pur-",
+                    "meaning": {
+                        "ko": "'순수한'",
+                        "en": "pure",
+                        "ja": "純粋な",
+                        "zh": "纯净的",
+                        "fr": "pur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ify",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make or become",
+                        "ja": "~にする",
+                        "zh": "使~",
+                        "fr": "rendre ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'불순물을 제거하여 깨끗하게 만들다'는 의미에서 '정화하다'라는 뜻입니다.",
+                "en": "Means to clean by removing impurities",
+                "ja": "不純物を除去して清潔にする意味",
+                "zh": "通过去除杂质使其变干净",
+                "fr": "Signifie nettoyer en supprimant les impuretés"
+            },
+            "example": "We need to purify the water.",
+            "translation": {
+                "ko": "우리는 물을 정화해야 한다.",
+                "ja": "水を浄化する必要があります",
+                "zh": "我们需要净化水",
+                "fr": "Nous devons purifier l'eau"
+            }
+        },
+        {
+            "word": "putrefy",
+            "part_of_speech": "",
+            "origin": "Latin, putrefacere (to make rotten)",
+            "meaning": {
+                "ko": "썩게 만들다",
+                "en": "to cause to rot",
+                "ja": "腐らせる",
+                "zh": "使腐烂",
+                "fr": "faire pourrir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "putre-",
+                    "meaning": {
+                        "ko": "'썩다'",
+                        "en": "to rot",
+                        "ja": "腐る",
+                        "zh": "腐烂",
+                        "fr": "pourrir"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~させる",
+                        "zh": "使~",
+                        "fr": "faire~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'썩게 만들다', '부패하다'라는 뜻입니다.",
+                "en": "To cause decay or rot; to decompose",
+                "ja": "腐敗させることを意味します",
+                "zh": "使某物腐烂或分解",
+                "fr": "Causer la décomposition ou la pourriture"
+            },
+            "example": "The dead animal began to putrefy.",
+            "translation": {
+                "ko": "그 죽은 동물은 부패하기 시작했다.",
+                "ja": "死んだ動物は腐り始めた。",
+                "zh": "死亡的动物开始腐烂。",
+                "fr": "L'animal mort a commencé à pourrir."
+            }
+        },
+        {
+            "word": "simplify",
+            "part_of_speech": "",
+            "origin": "Latin, simplex (simple) + -ficare (to make)",
+            "meaning": {
+                "ko": "단순하게 만들다",
+                "en": "to make simple",
+                "ja": "単純にする",
+                "zh": "简化",
+                "fr": "simplifier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "simpl- (simple)",
+                    "meaning": {
+                        "ko": "'단순한'",
+                        "en": "simple",
+                        "ja": "単純な",
+                        "zh": "简单的",
+                        "fr": "simple"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ify",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make or cause to be",
+                        "ja": "～にする",
+                        "zh": "使～",
+                        "fr": "rendre～"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더 단순하게 만들다'는 뜻입니다.",
+                "en": "It means to make something simpler",
+                "ja": "より単純にすることを意味します",
+                "zh": "表示使某事更简单",
+                "fr": "Cela signifie rendre quelque chose plus simple"
+            },
+            "example": "Can you simplify the instructions?",
+            "translation": {
+                "ko": "설명서를 간단하게 해줄 수 있나요?",
+                "ja": "その指示を単純にしてもらえますか？",
+                "zh": "你能简化这些说明吗？",
+                "fr": "Pouvez-vous simplifier les instructions?"
+            }
+        },
+        {
+            "word": "stupefy",
+            "part_of_speech": "",
+            "origin": "Latin, stupefacere (to make stupid)",
+            "meaning": {
+                "ko": "멍하게 만들다",
+                "en": "to make dazed",
+                "ja": "呆然とさせる",
+                "zh": "使目瞪口呆",
+                "fr": "abasourdir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stupe-",
+                    "meaning": {
+                        "ko": "'멍한'",
+                        "en": "stupid",
+                        "ja": "愚かな",
+                        "zh": "愚蠢的",
+                        "fr": "stupide"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~させる",
+                        "zh": "使~",
+                        "fr": "rendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'너무 놀라거나 충격을 받아 멍하게 만들다'는 뜻입니다.",
+                "en": "To cause someone to become dazed or shocked",
+                "ja": "あまりの驚きや衝撃で呆然とさせること",
+                "zh": "因过度惊讶或冲击而使人目瞪口呆",
+                "fr": "causer l'étourdissement par le choc ou la surprise"
+            },
+            "example": "She was stupefied by the news.",
+            "translation": {
+                "ko": "그녀는 그 소식에 망연자실했다.",
+                "ja": "彼女はそのニュースに呆然とした。",
+                "zh": "她被这个消息惊呆了。",
+                "fr": "Elle a été abasourdie par cette nouvelle."
+            }
+        }
+    ]
+}

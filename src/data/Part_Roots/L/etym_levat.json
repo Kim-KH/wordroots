@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "levat(a) (raise) levitate, levy, elevate",
+        "origin": "Latin, levare (to raise)",
+        "meaning": {
+            "ko": "들어 올리다",
+            "en": "to raise",
+            "ja": "持ち上げる",
+            "zh": "抬起",
+            "fr": "soulever"
+        }
+    },
+    "words": [
+        {
+            "word": "levitate",
+            "part_of_speech": "",
+            "origin": "Latin, levis (light)",
+            "meaning": {
+                "ko": "가벼운",
+                "en": "light in weight",
+                "ja": "浮く、宙に浮かぶ",
+                "zh": "漂浮、悬浮",
+                "fr": "léviter, flotter"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lev-",
+                    "meaning": {
+                        "ko": "'가벼운, 들어 올리다'",
+                        "en": "light, to raise",
+                        "ja": "軽い、持ち上げる",
+                        "zh": "轻的、抬起",
+                        "fr": "léger, soulever"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸을 가볍게 하여 공중으로 들어 올리다'는 의미에서 '공중 부양하다'라는 뜻입니다.",
+                "en": "To make one's body light and raise it into the air, meaning to levitate in the air.",
+                "ja": "身体を軽くして空中に持ち上げることを意味し、空中浮遊を意味します。",
+                "zh": "使身体变轻并将其抬升到空中，意味着在空中悬浮。",
+                "fr": "Rendre son corps léger et le soulever dans les airs, signifiant léviter dans l'air."
+            },
+            "example": "The magician seemed to levitate above the stage.",
+            "translation": {
+                "ko": "마술사는 무대 위로 공중 부양하는 것처럼 보였다.",
+                "ja": "奇術師は舞台上で浮遊しているようだった。",
+                "zh": "魔术师似乎在舞台上方悬浮。",
+                "fr": "Le magicien semblait léviter au-dessus de la scène."
+            }
+        },
+        {
+            "word": "levy",
+            "part_of_speech": "",
+            "origin": "Latin, levare (to raise)",
+            "meaning": {
+                "ko": "들어 올리다",
+                "en": "to lift up",
+                "ja": "税金を課す",
+                "zh": "征收税款",
+                "fr": "prélever une taxe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lev-",
+                    "meaning": {
+                        "ko": "'들어 올리다'",
+                        "en": "to raise",
+                        "ja": "引き上げる",
+                        "zh": "提高",
+                        "fr": "lever"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세금을 거두어들이다'는 의미에서 '(세금 등을) 부과하다', '징수하다'라는 뜻입니다.",
+                "en": "Means to impose or collect taxes and other charges",
+                "ja": "税金などを課す、徴収することを意味する",
+                "zh": "指征收税款等费用的含义",
+                "fr": "Signifie imposer ou collecter des taxes et autres frais"
+            },
+            "example": "The government decided to levy a new tax on sugary drinks.",
+            "translation": {
+                "ko": "정부는 설탕이 든 음료에 새로운 세금을 부과하기로 결정했다.",
+                "ja": "政府は砂糖入り飲料に新しい税金を課すことを決めた。",
+                "zh": "政府决定对含糖饮料征收新税。",
+                "fr": "Le gouvernement a décidé de prélever une nouvelle taxe sur les boissons sucrées."
+            }
+        },
+        {
+            "word": "elevate",
+            "part_of_speech": "",
+            "origin": "Latin, elevare (to raise up)",
+            "meaning": {
+                "ko": "위로 들어 올리다",
+                "en": "to raise up",
+                "ja": "高める、昇進させる",
+                "zh": "提高、晋升",
+                "fr": "élever, promouvoir"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로, 위로'",
+                        "en": "out, up",
+                        "ja": "外へ、上へ",
+                        "zh": "向外、向上",
+                        "fr": "dehors, vers le haut"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lev-",
+                    "meaning": {
+                        "ko": "'들어 올리다'",
+                        "en": "to raise",
+                        "ja": "持ち上げる",
+                        "zh": "抬起",
+                        "fr": "soulever"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'위로 들어 올리다'는 의미에서 '높이다', '승진시키다'라는 뜻입니다.",
+                "en": "To elevate means to lift up physically or to raise someone's status or position",
+                "ja": "持ち上げるという意味から、地位や立場を高めることを意味します",
+                "zh": "从举起的含义引申出提高地位或立场的意思",
+                "fr": "Du sens de soulever au sens d'améliorer le statut ou la position"
+            },
+            "example": "You should elevate your leg to reduce the swelling.",
+            "translation": {
+                "ko": "붓기를 줄이려면 다리를 높이 올려야 한다.",
+                "ja": "脚を高くして腫れを減らすべきです",
+                "zh": "你应该抬起腿来减少肿胀",
+                "fr": "Vous devriez surélever votre jambe pour réduire l'enflure"
+            }
+        }
+    ]
+}

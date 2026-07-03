@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "anthrop (human) anthropology, anthropoid, philanthropy",
+        "origin": "Greek, anthrōpos (human being, man)",
+        "meaning": {
+            "ko": "인간",
+            "en": "human",
+            "ja": "人間",
+            "zh": "人",
+            "fr": "humain"
+        }
+    },
+    "words": [
+        {
+            "word": "anthropology",
+            "part_of_speech": "",
+            "origin": "Greek, anthrōpologia (study of man)",
+            "meaning": {
+                "ko": "인간 연구",
+                "en": "study of man",
+                "ja": "人間の研究",
+                "zh": "人类研究",
+                "fr": "étude de l'homme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anthrop (anthrōpos)",
+                    "meaning": {
+                        "ko": "'인간'",
+                        "en": "human being",
+                        "ja": "人間",
+                        "zh": "人类",
+                        "fr": "être humain"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy (logia)",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study of",
+                        "ja": "学問",
+                        "zh": "学科",
+                        "fr": "étude"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인간(anthrop)에 대한 학문(logy)'이라는 뜻으로, 인류의 기원, 문화, 사회 등을 연구하는 '인류학'을 의미합니다.",
+                "en": "A field of study that examines the origins, cultures, and societies of humanity.",
+                "ja": "人間(anthrop)に関する学問(logy)という意味で、人類の起源、文化、社会などを研究する人類学を指します。",
+                "zh": "指对人类(anthrop)的学科(logy)研究，研究人类的起源、文化、社会等，即人类学。",
+                "fr": "Un domaine qui étudie les origines, cultures et sociétés de l'humanité."
+            },
+            "example": "She is studying anthropology at the university.",
+            "translation": {
+                "ko": "그녀는 대학에서 인류학을 공부하고 있다.",
+                "ja": "彼女は大学で人類学を研究しています。",
+                "zh": "她在大学学习人类学。",
+                "fr": "Elle étudie l'anthropologie à l'université."
+            }
+        },
+        {
+            "word": "anthropoid",
+            "part_of_speech": "",
+            "origin": "Greek, anthrōpoeidēs (manlike)",
+            "meaning": {
+                "ko": "인간을 닮은",
+                "en": "manlike",
+                "ja": "人間のような",
+                "zh": "类人的",
+                "fr": "anthropomorphe"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anthrop (anthrōpos)",
+                    "meaning": {
+                        "ko": "'인간'",
+                        "en": "human being",
+                        "ja": "人間",
+                        "zh": "人类",
+                        "fr": "être humain"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-oid",
+                    "meaning": {
+                        "ko": "'~을 닮은 것'",
+                        "en": "resembling or similar to",
+                        "ja": "~に似たもの",
+                        "zh": "像~的东西",
+                        "fr": "ressemblant à ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인간(anthrop)을 닮은(oid)'이라는 의미에서, 고릴라, 침팬지 등 '유인원'이나 '사람과 비슷한' 것을 지칭합니다.",
+                "en": "From 'anthropoid' (human-like), referring to great apes like gorillas and chimpanzees, or things resembling humans",
+                "ja": "人間(anthrop)に似た(oid)という意味から、ゴリラやチンパンジーなどの類人猿や人間に似たものを指します",
+                "zh": "从人类(anthrop)和像~的(oid)的含义来看，指大猩猩、黑猩猩等类人猿或类似人类的东西",
+                "fr": "De 'anthropoïde' (semblable à l'homme), désignant les grands singes comme les gorilles et chimpanzés, ou des choses ressemblant aux humains"
+            },
+            "example": "The gorilla is a large anthropoid ape.",
+            "translation": {
+                "ko": "고릴라는 큰 유인원이다.",
+                "ja": "ゴリラは大型の類人猿です。",
+                "zh": "大猩猩是一种大型的类人猿。",
+                "fr": "Le gorille est un grand singe anthropoïde."
+            }
+        },
+        {
+            "word": "philanthropy",
+            "part_of_speech": "",
+            "origin": "Greek, philanthropia (love of mankind)",
+            "meaning": {
+                "ko": "인류에 대한 사랑",
+                "en": "love of mankind",
+                "ja": "人類への愛",
+                "zh": "对人类的爱",
+                "fr": "amour de l'humanité"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "phil- (philos)",
+                    "meaning": {
+                        "ko": "'사랑하는'",
+                        "en": "loving",
+                        "ja": "愛する",
+                        "zh": "热爱",
+                        "fr": "aimant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "anthrop (anthrōpos)",
+                    "meaning": {
+                        "ko": "'인간'",
+                        "en": "human being",
+                        "ja": "人間",
+                        "zh": "人类",
+                        "fr": "être humain"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'인류(anthrop)를 사랑하는(phil) 마음'이라는 의미에서, 다른 사람들의 복지를 증진시키기 위한 자선 활동인 '박애주의', '자선'을 뜻합니다.",
+                "en": "From the meaning of 'loving (phil) mankind (anthrop)', it refers to 'philanthropy' or 'charity', charitable activities to promote the welfare of others.",
+                "ja": "「人類(anthrop)を愛する(phil)心」という意味から、他者の福祉を増進するための慈善活動である「博愛主義」「慈善」を意味します。",
+                "zh": "从\"爱(phil)人类(anthrop)的心\"的含义出发,指促进他人福祉的慈善活动,即\"博爱主义\"\"慈善\"。",
+                "fr": "Du sens d'aimer (phil) l'humanité (anthrop), cela signifie philanthropie ou charité, activités caritatives pour promouvoir le bien-être d'autrui."
+            },
+            "example": "The foundation is well-known for its philanthropy.",
+            "translation": {
+                "ko": "그 재단은 박애 활동으로 잘 알려져 있다.",
+                "ja": "その財団は慈善活動で有名です。",
+                "zh": "该基金会以其慈善事业而闻名。",
+                "fr": "La fondation est bien connue pour sa philanthropie."
+            }
+        }
+    ]
+}

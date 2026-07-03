@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "opin (think) opine, opinion",
+        "origin": "Latin, opinari (to think, suppose)",
+        "meaning": {
+            "ko": "생각하다",
+            "en": "to think",
+            "ja": "考える",
+            "zh": "思考",
+            "fr": "penser"
+        }
+    },
+    "words": [
+        {
+            "word": "opine",
+            "part_of_speech": "",
+            "origin": "Latin, opinari (to think)",
+            "meaning": {
+                "ko": "생각하다",
+                "en": "to think",
+                "ja": "意見を述べる",
+                "zh": "表达观点",
+                "fr": "exprimer son avis"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opin-",
+                    "meaning": {
+                        "ko": "'생각하다'",
+                        "en": "to think",
+                        "ja": "考える",
+                        "zh": "思考",
+                        "fr": "penser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'자신의 의견을 말하다'는 뜻입니다.",
+                "en": "To express one's opinion",
+                "ja": "自分の意見を述べる",
+                "zh": "表达自己的观点",
+                "fr": "Exprimer son propre avis"
+            },
+            "example": "He opined that the new policy would be a disaster.",
+            "translation": {
+                "ko": "그는 새 정책이 재앙이 될 것이라는 의견을 밝혔다.",
+                "ja": "彼は新しい政策は災難になると意見を述べた。",
+                "zh": "他表示新政策将是一场灾难。",
+                "fr": "Il a opineé que la nouvelle politique serait un désastre."
+            }
+        },
+        {
+            "word": "opinion",
+            "part_of_speech": "",
+            "origin": "Latin, opinio (opinion, belief)",
+            "meaning": {
+                "ko": "의견, 믿음",
+                "en": "opinion, belief",
+                "ja": "意見、信念",
+                "zh": "意见、信念",
+                "fr": "opinion, croyance"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opin-",
+                    "meaning": {
+                        "ko": "'생각하다'",
+                        "en": "to think",
+                        "ja": "考える",
+                        "zh": "思考",
+                        "fr": "penser"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것에 대한 개인의 생각이나 믿음'인 '의견'을 뜻합니다.",
+                "en": "Refers to opinion, meaning one's personal thoughts or beliefs about something",
+                "ja": "何かについての個人的な考えや信念を意味する意見を指します",
+                "zh": "指意见，即某人对某事物的个人想法或信念",
+                "fr": "Désigne l'opinion, c'est-à-dire les pensées ou croyances personnelles de quelqu'un sur quelque chose"
+            },
+            "example": "In my opinion, this is the best solution.",
+            "translation": {
+                "ko": "내 생각에는, 이것이 최선의 해결책이다.",
+                "ja": "私の意見では、これが最良の解決策です。",
+                "zh": "我认为，这是最好的解决方案。",
+                "fr": "À mon avis, c'est la meilleure solution."
+            }
+        }
+    ]
+}

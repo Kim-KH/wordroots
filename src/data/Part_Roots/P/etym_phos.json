@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "phos (light) phosphor, phosphorescent, phosphorus",
+        "origin": "Greek, phos (light) + phoros (bearing)",
+        "meaning": {
+            "ko": "빛을 가져오는",
+            "en": "light-bearing",
+            "ja": "光をもたらす",
+            "zh": "带来光的",
+            "fr": "porteur de lumière"
+        }
+    },
+    "words": [
+        {
+            "word": "phosphor",
+            "part_of_speech": "",
+            "origin": "Greek, phosphoros (light-bringing)",
+            "meaning": {
+                "ko": "빛을 가져오는",
+                "en": "bringing light",
+                "ja": "光を放つ物質",
+                "zh": "发光物质",
+                "fr": "substance luminescente"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phos-",
+                    "meaning": {
+                        "ko": "'빛'",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phor",
+                    "meaning": {
+                        "ko": "'가져오는 것'",
+                        "en": "bearer",
+                        "ja": "もたらすもの",
+                        "zh": "带来的东西",
+                        "fr": "porteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛을 받으면 스스로 빛을 내는' 물질인 '형광체', '인광체'를 뜻합니다.",
+                "en": "A substance that emits light when exposed to light or radiation",
+                "ja": "光や放射線を受けると自ら光を放つ物質",
+                "zh": "受到光或辐射照射时会自身发光的物质",
+                "fr": "Substance qui émet de la lumière lorsqu'elle est exposée à la lumière ou aux radiations"
+            },
+            "example": "The screen is coated with a layer of phosphor.",
+            "translation": {
+                "ko": "그 스크린은 형광체 층으로 코팅되어 있다.",
+                "ja": "スクリーンは燐光体の層でコートされています",
+                "zh": "屏幕涂有一层磷光体",
+                "fr": "L'écran est recouvert d'une couche de phosphore"
+            }
+        },
+        {
+            "word": "phosphorescent",
+            "part_of_speech": "",
+            "origin": "Greek, phosphoros",
+            "meaning": {
+                "ko": "빛을 가져오는",
+                "en": "bringing light",
+                "ja": "光を放つ性質",
+                "zh": "发光的性质",
+                "fr": "qui émet de la lumière"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phosphor-",
+                    "meaning": {
+                        "ko": "'인광체'",
+                        "en": "luminescent substance",
+                        "ja": "リン光体",
+                        "zh": "磷光体",
+                        "fr": "substance phosphorescente"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'빛을 흡수한 후 어둠 속에서 서서히 빛을 내는' 성질인 '인광성의'라는 뜻입니다.",
+                "en": "The quality of emitting light slowly in darkness after absorbing light",
+                "ja": "光を吸収した後、暗闇でゆっくりと光を放つ性質",
+                "zh": "吸收光线后在黑暗中缓慢发光的性质",
+                "fr": "Qualité d'émettre lentement de la lumière dans l'obscurité après avoir absorbé la lumière"
+            },
+            "example": "The watch has phosphorescent hands.",
+            "translation": {
+                "ko": "그 시계는 인광성 바늘을 가지고 있다.",
+                "ja": "その時計は蛍光を放つ針を持っている",
+                "zh": "那块手表有发光的指针",
+                "fr": "La montre a des aiguilles phosphorescentes"
+            }
+        },
+        {
+            "word": "phosphorus",
+            "part_of_speech": "",
+            "origin": "Greek, phosphoros (light-bringing)",
+            "meaning": {
+                "ko": "빛을 가져오는",
+                "en": "bringing light",
+                "ja": "光をもたらすもの",
+                "zh": "带来光的物质",
+                "fr": "porteur de lumière"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phos-",
+                    "meaning": {
+                        "ko": "'빛'",
+                        "en": "light",
+                        "ja": "光",
+                        "zh": "光",
+                        "fr": "lumière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phorus",
+                    "meaning": {
+                        "ko": "'가져오는 것'",
+                        "en": "bringing or carrying",
+                        "ja": "もたらすもの",
+                        "zh": "带来的东西",
+                        "fr": "ce qui apporte"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어둠 속에서 빛을 내는' 성질을 가진 원소라는 의미에서 '인(P)'을 뜻합니다.",
+                "en": "Refers to phosphorus (P), an element with the property of emitting light in darkness.",
+                "ja": "暗闇で光を放つ性質を持つ元素リン(P)を意味します。",
+                "zh": "指在黑暗中发光的元素磷(P)。",
+                "fr": "Désigne le phosphore (P), un élément ayant la propriété d'émettre de la lumière dans l'obscurité."
+            },
+            "example": "Phosphorus is an essential element for life.",
+            "translation": {
+                "ko": "인은 생명에 필수적인 원소이다.",
+                "ja": "リン酸塩は生命に不可欠な元素です。",
+                "zh": "磷是生命中的必要元素。",
+                "fr": "Le phosphore est un élément essentiel pour la vie."
+            }
+        }
+    ]
+}

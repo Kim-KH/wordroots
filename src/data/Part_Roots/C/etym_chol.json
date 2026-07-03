@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "chol (bile) cholera, cholesterol",
+        "origin": "Greek, kholē (bile)",
+        "meaning": {
+            "ko": "담즙",
+            "en": "bile",
+            "ja": "胆汁",
+            "zh": "胆汁",
+            "fr": "bile"
+        }
+    },
+    "words": [
+        {
+            "word": "cholera",
+            "part_of_speech": "",
+            "origin": "Greek, kholera (a disease characterized by diarrhea, originally thought to be caused by bile)",
+            "meaning": {
+                "ko": "담즙으로 인한 병",
+                "en": "disease caused by bile",
+                "ja": "胆汁による病気",
+                "zh": "胆汁引起的疾病",
+                "fr": "maladie causée par la bile"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chol (kholē)",
+                    "meaning": {
+                        "ko": "'담즙'",
+                        "en": "bile",
+                        "ja": "胆汁",
+                        "zh": "胆汁",
+                        "fr": "bile"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "과거에 담즙(chol)의 과다 분비가 원인이라고 생각했던 데서 유래하여, 급성 설사를 유발하는 전염병 '콜레라'를 의미하게 되었습니다.",
+                "en": "In the past, it was thought that excessive secretion of bile (chol) was the cause, and it came to mean 'cholera', an infectious disease that causes acute diarrhea.",
+                "ja": "過去に胆汁(chol)の過剰分泌が原因だと考えられ、急性下痢を引き起こす伝染病のコレラを意味するようになりました。",
+                "zh": "过去认为胆汁(chol)的过度分泌是原因,后来用来指引起急性腹泻的传染病霍乱。",
+                "fr": "Autrefois, on pensait que la sécrétion excessive de bile (chol) en était la cause, et cela a fini par désigner le 'choléra', une maladie infectieuse provoquant une diarrhée aiguë."
+            },
+            "example": "Cholera is a serious disease spread through contaminated water.",
+            "translation": {
+                "ko": "콜레라는 오염된 물을 통해 전파되는 심각한 질병이다.",
+                "ja": "コレラは汚染された水を通じて広がる深刻な病気です。",
+                "zh": "霍乱是一种通过被污染的水传播的严重疾病。",
+                "fr": "Le choléra est une maladie grave propagée par l'eau contaminée."
+            }
+        },
+        {
+            "word": "cholesterol",
+            "part_of_speech": "",
+            "origin": "Greek, kholē (bile) + stereos (solid)",
+            "meaning": {
+                "ko": "고체 담즙",
+                "en": "solid bile",
+                "ja": "固形胆汁（胆石）",
+                "zh": "固体胆汁",
+                "fr": "bile solide"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "chole (kholē)",
+                    "meaning": {
+                        "ko": "'담즙'",
+                        "en": "bile",
+                        "ja": "胆汁",
+                        "zh": "胆汁",
+                        "fr": "bile"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stero (stereos)",
+                    "meaning": {
+                        "ko": "'고체의'",
+                        "en": "solid",
+                        "ja": "固体の",
+                        "zh": "固体",
+                        "fr": "solide"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "담즙(chole)에서 처음 발견된 고체(stero) 알코올 성분이라는 의미에서 '콜레스테롤'이라는 이름이 붙었습니다.",
+                "en": "A solid (stero) alcohol first found in bile (chole); a lipid essential for cell membranes.",
+                "ja": "胆汁(chole)から最初に発見された固体(stero)アルコール成分から「コレステロール」。",
+                "zh": "最初在胆汁(chole)中发现的固体(stero)醇成分，即「胆固醇」。",
+                "fr": "Un alcool solide (stero) d'abord trouvé dans la bile (chole); un lipide essentiel pour les membranes cellulaires."
+            },
+            "example": "High levels of cholesterol in the blood can lead to heart disease.",
+            "translation": {
+                "ko": "혈중 콜레스테롤 수치가 높으면 심장병으로 이어질 수 있다.",
+                "ja": "高コレステロールは心臓病のリスクを高める。",
+                "zh": "高胆固醇增加心脏病风险。",
+                "fr": "Un taux de cholestérol élevé augmente le risque de maladie cardiaque."
+            }
+        }
+    ]
+}

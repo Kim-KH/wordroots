@@ -1,0 +1,214 @@
+{
+    "root_info": {
+        "roots": "contra, counter",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "반대하여",
+            "en": "against, opposite",
+            "ja": "反対に、対抗して",
+            "zh": "反对、相反",
+            "fr": "contre, opposé"
+        }
+    },
+    "words": [
+        {
+            "word": "contradict",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "contra-",
+                    "meaning": {
+                        "ko": "반대하여",
+                        "en": "against",
+                        "ja": "反対に",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dict",
+                    "meaning": {
+                        "ko": "말하다",
+                        "en": "to speak",
+                        "ja": "言う",
+                        "zh": "说",
+                        "fr": "dire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반대로 말하다'는 의미에서 '모순되다', '반박하다'는 뜻입니다.",
+                "en": "Means 'to speak against,' thus 'to contradict' or 'to refute.'",
+                "ja": "「反対に言う」という意味から、「矛盾する」「反論する」という意味になります。",
+                "zh": "从「反对地说」的意思引申为「相矛盾」「反驳」的含义。",
+                "fr": "Du sens « parler contre », d'où « contredire » ou « réfuter »."
+            },
+            "example": "The facts contradict his story.",
+            "translation": {
+                "ko": "그 사실들은 그의 이야기와 모순된다.",
+                "ja": "その事実は彼の話と矛盾している。",
+                "zh": "这些事实与他的故事相矛盾。",
+                "fr": "Les faits contredisent son histoire."
+            }
+        },
+        {
+            "word": "counteract",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "counter-",
+                    "meaning": {
+                        "ko": "반대하여",
+                        "en": "against",
+                        "ja": "反対に",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "act",
+                    "meaning": {
+                        "ko": "행동하다",
+                        "en": "to act",
+                        "ja": "行動する",
+                        "zh": "行动",
+                        "fr": "agir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'반대로 행동하다'는 의미에서 효과 등을 '중화시키다', '반대로 작용하다'는 뜻입니다.",
+                "en": "To act in opposition; to neutralize or counterbalance an effect",
+                "ja": "反対の意味で行動することから、効果などを『打ち消す』、『反対に作用する』という意味です。",
+                "zh": "'反对地行动'的意思，是指将效果等'中和'、'反向作用'的含义。",
+                "fr": "Agir à l'opposé; neutraliser ou contrebalancer un effet."
+            },
+            "example": "This pill will counteract the side effects.",
+            "translation": {
+                "ko": "이 알약은 부작용을 중화시킬 것이다.",
+                "ja": "このピルは副作用を打ち消すでしょう。",
+                "zh": "这种药丸会中和副作用。",
+                "fr": "Ce comprimé contrecarrera les effets secondaires."
+            }
+        },
+        {
+            "word": "contravene",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "contra-",
+                    "meaning": {
+                        "ko": "반하여",
+                        "en": "against",
+                        "ja": "に反して",
+                        "zh": "反对",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vene",
+                    "meaning": {
+                        "ko": "오다, 가다",
+                        "en": "to come, to go",
+                        "ja": "来る、行く",
+                        "zh": "来、去",
+                        "fr": "venir, aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "법이나 규칙에 '반하여 가다'는 의미에서 '위반하다', '모순되다'는 뜻입니다.",
+                "en": "From Latin contra- (against) + venire (come). Means to violate a law or rule; to act in contradiction.",
+                "ja": "ラテン語の「反する」+「来る」から。法律や規則に違反する、矛盾するという意味。",
+                "zh": "源自拉丁语 contra-（反对）+ venire（来）。意为违反法律或规则；与...相矛盾。",
+                "fr": "Du latin contra- (contre) + venire (venir). Signifie violer une loi ou une règle ; contredire."
+            },
+            "example": "The action may contravene the treaty.",
+            "translation": {
+                "ko": "그 행동은 조약을 위반할 수 있다.",
+                "ja": "その行動は条約に違反する可能性がある。",
+                "zh": "该行动可能违反该条约。",
+                "fr": "L'action peut contrevenir au traité."
+            }
+        },
+        {
+            "word": "contrary",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "contra-",
+                    "meaning": {
+                        "ko": "반대",
+                        "en": "opposite",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'~와는 정반대되는'이라는 뜻입니다.",
+                "en": "",
+                "ja": "",
+                "zh": "",
+                "fr": ""
+            },
+            "example": "Contrary to popular belief, he is very shy.",
+            "translation": {
+                "ko": "일반적인 믿음과는 반대로, 그는 매우 수줍음이 많다.",
+                "ja": "",
+                "zh": "",
+                "fr": ""
+            }
+        },
+        {
+            "word": "counterspy",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "counter-",
+                    "meaning": {
+                        "ko": "반대하여",
+                        "en": "against",
+                        "ja": "対抗して",
+                        "zh": "对抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spy",
+                    "meaning": {
+                        "ko": "스파이",
+                        "en": "spy",
+                        "ja": "スパイ",
+                        "zh": "间谍",
+                        "fr": "espion"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'스파이에 대항하는 스파이' 즉, '역스파이', '방첩원'을 뜻합니다.",
+                "en": "A spy who counters enemy spies; a counterintelligence agent.",
+                "ja": "敵のスパイに対抗するスパイ、つまり『逆スパイ』『防諜員』を意味します。",
+                "zh": "对抗敌方间谍的间谍，即'反间谍人员'或'反间谍特务'。",
+                "fr": "Un espion qui s'oppose aux espions ennemis ; un agent de contre-espionnage."
+            },
+            "example": "The counterspy uncovered the enemy's plot.",
+            "translation": {
+                "ko": "그 방첩원은 적의 음모를 밝혀냈다.",
+                "ja": "その防諜員は敵の陰謀を明かした。",
+                "zh": "那名反间谍特务揭露了敌人的阴谋。",
+                "fr": "L'agent de contre-espionnage a démasqué le complot de l'ennemi."
+            }
+        }
+    ]
+}

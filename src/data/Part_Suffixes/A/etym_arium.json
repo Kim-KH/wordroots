@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "arium (place for) aquarium, sanitarium, terrarium",
+        "origin": "Latin, -arium (a place for)",
+        "meaning": {
+            "ko": "…을 위한 장소",
+            "en": "a place for",
+            "ja": "...のための場所",
+            "zh": "...的地方",
+            "fr": "un lieu pour ..."
+        }
+    },
+    "words": [
+        {
+            "word": "aquarium",
+            "part_of_speech": "",
+            "origin": "Latin, aquarius (of water)",
+            "meaning": {
+                "ko": "물에 관한 것",
+                "en": "related to water",
+                "ja": "水に関する物",
+                "zh": "与水相关的东西",
+                "fr": "relatif à l'eau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "aqua-",
+                    "meaning": {
+                        "ko": "'물'",
+                        "en": "water",
+                        "ja": "水",
+                        "zh": "水",
+                        "fr": "eau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-arium",
+                    "meaning": {
+                        "ko": "'~을 위한 장소'",
+                        "en": "place for",
+                        "ja": "~のための場所",
+                        "zh": "~的场所",
+                        "fr": "lieu pour ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물을 담아두는 장소'라는 의미에서 '수족관'을 뜻합니다.",
+                "en": "A place for holding water, referring to an aquarium",
+                "ja": "水を入れておく場所という意味で水族館を指します",
+                "zh": "指装水的地方，意为水族馆",
+                "fr": "Lieu pour contenir de l'eau, désignant un aquarium"
+            },
+            "example": "The children love to visit the aquarium.",
+            "translation": {
+                "ko": "아이들은 수족관 방문을 좋아한다.",
+                "ja": "子どもたちは水族館を訪れるのが大好きです",
+                "zh": "孩子们喜欢参观水族馆",
+                "fr": "Les enfants adorent visiter l'aquarium"
+            }
+        },
+        {
+            "word": "sanitarium",
+            "part_of_speech": "",
+            "origin": "Latin, sanitas (health)",
+            "meaning": {
+                "ko": "건강",
+                "en": "health",
+                "ja": "健康回復施設",
+                "zh": "疗养院",
+                "fr": "sanatorium"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sanit-",
+                    "meaning": {
+                        "ko": "'건강'",
+                        "en": "health",
+                        "ja": "健康",
+                        "zh": "健康",
+                        "fr": "santé"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-arium",
+                    "meaning": {
+                        "ko": "'~을 위한 장소'",
+                        "en": "place for",
+                        "ja": "~のための場所",
+                        "zh": "~的场所",
+                        "fr": "lieu pour ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'건강을 회복하기 위한 장소'인 '요양소'를 뜻합니다.",
+                "en": "A facility for recovering health; a place for recuperation",
+                "ja": "健康を回復するための場所である療養施設を意味します",
+                "zh": "指用于恢复健康的疗养场所",
+                "fr": "Un établissement destiné à la récupération de la santé"
+            },
+            "example": "The sanitarium was located in a quiet mountain setting.",
+            "translation": {
+                "ko": "그 요양소는 조용한 산속에 위치해 있었다.",
+                "ja": "療養所",
+                "zh": "疗养院",
+                "fr": "sanatorium"
+            }
+        },
+        {
+            "word": "terrarium",
+            "part_of_speech": "",
+            "origin": "Latin, terra (earth) + -arium",
+            "meaning": {
+                "ko": "땅을 위한 장소",
+                "en": "place for land",
+                "ja": "土地のための場所",
+                "zh": "土地的场所",
+                "fr": "lieu pour la terre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "terr-",
+                    "meaning": {
+                        "ko": "'땅'",
+                        "en": "earth",
+                        "ja": "土",
+                        "zh": "土地",
+                        "fr": "terre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-arium",
+                    "meaning": {
+                        "ko": "'~을 위한 용기'",
+                        "en": "container for",
+                        "ja": "~のための容器",
+                        "zh": "~的容器",
+                        "fr": "récipient pour ~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 동물이나 식물을 기르기 위해 흙을 담아 놓은' 유리 용기인 '테라리엄'을 뜻합니다.",
+                "en": "A glass container filled with soil for keeping small animals or plants, called a 'terrarium'.",
+                "ja": "小さな動物や植物を育てるために土を入れたガラス容器のテラリウムを意味します。",
+                "zh": "装有土壤用于养殖小动物或植物的玻璃容器，称为'露台水族箱'。",
+                "fr": "Un récipient en verre rempli de terre pour élever de petits animaux ou des plantes, appelé 'terrarium'."
+            },
+            "example": "He made a terrarium for his pet lizard.",
+            "translation": {
+                "ko": "그는 그의 애완 도마뱀을 위해 테라리엄을 만들었다.",
+                "ja": "テラリウム",
+                "zh": "露台水族箱",
+                "fr": "terrarium"
+            }
+        }
+    ]
+}

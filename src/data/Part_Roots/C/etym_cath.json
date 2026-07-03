@@ -1,0 +1,101 @@
+{
+    "root_info": {
+        "roots": "cath (clean, pure) catheter, catharsis",
+        "origin": "Greek, katharos (pure, clean)",
+        "meaning": {
+            "ko": "순수한",
+            "en": "pure",
+            "ja": "純粋な",
+            "zh": "纯净的",
+            "fr": "pur"
+        }
+    },
+    "words": [
+        {
+            "word": "catheter",
+            "part_of_speech": "",
+            "origin": "Greek, kathetēr (thing let down)",
+            "meaning": {
+                "ko": "내려 보내는 것",
+                "en": "let down",
+                "ja": "下ろす",
+                "zh": "放下",
+                "fr": "laisser descendre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cath (kathienai)",
+                    "meaning": {
+                        "ko": "'내려 보내다'",
+                        "en": "to send down",
+                        "ja": "下に送る",
+                        "zh": "送下",
+                        "fr": "envoyer en bas"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "몸 안으로 '내려 보내는' 가는 관이라는 의미에서, 체액을 뽑아내거나 약물을 주입하는 데 쓰는 '카테터', '도관'을 의미합니다.",
+                "en": "A thin tube sent down into the body to drain fluid or deliver medication.",
+                "ja": "体内に「送り込まれる」細い管から、体液を抜いたり薬物を注入する「カテーテル」「導管」。",
+                "zh": "插入体内的细管，用于排出液体或输送药物，即「导管」「导尿管」。",
+                "fr": "Un tube fin inséré dans le corps pour drainer les liquides ou administrer des médicaments."
+            },
+            "example": "The nurse inserted a catheter to drain the patient's bladder.",
+            "translation": {
+                "ko": "간호사는 환자의 방광을 비우기 위해 카테터를 삽입했다.",
+                "ja": "患者の膀胱を排液するためにカテーテルが挿入された。",
+                "zh": "插入导管以排空患者的膀胱。",
+                "fr": "Un cathéter a été inséré pour vider la vessie du patient."
+            }
+        },
+        {
+            "word": "catharsis",
+            "part_of_speech": "",
+            "origin": "Greek, katharsis (cleansing, purging)",
+            "meaning": {
+                "ko": "정화",
+                "en": "cleansing",
+                "ja": "洗浄",
+                "zh": "清洁",
+                "fr": "nettoyage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cathar (katharos)",
+                    "meaning": {
+                        "ko": "'순수한, 깨끗한'",
+                        "en": "pure, clean",
+                        "ja": "純粋な、清潔な",
+                        "zh": "纯净，清洁",
+                        "fr": "pur, propre"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-sis",
+                    "meaning": {
+                        "ko": "'행위, 과정'",
+                        "en": "action or process"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "마음속의 억압된 감정을 해소하여 '정신을 깨끗하게 하는' 과정, 즉 '카타르시스' 또는 '정화'를 의미합니다.",
+                "en": "The process of releasing and purging repressed emotions; emotional purification.",
+                "ja": "抑圧された感情を解放して「精神を清める」過程、「カタルシス」「浄化」。",
+                "zh": "释放和排除被压抑情感的过程，即「净化」「宣泄」，也叫「卡塔西斯」。",
+                "fr": "Le processus de libération et purge des émotions refoulées; purification émotionnelle."
+            },
+            "example": "Crying can be a great catharsis for releasing pent-up emotions.",
+            "translation": {
+                "ko": "우는 것은 억눌린 감정을 표출하는 훌륭한 카타르시스가 될 수 있다.",
+                "ja": "悲劇を観ることで観客にカタルシスをもたらした。",
+                "zh": "观看悲剧为观众提供了情感宣泄。",
+                "fr": "Regarder la tragédie a procuré une catharsis au public."
+            }
+        }
+    ]
+}

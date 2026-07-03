@@ -1,0 +1,203 @@
+{
+    "root_info": {
+        "roots": "sect, sec",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "자르다",
+            "en": "cut",
+            "ja": "切る",
+            "zh": "切",
+            "fr": "couper"
+        }
+    },
+    "words": [
+        {
+            "word": "intersect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "inter-",
+                    "meaning": {
+                        "ko": "사이에",
+                        "en": "between",
+                        "ja": "間に",
+                        "zh": "之间",
+                        "fr": "entre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sect",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로를 자르고 지나가다'는 의미에서, 선이나 길이 '교차하다'는 뜻입니다.",
+                "en": "From the meaning 'to cut and pass through each other,' referring to lines or paths that 'cross each other.'",
+                "ja": "「互いに切り抜けて通る」という意味から、線や道が「交差する」という意味になりました。",
+                "zh": "从「相互穿过切割」的意思，指线条或道路「相交」的含义。",
+                "fr": "Du sens « se couper mutuellement et passer à travers », désignant des lignes ou des chemins qui « se croisent »."
+            },
+            "example": "The two lines intersect at this point.",
+            "translation": {
+                "ko": "그 두 선은 이 점에서 교차한다.",
+                "ja": "その2本の線はこの点で交差する。",
+                "zh": "这两条线在这一点相交。",
+                "fr": "Les deux lignes se coupent à ce point."
+            }
+        },
+        {
+            "word": "transect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "tran- (trans-)",
+                    "meaning": {
+                        "ko": "가로질러",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sect",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'가로질러 자르다'는 의미에서, '횡단하다', '가로 절단하다'는 뜻입니다.",
+                "en": "From 'across' + 'cut': to cut through or divide by passing across",
+                "ja": "「横切って切る」という意味から、横断する、横に切断することを意味します",
+                "zh": "来自「横过」和「切割」，表示穿过或横向分割",
+                "fr": "De « à travers » + « couper » : passer à travers et diviser"
+            },
+            "example": "The new road will transect the park.",
+            "translation": {
+                "ko": "새 도로는 그 공원을 가로지를 것이다.",
+                "ja": "新しい道路はその公園を横切るだろう。",
+                "zh": "新的道路将横穿那个公园。",
+                "fr": "La nouvelle route traversera le parc."
+            }
+        },
+        {
+            "word": "dissect",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "dis-",
+                    "meaning": {
+                        "ko": "떨어져, 따로",
+                        "en": "apart",
+                        "ja": "離れて、別に",
+                        "zh": "分开、分离",
+                        "fr": "à part, séparé"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sect",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'따로따로 잘라내는 것'이라는 의미에서, '해부하다', '면밀히 분석하다'는 뜻입니다.",
+                "en": "From the idea of 'cutting apart separately' — means to dissect/anatomize or analyze in detail.",
+                "ja": "「別々に切り分ける」という意味から、「解剖する」「詳しく分析する」という意味になります。",
+                "zh": "从「分别切割」的含义引申，表示「解剖」或「详细分析」。",
+                "fr": "Du sens de 'couper séparément', signifie disséquer ou analyser en détail."
+            },
+            "example": "We dissected a frog in biology class.",
+            "translation": {
+                "ko": "우리는 생물 시간에 개구리를 해부했다.",
+                "ja": "私たちは生物の授業でカエルを解剖した。",
+                "zh": "我们在生物课上解剖了一只青蛙。",
+                "fr": "Nous avons disséqué une grenouille en cours de biologie."
+            }
+        },
+        {
+            "word": "secant",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sec",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원을 '자르고 지나가는' 직선이라는 의미에서, 기하학의 '할선(割線)'을 뜻합니다.",
+                "en": "From Latin secare 'to cut'; a line that cuts through a curve at two points.",
+                "ja": "円を『切って通る』直線という意味から、幾何学の『割線』を指します。",
+                "zh": "从拉丁语secare（切割）而来；指通过曲线上两点的直线。",
+                "fr": "Du latin secare « couper » ; une ligne qui traverse une courbe en deux points."
+            },
+            "example": "A secant is a line that cuts a curve.",
+            "translation": {
+                "ko": "할선은 곡선을 자르는 선이다.",
+                "ja": "割線は曲線を切る直線である。",
+                "zh": "割线是切割曲线的直线。",
+                "fr": "Une sécante est une ligne qui coupe une courbe."
+            }
+        },
+        {
+            "word": "section",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sect",
+                    "meaning": {
+                        "ko": "자르다",
+                        "en": "to cut",
+                        "ja": "切る",
+                        "zh": "切割",
+                        "fr": "couper"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'잘라낸 부분'이라는 의미에서 '부분', '구역', '부문'을 뜻합니다.",
+                "en": "Refers to a part, area, or division derived from the meaning of 'a cut-out portion'",
+                "ja": "切り取られた部分という意味から、部分、区域、部門を意味します",
+                "zh": "从'切割出来的部分'的含义衍生，表示部分、区域或部门",
+                "fr": "Dérive du sens de 'portion coupée', signifiant une partie, une zone ou une division"
+            },
+            "example": "This section of the book is boring.",
+            "translation": {
+                "ko": "책의 이 부분은 지루하다.",
+                "ja": "この本のセクションは退屈です",
+                "zh": "这本书的这一部分很无聊",
+                "fr": "Cette section du livre est ennuyeuse"
+            }
+        }
+    ]
+}

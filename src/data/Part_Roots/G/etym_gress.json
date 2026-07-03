@@ -1,0 +1,265 @@
+{
+    "root_info": {
+        "roots": "gress (walk, enter) digress, egress, ingress, progress, transgress",
+        "origin": "Latin, gradi, gressus (to step, to walk)",
+        "meaning": {
+            "ko": "걷다",
+            "en": "to walk",
+            "ja": "歩く",
+            "zh": "走",
+            "fr": "marcher"
+        }
+    },
+    "words": [
+        {
+            "word": "digress",
+            "part_of_speech": "",
+            "origin": "Latin, digredi (to step aside)",
+            "meaning": {
+                "ko": "옆으로 가다",
+                "en": "to go to the side",
+                "ja": "脱線する",
+                "zh": "偏离主题",
+                "fr": "s'écarter du sujet"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "di- (dis-)",
+                    "meaning": {
+                        "ko": "'떨어져, 옆으로'",
+                        "en": "aside",
+                        "ja": "脇に、別に",
+                        "zh": "旁边、别处",
+                        "fr": "à côté, de côté"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gress",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'주제에서 떨어져 옆으로 가다'는 의미에서 '주제에서 벗어나다'라는 뜻이 되었습니다.",
+                "en": "The metaphor of 'going aside from the topic' evolved to mean 'deviating from the main subject'.",
+                "ja": "主題から脇へ行く比喩から、主な話題から逸脱する意味へ発展しました。",
+                "zh": "从'偏离主题去旁边'的比喻演变为'背离主要话题'的含义。",
+                "fr": "La métaphore de 's'écarter du sujet' a évolué pour signifier 'dévier du sujet principal'."
+            },
+            "example": "The professor would often digress from his main topic.",
+            "translation": {
+                "ko": "그 교수는 종종 그의 주요 주제에서 벗어나곤 했다.",
+                "ja": "教授はしばしば主な話題から脱線していました。",
+                "zh": "那位教授经常偏离主要话题。",
+                "fr": "Le professeur s'écartait souvent de son sujet principal."
+            }
+        },
+        {
+            "word": "egress",
+            "part_of_speech": "",
+            "origin": "Latin, egressus (a going out)",
+            "meaning": {
+                "ko": "밖으로 나감",
+                "en": "going out",
+                "ja": "外へ出ること",
+                "zh": "向外出去",
+                "fr": "sortie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "e- (ex-)",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gress",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 나가는 행위' 또는 '출구'를 뜻합니다.",
+                "en": "The act of going out or an exit",
+                "ja": "外に出る行為または出口を意味します",
+                "zh": "表示外出的行为或出口",
+                "fr": "L'acte de sortir ou une sortie"
+            },
+            "example": "The emergency egress is located at the back of the building.",
+            "translation": {
+                "ko": "비상 출구는 건물 뒤편에 있다.",
+                "ja": "非常口は建物の裏側にあります",
+                "zh": "紧急出口位于建筑物的后面",
+                "fr": "La sortie de secours est située à l'arrière du bâtiment"
+            }
+        },
+        {
+            "word": "ingress",
+            "part_of_speech": "",
+            "origin": "Latin, ingressus (a going in)",
+            "meaning": {
+                "ko": "안으로 들어감",
+                "en": "entering inward",
+                "ja": "内部への進入",
+                "zh": "进入内部",
+                "fr": "entrée"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "'안으로'",
+                        "en": "in",
+                        "ja": "内へ",
+                        "zh": "向内",
+                        "fr": "vers l'intérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gress",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 들어가는 행위' 또는 '입구'를 뜻합니다.",
+                "en": "The act of entering inward or an entrance",
+                "ja": "内部へ入る行為、または入口を意味します",
+                "zh": "向内进入的行为，或入口的含义",
+                "fr": "L'acte d'entrer ou une entrée"
+            },
+            "example": "The main ingress to the castle was heavily guarded.",
+            "translation": {
+                "ko": "성으로 들어가는 주된 입구는 삼엄하게 경비되었다.",
+                "ja": "城への主な入口は厳重に警備されていた",
+                "zh": "城堡的主要入口受到严密守卫",
+                "fr": "L'entrée principale du château était lourdement gardée"
+            }
+        },
+        {
+            "word": "progress",
+            "part_of_speech": "",
+            "origin": "Latin, progressus (a stepping forward)",
+            "meaning": {
+                "ko": "앞으로 나아감",
+                "en": "moving forward",
+                "ja": "前進、発展",
+                "zh": "进步、进展",
+                "fr": "progrès, avancement"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "pro-",
+                    "meaning": {
+                        "ko": "'앞으로'",
+                        "en": "forward",
+                        "ja": "前へ",
+                        "zh": "向前",
+                        "fr": "en avant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gress",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去、进行",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'앞으로 나아감'이라는 의미에서 '진전', '발전'을 뜻합니다.",
+                "en": "Means progress or development in the sense of moving forward",
+                "ja": "前へ進むという意味から進展や発展を意味します",
+                "zh": "从向前行进的意义引申为进步和发展",
+                "fr": "Signifie progrès ou développement au sens d'avancer"
+            },
+            "example": "We have made great progress on the project.",
+            "translation": {
+                "ko": "우리는 그 프로젝트에서 큰 진전을 이루었다.",
+                "ja": "私たちはそのプロジェクトで大きな進展を遂げました",
+                "zh": "我们在该项目上取得了很大进步",
+                "fr": "Nous avons fait de grands progrès sur le projet"
+            }
+        },
+        {
+            "word": "transgress",
+            "part_of_speech": "",
+            "origin": "Latin, transgressus (a stepping across)",
+            "meaning": {
+                "ko": "가로질러 감",
+                "en": "to go across",
+                "ja": "違反する、越える",
+                "zh": "违反、逾越",
+                "fr": "transgresser, dépasser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "trans-",
+                    "meaning": {
+                        "ko": "'가로질러'",
+                        "en": "across",
+                        "ja": "横切って",
+                        "zh": "横跨、穿过",
+                        "fr": "à travers"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "gress",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去、行走",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정해진 한계를 넘어가다'는 의미에서 법이나 규칙을 '어기다', '위반하다'라는 뜻입니다.",
+                "en": "Means to violate or break laws and rules by crossing established boundaries.",
+                "ja": "決められた限界を越えることから、法律や規則を破る、違反するという意味です。",
+                "zh": "从越过既定界限的意义引申，表示违反法律或规则的行为。",
+                "fr": "Signifie enfreindre ou violer les lois et règles en franchissant les limites établies."
+            },
+            "example": "He transgressed the boundaries of good taste.",
+            "translation": {
+                "ko": "그는 품위의 경계를 넘어섰다.",
+                "ja": "彼は良い趣味の境界を越えた。",
+                "zh": "他违反了良好品味的界限。",
+                "fr": "Il a transgressé les limites du bon goût."
+            }
+        }
+    ]
+}

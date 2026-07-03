@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ist (one who specializes in) dermatologist, optimist, optometrist",
+        "origin": "Greek, -istes",
+        "meaning": {
+            "ko": "…을 전문으로 하는 사람",
+            "en": "one who specializes in",
+            "ja": "…を専門とする人",
+            "zh": "专门从事…的人",
+            "fr": "personne spécialisée dans …"
+        }
+    },
+    "words": [
+        {
+            "word": "dermatologist",
+            "part_of_speech": "",
+            "origin": "Greek, derma (skin) + logos (study)",
+            "meaning": {
+                "ko": "피부 연구가",
+                "en": "skin researcher",
+                "ja": "皮膚専門医",
+                "zh": "皮肤科医生",
+                "fr": "dermatologue"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "dermato-",
+                    "meaning": {
+                        "ko": "'피부'",
+                        "en": "skin",
+                        "ja": "皮膚",
+                        "zh": "皮肤",
+                        "fr": "peau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logist",
+                    "meaning": {
+                        "ko": "'학자, 전문가'",
+                        "en": "scholar or expert",
+                        "ja": "学者、専門家",
+                        "zh": "学者、专家",
+                        "fr": "savant, expert"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부를 전문으로 연구하고 치료하는 의사'인 '피부과 의사'를 뜻합니다.",
+                "en": "A doctor who specializes in researching and treating skin conditions",
+                "ja": "皮膚を専門に研究し治療する医師",
+                "zh": "专门研究和治疗皮肤病的医生",
+                "fr": "médecin spécialisé en maladies de peau"
+            },
+            "example": "You should see a dermatologist for your skin problems.",
+            "translation": {
+                "ko": "피부 문제로 피부과 의사의 진찰을 받아야 합니다.",
+                "ja": "皮膚の問題は皮膚科医に診てもらった方がいいです。",
+                "zh": "你应该去看皮肤科医生治疗皮肤问题。",
+                "fr": "Vous devriez consulter un dermatologue pour vos problèmes de peau."
+            }
+        },
+        {
+            "word": "optimist",
+            "part_of_speech": "",
+            "origin": "Latin, optimus (best)",
+            "meaning": {
+                "ko": "최고의 것",
+                "en": "최고의 것",
+                "ja": "楽観主義者",
+                "zh": "乐观主义者",
+                "fr": "optimiste"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "optim- (optimus)",
+                    "meaning": {
+                        "ko": "'최고의'",
+                        "en": "best",
+                        "ja": "最高の",
+                        "zh": "最好的",
+                        "fr": "le meilleur"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ist",
+                    "meaning": {
+                        "ko": "'~을 믿는 사람'",
+                        "en": "person who believes in",
+                        "ja": "~を信じる人",
+                        "zh": "相信~的人",
+                        "fr": "personne qui croit en"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모든 것이 최고로 잘 될 것이라고 믿는' '낙관주의자'를 뜻합니다.",
+                "en": "A person who believes everything will turn out for the best",
+                "ja": "すべてが最高にうまくいくと信じる人",
+                "zh": "相信一切都会顺利发展的人",
+                "fr": "personne qui croit que tout ira pour le mieux"
+            },
+            "example": "An optimist sees the opportunity in every difficulty.",
+            "translation": {
+                "ko": "낙관주의자는 모든 어려움 속에서 기회를 본다.",
+                "ja": "楽観主義者は困難の中に機会を見出します。",
+                "zh": "乐观主义者在困难中看到机会。",
+                "fr": "Un optimiste voit l'opportunité dans chaque difficulté."
+            }
+        },
+        {
+            "word": "optometrist",
+            "part_of_speech": "",
+            "origin": "Greek, optos (seen, visible) + metron (measure)",
+            "meaning": {
+                "ko": "시력을 재는 사람",
+                "en": "person who measures vision",
+                "ja": "視力を測る人",
+                "zh": "视力检查专家",
+                "fr": "opticien"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "opto-",
+                    "meaning": {
+                        "ko": "'시력'",
+                        "en": "vision",
+                        "ja": "視力",
+                        "zh": "视力",
+                        "fr": "vision"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "metrist",
+                    "meaning": {
+                        "ko": "'측정하는 사람'",
+                        "en": "person who measures",
+                        "ja": "測定する人",
+                        "zh": "测量的人",
+                        "fr": "personne qui mesure"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시력을 측정하고 교정하는 전문가'인 '검안사'를 뜻합니다.",
+                "en": "A professional who measures and corrects vision, known as an optometrist",
+                "ja": "視力を測定し矯正する専門家である検眼士を意味します",
+                "zh": "指测量和矫正视力的专家，称为验光师",
+                "fr": "Un professionnel qui mesure et corrige la vision, connu sous le nom d'opticien"
+            },
+            "example": "The optometrist checked my vision.",
+            "translation": {
+                "ko": "검안사가 내 시력을 검사했다.",
+                "ja": "検眼士が私の視力を検査しました",
+                "zh": "验光师检查了我的视力",
+                "fr": "L'opticien a vérifié ma vision"
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "root_info": {
+        "roots": "sibilat (hiss) sibilant, sibilate, sibilance",
+        "origin": "Latin, sibilare (to hiss)",
+        "meaning": {
+            "ko": "쉿 소리를 내다",
+            "en": "to hiss",
+            "ja": "シーという音を立てる",
+            "zh": "发出嘶声",
+            "fr": "siffler"
+        }
+    },
+    "words": [
+        {
+            "word": "sibilant",
+            "part_of_speech": "",
+            "origin": "Latin, sibilans (hissing)",
+            "meaning": {
+                "ko": "쉿 소리를 내는",
+                "en": "making a hissing sound",
+                "ja": "シューという音を出す",
+                "zh": "发嘶嘘声的",
+                "fr": "produisant un bruit sifflant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sibil-",
+                    "meaning": {
+                        "ko": "'쉿 소리를 내다'",
+                        "en": "to hiss",
+                        "ja": "シューという音を出す",
+                        "zh": "发嘶嘘声",
+                        "fr": "produire un bruit sifflant"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'s'나 'sh'처럼 '쉿 하는 소리가 나는'이라는 의미의 '치찰음의'라는 뜻입니다.",
+                "en": "Refers to fricative consonants like 's' or 'sh' that produce a hissing sound",
+                "ja": "'s'や'sh'のようにシューという音が出る音韻を指す",
+                "zh": "'s'或'sh'等发出嘶嘘声的辅音",
+                "fr": "Désigne les consonnes fricatives comme 's' ou 'sh' produisant un son sifflant"
+            },
+            "example": "The word \"hiss\" itself is a sibilant sound.",
+            "translation": {
+                "ko": "\"hiss\"라는 단어 자체가 치찰음이다.",
+                "ja": "単語'hiss'自体が治擦音である。",
+                "zh": "单词'hiss'本身是一个嘶音。",
+                "fr": "Le mot 'hiss' lui-même est un son sifflant."
+            }
+        },
+        {
+            "word": "sibilate",
+            "part_of_speech": "",
+            "origin": "Latin, sibilare (to hiss)",
+            "meaning": {
+                "ko": "쉿 소리를 내다",
+                "en": "to make a hissing sound",
+                "ja": "シューという音を出す",
+                "zh": "发出嘶嘶声",
+                "fr": "produire un son sifflant"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sibil-",
+                    "meaning": {
+                        "ko": "'쉿 소리를 내다'",
+                        "en": "to hiss",
+                        "ja": "シューという音を出す",
+                        "zh": "发出嘶嘶声",
+                        "fr": "produire un sifflement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'쉿 소리를 내다'는 뜻입니다.",
+                "en": "to make a hissing sound",
+                "ja": "シューという音を出すことを意味します",
+                "zh": "表示发出嘶嘶声",
+                "fr": "signifie produire un son sifflant"
+            },
+            "example": "The snake began to sibilate.",
+            "translation": {
+                "ko": "그 뱀은 쉿 소리를 내기 시작했다.",
+                "ja": "ヘビはシューという音を出し始めた。",
+                "zh": "蛇开始发出嘶嘶声。",
+                "fr": "Le serpent a commencé à produire un son sifflant."
+            }
+        },
+        {
+            "word": "sibilance",
+            "part_of_speech": "",
+            "origin": "Latin, sibilans (hissing)",
+            "meaning": {
+                "ko": "쉿 소리를 내는",
+                "en": "making a hissing sound",
+                "ja": "シューという音",
+                "zh": "嘶声音",
+                "fr": "sifflement"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sibil-",
+                    "meaning": {
+                        "ko": "'쉿 소리를 내다'",
+                        "en": "to hiss",
+                        "ja": "シューという音を出す",
+                        "zh": "发出嘶声",
+                        "fr": "faire un sifflement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'쉿 하는 소리', '치찰음'을 뜻합니다.",
+                "en": "The quality of sound like 'shh' or 'ss', also called sibilant consonant",
+                "ja": "シューという音、摩擦音を意味する",
+                "zh": "嘶声音，擦音的意思",
+                "fr": "Le bruit de 'chh' ou 'ss', aussi appelé consonne sifflante"
+            },
+            "example": "The sibilance of the wind through the trees was eerie.",
+            "translation": {
+                "ko": "나무 사이로 부는 바람의 쉿 하는 소리는 섬뜩했다.",
+                "ja": "木を通る風のシューという音は不気味だった。",
+                "zh": "风吹过树木的嘶声令人毛骨悚然。",
+                "fr": "Le sifflement du vent à travers les arbres était inquiétant."
+            }
+        }
+    ]
+}

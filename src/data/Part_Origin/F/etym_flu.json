@@ -1,0 +1,298 @@
+{
+    "root_info": {
+        "roots": "flu, flux",
+        "origin": "Latin",
+        "meaning": {
+            "ko": "흐르다",
+            "en": "flow",
+            "ja": "流れる (nagareru)",
+            "zh": "流 (liú)",
+            "fr": "couler"
+        }
+    },
+    "words": [
+        {
+            "word": "effluence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ef- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flu",
+                    "meaning": {
+                        "ko": "흐르다",
+                        "en": "to flow",
+                        "ja": "流れる",
+                        "zh": "流动",
+                        "fr": "couler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 흘러나오는 것'이라는 의미로, '유출', '방출' 또는 '유출물'을 뜻합니다.",
+                "en": "From Latin effluens: 'flowing out'. Means an outflow, discharge, or effluent substance.",
+                "ja": "ラテン語の effluens に由来し、「流れ出る」という意味。排出、放出、または流出物を意味します。",
+                "zh": "源自拉丁语 effluens，意为「流出」。指排放、流出或流出物。",
+                "fr": "Du latin effluens : « qui s'écoule ». Désigne un écoulement, une émission ou une substance rejetée."
+            },
+            "example": "The effluence from the factory was visible.",
+            "translation": {
+                "ko": "공장에서 나온 유출물이 눈에 보였다.",
+                "ja": "工場からの流出物が見えた。",
+                "zh": "工厂排放的污水是可见的。",
+                "fr": "L'effluent provenant de l'usine était visible."
+            }
+        },
+        {
+            "word": "influence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "en dedans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flu",
+                    "meaning": {
+                        "ko": "흐르다",
+                        "en": "to flow",
+                        "ja": "流れる",
+                        "zh": "流动",
+                        "fr": "couler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 점성술에서 별의 기운이 사람에게 '흘러 들어온다'는 생각에서 유래했습니다. 현재는 다른 사람의 생각이나 행동에 미치는 '영향', '영향력'을 의미합니다.",
+                "en": "Originally from astrology: the idea that stellar forces 'flow into' people. Now means the 'effect' or 'power' one exerts on others' thoughts and actions.",
+                "ja": "もともと占星術に由来し、星の影響が人に『流れ込む』という考えから生まれました。現在は、他人の考えや行動に与える『影響』『影響力』を意味します。",
+                "zh": "源于占星术，认为星体的力量『流入』人体。现指对他人思想或行为所产生的『影响』或『影响力』。",
+                "fr": "Originaire de l'astrologie : l'idée que l'influence des astres « s'écoule en » nous. Désigne maintenant l'« effet » ou le « pouvoir » qu'on exerce sur la pensée et les actions d'autrui."
+            },
+            "example": "He has a big influence on his friends.",
+            "translation": {
+                "ko": "그는 친구들에게 큰 영향력을 미친다.",
+                "ja": "彼は友達に大きな影響力を持っている。",
+                "zh": "他对朋友们有很大的影响力。",
+                "fr": "Il a une grande influence sur ses amis."
+            }
+        },
+        {
+            "word": "effluvium",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ef- (ex-)",
+                    "meaning": {
+                        "ko": "밖으로",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fluv",
+                    "meaning": {
+                        "ko": "흐르다",
+                        "en": "to flow",
+                        "ja": "流れる",
+                        "zh": "流动",
+                        "fr": "couler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 흘러나오는 것'이라는 의미로, 특히 불쾌한 '악취'나 '독기'를 뜻합니다.",
+                "en": "Something flowing outward; especially an unpleasant odor or noxious vapor",
+                "ja": "外に流れ出るもの、特に不快な悪臭や有毒なガスを意味します",
+                "zh": "流出的东西，特别指令人不快的恶臭或有毒气体",
+                "fr": "Quelque chose qui s'écoule vers l'extérieur ; notamment une odeur désagréable ou une vapeur toxique"
+            },
+            "example": "An effluvium rose from the swamp.",
+            "translation": {
+                "ko": "늪지에서 악취가 피어올랐다.",
+                "ja": "湿地帯から悪臭が立ち上った。",
+                "zh": "沼泽地里散发出恶臭。",
+                "fr": "Une puanteur s'élevait du marais."
+            }
+        },
+        {
+            "word": "fluctuate",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fluct",
+                    "meaning": {
+                        "ko": "물결치다",
+                        "en": "to wave, flow",
+                        "ja": "波のように揺れ動く",
+                        "zh": "波浪般流动",
+                        "fr": "onduler, couler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물결처럼 오르내리며 흐르다'는 의미에서, 가격, 온도 등이 '변동하다', '오르내리다'는 뜻입니다.",
+                "en": "From the sense of 'flowing up and down like waves': prices, temperatures, etc. 'fluctuate' or 'rise and fall'",
+                "ja": "波のように上下に動く流れを意味し、価格や気温などが変動する、上下するという意味です",
+                "zh": "从如波浪般上下流动的含义引申，表示价格、温度等变动、涨跌",
+                "fr": "Du sens de 's'écouler en montant et descendant comme des vagues', les prix, les températures, etc. 'varient' ou 'fluctuent'"
+            },
+            "example": "The prices fluctuate throughout the year.",
+            "translation": {
+                "ko": "가격은 일 년 내내 변동한다.",
+                "ja": "価格は一年を通じて変動する。",
+                "zh": "价格全年波动。",
+                "fr": "Les prix fluctuent tout au long de l'année."
+            }
+        },
+        {
+            "word": "confluence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "con-",
+                    "meaning": {
+                        "ko": "함께",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flu",
+                    "meaning": {
+                        "ko": "흐르다",
+                        "en": "to flow",
+                        "ja": "流れる",
+                        "zh": "流动",
+                        "fr": "couler"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "두 개 이상의 강물이 '함께 흘러 합쳐지는 지점' 즉 '합류점'을 의미합니다.",
+                "en": "The point where two or more rivers flow together and merge; a meeting point of streams.",
+                "ja": "2つ以上の河が「一緒に流れて合流する地点」つまり「合流点」を意味します。",
+                "zh": "两条或多条河流「一起流动并汇合的地点」，即「汇合点」。",
+                "fr": "Le point où deux ou plusieurs cours d'eau « coulent ensemble et confluent », c'est-à-dire un « point de confluence »."
+            },
+            "example": "The city is at the confluence of two rivers.",
+            "translation": {
+                "ko": "그 도시는 두 강의 합류 지점에 있다.",
+                "ja": "その都市は2つの川の合流点に位置している。",
+                "zh": "这座城市位于两条河流的汇合点。",
+                "fr": "La ville se situe à la confluence de deux rivières."
+            }
+        },
+        {
+            "word": "reflux",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "뒤로",
+                        "en": "back",
+                        "ja": "後ろに",
+                        "zh": "向后",
+                        "fr": "arrière"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flux",
+                    "meaning": {
+                        "ko": "흐름",
+                        "en": "flow",
+                        "ja": "流れ",
+                        "zh": "流动",
+                        "fr": "flux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뒤로 흐르는 것' 즉, '역류'를 의미합니다.",
+                "en": "Literally 'flowing backward,' meaning abnormal backward flow or regurgitation.",
+                "ja": "文字通り「後ろへ流れること」、つまり「逆流」を意味します。",
+                "zh": "字面意思为「向后流动」，即「逆流」。",
+                "fr": "Littéralement « flux vers l'arrière », signifiant un flux ou une régurgitation anormale."
+            },
+            "example": "He suffers from acid reflux.",
+            "translation": {
+                "ko": "그는 위산 역류로 고통받는다.",
+                "ja": "彼は胃酸逆流症で苦しんでいる。",
+                "zh": "他患有胃酸反流。",
+                "fr": "Il souffre de reflux acide."
+            }
+        },
+        {
+            "word": "influx",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "in-",
+                    "meaning": {
+                        "ko": "안으로",
+                        "en": "in",
+                        "ja": "中へ",
+                        "zh": "向内",
+                        "fr": "dans"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "flux",
+                    "meaning": {
+                        "ko": "흐름",
+                        "en": "flow",
+                        "ja": "流れ",
+                        "zh": "流动",
+                        "fr": "flux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'안으로 흘러 들어오는 것'이라는 의미에서 '유입', '쇄도'를 뜻합니다.",
+                "en": "Meaning 'flowing inward'; denotes a large arrival or rush of people or things",
+                "ja": "「内へ流れ込む」という意味から、大量の人や物が流入することを表します",
+                "zh": "从\"向内流动\"的含义出发，表示大量人员或物资的涌入",
+                "fr": "Du sens de \"flux vers l'intérieur\"; désigne l'arrivée ou l'afflux massif de personnes ou de choses"
+            },
+            "example": "The city saw a huge influx of tourists.",
+            "translation": {
+                "ko": "그 도시는 엄청난 관광객의 유입을 보았다.",
+                "ja": "その都市は観光客の大量流入を経験した。",
+                "zh": "这座城市经历了大量游客的涌入。",
+                "fr": "La ville a connu un afflux massif de touristes."
+            }
+        }
+    ]
+}

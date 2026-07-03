@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "spend (hang) spend, expend, suspend",
+        "origin": "Latin, pendere (to hang, to weigh, to pay)",
+        "meaning": {
+            "ko": "매달다, 지불하다",
+            "en": "to hang, to pay",
+            "ja": "掛ける、支払う",
+            "zh": "悬挂、支付",
+            "fr": "accrocher, payer"
+        }
+    },
+    "words": [
+        {
+            "word": "spend",
+            "part_of_speech": "",
+            "origin": "Latin, expendere (to pay out)",
+            "meaning": {
+                "ko": "밖으로 지불하다",
+                "en": "to pay out",
+                "ja": "金銭を支払う",
+                "zh": "花费金钱",
+                "fr": "dépenser de l'argent"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "spend- (expendere)",
+                    "meaning": {
+                        "ko": "'지불하다'",
+                        "en": "to pay out",
+                        "ja": "支払う",
+                        "zh": "支付",
+                        "fr": "payer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'돈이나 시간을 쓰다', '소비하다'는 뜻입니다.",
+                "en": "Means to use money or time; to consume",
+                "ja": "お金や時間を使う、消費する意味です",
+                "zh": "表示花费金钱或时间，消费的意思",
+                "fr": "Signifie utiliser de l'argent ou du temps; consommer"
+            },
+            "example": "How much money did you spend?",
+            "translation": {
+                "ko": "돈을 얼마나 썼어요?",
+                "ja": "あなたはいくらお金を使いましたか?",
+                "zh": "你花了多少钱?",
+                "fr": "Combien d'argent avez-vous dépensé?"
+            }
+        },
+        {
+            "word": "expend",
+            "part_of_speech": "",
+            "origin": "Latin, expendere (to pay out)",
+            "meaning": {
+                "ko": "밖으로 지불하다",
+                "en": "to pay out",
+                "ja": "費やす",
+                "zh": "花费",
+                "fr": "dépenser"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend",
+                    "meaning": {
+                        "ko": "'지불하다'",
+                        "en": "to pay",
+                        "ja": "支払う",
+                        "zh": "支付",
+                        "fr": "payer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'돈, 시간, 에너지를 밖으로 내어 쓰다'는 의미에서 '소비하다'는 뜻입니다.",
+                "en": "Means to consume or use up money, time, or energy by spending it outward",
+                "ja": "お金、時間、エネルギーを外に使うという意味で、消費することです",
+                "zh": "指向外花费金钱、时间或能量，即消费的意思",
+                "fr": "Signifie consommer ou dépenser l'argent, le temps ou l'énergie vers l'extérieur"
+            },
+            "example": "We have expended a lot of effort on this project.",
+            "translation": {
+                "ko": "우리는 이 프로젝트에 많은 노력을 쏟았다.",
+                "ja": "このプロジェクトに多くの努力を費やしました",
+                "zh": "我们在这个项目上花费了很多努力",
+                "fr": "Nous avons dépensé beaucoup d'efforts sur ce projet"
+            }
+        },
+        {
+            "word": "suspend",
+            "part_of_speech": "",
+            "origin": "Latin, suspendere (to hang up)",
+            "meaning": {
+                "ko": "매달다",
+                "en": "to hang from",
+                "ja": "吊り下げる",
+                "zh": "悬挂",
+                "fr": "suspendre"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sus- (sub-)",
+                    "meaning": {
+                        "ko": "'아래에서'",
+                        "en": "from below",
+                        "ja": "下から",
+                        "zh": "从下方",
+                        "fr": "par en dessous"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pend",
+                    "meaning": {
+                        "ko": "'매달다'",
+                        "en": "to hang",
+                        "ja": "吊る",
+                        "zh": "悬挂",
+                        "fr": "pendre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'아래에서 위로 매달다'는 의미에서 '매달다' 또는 일시적으로 '중단하다', '정직/정학시키다'는 뜻이 되었습니다.",
+                "en": "From the sense of 'hanging from below upward', it came to mean 'to hang' or temporarily 'to stop', 'to dismiss/expel'.",
+                "ja": "下から上に吊り下げるという意味から、吊るという意味、または一時的に中断する、懲戒する、という意味になりました。",
+                "zh": "从从下向上悬挂的意思演变为悬挂，或暂时停止、处分的意思。",
+                "fr": "Du sens de suspendre par en dessous vers le haut, il a pris le sens de pendre ou d'arrêter temporairement, de révoquer."
+            },
+            "example": "The lamp was suspended from the ceiling.",
+            "translation": {
+                "ko": "램프는 천장에 매달려 있었다.",
+                "ja": "ランプは天井から吊り下げられていた。",
+                "zh": "灯从天花板上悬挂着。",
+                "fr": "La lampe était suspendue au plafond."
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "ton(ic/o) (stretched) hypertonic, isotonic, tonus",
+        "origin": "Greek, tonos (a stretching, a tone)",
+        "meaning": {
+            "ko": "뻗음, 긴장",
+            "en": "a stretching",
+            "ja": "伸びること / 張り詰めること",
+            "zh": "伸展 / 拉伸",
+            "fr": "étirement / tension"
+        }
+    },
+    "words": [
+        {
+            "word": "hypertonic",
+            "part_of_speech": "",
+            "origin": "Greek, hyper- (over) + tonos (tension)",
+            "meaning": {
+                "ko": "과도한 긴장",
+                "en": "excessive tension",
+                "ja": "過度な緊張",
+                "zh": "过度紧张",
+                "fr": "tension excessive"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "hyper-",
+                    "meaning": {
+                        "ko": "'위에, 초과하여'",
+                        "en": "over, above",
+                        "ja": "上に、超えて",
+                        "zh": "超过、上方",
+                        "fr": "au-dessus, excès"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tonic",
+                    "meaning": {
+                        "ko": "'긴장'",
+                        "en": "tension",
+                        "ja": "緊張",
+                        "zh": "紧张",
+                        "fr": "tension"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'용액의 농도가 세포보다 높아 물이 빠져나가 세포가 쭈그러드는' 상태인 '고장성의'라는 뜻입니다.",
+                "en": "A hypertonic solution has a higher solute concentration than the cell, causing water to leave the cell and the cell to shrivel.",
+                "ja": "溶液の濃度が細胞より高く、水が出ていき細胞がしぼむ状態の高張性を意味します。",
+                "zh": "溶液的浓度高于细胞，导致水分流出，细胞收缩的高渗透压状态。",
+                "fr": "Une solution avec une concentration de soluté plus élevée que la cellule, causant la sortie d'eau et le rétrécissement cellulaire."
+            },
+            "example": "A hypertonic solution has a higher solute concentration than the cell.",
+            "translation": {
+                "ko": "고장액은 세포보다 용질 농도가 더 높다.",
+                "ja": "高張性の",
+                "zh": "高渗透压的",
+                "fr": "hypotonique"
+            }
+        },
+        {
+            "word": "isotonic",
+            "part_of_speech": "",
+            "origin": "Greek, isos (equal) + tonos (tension)",
+            "meaning": {
+                "ko": "같은 긴장",
+                "en": "equal tension",
+                "ja": "等張性の",
+                "zh": "等渗性的",
+                "fr": "isotonique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "iso-",
+                    "meaning": {
+                        "ko": "'같은'",
+                        "en": "equal",
+                        "ja": "同じ",
+                        "zh": "相同的",
+                        "fr": "égal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "tonic",
+                    "meaning": {
+                        "ko": "'긴장'",
+                        "en": "tension",
+                        "ja": "張力",
+                        "zh": "张力",
+                        "fr": "tension"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'용액의 농도가 세포와 같은' 상태인 '등장성의'라는 뜻입니다.",
+                "en": "A state where the concentration of a solution is equal to that of a cell; meaning isotonic.",
+                "ja": "溶液の濃度が細胞と同じ状態である等張性の意味です。",
+                "zh": "溶液浓度与细胞相同状态的等渗性含义。",
+                "fr": "État où la concentration d'une solution est égale à celle d'une cellule; signifiant isotonique."
+            },
+            "example": "Isotonic drinks help to replace fluids and electrolytes lost during exercise.",
+            "translation": {
+                "ko": "등장성 음료는 운동 중에 손실된 수분과 전해질을 보충하는 데 도움이 된다.",
+                "ja": "等張性飲料は運動中に失われた体液と電解質の補給に役立ちます。",
+                "zh": "等渗饮料有助于补充运动中失去的体液和电解质。",
+                "fr": "Les boissons isotoniques aident à remplacer les liquides et électrolytes perdus pendant l'exercice."
+            }
+        },
+        {
+            "word": "tonus",
+            "part_of_speech": "",
+            "origin": "Greek, tonos (tension)",
+            "meaning": {
+                "ko": "긴장",
+                "en": "tension or muscle tone",
+                "ja": "筋緊張",
+                "zh": "肌肉张力",
+                "fr": "tonus musculaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ton-",
+                    "meaning": {
+                        "ko": "'긴장'",
+                        "en": "tension",
+                        "ja": "緊張",
+                        "zh": "张力",
+                        "fr": "tension"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'근육이 지속적으로 약간 긴장되어 있는 상태'인 '근긴장'을 뜻합니다.",
+                "en": "Refers to muscle tonus, the state in which muscles are continuously maintained in slight tension.",
+                "ja": "筋肉が継続的にわずかに緊張している状態を意味します。",
+                "zh": "指肌肉持续保持轻微紧张状态的肌肉张力。",
+                "fr": "Désigne le tonus musculaire, l'état de tension légère continue des muscles."
+            },
+            "example": "Muscle tonus is important for maintaining posture.",
+            "translation": {
+                "ko": "근긴장은 자세를 유지하는 데 중요하다.",
+                "ja": "筋肉の緊張は姿勢を保つために重要です。",
+                "zh": "肌肉张力对于保持姿势很重要。",
+                "fr": "Le tonus musculaire est important pour maintenir la posture."
+            }
+        }
+    ]
+}

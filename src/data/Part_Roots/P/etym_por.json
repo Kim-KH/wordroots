@@ -1,0 +1,182 @@
+{
+    "root_info": {
+        "roots": "por (hole) osteoporosis, pore, porous, porosity",
+        "origin": "Greek, poros (a passage, a pore)",
+        "meaning": {
+            "ko": "통로, 구멍",
+            "en": "a passage",
+            "ja": "通路、穴",
+            "zh": "通道、孔",
+            "fr": "passage, trou"
+        }
+    },
+    "words": [
+        {
+            "word": "osteoporosis",
+            "part_of_speech": "",
+            "origin": "Greek, osteon (bone) + poros (passage, pore)",
+            "meaning": {
+                "ko": "뼈에 구멍이 생김",
+                "en": "bones develop holes",
+                "ja": "骨に穴ができる",
+                "zh": "骨质疏松",
+                "fr": "porosité osseuse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "osteo-",
+                    "meaning": {
+                        "ko": "'뼈'",
+                        "en": "bone",
+                        "ja": "骨",
+                        "zh": "骨",
+                        "fr": "os"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "porosis",
+                    "meaning": {
+                        "ko": "'구멍이 많은 상태'",
+                        "en": "state of having many pores",
+                        "ja": "多孔質の状態",
+                        "zh": "多孔状态",
+                        "fr": "état poreux"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뼈에 구멍이 많아져 약해지는' 질병인 '골다공증'을 뜻합니다.",
+                "en": "A disease where bones become weak due to increased porosity and loss of bone density.",
+                "ja": "骨に穴が増えて弱くなる病気です。",
+                "zh": "骨头变薄变弱的疾病。",
+                "fr": "Une maladie où les os deviennent fragiles."
+            },
+            "example": "Osteoporosis increases the risk of fractures.",
+            "translation": {
+                "ko": "골다공증은 골절의 위험을 증가시킨다.",
+                "ja": "骨粗鬆症は骨折のリスクを高めます。",
+                "zh": "骨质疏松症增加骨折风险。",
+                "fr": "L'ostéoporose augmente le risque de fractures."
+            }
+        },
+        {
+            "word": "pore",
+            "part_of_speech": "",
+            "origin": "Greek, poros (passage)",
+            "meaning": {
+                "ko": "통로",
+                "en": "passage or pathway",
+                "ja": "小さな穴",
+                "zh": "小孔",
+                "fr": "petit trou"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "por-",
+                    "meaning": {
+                        "ko": "'구멍'",
+                        "en": "hole",
+                        "ja": "穴",
+                        "zh": "孔",
+                        "fr": "trou"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부나 식물 잎에 있는 작은 구멍'인 '모공', '기공'을 뜻합니다.",
+                "en": "Refers to small openings in skin or plant leaves, such as pores or stomata",
+                "ja": "皮膚や植物の葉にある小さな穴、毛穴や気孔を意味します",
+                "zh": "指皮肤或植物叶片上的小孔，如毛孔或气孔",
+                "fr": "Désigne les petites ouvertures de la peau ou des feuilles de plantes, comme les pores ou les stomates"
+            },
+            "example": "Sweat comes out through the pores in your skin.",
+            "translation": {
+                "ko": "땀은 피부의 모공을 통해 나온다.",
+                "ja": "あなたの皮膚の毛穴を通って汗が出ます。",
+                "zh": "汗通过你皮肤上的毛孔排出。",
+                "fr": "La sueur s'écoule par les pores de votre peau."
+            }
+        },
+        {
+            "word": "porous",
+            "part_of_speech": "",
+            "origin": "Greek, poros (passage)",
+            "meaning": {
+                "ko": "통로",
+                "en": "passage or pathway",
+                "ja": "多孔質の",
+                "zh": "多孔的",
+                "fr": "poreux"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "por-",
+                    "meaning": {
+                        "ko": "'구멍'",
+                        "en": "hole",
+                        "ja": "穴",
+                        "zh": "孔",
+                        "fr": "trou"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은 구멍이 많아 액체나 공기가 통과할 수 있는'이라는 의미에서 '다공성의'라는 뜻입니다.",
+                "en": "Meaning 'having many small holes that allow liquids or air to pass through', hence 'porous'",
+                "ja": "小さな穴が多くあり、液体や空気が通過できるという意味から、多孔性のという意味です",
+                "zh": "有许多小孔，液体或空气能通过，因此表示多孔性的",
+                "fr": "Ayant de nombreux petits trous permettant aux liquides ou à l'air de passer, d'où le sens de poreux"
+            },
+            "example": "This material is porous and absorbs water easily.",
+            "translation": {
+                "ko": "이 재료는 다공성이어서 물을 쉽게 흡수한다.",
+                "ja": "この素材は多孔質で、水を簡単に吸収します。",
+                "zh": "这种材料是多孔的，很容易吸收水。",
+                "fr": "Ce matériau est poreux et absorbe facilement l'eau."
+            }
+        },
+        {
+            "word": "porosity",
+            "part_of_speech": "",
+            "origin": "Greek, poros (passage)",
+            "meaning": {
+                "ko": "통로",
+                "en": "passage or pathway",
+                "ja": "多孔性",
+                "zh": "孔隙度",
+                "fr": "porosité"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "por-",
+                    "meaning": {
+                        "ko": "'구멍'",
+                        "en": "hole",
+                        "ja": "穴",
+                        "zh": "孔",
+                        "fr": "trou"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다공성인 상태'를 의미합니다.",
+                "en": "State of having pores or small holes",
+                "ja": "小さな穴が多くある状態",
+                "zh": "具有许多小孔的状态",
+                "fr": "État de présence de petits trous"
+            },
+            "example": "The porosity of the rock allows it to hold water.",
+            "translation": {
+                "ko": "그 암석의 다공성 덕분에 물을 머금을 수 있다.",
+                "ja": "岩石の多孔性により水を保持できます。",
+                "zh": "岩石的孔隙度使其能够容纳水。",
+                "fr": "La porosité de la roche lui permet de retenir l'eau."
+            }
+        }
+    ]
+}

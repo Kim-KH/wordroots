@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "iasis (disease) paralysis, psoriasis, elephantiasis",
+        "origin": "Greek, -iasis (a condition, a disease)",
+        "meaning": {
+            "ko": "질병",
+            "en": "disease",
+            "ja": "病気",
+            "zh": "疾病",
+            "fr": "maladie"
+        }
+    },
+    "words": [
+        {
+            "word": "paralysis",
+            "part_of_speech": "",
+            "origin": "Greek, paralysis (a disabling)",
+            "meaning": {
+                "ko": "무력하게 함",
+                "en": "to render helpless",
+                "ja": "麻痺",
+                "zh": "瘫痪",
+                "fr": "paralysie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "para-",
+                    "meaning": {
+                        "ko": "'곁에, 잘못된'",
+                        "en": "beside, amiss",
+                        "ja": "そばに、誤った",
+                        "zh": "旁边、错误的",
+                        "fr": "à côté, mal"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "lysis",
+                    "meaning": {
+                        "ko": "'풀림'",
+                        "en": "loosening",
+                        "ja": "弛緩",
+                        "zh": "松弛",
+                        "fr": "relâchement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신경이 잘못되어 근육이 풀려버린' 상태라는 의미에서 '마비'를 뜻합니다.",
+                "en": "State where nerves malfunction and muscles become slack, meaning paralysis",
+                "ja": "神経が誤って機能し筋肉が弛緩した状態を意味し、麻痺を指す",
+                "zh": "神经功能失常导致肌肉松弛的状态，表示瘫痪",
+                "fr": "État où les nerfs dysfonctionnent et les muscles se relâchent, signifiant paralysie"
+            },
+            "example": "The accident resulted in paralysis of his legs.",
+            "translation": {
+                "ko": "그 사고는 그의 다리 마비를 초래했다.",
+                "ja": "事故により彼の脚の麻痺が生じた。",
+                "zh": "事故导致他的腿部瘫痪。",
+                "fr": "L'accident a entraîné une paralysie de ses jambes."
+            }
+        },
+        {
+            "word": "psoriasis",
+            "part_of_speech": "",
+            "origin": "Greek, psoriasis (an itching)",
+            "meaning": {
+                "ko": "가려움",
+                "en": "itching",
+                "ja": "痒み",
+                "zh": "瘙痒",
+                "fr": "démangeaison"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "psora-",
+                    "meaning": {
+                        "ko": "'가려움'",
+                        "en": "itch",
+                        "ja": "痒み",
+                        "zh": "瘙痒",
+                        "fr": "démangeaison"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-iasis",
+                    "meaning": {
+                        "ko": "'병적 상태'",
+                        "en": "pathological condition",
+                        "ja": "病的状態",
+                        "zh": "病态状况",
+                        "fr": "état pathologique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부에 붉은 반점과 비늘이 생기며 가려운' 만성 피부 질환인 '건선'을 뜻합니다.",
+                "en": "A chronic skin disease characterized by red patches and scales on the skin with itching",
+                "ja": "皮膚に赤い斑点と鱗屑が生じ、痒い慢性皮膚疾患である乾癬を意味します",
+                "zh": "一种慢性皮肤病，皮肤上出现红斑和鳞屑，伴有瘙痒，称为银屑病",
+                "fr": "Une maladie chronique de la peau caractérisée par des plaques rouges et des squames avec démangeaisons, appelée psoriasis"
+            },
+            "example": "Psoriasis is not contagious.",
+            "translation": {
+                "ko": "건선은 전염성이 없다.",
+                "ja": "乾癬は感染性ではありません",
+                "zh": "银屑病没有传染性",
+                "fr": "Le psoriasis n'est pas contagieux"
+            }
+        },
+        {
+            "word": "elephantiasis",
+            "part_of_speech": "",
+            "origin": "Greek, elephantiasis",
+            "meaning": {
+                "ko": "코끼리 병",
+                "en": "elephant disease",
+                "ja": "象皮病",
+                "zh": "象皮病",
+                "fr": "éléphantiasis"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "elephant-",
+                    "meaning": {
+                        "ko": "'코끼리'",
+                        "en": "elephant",
+                        "ja": "象",
+                        "zh": "象",
+                        "fr": "éléphant"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-iasis",
+                    "meaning": {
+                        "ko": "'병'",
+                        "en": "disease",
+                        "ja": "病",
+                        "zh": "病",
+                        "fr": "maladie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'피부나 신체 부위가 코끼리처럼 두꺼워지고 커지는' 병인 '상피병'을 뜻합니다.",
+                "en": "A disease where skin and body parts thicken and enlarge like an elephant's skin",
+                "ja": "皮膚や身体部位が象のように厚くなり肥大する病気",
+                "zh": "皮肤或身体部位像象一样增厚和肥大的疾病",
+                "fr": "Maladie où la peau et les parties du corps s'épaississent et s'élargissent comme un éléphant"
+            },
+            "example": "Elephantiasis is caused by a parasitic worm.",
+            "translation": {
+                "ko": "상피병은 기생충에 의해 발생한다.",
+                "ja": "象皮病は寄生虫が原因で起こる。",
+                "zh": "象皮病是由寄生虫引起的。",
+                "fr": "L'éléphantiasis est causée par un ver parasitaire."
+            }
+        }
+    ]
+}

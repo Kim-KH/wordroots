@@ -1,0 +1,287 @@
+{
+    "root_info": {
+        "roots": "ment: mind",
+        "origin": "Latin, mens",
+        "meaning": {
+            "ko": "마음, 정신",
+            "en": "mind",
+            "ja": "心、精神",
+            "zh": "心、精神",
+            "fr": "esprit, mental"
+        }
+    },
+    "words": [
+        {
+            "word": "vehement",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ve-",
+                    "meaning": {
+                        "ko": "결여된",
+                        "en": "lacking",
+                        "ja": "欠けた",
+                        "zh": "缺少的",
+                        "fr": "manquant"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "hement (mens)",
+                    "meaning": {
+                        "ko": "정신",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心智",
+                        "fr": "esprit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신이 나간 듯한' 즉, '이성을 잃은 듯한'이라는 의미에서 감정이나 행동이 '격렬한', '맹렬한'이라는 뜻이 되었습니다.",
+                "en": "From the sense of 'as if one's mind is absent', meaning 'as if one has lost reason', emotions or actions became 'intense', 'fierce'.",
+                "ja": "'心が失われているかのような'、つまり'理性を失ったかのような'という意味から、感情や行動が'激しい'、'猛烈な'という意味になりました。",
+                "zh": "从'仿佛心智缺失'的意思，即'仿佛失去理智'的含义，演变为情感或行为'激烈的'、'猛烈的'的意思。",
+                "fr": "Du sens de 'comme si l'on perd l'esprit', c'est-à-dire 'comme si l'on perd la raison', les émotions ou les actions sont devenues 'intenses', 'féroces'."
+            },
+            "example": "He made a vehement denial.",
+            "translation": {
+                "ko": "그는 맹렬하게 부인했다.",
+                "ja": "彼は激しく否定した。",
+                "zh": "他进行了激烈的否认。",
+                "fr": "Il a nié avec véhémence."
+            }
+        },
+        {
+            "word": "memento",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "meminisse",
+                    "meaning": {
+                        "ko": "기억하다",
+                        "en": "to remember",
+                        "ja": "思い出させる",
+                        "zh": "使人想起",
+                        "fr": "faire souvenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 memento는 '기억하라'는 명령형입니다. memini(기억하다)는 mens(정신)와 관련이 있습니다. '기억하게 하는 것'이라는 의미에서 '기념품', '추억의 물건'을 뜻합니다.",
+                "en": "Latin memento is the imperative form meaning 'remember'. Memini (to remember) is related to mens (mind). From the meaning 'something that causes remembrance', it came to mean 'souvenir' or 'keepsake'.",
+                "ja": "ラテン語のmementoは「覚えよ」という命令形です。memini(覚える)はmens(心)と関連があります。「思い出させるもの」という意味から「記念品」「思い出の品」を意味するようになりました。",
+                "zh": "拉丁语memento是「记住」的祈使形。memini(记住)与mens(精神)相关。从「使人想起」的含义发展出「纪念品」「纪念物」的意思。",
+                "fr": "Le latin memento est la forme impérative signifiant 'souviens-toi'. Memini (se souvenir) est lié à mens (l'esprit). Du sens 'chose qui fait se souvenir', il en vint à signifier 'souvenir' ou 'objet mémorable'."
+            },
+            "example": "I kept the shell as a memento of our trip.",
+            "translation": {
+                "ko": "나는 우리 여행의 기념품으로 그 조개껍데기를 간직했다.",
+                "ja": "私たちの旅の思い出として、その貝殻を取っておきました。",
+                "zh": "我保留了那个贝壳作为我们旅行的纪念品。",
+                "fr": "J'ai gardé le coquillage comme souvenir de notre voyage."
+            }
+        },
+        {
+            "word": "mental",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ment",
+                    "meaning": {
+                        "ko": "정신",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心智",
+                        "fr": "esprit"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective forming suffix",
+                        "ja": "形容詞接尾辞",
+                        "zh": "形容词后缀",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신에 관한'이라는 의미로, '정신의', '마음의'라는 뜻입니다.",
+                "en": "Relating to the mind; means 'of the mind' or 'of the spirit'",
+                "ja": "心に関する意味で、「心の」「精神の」という意味です",
+                "zh": "与心智相关，意为\"心的\"或\"精神的\"",
+                "fr": "Relatif à l'esprit ; signifie « de l'esprit » ou « de la pensée »"
+            },
+            "example": "Mental health is very important.",
+            "translation": {
+                "ko": "정신 건강은 매우 중요하다.",
+                "ja": "精神的な健康はとても重要です。",
+                "zh": "心理健康非常重要。",
+                "fr": "La santé mentale est très importante."
+            }
+        },
+        {
+            "word": "mention",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ment",
+                    "meaning": {
+                        "ko": "정신",
+                        "en": "mind",
+                        "ja": "心",
+                        "zh": "心",
+                        "fr": "esprit"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마음에 떠올려 말하는 것'이라는 의미에서 '언급', '거론'을 뜻합니다.",
+                "en": "From the idea of something coming to mind and being spoken about; means 'reference' or 'allusion'",
+                "ja": "心に浮かんで言葉にされることから、『言及』『話題にする』という意味です",
+                "zh": "从'在脑海中出现并被说出'的概念出发，表示'提及'或'论及'",
+                "fr": "De l'idée que quelque chose vient à l'esprit et est exprimé ; signifie 'référence' ou 'allusion'"
+            },
+            "example": "He made no mention of the incident.",
+            "translation": {
+                "ko": "그는 그 사건에 대해 아무런 언급도 하지 않았다.",
+                "ja": "彼はその事件について何の言及もしなかった。",
+                "zh": "他没有提及这件事。",
+                "fr": "Il n'a fait aucune allusion à l'incident."
+            }
+        },
+        {
+            "word": "reminiscence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "re-",
+                    "meaning": {
+                        "ko": "다시",
+                        "en": "again",
+                        "ja": "再び",
+                        "zh": "再次",
+                        "fr": "à nouveau"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "minisc (memini)",
+                    "meaning": {
+                        "ko": "생각나게 하다",
+                        "en": "to be mindful",
+                        "ja": "心に浮かぶ",
+                        "zh": "想起",
+                        "fr": "se souvenir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'다시 마음속에 떠오르는 것'이라는 의미에서 '추억', '회상'을 뜻합니다.",
+                "en": "Something that comes back to mind; means memory or recollection",
+                "ja": "心の中に浮かぶことから、思い出や回想を意味します",
+                "zh": "从心中浮现的东西，表示回忆或追忆",
+                "fr": "Ce qui revient à l'esprit; signifie souvenir ou remémoration"
+            },
+            "example": "The book is a reminiscence of his childhood.",
+            "translation": {
+                "ko": "그 책은 그의 어린 시절에 대한 회상이다.",
+                "ja": "思い出、回想",
+                "zh": "回忆、往事",
+                "fr": "souvenir, remémoration"
+            }
+        },
+        {
+            "word": "comment",
+            "part_of_speech": "n.",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "com-",
+                    "meaning": {
+                        "ko": "함께, 완전히",
+                        "en": "with, thoroughly",
+                        "ja": "一緒に、完全に",
+                        "zh": "一起、彻底地",
+                        "fr": "avec, complètement"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ment (memini)",
+                    "meaning": {
+                        "ko": "생각해내다",
+                        "en": "to devise",
+                        "ja": "考え出す",
+                        "zh": "想出",
+                        "fr": "concevoir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'완전히 생각해 낸 것'이라는 의미에서, 어떤 주제에 대한 '논평', '의견'을 뜻합니다.",
+                "en": "From the meaning 'something completely thought out', it refers to a 'remark' or 'opinion' about a certain topic.",
+                "ja": "'完全に考え出したもの'という意味から、あるテーマに関する'論評'、'意見'を意味します。",
+                "zh": "从'完全想出的东西'的含义来看，指对某个话题的'评论'、'看法'。",
+                "fr": "Du sens 'quelque chose complètement conçu', il désigne une 'remarque' ou 'opinion' sur un certain sujet."
+            },
+            "example": "Do you have any comments on this?",
+            "translation": {
+                "ko": "이것에 대해 어떤 의견이라도 있으신가요?",
+                "ja": "コメント",
+                "zh": "评论",
+                "fr": "commentaire"
+            }
+        },
+        {
+            "word": "demented",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "de-",
+                    "meaning": {
+                        "ko": "떨어져 나간",
+                        "en": "away, out of",
+                        "ja": "離れて、外へ",
+                        "zh": "离开，向外",
+                        "fr": "loin, hors de"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ment",
+                    "meaning": {
+                        "ko": "정신",
+                        "en": "mind",
+                        "ja": "心、精神",
+                        "zh": "心智，精神",
+                        "fr": "esprit, mental"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신이 나간' 상태를 의미하며, '미친 듯이 구는', '정신 이상의'라는 뜻입니다.",
+                "en": "Describes a state of being out of one's mind; means acting wildly or mentally unsound.",
+                "ja": "心を失った状態を表し、『狂ったように振る舞う』『精神異常の』という意味です。",
+                "zh": "表示心智错乱的状态，意为『疯狂地行动』或『精神失常的』。",
+                "fr": "Décrit un état d'aliénation mentale ; signifie agir de manière folle ou être mentalement déséquilibré."
+            },
+            "example": "He shouted like a demented person.",
+            "translation": {
+                "ko": "그는 미친 사람처럼 소리쳤다.",
+                "ja": "彼は狂った人のように叫んだ。",
+                "zh": "他像一个精神失常的人一样尖叫。",
+                "fr": "Il criait comme une personne démente."
+            }
+        }
+    ]
+}

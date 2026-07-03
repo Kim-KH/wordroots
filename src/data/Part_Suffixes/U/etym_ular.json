@@ -1,0 +1,165 @@
+{
+    "root_info": {
+        "roots": "ular (resembling) cellular, circular, singular",
+        "origin": "Latin, -ularis (resembling)",
+        "meaning": {
+            "ko": "…을 닮은",
+            "en": "resembling",
+            "ja": "〜に似た",
+            "zh": "类似于",
+            "fr": "ressemblant à"
+        }
+    },
+    "words": [
+        {
+            "word": "cellular",
+            "part_of_speech": "",
+            "origin": "Latin, cellula (a small room)",
+            "meaning": {
+                "ko": "작은 방",
+                "en": "small room",
+                "ja": "細胞の",
+                "zh": "细胞的",
+                "fr": "cellulaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cell-",
+                    "meaning": {
+                        "ko": "'세포'",
+                        "en": "cell",
+                        "ja": "細胞",
+                        "zh": "细胞",
+                        "fr": "cellule"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ular",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'세포의'라는 뜻입니다.",
+                "en": "It means 'of cells' or 'cell-related'",
+                "ja": "細胞に関する、という意味です",
+                "zh": "意思是与细胞相关的",
+                "fr": "Cela signifie 'relatif aux cellules'"
+            },
+            "example": "All living things are made of cellular structures.",
+            "translation": {
+                "ko": "모든 생명체는 세포 구조로 이루어져 있다.",
+                "ja": "すべての生物は細胞構造でできています",
+                "zh": "所有生物都由细胞结构组成",
+                "fr": "Tous les êtres vivants sont composés de structures cellulaires"
+            }
+        },
+        {
+            "word": "circular",
+            "part_of_speech": "",
+            "origin": "Latin, circularis (circular)",
+            "meaning": {
+                "ko": "원형의",
+                "en": "circular in shape",
+                "ja": "円形の",
+                "zh": "圆形的",
+                "fr": "circulaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "circ-",
+                    "meaning": {
+                        "ko": "'원'",
+                        "en": "circle",
+                        "ja": "円",
+                        "zh": "圆",
+                        "fr": "cercle"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ular",
+                    "meaning": {
+                        "ko": "'~모양의'",
+                        "en": "shaped like something",
+                        "ja": "~形の",
+                        "zh": "~形状的",
+                        "fr": "~en forme de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원 모양의'라는 뜻입니다.",
+                "en": "Means circle-shaped",
+                "ja": "円い形という意味です",
+                "zh": "表示圆形的意思",
+                "fr": "Signifie en forme de cercle"
+            },
+            "example": "They sat around a circular table.",
+            "translation": {
+                "ko": "그들은 원형 테이블 주위에 앉았다.",
+                "ja": "彼らは円形のテーブルの周りに座った",
+                "zh": "他们坐在圆形的桌子周围",
+                "fr": "Ils s'assirent autour d'une table circulaire"
+            }
+        },
+        {
+            "word": "singular",
+            "part_of_speech": "",
+            "origin": "Latin, singularis (single, alone)",
+            "meaning": {
+                "ko": "단 하나의",
+                "en": "only one",
+                "ja": "唯一の",
+                "zh": "唯一的",
+                "fr": "singulier"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "singul-",
+                    "meaning": {
+                        "ko": "'하나'",
+                        "en": "single",
+                        "ja": "単一の",
+                        "zh": "单一的",
+                        "fr": "unique"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ar",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "",
+                        "zh": "",
+                        "fr": ""
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'단 하나의'라는 의미에서 '단수의' 또는 '뛰어난', '특이한'이라는 뜻입니다.",
+                "en": "In the sense of 'only one' it means 'singular' or 'outstanding, distinctive'",
+                "ja": "'ただ一つの'という意味で'単数の'または'優れた、特別な'という意味です",
+                "zh": "在'只有一个'的意义上，意为'单数的'或'杰出的、独特的'",
+                "fr": "Au sens de 'un seul' il signifie 'singulier' ou 'remarquable, distinctif'"
+            },
+            "example": "He has a singular talent for music.",
+            "translation": {
+                "ko": "그는 음악에 뛰어난 재능을 가지고 있다.",
+                "ja": "彼は音楽の才能が唯一無二だ。",
+                "zh": "他拥有独特的音乐天赋。",
+                "fr": "Il possède un talent singulier pour la musique."
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "mole (mass) mole, molecule, molecular",
+        "origin": "Latin, moles (a mass)",
+        "meaning": {
+            "ko": "덩어리, 질량",
+            "en": "mass",
+            "ja": "質量、塊",
+            "zh": "质量、块",
+            "fr": "masse, bloc"
+        }
+    },
+    "words": [
+        {
+            "word": "mole",
+            "part_of_speech": "",
+            "origin": "Latin, moles (a mass)",
+            "meaning": {
+                "ko": "질량",
+                "en": "a mass",
+                "ja": "物質量",
+                "zh": "物质的量",
+                "fr": "quantité de matière"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mole",
+                    "meaning": {
+                        "ko": "'질량'",
+                        "en": "mass",
+                        "ja": "物質量",
+                        "zh": "物质的量",
+                        "fr": "quantité de matière"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물질의 질량을 나타내는 기본 단위'라는 의미에서 화학의 '몰'을 뜻합니다.",
+                "en": "A mole is a unit of measurement for the amount of substance.",
+                "ja": "物質の量を表す化学の基本単位です",
+                "zh": "表示物质量的化学基本单位",
+                "fr": "Unité de base en chimie exprimant la quantité de substance"
+            },
+            "example": "A mole is a unit of measurement for the amount of substance.",
+            "translation": {
+                "ko": "몰은 물질의 양을 측정하는 단위이다.",
+                "ja": "モル",
+                "zh": "摩尔",
+                "fr": "mole"
+            }
+        },
+        {
+            "word": "molecule",
+            "part_of_speech": "",
+            "origin": "Latin, molecula (a little mass)",
+            "meaning": {
+                "ko": "작은 덩어리",
+                "en": "a little mass",
+                "ja": "小さな塊",
+                "zh": "小的质量",
+                "fr": "petite masse"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mole",
+                    "meaning": {
+                        "ko": "'질량'",
+                        "en": "mass",
+                        "ja": "質量",
+                        "zh": "质量",
+                        "fr": "masse"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-cule",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "small thing",
+                        "ja": "小さいもの",
+                        "zh": "小的东西",
+                        "fr": "petite chose"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'질량을 가진 작은 입자'라는 의미에서 '분자'를 뜻합니다.",
+                "en": "Refers to a small particle with mass",
+                "ja": "質量を持つ小さな粒子の意味",
+                "zh": "具有质量的小粒子的含义",
+                "fr": "Signifie une petite particule ayant une masse"
+            },
+            "example": "A molecule of water consists of two hydrogen atoms and one oxygen atom.",
+            "translation": {
+                "ko": "물 분자는 두 개의 수소 원자와 한 개의 산소 원자로 구성된다.",
+                "ja": "水分子は2個の水素原子と1個の酸素原子で構成されています。",
+                "zh": "一个水分子由两个氢原子和一个氧原子组成。",
+                "fr": "Une molécule d'eau se compose de deux atomes d'hydrogène et d'un atome d'oxygène."
+            }
+        },
+        {
+            "word": "molecular",
+            "part_of_speech": "",
+            "origin": "Latin, molecula (a little mass)",
+            "meaning": {
+                "ko": "작은 덩어리",
+                "en": "small particle or mass",
+                "ja": "分子の",
+                "zh": "分子的",
+                "fr": "moléculaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "molecule",
+                    "meaning": {
+                        "ko": "'분자'",
+                        "en": "molecule",
+                        "ja": "分子",
+                        "zh": "分子",
+                        "fr": "molécule"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'분자의', '분자로 이루어진'이라는 뜻입니다.",
+                "en": "Meaning 'of molecules' or 'composed of molecules'",
+                "ja": "分子に関する、分子から成るという意味です",
+                "zh": "意思是与分子有关或由分子组成",
+                "fr": "Signifie 'relatif aux molécules' ou 'composé de molécules'"
+            },
+            "example": "He is studying molecular biology.",
+            "translation": {
+                "ko": "그는 분자 생물학을 공부하고 있다.",
+                "ja": "彼は分子生物学を研究しています。",
+                "zh": "他在研究分子生物学。",
+                "fr": "Il étudie la biologie moléculaire."
+            }
+        }
+    ]
+}

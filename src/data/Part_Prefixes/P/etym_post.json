@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "post (after) posterior, posthumous, postmodern, postpartum",
+        "origin": "Latin, post (after, behind)",
+        "meaning": {
+            "ko": "뒤에, 후에",
+            "en": "after, behind",
+            "ja": "後に、後ろに",
+            "zh": "后、在后面",
+            "fr": "après, derrière"
+        }
+    },
+    "words": [
+        {
+            "word": "posterior",
+            "part_of_speech": "",
+            "origin": "Latin, posterior (later, coming after)",
+            "meaning": {
+                "ko": "더 뒤의",
+                "en": "further back",
+                "ja": "より後ろの",
+                "zh": "更后面的",
+                "fr": "plus postérieur"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "post-",
+                    "meaning": {
+                        "ko": "'뒤에'",
+                        "en": "after",
+                        "ja": "後ろに",
+                        "zh": "在后面",
+                        "fr": "après"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-erior",
+                    "meaning": {
+                        "ko": "'더 ~한'",
+                        "en": "comparative suffix",
+                        "ja": "より〜な",
+                        "zh": "比较级后缀",
+                        "fr": "suffixe comparatif"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'더 뒤쪽에 있는'이라는 의미에서 '뒤쪽의', '엉덩이'를 뜻합니다.",
+                "en": "Meaning 'located further back' or referring to the rear part, and also means 'buttocks'.",
+                "ja": "より後ろにある、後部を意味し、また臀部を指します",
+                "zh": "意思是位置更靠后或指后部，也指臀部",
+                "fr": "Signifie 'situé plus en arrière' ou la partie arrière, et désigne aussi les fesses"
+            },
+            "example": "The posterior lobe of the brain is involved in vision.",
+            "translation": {
+                "ko": "뇌의 후엽은 시각에 관여한다.",
+                "ja": "脳の後部葉は視覚に関与しています。",
+                "zh": "大脑的后叶与视觉有关。",
+                "fr": "Le lobe postérieur du cerveau est impliqué dans la vision."
+            }
+        },
+        {
+            "word": "posthumous",
+            "part_of_speech": "",
+            "origin": "Latin, postumus (last, born after the father's death)",
+            "meaning": {
+                "ko": "마지막의, 아버지가 죽은 후에 태어난",
+                "en": "last; born after father's death",
+                "ja": "死後の、父の死後に生まれた",
+                "zh": "死后的、父亲去世后出生的",
+                "fr": "posthume, après la mort"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "post-",
+                    "meaning": {
+                        "ko": "'후에'",
+                        "en": "after",
+                        "ja": "後に、その後",
+                        "zh": "之后、以后",
+                        "fr": "après"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "humous (humus)",
+                    "meaning": {
+                        "ko": "'땅, 흙'",
+                        "en": "ground",
+                        "ja": "地面、土",
+                        "zh": "地面、土壤",
+                        "fr": "terre, sol"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'땅에 묻힌(죽은) 후에'라는 의미에서 '사후의'라는 뜻이 되었습니다.",
+                "en": "From the meaning 'after being buried (dead) in the ground', it came to mean 'after death'.",
+                "ja": "『地に埋まった(死んだ)後に』という意味から『死後の』という意味になりました。",
+                "zh": "从'埋在地里(死了)之后'的含义演变为'死后的'的意思。",
+                "fr": "Du sens 'après être enterré (mort) dans le sol', il est venu à signifier 'après la mort'."
+            },
+            "example": "He was awarded a posthumous medal for his bravery.",
+            "translation": {
+                "ko": "그는 그의 용맹함으로 사후 훈장을 받았다.",
+                "ja": "彼は勇敢さに対して死後に勲章を授与された。",
+                "zh": "他因勇敢而被授予死后勋章。",
+                "fr": "Il a reçu une médaille posthume pour sa bravoure."
+            }
+        },
+        {
+            "word": "postmodern",
+            "part_of_speech": "",
+            "origin": "English, post- + modern",
+            "meaning": {
+                "ko": "모던 이후의",
+                "en": "after modern",
+                "ja": "モダン以後の",
+                "zh": "现代之后的",
+                "fr": "après moderne"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "post-",
+                    "meaning": {
+                        "ko": "'~ 이후의'",
+                        "en": "after",
+                        "ja": "〜以後の",
+                        "zh": "之后的",
+                        "fr": "après"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "modern",
+                    "meaning": {
+                        "ko": "'현대의'",
+                        "en": "of contemporary times",
+                        "ja": "現代の",
+                        "zh": "现代的",
+                        "fr": "moderne"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모더니즘 이후'에 나타난 사상이나 양식을 의미하여 '포스트모던의'라는 뜻으로 쓰입니다.",
+                "en": "Refers to thoughts or styles that appeared after modernism, used to mean postmodern",
+                "ja": "モダニズム以後に現れた思想や様式を意味し、ポストモダンという意味で使われます",
+                "zh": "指现代主义之后出现的思想或风格，用来表示后现代的含义",
+                "fr": "Désigne les pensées ou styles apparus après le modernisme, signifiant postmoderne"
+            },
+            "example": "Postmodern architecture is known for its playful and eclectic style.",
+            "translation": {
+                "ko": "포스트모던 건축은 유희적이고 절충적인 스타일로 유명하다.",
+                "ja": "ポストモダン建築は遊び心があり折衷的なスタイルで知られています。",
+                "zh": "后现代建筑以其俏皮和折衷主义风格而闻名。",
+                "fr": "L'architecture postmoderne est connue pour son style ludique et éclectique."
+            }
+        },
+        {
+            "word": "postpartum",
+            "part_of_speech": "",
+            "origin": "Latin, post partum (after birth)",
+            "meaning": {
+                "ko": "출산 후",
+                "en": "after childbirth",
+                "ja": "出産後の",
+                "zh": "产后的",
+                "fr": "postpartum"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "post-",
+                    "meaning": {
+                        "ko": "'후에'",
+                        "en": "after",
+                        "ja": "後に",
+                        "zh": "之后",
+                        "fr": "après"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "partum (parere)",
+                    "meaning": {
+                        "ko": "'출산'",
+                        "en": "to give birth",
+                        "ja": "出産する",
+                        "zh": "分娩",
+                        "fr": "accoucher"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'출산 후의'라는 의미의 의학 용어로 '산후의'를 뜻합니다.",
+                "en": "Medical term meaning after childbirth",
+                "ja": "出産後を意味する医学用語",
+                "zh": "表示分娩后的医学术语",
+                "fr": "Terme médical signifiant après l'accouchement"
+            },
+            "example": "Many women experience postpartum depression.",
+            "translation": {
+                "ko": "많은 여성들이 산후 우울증을 경험한다.",
+                "ja": "多くの女性が産後うつ病を経験します。",
+                "zh": "许多女性经历产后抑郁症。",
+                "fr": "Beaucoup de femmes souffrent de dépression postpartum."
+            }
+        }
+    ]
+}

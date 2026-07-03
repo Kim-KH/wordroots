@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "pharmac (drug) pharmacy, pharmaceutical, pharmacological",
+        "origin": "Greek, pharmakon (a drug, a poison)",
+        "meaning": {
+            "ko": "약",
+            "en": "drug",
+            "ja": "薬",
+            "zh": "药物",
+            "fr": "drogue"
+        }
+    },
+    "words": [
+        {
+            "word": "pharmacy",
+            "part_of_speech": "",
+            "origin": "Greek, pharmakeia (use of drugs)",
+            "meaning": {
+                "ko": "약의 사용",
+                "en": "use of medicine",
+                "ja": "薬の使用",
+                "zh": "药物的使用",
+                "fr": "utilisation des médicaments"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pharmac-",
+                    "meaning": {
+                        "ko": "'약'",
+                        "en": "drug",
+                        "ja": "薬",
+                        "zh": "药物",
+                        "fr": "médicament"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'약을 조제하고 파는 곳'인 '약국' 또는 '약학'을 뜻합니다.",
+                "en": "Refers to 'pharmacy' (a place that dispenses and sells medicines) or 'pharmacy' (the science of medicines).",
+                "ja": "医薬品を調剤して販売する場所である'薬局'または医学の一種である'薬学'を意味します。",
+                "zh": "指配药和销售药物的地方'药房'或药学科学。",
+                "fr": "Désigne une 'pharmacie' (lieu où les médicaments sont préparés et vendus) ou la 'pharmacologie' (science des médicaments)."
+            },
+            "example": "You can buy this medicine at the pharmacy.",
+            "translation": {
+                "ko": "이 약은 약국에서 살 수 있다.",
+                "ja": "あなたはこの医薬品を薬局で買うことができます。",
+                "zh": "你可以在药房买到这种药物。",
+                "fr": "Vous pouvez acheter ce médicament à la pharmacie."
+            }
+        },
+        {
+            "word": "pharmaceutical",
+            "part_of_speech": "",
+            "origin": "Greek, pharmakeutikos (of a druggist)",
+            "meaning": {
+                "ko": "약사의",
+                "en": "of a pharmacist",
+                "ja": "薬学の、医薬の",
+                "zh": "药学的、医药的",
+                "fr": "pharmaceutique, relatif aux médicaments"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pharmac-",
+                    "meaning": {
+                        "ko": "'약'",
+                        "en": "drug",
+                        "ja": "薬、医薬",
+                        "zh": "药、医药",
+                        "fr": "médicament, drogue"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'제약의', '약학의'라는 뜻입니다.",
+                "en": "Means 'related to pharmacy' or 'related to drug manufacturing'",
+                "ja": "薬学または医薬品製造に関連する意味です",
+                "zh": "与药学或药物制造相关的含义",
+                "fr": "Signifie lié à la pharmacie ou à la fabrication de médicaments"
+            },
+            "example": "He works for a major pharmaceutical company.",
+            "translation": {
+                "ko": "그는 주요 제약 회사에서 근무한다.",
+                "ja": "彼は大手医薬品企業で働いています",
+                "zh": "他在一家大型制药公司工作",
+                "fr": "Il travaille pour une grande entreprise pharmaceutique"
+            }
+        },
+        {
+            "word": "pharmacological",
+            "part_of_speech": "",
+            "origin": "Greek, pharmakon (drug) + logos (study)",
+            "meaning": {
+                "ko": "약 연구",
+                "en": "drug research",
+                "ja": "薬理学の",
+                "zh": "药理学的",
+                "fr": "pharmacologique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "pharmaco-",
+                    "meaning": {
+                        "ko": "'약'",
+                        "en": "drug",
+                        "ja": "薬",
+                        "zh": "药",
+                        "fr": "drogue"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logical",
+                    "meaning": {
+                        "ko": "'학문의'",
+                        "en": "of or relating to study",
+                        "ja": "学問の",
+                        "zh": "学问的",
+                        "fr": "relatif à la science"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'약물의 작용과 효과를 연구하는' '약리학의'라는 뜻입니다.",
+                "en": "The study of drug actions and effects",
+                "ja": "医薬品の作用と効果を研究する",
+                "zh": "研究药物作用和效果的",
+                "fr": "Étude des actions et effets des médicaments"
+            },
+            "example": "The drug has undergone extensive pharmacological testing.",
+            "translation": {
+                "ko": "그 약은 광범위한 약리학적 테스트를 거쳤다.",
+                "ja": "その医薬品は広範な薬理学的試験を受けました。",
+                "zh": "该药物经历了广泛的药理学测试。",
+                "fr": "Le médicament a subi des essais pharmacologiques approfondis."
+            }
+        }
+    ]
+}

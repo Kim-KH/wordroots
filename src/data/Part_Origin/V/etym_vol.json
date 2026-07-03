@@ -1,0 +1,141 @@
+{
+    "root_info": {
+        "roots": "vol: wish",
+        "origin": "Latin, velle",
+        "meaning": {
+            "ko": "바라다",
+            "en": "to wish",
+            "ja": "望む",
+            "zh": "希望",
+            "fr": "souhaiter"
+        }
+    },
+    "words": [
+        {
+            "word": "voluntary",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vol",
+                    "meaning": {
+                        "ko": "의지",
+                        "en": "will",
+                        "ja": "意志",
+                        "zh": "意愿",
+                        "fr": "volonté"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-untary",
+                    "meaning": {
+                        "ko": "형용사형 어미",
+                        "en": "adjective-forming suffix",
+                        "ja": "形容詞語尾",
+                        "zh": "形容词词尾",
+                        "fr": "suffixe adjectival"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'원한다는 건 자신의 '의지','선택', 바람'을 뜻함. 자신의 의지에 따른'이라는 의미에서, '자발적인', '자원봉사의'라는 뜻입니다.",
+                "en": "Voluntary comes from the root meaning 'will' or 'desire'. It describes something done according to one's own will or choice, meaning 'self-initiated' or 'unpaid service'.",
+                "ja": "自分の意志や選択、願いを表す言葉から派生しており、自分の意志に従って行われることを意味するため、『自発的な』『ボランティアの』という意味になります。",
+                "zh": "源自表示个人意愿、选择和渴望的词根。表示根据自己的意志进行的事情，意为'自发的'或'志愿服务的'。",
+                "fr": "Dérivé d'une racine signifiant 'volonté' ou 'désir'. Décrit quelque chose fait selon sa propre volonté ou choix, signifiant 'spontané' ou 'service non rémunéré'."
+            },
+            "example": "She does voluntary work at the hospital.",
+            "translation": {
+                "ko": "그녀는 병원에서 자원봉사를 한다.",
+                "ja": "彼女は病院でボランティア活動をしています。",
+                "zh": "她在医院做志愿服务工作。",
+                "fr": "Elle fait du bénévolat à l'hôpital."
+            }
+        },
+        {
+            "word": "malevolence",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "male",
+                    "meaning": {
+                        "ko": "나쁜",
+                        "en": "bad",
+                        "ja": "悪い",
+                        "zh": "坏的",
+                        "fr": "mauvais"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vol",
+                    "meaning": {
+                        "ko": "의지",
+                        "en": "wish",
+                        "ja": "願い",
+                        "zh": "愿望",
+                        "fr": "souhait"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'나쁜 것을 바라는 마음'이라는 의미에서 '악의', '적의'를 뜻합니다.",
+                "en": "From Latin malus (bad) + volens (wishing); literally 'wishing evil'",
+                "ja": "悪いことを願う心という意味から、悪意や敵意を表します",
+                "zh": "由\"希望坏事\"的含义引申为\"恶意\"、\"敌意\"",
+                "fr": "Du sens littéral 'souhaiter le mal' découle le sens de malveillance ou d'hostilité"
+            },
+            "example": "I could feel the malevolence in his stare.",
+            "translation": {
+                "ko": "나는 그의 시선에서 악의를 느낄 수 있었다.",
+                "ja": "彼の視線に悪意を感じることができた。",
+                "zh": "我能感受到他眼神中的恶意。",
+                "fr": "Je pouvais sentir la malveillance dans son regard."
+            }
+        },
+        {
+            "word": "volition",
+            "part_of_speech": "",
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "vol",
+                    "meaning": {
+                        "ko": "의지",
+                        "en": "will",
+                        "ja": "意志",
+                        "zh": "意志",
+                        "fr": "volonté"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ition",
+                    "meaning": {
+                        "ko": "명사형 어미",
+                        "en": "noun forming suffix",
+                        "ja": "名詞化接尾辞",
+                        "zh": "名词化后缀",
+                        "fr": "suffixe de nominalisation"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'바라는 행위'라는 의미에서, 스스로 선택하고 결정하는 '의지', '결단력'을 뜻합니다.",
+                "en": "From the meaning of 'desired action', it signifies 'will' or 'determination' through one's own choice and decision.",
+                "ja": "「望む行為」という意味から、自ら選択し決定する「意志」「決断力」を意味します。",
+                "zh": "从「期望的行为」的含义出发，表示通过自己选择和决定的「意志」、「决断力」。",
+                "fr": "Du sens d'« action désirée », il signifie la « volonté » ou la « détermination » par choix et décision personnels."
+            },
+            "example": "He left the company of his own volition.",
+            "translation": {
+                "ko": "그는 자신의 자유 의지로 회사를 떠났다.",
+                "ja": "彼は自分の意志で会社を辞めた。",
+                "zh": "他凭自己的意志离开了公司。",
+                "fr": "Il a quitté l'entreprise de sa propre volonté."
+            }
+        }
+    ]
+}

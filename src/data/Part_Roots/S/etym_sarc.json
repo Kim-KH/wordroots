@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "sarc (flesh) sarcoma, sarcomere, sarcophagus, sarcosome",
+        "origin": "Greek, sarx, sarkos (flesh)",
+        "meaning": {
+            "ko": "살",
+            "en": "flesh",
+            "ja": "肉",
+            "zh": "肉",
+            "fr": "chair"
+        }
+    },
+    "words": [
+        {
+            "word": "sarcoma",
+            "part_of_speech": "",
+            "origin": "Greek, sarkoma (a fleshy excrescence)",
+            "meaning": {
+                "ko": "살덩어리",
+                "en": "flesh lump or mass",
+                "ja": "肉腫",
+                "zh": "肉瘤",
+                "fr": "sarcome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sarc-",
+                    "meaning": {
+                        "ko": "'살, 육'",
+                        "en": "flesh",
+                        "ja": "肉、組織",
+                        "zh": "肉、组织",
+                        "fr": "chair, tissu"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-oma",
+                    "meaning": {
+                        "ko": "'종양'",
+                        "en": "tumor or growth",
+                        "ja": "腫瘍",
+                        "zh": "肿瘤",
+                        "fr": "tumeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뼈, 근육, 지방 등의 결합 조직에 생기는 악성 종양'인 '육종'을 뜻합니다.",
+                "en": "Sarcoma is a malignant tumor that develops in connective tissues such as bones, muscles, and fat.",
+                "ja": "骨、筋肉、脂肪などの結合組織に発生する悪性腫瘍です。",
+                "zh": "在骨、肌肉、脂肪等结缔组织中发生的恶性肿瘤。",
+                "fr": "Tumeur maligne qui se développe dans les tissus conjonctifs comme les os, les muscles et les graisses."
+            },
+            "example": "Sarcoma is a rare type of cancer.",
+            "translation": {
+                "ko": "육종은 희귀한 종류의 암이다.",
+                "ja": "肉腫は稀なタイプのがんです。",
+                "zh": "肉瘤是一种罕见的癌症。",
+                "fr": "Le sarcome est un type de cancer rare."
+            }
+        },
+        {
+            "word": "sarcomere",
+            "part_of_speech": "",
+            "origin": "Greek, sarx (flesh) + meros (part)",
+            "meaning": {
+                "ko": "살 부분",
+                "en": "muscle fiber section",
+                "ja": "筋肉の基本単位",
+                "zh": "肌肉基本单位",
+                "fr": "unité contractile musculaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sarco-",
+                    "meaning": {
+                        "ko": "'근육'",
+                        "en": "muscle",
+                        "ja": "筋肉",
+                        "zh": "肌肉",
+                        "fr": "muscle"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "mere",
+                    "meaning": {
+                        "ko": "'부분'",
+                        "en": "part",
+                        "ja": "部分",
+                        "zh": "部分",
+                        "fr": "partie"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'근육 섬유를 이루는 기본 단위'인 '근절', '근육 원섬유 마디'를 뜻합니다.",
+                "en": "The basic contractile unit of muscle fiber that comprises myofibrils",
+                "ja": "筋肉繊維を構成する基本的な収縮単位で、原筋繊維の節",
+                "zh": "组成肌动蛋白的基本收缩单位，肌原纤维节",
+                "fr": "Unité contractile de base composant les myofibrilles musculaires"
+            },
+            "example": "Muscle contraction is caused by the shortening of sarcomeres.",
+            "translation": {
+                "ko": "근육 수축은 근절이 짧아짐으로써 발생한다.",
+                "ja": "筋節",
+                "zh": "肌小节",
+                "fr": "sarcomère"
+            }
+        },
+        {
+            "word": "sarcophagus",
+            "part_of_speech": "",
+            "origin": "Greek, sarkophagos (flesh-eating)",
+            "meaning": {
+                "ko": "살을 먹는",
+                "en": "eating flesh",
+                "ja": "肉を食べる棺",
+                "zh": "吃肉的棺材",
+                "fr": "mangeur de chair"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sarco-",
+                    "meaning": {
+                        "ko": "'살'",
+                        "en": "flesh",
+                        "ja": "肉",
+                        "zh": "肉",
+                        "fr": "chair"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "phagus",
+                    "meaning": {
+                        "ko": "'먹는 것'",
+                        "en": "eater",
+                        "ja": "食べるもの",
+                        "zh": "吃的东西",
+                        "fr": "mangeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'시신의 살을 먹어 없애는' 돌로 만든 관이라는 의미에서 '석관'을 뜻합니다.",
+                "en": "A stone coffin believed to consume the flesh of corpses",
+                "ja": "死体の肉を食べて消す石製の棺という意味から石棺を指します",
+                "zh": "源于吃掉尸体肉的石棺这一含义，指石棺",
+                "fr": "Un cercueil de pierre censé consommer la chair des cadavres, d'où le terme de sarcophage"
+            },
+            "example": "The mummy was found inside a golden sarcophagus.",
+            "translation": {
+                "ko": "그 미라는 황금 석관 안에서 발견되었다.",
+                "ja": "ミイラは金色の石棺の中で見つかった。",
+                "zh": "木乃伊在金色的石棺内被发现。",
+                "fr": "La momie a été trouvée à l'intérieur d'un sarcophage en or."
+            }
+        },
+        {
+            "word": "sarcosome",
+            "part_of_speech": "",
+            "origin": "Greek, sarx (flesh) + soma (body)",
+            "meaning": {
+                "ko": "살 몸체",
+                "en": "flesh body",
+                "ja": "筋肉小体",
+                "zh": "肌肉体",
+                "fr": "sarcosome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "sarco-",
+                    "meaning": {
+                        "ko": "'근육'",
+                        "en": "muscle",
+                        "ja": "筋肉",
+                        "zh": "肌肉",
+                        "fr": "muscle"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "some",
+                    "meaning": {
+                        "ko": "'몸체'",
+                        "en": "body",
+                        "ja": "小体",
+                        "zh": "体",
+                        "fr": "corps"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'근육 세포 안에 있는 미토콘드리아'인 '근립체'를 뜻합니다.",
+                "en": "Mitochondria located within muscle cells, also known as sarcosomes or muscle granules.",
+                "ja": "筋肉細胞内にあるミトコンドリアを指し、筋粒体とも呼ばれます。",
+                "zh": "位于肌肉细胞内的线粒体，也称为肌粒体。",
+                "fr": "Mitochondries situées dans les cellules musculaires, aussi appelées granules musculaires."
+            },
+            "example": "Sarcosomes provide the energy needed for muscle contraction.",
+            "translation": {
+                "ko": "근립체는 근육 수축에 필요한 에너지를 제공한다.",
+                "ja": "サルコソームは筋肉収縮に必要なエネルギーを供給します。",
+                "zh": "肌肉体为肌肉收缩提供所需的能量。",
+                "fr": "Les sarcosomes fournissent l'énergie nécessaire à la contraction musculaire."
+            }
+        }
+    ]
+}

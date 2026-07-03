@@ -1,0 +1,115 @@
+{
+    "root_info": {
+        "roots": "carcin (cancer) carcinogen, carcinoma",
+        "origin": "Greek, karkinos (crab, cancer)",
+        "meaning": {
+            "ko": "게, 암",
+            "en": "crab, cancer",
+            "ja": "カニ、癌",
+            "zh": "蟹，癌",
+            "fr": "crabe, cancer"
+        }
+    },
+    "words": [
+        {
+            "word": "carcinogen",
+            "part_of_speech": "",
+            "origin": "Greek, karkinos (cancer) + genos (birth, race)",
+            "meaning": {
+                "ko": "암의 발생",
+                "en": "cancer development",
+                "ja": "発がん物質",
+                "zh": "致癌物质",
+                "fr": "substance cancérigène"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carcino (karkinos)",
+                    "meaning": {
+                        "ko": "'암'",
+                        "en": "cancer",
+                        "ja": "がん",
+                        "zh": "癌症",
+                        "fr": "cancer"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "-gen",
+                    "meaning": {
+                        "ko": "'생성하는 것'",
+                        "en": "producer",
+                        "ja": "生成するもの",
+                        "zh": "产生的东西",
+                        "fr": "producteur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'암(carcino)을 생성하는(-gen) 물질'이라는 의미로 '발암 물질'을 뜻합니다.",
+                "en": "A substance that produces cancer (carcino- means cancer, -gen means producer)",
+                "ja": "がん(carcino)を生成する(-gen)物質という意味で、発がん物質を意味します",
+                "zh": "指产生癌症(carcino)的物质(-gen),意为致癌物质",
+                "fr": "Une substance qui produit le cancer (carcino- signifie cancer, -gen signifie producteur)"
+            },
+            "example": "Tobacco smoke contains many known carcinogens.",
+            "translation": {
+                "ko": "담배 연기는 많은 알려진 발암 물질을 포함하고 있다.",
+                "ja": "タバコの煙には多くの既知の発がん物質が含まれています。",
+                "zh": "烟草烟雾含有许多已知的致癌物质。",
+                "fr": "La fumée de tabac contient de nombreuses substances cancérigènes connues."
+            }
+        },
+        {
+            "word": "carcinoma",
+            "part_of_speech": "",
+            "origin": "Greek, karkinōma (a cancer)",
+            "meaning": {
+                "ko": "암",
+                "en": "cancer",
+                "ja": "癌腫",
+                "zh": "癌肿瘤",
+                "fr": "carcinome"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "carcin (karkinos)",
+                    "meaning": {
+                        "ko": "'암'",
+                        "en": "cancer",
+                        "ja": "癌",
+                        "zh": "癌症",
+                        "fr": "cancer"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-oma",
+                    "meaning": {
+                        "ko": "'종양'",
+                        "en": "tumor",
+                        "ja": "腫瘍",
+                        "zh": "肿瘤",
+                        "fr": "tumeur"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'암(carcin)으로 생긴 종양(-oma)'이라는 의미로, 상피세포에서 유래한 악성 종양인 '암종'을 가리키는 의학 용어입니다.",
+                "en": "A medical term referring to malignant tumors derived from epithelial cells, literally meaning 'tumor caused by cancer'",
+                "ja": "上皮細胞に由来する悪性腫瘍を指す医学用語で、文字通り『癌による腫瘍』を意味します",
+                "zh": "指由上皮细胞产生的恶性肿瘤的医学术语，字面意思为'由癌引起的肿瘤'",
+                "fr": "Terme médical désignant les tumeurs malignes dérivées des cellules épithéliales, signifiant littéralement 'tumeur causée par le cancer'"
+            },
+            "example": "The biopsy confirmed that the tumor was a carcinoma.",
+            "translation": {
+                "ko": "생검 결과 그 종양은 암종인 것으로 확인되었다.",
+                "ja": "生検で腫瘍が癌腫であることが確認された",
+                "zh": "活检确认肿瘤是癌肿瘤",
+                "fr": "La biopsie a confirmé que la tumeur était un carcinome"
+            }
+        }
+    ]
+}

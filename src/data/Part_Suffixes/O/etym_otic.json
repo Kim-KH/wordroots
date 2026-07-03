@@ -1,0 +1,187 @@
+{
+    "root_info": {
+        "roots": "otic (affected with, producing) antibiotic, neurotic, symbiotic",
+        "origin": "Greek, -otikos",
+        "meaning": {
+            "ko": "affected with (…에 걸린), producing",
+            "en": "…을 생산하는",
+            "ja": "…に罹った / …を生産する",
+            "zh": "患有(…) / 生产…",
+            "fr": "atteint de (…) / produisant"
+        }
+    },
+    "words": [
+        {
+            "word": "antibiotic",
+            "part_of_speech": "",
+            "origin": "Greek, anti- (against) + bios (life)",
+            "meaning": {
+                "ko": "생명에 대항하는",
+                "en": "against life",
+                "ja": "生命に対抗する物質",
+                "zh": "生命对抗物质",
+                "fr": "substance contre la vie"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "anti-",
+                    "meaning": {
+                        "ko": "'대항하여'",
+                        "en": "against",
+                        "ja": "対抗して",
+                        "zh": "对抗",
+                        "fr": "contre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio-",
+                    "meaning": {
+                        "ko": "'생명'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'미생물(생명)의 성장을 억제하는' 물질인 '항생제'를 뜻합니다.",
+                "en": "Refers to 'antibiotic', a substance that inhibits the growth of microorganisms",
+                "ja": "微生物の成長を抑制する物質である『抗生物質』を意味します",
+                "zh": "指抑制微生物生长的物质『抗生素』",
+                "fr": "Désigne l'antibiotique, une substance qui inhibe la croissance des microorganismes"
+            },
+            "example": "The doctor prescribed an antibiotic for the infection.",
+            "translation": {
+                "ko": "의사는 그 감염에 대해 항생제를 처방했다.",
+                "ja": "医者は感染症に対して抗生物質を処方した",
+                "zh": "医生为感染开了抗生素",
+                "fr": "Le médecin a prescrit un antibiotique pour l'infection"
+            }
+        },
+        {
+            "word": "neurotic",
+            "part_of_speech": "",
+            "origin": "Greek, neuron (nerve)",
+            "meaning": {
+                "ko": "신경",
+                "en": "nerve",
+                "ja": "神経症的な",
+                "zh": "神经症的",
+                "fr": "névrotique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "neur-",
+                    "meaning": {
+                        "ko": "'신경'",
+                        "en": "nerve",
+                        "ja": "神経",
+                        "zh": "神经",
+                        "fr": "nerf"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-otic",
+                    "meaning": {
+                        "ko": "'~에 걸린'",
+                        "en": "afflicted with",
+                        "ja": "~に罹った",
+                        "zh": "患有~",
+                        "fr": "atteint de~"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'신경증에 걸린'이라는 뜻입니다.",
+                "en": "Means afflicted with neurosis",
+                "ja": "神経症に罹っているという意味です",
+                "zh": "患有神经症的意思",
+                "fr": "Signifie atteint de névrose"
+            },
+            "example": "He has some neurotic tendencies.",
+            "translation": {
+                "ko": "그는 약간의 신경증적 경향이 있다.",
+                "ja": "彼は神経症的な傾向がある。",
+                "zh": "他有一些神经症的倾向。",
+                "fr": "Il a quelques tendances névrotiques."
+            }
+        },
+        {
+            "word": "symbiotic",
+            "part_of_speech": "",
+            "origin": "Greek, symbiosis (a living together)",
+            "meaning": {
+                "ko": "함께 사는 것",
+                "en": "living together",
+                "ja": "共生の",
+                "zh": "共生的",
+                "fr": "symbiotique"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "sym- (syn-)",
+                    "meaning": {
+                        "ko": "'함께'",
+                        "en": "together",
+                        "ja": "一緒に",
+                        "zh": "一起",
+                        "fr": "ensemble"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bio-",
+                    "meaning": {
+                        "ko": "'삶'",
+                        "en": "life",
+                        "ja": "生命",
+                        "zh": "生命",
+                        "fr": "vie"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-tic",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or having the quality of",
+                        "ja": "~の",
+                        "zh": "~的",
+                        "fr": "~de"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'서로 다른 종이 함께 살아가는'이라는 의미에서 '공생의'라는 뜻입니다.",
+                "en": "Meaning 'of mutualism' where different species live together",
+                "ja": "異なる種が一緒に生きることを意味する共生の",
+                "zh": "不同物种共同生活的共生的意思",
+                "fr": "Signifiant 'du mutualisme' où différentes espèces vivent ensemble"
+            },
+            "example": "The relationship between the two species is symbiotic.",
+            "translation": {
+                "ko": "그 두 종 사이의 관계는 공생 관계이다.",
+                "ja": "2つの種の関係は共生的である。",
+                "zh": "两个物种之间的关系是共生的。",
+                "fr": "La relation entre les deux espèces est symbiotique."
+            }
+        }
+    ]
+}

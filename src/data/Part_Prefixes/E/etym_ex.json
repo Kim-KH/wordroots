@@ -1,0 +1,215 @@
+{
+    "root_info": {
+        "roots": "ex (from, former) exit, excrete, ex-president, extinct",
+        "origin": "Latin, ex (out of, from, former)",
+        "meaning": {
+            "ko": "밖으로, ~로부터, 이전의 (out of, from, former)[30]",
+            "en": "밖으로, ~로부터, 이전의 (out of, from, former)[30]",
+            "ja": "外へ、~から、以前の (out of, from, former)[30]",
+            "zh": "向外、来自、以前的 (out of, from, former)[30]",
+            "fr": "vers l'extérieur, de, ancien (out of, from, former)[30]"
+        }
+    },
+    "words": [
+        {
+            "word": "exit",
+            "part_of_speech": "",
+            "origin": "Latin, exitus (a going out)",
+            "meaning": {
+                "ko": "밖으로 나감",
+                "en": "to go out",
+                "ja": "出口、外へ出る",
+                "zh": "出口、离开",
+                "fr": "sortie, partir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "外面",
+                        "fr": "dehors"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "it",
+                    "meaning": {
+                        "ko": "'가다'",
+                        "en": "to go",
+                        "ja": "行く",
+                        "zh": "去",
+                        "fr": "aller"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'밖으로 나가는 길'이라는 의미에서 '출구' 또는 '나가다'라는 뜻이 되었습니다.",
+                "en": "From the meaning of 'the way to go outside' it became 'exit' or 'to go out'",
+                "ja": "外へ出ていく道という意味から、出口あるいは外へ出るという意味になりました",
+                "zh": "从'向外走的路'的意思演变为'出口'或'离开'的意思",
+                "fr": "Du sens de 'chemin pour sortir dehors' est devenu 'sortie' ou 'partir'"
+            },
+            "example": "Please use the rear exit.",
+            "translation": {
+                "ko": "뒤쪽 출구를 이용해 주십시오.",
+                "ja": "後部の出口を使ってください",
+                "zh": "请使用后部出口",
+                "fr": "Veuillez utiliser la sortie arrière"
+            }
+        },
+        {
+            "word": "excrete",
+            "part_of_speech": "",
+            "origin": "Latin, excernere (to sift out)[30][36]",
+            "meaning": {
+                "ko": "걸러서 내보내다[37]",
+                "en": "to filter and discharge",
+                "ja": "排出する",
+                "zh": "排泄",
+                "fr": "excreter"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로' (out)[30]",
+                        "en": "out",
+                        "ja": "外へ",
+                        "zh": "向外",
+                        "fr": "vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "crete (cernere)",
+                    "meaning": {
+                        "ko": "'거르다, 분리하다' (to sift, to separate)[30]",
+                        "en": "to sift, to separate",
+                        "ja": "ふるう、分離する",
+                        "zh": "筛选、分离",
+                        "fr": "tamiser, séparer"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "몸에서 노폐물을 '걸러서 밖으로 내보내다'는 의미에서 '배설하다', '분비하다'라는 뜻이 되었습니다.[38]",
+                "en": "The kidneys excrete waste products from the body.",
+                "ja": "体の老廃物を'ふるって外に排出する'という意味から'排泄する'という意味になりました。",
+                "zh": "从身体中'筛选并向外排出废物'的意思演变而来，表示'排泄'的含义。",
+                "fr": "Du sens de 'tamiser et expulser les déchets du corps vers l'extérieur', le mot a acquis le sens d''excréter' ou 'sécréter'."
+            },
+            "example": "The kidneys excrete waste products from the body.[39]",
+            "translation": {
+                "ko": "신장은 몸에서 노폐물을 배설한다.",
+                "ja": "腎臓は体から老廃物を排出します。",
+                "zh": "肾脏从体内排泄废物产品。",
+                "fr": "Les reins excrètent les produits de déchet du corps."
+            }
+        },
+        {
+            "word": "ex-president",
+            "part_of_speech": "",
+            "origin": "English, ex- + president",
+            "meaning": {
+                "ko": "이전의 대통령",
+                "en": "former president",
+                "ja": "前大統領",
+                "zh": "前总统",
+                "fr": "ancien président"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'이전의'",
+                        "en": "former",
+                        "ja": "以前の",
+                        "zh": "以前的",
+                        "fr": "ancien"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "president",
+                    "meaning": {
+                        "ko": "'대통령'",
+                        "en": "president",
+                        "ja": "大統領",
+                        "zh": "总统",
+                        "fr": "président"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'이전의 대통령'이라는 의미로 '전직 대통령'을 뜻합니다.",
+                "en": "Refers to a president who no longer holds office",
+                "ja": "もう職務についていない大統領を指します",
+                "zh": "指不再担任职务的总统",
+                "fr": "Désigne un président qui n'est plus en fonction"
+            },
+            "example": "The ex-president gave a speech at the conference.",
+            "translation": {
+                "ko": "전직 대통령이 그 회의에서 연설했다.",
+                "ja": "前大統領は会議でスピーチをしました。",
+                "zh": "前总统在会议上发表了演讲。",
+                "fr": "L'ancien président a prononcé un discours à la conférence."
+            }
+        },
+        {
+            "word": "extinct",
+            "part_of_speech": "",
+            "origin": "Latin, exstinguere (to quench, to extinguish)",
+            "meaning": {
+                "ko": "끄다, 소멸시키다",
+                "en": "to extinguish, to cause to disappear",
+                "ja": "絶滅した、消滅した",
+                "zh": "灭绝的、消亡的",
+                "fr": "éteint, disparu"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "ex-",
+                    "meaning": {
+                        "ko": "'밖으로'",
+                        "en": "out",
+                        "ja": "外へ、外に",
+                        "zh": "向外、外部",
+                        "fr": "dehors, vers l'extérieur"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "stinct (stinguere)",
+                    "meaning": {
+                        "ko": "'끄다'",
+                        "en": "to quench",
+                        "ja": "消す、消滅させる",
+                        "zh": "熄灭、消灭",
+                        "fr": "éteindre, anéantir"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "불 등을 '완전히 꺼버리다'는 의미에서 종족 등이 '멸종된' 또는 화산 등이 '활동을 멈춘'이라는 뜻이 되었습니다.",
+                "en": "Originally meant 'completely extinguish fire', later came to mean species became 'extinct' or volcanoes 'stopped activity'",
+                "ja": "元々は火などを『完全に消す』という意味から、種族などが『絶滅した』または火山などが『活動を停止した』という意味になりました",
+                "zh": "最初是指完全熄灭火等，后来引申为物种『灭绝』或火山『停止活动』的意思",
+                "fr": "Signifiait à l'origine 'éteindre complètement le feu', puis a désigné les espèces 'disparues' ou les volcans 'inactifs'"
+            },
+            "example": "Dinosaurs became extinct millions of years ago.",
+            "translation": {
+                "ko": "공룡은 수백만 년 전에 멸종했다.",
+                "ja": "恐竜は数百万年前に絶滅しました",
+                "zh": "恐龙在数百万年前灭绝了",
+                "fr": "Les dinosaures ont disparu il y a des millions d'années"
+            }
+        }
+    ]
+}

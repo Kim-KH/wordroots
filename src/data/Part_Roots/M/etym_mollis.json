@@ -1,0 +1,104 @@
+{
+    "root_info": {
+        "roots": "mollis (soft) mollify, mollusk",
+        "origin": "Latin, mollis (soft)",
+        "meaning": {
+            "ko": "부드러운",
+            "en": "soft",
+            "ja": "柔らかい",
+            "zh": "柔软",
+            "fr": "doux"
+        }
+    },
+    "words": [
+        {
+            "word": "mollify",
+            "part_of_speech": "",
+            "origin": "Latin, mollificare (to make soft)",
+            "meaning": {
+                "ko": "부드럽게 만들다",
+                "en": "to make soft",
+                "ja": "なだめる、機嫌を取る",
+                "zh": "安抚、平息",
+                "fr": "apaiser, adoucir"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "moll-",
+                    "meaning": {
+                        "ko": "'부드러운'",
+                        "en": "soft",
+                        "ja": "やさしい、柔らかい",
+                        "zh": "柔软的",
+                        "fr": "doux, tendre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fy (facere)",
+                    "meaning": {
+                        "ko": "'~하게 만들다'",
+                        "en": "to make",
+                        "ja": "~するようにする",
+                        "zh": "使~、让~",
+                        "fr": "rendre, faire"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'마음을 부드럽게 만들다'는 의미에서 '(사람을) 달래다', '진정시키다'라는 뜻입니다.",
+                "en": "To calm or appease someone's anger by making their mood soft/gentle",
+                "ja": "心を柔らかくして相手の怒りを鎮める、気をそらす意味",
+                "zh": "通过使心情温和来安抚某人的愤怒，即'哄劝'、'平息'的意思",
+                "fr": "Calmer ou apaiser la colère de quelqu'un en rendant son humeur douce et bienveillante"
+            },
+            "example": "He tried to mollify her by giving her a gift.",
+            "translation": {
+                "ko": "그는 그녀에게 선물을 주어 달래려고 했다.",
+                "ja": "彼は彼女になだめるためにプレゼントを与えようとした",
+                "zh": "他试图通过送礼物来安抚她。",
+                "fr": "Il a essayé de l'apaiser en lui offrant un cadeau."
+            }
+        },
+        {
+            "word": "mollusk",
+            "part_of_speech": "",
+            "origin": "Latin, molluscus (soft-bodied)",
+            "meaning": {
+                "ko": "부드러운 몸을 가진",
+                "en": "having a soft body",
+                "ja": "柔らかい体を持つ動物",
+                "zh": "身体柔软的动物",
+                "fr": "animal au corps mou"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "moll-",
+                    "meaning": {
+                        "ko": "'부드러운'",
+                        "en": "soft",
+                        "ja": "柔らかい",
+                        "zh": "柔软的",
+                        "fr": "mou"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'몸이 부드러운 동물'이라는 의미에서 '연체동물'을 뜻합니다.",
+                "en": "Refers to animals with soft bodies, meaning 'soft-bodied animals'",
+                "ja": "柔らかい体を持つ動物を意味し、軟体動物のことです",
+                "zh": "指身体柔软的动物，意思是软体动物",
+                "fr": "Désigne les animaux au corps mou, ce qui signifie mollusques"
+            },
+            "example": "Snails, clams, and squids are all mollusks.",
+            "translation": {
+                "ko": "달팽이, 조개, 오징어는 모두 연체동물이다.",
+                "ja": "軟体動物",
+                "zh": "软体动物",
+                "fr": "mollusque"
+            }
+        }
+    ]
+}

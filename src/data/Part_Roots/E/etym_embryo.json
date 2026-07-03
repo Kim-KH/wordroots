@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "embryo (swelling within) embryo, embryonic, embryogenesis",
+        "origin": "Greek, embryon (a young one)",
+        "meaning": {
+            "ko": "어린 것",
+            "en": "a young one",
+            "ja": "若いもの",
+            "zh": "年幼的",
+            "fr": "un jeune"
+        }
+    },
+    "words": [
+        {
+            "word": "embryo",
+            "part_of_speech": "",
+            "origin": "Greek, en- (in) + bryein (to swell, grow)",
+            "meaning": {
+                "ko": "안에서 자라는 것",
+                "en": "something that grows inside",
+                "ja": "中で成長するもの",
+                "zh": "在内部生长的东西",
+                "fr": "ce qui se développe à l'intérieur"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "em- (en-)",
+                    "meaning": {
+                        "ko": "'안에서'",
+                        "en": "in",
+                        "ja": "中に",
+                        "zh": "在...内",
+                        "fr": "dans, en"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "bryo-",
+                    "meaning": {
+                        "ko": "'자라다'",
+                        "en": "to swell, grow",
+                        "ja": "膨らむ、成長する",
+                        "zh": "膨胀、生长",
+                        "fr": "enfler, croître"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'모체 안에서 자라는 어린 생명체'라는 의미에서 '배아'를 뜻합니다.",
+                "en": "Young living organism developing inside the maternal body",
+                "ja": "母体内で成長する幼い生命体を意味します",
+                "zh": "指在母体内生长的幼小生命体",
+                "fr": "Jeune organisme se développant à l'intérieur du corps maternel"
+            },
+            "example": "The embryo develops into a fetus.",
+            "translation": {
+                "ko": "배아는 태아로 발달한다.",
+                "ja": "胚胎は胎児に発育します。",
+                "zh": "胚胎发育成胎儿。",
+                "fr": "L'embryon se développe en fœtus."
+            }
+        },
+        {
+            "word": "embryonic",
+            "part_of_speech": "",
+            "origin": "Greek, embryon (a young one)",
+            "meaning": {
+                "ko": "어린 것",
+                "en": "young thing",
+                "ja": "初期段階の",
+                "zh": "胚胎的",
+                "fr": "embryonnaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "embryo-",
+                    "meaning": {
+                        "ko": "'배아'",
+                        "en": "embryo",
+                        "ja": "胚",
+                        "zh": "胚胎",
+                        "fr": "embryon"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'배아의' 또는 '아직 발달 초기 단계에 있는'이라는 의미에서 '초기의'라는 뜻으로도 쓰입니다.",
+                "en": "Used to mean 'initial stage' or 'early development phase'",
+                "ja": "発達の初期段階を指します",
+                "zh": "表示早期发展阶段",
+                "fr": "Signifie stade initial ou développement précoce"
+            },
+            "example": "The project is still in its embryonic stage.",
+            "translation": {
+                "ko": "그 프로젝트는 아직 초기 단계에 있다.",
+                "ja": "そのプロジェクトはまだ初期段階にある。",
+                "zh": "该项目仍处于胚胎阶段。",
+                "fr": "Le projet en est encore au stade embryonnaire."
+            }
+        },
+        {
+            "word": "embryogenesis",
+            "part_of_speech": "",
+            "origin": "Greek, embryon + genesis (origin)",
+            "meaning": {
+                "ko": "배아의 기원",
+                "en": "origin of the embryo",
+                "ja": "胚胎の形成と発達",
+                "zh": "胚胎的形成和发育",
+                "fr": "formation et développement embryonnaire"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "embryo-",
+                    "meaning": {
+                        "ko": "'배아'",
+                        "en": "embryo",
+                        "ja": "胚胎",
+                        "zh": "胚胎",
+                        "fr": "embryon"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "genesis",
+                    "meaning": {
+                        "ko": "'발생, 기원'",
+                        "en": "origin",
+                        "ja": "発生、起源",
+                        "zh": "发生、起源",
+                        "fr": "origine, genèse"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'배아가 형성되고 발달하는 과정'을 의미하는 '배아 발생'을 뜻합니다.",
+                "en": "The process by which an embryo is formed and develops",
+                "ja": "胚胎が形成され発達する過程を意味する胚胎発生を示します",
+                "zh": "表示胚胎形成和发育的过程，即胚胎发生",
+                "fr": "Désigne l'embryogenèse, processus de formation et de développement de l'embryon"
+            },
+            "example": "Embryogenesis is a complex process of cell division and differentiation.",
+            "translation": {
+                "ko": "배아 발생은 세포 분열과 분화의 복잡한 과정이다.",
+                "ja": "胚胎発生",
+                "zh": "胚胎发生",
+                "fr": "embryogenèse"
+            }
+        }
+    ]
+}

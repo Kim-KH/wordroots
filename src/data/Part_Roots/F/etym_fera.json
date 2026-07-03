@@ -1,0 +1,93 @@
+{
+    "root_info": {
+        "roots": "fera (wild) feral, ferocity",
+        "origin": "Latin, ferus (wild)",
+        "meaning": {
+            "ko": "야생의",
+            "en": "wild",
+            "ja": "野生の",
+            "zh": "野生的",
+            "fr": "sauvage"
+        }
+    },
+    "words": [
+        {
+            "word": "feral",
+            "part_of_speech": "",
+            "origin": "Latin, feralis (of the dead, funereal), influenced by ferus (wild)",
+            "meaning": {
+                "ko": "야생의",
+                "en": "wild or untamed",
+                "ja": "野生の",
+                "zh": "野生的",
+                "fr": "sauvage"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fer-",
+                    "meaning": {
+                        "ko": "'야생의'",
+                        "en": "wild",
+                        "ja": "野生の",
+                        "zh": "野生的",
+                        "fr": "sauvage"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "원래 가축이었으나 '야생으로 돌아간' 동물을 가리킵니다.",
+                "en": "Refers to animals that were originally domesticated but have returned to the wild.",
+                "ja": "もともと家畜だったが野生に戻った動物を指します",
+                "zh": "指原本是家畜但已回归野生的动物",
+                "fr": "Désigne les animaux autrefois domestiqués retournés à l'état sauvage"
+            },
+            "example": "Feral cats can be a problem in urban areas.",
+            "translation": {
+                "ko": "야생화된 고양이는 도시 지역에서 문제가 될 수 있다.",
+                "ja": "野生化した猫は都市部で問題になる可能性があります",
+                "zh": "野生化的猫在城市地区可能成为问题",
+                "fr": "Les chats retournés à l'état sauvage peuvent être un problème dans les zones urbaines"
+            }
+        },
+        {
+            "word": "ferocity",
+            "part_of_speech": "",
+            "origin": "Latin, ferocitas (fierceness)",
+            "meaning": {
+                "ko": "흉포함",
+                "en": "ferocity or savageness",
+                "ja": "凶暴性、激しさ",
+                "zh": "凶悍、猛烈",
+                "fr": "férocité, sauvagerie"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "fero- (ferus)",
+                    "meaning": {
+                        "ko": "'야생의, 사나운'",
+                        "en": "wild, fierce",
+                        "ja": "野生的な、激しい",
+                        "zh": "野生的、凶猛的",
+                        "fr": "sauvage, féroce"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'야생 짐승처럼 사나운 상태'를 의미하여 '흉포함', '맹렬함'을 뜻합니다.",
+                "en": "Means a state of being fierce like a wild beast, indicating ferocity or intensity",
+                "ja": "野生動物のように激しい状態を意味し、凶暴性や激しさを示す",
+                "zh": "表示像野生动物一样凶猛的状态，意为凶悍、猛烈",
+                "fr": "Signifie un état féroce comme une bête sauvage, indiquant la férocité ou l'intensité"
+            },
+            "example": "The ferocity of the storm was frightening.",
+            "translation": {
+                "ko": "폭풍의 맹렬함은 무서웠다.",
+                "ja": "その嵐の凶暴性は恐ろしかった。",
+                "zh": "风暴的猛烈令人害怕。",
+                "fr": "La férocité de la tempête était effrayante."
+            }
+        }
+    ]
+}

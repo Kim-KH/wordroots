@@ -1,0 +1,143 @@
+{
+    "root_info": {
+        "roots": "materi (matter) material, materialism, immaterial",
+        "origin": "Latin, materia (matter, substance)",
+        "meaning": {
+            "ko": "물질",
+            "en": "matter",
+            "ja": "物質",
+            "zh": "物质",
+            "fr": "matière"
+        }
+    },
+    "words": [
+        {
+            "word": "material",
+            "part_of_speech": "",
+            "origin": "Latin, materialis (of matter)",
+            "meaning": {
+                "ko": "물질의",
+                "en": "of material",
+                "ja": "物質、材料",
+                "zh": "物质、材料",
+                "fr": "matière, matériau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "materi-",
+                    "meaning": {
+                        "ko": "'물질'",
+                        "en": "matter",
+                        "ja": "物質",
+                        "zh": "物质",
+                        "fr": "matière"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'어떤 것을 만드는 데 쓰이는 물질'인 '재료', '소재' 또는 '물질적인'이라는 뜻입니다.",
+                "en": "Means 'material' or 'substance' used to make something, or 'physical/material' in nature.",
+                "ja": "何かを作るのに使われる物質である'材料'や'素材'、または'物質的な'という意味です。",
+                "zh": "指用来制造某物的物质，即'材料''素材'，或表示'物质性的'含义。",
+                "fr": "Signifie 'matériau' ou 'substance' utilisé pour fabriquer quelque chose, ou 'physique/matériel' par nature."
+            },
+            "example": "What material is this shirt made of?",
+            "translation": {
+                "ko": "이 셔츠는 무슨 재료로 만들어졌나요?",
+                "ja": "このシャツは何の素材でできていますか？",
+                "zh": "这件衬衫是什么材料做的？",
+                "fr": "De quel matériau est faite cette chemise?"
+            }
+        },
+        {
+            "word": "materialism",
+            "part_of_speech": "",
+            "origin": "Latin, materialis (of matter)",
+            "meaning": {
+                "ko": "물질의",
+                "en": "of matter or material",
+                "ja": "物質主義",
+                "zh": "物质主义",
+                "fr": "matérialisme"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "material-",
+                    "meaning": {
+                        "ko": "'물질적인'",
+                        "en": "of or relating to matter",
+                        "ja": "物質的な",
+                        "zh": "物质的",
+                        "fr": "matériel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'정신적인 것보다 물질적인 것을 더 중요하게 여기는 태도'인 '물질주의'를 뜻합니다.",
+                "en": "An attitude that values material things more than spiritual things",
+                "ja": "精神的なことより物質的なことを重視する態度",
+                "zh": "比精神的东西更重视物质的态度",
+                "fr": "Attitude valorisant les biens matériels plutôt que spirituels"
+            },
+            "example": "He criticized the materialism of modern society.",
+            "translation": {
+                "ko": "그는 현대 사회의 물질주의를 비판했다.",
+                "ja": "彼は現代社会の物質主義を批判した。",
+                "zh": "他批评了现代社会的物质主义。",
+                "fr": "Il a critiqué le matérialisme de la société moderne."
+            }
+        },
+        {
+            "word": "immaterial",
+            "part_of_speech": "",
+            "origin": "Latin, im- (not) + materialis (of matter)",
+            "meaning": {
+                "ko": "물질이 아닌",
+                "en": "not material or physical",
+                "ja": "物質的でない",
+                "zh": "非物质的",
+                "fr": "immatériel"
+            },
+            "analysis": [
+                {
+                    "type": "접두사 (Prefix)",
+                    "morpheme": "im-",
+                    "meaning": {
+                        "ko": "'~이 아닌'",
+                        "en": "not",
+                        "ja": "ではない",
+                        "zh": "不是",
+                        "fr": "ne pas"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "material",
+                    "meaning": {
+                        "ko": "'물질적인, 중요한'",
+                        "en": "material, important",
+                        "ja": "物質的な",
+                        "zh": "物质的",
+                        "fr": "matériel"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'물질적이지 않은' 또는 '중요하지 않은'이라는 뜻입니다.",
+                "en": "Means either non-physical or unimportant",
+                "ja": "物質的でないまたは重要でない意味",
+                "zh": "表示非物质性或不重要",
+                "fr": "Signifie non-physique ou sans importance"
+            },
+            "example": "Whether he comes or not is immaterial to me.",
+            "translation": {
+                "ko": "그가 오든 안 오든 나에게는 중요하지 않다.",
+                "ja": "彼が来るかどうかは私には重要ではありません",
+                "zh": "他是否来对我来说无关紧要",
+                "fr": "Qu'il vienne ou non m'est indifférent"
+            }
+        }
+    ]
+}

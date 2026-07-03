@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "seism (shake) seismic, seismograph, seismology",
+        "origin": "Greek, seismos (an earthquake)",
+        "meaning": {
+            "ko": "지진",
+            "en": "an earthquake",
+            "ja": "地震",
+            "zh": "地震",
+            "fr": "un tremblement de terre"
+        }
+    },
+    "words": [
+        {
+            "word": "seismic",
+            "part_of_speech": "",
+            "origin": "Greek, seismos (earthquake)",
+            "meaning": {
+                "ko": "지진",
+                "en": "earthquake",
+                "ja": "地震の",
+                "zh": "地震的",
+                "fr": "sismique"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "seism-",
+                    "meaning": {
+                        "ko": "'지진'",
+                        "en": "earthquake",
+                        "ja": "地震",
+                        "zh": "地震",
+                        "fr": "tremblement de terre"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지진의' 또는 '지진에 의한'이라는 뜻입니다.",
+                "en": "Means 'of earthquake' or 'caused by earthquake'",
+                "ja": "地震に関連する、または地震によって引き起こされるという意味です",
+                "zh": "与地震有关，或由地震引起",
+                "fr": "Signifie 'relatif au tremblement de terre' ou 'causé par tremblement de terre'"
+            },
+            "example": "Seismic waves travel through the Earth.",
+            "translation": {
+                "ko": "지진파는 지구를 통과하여 이동한다.",
+                "ja": "地震波は地球を通じて伝わります。",
+                "zh": "地震波通过地球传播。",
+                "fr": "Les ondes sismiques se propagent à travers la Terre."
+            }
+        },
+        {
+            "word": "seismograph",
+            "part_of_speech": "",
+            "origin": "Greek, seismos (earthquake) + graphein (to write)",
+            "meaning": {
+                "ko": "지진을 기록하는 것",
+                "en": "instrument that records earthquakes",
+                "ja": "地震を記録する装置",
+                "zh": "记录地震的仪器",
+                "fr": "appareil d'enregistrement des tremblements de terre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "seismo-",
+                    "meaning": {
+                        "ko": "'지진'",
+                        "en": "earthquake",
+                        "ja": "地震",
+                        "zh": "地震",
+                        "fr": "tremblement de terre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "graph",
+                    "meaning": {
+                        "ko": "'기록 장치'",
+                        "en": "recording device",
+                        "ja": "記録装置",
+                        "zh": "记录装置",
+                        "fr": "appareil d'enregistrement"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지진의 진동을 기록하는 장치'인 '지진계'를 뜻합니다.",
+                "en": "A seismograph is an instrument that detects and records the vibrations of earthquakes",
+                "ja": "地震の振動を検出して記録する装置です",
+                "zh": "检测并记录地震振动的仪器",
+                "fr": "Appareil qui détecte et enregistre les vibrations des tremblements de terre"
+            },
+            "example": "A seismograph is used to detect and record earthquakes.",
+            "translation": {
+                "ko": "지진계는 지진을 감지하고 기록하는 데 사용된다.",
+                "ja": "地震計",
+                "zh": "地震仪",
+                "fr": "sismographe"
+            }
+        },
+        {
+            "word": "seismology",
+            "part_of_speech": "",
+            "origin": "Greek, seismos (earthquake) + logos (study)",
+            "meaning": {
+                "ko": "지진 연구",
+                "en": "study of earthquakes",
+                "ja": "地震研究",
+                "zh": "地震研究",
+                "fr": "étude des tremblements de terre"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "seismo-",
+                    "meaning": {
+                        "ko": "'지진'",
+                        "en": "earthquake",
+                        "ja": "地震",
+                        "zh": "地震",
+                        "fr": "tremblement de terre"
+                    }
+                },
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "logy",
+                    "meaning": {
+                        "ko": "'학문'",
+                        "en": "study or science",
+                        "ja": "学問",
+                        "zh": "学问",
+                        "fr": "discipline scientifique"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'지진을 연구하는 학문'인 '지진학'을 뜻합니다.",
+                "en": "Seismology refers to 'seismology' which is the science of studying earthquakes",
+                "ja": "地震を研究する学問である地震学を意味します",
+                "zh": "指研究地震的学问地震学",
+                "fr": "Désigne la sismologie, la science d'étudier les tremblements de terre"
+            },
+            "example": "Seismology is the study of earthquakes.",
+            "translation": {
+                "ko": "지진학은 지진을 연구하는 학문이다.",
+                "ja": "地震学は地震の研究です",
+                "zh": "地震学是对地震的研究",
+                "fr": "La sismologie est l'étude des tremblements de terre"
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root_info": {
+        "roots": "cereb (brain) cerebellum, cerebral, cerebrum",
+        "origin": "Latin, cerebrum (brain)",
+        "meaning": {
+            "ko": "뇌",
+            "en": "brain",
+            "ja": "脳",
+            "zh": "脑",
+            "fr": "cerveau"
+        }
+    },
+    "words": [
+        {
+            "word": "cerebellum",
+            "part_of_speech": "",
+            "origin": "Latin, cerebellum (little brain)",
+            "meaning": {
+                "ko": "작은 뇌",
+                "en": "small brain",
+                "ja": "小さい脳",
+                "zh": "小脑",
+                "fr": "petit cerveau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cereb (cerebrum)",
+                    "meaning": {
+                        "ko": "'뇌'",
+                        "en": "brain",
+                        "ja": "脳",
+                        "zh": "脑",
+                        "fr": "cerveau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-ellum",
+                    "meaning": {
+                        "ko": "'작은 것'",
+                        "en": "diminutive",
+                        "ja": "小さいもの",
+                        "zh": "小的东西",
+                        "fr": "diminutif"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'작은(ellum) 뇌(cereb)'라는 의미로, 대뇌 뒤쪽에 위치하여 운동 조절을 담당하는 '소뇌'를 가리키는 해부학 용어입니다.",
+                "en": "An anatomical term referring to the 'small brain' (cerebellum), located behind the cerebrum and responsible for motor control. The name derives from 'cereb' (brain) and 'ellum' (diminutive).",
+                "ja": "'小さい(ellum) 脳(cereb)'という意味で、大脳の後ろに位置し、運動制御を担当する'小脳'を指す解剖学用語です。",
+                "zh": "'小(ellum) 脑(cereb)'的含义，位于大脑后方，负责运动控制的'小脑'解剖学术语。",
+                "fr": "Terme anatomique signifiant 'petit cerveau' (cereb + ellum), situé à l'arrière du cerveau et responsable du contrôle moteur."
+            },
+            "example": "The cerebellum is responsible for coordinating movement and balance.",
+            "translation": {
+                "ko": "소뇌는 움직임과 균형을 조절하는 역할을 한다.",
+                "ja": "小脳は運動と平衡の協調を担当しています。",
+                "zh": "小脑负责协调运动和平衡。",
+                "fr": "Le cervelet est responsable de la coordination des mouvements et de l'équilibre."
+            }
+        },
+        {
+            "word": "cerebral",
+            "part_of_speech": "",
+            "origin": "Latin, cerebralis (of the brain)",
+            "meaning": {
+                "ko": "뇌의",
+                "en": "of the brain",
+                "ja": "脳の、知的な",
+                "zh": "大脑的、智力的",
+                "fr": "cérébral, intellectuel"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cerebr (cerebrum)",
+                    "meaning": {
+                        "ko": "'뇌'",
+                        "en": "brain",
+                        "ja": "脳",
+                        "zh": "大脑",
+                        "fr": "cerveau"
+                    }
+                },
+                {
+                    "type": "접미사 (Suffix)",
+                    "morpheme": "-al",
+                    "meaning": {
+                        "ko": "'~의'",
+                        "en": "of or relating to",
+                        "ja": "〜の",
+                        "zh": "〜的",
+                        "fr": "~de, ~du"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "'뇌(cerebr)의'라는 의미를 가지며, 비유적으로 감성적이기보다 '지적인', '대뇌의' 활동과 관련된 것을 뜻합니다.",
+                "en": "Means 'of the brain', and figuratively refers to intellectual or cerebral activity rather than emotional",
+                "ja": "脳に関する意味で、比喩的には感情的というより知的で大脳の活動に関連することを意味します",
+                "zh": "意为与大脑相关，比喻上指的是智力活动而非情感活动",
+                "fr": "Signifie 'du cerveau' et figurativement se réfère à l'activité intellectuelle plutôt qu'émotionnelle"
+            },
+            "example": "Chess is a very cerebral game.",
+            "translation": {
+                "ko": "체스는 매우 지적인 게임이다.",
+                "ja": "チェスは非常に知的なゲームです",
+                "zh": "国际象棋是一个非常需要动脑的游戏",
+                "fr": "Les échecs sont un jeu très cérébral"
+            }
+        },
+        {
+            "word": "cerebrum",
+            "part_of_speech": "",
+            "origin": "Latin, cerebrum (brain)",
+            "meaning": {
+                "ko": "뇌",
+                "en": "brain",
+                "ja": "大脳",
+                "zh": "大脑",
+                "fr": "cerveau"
+            },
+            "analysis": [
+                {
+                    "type": "어근 (Root)",
+                    "morpheme": "cerebrum (cerebrum)",
+                    "meaning": {
+                        "ko": "'뇌'",
+                        "en": "brain",
+                        "ja": "脳",
+                        "zh": "脑",
+                        "fr": "cerveau"
+                    }
+                }
+            ],
+            "note": {
+                "ko": "라틴어 단어 그대로, 사고, 언어 등 고등 정신 기능을 담당하는 뇌의 가장 큰 부분인 '대뇌'를 의미합니다.",
+                "en": "A Latin word meaning the largest part of the brain responsible for higher mental functions such as thought and language.",
+                "ja": "ラテン語のままで、思考や言語などの高等精神機能を担当する脳の最も大きな部分である「大脳」を意味します。",
+                "zh": "拉丁语词汇原文，指负责思考、语言等高级精神功能的大脑最大部分「大脑」。",
+                "fr": "Un mot latin désignant la plus grande partie du cerveau responsable des fonctions mentales supérieures comme la pensée et le langage."
+            },
+            "example": "The cerebrum is the largest part of the human brain.",
+            "translation": {
+                "ko": "대뇌는 인간의 뇌에서 가장 큰 부분이다.",
+                "ja": "大脳は人間の脳の最も大きな部分です。",
+                "zh": "大脑是人脑中最大的部分。",
+                "fr": "Le cerveau est la plus grande partie du cerveau humain."
+            }
+        }
+    ]
+}
