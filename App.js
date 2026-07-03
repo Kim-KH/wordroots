@@ -6,6 +6,8 @@ import etymologyData from './src/data/etymologyData.json';
 import TopBar from './src/components/TopBar';
 import Sidebar from './src/components/Sidebar';
 import EtymologyView from './src/components/EtymologyView';
+import PaywallModal from './src/components/PaywallModal';
+import { usePurchase } from './src/hooks/usePurchase';
 
 const LANG_FILES = {
   ko: require('./src/lang/ko.json'),
@@ -31,6 +33,9 @@ export default function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [currentFolderPath, setCurrentFolderPath] = useState(null);
   const [currentWords, setCurrentWords] = useState(null);
+  const [paywallVisible, setPaywallVisible] = useState(false);
+
+  const { isPurchased, loading: purchaseLoading, purchase, restore, devUnlock } = usePurchase();
 
   const t = useCallback((key) => translations[key] || key, [translations]);
 
@@ -85,6 +90,8 @@ export default function App() {
 
   const toggleSidebar = useCallback(() => setSidebarOpen((v) => !v), []);
   const closeSidebar = useCallback(() => setSidebarOpen(false), []);
+  const openPaywall = useCallback(() => setPaywallVisible(true), []);
+  const closePaywall = useCallback(() => setPaywallVisible(false), []);
 
   const selectFolder = useCallback((folderPath, dataPath) => {
     if (!folderPath || !dataPath) return;
@@ -102,6 +109,8 @@ export default function App() {
         supportedLanguages={SUPPORTED_LANGUAGES}
         onToggleSidebar={toggleSidebar}
         onChangeLang={applyLang}
+        onSecretUnlock={devUnlock}
+        isPurchased={isPurchased}
       />
       <View style={styles.content}>
         <EtymologyView
@@ -119,6 +128,17 @@ export default function App() {
           selectedPath={currentFolderPath}
           onSelect={selectFolder}
           onClose={closeSidebar}
+          isPurchased={isPurchased}
+          onLockedPress={openPaywall}
+        />
+
+        <PaywallModal
+          visible={paywallVisible}
+          onClose={closePaywall}
+          onPurchase={purchase}
+          onRestore={restore}
+          loading={purchaseLoading}
+          t={t}
         />
       </View>
     </SafeAreaView>

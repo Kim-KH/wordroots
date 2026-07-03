@@ -1,4 +1,4 @@
-import React, { useState, memo } from 'react';
+import React, { useState, useRef, memo } from 'react';
 import {
   View,
   Text,
@@ -6,10 +6,39 @@ import {
   StyleSheet,
   Modal,
   Platform,
+  ToastAndroid,
 } from 'react-native';
 
-const TopBar = memo(function TopBar({ t, lang, supportedLanguages, onToggleSidebar, onChangeLang }) {
+const SECRET_TAPS = 7;
+const TAP_WINDOW_MS = 3000;
+
+const TopBar = memo(function TopBar({ t, lang, supportedLanguages, onToggleSidebar, onChangeLang, onSecretUnlock, isPurchased }) {
   const [langMenuVisible, setLangMenuVisible] = useState(false);
+  const tapCountRef = useRef(0);
+  const tapTimerRef = useRef(null);
+
+  const handleTitlePress = () => {
+    if (isPurchased) return;
+
+    tapCountRef.current += 1;
+
+    if (tapTimerRef.current) clearTimeout(tapTimerRef.current);
+    tapTimerRef.current = setTimeout(() => {
+      tapCountRef.current = 0;
+    }, TAP_WINDOW_MS);
+
+    const remaining = SECRET_TAPS - tapCountRef.current;
+    if (remaining > 0 && remaining <= 3) {
+      ToastAndroid.show(`${remaining}번 더 탭하면 잠금해제됩니다.`, ToastAndroid.SHORT);
+    }
+
+    if (tapCountRef.current >= SECRET_TAPS) {
+      clearTimeout(tapTimerRef.current);
+      tapCountRef.current = 0;
+      onSecretUnlock?.();
+      ToastAndroid.show('개발자 모드: 전체 콘텐츠 잠금해제됨', ToastAndroid.LONG);
+    }
+  };
 
   return (
     <View style={styles.bar}>
@@ -17,9 +46,11 @@ const TopBar = memo(function TopBar({ t, lang, supportedLanguages, onToggleSideb
         <Text style={styles.hamburger}>☰</Text>
       </TouchableOpacity>
 
-      <Text style={styles.title} numberOfLines={1}>
-        {t('appName')}
-      </Text>
+      <TouchableOpacity style={styles.titleBtn} onPress={handleTitlePress} activeOpacity={1}>
+        <Text style={styles.title} numberOfLines={1}>
+          {t('appName')}
+        </Text>
+      </TouchableOpacity>
 
       <TouchableOpacity style={styles.langBtn} onPress={() => setLangMenuVisible(true)}>
         <Text style={styles.langBtnText}>{t('menuLang')}</Text>
@@ -76,13 +107,16 @@ const styles = StyleSheet.create({
   iconBtn: { padding: 4 },
   hamburger: { fontSize: 24, color: '#6c757d', lineHeight: 28 },
   langChevron: { fontSize: 12, color: '#495057', marginLeft: 3 },
-  title: {
+  titleBtn: {
     flex: 1,
+    alignItems: 'center',
+    marginHorizontal: 8,
+  },
+  title: {
     textAlign: 'center',
     fontSize: 17,
     fontWeight: '600',
     color: '#212529',
-    marginHorizontal: 8,
   },
   langBtn: {
     flexDirection: 'row',

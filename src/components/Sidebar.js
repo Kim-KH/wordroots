@@ -20,7 +20,9 @@ const CATEGORY_THEMES = [
   { id: 'suffixes', primary: '#a35ab3', bg: '#f9eefb' }, // 퍼플 계열
 ];
 
-const Sidebar = memo(function Sidebar({ folders, t, lang, isOpen, selectedPath, onSelect, onClose }) {
+const FREE_SUB = 'A';
+
+const Sidebar = memo(function Sidebar({ folders, t, lang, isOpen, selectedPath, onSelect, onClose, isPurchased, onLockedPress }) {
   const translateX = useRef(new Animated.Value(-SIDEBAR_WIDTH)).current;
   const overlayOpacity = useRef(new Animated.Value(0)).current;
   
@@ -74,24 +76,30 @@ const Sidebar = memo(function Sidebar({ folders, t, lang, isOpen, selectedPath, 
     );
   }, [activeSubCategory, getFolderLabel, lang]);
 
+  const isSubLocked = useCallback((sub) => {
+    return !isPurchased && sub.subCategoryName !== FREE_SUB;
+  }, [isPurchased]);
+
   const renderFolderItem = useCallback(({ item, index }) => {
     const selected = selectedPath === item.path;
+    const locked = !isPurchased && activeSubCategory?.subCategoryName !== FREE_SUB;
     return (
       <TouchableOpacity
         style={[
-          styles.folderItem, 
-          index === 0 && styles.folderItemFirst, 
-          selected && { backgroundColor: currentTheme.primary }
+          styles.folderItem,
+          index === 0 && styles.folderItemFirst,
+          selected && { backgroundColor: currentTheme.primary },
+          locked && styles.folderItemLocked,
         ]}
-        onPress={() => onSelect(item.path, item.dataPath)}
+        onPress={() => locked ? onLockedPress?.() : onSelect(item.path, item.dataPath)}
         activeOpacity={0.7}
       >
-        <Text style={[styles.folderName, selected && styles.folderNameSelected]} numberOfLines={2}>
-          {getFolderLabel(item)}
+        <Text style={[styles.folderName, selected && styles.folderNameSelected, locked && styles.folderNameLocked]} numberOfLines={2}>
+          {locked ? '🔒 ' : ''}{getFolderLabel(item)}
         </Text>
       </TouchableOpacity>
     );
-  }, [t, selectedPath, onSelect, currentTheme]);
+  }, [t, selectedPath, onSelect, currentTheme, isPurchased, activeSubCategory, onLockedPress]);
 
   const keyExtractor = useCallback((item) => item.path, []);
 
@@ -148,18 +156,20 @@ const Sidebar = memo(function Sidebar({ folders, t, lang, isOpen, selectedPath, 
             <View style={styles.gridContainer}>
               {activeCategory?.subCategories?.map((sub, idx) => {
                 const isActive = selectedSubIdx === idx;
+                const locked = isSubLocked(sub);
                 return (
                   <TouchableOpacity
                     key={idx}
                     style={[
                       styles.gridItem,
                       { borderColor: currentTheme.primary + '33' },
-                      isActive && { backgroundColor: currentTheme.primary, borderColor: currentTheme.primary }
+                      isActive && { backgroundColor: currentTheme.primary, borderColor: currentTheme.primary },
+                      locked && styles.gridItemLocked,
                     ]}
-                    onPress={() => setSelectedSubIdx(idx)}
+                    onPress={() => locked ? onLockedPress?.() : setSelectedSubIdx(idx)}
                   >
-                    <Text style={[styles.gridText, isActive && styles.gridTextActive]}>
-                      {sub.subCategoryName}
+                    <Text style={[styles.gridText, isActive && styles.gridTextActive, locked && styles.gridTextLocked]}>
+                      {locked ? '🔒' : sub.subCategoryName}
                     </Text>
                   </TouchableOpacity>
                 );
@@ -297,4 +307,8 @@ const styles = StyleSheet.create({
   },
   folderName: { fontSize: 13, color: '#495057' },
   folderNameSelected: { color: '#fffefb', fontWeight: '600' },
+  folderItemLocked: { backgroundColor: '#f8f9fa' },
+  folderNameLocked: { color: '#ced4da' },
+  gridItemLocked: { backgroundColor: '#f8f9fa', borderColor: '#dee2e6' },
+  gridTextLocked: { color: '#ced4da', fontSize: 12 },
 });
