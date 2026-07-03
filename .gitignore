@@ -12,6 +12,7 @@ android/app/build/
 android/local.properties
 *.keystore
 !android/app/debug.keystore
+android/app/keystore.properties
 
 # iOS
 ios/Pods/
