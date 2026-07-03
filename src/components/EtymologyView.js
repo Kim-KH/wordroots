@@ -1,6 +1,7 @@
 import React, { useRef, useCallback, memo, useMemo } from 'react';
 import { View, Text, FlatList, StyleSheet, Dimensions, Platform } from 'react-native';
 import WordCard from './WordCard';
+import NoteCard from './NoteCard';
 
 // Extract helpers for legacy root_info.meaning format: "English (한국어)"
 function extractKoreanRoot(text) {
@@ -47,7 +48,7 @@ const Header = memo(function Header({ root_info, lang, t }) {
   );
 });
 
-function EtymologyView({ data, lang, t }) {
+function EtymologyView({ data, lang, t, folderPath }) {
   const flatListRef = useRef(null);
   const currentScrollY = useRef(0);
 
@@ -101,7 +102,12 @@ function EtymologyView({ data, lang, t }) {
       renderItem={renderItem}
       keyExtractor={keyExtractor}
       ListHeaderComponent={<Header root_info={root_info} lang={lang} t={t} />}
-      ListFooterComponent={<View style={{ height: 40 }} />}
+      ListFooterComponent={
+        <View>
+          <NoteCard folderPath={folderPath} t={t} />
+          <View style={{ height: 30 }} />
+        </View>
+      }
       onScroll={onScroll}
       scrollEventThrottle={16}
       initialNumToRender={10}

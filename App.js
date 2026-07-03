@@ -108,6 +108,7 @@ export default function App() {
           data={currentWords}
           lang={lang}
           t={t}
+          folderPath={currentFolderPath}
         />
 
         <Sidebar
