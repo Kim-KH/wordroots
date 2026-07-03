@@ -53,7 +53,7 @@ const TopBar = memo(function TopBar({ t, lang, supportedLanguages, onToggleSideb
       </TouchableOpacity>
 
       <TouchableOpacity style={styles.langBtn} onPress={() => setLangMenuVisible(true)}>
-        <Text style={styles.langBtnText}>{t('menuLang')}</Text>
+        <Text style={styles.langBtnText}>Language</Text>
         <Text style={styles.langChevron}>▾</Text>
       </TouchableOpacity>
 

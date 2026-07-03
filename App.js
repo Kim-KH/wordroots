@@ -18,11 +18,11 @@ const LANG_FILES = {
 };
 
 const SUPPORTED_LANGUAGES = {
-  ko: '한국어',
+  ko: 'Korean',
   en: 'English',
-  ja: '日本語',
-  zh: '中文',
-  fr: 'Français',
+  ja: 'Japanese',
+  zh: 'Chinese',
+  fr: 'French',
 };
 
 const LANG_KEY = 'etymologyAppLanguage';
