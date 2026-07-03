@@ -21,7 +21,7 @@ extensions.configure(com.facebook.react.ReactSettingsExtension) { ex ->
   }
 }
 
-rootProject.name = '어원 분석 단어장'
+rootProject.name = 'Word Roots'
 
 dependencyResolutionManagement {
   versionCatalogs {

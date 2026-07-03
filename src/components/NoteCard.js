@@ -107,11 +107,13 @@ export default NoteCard;
 
 const styles = StyleSheet.create({
   card: {
-    backgroundColor: '#fffef8',
+    backgroundColor: '#fffcf0',
     borderRadius: 8,
     marginBottom: 10,
     borderWidth: 1,
-    borderColor: '#e9ecef',
+    borderColor: '#f0e0a0',
+    borderLeftWidth: 4,
+    borderLeftColor: '#e8a020',
     overflow: 'hidden',
   },
   header: {
@@ -130,28 +132,29 @@ const styles = StyleSheet.create({
   pencil: {
     fontSize: 15,
     marginRight: 10,
-    color: '#adb5bd',
+    color: '#e8a020',
   },
   labelWrap: { flex: 1 },
   title: {
     fontSize: 14,
     fontWeight: '600',
-    color: '#6c757d',
+    color: '#b07800',
   },
   preview: {
     fontSize: 12,
-    color: '#adb5bd',
+    color: '#c8a050',
     marginTop: 2,
   },
   chevron: {
     fontSize: 22,
-    color: '#adb5bd',
+    color: '#e8a020',
     lineHeight: 24,
   },
   body: {
     borderTopWidth: 1,
-    borderTopColor: '#e9ecef',
+    borderTopColor: '#f0e0a0',
     padding: 14,
+    backgroundColor: '#fffef8',
   },
   input: {
     fontSize: 14,
@@ -162,7 +165,7 @@ const styles = StyleSheet.create({
   },
   savedLabel: {
     fontSize: 11,
-    color: '#ced4da',
+    color: '#c8a050',
     textAlign: 'right',
     marginTop: 8,
   },

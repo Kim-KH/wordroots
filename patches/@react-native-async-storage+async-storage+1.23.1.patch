@@ -9,3 +9,16 @@ diff --git a/node_modules/@react-native-async-storage/async-storage/android/buil
  buildscript {
      apply from: "config.gradle"
      def kotlinVersion = ext.AsyncStorageConfig.kotlinVersion
+@@ -20,6 +16,12 @@
+
+ apply plugin: 'com.android.library'
+ apply from: 'config.gradle'
++
++afterEvaluate {
++    if (configurations.findByName('default') == null) {
++        configurations { create('default') }
++    }
++}
+
+ boolean isNewArchitectureEnabled = ext.AsyncStorageConfig.isNewArchitectureEnabled
+ boolean useNextStorage = ext.AsyncStorageConfig.useNextStorage

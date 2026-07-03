@@ -28,3 +28,6 @@ yarn-error.*
 # env
 .env
 .env.local
+
+# Claude Code
+.claude/
