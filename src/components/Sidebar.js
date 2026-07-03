@@ -61,13 +61,18 @@ const Sidebar = memo(function Sidebar({ folders, t, lang, isOpen, selectedPath, 
   const currentTheme = CATEGORY_THEMES[activeCategoryIdx % CATEGORY_THEMES.length];
   const activeSubCategory = activeCategory?.subCategories?.[selectedSubIdx];
 
+  const getFolderLabel = useCallback((item) => {
+    const translated = t(item.nameKey);
+    return translated !== item.nameKey ? translated : item.name;
+  }, [t]);
+
   // 폴더 리스트 정렬
   const sortedFolders = useMemo(() => {
     if (!activeSubCategory?.folders) return [];
     return [...activeSubCategory.folders].sort((a, b) =>
-      (t(a.nameKey) || a.name).localeCompare(t(b.nameKey) || b.name, lang)
+      getFolderLabel(a).localeCompare(getFolderLabel(b), lang)
     );
-  }, [activeSubCategory, t, lang]);
+  }, [activeSubCategory, getFolderLabel, lang]);
 
   const renderFolderItem = useCallback(({ item, index }) => {
     const selected = selectedPath === item.path;
@@ -82,7 +87,7 @@ const Sidebar = memo(function Sidebar({ folders, t, lang, isOpen, selectedPath, 
         activeOpacity={0.7}
       >
         <Text style={[styles.folderName, selected && styles.folderNameSelected]} numberOfLines={2}>
-          {t(item.nameKey) || item.name}
+          {getFolderLabel(item)}
         </Text>
       </TouchableOpacity>
     );
