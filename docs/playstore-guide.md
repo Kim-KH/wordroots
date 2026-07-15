@@ -15,28 +15,28 @@
 
 ---
 
-## 빌드 명령어
+## 빌드 명령어 (EAS Build)
 
-### 릴리즈 APK (기기 직접 설치용)
-```
-cd android
-.\gradlew assembleRelease
-```
-결과물: `android/app/build/outputs/apk/release/app-release.apk`
+> 키스토어는 EAS가 관리합니다. 로컬 keystore 불필요.
 
-### 릴리즈 AAB (Play Store 업로드용)
+### APK (기기 직접 설치 테스트용)
 ```
-cd android
-.\gradlew bundleRelease
+eas build --platform android --profile preview
 ```
-결과물: `android/app/build/outputs/bundle/release/app-release.aab`
+
+### AAB (Play Store 업로드용)
+```
+eas build --platform android --profile production
+```
+
+빌드 완료 후 EAS 대시보드 또는 터미널 링크에서 AAB 다운로드.
 
 ### 기기 설치
 ```
-adb install -r android\app\build\outputs\apk\release\app-release.apk
+adb install -r <다운로드한 apk 경로>
 ```
 
-> **주의**: 새 버전 업로드 시 `android/app/build.gradle`의 `versionCode`를 1씩 증가시켜야 합니다.
+> **주의**: 새 버전 업로드 시 `app.json`의 `expo.android.versionCode`를 1씩 증가시켜야 합니다.
 
 ---
 
@@ -337,8 +337,8 @@ https://kim-kh.github.io/wordroots/privacy-policy.html
 ## 버전 업데이트 체크리스트
 
 새 버전 출시 시:
-1. `android/app/build.gradle` → `versionCode` +1, `versionName` 수정
-2. `.\gradlew bundleRelease`
+1. `app.json` → `expo.android.versionCode` +1, `expo.version` 수정
+2. `eas build --platform android --profile production`
 3. Play Console → 프로덕션 → 새 버전 만들기 → AAB 업로드
 
 ---
@@ -347,9 +347,8 @@ https://kim-kh.github.io/wordroots/privacy-policy.html
 
 | 파일 | 설명 |
 |---|---|
-| `android/app/build.gradle` | 서명 설정, versionCode |
-| `android/app/keystore.properties` | 키스토어 비밀번호 (git 제외) |
-| `android/app/release.keystore` | 릴리즈 키스토어 (git 제외, 절대 분실 금지) |
+| `app.json` | versionCode, versionName 관리 |
+| `eas.json` | EAS 빌드 프로파일 설정 |
 | `assets/icon-512.png` | Play Store 아이콘 |
 | `assets/feature-graphic-1024x500.png` | 피처드 이미지 |
 | `assets/screenshot1~5.png` | 스크린샷 |
